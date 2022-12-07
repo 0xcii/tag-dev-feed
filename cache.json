@@ -1,10 +1,464 @@
 {
   "sources": [
     {
-      "title": "Dao Tools RSS",
-      "feedUrl": "https://web3cave.github.io/flat-data-template/data.xml",
-      "siteUrl": "https://web3cave.github.io/flat-data-template/data.xml",
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
       "articles": []
+    },
+    {
+      "title": "cryptomaton",
+      "feedUrl": "https://www.cryptomaton.org/feed/",
+      "siteUrl": "https://www.cryptomaton.org",
+      "articles": []
+    },
+    {
+      "title": "CoinsBench - Medium",
+      "feedUrl": "https://coinsbench.com/feed",
+      "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
+      "articles": [
+        {
+          "id": "https://medium.com/p/dcd111799b70",
+          "author": "Penuel",
+          "description": "Over the years, we’ve had gamers who play games just for fun and for free. Advancement in technology has revolutionized the gaming industry…",
+          "link": "https://coinsbench.com/gaming-in-web-3-on-coinex-smart-chain-dcd111799b70?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-07T14:25:21.000Z",
+          "wordCount": 3394,
+          "title": "Gaming in Web 3 on Coinex Smart Chain",
+          "imageUrl": "https://miro.medium.com/max/1200/1*IvxFT2z5YnWXt74WVKVG6Q.png"
+        },
+        {
+          "id": "https://medium.com/p/90e6d18f758",
+          "author": "Evangelos Pappas",
+          "description": "Meta transactions, also known as “gasless” transactions, are a way to allow users to interact with a smart contract without having to pay…",
+          "link": "https://coinsbench.com/how-to-get-started-with-gasless-meta-transactions-in-solidity-90e6d18f758?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-07T14:25:07.000Z",
+          "wordCount": 3895,
+          "title": "How to get started with gasless meta transactions in solidity.",
+          "imageUrl": "https://miro.medium.com/max/1200/0*P_JR8E45QSfu3iCV"
+        },
+        {
+          "id": "https://medium.com/p/b561e17b7cce",
+          "author": "Evangelos Pappas",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/how-to-track-all-the-nfts-of-a-wallet-address-in-python-b561e17b7cce?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-07T14:24:41.000Z",
+          "wordCount": 2487,
+          "title": "How to track all the NFTs of a wallet address in python.",
+          "imageUrl": "https://miro.medium.com/max/1200/0*m6NkCgvwkimyNY1c"
+        },
+        {
+          "id": "https://medium.com/p/73298a3f170e",
+          "author": "Yuri Vizitei",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/reputational-ranking-and-consensus-for-decentralized-networks-73298a3f170e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-07T14:24:30.000Z",
+          "wordCount": 4460,
+          "title": "Reputational Ranking and Consensus for Decentralized Networks",
+          "imageUrl": "https://miro.medium.com/max/1200/0*9e3S-fdvCgTFzgQ4"
+        },
+        {
+          "id": "https://medium.com/p/f2d38fe1ebb2",
+          "author": "Hector (@cryptocomix)",
+          "description": "Working as an Ethereum developer is a great decision for anyone looking to build a career in the rapidly growing world of blockchain…",
+          "link": "https://coinsbench.com/why-working-on-ethereum-is-so-lucrative-f2d38fe1ebb2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-07T14:24:23.000Z",
+          "wordCount": 1654,
+          "title": "Why Working on Ethereum is so Lucrative",
+          "imageUrl": "https://miro.medium.com/max/1200/0*nYMzt3nOTBbO3yXj"
+        },
+        {
+          "id": "https://medium.com/p/7299080b1bdf",
+          "author": "Ujjwal Gupta",
+          "description": "ERC20 is a very famous and widely used smart contract standard for fungible tokens. Tokens like USDT, USDC, Matic etc are example of erc20…",
+          "link": "https://coinsbench.com/interacting-with-erc20-token-using-ethcontracts-js-7299080b1bdf?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-07T14:24:15.000Z",
+          "wordCount": 2286,
+          "title": "Interacting with erc20 token using ethcontracts.js",
+          "imageUrl": "https://miro.medium.com/max/1200/0*JyVdiFfTcTFs7Wl6.png"
+        },
+        {
+          "id": "https://medium.com/p/4d9e5c4875b2",
+          "author": "Berat Alptegin Karaca",
+          "description": "What is a Smart Contract?",
+          "link": "https://coinsbench.com/smart-contracts-4d9e5c4875b2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-06T13:06:31.000Z",
+          "wordCount": 4010,
+          "title": "Smart Contracts",
+          "imageUrl": "https://miro.medium.com/max/669/1*p_otqN83hFdf0ziLOGUixg.png"
+        },
+        {
+          "id": "https://medium.com/p/2b0612a3bde5",
+          "author": "George Tzortzakis",
+          "description": "Using our favorite Dex’s and NFT platforms with joy and ease, aren’t we?",
+          "link": "https://coinsbench.com/are-your-smart-contracts-safe-this-one-tool-is-overlooked-2b0612a3bde5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-06T13:06:08.000Z",
+          "wordCount": 3264,
+          "title": "Are your smart-contracts safe? This one tool is overlooked.",
+          "imageUrl": "https://miro.medium.com/max/602/0*DH5O9wkdxQm2LVHM"
+        },
+        {
+          "id": "https://medium.com/p/2dcf5c29b85a",
+          "author": "Godwrath",
+          "description": "Grab your forks, and plates, for today we’re having a powwow.",
+          "link": "https://coinsbench.com/crypto-of-today-ethereumpow-ethw-2dcf5c29b85a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-06T13:05:59.000Z",
+          "wordCount": 1551,
+          "title": "Crypto Of Today: EthereumPOW ( $ETHW )",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4067512e4d18",
+          "author": "ismail",
+          "description": "Hello everyone",
+          "link": "https://coinsbench.com/day-19-learn-ethereum-blockchain-daily-and-keep-the-knowledge-awake-4067512e4d18?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-06T13:05:52.000Z",
+          "wordCount": 2293,
+          "title": "Day 19 — Learn Ethereum Blockchain daily and Keep the Knowledge Awake :)",
+          "imageUrl": "https://miro.medium.com/max/1200/1*qaJeGwWu4HGlUmq8WBJGbQ.png"
+        }
+      ]
+    },
+    {
+      "title": "Coinmonks - Medium",
+      "feedUrl": "https://medium.com/feed/coinmonks",
+      "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
+      "articles": [
+        {
+          "id": "https://medium.com/p/dff67008c7c3",
+          "author": "The Wolf of Wallet Street",
+          "description": "No, web3 is not useless\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/9-existing-web3-use-cases-already-offering-value-right-now-dff67008c7c3?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-07T14:41:01.000Z",
+          "wordCount": 1118,
+          "title": "9 Existing Web3 Use Cases already offering value right now",
+          "imageUrl": "https://miro.medium.com/max/700/0*zpa9yPckX2iX0-Cf.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/7818a8f31d13",
+          "author": "Mark Timmis",
+          "description": "tl;dr",
+          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-7th-december-2022-cbdcs-7818a8f31d13?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-07T14:33:44.000Z",
+          "wordCount": 2667,
+          "title": "Curious Cryptos’ Commentary 7th December 2022 — CBDCs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2c94acfbd81e",
+          "author": "Kai",
+          "description": "Fortunately, the topics of sustainability, environmental and climate protection are coming more and more into focus. The new IMPT.io…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/this-climate-protection-crypto-token-could-be-a-ten-bagger-right-after-listing-2c94acfbd81e?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-07T14:33:34.000Z",
+          "wordCount": 1486,
+          "title": "This Climate Protection Crypto Token Could Be A Ten Bagger Right After Listing!",
+          "imageUrl": "https://miro.medium.com/max/1200/0*TMn3GSizIkbiPl2g"
+        },
+        {
+          "id": "https://medium.com/p/c4bbf9d792df",
+          "author": "Durwin Ho",
+          "description": "Ok check this out.",
+          "link": "https://medium.com/coinmonks/even-machines-created-by-asians-are-racists-towards-asians-c4bbf9d792df?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-07T14:33:20.000Z",
+          "wordCount": 2138,
+          "title": "Even machines created by Asians are racists towards Asians.",
+          "imageUrl": "https://miro.medium.com/max/960/0*MCrCS-lFEN_ttCaU.jpg"
+        },
+        {
+          "id": "https://medium.com/p/5803fc4201c9",
+          "author": "Crypto Hub",
+          "description": "El Salvador has been making headlines recently as rumors swirl that the country may be on the brink of financial insolvency due to heavy…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/will-el-salvador-survive-the-crypto-winter-5803fc4201c9?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-07T14:33:08.000Z",
+          "wordCount": 1200,
+          "title": "Will El Salvador Survive The Crypto Winter?",
+          "imageUrl": "https://miro.medium.com/max/1200/1*-vFeOGI-W6hkrdLK4YN4bA.png"
+        },
+        {
+          "id": "https://medium.com/p/9e9d67149404",
+          "author": "Robert Watkin",
+          "description": "This post is originally from my blog Portfolio Hub\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/self-development-books-that-can-improve-your-life-in-2022-9e9d67149404?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-07T12:39:54.000Z",
+          "wordCount": 1481,
+          "title": "Self Development Books that can Improve Your Life in 2022",
+          "imageUrl": "https://miro.medium.com/max/1200/1*tuoohkXUgg-PGpy5thTIpg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/bf0184114a5f",
+          "author": "Robert Watkin",
+          "description": "How much should I save each month for retirement? The answer depends on several factors, such as your age, income level, and investment…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/understanding-the-4-rule-and-retirement-income-bf0184114a5f?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-07T12:39:40.000Z",
+          "wordCount": 1468,
+          "title": "Understanding the 4% Rule and Retirement Income",
+          "imageUrl": "https://miro.medium.com/max/1200/1*xexSspTBn3o_ESa9PPLTyA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/22571eff6325",
+          "author": "Robert Watkin",
+          "description": "How would you define success? Is it having lots of followers or being able to sell your blog for millions of dollars? If you want to start…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/how-to-start-a-successful-blog-in-2022-22571eff6325?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-07T12:39:20.000Z",
+          "wordCount": 1483,
+          "title": "How To Start a Successful Blog in 2022",
+          "imageUrl": "https://miro.medium.com/max/1200/1*HFsnkhcy_2LSLeeO1AhV8A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3014615db68e",
+          "author": "Wasif M Rahman",
+          "description": "Are NFTs Securities? Today we explore an essential question with pretty big implications for the entire Web 3 industry.",
+          "link": "https://medium.com/coinmonks/the-class-action-lawsuit-against-yuga-labs-3014615db68e?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-07T12:39:00.000Z",
+          "wordCount": 2447,
+          "title": "The Class Action Lawsuit Against Yuga Labs",
+          "imageUrl": "https://miro.medium.com/max/1100/1*hhcMnz1XKC96W7lMM3QSrQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/63f03021da16",
+          "author": "zeroxlive",
+          "description": "Libraries are similar to contract that contain reusable codes to reduce coding time , they are mainly intended for reuse.",
+          "link": "https://medium.com/coinmonks/csc101-libraries-63f03021da16?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-07T12:38:42.000Z",
+          "wordCount": 2358,
+          "title": "CSC101-Libraries",
+          "imageUrl": "https://miro.medium.com/max/1072/1*nYib8N6wIy-Papn96wyEKg.png"
+        }
+      ]
+    },
+    {
+      "title": "Solidity in Block Magnates on Medium",
+      "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
+      "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
+      "articles": [
+        {
+          "id": "https://medium.com/p/378f30a87b72",
+          "author": "Bubbletree",
+          "description": "From the governance protocols to staking features",
+          "link": "https://blog.blockmagnates.com/deep-dive-on-sushiswap-staking-contract-378f30a87b72?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2022-12-05T15:09:58.000Z",
+          "wordCount": 3980,
+          "title": "Deep dive on Sushiswap staking contract",
+          "imageUrl": "https://miro.medium.com/max/1069/0*I63UIFqmpA1daKbX"
+        },
+        {
+          "id": "https://medium.com/p/dbd7aed4302e",
+          "author": "Aitor Zaldua",
+          "description": "It is a rule for every engineer that, if it is not properly documented, it doesn’t exist. So all of us, who are solving the Ethernaut…",
+          "link": "https://blog.blockmagnates.com/new-ethernaut-solutions-numbers-11-and-12-dbd7aed4302e?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2022-11-30T12:53:11.000Z",
+          "wordCount": 2267,
+          "title": "New Ethernaut solutions: Numbers 11 and 12",
+          "imageUrl": "https://miro.medium.com/max/1200/1*OoyJCjI5V_slhj5ZmI_UZg.png"
+        },
+        {
+          "id": "https://medium.com/p/7dde5fdfda74",
+          "author": "Surendra Verma",
+          "description": "Hello There,",
+          "link": "https://blog.blockmagnates.com/writing-smart-contracts-with-hardhat-easy-steps-7dde5fdfda74?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2022-11-23T14:24:39.000Z",
+          "wordCount": 1821,
+          "title": "Writing smart contracts with Hardhat easy steps.",
+          "imageUrl": "https://miro.medium.com/max/1024/1*SpR6Ctgkw2n71UtmNWzGKg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c15673b467fb",
+          "author": "Juan",
+          "description": "For those who are starting to learn Smart Contract development, and in particular, to those who use Solidity often, the flatten feature is…\nContinue reading on Block Magnates »",
+          "link": "https://blog.blockmagnates.com/how-to-use-the-flatten-option-for-solidity-on-remix-c15673b467fb?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2022-11-23T14:24:09.000Z",
+          "wordCount": 1789,
+          "title": "How to use the Flatten option for Solidity on Remix",
+          "imageUrl": "https://miro.medium.com/max/1200/1*g7TT-X8zS05g292cAP5Xaw.png"
+        },
+        {
+          "id": "https://medium.com/p/7c039f0004fd",
+          "author": "Ramon Royo",
+          "description": "TL;DR: I analyze a “front running bot” code, build to scam people into believing they’ll get passive income, when in reality they’ll lose…",
+          "link": "https://blog.blockmagnates.com/analyzing-a-scammers-uniswap-front-run-bot-malicious-code-7c039f0004fd?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2022-11-23T14:23:36.000Z",
+          "wordCount": 2271,
+          "title": "Analyzing a Scammer’s “Uniswap Front Run Bot” Malicious Code",
+          "imageUrl": "https://miro.medium.com/max/1200/0*hrAhhNs3t6zJcTgS"
+        },
+        {
+          "id": "https://medium.com/p/97d73c103b60",
+          "author": "Surendra Verma",
+          "description": "Hello There, today I will guide you on how you can create a smart contract and deploy it to the blockchain in an easy way.",
+          "link": "https://blog.blockmagnates.com/build-and-deploy-smart-contracts-in-easy-steps-97d73c103b60?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2022-11-16T11:26:54.000Z",
+          "wordCount": 2277,
+          "title": "Build and deploy smart contracts in easy steps.",
+          "imageUrl": "https://miro.medium.com/max/1200/1*b7YVn5JULSzgbv7i9tkuyw.png"
+        },
+        {
+          "id": "https://medium.com/p/3e4248b547e3",
+          "author": "Cryptowski",
+          "description": "If you’ve been around the NFT space for a while, chances are that you’ve heard the term ‘Merkle Proof’ being thrown around a lot. You…",
+          "link": "https://blog.blockmagnates.com/the-ultimate-merkle-proof-guide-in-solidity-with-code-3e4248b547e3?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2022-11-16T11:26:28.000Z",
+          "wordCount": 3938,
+          "title": "The ultimate Merkle Proof guide in Solidity (with code!)",
+          "imageUrl": "https://miro.medium.com/max/382/1*NvHfAF2nzfT0XFfycRLZ6Q.png"
+        },
+        {
+          "id": "https://medium.com/p/6e62f4bfcdbd",
+          "author": "Boom",
+          "description": "Smart Contracts Design Patterns Series!",
+          "link": "https://blog.blockmagnates.com/chainlink-vrf-2-oracle-smart-contract-6e62f4bfcdbd?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2022-11-14T11:43:02.000Z",
+          "wordCount": 1969,
+          "title": "Chainlink VRF 2 Oracle Smart Contract",
+          "imageUrl": "https://miro.medium.com/max/1200/1*7wl9otYIYCJMhLtZAW0lzg.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "Developer DAO",
+      "feedUrl": "https://blog.developerdao.com/rss.xml",
+      "siteUrl": "https://blog.developerdao.com",
+      "articles": [
+        {
+          "id": "https://blog.developerdao.com/hedera-x-devdao-build-faster-dapps-with-predictable-fees",
+          "author": "Abi Castro",
+          "description": "Following our exciting announcement of sponsoring Developer DAO, I'd like to introduce Hedera and the developer relations team further 👋.\nHedera is an open-source public distributed ledger that uses the Hashgraph as its underlying consensus algorithm. Hedera offers excellent performance, scalability, and sustainability with native token and data (consensus) services and EVM-compatible smart contracts. Further your Hedera knowledge by visiting the Hedera documentation, where you'll have the opportunity to dive deeply into core concepts about the network.\nThe Developer Relations, Documentation, and Community team supporting the Hedera network consist of the following:\n\nGet Started Building on Hedera 🛠\nVisit our getting started guide to set up your environment and be ready to start building…",
+          "link": "https://blog.developerdao.com/hedera-x-devdao-build-faster-dapps-with-predictable-fees",
+          "publishedOn": "2022-12-06T15:20:42.000Z",
+          "wordCount": 5352,
+          "title": "Hedera x DevDAO: Build Faster DApps with Predictable Fees",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1670282971874%2FxbBA2HN5o.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://blog.developerdao.com/devntell-meta-tour",
+          "author": "Narbeh Shahnazarian",
+          "description": "🌈 GM\nIn this weeks episode of DevNTell, Developer DAO member Afoma Orji presents her project, Meta Tour\n🌟 Developer Spotlight\nAfoma Orji is a frontend developer and developer advocate.  She is also a contributor at \nWoman Build Web3 and a Graph Advocate at The Graph Advocate's DAO.  Afoma built Meta Tour to break free from her tutorial hell and to help people that are new to Web3 quickly navigate across the space.  \n🚀About Meta Tour\nMeta Tour is a simple go-to dapp that functions as a pocket map to regularly visited links by Web3 enthusiasts and users\nTwitter: https://www.twitter.com/afoma_orji\n\n\nGithub: https://www.github.com/afoma\n\n\nAfoma's dev blog: https://afy.afomaorji.com/\n\n\nWebsite: https://metatour-main.vercel.app/\n\n\n\n\n🎥 Presentation",
+          "link": "https://blog.developerdao.com/devntell-meta-tour",
+          "publishedOn": "2022-12-02T23:26:48.000Z",
+          "wordCount": 2281,
+          "title": "DevNTell - Meta Tour",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1670017091024%2F8cd73b27-52df-40d1-b280-cec5c2bc5574.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://blog.developerdao.com/getting-started-with-arweave",
+          "author": "Osikhena Oshomah",
+          "description": "This DevRel post arose from my research on Arweave for the Eden Protocol. Eden Protocol is a Developer DAO project centered on talent management. We're developing artificial intelligence to match the right people to the right opportunities at the right time. \nBluePanda, CTO of Eden, asked me to research Arweave for permanently storing endorsement data on a blockchain. This data will be generated as a person is endorsed based on their performance on a project, so long-term storage and immutability are essential. Arweave was a natural fit because it met all the requirements for implementing this feature in Eden. The astonishing thing was how simple it was to put this into action. Thanks to Arweave's clear documentation. In this post, I will share the information I gleaned from that research.…",
+          "link": "https://blog.developerdao.com/getting-started-with-arweave",
+          "publishedOn": "2022-12-02T15:20:45.000Z",
+          "wordCount": 15479,
+          "title": "Getting Started With Arweave",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1669662727714%2FAsBSutHLK.jpg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://blog.developerdao.com/a-gentle-introduction-to-decentralized-storage",
+          "author": "CryptoShuriken",
+          "description": "Hey, fren! gm. \nRecently, I worked on an NFT project that required IPFS for storing the NFT images and metadata. That sparked my interest in learning more about decentralized storage, which has fascinated me for a while now.\nSo, today we're gonna learn about decentralized storage (let's call it DStorage for short) and some of the most popular DStorage protocols in this blog post.\nLet's dive in!\nWhat is DStorage?\nAs its name implies, DStorage is a storage system that does not rely on a central server or authority.\nUnlike a centralized storage system managed and operated by a single centralized entity, a peer-to-peer network of user-operated nodes operates DStorage, each of which stores a copy of the data creating a resilient file storage-sharing system.\nThe decentralization makes it much mo…",
+          "link": "https://blog.developerdao.com/a-gentle-introduction-to-decentralized-storage",
+          "publishedOn": "2022-11-30T15:20:42.000Z",
+          "wordCount": 10297,
+          "title": "A Gentle Introduction to Decentralized Storage",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1669536833866%2FWRRf6LGQC9.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://blog.developerdao.com/how-to-develop-and-deploy-smart-contracts-with-foundry-openzeppelin",
+          "author": "Deep",
+          "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. It consists of three components:\nForge: Ethereum testing framework (like Truffle, Hardhat, and DappTools).\nCast: CLI for interacting with EVM smart contracts, sending transactions, and getting chain data.\nAnvil: local Ethereum node, similar to Ganache or Hardhat Network.\nWhy Should We Use Foundry?\n\nIts speedy; no more wasted time while running tests.\nIt allows you to write tests in Solidity, which minimizes context switching.\nMany testing features like fuzzing, console.log, and cheat codes give you more power and flexibility.\nTopics We Are Going to Cover in This Article\nProject setup\nHow to install dependencies in Foundry (i.e., OpenZeppelin)\nIntegrating Foundry with VSCode\nWriting…",
+          "link": "https://blog.developerdao.com/how-to-develop-and-deploy-smart-contracts-with-foundry-openzeppelin",
+          "publishedOn": "2022-11-29T15:20:44.000Z",
+          "wordCount": 5703,
+          "title": "How to Develop and Deploy Smart Contracts with Foundry & Openzeppelin",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1669447591257%2Fp9PJS-B7D.jpg%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://blog.developerdao.com/devntell-supercluster-labs",
+          "author": "Narbeh Shahnazarian",
+          "description": "🌈 GM\nIn this weeks episode of DevNTell, Kai Huang and Gov go over their project, Supercluster Labs\n🌟 Developer Spotlight\nKai has been in Product Management for the last 6 years, currently working as a PM for MetaMask.  Kai Started working on Supercluster about 4 months ago with the team he formed at HackFS '22 with the goal to provide a super easy decentralized file sharing application.\nGov is a blockchain/web3 developer and researcher who has been in the space since 2014. He has worked on several projects in the space, notably at a venture funded project that developed secure p2p file sharing for governments. In addition, he has participated in several hackathons, notably creating a top 10 hack at HackFS 2020 and winning 2nd place for the IPFS prize at HackFS 2022.\n🚀 About Supercluster Labs\nSupercluster is a decentralized file sharing solution purpose built for DAOs.  Supercluster Files enables DAOs to share content between team members without having to rely on centralized parties.\nWebsite: https://www.supercluster.dev/\n\n\nTwitter: https://twitter.com/superclusterdev\n\n\nNotion workspace: https://buttered-ketch-b1b.notion.site/Supercluster-Labs-93c641213bd742dc9687e70c5d36e1bd\n\n\nDiscord: https://discord.com/channels/@me/1045745643441885234/1045747778992734289\n\n\n\n\n🎥 Presentation",
+          "link": "https://blog.developerdao.com/devntell-supercluster-labs",
+          "publishedOn": "2022-11-25T23:31:48.000Z",
+          "wordCount": 2517,
+          "title": "DevNTell - Supercluster Labs",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1669418809783%2FxtgXET9SX.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://blog.developerdao.com/getting-started-with-ssx",
+          "author": "Manny",
+          "description": "What Is SSX?\n\"SSX is a library that enables you to easily add user authentication, session management, and more to your dapp.\"\nhttps://github.com/spruceid/ssx/blob/main/README.md\n\nOkay, But What Is It?\nIt's an app that allows you to administer authentication sessions for native Sign-In With Ethereum (SIWE pronounced see-we) and have a way to see stats on those sessions.\n\nWhy Is This Needed?\nAbstracting Functionality\nCould you build out your own user session manager with SIWE? Yes, you could, but like everything, why would you keep building the same tool systems repeatedly? Just like when services like Auth0 came into the market, we abstracted the need to try to build and manage authentication services.\nEasy Implementation\nIt's also faster to get up and running with sessions without having …",
+          "link": "https://blog.developerdao.com/getting-started-with-ssx",
+          "publishedOn": "2022-11-24T15:20:44.000Z",
+          "wordCount": 11028,
+          "title": "Getting Started With SSX",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1669235791929%2FPdEqb2aTg.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://blog.developerdao.com/devntell-biconomy",
+          "author": "Narbeh Shahnazarian",
+          "description": "🌈 GM\nIn this weeks episode of DevNTell, Yashasvi Chaudhary gives us an overview of Biconomy:  Biconomy is the ultimate toolkit to leverage smart contract wallets & build custom transaction journeys\n🌟 Developer Spotlight\nYashasvi is a blockchain developer whose been building in the Ethereum and L2 ecosystem for over 2 years. Currently he's building on Account Abstraction with Biconomy & learning ZK\n🚀 About Biconomy\nBiconomy is the ultimate toolkit to leverage smart contract wallets and build custom transaction journeys.  Biconomy has recently released a SDK that provides solutions from onboarding to user engagement for a decentralized application (dApp) in a non-custodial way. It is a one-stop solution to enable an effortless experience in your dApp as it eases onboarding for new users and abstracts away transaction complexities that your users face on a daily basis. This is enabled using Smart Contract Wallets (SCW) built on top of their multi-chain Relayer Infrastructure. \nsource\nWebsite: https://www.biconomy.io/\n\n\nDocumentation: https://biconomy.gitbook.io/sdk/introduction/overview\n\n\nTwitter: https://twitter.com/biconomy\n\n\n\n\n🎥 Presentation",
+          "link": "https://blog.developerdao.com/devntell-biconomy",
+          "publishedOn": "2022-11-19T00:37:18.000Z",
+          "wordCount": 2448,
+          "title": "DevNTell - Biconomy",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1668817386172%2Fh5JmyK0Oa.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://blog.developerdao.com/how-lens-protocol-changes-non-social-networks",
+          "author": "Nick Tindle",
+          "description": "Lens Protocol is a self-described composable and decentralized social graph, but what does that mean?\nLens Protocol allows developers to plug a well-connected social graph into any application without the need to onboard users and fill out profiles. The same team who brought you AAVE Protocol also built Lens Protocol. Lens' mission promises to provide the last social media handle you will ever need. You can find me on it at @ntindle.lens.\nThe ability to quickly and easily source a social graph cannot be understated. It allows users to swap from apps like Lenstube.xyz (a youtube clone) to Lenster.xyz (a Twitter clone) and brings all their followers, friends, and posts with them. It is the ultimate social media launching ground and will fundamentally change how users interact with social med…",
+          "link": "https://blog.developerdao.com/how-lens-protocol-changes-non-social-networks",
+          "publishedOn": "2022-11-16T15:46:00.000Z",
+          "wordCount": 4191,
+          "title": "How Lens Protocol Changes Non-Social Networks",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Funsplash%2FQY9LOl9eZ9w%2Fupload%2Fv1668065175654%2FNEvesmcQo.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://blog.developerdao.com/devntell-agami",
+          "author": "Narbeh Shahnazarian",
+          "description": "🌈 GM\nIn this weeks episode of DevNTell DAO member Patrick Skinner presents his project, AGAMI\n🌟 Developer Spotlight\nPatrick Skinner is a Former Special Operations Combat Medic and Mass Casualty Coordinator that later went into software development.  During his time in service, he became highly aware of how often humans are taken advantage of during natural disasters and trafficked for labor, sexual exploitation, and even organ trafficking.  After attempting to take on Human Trafficking head-on and finding that most teams are heavily out-matched, he came up with the idea to target one of their largest funding sources; Counterfeit Products & Pharmaceuticals. \n🚀 About AGAMI\nAGAMI is developing Web3 Technology to combat the counterfeit market by integrating NFTs into Encrypted NFC Technology with a patented decentralized API.\nWebsite: https://www.agamico.com/\n\n\nAGAMI Twitter: https://twitter.com/agami_co\n\n\nPatricks Twitter: https://twitter.com/PSkinnerTech\n\n\n\n\n🎥 Presentation",
+          "link": "https://blog.developerdao.com/devntell-agami",
+          "publishedOn": "2022-11-11T17:57:49.000Z",
+          "wordCount": 2261,
+          "title": "DevNTell - AGAMI",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1668133008715%2FofA4GyuqJ.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://blog.developerdao.com/a-gentle-introduction-to-erc-standards",
+          "author": "CryptoShuriken",
+          "description": "Hi, fren! gm. \nThis blog post will cover some of the most common ERC token standards you can use to create fungible, non-fungible, and semi-fungible tokens.\nSo, without further ado, let's get started!\nFirst of All, WTH is ERC? 🤔\nERC stands for \"Ethereum Request for Comments,\" a proposal document developers write. It is then reviewed by the Ethereum community using a process called \"Ethereum Improvement Proposal\" or EIP.\nWhat is ERC-20?\nERC-20 is the 20th proposal, which Fabian Vogelsteller proposed in 2015, and Ethereum integrated it in 2017. It is the most commonly used token standard in the Ethereum ecosystem.\nThe tokens created using the ERC-20 standard have three properties:\n🔹 They are Fungible: You can use all tokens interchangeably, and each token holds the same value. Think of a D…",
+          "link": "https://blog.developerdao.com/a-gentle-introduction-to-erc-standards",
+          "publishedOn": "2022-11-11T15:20:44.000Z",
+          "wordCount": 14561,
+          "title": "A Gentle Introduction to ERC Standards: ERC-20, ERC-721, and ERC-1155",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1667917627506%2FPSh_AiGi7.webp%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://blog.developerdao.com/how-to-build-custom-erc-1155-nft-collections-using-thirdweb",
+          "author": "Aayush Gupta",
+          "description": "In this tutorial, we will build a custom ERC-1155 NFT bundle collection using Thirdweb ContractKit and Deploy tool. Instead of minting all the NFTs in one go. We allow users to mint NFT from any NFT bundle collection one by one. We also set a maximum supply of NFTs; one user can mint only one NFT.\nOverview\nERC-1155 has emerged as a gold standard for creating NFTs; every major marketplace lists new tokens as an ERC-1155 standard. We will use Thirdweb ContractKit to build our smart contract along with some custom logic. We allow users to mint only one NFT per NFT bundle collection. \nWhy Use ContractKit?\nEach feature you implement in your smart contracts unlocks functionality in both the thirdweb dashboard and SDK to help you build applications on top of them.\nFor example, if you implement th…",
+          "link": "https://blog.developerdao.com/how-to-build-custom-erc-1155-nft-collections-using-thirdweb",
+          "publishedOn": "2022-11-10T15:20:42.000Z",
+          "wordCount": 10827,
+          "title": "How to Build Custom ERC-1155 NFT Collections Using Thirdweb",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1667896803064%2FI1jGaIVLi.png%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://blog.developerdao.com/burnout-in-public",
+          "author": "Nick Tindle",
+          "description": "I'm burnt out. \nI've spent the past ten minutes trying to figure out the outline for this post. I figured I'd start writing, and it would appear. If you're reading this, it didn't. \nIt All Began with the Pandemic\nI can trace this feeling back to COVID times, but I just noticed it recently. Well, a month or so ago. I saw hints of it after I was sick after returning from Cosmoverse in Medellin, Colombia. I was tired in a way I had never been before. I was tired of having fun. I was tired of talking to my friends, and I was tired of work. I was going through the motions of being alive but detached from reality. My performance at work was suffering, and my life at home wasn't much better.\nIt came to a head when I visited a good friend, and he just looked at me and directly asked, \"you look tir…",
+          "link": "https://blog.developerdao.com/burnout-in-public",
+          "publishedOn": "2022-11-10T15:20:42.000Z",
+          "wordCount": 4896,
+          "title": "Burnout in Public",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Funsplash%2FIcQ-T2PiS5Q%2Fupload%2Fv1668006076567%2FKQkomQJrr.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
+          "id": "https://blog.developerdao.com/how-i-became-nomadic-and-started-my-web3-career-with-developer-dao",
+          "author": "Nico Burkart",
+          "description": "About one year ago, I sold everything I owned, moved out of my apartment, reduced my whole life to a suitcase, and went to Madeira with no source of income and no idea what my next step would look like. At first, this was intimidating, but soon, I would meet many inspiring people who shaped and changed my life. Today I'm a developer relation engineer at Streamr and Data Union DAO, and I get to travel the world at the same time. 🔥🚀\nHow I Became a Web3 Developer\nI finished university and just got my computer science degree when I arrived in Madeira. I started to look into Web3 development after having an inspiring conversation in a cafe' with another digital nomad. After studying Solidity for a couple of weeks, I applied for junior Web3 jobs and was unsuccessful. A humbling experience... \n…",
+          "link": "https://blog.developerdao.com/how-i-became-nomadic-and-started-my-web3-career-with-developer-dao",
+          "publishedOn": "2022-11-09T15:20:42.000Z",
+          "wordCount": 5717,
+          "title": "How I Became Nomadic and Started My Web3 Career with Developer DAO",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1667832069252%2FEnQxH7EFN.jpg%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
