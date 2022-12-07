@@ -9,4 +9,9 @@ cacheMaxDays: 30
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: https://web3cave.github.io/flat-data-template/data.xml
+  - href: https://cryptomarketpool.com/feed/
+  - href: https://www.cryptomaton.org/feed/
+  - href: https://coinsbench.com/feed
+  - href: https://medium.com/feed/coinmonks
+  - href: https://medium.com/feed/block-magnates/tagged/solidity
+  - href: https://blog.developerdao.com/rss.xml
