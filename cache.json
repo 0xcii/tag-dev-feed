@@ -54,7 +54,7 @@
           "description": "Introduction",
           "link": "https://coinsbench.com/how-to-track-all-the-nfts-of-a-wallet-address-in-python-b561e17b7cce?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2022-12-07T14:24:41.000Z",
-          "wordCount": 2525,
+          "wordCount": 2419,
           "title": "How to track all the NFTs of a wallet address in python.",
           "imageUrl": "https://miro.medium.com/max/1200/0*m6NkCgvwkimyNY1c"
         },
@@ -84,7 +84,7 @@
           "description": "ERC20 is a very famous and widely used smart contract standard for fungible tokens. Tokens like USDT, USDC, Matic etc are example of erc20…",
           "link": "https://coinsbench.com/interacting-with-erc20-token-using-ethcontracts-js-7299080b1bdf?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2022-12-07T14:24:15.000Z",
-          "wordCount": 2305,
+          "wordCount": 2235,
           "title": "Interacting with erc20 token using ethcontracts.js",
           "imageUrl": "https://miro.medium.com/max/1200/0*JyVdiFfTcTFs7Wl6.png"
         },
@@ -94,7 +94,7 @@
           "description": "What is a Smart Contract?",
           "link": "https://coinsbench.com/smart-contracts-4d9e5c4875b2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2022-12-06T13:06:31.000Z",
-          "wordCount": 4069,
+          "wordCount": 4048,
           "title": "Smart Contracts",
           "imageUrl": "https://miro.medium.com/max/669/1*p_otqN83hFdf0ziLOGUixg.png"
         },
@@ -104,7 +104,7 @@
           "description": "Using our favorite Dex’s and NFT platforms with joy and ease, aren’t we?",
           "link": "https://coinsbench.com/are-your-smart-contracts-safe-this-one-tool-is-overlooked-2b0612a3bde5?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2022-12-06T13:06:08.000Z",
-          "wordCount": 3307,
+          "wordCount": 3331,
           "title": "Are your smart-contracts safe? This one tool is overlooked.",
           "imageUrl": "https://miro.medium.com/max/602/0*DH5O9wkdxQm2LVHM"
         },
@@ -135,6 +135,66 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/d4c2ec287f53",
+          "author": "Kai",
+          "description": "After the “merge” in mid-September, the technology around the cryptocurrency Ether is on the move in a much more energy-efficient way.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/ethereum-saves-as-much-energy-as-all-of-ireland-needs-d4c2ec287f53?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-08T16:36:17.000Z",
+          "wordCount": 1138,
+          "title": "Ethereum Saves As Much Energy As All Of Ireland Needs",
+          "imageUrl": "https://miro.medium.com/max/1200/0*vHXilQaA8vIrlsYS"
+        },
+        {
+          "id": "https://medium.com/p/6ac8ec154367",
+          "author": "JaseDMF",
+          "description": "And who should write it?",
+          "link": "https://medium.com/coinmonks/why-your-nft-project-needs-a-white-paper-6ac8ec154367?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-08T16:35:25.000Z",
+          "wordCount": 4551,
+          "title": "Why Your NFT Project Needs a White Paper",
+          "imageUrl": "https://miro.medium.com/max/1200/1*fGOQGP6sKAHMZ2bfMib1Ag.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/e3016c0b975",
+          "author": "Peter Ogwara",
+          "description": "Everyone wants to know the next big coin. What tokens will multiply 1000x in value over the next year? What tokens will flop, never again…",
+          "link": "https://medium.com/coinmonks/the-ironies-of-cryptocurrency-tokenomics-e3016c0b975?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-08T16:35:16.000Z",
+          "wordCount": 2329,
+          "title": "The Ironies of Cryptocurrency Tokenomics",
+          "imageUrl": "https://miro.medium.com/max/975/1*VTk2P9h4ImRL88pGYBjrAg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/2c535eb69724",
+          "author": "Chuxiaolian",
+          "description": "In the past two days, the encryption market has fallen to varying degrees. There is no reason for the ups and downs. Events, large or…",
+          "link": "https://medium.com/coinmonks/someones-wallet-was-stolen-someone-sold-chatgpt-experience-account-and-earned-8k-dollars-in-2-2c535eb69724?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-08T16:35:08.000Z",
+          "wordCount": 2679,
+          "title": "Someone’s wallet was stolen, someone sold ChatGPT experience account and earned 8k dollars in 2…",
+          "imageUrl": "https://miro.medium.com/max/804/1*i9sBwuqr5qVrMkJjtDXlYA.png"
+        },
+        {
+          "id": "https://medium.com/p/8d90952e4a21",
+          "author": "Chikku George",
+          "description": "In this tutorial, we’ll go over utilizing the Moralis Transaction API and NodeJS to retrieve all native transactions of a wallet.",
+          "link": "https://medium.com/coinmonks/how-to-get-transactions-of-a-wallet-using-moralis-8d90952e4a21?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-08T16:34:54.000Z",
+          "wordCount": 1714,
+          "title": "How to get Transactions of a wallet using Moralis",
+          "imageUrl": "https://miro.medium.com/max/1200/1*3cvImsmBvQMgLxb2khT64g.png"
+        },
+        {
+          "id": "https://medium.com/p/64c86e983239",
+          "author": "Kai",
+          "description": "As Binance’s first Proof of Reserves (PoR) audit report shows, the company has enough assets to handle a bank run.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/binance-proof-of-reserves-holdings-are-sufficiently-collateralized-64c86e983239?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-08T16:34:02.000Z",
+          "wordCount": 1274,
+          "title": "Binance Proof of Reserves: Holdings Are Sufficiently Collateralized",
+          "imageUrl": "https://miro.medium.com/max/1200/0*HuJGC8FgM6qbVVzU"
+        },
         {
           "id": "https://medium.com/p/1aed98157c09",
           "author": "Robin Quinones",
@@ -171,69 +231,9 @@
           "description": "The largest loan issued as a digital asset on the Russian market to date is denominated in yuan. Technically, there is supposedly a…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/russian-company-issues-digital-asset-in-yuan-d00bfb3995ec?source=rss----721b17443fd5---4",
           "publishedOn": "2022-12-08T11:49:09.000Z",
-          "wordCount": 1018,
+          "wordCount": 1122,
           "title": "Russian Company Issues Digital Asset in Yuan",
           "imageUrl": "https://miro.medium.com/max/1200/0*b9Pm_dRdtJTepNEx"
-        },
-        {
-          "id": "https://medium.com/p/b209704d88bd",
-          "author": "yourPRstrategist",
-          "description": "MRHB.Network hosted a YouTube Live discussion that posed the question whether implementing Islamic finance could have averted the FTX…",
-          "link": "https://medium.com/coinmonks/ftx-collapse-halal-defi-platform-mrhb-proposes-ethics-as-a-solution-b209704d88bd?source=rss----721b17443fd5---4",
-          "publishedOn": "2022-12-08T10:51:24.000Z",
-          "wordCount": 1669,
-          "title": "FTX Collapse: Halal DeFi Platform MRHB Proposes Ethics as a Solution",
-          "imageUrl": "https://miro.medium.com/max/624/1*nH83vylL6W-lrAPpzdZrEQ.png"
-        },
-        {
-          "id": "https://medium.com/p/4bc73b9c2aab",
-          "author": "Crypton Studio",
-          "description": "Earlier, Clutch has included Crypton Studio in the list of the best-performing Latvian companies in 2022. And now we received two new…",
-          "link": "https://medium.com/coinmonks/crypton-studio-is-a-global-leader-in-development-it-services-4bc73b9c2aab?source=rss----721b17443fd5---4",
-          "publishedOn": "2022-12-08T10:51:21.000Z",
-          "wordCount": 1369,
-          "title": "Crypton Studio is a Global Leader in Development & IT Services",
-          "imageUrl": "https://miro.medium.com/max/1200/1*rKuIoJAB1slrF5_C0pO1jA.png"
-        },
-        {
-          "id": "https://medium.com/p/66c5efcbf5d9",
-          "author": "Crypton Studio",
-          "description": "Earlier, Clutch has included Crypton Studio in the list of the best-performing Latvian companies in 2022. And now we received two new…",
-          "link": "https://medium.com/coinmonks/crypton-studio-is-a-global-leader-in-development-it-services-66c5efcbf5d9?source=rss----721b17443fd5---4",
-          "publishedOn": "2022-12-08T10:50:48.000Z",
-          "wordCount": 1369,
-          "title": "Crypton Studio is a Global Leader in Development & IT Services",
-          "imageUrl": "https://miro.medium.com/max/1200/1*rKuIoJAB1slrF5_C0pO1jA.png"
-        },
-        {
-          "id": "https://medium.com/p/502f9346401e",
-          "author": "Ren & Heinrich",
-          "description": "2022 was a difficult year. Will the next year be different? In this article, I list up 10 bullish reasons for why Bitcoin price could go…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-to-100k-in-2023-10-bullish-factors-502f9346401e?source=rss----721b17443fd5---4",
-          "publishedOn": "2022-12-08T10:50:41.000Z",
-          "wordCount": 1215,
-          "title": "Bitcoin to $100K in 2023? 10 Bullish Factors",
-          "imageUrl": "https://miro.medium.com/max/1200/1*xf5Rsyyk7lIjaDJSfJWUqQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/b2b66f1af001",
-          "author": "Krypto Insights",
-          "description": "Standard Chartered bank’s annual surprise list called out a possible collapse in crypto prices, with Bitcoin tumbling to $5,000 in 2023.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-could-drop-another-70-to-5-000-in-2023-standard-chartered-warns-b2b66f1af001?source=rss----721b17443fd5---4",
-          "publishedOn": "2022-12-08T10:50:33.000Z",
-          "wordCount": 1176,
-          "title": "Bitcoin Could Drop Another 70% to $5,000 in 2023, Standard Chartered Warns",
-          "imageUrl": "https://miro.medium.com/max/752/0*etIkJOE7dkhTJ7bm.jpg"
-        },
-        {
-          "id": "https://medium.com/p/7b6cc8d2bfec",
-          "author": "Mark Timmis",
-          "description": "tl;dr",
-          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-9th-december-2022-the-ecb-7b6cc8d2bfec?source=rss----721b17443fd5---4",
-          "publishedOn": "2022-12-08T10:50:26.000Z",
-          "wordCount": 2936,
-          "title": "Curious Cryptos’ Commentary 9th December 2022 — The ECB",
-          "imageUrl": null
         }
       ]
     },
