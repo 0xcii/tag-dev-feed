@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-10T03:13:33.113Z</id>
+    <id>urn:2022-12-10T04:15:42.095Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-10T03:13:33.113Z</updated>
+    <updated>2022-12-10T04:15:42.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -574,35 +574,6 @@ The tokens created using the ERC-20 standard have three properties:
 🔹 They are Fungible: You can use all tokens interchangeably, and each token holds the same value. Think of a D…]]></summary>
         <author>
             <name>CryptoShuriken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Custom ERC-1155 NFT Collections Using Thirdweb]]></title>
-        <id>https://blog.developerdao.com/how-to-build-custom-erc-1155-nft-collections-using-thirdweb</id>
-        <link href="https://blog.developerdao.com/how-to-build-custom-erc-1155-nft-collections-using-thirdweb"/>
-        <updated>2022-11-10T15:20:42.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will build a custom ERC-1155 NFT bundle collection using Thirdweb ContractKit and Deploy tool. Instead of minting all the NFTs in one go. We allow users to mint NFT from any NFT bundle collection one by one. We also set a maximum supply of NFTs; one user can mint only one NFT.
-Overview
-ERC-1155 has emerged as a gold standard for creating NFTs; every major marketplace lists new tokens as an ERC-1155 standard. We will use Thirdweb ContractKit to build our smart contract along with some custom logic. We allow users to mint only one NFT per NFT bundle collection. 
-Why Use ContractKit?
-Each feature you implement in your smart contracts unlocks functionality in both the thirdweb dashboard and SDK to help you build applications on top of them.
-For example, if you implement th…]]></summary>
-        <author>
-            <name>Aayush Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burnout in Public]]></title>
-        <id>https://blog.developerdao.com/burnout-in-public</id>
-        <link href="https://blog.developerdao.com/burnout-in-public"/>
-        <updated>2022-11-10T15:20:42.000Z</updated>
-        <summary type="html"><![CDATA[I'm burnt out. 
-I've spent the past ten minutes trying to figure out the outline for this post. I figured I'd start writing, and it would appear. If you're reading this, it didn't. 
-It All Began with the Pandemic
-I can trace this feeling back to COVID times, but I just noticed it recently. Well, a month or so ago. I saw hints of it after I was sick after returning from Cosmoverse in Medellin, Colombia. I was tired in a way I had never been before. I was tired of having fun. I was tired of talking to my friends, and I was tired of work. I was going through the motions of being alive but detached from reality. My performance at work was suffering, and my life at home wasn't much better.
-It came to a head when I visited a good friend, and he just looked at me and directly asked, "you look tir…]]></summary>
-        <author>
-            <name>Nick Tindle</name>
         </author>
     </entry>
 </feed>

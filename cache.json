@@ -448,26 +448,6 @@
           "wordCount": 14561,
           "title": "A Gentle Introduction to ERC Standards: ERC-20, ERC-721, and ERC-1155",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1667917627506%2FPSh_AiGi7.webp%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        },
-        {
-          "id": "https://blog.developerdao.com/how-to-build-custom-erc-1155-nft-collections-using-thirdweb",
-          "author": "Aayush Gupta",
-          "description": "In this tutorial, we will build a custom ERC-1155 NFT bundle collection using Thirdweb ContractKit and Deploy tool. Instead of minting all the NFTs in one go. We allow users to mint NFT from any NFT bundle collection one by one. We also set a maximum supply of NFTs; one user can mint only one NFT.\nOverview\nERC-1155 has emerged as a gold standard for creating NFTs; every major marketplace lists new tokens as an ERC-1155 standard. We will use Thirdweb ContractKit to build our smart contract along with some custom logic. We allow users to mint only one NFT per NFT bundle collection. \nWhy Use ContractKit?\nEach feature you implement in your smart contracts unlocks functionality in both the thirdweb dashboard and SDK to help you build applications on top of them.\nFor example, if you implement th…",
-          "link": "https://blog.developerdao.com/how-to-build-custom-erc-1155-nft-collections-using-thirdweb",
-          "publishedOn": "2022-11-10T15:20:42.000Z",
-          "wordCount": 10827,
-          "title": "How to Build Custom ERC-1155 NFT Collections Using Thirdweb",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1667896803064%2FI1jGaIVLi.png%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        },
-        {
-          "id": "https://blog.developerdao.com/burnout-in-public",
-          "author": "Nick Tindle",
-          "description": "I'm burnt out. \nI've spent the past ten minutes trying to figure out the outline for this post. I figured I'd start writing, and it would appear. If you're reading this, it didn't. \nIt All Began with the Pandemic\nI can trace this feeling back to COVID times, but I just noticed it recently. Well, a month or so ago. I saw hints of it after I was sick after returning from Cosmoverse in Medellin, Colombia. I was tired in a way I had never been before. I was tired of having fun. I was tired of talking to my friends, and I was tired of work. I was going through the motions of being alive but detached from reality. My performance at work was suffering, and my life at home wasn't much better.\nIt came to a head when I visited a good friend, and he just looked at me and directly asked, \"you look tir…",
-          "link": "https://blog.developerdao.com/burnout-in-public",
-          "publishedOn": "2022-11-10T15:20:42.000Z",
-          "wordCount": 4896,
-          "title": "Burnout in Public",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Funsplash%2FIcQ-T2PiS5Q%2Fupload%2Fv1668006076567%2FKQkomQJrr.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         }
       ]
     }
