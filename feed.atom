@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-11T03:18:46.416Z</id>
+    <id>urn:2022-12-11T04:16:22.185Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-11T03:18:46.416Z</updated>
+    <updated>2022-12-11T04:16:22.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -550,24 +550,6 @@ Patricks Twitter: https://twitter.com/PSkinnerTech
 🎥 Presentation]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Gentle Introduction to ERC Standards: ERC-20, ERC-721, and ERC-1155]]></title>
-        <id>https://blog.developerdao.com/a-gentle-introduction-to-erc-standards</id>
-        <link href="https://blog.developerdao.com/a-gentle-introduction-to-erc-standards"/>
-        <updated>2022-11-11T15:20:44.000Z</updated>
-        <summary type="html"><![CDATA[Hi, fren! gm. 
-This blog post will cover some of the most common ERC token standards you can use to create fungible, non-fungible, and semi-fungible tokens.
-So, without further ado, let's get started!
-First of All, WTH is ERC? 🤔
-ERC stands for "Ethereum Request for Comments," a proposal document developers write. It is then reviewed by the Ethereum community using a process called "Ethereum Improvement Proposal" or EIP.
-What is ERC-20?
-ERC-20 is the 20th proposal, which Fabian Vogelsteller proposed in 2015, and Ethereum integrated it in 2017. It is the most commonly used token standard in the Ethereum ecosystem.
-The tokens created using the ERC-20 standard have three properties:
-🔹 They are Fungible: You can use all tokens interchangeably, and each token holds the same value. Think of a D…]]></summary>
-        <author>
-            <name>CryptoShuriken</name>
         </author>
     </entry>
 </feed>
