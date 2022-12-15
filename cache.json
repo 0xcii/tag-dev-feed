@@ -29,6 +29,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/2b013c9469b1",
+          "author": "Sebastian Ciceu",
+          "description": "Cryptocurrency is a type of digital or virtual currency that uses cryptography for security and is decentralized, meaning that it is not…",
+          "link": "https://coinsbench.com/cryptocurrency-101-an-introduction-to-the-world-of-digital-money-2b013c9469b1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-15T13:34:43.000Z",
+          "wordCount": 2569,
+          "title": "Cryptocurrency 101: An introduction to the world of digital money",
+          "imageUrl": "https://miro.medium.com/max/1024/1*6Za5CDr0Ku1yvtle6qIdVQ.png"
+        },
+        {
+          "id": "https://medium.com/p/19248612afed",
+          "author": "Sebastian Ciceu",
+          "description": "Ethereum is a decentralized, open-source blockchain platform that supports smart contracts and allows for the creation of decentralized…",
+          "link": "https://coinsbench.com/why-ethereum-is-switching-from-proof-of-work-to-proof-of-stake-and-what-it-means-for-the-network-19248612afed?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-15T13:34:36.000Z",
+          "wordCount": 2465,
+          "title": "Why Ethereum is Switching from Proof of Work to Proof of Stake and What it Means for the Network?",
+          "imageUrl": "https://miro.medium.com/max/1024/1*ut2kK7hz4YSW343YeiDz1A.png"
+        },
+        {
+          "id": "https://medium.com/p/c5bfe10bc804",
+          "author": "Silver / Toolblox",
+          "description": "While studying blockchain and smart-contract development one will eventually run into the term ‘self-executing’. Statements might be…",
+          "link": "https://coinsbench.com/what-are-self-executing-smart-contracts-c5bfe10bc804?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-15T13:34:29.000Z",
+          "wordCount": 3221,
+          "title": "What are ‘self-executing’ smart contracts?",
+          "imageUrl": "https://miro.medium.com/max/1200/1*MsEQApfgkZx00_Q5k7D9wQ.png"
+        },
+        {
+          "id": "https://medium.com/p/599aff68a9b4",
+          "author": "0xcsp",
+          "description": "The Ethernaut-Solutions repository contains the solutions using Foundry and Hardhat.",
+          "link": "https://coinsbench.com/ethernaut-level-4-telephone-foundry-hardhat-599aff68a9b4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-15T13:34:22.000Z",
+          "wordCount": 1467,
+          "title": "Ethernaut level 4—Telephone [Foundry-Hardhat]",
+          "imageUrl": "https://miro.medium.com/max/1200/1*__ZDL5XYN6kJRu_SGC_1Eg.png"
+        },
+        {
+          "id": "https://medium.com/p/f39bd1fe2a77",
+          "author": "Man Xu",
+          "description": "It is difficult for the metadata in dNFT(dynamic NFT) to achieve “decentralization” and “dynamic change” at the same time.",
+          "link": "https://coinsbench.com/storage-of-dynamic-nft-metadata-based-on-db3-network-f39bd1fe2a77?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-15T13:34:12.000Z",
+          "wordCount": 3498,
+          "title": "Storage of dynamic NFT metadata based on DB3 Network",
+          "imageUrl": "https://miro.medium.com/max/1200/1*jqur9zVsPKGEF7HLo_G32A.png"
+        },
+        {
           "id": "https://medium.com/p/a3380d40f39c",
           "author": "ismail",
           "description": "Have you ever heard about the KISS? Sure you do :). Wait let me clarify it more I am talking about the KISS principle.",
@@ -77,56 +127,6 @@
           "wordCount": 1400,
           "title": "Crypto Of Today: Tron ( $TRON )",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8d2a2a9cbebd",
-          "author": "Chris",
-          "description": "This post is intended for developers to learn how to write and deploy a Smart Contract on Ethereum using the Solidity programming…",
-          "link": "https://coinsbench.com/how-to-write-and-deploy-your-first-smart-contract-on-ethereum-with-solidity-8d2a2a9cbebd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-14T12:56:56.000Z",
-          "wordCount": 2800,
-          "title": "How To Write And Deploy Your First Smart Contract On Ethereum With Solidity",
-          "imageUrl": "https://miro.medium.com/max/1200/1*EkWI7deMKoyeUPieO2YePQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/33e1220b4902",
-          "author": "Chris",
-          "description": "Are you looking to start an NFT marketing agency? In this blog post, we will provide you with a step-by-step guide on how to start a…",
-          "link": "https://coinsbench.com/how-to-start-a-successful-nft-marketing-agency-in-2023-33e1220b4902?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-14T12:56:47.000Z",
-          "wordCount": 3116,
-          "title": "How to start a Successful NFT Marketing Agency in 2023",
-          "imageUrl": "https://miro.medium.com/max/1024/0*t-w7VoY0upwRclQy.png"
-        },
-        {
-          "id": "https://medium.com/p/6664a1d2c51c",
-          "author": "Abbas Aslanbay",
-          "description": "To implement lazy minting in an NFT contract, you need to take the following steps:",
-          "link": "https://coinsbench.com/how-to-implement-lazy-minting-in-your-nft-contract-6664a1d2c51c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-14T12:56:39.000Z",
-          "wordCount": 2566,
-          "title": "How to Implement Lazy Minting in your NFT Contract",
-          "imageUrl": "https://miro.medium.com/max/1200/1*M5JSWes38UjdpAJPm7dzuQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/234bba08e285",
-          "author": "Salah I.",
-          "description": "Capture The Ether is a CTF (capture the flag) game based Solidity and the EVM, where the goal is to hack multiple smart contract and steal…",
-          "link": "https://coinsbench.com/capture-the-ether-deprecated-part1-lotteries-234bba08e285?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-14T12:56:21.000Z",
-          "wordCount": 5134,
-          "title": "Capture The Ether (deprecated) part1 : Lotteries",
-          "imageUrl": "https://miro.medium.com/max/1200/1*5y-XvNJh9JRWLJwcvVct1A.png"
-        },
-        {
-          "id": "https://medium.com/p/76d6712d9c1c",
-          "author": "Fizo Network",
-          "description": "Generating real value beyond financial system",
-          "link": "https://coinsbench.com/designing-a-decentralized-profile-dapp-for-fizo-network-76d6712d9c1c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-14T12:55:55.000Z",
-          "wordCount": 11072,
-          "title": "Designing a decentralized profile dApp For Fizo Network",
-          "imageUrl": "https://miro.medium.com/max/1200/1*3qPuLnnGTceaHnEz5PYM0g.png"
         }
       ]
     },

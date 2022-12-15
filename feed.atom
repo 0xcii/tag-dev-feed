@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-15T13:21:49.580Z</id>
+    <id>urn:2022-12-15T14:12:24.656Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-15T13:21:49.580Z</updated>
+    <updated>2022-12-15T14:12:24.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cryptocurrency 101: An introduction to the world of digital money]]></title>
+        <id>https://medium.com/p/2b013c9469b1</id>
+        <link href="https://coinsbench.com/cryptocurrency-101-an-introduction-to-the-world-of-digital-money-2b013c9469b1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-15T13:34:43.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrency is a type of digital or virtual currency that uses cryptography for security and is decentralized, meaning that it is not…]]></summary>
+        <author>
+            <name>Sebastian Ciceu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Ethereum is Switching from Proof of Work to Proof of Stake and What it Means for the Network?]]></title>
+        <id>https://medium.com/p/19248612afed</id>
+        <link href="https://coinsbench.com/why-ethereum-is-switching-from-proof-of-work-to-proof-of-stake-and-what-it-means-for-the-network-19248612afed?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-15T13:34:36.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum is a decentralized, open-source blockchain platform that supports smart contracts and allows for the creation of decentralized…]]></summary>
+        <author>
+            <name>Sebastian Ciceu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are ‘self-executing’ smart contracts?]]></title>
+        <id>https://medium.com/p/c5bfe10bc804</id>
+        <link href="https://coinsbench.com/what-are-self-executing-smart-contracts-c5bfe10bc804?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-15T13:34:29.000Z</updated>
+        <summary type="html"><![CDATA[While studying blockchain and smart-contract development one will eventually run into the term ‘self-executing’. Statements might be…]]></summary>
+        <author>
+            <name>Silver / Toolblox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethernaut level 4—Telephone [Foundry-Hardhat]]]></title>
+        <id>https://medium.com/p/599aff68a9b4</id>
+        <link href="https://coinsbench.com/ethernaut-level-4-telephone-foundry-hardhat-599aff68a9b4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-15T13:34:22.000Z</updated>
+        <summary type="html"><![CDATA[The Ethernaut-Solutions repository contains the solutions using Foundry and Hardhat.]]></summary>
+        <author>
+            <name>0xcsp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storage of dynamic NFT metadata based on DB3 Network]]></title>
+        <id>https://medium.com/p/f39bd1fe2a77</id>
+        <link href="https://coinsbench.com/storage-of-dynamic-nft-metadata-based-on-db3-network-f39bd1fe2a77?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-15T13:34:12.000Z</updated>
+        <summary type="html"><![CDATA[It is difficult for the metadata in dNFT(dynamic NFT) to achieve “decentralization” and “dynamic change” at the same time.]]></summary>
+        <author>
+            <name>Man Xu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KISS WEB 3.0]]></title>
         <id>https://medium.com/p/a3380d40f39c</id>
@@ -53,56 +103,6 @@
         <summary type="html"><![CDATA[“Yo, Ethereum! I’m happy for you, and I’ll let you finish. But I elect Tron as the greatest blockchain of all time!” — Kanye East.]]></summary>
         <author>
             <name>Godwrath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Write And Deploy Your First Smart Contract On Ethereum With Solidity]]></title>
-        <id>https://medium.com/p/8d2a2a9cbebd</id>
-        <link href="https://coinsbench.com/how-to-write-and-deploy-your-first-smart-contract-on-ethereum-with-solidity-8d2a2a9cbebd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-14T12:56:56.000Z</updated>
-        <summary type="html"><![CDATA[This post is intended for developers to learn how to write and deploy a Smart Contract on Ethereum using the Solidity programming…]]></summary>
-        <author>
-            <name>Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to start a Successful NFT Marketing Agency in 2023]]></title>
-        <id>https://medium.com/p/33e1220b4902</id>
-        <link href="https://coinsbench.com/how-to-start-a-successful-nft-marketing-agency-in-2023-33e1220b4902?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-14T12:56:47.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking to start an NFT marketing agency? In this blog post, we will provide you with a step-by-step guide on how to start a…]]></summary>
-        <author>
-            <name>Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Lazy Minting in your NFT Contract]]></title>
-        <id>https://medium.com/p/6664a1d2c51c</id>
-        <link href="https://coinsbench.com/how-to-implement-lazy-minting-in-your-nft-contract-6664a1d2c51c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-14T12:56:39.000Z</updated>
-        <summary type="html"><![CDATA[To implement lazy minting in an NFT contract, you need to take the following steps:]]></summary>
-        <author>
-            <name>Abbas Aslanbay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capture The Ether (deprecated) part1 : Lotteries]]></title>
-        <id>https://medium.com/p/234bba08e285</id>
-        <link href="https://coinsbench.com/capture-the-ether-deprecated-part1-lotteries-234bba08e285?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-14T12:56:21.000Z</updated>
-        <summary type="html"><![CDATA[Capture The Ether is a CTF (capture the flag) game based Solidity and the EVM, where the goal is to hack multiple smart contract and steal…]]></summary>
-        <author>
-            <name>Salah I.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing a decentralized profile dApp For Fizo Network]]></title>
-        <id>https://medium.com/p/76d6712d9c1c</id>
-        <link href="https://coinsbench.com/designing-a-decentralized-profile-dapp-for-fizo-network-76d6712d9c1c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-14T12:55:55.000Z</updated>
-        <summary type="html"><![CDATA[Generating real value beyond financial system]]></summary>
-        <author>
-            <name>Fizo Network</name>
         </author>
     </entry>
     <entry>
