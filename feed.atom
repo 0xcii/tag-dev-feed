@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T20:12:51.606Z</id>
+    <id>urn:2022-12-16T21:12:00.734Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-16T20:12:51.606Z</updated>
+    <updated>2022-12-16T21:12:00.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DevNTell - Storedat.io]]></title>
+        <id>https://blog.developerdao.com/devntell-storedatio</id>
+        <link href="https://blog.developerdao.com/devntell-storedatio"/>
+        <updated>2022-12-16T20:24:09.000Z</updated>
+        <summary type="html"><![CDATA[🌈 GM
+In this week's episode of DevNTell, Developer DAO member Narb gives us an overview of his new venture called Storedat: Web3 storage made easy
+🌟 Developer Spotlight
+If you'd like to learn a bit about Narb you can check out the following resources:
+Introductory blog post: https://narb.hashnode.dev/narb-a-web3-story
+Humans of D_D Podcast:
+
+
+
+https://www.youtube.com/watch?v=tm5lgiYHH2E
+ 
+🧠 About Storedat
+Storedat is a GraphQL API built on top of existing web3 storage providers like Arweave and Filecoin. We exist to accelerate the adoption of decentralized storage by providing a provider agnostic way to read and write data with those protocols all the while abstracting away web3 from the user. No dealing with wallets, signing transactions, storing private keys, paying transaction costs, and so on.
+Just plug in and Storedat
+Resources:
+Website: https://storedat.io
+Sign up for the Beta: https://auth.storedat.io
+Docs: https://docs.storedat.io
+API Playground: https://perma.storedat.io/api/v1/graphql
+Starter template: https://github.com/Glosseta/storedat-api-starter-template
+Twitter: https://www.twitter.com/storedat_io
+Glosseta Foundation: https://www.glosseta.foundation
+🎥 Presentation
+
+
+
+https://www.youtube.com/watch?v=ULpuwe108FY]]></summary>
+        <author>
+            <name>Narbeh Shahnazarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSC | How Will Elon Musk’s Twitter Acquisition Impact the Crypto Industry?]]></title>
         <id>https://medium.com/p/fdf1a66aa01f</id>

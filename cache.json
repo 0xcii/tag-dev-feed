@@ -124,7 +124,7 @@
           "description": "“If you put your trust in me, I promise you that I will think about not failing you.” — A Presidential Candidate.",
           "link": "https://coinsbench.com/crypto-of-today-trustswap-swap-b25e732b5d78?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2022-12-16T14:21:38.000Z",
-          "wordCount": 1084,
+          "wordCount": 1367,
           "title": "Crypto Of Today: TrustSwap ( $SWAP )",
           "imageUrl": null
         }
@@ -171,7 +171,7 @@
           "description": "What is the Blockchain? -",
           "link": "https://medium.com/coinmonks/bites-of-trading-knowledge-18-86e8a41baffd?source=rss----721b17443fd5---4",
           "publishedOn": "2022-12-14T02:34:17.000Z",
-          "wordCount": 2202,
+          "wordCount": 2265,
           "title": "Bites Of Trading Knowledge #18",
           "imageUrl": "https://miro.medium.com/max/1200/1*LYL9Kr_UXrPu5cAi2307LQ.jpeg"
         },
@@ -201,7 +201,7 @@
           "description": "Your job might be in danger",
           "link": "https://medium.com/coinmonks/chatgpt-the-ai-of-everything-9ae68f023af9?source=rss----721b17443fd5---4",
           "publishedOn": "2022-12-14T02:33:10.000Z",
-          "wordCount": 2319,
+          "wordCount": 2266,
           "title": "ChatGPT: The AI of Everything",
           "imageUrl": "https://miro.medium.com/max/1024/1*FkY5AQdqaUS8kROS5ZH5qg.png"
         },
@@ -221,7 +221,7 @@
           "description": "Coca-Cola (KO)\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/top-5-stocks-to-buy-today-12th-of-december-99ae6fd91314?source=rss----721b17443fd5---4",
           "publishedOn": "2022-12-14T02:32:53.000Z",
-          "wordCount": 1382,
+          "wordCount": 1272,
           "title": "Top 5 Stocks to Buy Today, 12th of December",
           "imageUrl": "https://miro.medium.com/max/1200/1*S1ybjhmw6JkV5QptkoMCNA.jpeg"
         },
@@ -231,7 +231,7 @@
           "description": "Algorand (ALGO)\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/3-cryptocurrencies-that-you-must-have-in-portfolio-b57e8a85f284?source=rss----721b17443fd5---4",
           "publishedOn": "2022-12-14T02:32:44.000Z",
-          "wordCount": 1336,
+          "wordCount": 1441,
           "title": "3 Cryptocurrencies that you must have in portfolio",
           "imageUrl": "https://miro.medium.com/max/1200/1*CDGFB_3z-V1I_oErnsNZbg.jpeg"
         }
@@ -288,7 +288,7 @@
           "description": "Hello There,",
           "link": "https://blog.blockmagnates.com/writing-smart-contracts-with-hardhat-easy-steps-7dde5fdfda74?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2022-11-23T14:24:39.000Z",
-          "wordCount": 1863,
+          "wordCount": 1788,
           "title": "Writing smart contracts with Hardhat easy steps.",
           "imageUrl": "https://miro.medium.com/max/1024/1*SpR6Ctgkw2n71UtmNWzGKg.jpeg"
         },
@@ -308,7 +308,7 @@
           "description": "TL;DR: I analyze a “front running bot” code, build to scam people into believing they’ll get passive income, when in reality they’ll lose…",
           "link": "https://blog.blockmagnates.com/analyzing-a-scammers-uniswap-front-run-bot-malicious-code-7c039f0004fd?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2022-11-23T14:23:36.000Z",
-          "wordCount": 2295,
+          "wordCount": 2250,
           "title": "Analyzing a Scammer’s “Uniswap Front Run Bot” Malicious Code",
           "imageUrl": "https://miro.medium.com/max/1200/0*hrAhhNs3t6zJcTgS"
         }
@@ -319,6 +319,16 @@
       "feedUrl": "https://blog.developerdao.com/rss.xml",
       "siteUrl": "https://blog.developerdao.com",
       "articles": [
+        {
+          "id": "https://blog.developerdao.com/devntell-storedatio",
+          "author": "Narbeh Shahnazarian",
+          "description": "🌈 GM\nIn this week's episode of DevNTell, Developer DAO member Narb gives us an overview of his new venture called Storedat: Web3 storage made easy\n🌟 Developer Spotlight\nIf you'd like to learn a bit about Narb you can check out the following resources:\nIntroductory blog post: https://narb.hashnode.dev/narb-a-web3-story\nHumans of D_D Podcast:\n\n\n\nhttps://www.youtube.com/watch?v=tm5lgiYHH2E\n \n🧠 About Storedat\nStoredat is a GraphQL API built on top of existing web3 storage providers like Arweave and Filecoin. We exist to accelerate the adoption of decentralized storage by providing a provider agnostic way to read and write data with those protocols all the while abstracting away web3 from the user. No dealing with wallets, signing transactions, storing private keys, paying transaction costs, and so on.\nJust plug in and Storedat\nResources:\nWebsite: https://storedat.io\nSign up for the Beta: https://auth.storedat.io\nDocs: https://docs.storedat.io\nAPI Playground: https://perma.storedat.io/api/v1/graphql\nStarter template: https://github.com/Glosseta/storedat-api-starter-template\nTwitter: https://www.twitter.com/storedat_io\nGlosseta Foundation: https://www.glosseta.foundation\n🎥 Presentation\n\n\n\nhttps://www.youtube.com/watch?v=ULpuwe108FY",
+          "link": "https://blog.developerdao.com/devntell-storedatio",
+          "publishedOn": "2022-12-16T20:24:09.000Z",
+          "wordCount": 2414,
+          "title": "DevNTell - Storedat.io",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671221225993%2FTNx039umX.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
         {
           "id": "https://blog.developerdao.com/devntell-blocktorch",
           "author": "Narbeh Shahnazarian",
