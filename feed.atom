@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T03:13:43.800Z</id>
+    <id>urn:2022-12-16T04:15:15.318Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-16T03:13:43.800Z</updated>
+    <updated>2022-12-16T04:15:15.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -491,18 +491,6 @@ Twitter: https://twitter.com/biconomy
 🎥 Presentation]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Lens Protocol Changes Non-Social Networks]]></title>
-        <id>https://blog.developerdao.com/how-lens-protocol-changes-non-social-networks</id>
-        <link href="https://blog.developerdao.com/how-lens-protocol-changes-non-social-networks"/>
-        <updated>2022-11-16T15:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Lens Protocol is a self-described composable and decentralized social graph, but what does that mean?
-Lens Protocol allows developers to plug a well-connected social graph into any application without the need to onboard users and fill out profiles. The same team who brought you AAVE Protocol also built Lens Protocol. Lens' mission promises to provide the last social media handle you will ever need. You can find me on it at @ntindle.lens.
-The ability to quickly and easily source a social graph cannot be understated. It allows users to swap from apps like Lenstube.xyz (a youtube clone) to Lenster.xyz (a Twitter clone) and brings all their followers, friends, and posts with them. It is the ultimate social media launching ground and will fundamentally change how users interact with social med…]]></summary>
-        <author>
-            <name>Nick Tindle</name>
         </author>
     </entry>
 </feed>
