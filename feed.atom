@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-21T15:13:58.329Z</id>
+    <id>urn:2022-12-21T16:18:22.170Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-21T15:13:58.329Z</updated>
+    <updated>2022-12-21T16:18:22.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create NFT Smart Contract with thirdweb and Chainlink]]></title>
+        <id>https://blog.developerdao.com/create-nft-smart-contract-with-thirdweb-and-chainlink</id>
+        <link href="https://blog.developerdao.com/create-nft-smart-contract-with-thirdweb-and-chainlink"/>
+        <updated>2022-12-21T15:20:42.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will build a custom ERC-721 NFT collection using thirdweb and Chainlink. We will use thirdweb ContractKit for the ERC-721 token standard, thirdweb deploy to deploy our smart contract to Mumbai Testnet, and Chainlink Data Feeds to fetch the realtime price of Matic to set the base price for minting NFT. We will build and deploy a smart contract that allows users to mint NFT. The user has to pay at least $1 in Matic to mint the NFT. We get the actual price conversion using Chainlink Data Feeds.
+What is ERC-721?
+ERC-721 is a free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
+The ERC-721 introduces a standard fo…]]></summary>
+        <author>
+            <name>Aayush Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elon Musk asks if he should quit Twitter and bitcoiners put forward their candidates]]></title>
         <id>https://medium.com/p/e03fbef293c0</id>

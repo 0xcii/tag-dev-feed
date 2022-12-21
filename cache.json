@@ -114,7 +114,7 @@
           "description": "On April 14, 2022, it was announced that Elon Musk had reached an agreement to acquire Twitter. After months of back and forth between Musk…",
           "link": "https://coinsbench.com/csc-how-will-elon-musks-twitter-acquisition-impact-the-crypto-industry-fdf1a66aa01f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2022-12-16T14:23:03.000Z",
-          "wordCount": 2957,
+          "wordCount": 2954,
           "title": "CSC | How Will Elon Musk’s Twitter Acquisition Impact the Crypto Industry?",
           "imageUrl": "https://miro.medium.com/max/1080/1*pUxaEw9Rk8OAPThQlJxrdw.jpeg"
         },
@@ -329,6 +329,16 @@
       "feedUrl": "https://blog.developerdao.com/rss.xml",
       "siteUrl": "https://blog.developerdao.com",
       "articles": [
+        {
+          "id": "https://blog.developerdao.com/create-nft-smart-contract-with-thirdweb-and-chainlink",
+          "author": "Aayush Gupta",
+          "description": "In this tutorial, we will build a custom ERC-721 NFT collection using thirdweb and Chainlink. We will use thirdweb ContractKit for the ERC-721 token standard, thirdweb deploy to deploy our smart contract to Mumbai Testnet, and Chainlink Data Feeds to fetch the realtime price of Matic to set the base price for minting NFT. We will build and deploy a smart contract that allows users to mint NFT. The user has to pay at least $1 in Matic to mint the NFT. We get the actual price conversion using Chainlink Data Feeds.\nWhat is ERC-721?\nERC-721 is a free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.\nThe ERC-721 introduces a standard fo…",
+          "link": "https://blog.developerdao.com/create-nft-smart-contract-with-thirdweb-and-chainlink",
+          "publishedOn": "2022-12-21T15:20:42.000Z",
+          "wordCount": 13161,
+          "title": "Create NFT Smart Contract with thirdweb and Chainlink",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671028837198%2Fu-fbsXVOj.png%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
         {
           "id": "https://blog.developerdao.com/devntell-storedatio",
           "author": "Narbeh Shahnazarian",
