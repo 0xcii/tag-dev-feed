@@ -29,6 +29,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e6d8d9f448a8",
+          "author": "Souvik Haldar",
+          "description": "The Basis of Web3 and Blockchain",
+          "link": "https://coinsbench.com/hole-punching-how-peer-to-peer-communication-works-e6d8d9f448a8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-23T15:11:51.000Z",
+          "wordCount": 1517,
+          "title": "Hole Punching: How Peer To Peer Communication Works",
+          "imageUrl": "https://miro.medium.com/max/800/1*nbJdMpebQAA_fmA0VrLUZw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/b7158f3400db",
+          "author": "RadientBrain",
+          "description": "InterPlanetary File System (IPFS) is a decentralized and distributed file system that allows users to share and store data in a…",
+          "link": "https://coinsbench.com/getting-started-with-ipfs-and-publishing-your-content-on-it-free-database-b7158f3400db?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-23T15:11:42.000Z",
+          "wordCount": 3053,
+          "title": "Getting started with IPFS and publishing your content on it (Free Database)",
+          "imageUrl": "https://miro.medium.com/max/960/1*VBz0ewLz28Wt-yKNXl23dQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/581e92687422",
+          "author": "0xcsp",
+          "description": "The Ethernaut-Solutions repository contains the solutions using Foundry and Hardhat.",
+          "link": "https://coinsbench.com/ethernaut-level-7-force-foundry-hardhat-581e92687422?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-23T15:11:34.000Z",
+          "wordCount": 2091,
+          "title": "Ethernaut level 7 - Force [Foundry-Hardhat]",
+          "imageUrl": "https://miro.medium.com/max/1200/1*BSgzSR2sK19hYPoEWU0Qkg.png"
+        },
+        {
+          "id": "https://medium.com/p/eefa10021540",
+          "author": "Jeremy Timessen - Cryptospacer",
+          "description": "We will start with a short introduction to smart contracts in general and then use vending machines as a metaphor to give an in-depth…",
+          "link": "https://coinsbench.com/how-smart-contracts-are-like-vending-machines-eefa10021540?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-23T15:11:25.000Z",
+          "wordCount": 3073,
+          "title": "How Smart Contracts Are Like Vending Machines",
+          "imageUrl": "https://miro.medium.com/max/1200/1*iHIU83POhnQSF4kY8T9naQ.png"
+        },
+        {
+          "id": "https://medium.com/p/b363c3192568",
+          "author": "Man Xu",
+          "description": "DB3 TestNet Release",
+          "link": "https://coinsbench.com/db3-testnet-release-b363c3192568?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-23T15:11:15.000Z",
+          "wordCount": 3055,
+          "title": "Come to Write data into your first decentralized database",
+          "imageUrl": "https://miro.medium.com/max/1200/1*sSvA_sUjCgQdhvx_dyo_Cg.png"
+        },
+        {
           "id": "https://medium.com/p/250740a078a4",
           "author": "ismail",
           "description": "Hello everyone",
@@ -77,56 +127,6 @@
           "wordCount": 3936,
           "title": "Ceramic Deployment on AWS S3 with IPFS setup",
           "imageUrl": "https://miro.medium.com/max/1024/1*5DsGDsKFuMwJdy17Ef1w4g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3fe49bfc2ce1",
-          "author": "Karan Pargal",
-          "description": "Blockchain is taking over every developer’s must-have tech and it’s the talk of the world right now. Ethereum, one of the most popular…",
-          "link": "https://coinsbench.com/write-your-own-erc-20-token-smart-contract-in-solidity-3fe49bfc2ce1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-19T13:45:23.000Z",
-          "wordCount": 3415,
-          "title": "Write your own ERC-20 token smart contract in Solidity",
-          "imageUrl": "https://miro.medium.com/max/1200/1*sX2JJLnqduX3qzGEtOyHeA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d9d52e5ce39a",
-          "author": "0xcsp",
-          "description": "The Ethernaut-Solutions repository contains the solutions using Foundry and Hardhat.",
-          "link": "https://coinsbench.com/ethernaut-level-5-token-foundry-hardhat-d9d52e5ce39a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-19T13:45:11.000Z",
-          "wordCount": 2369,
-          "title": "Ethernaut level 5 - Token [Foundry-Hardhat]",
-          "imageUrl": "https://miro.medium.com/max/1200/1*LmiAPMal99JVHCtd54Nlng.png"
-        },
-        {
-          "id": "https://medium.com/p/c438d9b2061a",
-          "author": "George Tzortzakis",
-          "description": "If you opened this article, chances are you are more than familiar with what Bitcoin is. So I won’t make an introduction to the basics.",
-          "link": "https://coinsbench.com/zk-rollups-for-bitcoin-more-like-validity-rollups-c438d9b2061a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-19T13:44:58.000Z",
-          "wordCount": 3502,
-          "title": "ZK rollups for Bitcoin? More like Validity Rollups.",
-          "imageUrl": "https://miro.medium.com/max/1200/1*a-M7G-KMYCpYP6gXb1J6MQ.png"
-        },
-        {
-          "id": "https://medium.com/p/fdf1a66aa01f",
-          "author": "Penuel",
-          "description": "On April 14, 2022, it was announced that Elon Musk had reached an agreement to acquire Twitter. After months of back and forth between Musk…",
-          "link": "https://coinsbench.com/csc-how-will-elon-musks-twitter-acquisition-impact-the-crypto-industry-fdf1a66aa01f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-16T14:23:03.000Z",
-          "wordCount": 2947,
-          "title": "CSC | How Will Elon Musk’s Twitter Acquisition Impact the Crypto Industry?",
-          "imageUrl": "https://miro.medium.com/max/1080/1*pUxaEw9Rk8OAPThQlJxrdw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/4adaa47302b0",
-          "author": "Chris",
-          "description": "In this blog post, we will learn How to Create a custom ERC-20 token on the Ethereum Blockchain using Solidity and deploy it to a public…",
-          "link": "https://coinsbench.com/how-to-create-an-erc-20-token-sale-with-solidity-and-deploy-on-ethereum-part-i-4adaa47302b0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-16T14:22:40.000Z",
-          "wordCount": 25823,
-          "title": "How To Create An ERC-20 Token Sale With Solidity And Deploy On Ethereum — Part I",
-          "imageUrl": "https://miro.medium.com/max/768/1*URyReBH1eWbkeIXIHLzE9w.jpeg"
         }
       ]
     },
@@ -135,6 +135,76 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/db20f7581278",
+          "author": "White Hat Crypto",
+          "description": "The shifting dynamics and FUD have raised many concerns regarding Binance’s stability!",
+          "link": "https://medium.com/coinmonks/breaking-is-binance-falling-down-to-zero-db20f7581278?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-23T16:01:23.000Z",
+          "wordCount": 3068,
+          "title": "Breaking: Is Binance falling down to zero!?",
+          "imageUrl": "https://miro.medium.com/max/1200/1*_clW9moIO5rLAmgvimmOEQ.png"
+        },
+        {
+          "id": "https://medium.com/p/45a4907758c4",
+          "author": "PinaDeFi",
+          "description": "Blockchain technology works in a decentralized way.",
+          "link": "https://medium.com/coinmonks/blockchain-technology-is-not-a-common-database-45a4907758c4?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-23T16:01:14.000Z",
+          "wordCount": 1631,
+          "title": "Blockchain technology is not a common database",
+          "imageUrl": "https://miro.medium.com/max/940/1*M4ggFwjPin5XC5_wln5tpg.png"
+        },
+        {
+          "id": "https://medium.com/p/d1d86b17d115",
+          "author": "Sajawal Fareedi",
+          "description": "Asking ChatGPT to create a smart contract that will call ChatGPT from Solidity smart contract",
+          "link": "https://medium.com/coinmonks/chatgpt-x-solidity-d1d86b17d115?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-23T16:01:05.000Z",
+          "wordCount": 1725,
+          "title": "ChatGPT x Solidity",
+          "imageUrl": "https://miro.medium.com/max/700/0*IYgn7HFkxeqQciMB.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/24c9ed05dce8",
+          "author": "Trader ₿",
+          "description": "As a cryptocurrency trader or investor, it’s important to have a set of tools and techniques at your disposal to help you make informed…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-rsi-relative-strength-index-revealed-the-ultimate-crypto-trading-tool-for-maximizing-profits-24c9ed05dce8?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-23T16:00:57.000Z",
+          "wordCount": 1069,
+          "title": "The RSI (Relative Strength Index) Revealed: The Ultimate Crypto Trading Tool for Maximizing Profits!",
+          "imageUrl": "https://miro.medium.com/max/1200/0*lNyixWg-kHwfAZTQ"
+        },
+        {
+          "id": "https://medium.com/p/cbc5691fd552",
+          "author": "Trader ₿",
+          "description": "Emotions play a significant role in financial decision-making, and this is especially true in the volatile world of cryptocurrency…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/unleash-your-inner-crypto-trading-beast-and-conquer-your-emotional-fears-with-the-fear-and-greed-cbc5691fd552?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-23T16:00:47.000Z",
+          "wordCount": 1291,
+          "title": "Unleash Your Inner Crypto Trading Beast and Conquer Your Emotional Fears With the Fear and Greed…",
+          "imageUrl": "https://miro.medium.com/max/1200/0*JjjFL4GTfNvkZY-w"
+        },
+        {
+          "id": "https://medium.com/p/53265370fe99",
+          "author": "dwulf",
+          "description": "~dwulf",
+          "link": "https://medium.com/coinmonks/rust-by-way-of-the-buddha-an-introspective-view-of-the-way-53265370fe99?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-23T15:59:46.000Z",
+          "wordCount": 2755,
+          "title": "Rust by way of the Buddha, an Introspective View of the Way",
+          "imageUrl": "https://miro.medium.com/max/1200/1*6XQJwyfk-CGKbF3iN-_jtQ.png"
+        },
+        {
+          "id": "https://medium.com/p/80cdd1964d0",
+          "author": "Jim Clarke",
+          "description": "SBF was charged with both securities and commodities fraud. The government is hedging their bets with both securities and commodities…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/will-the-sec-use-sam-bankman-fried-and-ftx-to-finally-regulate-crypto-80cdd1964d0?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-23T15:58:35.000Z",
+          "wordCount": 1042,
+          "title": "Will the SEC use Sam Bankman-Fried and FTX to finally regulate crypto?",
+          "imageUrl": "https://miro.medium.com/max/622/1*onR884J-CeBe2yVZMgQikA.png"
+        },
         {
           "id": "https://medium.com/p/3089e8f87458",
           "author": "Adnan Umar",
@@ -164,76 +234,6 @@
           "wordCount": 2530,
           "title": "Borrow money from Your Future Self with DeFi Time-Locked Loans",
           "imageUrl": "https://miro.medium.com/freeze/max/640/1*apelOJ6aWeMkG-upFuwUrQ.gif"
-        },
-        {
-          "id": "https://medium.com/p/be2e65f21885",
-          "author": "Jim Clarke",
-          "description": "Short answer: Bitcoin (BTC) doesn’t have a company running it. Just like oil, soybeans, copper, gold, and other commodities there is…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-is-a-digital-commodity-and-the-altcoins-like-eth-and-ada-are-securities-be2e65f21885?source=rss----721b17443fd5---4",
-          "publishedOn": "2022-12-23T14:35:11.000Z",
-          "wordCount": 1379,
-          "title": "Bitcoin is a digital commodity and the altcoins like ETH and ADA are securities",
-          "imageUrl": "https://miro.medium.com/max/624/1*W010JBH2mpdDpJhenpaEpQ.png"
-        },
-        {
-          "id": "https://medium.com/p/d6e631b5cd6e",
-          "author": "Sebastian Ciceu",
-          "description": "Cryptocurrency trading is a popular and potentially lucrative activity that has gained a lot of attention on Twitter. By following relevant…",
-          "link": "https://medium.com/coinmonks/how-to-succeed-in-cryptocurrency-trading-by-leveraging-twitter-and-on-chain-data-d6e631b5cd6e?source=rss----721b17443fd5---4",
-          "publishedOn": "2022-12-23T14:35:06.000Z",
-          "wordCount": 2051,
-          "title": "How to Succeed in Cryptocurrency Trading by Leveraging Twitter and On-Chain Data",
-          "imageUrl": "https://miro.medium.com/max/1024/1*1amr6qrSovyYVUvR0WrbqA.png"
-        },
-        {
-          "id": "https://medium.com/p/2b013c9469b1",
-          "author": "Sebastian Ciceu",
-          "description": "A cryptocurrency is a type of digital or virtual currency that uses cryptography for security and is decentralized, meaning that it is not…",
-          "link": "https://medium.com/coinmonks/cryptocurrency-101-an-introduction-to-the-world-of-digital-money-2b013c9469b1?source=rss----721b17443fd5---4",
-          "publishedOn": "2022-12-23T14:34:26.000Z",
-          "wordCount": 2664,
-          "title": "Cryptocurrency 101: An introduction to the world of digital money",
-          "imageUrl": "https://miro.medium.com/max/1024/1*6Za5CDr0Ku1yvtle6qIdVQ.png"
-        },
-        {
-          "id": "https://medium.com/p/4b80fb5e4491",
-          "author": "Muktanshu Mishra",
-          "description": "Another Instalment of the Top 10 Web3 Terms and their meaning.",
-          "link": "https://medium.com/coinmonks/your-very-own-web3-glossary-returns-4b80fb5e4491?source=rss----721b17443fd5---4",
-          "publishedOn": "2022-12-23T14:34:21.000Z",
-          "wordCount": 2205,
-          "title": "Your very own Web3 Glossary returns!",
-          "imageUrl": "https://miro.medium.com/max/1200/1*vuG5-XXuXlr0DemR0eow8Q.png"
-        },
-        {
-          "id": "https://medium.com/p/251c87aac93a",
-          "author": "Sebastian Ciceu",
-          "description": "Understanding these layers can help you make better decisions about which technology is best for your project.",
-          "link": "https://medium.com/coinmonks/do-you-know-the-difference-between-layer-1-and-layer-2-blockchain-projects-251c87aac93a?source=rss----721b17443fd5---4",
-          "publishedOn": "2022-12-23T13:44:39.000Z",
-          "wordCount": 2171,
-          "title": "Do you know the difference between Layer 1 and Layer 2 blockchain projects?",
-          "imageUrl": "https://miro.medium.com/max/837/1*KiOIW7GIa-c_muVPbEVUmw.png"
-        },
-        {
-          "id": "https://medium.com/p/d6f7c8669914",
-          "author": "Sebastian Ciceu",
-          "description": "Blockchain gaming, also known as crypto gaming, is a relatively new and rapidly growing sector of the gaming industry that uses blockchain…",
-          "link": "https://medium.com/coinmonks/the-future-of-gaming-how-blockchain-technology-is-revolutionizing-the-industry-d6f7c8669914?source=rss----721b17443fd5---4",
-          "publishedOn": "2022-12-23T13:44:31.000Z",
-          "wordCount": 2278,
-          "title": "The Future of Gaming: How Blockchain Technology is Revolutionizing the Industry",
-          "imageUrl": "https://miro.medium.com/max/1024/1*C8Zvl6N4DLN4UpXuvvxWew.png"
-        },
-        {
-          "id": "https://medium.com/p/de22a3683633",
-          "author": "Sajawal Fareedi",
-          "description": "Interview of ChatGPT!",
-          "link": "https://medium.com/coinmonks/chatgpt-thoughts-about-cryptocurrency-de22a3683633?source=rss----721b17443fd5---4",
-          "publishedOn": "2022-12-23T13:25:29.000Z",
-          "wordCount": 4392,
-          "title": "ChatGPT thoughts about cryptocurrency",
-          "imageUrl": "https://miro.medium.com/max/700/0*TM_I2qF39D68hVxo.png"
         }
       ]
     },
