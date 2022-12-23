@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-23T01:01:30.341Z</id>
+    <id>urn:2022-12-23T02:34:28.978Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-23T01:01:30.341Z</updated>
+    <updated>2022-12-23T02:34:28.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -501,37 +501,6 @@ Easy Implementation
 It's also faster to get up and running with sessions without having …]]></summary>
         <author>
             <name>Manny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing smart contracts with Hardhat easy steps.]]></title>
-        <id>https://medium.com/p/7dde5fdfda74</id>
-        <link href="https://blog.blockmagnates.com/writing-smart-contracts-with-hardhat-easy-steps-7dde5fdfda74?source=rss----18fa961f1eff--solidity"/>
-        <updated>2022-11-23T14:24:39.000Z</updated>
-        <summary type="html"><![CDATA[Hello There,]]></summary>
-        <author>
-            <name>Surendra Verma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use the Flatten option for Solidity on Remix]]></title>
-        <id>https://medium.com/p/c15673b467fb</id>
-        <link href="https://blog.blockmagnates.com/how-to-use-the-flatten-option-for-solidity-on-remix-c15673b467fb?source=rss----18fa961f1eff--solidity"/>
-        <updated>2022-11-23T14:24:09.000Z</updated>
-        <summary type="html"><![CDATA[For those who are starting to learn Smart Contract development, and in particular, to those who use Solidity often, the flatten feature is…
-Continue reading on Block Magnates »]]></summary>
-        <author>
-            <name>Juan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analyzing a Scammer’s “Uniswap Front Run Bot” Malicious Code]]></title>
-        <id>https://medium.com/p/7c039f0004fd</id>
-        <link href="https://blog.blockmagnates.com/analyzing-a-scammers-uniswap-front-run-bot-malicious-code-7c039f0004fd?source=rss----18fa961f1eff--solidity"/>
-        <updated>2022-11-23T14:23:36.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR: I analyze a “front running bot” code, build to scam people into believing they’ll get passive income, when in reality they’ll lose…]]></summary>
-        <author>
-            <name>Ramon Royo</name>
         </author>
     </entry>
 </feed>
