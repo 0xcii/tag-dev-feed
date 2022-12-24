@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-24T03:13:09.213Z</id>
+    <id>urn:2022-12-24T04:14:47.458Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-24T03:13:09.213Z</updated>
+    <updated>2022-12-24T04:14:47.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -516,27 +516,6 @@ Discord: https://discord.com/channels/@me/1045745643441885234/104574777899273428
 🎥 Presentation]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started With SSX]]></title>
-        <id>https://blog.developerdao.com/getting-started-with-ssx</id>
-        <link href="https://blog.developerdao.com/getting-started-with-ssx"/>
-        <updated>2022-11-24T15:20:44.000Z</updated>
-        <summary type="html"><![CDATA[What Is SSX?
-"SSX is a library that enables you to easily add user authentication, session management, and more to your dapp."
-https://github.com/spruceid/ssx/blob/main/README.md
-
-Okay, But What Is It?
-It's an app that allows you to administer authentication sessions for native Sign-In With Ethereum (SIWE pronounced see-we) and have a way to see stats on those sessions.
-
-Why Is This Needed?
-Abstracting Functionality
-Could you build out your own user session manager with SIWE? Yes, you could, but like everything, why would you keep building the same tool systems repeatedly? Just like when services like Auth0 came into the market, we abstracted the need to try to build and manage authentication services.
-Easy Implementation
-It's also faster to get up and running with sessions without having …]]></summary>
-        <author>
-            <name>Manny</name>
         </author>
     </entry>
 </feed>
