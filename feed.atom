@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-27T11:10:06.084Z</id>
+    <id>urn:2022-12-27T12:23:06.466Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-27T11:10:06.084Z</updated>
+    <updated>2022-12-27T12:23:06.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Write-up for yet another EVM puzzle2]]></title>
+        <id>https://medium.com/p/1c769e22ab0b</id>
+        <link href="https://coinsbench.com/write-up-for-yet-another-evm-puzzle2-1c769e22ab0b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-27T12:09:11.000Z</updated>
+        <summary type="html"><![CDATA[OK, here comes our second solution for yet another EVM puzzle.After running npx hardhat play or using EVM playground directly. I strongly…]]></summary>
+        <author>
+            <name>0xNorman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 24 — Learn Ethereum Blockchain daily and Keep the Knowledge Awake :)]]></title>
+        <id>https://medium.com/p/65f6fa5e68b8</id>
+        <link href="https://coinsbench.com/day-24-learn-ethereum-blockchain-daily-and-keep-the-knowledge-awake-65f6fa5e68b8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-27T12:09:03.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone]]></summary>
+        <author>
+            <name>ismail</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write and debug smart contracts using Truffle or Remix]]></title>
+        <id>https://medium.com/p/8e6191e400a5</id>
+        <link href="https://coinsbench.com/writing-and-debugging-smart-contracts-using-truffle-or-remix-8e6191e400a5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-27T12:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts are self-executing contracts with the terms of the agreement written directly into lines of code.]]></summary>
+        <author>
+            <name>Scofield O. Idehen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIP-4361: Sign-In with Ethereum]]></title>
+        <id>https://medium.com/p/24a10cef6310</id>
+        <link href="https://coinsbench.com/eip-4361-sign-in-with-ethereum-24a10cef6310?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-27T12:08:46.000Z</updated>
+        <summary type="html"><![CDATA[A Secure and User-Friendly Digital Identity Solution for Web3]]></summary>
+        <author>
+            <name>Alexandros Pappas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Publish an NFT Collection]]></title>
+        <id>https://medium.com/p/478fcc74014</id>
+        <link href="https://coinsbench.com/publish-a-nft-collection-478fcc74014?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-27T12:08:32.000Z</updated>
+        <summary type="html"><![CDATA[This post covers how to publish an NFT Collection using ERC721, IPFS, Hardhat, etc on Ethereum’s Goerli testnet. I’ll publish an NFT…]]></summary>
+        <author>
+            <name>henryzhu.eth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write-up for yet another EVM puzzle3]]></title>
+        <id>https://medium.com/p/69a4f56f2888</id>
+        <link href="https://coinsbench.com/write-up-for-yet-another-evm-puzzle3-69a4f56f2888?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-27T12:08:11.000Z</updated>
+        <summary type="html"><![CDATA[This is the third write up solution for yet another EVM puzzle.]]></summary>
+        <author>
+            <name>0xNorman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Alternative Books To Read For 2023]]></title>
         <id>https://medium.com/p/f01f0a4d9aa9</id>
@@ -122,16 +182,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Rise of the Decentralized Organization: Why DAOs are the Future of Business]]></title>
-        <id>https://medium.com/p/9c2cec15bcec</id>
-        <link href="https://coinsbench.com/the-rise-of-the-decentralized-organization-why-daos-are-the-future-of-business-9c2cec15bcec?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-26T12:39:53.000Z</updated>
-        <summary type="html"><![CDATA[What is a DAO?]]></summary>
-        <author>
-            <name>Sebastian Ciceu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pausable Solidity Smart Contract]]></title>
         <id>https://medium.com/p/d657c9e620c8</id>
         <link href="https://coinsbench.com/pausable-solidity-smart-contract-d657c9e620c8?source=rss----f1cfd22cde3e---4"/>
@@ -162,26 +212,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethernaut level 3 — Coin Flip [Foundry-Hardhat]]]></title>
-        <id>https://medium.com/p/7387686fec3d</id>
-        <link href="https://coinsbench.com/ethernaut-level-3-coin-flip-foundry-hardhat-7387686fec3d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-26T12:38:53.000Z</updated>
-        <summary type="html"><![CDATA[The Ethernaut-Solutions repository contains the solutions using Foundry and Hardhat.]]></summary>
-        <author>
-            <name>0xcsp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fantom (FTM) Crypto And These Top Cryptos Are Trending!]]></title>
-        <id>https://medium.com/p/8c52bdcd5069</id>
-        <link href="https://coinsbench.com/fantom-ftm-crypto-and-these-top-cryptos-are-trending-8c52bdcd5069?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-24T14:46:55.000Z</updated>
-        <summary type="html"><![CDATA[Fantom is an open-source smart contract platform for digital assets and dApps. It is the native cryptocurrency of the Fantom network; a…]]></summary>
-        <author>
-            <name>Fizo Network</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevNTell - Cypherock]]></title>
         <id>https://blog.developerdao.com/devntell-cypherock</id>
         <link href="https://blog.developerdao.com/devntell-cypherock"/>
@@ -205,36 +235,6 @@ Naman's Twitter: https://twitter.com/nmnsth
 https://www.youtube.com/watch?v=Uq_Kx3-UTdE]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hole Punching: How Peer To Peer Communication Works]]></title>
-        <id>https://medium.com/p/e6d8d9f448a8</id>
-        <link href="https://coinsbench.com/hole-punching-how-peer-to-peer-communication-works-e6d8d9f448a8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-23T15:11:51.000Z</updated>
-        <summary type="html"><![CDATA[The Basis of Web3 and Blockchain]]></summary>
-        <author>
-            <name>Souvik Haldar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting started with IPFS and publishing your content on it (Free Database)]]></title>
-        <id>https://medium.com/p/b7158f3400db</id>
-        <link href="https://coinsbench.com/getting-started-with-ipfs-and-publishing-your-content-on-it-free-database-b7158f3400db?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-23T15:11:42.000Z</updated>
-        <summary type="html"><![CDATA[InterPlanetary File System (IPFS) is a decentralized and distributed file system that allows users to share and store data in a…]]></summary>
-        <author>
-            <name>RadientBrain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Smart Contracts Are Like Vending Machines]]></title>
-        <id>https://medium.com/p/eefa10021540</id>
-        <link href="https://coinsbench.com/how-smart-contracts-are-like-vending-machines-eefa10021540?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-23T15:11:25.000Z</updated>
-        <summary type="html"><![CDATA[We will start with a short introduction to smart contracts in general and then use vending machines as a metaphor to give an in-depth…]]></summary>
-        <author>
-            <name>Jeremy Timessen - Cryptospacer</name>
         </author>
     </entry>
     <entry>

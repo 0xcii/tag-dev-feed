@@ -29,6 +29,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1c769e22ab0b",
+          "author": "0xNorman",
+          "description": "OK, here comes our second solution for yet another EVM puzzle.After running npx hardhat play or using EVM playground directly. I strongly…",
+          "link": "https://coinsbench.com/write-up-for-yet-another-evm-puzzle2-1c769e22ab0b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-27T12:09:11.000Z",
+          "wordCount": 2203,
+          "title": "Write-up for yet another EVM puzzle2",
+          "imageUrl": "https://miro.medium.com/max/800/1*si75ntKjfp9CR_pqAWTwNg.png"
+        },
+        {
+          "id": "https://medium.com/p/65f6fa5e68b8",
+          "author": "ismail",
+          "description": "Hello everyone",
+          "link": "https://coinsbench.com/day-24-learn-ethereum-blockchain-daily-and-keep-the-knowledge-awake-65f6fa5e68b8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-27T12:09:03.000Z",
+          "wordCount": 2875,
+          "title": "Day 24 — Learn Ethereum Blockchain daily and Keep the Knowledge Awake :)",
+          "imageUrl": "https://miro.medium.com/max/1117/1*BMPcnzufIK2dZsqvY-5a-Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/8e6191e400a5",
+          "author": "Scofield O. Idehen",
+          "description": "Smart contracts are self-executing contracts with the terms of the agreement written directly into lines of code.",
+          "link": "https://coinsbench.com/writing-and-debugging-smart-contracts-using-truffle-or-remix-8e6191e400a5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-27T12:08:56.000Z",
+          "wordCount": 2999,
+          "title": "How to Write and debug smart contracts using Truffle or Remix",
+          "imageUrl": "https://miro.medium.com/max/1200/0*Lv6ZvKI1l6wzocoY.png"
+        },
+        {
+          "id": "https://medium.com/p/24a10cef6310",
+          "author": "Alexandros Pappas",
+          "description": "A Secure and User-Friendly Digital Identity Solution for Web3",
+          "link": "https://coinsbench.com/eip-4361-sign-in-with-ethereum-24a10cef6310?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-27T12:08:46.000Z",
+          "wordCount": 2454,
+          "title": "EIP-4361: Sign-In with Ethereum",
+          "imageUrl": "https://miro.medium.com/max/1200/1*g4W-kM5zHRiOso3prCZnkA.png"
+        },
+        {
+          "id": "https://medium.com/p/478fcc74014",
+          "author": "henryzhu.eth",
+          "description": "This post covers how to publish an NFT Collection using ERC721, IPFS, Hardhat, etc on Ethereum’s Goerli testnet. I’ll publish an NFT…",
+          "link": "https://coinsbench.com/publish-a-nft-collection-478fcc74014?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-27T12:08:32.000Z",
+          "wordCount": 2964,
+          "title": "Publish an NFT Collection",
+          "imageUrl": "https://miro.medium.com/max/1200/1*Evlf8ZB4xbolNFo8ByEzBQ.png"
+        },
+        {
+          "id": "https://medium.com/p/69a4f56f2888",
+          "author": "0xNorman",
+          "description": "This is the third write up solution for yet another EVM puzzle.",
+          "link": "https://coinsbench.com/write-up-for-yet-another-evm-puzzle3-69a4f56f2888?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-27T12:08:11.000Z",
+          "wordCount": 1824,
+          "title": "Write-up for yet another EVM puzzle3",
+          "imageUrl": "https://miro.medium.com/max/1024/1*zYJ7FM-fzTGJmFI4NccCBA.png"
+        },
+        {
           "id": "https://medium.com/p/d2f9594b9d20",
           "author": "0xNorman",
           "description": "This is the solution for an open-source EVM opcodes puzzle, who has interest on how EVM works in the low level should give a try.",
@@ -37,16 +97,6 @@
           "wordCount": 2538,
           "title": "Write-ups for yet another EVM puzzle1",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9c2cec15bcec",
-          "author": "Sebastian Ciceu",
-          "description": "What is a DAO?",
-          "link": "https://coinsbench.com/the-rise-of-the-decentralized-organization-why-daos-are-the-future-of-business-9c2cec15bcec?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-26T12:39:53.000Z",
-          "wordCount": 2222,
-          "title": "The Rise of the Decentralized Organization: Why DAOs are the Future of Business",
-          "imageUrl": "https://miro.medium.com/max/1024/1*hKGoUQHC5N35GsfrHSVXJA.png"
         },
         {
           "id": "https://medium.com/p/d657c9e620c8",
@@ -77,56 +127,6 @@
           "wordCount": 2457,
           "title": "How to Become a Blockchain Developer",
           "imageUrl": "https://miro.medium.com/max/1200/1*GvvE9vQ_j7nTfcUU-z88xg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/7387686fec3d",
-          "author": "0xcsp",
-          "description": "The Ethernaut-Solutions repository contains the solutions using Foundry and Hardhat.",
-          "link": "https://coinsbench.com/ethernaut-level-3-coin-flip-foundry-hardhat-7387686fec3d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-26T12:38:53.000Z",
-          "wordCount": 2228,
-          "title": "Ethernaut level 3 — Coin Flip [Foundry-Hardhat]",
-          "imageUrl": "https://miro.medium.com/max/1200/1*1BbCH-mJxJyiZCLrwMUqfg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/8c52bdcd5069",
-          "author": "Fizo Network",
-          "description": "Fantom is an open-source smart contract platform for digital assets and dApps. It is the native cryptocurrency of the Fantom network; a…",
-          "link": "https://coinsbench.com/fantom-ftm-crypto-and-these-top-cryptos-are-trending-8c52bdcd5069?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-24T14:46:55.000Z",
-          "wordCount": 2772,
-          "title": "Fantom (FTM) Crypto And These Top Cryptos Are Trending!",
-          "imageUrl": "https://miro.medium.com/max/800/1*BPxcRTqFtotcWxqLMEEvSA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e6d8d9f448a8",
-          "author": "Souvik Haldar",
-          "description": "The Basis of Web3 and Blockchain",
-          "link": "https://coinsbench.com/hole-punching-how-peer-to-peer-communication-works-e6d8d9f448a8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-23T15:11:51.000Z",
-          "wordCount": 1517,
-          "title": "Hole Punching: How Peer To Peer Communication Works",
-          "imageUrl": "https://miro.medium.com/max/800/1*nbJdMpebQAA_fmA0VrLUZw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/b7158f3400db",
-          "author": "RadientBrain",
-          "description": "InterPlanetary File System (IPFS) is a decentralized and distributed file system that allows users to share and store data in a…",
-          "link": "https://coinsbench.com/getting-started-with-ipfs-and-publishing-your-content-on-it-free-database-b7158f3400db?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-23T15:11:42.000Z",
-          "wordCount": 3163,
-          "title": "Getting started with IPFS and publishing your content on it (Free Database)",
-          "imageUrl": "https://miro.medium.com/max/960/1*VBz0ewLz28Wt-yKNXl23dQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/eefa10021540",
-          "author": "Jeremy Timessen - Cryptospacer",
-          "description": "We will start with a short introduction to smart contracts in general and then use vending machines as a metaphor to give an in-depth…",
-          "link": "https://coinsbench.com/how-smart-contracts-are-like-vending-machines-eefa10021540?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-23T15:11:25.000Z",
-          "wordCount": 3007,
-          "title": "How Smart Contracts Are Like Vending Machines",
-          "imageUrl": "https://miro.medium.com/max/1200/1*iHIU83POhnQSF4kY8T9naQ.png"
         }
       ]
     },
