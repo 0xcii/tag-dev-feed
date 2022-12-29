@@ -136,6 +136,16 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/554b48fe7ebe",
+          "author": "Coinmonks Team",
+          "description": "Crypto Regulation, DAO Wars, DeFi Sagas, Bitcoin Supremacy, and Digital Avatars, all here with market updates and a meme.",
+          "link": "https://medium.com/coinmonks/china-to-launch-its-first-regulated-platform-for-nfts-in-2023-report-554b48fe7ebe?source=rss----721b17443fd5---4",
+          "publishedOn": "2022-12-29T21:25:39.000Z",
+          "wordCount": 2719,
+          "title": "China to launch its first regulated platform for NFTs in 2023 : Report",
+          "imageUrl": "https://miro.medium.com/max/970/0*7lrbK_LYCCKSDq8s.jpeg"
+        },
+        {
           "id": "https://medium.com/p/8fc11a15fd6c",
           "author": "Krypt Mystro",
           "description": "Key Components of Blockchain Network: How Does it Work?",
@@ -181,7 +191,7 @@
           "description": "We all know the dreaded “Wash Rule”, which inhibits us from selling securities at the end of the year just to buy back on January 1. The…",
           "link": "https://medium.com/coinmonks/only-days-left-to-save-you-thousands-with-tax-loss-harvesting-be81f470ea69?source=rss----721b17443fd5---4",
           "publishedOn": "2022-12-29T14:42:14.000Z",
-          "wordCount": 2318,
+          "wordCount": 2321,
           "title": "Only Days Left to Save You Thousands with Tax Loss Harvesting",
           "imageUrl": "https://miro.medium.com/max/842/1*HzpHQRxbftiAn6yJeIrFww.png"
         },
@@ -224,16 +234,6 @@
           "wordCount": 1076,
           "title": "Best 3 Stocks to Buy in January 2023",
           "imageUrl": "https://miro.medium.com/max/1200/1*gm5mR1xkl9D17COzdWSaLg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e39d2f766329",
-          "author": "Farwa Waqar",
-          "description": "There are several reasons why Go (also known as Golang) is often used for blockchain development:",
-          "link": "https://medium.com/coinmonks/why-golang-is-preferred-by-developers-for-blockchain-development-e39d2f766329?source=rss----721b17443fd5---4",
-          "publishedOn": "2022-12-29T10:55:10.000Z",
-          "wordCount": 2720,
-          "title": "Why Golang is preferred by Developers for blockchain development",
-          "imageUrl": "https://miro.medium.com/max/744/1*a3VlZ4KE3AQrxTCKK9jZ4A.png"
         }
       ]
     },
@@ -335,7 +335,7 @@
           "description": "In this tutorial, we will build a custom ERC-721 NFT collection using thirdweb and Chainlink. We will use thirdweb ContractKit for the ERC-721 token standard, thirdweb deploy to deploy our smart contract to Mumbai Testnet, and Chainlink Data Feeds to fetch the realtime price of Matic to set the base price for minting NFT. We will build and deploy a smart contract that allows users to mint NFT. The user has to pay at least $1 in Matic to mint the NFT. We get the actual price conversion using Chainlink Data Feeds.\nWhat is ERC-721?\nERC-721 is a free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.\nThe ERC-721 introduces a standard fo…",
           "link": "https://blog.developerdao.com/create-nft-smart-contract-with-thirdweb-and-chainlink",
           "publishedOn": "2022-12-21T15:20:42.000Z",
-          "wordCount": 13161,
+          "wordCount": 13194,
           "title": "Create NFT Smart Contract with thirdweb and Chainlink",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671028837198%2Fu-fbsXVOj.png%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
