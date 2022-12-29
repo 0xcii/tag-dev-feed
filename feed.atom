@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-29T03:13:45.260Z</id>
+    <id>urn:2022-12-29T04:15:49.996Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-29T03:13:45.260Z</updated>
+    <updated>2022-12-29T04:15:49.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -466,29 +466,6 @@ The decentralization makes it much mo…]]></summary>
         <summary type="html"><![CDATA[It is a rule for every engineer that, if it is not properly documented, it doesn’t exist. So all of us, who are solving the Ethernaut…]]></summary>
         <author>
             <name>Aitor Zaldua</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Develop and Deploy Smart Contracts with Foundry & Openzeppelin]]></title>
-        <id>https://blog.developerdao.com/how-to-develop-and-deploy-smart-contracts-with-foundry-openzeppelin</id>
-        <link href="https://blog.developerdao.com/how-to-develop-and-deploy-smart-contracts-with-foundry-openzeppelin"/>
-        <updated>2022-11-29T15:20:44.000Z</updated>
-        <summary type="html"><![CDATA[Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. It consists of three components:
-Forge: Ethereum testing framework (like Truffle, Hardhat, and DappTools).
-Cast: CLI for interacting with EVM smart contracts, sending transactions, and getting chain data.
-Anvil: local Ethereum node, similar to Ganache or Hardhat Network.
-Why Should We Use Foundry?
-
-Its speedy; no more wasted time while running tests.
-It allows you to write tests in Solidity, which minimizes context switching.
-Many testing features like fuzzing, console.log, and cheat codes give you more power and flexibility.
-Topics We Are Going to Cover in This Article
-Project setup
-How to install dependencies in Foundry (i.e., OpenZeppelin)
-Integrating Foundry with VSCode
-Writing…]]></summary>
-        <author>
-            <name>Deep</name>
         </author>
     </entry>
 </feed>
