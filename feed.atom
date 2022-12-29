@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-29T15:12:41.344Z</id>
+    <id>urn:2022-12-29T16:17:04.291Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-29T15:12:41.344Z</updated>
+    <updated>2022-12-29T16:17:04.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Difference Between Alchemy API and thirdweb SDK?]]></title>
+        <id>https://blog.developerdao.com/the-difference-between-alchemy-api-and-thirdweb-sdk</id>
+        <link href="https://blog.developerdao.com/the-difference-between-alchemy-api-and-thirdweb-sdk"/>
+        <updated>2022-12-29T15:20:42.000Z</updated>
+        <summary type="html"><![CDATA[As a software or web developer, you will work with different components, some of which you will use more often, like application programming interfaces (APIs) and software development kits (SDKs) mainly because developers are keen to improve the software development cycles. In modern-day software development, APIs and SDKs have become essential parts; because they have so much in common, they often get mixed up.
+In my opinion, in the first half of 2022, we had an uptrend in Developer Experience (DX), while User Experience (UX) dominated the second half. APIs and SDKs play an essential part in improving both experiences. A well-known SDK is Google SDK for analytics which developers use to get data about user behaviours. We also have Facebook SDK for advertising, which makes it easier for de…]]></summary>
+        <author>
+            <name>Ahmed Abdelmalek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transaction Process in the Blockchain Network]]></title>
         <id>https://medium.com/p/8fc11a15fd6c</id>
