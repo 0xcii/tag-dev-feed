@@ -29,6 +29,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/dfdec3649aec",
+          "author": "Rahul Pujari",
+          "description": "Note: I will explain everything new compared to the previous challenge; for example, I will not explain about the pragma solidity because I…",
+          "link": "https://coinsbench.com/2-ethernaut-challenge-2-fal1out-dfdec3649aec?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-30T18:08:13.000Z",
+          "wordCount": 2154,
+          "title": "#2 - Ethernaut Challenge 2 - Fal1out",
+          "imageUrl": "https://miro.medium.com/max/1200/1*Gcfv3_pcKQml4_JctBbl-w.png"
+        },
+        {
+          "id": "https://medium.com/p/92381aade135",
+          "author": "0xNorman",
+          "description": "Alright, here comes our four write-up for yet another EVM puzzle, it’s the last two puzzles we have, happy hours are always short, right…",
+          "link": "https://coinsbench.com/write-up-for-yet-evm-puzzle4-92381aade135?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-30T18:07:51.000Z",
+          "wordCount": 1813,
+          "title": "Write-up for yet EVM puzzle4",
+          "imageUrl": "https://miro.medium.com/max/1024/1*nYQXtQmx988JEr_lNOlcCw.png"
+        },
+        {
+          "id": "https://medium.com/p/ec7c50fd8c53",
+          "author": "Nicolò Farfante",
+          "description": "In Ethereum, there are two main types of transactions: contract transactions and message transactions.",
+          "link": "https://coinsbench.com/contract-and-message-transactions-on-ethereum-blockchain-ec7c50fd8c53?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-30T18:07:42.000Z",
+          "wordCount": 1991,
+          "title": "Contract and Message transactions on Ethereum Blockchain",
+          "imageUrl": "https://miro.medium.com/max/1200/1*2aEUOf61dm9PHldfoPcngg.png"
+        },
+        {
+          "id": "https://medium.com/p/2c17142fae98",
+          "author": "Nicolò Farfante",
+          "description": "Ethereum is a decentralized, open-source blockchain platform that enables the creation and execution of smart contracts. A key feature of…",
+          "link": "https://coinsbench.com/ethereum-blockchain-transactions-explained-2c17142fae98?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-30T18:07:07.000Z",
+          "wordCount": 2055,
+          "title": "Ethereum Blockchain Transactions explained",
+          "imageUrl": "https://miro.medium.com/max/1200/1*2aEUOf61dm9PHldfoPcngg.png"
+        },
+        {
           "id": "https://medium.com/p/d3bae1fde3cc",
           "author": "Rahul Pujari",
           "description": "Going through the code:",
@@ -87,46 +127,6 @@
           "wordCount": 6633,
           "title": "Major Events in Cryptocurrency Market 2022，Which Affected You the Most?",
           "imageUrl": "https://miro.medium.com/max/749/0*jYmFGSmDCOw2JeD6"
-        },
-        {
-          "id": "https://medium.com/p/8a0e4026628",
-          "author": "M-Ventures & Labs",
-          "description": "Written by MEXC Research",
-          "link": "https://coinsbench.com/blog-top-10-highlights-of-mexc-2022-8a0e4026628?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-27T12:44:38.000Z",
-          "wordCount": 3298,
-          "title": "Top 10 Highlights of MEXC 2022",
-          "imageUrl": "https://miro.medium.com/max/1068/0*hqRiDI9TWGPIdHRi"
-        },
-        {
-          "id": "https://medium.com/p/1c769e22ab0b",
-          "author": "0xNorman",
-          "description": "OK, here comes our second solution for yet another EVM puzzle.After running npx hardhat play or using EVM playground directly. I strongly…",
-          "link": "https://coinsbench.com/write-up-for-yet-another-evm-puzzle2-1c769e22ab0b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-27T12:09:11.000Z",
-          "wordCount": 2248,
-          "title": "Write-up for yet another EVM puzzle2",
-          "imageUrl": "https://miro.medium.com/max/800/1*si75ntKjfp9CR_pqAWTwNg.png"
-        },
-        {
-          "id": "https://medium.com/p/65f6fa5e68b8",
-          "author": "ismail",
-          "description": "Hello everyone",
-          "link": "https://coinsbench.com/day-24-learn-ethereum-blockchain-daily-and-keep-the-knowledge-awake-65f6fa5e68b8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-27T12:09:03.000Z",
-          "wordCount": 2875,
-          "title": "Day 24 — Learn Ethereum Blockchain daily and Keep the Knowledge Awake :)",
-          "imageUrl": "https://miro.medium.com/max/1117/1*BMPcnzufIK2dZsqvY-5a-Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/8e6191e400a5",
-          "author": "Scofield O. Idehen",
-          "description": "Smart contracts are self-executing contracts with the terms of the agreement written directly into lines of code.",
-          "link": "https://coinsbench.com/writing-and-debugging-smart-contracts-using-truffle-or-remix-8e6191e400a5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-27T12:08:56.000Z",
-          "wordCount": 3045,
-          "title": "How to Write and debug smart contracts using Truffle or Remix",
-          "imageUrl": "https://miro.medium.com/max/1200/0*Lv6ZvKI1l6wzocoY.png"
         }
       ]
     },

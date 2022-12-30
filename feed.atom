@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T17:11:11.053Z</id>
+    <id>urn:2022-12-30T18:14:53.221Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-30T17:11:11.053Z</updated>
+    <updated>2022-12-30T18:14:53.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#2 - Ethernaut Challenge 2 - Fal1out]]></title>
+        <id>https://medium.com/p/dfdec3649aec</id>
+        <link href="https://coinsbench.com/2-ethernaut-challenge-2-fal1out-dfdec3649aec?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-30T18:08:13.000Z</updated>
+        <summary type="html"><![CDATA[Note: I will explain everything new compared to the previous challenge; for example, I will not explain about the pragma solidity because I…]]></summary>
+        <author>
+            <name>Rahul Pujari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write-up for yet EVM puzzle4]]></title>
+        <id>https://medium.com/p/92381aade135</id>
+        <link href="https://coinsbench.com/write-up-for-yet-evm-puzzle4-92381aade135?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-30T18:07:51.000Z</updated>
+        <summary type="html"><![CDATA[Alright, here comes our four write-up for yet another EVM puzzle, it’s the last two puzzles we have, happy hours are always short, right…]]></summary>
+        <author>
+            <name>0xNorman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contract and Message transactions on Ethereum Blockchain]]></title>
+        <id>https://medium.com/p/ec7c50fd8c53</id>
+        <link href="https://coinsbench.com/contract-and-message-transactions-on-ethereum-blockchain-ec7c50fd8c53?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-30T18:07:42.000Z</updated>
+        <summary type="html"><![CDATA[In Ethereum, there are two main types of transactions: contract transactions and message transactions.]]></summary>
+        <author>
+            <name>Nicolò Farfante</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Blockchain Transactions explained]]></title>
+        <id>https://medium.com/p/2c17142fae98</id>
+        <link href="https://coinsbench.com/ethereum-blockchain-transactions-explained-2c17142fae98?source=rss----f1cfd22cde3e---4"/>
+        <updated>2022-12-30T18:07:07.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum is a decentralized, open-source blockchain platform that enables the creation and execution of smart contracts. A key feature of…]]></summary>
+        <author>
+            <name>Nicolò Farfante</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Price Fall — Is FTX the Cause?]]></title>
         <id>https://medium.com/p/ba47d4bcecd4</id>
@@ -178,46 +218,6 @@ In my opinion, in the first half of 2022, we had an uptrend in Developer Experie
         <summary type="html"><![CDATA[Written by MEXC Research]]></summary>
         <author>
             <name>M-Ventures &amp; Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Highlights of MEXC 2022]]></title>
-        <id>https://medium.com/p/8a0e4026628</id>
-        <link href="https://coinsbench.com/blog-top-10-highlights-of-mexc-2022-8a0e4026628?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-27T12:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Written by MEXC Research]]></summary>
-        <author>
-            <name>M-Ventures &amp; Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Write-up for yet another EVM puzzle2]]></title>
-        <id>https://medium.com/p/1c769e22ab0b</id>
-        <link href="https://coinsbench.com/write-up-for-yet-another-evm-puzzle2-1c769e22ab0b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-27T12:09:11.000Z</updated>
-        <summary type="html"><![CDATA[OK, here comes our second solution for yet another EVM puzzle.After running npx hardhat play or using EVM playground directly. I strongly…]]></summary>
-        <author>
-            <name>0xNorman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 24 — Learn Ethereum Blockchain daily and Keep the Knowledge Awake :)]]></title>
-        <id>https://medium.com/p/65f6fa5e68b8</id>
-        <link href="https://coinsbench.com/day-24-learn-ethereum-blockchain-daily-and-keep-the-knowledge-awake-65f6fa5e68b8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-27T12:09:03.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone]]></summary>
-        <author>
-            <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write and debug smart contracts using Truffle or Remix]]></title>
-        <id>https://medium.com/p/8e6191e400a5</id>
-        <link href="https://coinsbench.com/writing-and-debugging-smart-contracts-using-truffle-or-remix-8e6191e400a5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2022-12-27T12:08:56.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts are self-executing contracts with the terms of the agreement written directly into lines of code.]]></summary>
-        <author>
-            <name>Scofield O. Idehen</name>
         </author>
     </entry>
     <entry>
