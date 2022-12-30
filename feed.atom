@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T16:16:03.311Z</id>
+    <id>urn:2022-12-30T17:11:11.053Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-30T16:16:03.311Z</updated>
+    <updated>2022-12-30T17:11:11.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -247,16 +247,6 @@ https://www.youtube.com/watch?v=Uq_Kx3-UTdE]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How we can optimize our Solidity Smart Contracts ?]]></title>
-        <id>https://medium.com/p/b966e3e32fff</id>
-        <link href="https://blog.blockmagnates.com/how-we-can-optimize-our-solidity-smart-contracts-b966e3e32fff?source=rss----18fa961f1eff--solidity"/>
-        <updated>2022-12-23T14:47:25.000Z</updated>
-        <summary type="html"><![CDATA[Optimizing a smart contract can help improve its performance and reduce its gas usage, which can save money and make the contract more…]]></summary>
-        <author>
-            <name>Hari Pandey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Create NFT Smart Contract with thirdweb and Chainlink]]></title>
         <id>https://blog.developerdao.com/create-nft-smart-contract-with-thirdweb-and-chainlink</id>
         <link href="https://blog.developerdao.com/create-nft-smart-contract-with-thirdweb-and-chainlink"/>
@@ -323,6 +313,16 @@ https://www.youtube.com/watch?v=ULpuwe108FY]]></summary>
         <summary type="html"><![CDATA[Ethernaut is a Web3/Solidity-based wargame inspired by overthewire, to be played in the Ethereum Virtual Machine. Each level is a smart…]]></summary>
         <author>
             <name>0xcsp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we can optimize our Solidity Smart Contracts ?]]></title>
+        <id>https://medium.com/p/b966e3e32fff</id>
+        <link href="https://medium.com/coinmonks/how-we-can-optimize-our-solidity-smart-contracts-b966e3e32fff?source=rss----18fa961f1eff--solidity"/>
+        <updated>2022-12-12T11:53:59.000Z</updated>
+        <summary type="html"><![CDATA[Optimizing a smart contract can help improve its performance and reduce its gas usage, which can save money and make the contract more…]]></summary>
+        <author>
+            <name>Hari Pandey</name>
         </author>
     </entry>
     <entry>

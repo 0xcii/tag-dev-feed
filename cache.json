@@ -243,16 +243,6 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
-          "id": "https://medium.com/p/b966e3e32fff",
-          "author": "Hari Pandey",
-          "description": "Optimizing a smart contract can help improve its performance and reduce its gas usage, which can save money and make the contract more…",
-          "link": "https://blog.blockmagnates.com/how-we-can-optimize-our-solidity-smart-contracts-b966e3e32fff?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2022-12-23T14:47:25.000Z",
-          "wordCount": 1939,
-          "title": "How we can optimize our Solidity Smart Contracts ?",
-          "imageUrl": "https://miro.medium.com/max/770/0*41yc7uc9_gnx_iAB.jpg"
-        },
-        {
           "id": "https://medium.com/p/38028cd9fc3",
           "author": "Daan Kloetstra",
           "description": "The programming language used to create Smart Contracts is called Solidity. It is compiled into bytecode that the Ethereum Virtual Machine…",
@@ -271,6 +261,16 @@
           "wordCount": 2335,
           "title": "Ethernaut level 0 — Hello Ethernaut Solution",
           "imageUrl": "https://miro.medium.com/max/687/1*V2lyv13KOAFlOZSw0uTzfg.png"
+        },
+        {
+          "id": "https://medium.com/p/b966e3e32fff",
+          "author": "Hari Pandey",
+          "description": "Optimizing a smart contract can help improve its performance and reduce its gas usage, which can save money and make the contract more…",
+          "link": "https://medium.com/coinmonks/how-we-can-optimize-our-solidity-smart-contracts-b966e3e32fff?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2022-12-12T11:53:59.000Z",
+          "wordCount": 1952,
+          "title": "How we can optimize our Solidity Smart Contracts ?",
+          "imageUrl": "https://miro.medium.com/max/770/0*41yc7uc9_gnx_iAB.jpg"
         },
         {
           "id": "https://medium.com/p/378f30a87b72",
