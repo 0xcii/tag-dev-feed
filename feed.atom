@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T03:13:44.688Z</id>
+    <id>urn:2022-12-30T04:14:58.037Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-30T03:13:44.688Z</updated>
+    <updated>2022-12-30T04:14:58.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -446,23 +446,6 @@ Website: https://metatour-main.vercel.app/
 BluePanda, CTO of Eden, asked me to research Arweave for permanently storing endorsement data on a blockchain. This data will be generated as a person is endorsed based on their performance on a project, so long-term storage and immutability are essential. Arweave was a natural fit because it met all the requirements for implementing this feature in Eden. The astonishing thing was how simple it was to put this into action. Thanks to Arweave's clear documentation. In this post, I will share the information I gleaned from that research.…]]></summary>
         <author>
             <name>Osikhena Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Gentle Introduction to Decentralized Storage]]></title>
-        <id>https://blog.developerdao.com/a-gentle-introduction-to-decentralized-storage</id>
-        <link href="https://blog.developerdao.com/a-gentle-introduction-to-decentralized-storage"/>
-        <updated>2022-11-30T15:20:42.000Z</updated>
-        <summary type="html"><![CDATA[Hey, fren! gm. 
-Recently, I worked on an NFT project that required IPFS for storing the NFT images and metadata. That sparked my interest in learning more about decentralized storage, which has fascinated me for a while now.
-So, today we're gonna learn about decentralized storage (let's call it DStorage for short) and some of the most popular DStorage protocols in this blog post.
-Let's dive in!
-What is DStorage?
-As its name implies, DStorage is a storage system that does not rely on a central server or authority.
-Unlike a centralized storage system managed and operated by a single centralized entity, a peer-to-peer network of user-operated nodes operates DStorage, each of which stores a copy of the data creating a resilient file storage-sharing system.
-The decentralization makes it much mo…]]></summary>
-        <author>
-            <name>CryptoShuriken</name>
         </author>
     </entry>
 </feed>
