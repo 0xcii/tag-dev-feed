@@ -29,6 +29,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e553e427b733",
+          "author": "Abhay Patel",
+          "description": "Have you ever heard of a hash table? If you’ve taken one or two computer science courses, chances are you have! If not, don’t worry, you’re…",
+          "link": "https://coinsbench.com/mappings-in-solidity-e553e427b733?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2022-12-31T15:06:01.000Z",
+          "wordCount": 1649,
+          "title": "Mappings in Solidity",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/104197c1102b",
           "author": "Tathagata Nandi",
           "description": "Why is it upgrade?",
@@ -84,7 +94,7 @@
           "description": "Going through the code:",
           "link": "https://coinsbench.com/1-ethernaut-fallback-d3bae1fde3cc?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2022-12-28T13:44:35.000Z",
-          "wordCount": 2545,
+          "wordCount": 2555,
           "title": "#1 — Ethernaut — Fallback",
           "imageUrl": "https://miro.medium.com/max/1200/1*7ZcRq--KnYhXjO3KjTQC9A.png"
         },
@@ -117,16 +127,6 @@
           "wordCount": 1742,
           "title": "#1 - Smart Contract Security Attacks - Reentrancy",
           "imageUrl": "https://miro.medium.com/max/1200/1*R4FE2PNO5etopA-kQJLBxg.png"
-        },
-        {
-          "id": "https://medium.com/p/13a7af77c955",
-          "author": "Rahul Pujari",
-          "description": "(Blockchain Theory) and protocols such as proof-of-work, proof-of-stake, liquidity pools, DEXs, Block construction, TX propagation and…",
-          "link": "https://coinsbench.com/basics-of-blockchain-13a7af77c955?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-28T13:43:39.000Z",
-          "wordCount": 2297,
-          "title": "Basics of Blockchain",
-          "imageUrl": null
         }
       ]
     },
