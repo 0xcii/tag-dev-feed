@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-01T03:18:13.534Z</id>
+    <id>urn:2023-01-01T04:14:50.301Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-01T03:18:13.534Z</updated>
+    <updated>2023-01-01T04:14:50.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,16 +13,6 @@
         <summary type="html"><![CDATA[Have you ever heard of a hash table? If you’ve taken one or two computer science courses, chances are you have! If not, don’t worry, you’re…]]></summary>
         <author>
             <name>Abhay Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rescue Assets From a Compromised Wallet]]></title>
-        <id>https://medium.com/p/f32ae3f25edd</id>
-        <link href="https://medium.com/coinmonks/rescue-assets-from-a-compromised-wallet-f32ae3f25edd?source=rss----721b17443fd5---4"/>
-        <updated>2022-12-31T12:26:11.000Z</updated>
-        <summary type="html"><![CDATA[How to rescue your tokens from a compromised Ethereum wallet by using the power of Flashbots.]]></summary>
-        <author>
-            <name>pateldeep.eth</name>
         </author>
     </entry>
     <entry>
@@ -166,6 +156,16 @@ Continue reading on Coinmonks »]]></summary>
 Continue reading on Coinmonks »]]></summary>
         <author>
             <name>CryptoTechJester</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 vs. Metaverse: What’s the difference?]]></title>
+        <id>https://medium.com/p/4d930cb7171f</id>
+        <link href="https://medium.com/coinmonks/web3-vs-metaverse-whats-the-difference-4d930cb7171f?source=rss----721b17443fd5---4"/>
+        <updated>2022-12-30T15:30:42.000Z</updated>
+        <summary type="html"><![CDATA[What is Web3?]]></summary>
+        <author>
+            <name>Mitchell Kay</name>
         </author>
     </entry>
     <entry>
@@ -425,17 +425,6 @@ Website: https://metatour-main.vercel.app/
 🎥 Presentation]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started With Arweave]]></title>
-        <id>https://blog.developerdao.com/getting-started-with-arweave</id>
-        <link href="https://blog.developerdao.com/getting-started-with-arweave"/>
-        <updated>2022-12-02T15:20:45.000Z</updated>
-        <summary type="html"><![CDATA[This DevRel post arose from my research on Arweave for the Eden Protocol. Eden Protocol is a Developer DAO project centered on talent management. We're developing artificial intelligence to match the right people to the right opportunities at the right time. 
-BluePanda, CTO of Eden, asked me to research Arweave for permanently storing endorsement data on a blockchain. This data will be generated as a person is endorsed based on their performance on a project, so long-term storage and immutability are essential. Arweave was a natural fit because it met all the requirements for implementing this feature in Eden. The astonishing thing was how simple it was to put this into action. Thanks to Arweave's clear documentation. In this post, I will share the information I gleaned from that research.…]]></summary>
-        <author>
-            <name>Osikhena Oshomah</name>
         </author>
     </entry>
 </feed>
