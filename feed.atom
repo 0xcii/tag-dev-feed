@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-04T14:12:50.049Z</id>
+    <id>urn:2023-01-04T15:15:28.076Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-04T14:12:50.049Z</updated>
+    <updated>2023-01-04T15:15:28.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Block Limit & Gas Usage]]></title>
+        <id>https://medium.com/p/98a5b331126</id>
+        <link href="https://medium.com/coinmonks/ethereum-block-limit-gas-usage-98a5b331126?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-04T14:41:31.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that Bitcoin and Ethereum have the block limit specification calculated differently? Do you know the minimum cost of a…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Gianmarco Guazzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting out a “This Is Not Financial Advice” notice]]></title>
+        <id>https://medium.com/p/6ebd9ed68a14</id>
+        <link href="https://medium.com/coinmonks/setting-out-a-this-is-not-financial-advice-notice-6ebd9ed68a14?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-04T14:41:25.000Z</updated>
+        <summary type="html"><![CDATA[Especially on Twitter, accounts that discuss cryptocurrencies frequently post images of leveraged transactions or adverts for alternative…]]></summary>
+        <author>
+            <name>Oğuz Acar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basic Information About Cryptocurrencies -Cryptocurrencies 102]]></title>
+        <id>https://medium.com/p/650eb2ec672e</id>
+        <link href="https://medium.com/coinmonks/basic-information-about-cryptocurrencies-cryptocurrencies-102-650eb2ec672e?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-04T14:41:19.000Z</updated>
+        <summary type="html"><![CDATA[There has been a lot of debate and speculating about cryptocurrencies recently. These virtual currencies were first introduced 13 years…]]></summary>
+        <author>
+            <name>Oğuz Acar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Points: 2023 Macro Outlooks from the Largest Financial Institutions]]></title>
+        <id>https://medium.com/p/65a3b8b7c401</id>
+        <link href="https://medium.com/coinmonks/key-points-2023-macro-outlooks-from-the-largest-financial-institutions-65a3b8b7c401?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-04T14:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Summary of reports from Goldman Sachs, J.P. Morgan, Morgan Stanley, BlackRock, etc]]></summary>
+        <author>
+            <name>5 Years of Trading (Matt J. Fong)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nostr 2.0: Layer 2 Off-Chain Data Storage.]]></title>
+        <id>https://medium.com/p/b7d299078c60</id>
+        <link href="https://medium.com/coinmonks/nostr-2-0-layer-2-off-chain-data-storage-b7d299078c60?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-04T14:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Syncing Data Across Nostr Relays with Merkle Trees & Light Wallets.]]></summary>
+        <author>
+            <name>Colby Serpa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Toward the General Design Theory of Intrinsic Valued Tokens and their Ecosystem]]></title>
         <id>https://medium.com/p/fbbf9c38cc77</id>
@@ -54,57 +105,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[The Subconscious and Self-limiting Beliefs]]></summary>
         <author>
             <name>Nasdaq Trading Strategy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[what is Trading psychology]]></title>
-        <id>https://medium.com/p/527040c1ede4</id>
-        <link href="https://medium.com/coinmonks/what-is-trading-psychology-527040c1ede4?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-04T13:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Trading psychology is the study of the psychological and emotional factors that influence trading decisions and behavior in financial…]]></summary>
-        <author>
-            <name>Nasdaq Trading Strategy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[what is nasdaq 100]]></title>
-        <id>https://medium.com/p/6ef876875356</id>
-        <link href="https://medium.com/coinmonks/what-is-nasdaq-100-6ef876875356?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-04T13:55:28.000Z</updated>
-        <summary type="html"><![CDATA[The NASDAQ (National Association of Securities Dealers Automated Quotations) is a stock exchange located in New York City. It is known for…]]></summary>
-        <author>
-            <name>Nasdaq Trading Strategy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 3 Prop Trading Firms in 2023]]></title>
-        <id>https://medium.com/p/9350e9f9bd86</id>
-        <link href="https://medium.com/coinmonks/top-3-prop-trading-firms-in-2023-9350e9f9bd86?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-04T13:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Proprietary Trading is a trading activity when a firm or an institute invests its own capital into stocks, bonds, commodities, and other…]]></summary>
-        <author>
-            <name>Nasdaq Trading Strategy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charles Ponzi —The Man Behind the Famous Ponzi Scheme]]></title>
-        <id>https://medium.com/p/1859b87ea245</id>
-        <link href="https://medium.com/coinmonks/charles-ponzi-the-man-behind-the-famous-ponzi-scheme-1859b87ea245?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-04T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[We all know what a Ponzi scheme is, an investment fraud that uses money from new investors to pay earlier investors. Scammers often lure…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>The Crypto Enthusiast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Tokens with Intrinsic Value?]]></title>
-        <id>https://medium.com/p/a20ffbc4fc29</id>
-        <link href="https://medium.com/coinmonks/what-are-tokens-with-intrinsic-value-a20ffbc4fc29?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-04T13:54:32.000Z</updated>
-        <summary type="html"><![CDATA[As explained in the previous article, the value of fiat currencies and cryptocurrencies comes from social consensus.[1] If social consensus…]]></summary>
-        <author>
-            <name>Crepe, Inc.</name>
         </author>
     </entry>
     <entry>
