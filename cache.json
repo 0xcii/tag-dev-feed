@@ -29,6 +29,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/20ae6f9ce408",
+          "author": "ismail",
+          "description": "A blockchain node provider is a company or organization that runs one or more full nodes on a blockchain network and makes them available…",
+          "link": "https://coinsbench.com/blockchain-node-providers-20ae6f9ce408?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-04T12:26:33.000Z",
+          "wordCount": 2952,
+          "title": "Blockchain Node Providers",
+          "imageUrl": "https://miro.medium.com/max/1200/1*hDT3mBJHiVrpnct0_RigZg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/af70c38b5831",
+          "author": "Rafał Wawrzyniak",
+          "description": "In this article, I explain how to create a dedicated smart contract for atomically executing ERC20 token swaps acting as Exchange Office.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/erc20-tokens-exchange-office-or-how-to-perform-tokens-atomic-swap-part-2-af70c38b5831?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-04T12:26:24.000Z",
+          "wordCount": 6308,
+          "title": "ERC20 tokens Exchange Office… or how to perform tokens atomic swap — part 2",
+          "imageUrl": "https://miro.medium.com/max/1200/1*PMLLecEyfAwxkx1KeVaGkw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3361b512a033",
+          "author": "ismail",
+          "description": "I have created a Solidity Smart Contract Generator using OpenAI APIs. In this article, I will explain how I made it.",
+          "link": "https://coinsbench.com/solidity-smart-contract-generator-powered-by-openai-chatgpt-3-3361b512a033?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-04T12:26:00.000Z",
+          "wordCount": 3692,
+          "title": "Solidity Smart Contract Generator Powered By OpenAI ChatGPT-3",
+          "imageUrl": "https://miro.medium.com/max/1200/1*dmizICKdjnm1Q1NfPM6DCg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/ae2bcef26967",
+          "author": "Amalia Kelley",
+          "description": "Understand the 4 different visibilities to implement a proper access control to your functions & the immutable state variables in Solidity.",
+          "link": "https://coinsbench.com/solidity-16-visibility-and-immutability-ae2bcef26967?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-04T12:25:51.000Z",
+          "wordCount": 2493,
+          "title": "Solidity #16 . Visibility and Immutability",
+          "imageUrl": "https://miro.medium.com/max/1200/0*6aIor24sZgpDXr-S"
+        },
+        {
+          "id": "https://medium.com/p/840494466cbd",
+          "author": "RadientBrain",
+          "description": "One of the most well-known examples of a reentrancy attack occurred in 2016, when an attacker…",
+          "link": "https://coinsbench.com/reentrancy-attacks-on-solidity-contracts-a-brief-overview-840494466cbd?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-04T12:25:42.000Z",
+          "wordCount": 2598,
+          "title": "Reentrancy Attacks on Solidity Contracts: A Brief Overview",
+          "imageUrl": "https://miro.medium.com/max/512/1*uZfn3qE7Ovc02BlJlma2MQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/e71ee343931e",
           "author": "Jae Lee",
           "description": "When going through your crypto journey of buying, selling, and trading cryptocurrencies, you could start getting confused in understanding…",
@@ -77,56 +127,6 @@
           "wordCount": 2690,
           "title": "How to upgrade smart contract using proxy pattern technique.",
           "imageUrl": "https://miro.medium.com/max/640/0*cxV5gIHb31M0ciOs.png"
-        },
-        {
-          "id": "https://medium.com/p/dfdec3649aec",
-          "author": "Rahul Pujari",
-          "description": "Note: I will explain everything new compared to the previous challenge; for example, I will not explain about the pragma solidity because I…",
-          "link": "https://coinsbench.com/2-ethernaut-challenge-2-fal1out-dfdec3649aec?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-30T18:08:13.000Z",
-          "wordCount": 2068,
-          "title": "#2 - Ethernaut Challenge 2 - Fal1out",
-          "imageUrl": "https://miro.medium.com/max/1200/1*Gcfv3_pcKQml4_JctBbl-w.png"
-        },
-        {
-          "id": "https://medium.com/p/92381aade135",
-          "author": "0xNorman",
-          "description": "Alright, here comes our four write-up for yet another EVM puzzle, it’s the last two puzzles we have, happy hours are always short, right…",
-          "link": "https://coinsbench.com/write-up-for-yet-evm-puzzle4-92381aade135?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-30T18:07:51.000Z",
-          "wordCount": 1896,
-          "title": "Write-up for yet EVM puzzle4",
-          "imageUrl": "https://miro.medium.com/max/1024/1*nYQXtQmx988JEr_lNOlcCw.png"
-        },
-        {
-          "id": "https://medium.com/p/2c17142fae98",
-          "author": "Nicolò Farfante",
-          "description": "Ethereum is a decentralized, open-source blockchain platform that enables the creation and execution of smart contracts. A key feature of…",
-          "link": "https://coinsbench.com/ethereum-blockchain-transactions-explained-2c17142fae98?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-30T18:07:07.000Z",
-          "wordCount": 1915,
-          "title": "Ethereum Blockchain Transactions explained",
-          "imageUrl": "https://miro.medium.com/max/1200/1*2aEUOf61dm9PHldfoPcngg.png"
-        },
-        {
-          "id": "https://medium.com/p/d3bae1fde3cc",
-          "author": "Rahul Pujari",
-          "description": "Going through the code:",
-          "link": "https://coinsbench.com/1-ethernaut-fallback-d3bae1fde3cc?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-28T13:44:35.000Z",
-          "wordCount": 2585,
-          "title": "#1 — Ethernaut — Fallback",
-          "imageUrl": "https://miro.medium.com/max/1200/1*7ZcRq--KnYhXjO3KjTQC9A.png"
-        },
-        {
-          "id": "https://medium.com/p/360c7657b34d",
-          "author": "ismail",
-          "description": "Blockchain is around here for some time now. After NFT and Crypto declined everyone realized that blockchain is not about NFT and…",
-          "link": "https://coinsbench.com/2023-blockchain-developer-roadmap-360c7657b34d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-28T13:44:05.000Z",
-          "wordCount": 2574,
-          "title": "2023 Blockchain developer Roadmap",
-          "imageUrl": "https://miro.medium.com/max/1200/1*jIo7P0YbNZ4j8QTmWXOZ1A.jpeg"
         }
       ]
     },
