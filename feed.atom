@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-06T14:11:42.878Z</id>
+    <id>urn:2023-01-06T15:13:47.394Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-06T14:11:42.878Z</updated>
+    <updated>2023-01-06T15:13:47.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin is controlled by 3 parties]]></title>
+        <id>https://medium.com/p/8438fafac64d</id>
+        <link href="https://medium.com/coinmonks/bitcoin-is-controlled-by-3-parties-8438fafac64d?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-06T14:05:08.000Z</updated>
+        <summary type="html"><![CDATA[At this point Foundry USA, AntPool and F2Pool control more than 51% of the bitcoin Hash.]]></summary>
+        <author>
+            <name>Solid Bitcoin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reasons Why Solana Might Be Considered A Good Cryptocurrency Investment]]></title>
         <id>https://medium.com/p/cf0ff37f33e9</id>
@@ -88,16 +98,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Complete Guide to Meta Transactions]]></title>
-        <id>https://medium.com/p/c46ca51dbd21</id>
-        <link href="https://coinsbench.com/complete-guide-to-meta-transactions-c46ca51dbd21?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-06T13:40:23.000Z</updated>
-        <summary type="html"><![CDATA[Allow users to send transactions without paying any gas]]></summary>
-        <author>
-            <name>Adrian Lawson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sketching a minimal DEX and blockchain state]]></title>
         <id>https://medium.com/p/18db3627720d</id>
         <link href="https://coinsbench.com/smart-contracts-and-blockchain-state-automated-market-makers-amms-18db3627720d?source=rss----f1cfd22cde3e---4"/>
@@ -170,16 +170,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Raft Algorithm: Achieving Distributed Systems Consensus]]></title>
-        <id>https://medium.com/p/e8c17542699b</id>
-        <link href="https://medium.com/coinmonks/the-raft-algorithm-achieving-distributed-systems-consensus-e8c17542699b?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-06T13:27:14.000Z</updated>
-        <summary type="html"><![CDATA[Inner workings of the Raft algorithm and how it ensures that all nodes in a distributed system are working towards the same goal…]]></summary>
-        <author>
-            <name>Radovan Stevanovic</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Technical Writing 101: 360 Guide on How to Start your Technical Writing Journey]]></title>
         <id>https://blog.developerdao.com/technical-writing-101-360-guide-on-how-to-start-your-technical-writing-journey</id>
         <link href="https://blog.developerdao.com/technical-writing-101-360-guide-on-how-to-start-your-technical-writing-journey"/>
@@ -223,6 +213,16 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[I have created a Solidity Smart Contract Generator using OpenAI APIs. In this article, I will explain how I made it.]]></summary>
         <author>
             <name>ismail</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity #16 . Visibility and Immutability]]></title>
+        <id>https://medium.com/p/ae2bcef26967</id>
+        <link href="https://coinsbench.com/solidity-16-visibility-and-immutability-ae2bcef26967?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-04T12:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Understand the 4 different visibilities to implement a proper access control to your functions & the immutable state variables in Solidity.]]></summary>
+        <author>
+            <name>Amalia Kelley</name>
         </author>
     </entry>
     <entry>

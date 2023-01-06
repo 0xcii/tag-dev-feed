@@ -53,7 +53,7 @@
           "description": "How to Call Other Contracts in Solidity so as to access their functions and enrich your programs while minimizing code length.",
           "link": "https://coinsbench.com/solidity-19-call-other-contracts-49e73649c62f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-06T13:40:47.000Z",
-          "wordCount": 2314,
+          "wordCount": 2283,
           "title": "Solidity #19 . Call Other Contracts",
           "imageUrl": "https://miro.medium.com/max/1200/0*q4K5k7pGhfONS9Mi"
         },
@@ -66,16 +66,6 @@
           "wordCount": 3358,
           "title": "How do I earn rewards on my ETH?",
           "imageUrl": "https://miro.medium.com/max/640/1*G1mDmpgqA_YMu9itNHfsQw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/c46ca51dbd21",
-          "author": "Adrian Lawson",
-          "description": "Allow users to send transactions without paying any gas",
-          "link": "https://coinsbench.com/complete-guide-to-meta-transactions-c46ca51dbd21?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-06T13:40:23.000Z",
-          "wordCount": 4085,
-          "title": "Complete Guide to Meta Transactions",
-          "imageUrl": "https://miro.medium.com/max/1200/1*yXQu05S_yAAkopzVyQCjNg.jpeg"
         },
         {
           "id": "https://medium.com/p/18db3627720d",
@@ -116,6 +106,16 @@
           "wordCount": 3974,
           "title": "Solidity Smart Contract Generator Powered By OpenAI ChatGPT-3",
           "imageUrl": "https://miro.medium.com/max/1200/1*dmizICKdjnm1Q1NfPM6DCg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/ae2bcef26967",
+          "author": "Amalia Kelley",
+          "description": "Understand the 4 different visibilities to implement a proper access control to your functions & the immutable state variables in Solidity.",
+          "link": "https://coinsbench.com/solidity-16-visibility-and-immutability-ae2bcef26967?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-04T12:25:51.000Z",
+          "wordCount": 2440,
+          "title": "Solidity #16 . Visibility and Immutability",
+          "imageUrl": "https://miro.medium.com/max/1200/0*6aIor24sZgpDXr-S"
         }
       ]
     },
@@ -125,12 +125,22 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/8438fafac64d",
+          "author": "Solid Bitcoin",
+          "description": "At this point Foundry USA, AntPool and F2Pool control more than 51% of the bitcoin Hash.",
+          "link": "https://medium.com/coinmonks/bitcoin-is-controlled-by-3-parties-8438fafac64d?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-06T14:05:08.000Z",
+          "wordCount": 1827,
+          "title": "Bitcoin is controlled by 3 parties",
+          "imageUrl": "https://miro.medium.com/max/945/0*LwHzXJuUAdrwo8On"
+        },
+        {
           "id": "https://medium.com/p/cf0ff37f33e9",
           "author": "randerson112358",
           "description": "Is Solana A Good Cryptocurrency and investment?\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/reasons-why-solana-might-be-considered-a-good-investment-cf0ff37f33e9?source=rss----721b17443fd5---4",
           "publishedOn": "2023-01-06T13:59:15.000Z",
-          "wordCount": 1024,
+          "wordCount": 1227,
           "title": "Reasons Why Solana Might Be Considered A Good Cryptocurrency Investment",
           "imageUrl": "https://miro.medium.com/max/1157/1*GVtb0v-X3N_xCm5g6t4v_w.png"
         },
@@ -140,7 +150,7 @@
           "description": "The world of cryptocurrency is constantly evolving, and it can be tough to keep track of the latest trends and developments. However, if…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/the-most-promising-cryptocurrencies-for-long-term-investment-in-2023-46cc1e9b175a?source=rss----721b17443fd5---4",
           "publishedOn": "2023-01-06T13:59:00.000Z",
-          "wordCount": 1236,
+          "wordCount": 1407,
           "title": "The Most Promising Cryptocurrencies for Long-Term Investment in 2023",
           "imageUrl": "https://miro.medium.com/max/1200/1*3MmjfAdvbsIzjv5UWyH0wQ.jpeg"
         },
@@ -160,7 +170,7 @@
           "description": "This man is called DNP3, Twitch streamer and founder of some crypto projects, and he collected money from those who invest in his…",
           "link": "https://medium.com/coinmonks/he-gambled-with-users-money-the-founder-of-clucoin-confesses-39af8a956b49?source=rss----721b17443fd5---4",
           "publishedOn": "2023-01-06T13:36:25.000Z",
-          "wordCount": 1855,
+          "wordCount": 2053,
           "title": "He gambled with users’ money, the founder of CluCoin confesses",
           "imageUrl": "https://miro.medium.com/max/547/1*N74ivhHL6qqmrNOEuNJ0zg.png"
         },
@@ -213,16 +223,6 @@
           "wordCount": 1928,
           "title": "How Blockchain Games Ensure Transparent Data Flow?",
           "imageUrl": "https://miro.medium.com/max/1200/1*SDdpHrPXRsG5MInopSJr0g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e8c17542699b",
-          "author": "Radovan Stevanovic",
-          "description": "Inner workings of the Raft algorithm and how it ensures that all nodes in a distributed system are working towards the same goal…",
-          "link": "https://medium.com/coinmonks/the-raft-algorithm-achieving-distributed-systems-consensus-e8c17542699b?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-06T13:27:14.000Z",
-          "wordCount": 4181,
-          "title": "The Raft Algorithm: Achieving Distributed Systems Consensus",
-          "imageUrl": "https://miro.medium.com/max/1200/1*2lnPNmgg1hk5Sgb5oK_Pog.jpeg"
         }
       ]
     },
