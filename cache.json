@@ -4,18 +4,7 @@
       "title": "Crypto Market Pool",
       "feedUrl": "https://cryptomarketpool.com/feed/",
       "siteUrl": "https://cryptomarketpool.com/",
-      "articles": [
-        {
-          "id": "https://cryptomarketpool.com/?p=20837",
-          "author": null,
-          "description": "A dynamic array is a type of array in which the length of the array can be changed at runtime.…\nThe post Dynamic array in Solidity appeared first on Crypto Market Pool.",
-          "link": "https://cryptomarketpool.com/dynamic-array-in-solidity/",
-          "publishedOn": "2022-12-08T02:01:06.000Z",
-          "wordCount": 3638,
-          "title": "Dynamic array in Solidity",
-          "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "cryptomaton",
@@ -28,6 +17,76 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/7326d936631",
+          "author": "Amalia Kelley",
+          "description": "Solidity is the programming language built to run the Ethereum blockchain platform. It allows you to implement smart contracts and create…",
+          "link": "https://coinsbench.com/solidity-1-your-first-smart-contract-7326d936631?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-06T13:41:12.000Z",
+          "wordCount": 4012,
+          "title": "Solidity #1 . your first smart contract",
+          "imageUrl": "https://miro.medium.com/max/766/1*2Uq1jmvdylKxvzmQdnC87g.png"
+        },
+        {
+          "id": "https://medium.com/p/9eb76413760b",
+          "author": "Katia D",
+          "description": "For the last four months, I’ve been building more Web3 Development projects with LearnWeb3DAO. During the junior path, we learn about InterPlanetary File System (IPFS) and create a website. I’m proud…",
+          "link": "https://coinsbench.com/the-ultimate-guide-to-how-to-create-a-decentralized-website-using-an-ipfs-9eb76413760b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-06T13:41:05.000Z",
+          "wordCount": 2692,
+          "title": "The Ultimate Guide to How to Create a Decentralized Website Using an IPFS",
+          "imageUrl": "https://miro.medium.com/max/904/1*nOC2pFB1IRtTzfplUNLJjA.png"
+        },
+        {
+          "id": "https://medium.com/p/76033711a562",
+          "author": "0xNorman",
+          "description": "Our final write up for yet another EVM puzzle, already gonna miss it. Link of puzzle is here, here is another EVM playgound version.",
+          "link": "https://coinsbench.com/write-up-for-yet-another-evm-puzzle5-76033711a562?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-06T13:40:58.000Z",
+          "wordCount": 1920,
+          "title": "Write-up for yet another EVM puzzle5",
+          "imageUrl": "https://miro.medium.com/max/1200/1*USau6c-aNK4JkFwif_uQIw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/49e73649c62f",
+          "author": "Amalia Kelley",
+          "description": "How to Call Other Contracts in Solidity so as to access their functions and enrich your programs while minimizing code length.",
+          "link": "https://coinsbench.com/solidity-19-call-other-contracts-49e73649c62f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-06T13:40:47.000Z",
+          "wordCount": 2314,
+          "title": "Solidity #19 . Call Other Contracts",
+          "imageUrl": "https://miro.medium.com/max/1200/0*q4K5k7pGhfONS9Mi"
+        },
+        {
+          "id": "https://medium.com/p/17812d0d2ee",
+          "author": "Jae Lee",
+          "description": "What is Ethereum (ETH) Staking?",
+          "link": "https://coinsbench.com/how-do-i-earn-rewards-on-my-eth-17812d0d2ee?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-06T13:40:34.000Z",
+          "wordCount": 3358,
+          "title": "How do I earn rewards on my ETH?",
+          "imageUrl": "https://miro.medium.com/max/640/1*G1mDmpgqA_YMu9itNHfsQw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c46ca51dbd21",
+          "author": "Adrian Lawson",
+          "description": "Allow users to send transactions without paying any gas",
+          "link": "https://coinsbench.com/complete-guide-to-meta-transactions-c46ca51dbd21?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-06T13:40:23.000Z",
+          "wordCount": 4085,
+          "title": "Complete Guide to Meta Transactions",
+          "imageUrl": "https://miro.medium.com/max/1200/1*yXQu05S_yAAkopzVyQCjNg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/18db3627720d",
+          "author": "Dexter Awoyemi",
+          "description": "Visualising how smart contracts update blockchain state using a minimal AMM",
+          "link": "https://coinsbench.com/smart-contracts-and-blockchain-state-automated-market-makers-amms-18db3627720d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-06T13:40:15.000Z",
+          "wordCount": 2740,
+          "title": "Sketching a minimal DEX and blockchain state",
+          "imageUrl": "https://miro.medium.com/max/1200/1*5kD5eqDc0nK6m95yiay9Zw.jpeg"
+        },
         {
           "id": "https://medium.com/p/20ae6f9ce408",
           "author": "ismail",
@@ -57,76 +116,6 @@
           "wordCount": 3974,
           "title": "Solidity Smart Contract Generator Powered By OpenAI ChatGPT-3",
           "imageUrl": "https://miro.medium.com/max/1200/1*dmizICKdjnm1Q1NfPM6DCg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ae2bcef26967",
-          "author": "Amalia Kelley",
-          "description": "Understand the 4 different visibilities to implement a proper access control to your functions & the immutable state variables in Solidity.",
-          "link": "https://coinsbench.com/solidity-16-visibility-and-immutability-ae2bcef26967?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-04T12:25:51.000Z",
-          "wordCount": 2440,
-          "title": "Solidity #16 . Visibility and Immutability",
-          "imageUrl": "https://miro.medium.com/max/1200/0*6aIor24sZgpDXr-S"
-        },
-        {
-          "id": "https://medium.com/p/840494466cbd",
-          "author": "RadientBrain",
-          "description": "One of the most well-known examples of a reentrancy attack occurred in 2016, when an attacker…",
-          "link": "https://coinsbench.com/reentrancy-attacks-on-solidity-contracts-a-brief-overview-840494466cbd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-04T12:25:42.000Z",
-          "wordCount": 2933,
-          "title": "Reentrancy Attacks on Solidity Contracts: A Brief Overview",
-          "imageUrl": "https://miro.medium.com/max/512/1*uZfn3qE7Ovc02BlJlma2MQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e71ee343931e",
-          "author": "Jae Lee",
-          "description": "When going through your crypto journey of buying, selling, and trading cryptocurrencies, you could start getting confused in understanding…",
-          "link": "https://coinsbench.com/4-great-apps-to-track-your-crypto-portfolio-e71ee343931e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-02T14:23:52.000Z",
-          "wordCount": 2717,
-          "title": "4 Great Apps to track your Crypto Portfolio",
-          "imageUrl": "https://miro.medium.com/max/681/1*pyPN-sopuVbqs6AmlOt0Jg.png"
-        },
-        {
-          "id": "https://medium.com/p/a268bcb33aaf",
-          "author": "Berika Yıldız",
-          "description": "Hello, I am Berika. I am a 3rd year computer engineering student in Turkey. As my graduation date got closer, specialization in a certain…",
-          "link": "https://coinsbench.com/a-day-by-day-to-become-blockchain-developer-day-7-a268bcb33aaf?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-02T14:23:39.000Z",
-          "wordCount": 2155,
-          "title": "A DAY BY DAY TO BECOME BLOCKCHAIN DEVELOPER — DAY 7",
-          "imageUrl": "https://miro.medium.com/max/1200/0*-se1uA2mMO7FezQ_"
-        },
-        {
-          "id": "https://medium.com/p/784339208666",
-          "author": "Rahul Pujari",
-          "description": "What are overflow and underflow?",
-          "link": "https://coinsbench.com/2-smart-contract-security-attacks-overflow-underflow-784339208666?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-02T14:23:01.000Z",
-          "wordCount": 1559,
-          "title": "#2 - Smart Contract Security Attacks — Overflow/Underflow",
-          "imageUrl": "https://miro.medium.com/max/1200/1*BNoc82grfF0knofv_v_icQ.png"
-        },
-        {
-          "id": "https://medium.com/p/e553e427b733",
-          "author": "Abhay Patel",
-          "description": "Have you ever heard of a hash table? If you’ve taken one or two computer science courses, chances are you have! If not, don’t worry, you’re…",
-          "link": "https://coinsbench.com/mappings-in-solidity-e553e427b733?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-31T15:06:01.000Z",
-          "wordCount": 1927,
-          "title": "Mappings in Solidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/104197c1102b",
-          "author": "Tathagata Nandi",
-          "description": "Why is it upgrade?",
-          "link": "https://coinsbench.com/how-to-upgrade-smart-contract-using-proxy-pattern-technique-104197c1102b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2022-12-31T10:06:00.000Z",
-          "wordCount": 2744,
-          "title": "How to upgrade smart contract using proxy pattern technique.",
-          "imageUrl": "https://miro.medium.com/max/640/0*cxV5gIHb31M0ciOs.png"
         }
       ]
     },
@@ -136,104 +125,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/4a89b69d6ecb",
-          "author": "Raveen Chawla",
-          "description": "Power Finance Corporation company details",
-          "link": "https://medium.com/coinmonks/technical-analysis-power-finance-corporation-share-price-target-2023-2025-2030-2035-2040-4a89b69d6ecb?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-06T11:58:38.000Z",
-          "wordCount": 2344,
-          "title": "(Technical Analysis) Power Finance Corporation Share Price Target 2023, 2025, 2030, 2035, 2040",
-          "imageUrl": "https://miro.medium.com/max/1024/0*2svJ5Hx7JLRXpssW.png"
+          "id": "https://medium.com/p/cf0ff37f33e9",
+          "author": "randerson112358",
+          "description": "Is Solana A Good Cryptocurrency and investment?\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/reasons-why-solana-might-be-considered-a-good-investment-cf0ff37f33e9?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-06T13:59:15.000Z",
+          "wordCount": 1024,
+          "title": "Reasons Why Solana Might Be Considered A Good Cryptocurrency Investment",
+          "imageUrl": "https://miro.medium.com/max/1157/1*GVtb0v-X3N_xCm5g6t4v_w.png"
         },
         {
-          "id": "https://medium.com/p/b5eee0f832fa",
-          "author": "Raveen Chawla",
-          "description": "Manappuram Finance limited company details",
-          "link": "https://medium.com/coinmonks/technical-analysis-manappuram-finance-limited-share-price-target-2023-2025-2030-2035-2040-b5eee0f832fa?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-06T11:58:30.000Z",
-          "wordCount": 2226,
-          "title": "(Technical Analysis) Manappuram Finance Limited Share Price Target 2023, 2025, 2030, 2035, 2040",
-          "imageUrl": "https://miro.medium.com/max/620/0*wPnDgw-SXGfpIZey.png"
+          "id": "https://medium.com/p/46cc1e9b175a",
+          "author": "Derek",
+          "description": "The world of cryptocurrency is constantly evolving, and it can be tough to keep track of the latest trends and developments. However, if…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-most-promising-cryptocurrencies-for-long-term-investment-in-2023-46cc1e9b175a?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-06T13:59:00.000Z",
+          "wordCount": 1236,
+          "title": "The Most Promising Cryptocurrencies for Long-Term Investment in 2023",
+          "imageUrl": "https://miro.medium.com/max/1200/1*3MmjfAdvbsIzjv5UWyH0wQ.jpeg"
         },
         {
-          "id": "https://medium.com/p/e79e8d81586b",
-          "author": "Steve Beachy",
-          "description": "We all have hopes and dreams of financial independence and knowing that we can support our lifestyle and our retirement goals.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/dont-even-think-about-investing-in-crypto-if-you-fall-into-one-of-these-categories-e79e8d81586b?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-06T11:53:03.000Z",
-          "wordCount": 1126,
-          "title": "Don’t Even Think About Investing in Crypto if You Fall Into One of These Categories",
-          "imageUrl": "https://miro.medium.com/max/1200/0*6e1A_8kJs0k-DybN"
+          "id": "https://medium.com/p/58bca22687c7",
+          "author": "Basil Kimathi",
+          "description": "NFTs, or non-fungible tokens, are digital assets that are issued on the blockchain. They are used to store unique data, with no two NFTs…",
+          "link": "https://medium.com/coinmonks/nfts-arent-dead-here-are-5-nft-use-cases-that-will-shape-the-future-58bca22687c7?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-06T13:58:49.000Z",
+          "wordCount": 2880,
+          "title": "NFTs Aren’t dead: Here Are 5 NFT Use Cases That Will Shape The Future",
+          "imageUrl": "https://miro.medium.com/max/640/1*V1dP8K3YYZo0AuWLc47wOQ.jpeg"
         },
         {
-          "id": "https://medium.com/p/b85fef9c215f",
-          "author": "Crypto Beat",
-          "description": "If you’re interested in keeping upwith the crypto world, then you’ve come to the right place to receive crypto news.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/crypto-news-today-january-06-2023-b85fef9c215f?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-06T11:52:54.000Z",
-          "wordCount": 1088,
-          "title": "Crypto News Today — January 06, 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/0*OoIH2VmZYYLHatiG"
+          "id": "https://medium.com/p/39af8a956b49",
+          "author": "crypto_albert",
+          "description": "This man is called DNP3, Twitch streamer and founder of some crypto projects, and he collected money from those who invest in his…",
+          "link": "https://medium.com/coinmonks/he-gambled-with-users-money-the-founder-of-clucoin-confesses-39af8a956b49?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-06T13:36:25.000Z",
+          "wordCount": 1855,
+          "title": "He gambled with users’ money, the founder of CluCoin confesses",
+          "imageUrl": "https://miro.medium.com/max/547/1*N74ivhHL6qqmrNOEuNJ0zg.png"
         },
         {
-          "id": "https://medium.com/p/a035f3b6abd5",
-          "author": "Crypto Beat",
-          "description": "The Fear and Greed Index is a tool that helps investors and traders understand the sentiment of the crypto market. Stay up to date.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-fear-and-greed-index-today-january-06-2023-a035f3b6abd5?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-06T11:52:47.000Z",
-          "wordCount": 1103,
-          "title": "Bitcoin Fear And Greed Index Today — January 06, 2023",
-          "imageUrl": "https://miro.medium.com/max/640/0*0kR8Ny_w9EMRUWlj.png"
+          "id": "https://medium.com/p/2f6cd72e8dff",
+          "author": "Ren & Heinrich",
+          "description": "In this analysis, I show you how listing on Binance exchange affects the prices of cryptocurrencies. Findings are relevant for crypto…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/analysis-a-binance-listing-adds-41-on-crypto-prices-2f6cd72e8dff?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-06T13:36:11.000Z",
+          "wordCount": 1499,
+          "title": "Analysis: A Binance Listing Adds +41% on Crypto Prices",
+          "imageUrl": "https://miro.medium.com/max/1200/0*ozbDo6CDv-A79J77"
         },
         {
-          "id": "https://medium.com/p/ce67044c51e7",
-          "author": "Crypto Beat",
-          "description": "The following overview shows the top 5 winner and looser in the last 24 hours. Keep up to date.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/crypto-winner-and-looser-today-january-06-2023-ce67044c51e7?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-06T11:52:40.000Z",
-          "wordCount": 1093,
-          "title": "Crypto Winner And Looser Today — January 06, 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/0*DQrgO6zSw2rjf1gV"
+          "id": "https://medium.com/p/480a32f7b7e7",
+          "author": "Arslan Iqbal",
+          "description": "First start with “What is Blockchain?”",
+          "link": "https://medium.com/coinmonks/experience-working-on-a-blockchain-app-nft-website-with-testnet-480a32f7b7e7?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-06T13:34:16.000Z",
+          "wordCount": 1880,
+          "title": "Experience Working on a blockchain App/ NFT website with testnet",
+          "imageUrl": "https://miro.medium.com/max/877/1*ebK660kLuX4yg9r3mT0cPw.png"
         },
         {
-          "id": "https://medium.com/p/684c67bb1000",
-          "author": "bedy kharisma",
-          "description": "Web Scraping | Open AI | Power Automate Desktop",
-          "link": "https://medium.com/coinmonks/extract-information-from-thousands-of-articles-using-ai-684c67bb1000?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-06T11:52:33.000Z",
-          "wordCount": 2868,
-          "title": "Extract Information From Thousands of Articles using AI",
-          "imageUrl": "https://miro.medium.com/max/1037/1*f9Dj8lNbqxZrYH2VxpKolQ.png"
+          "id": "https://medium.com/p/715e7932af21",
+          "author": "Peter Varadi",
+          "description": "DeFi is an abbreviation for “decentralized finance,” which describes a new category of decentralized financial applications based on…",
+          "link": "https://medium.com/coinmonks/web3-and-decentralized-finance-defi-a-new-era-of-financial-inclusion-715e7932af21?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-06T13:27:34.000Z",
+          "wordCount": 3799,
+          "title": "Web3 and Decentralized Finance (DeFi): A New Era of Financial Inclusion",
+          "imageUrl": "https://miro.medium.com/max/1200/1*W0IQaIeIg3PvIoquWibr7Q.jpeg"
         },
         {
-          "id": "https://medium.com/p/b7c455951364",
-          "author": "Crypto Beat",
-          "description": "What are crypto memes? They are funny pictures or videos that feature characters. Here are the best crypto memes of the last 24 hours.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/crypto-memes-today-january-06-2023-b7c455951364?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-06T11:52:24.000Z",
-          "wordCount": 1084,
-          "title": "Crypto Memes Today — January 06, 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/0*9JWajVDj0cdumORI"
+          "id": "https://medium.com/p/cfe916dae3ca",
+          "author": "Stefan Simbade",
+          "description": "What is a low-risk entry?\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/trading-low-risk-entries-for-consistent-profits-cfe916dae3ca?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-06T13:27:28.000Z",
+          "wordCount": 1075,
+          "title": "Trading low-risk entries for consistent profits",
+          "imageUrl": "https://miro.medium.com/max/1200/1*CsCdN9XXjjDoR3CHjnjT7g.jpeg"
         },
         {
-          "id": "https://medium.com/p/23bbd048ff08",
-          "author": "Josh Kretschmer",
-          "description": "Setting the record straight on why Bitcoin is not a fraudulent investment scheme\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-truth-about-bitcoin-debunking-the-myth-of-the-ponzi-scheme-23bbd048ff08?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-06T11:50:29.000Z",
-          "wordCount": 1044,
-          "title": "The Truth About Bitcoin: Debunking the Myth of the Ponzi Scheme",
-          "imageUrl": "https://miro.medium.com/max/1200/0*1KyZfmILJj6yZ4jE"
+          "id": "https://medium.com/p/188d94745bc5",
+          "author": "No Surrender Heroes",
+          "description": "Blockchain technology has the potential to revolutionize many industries, and the gaming industry is no exception. One key area where…",
+          "link": "https://medium.com/coinmonks/how-blockchain-games-ensure-transparent-data-flow-188d94745bc5?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-06T13:27:22.000Z",
+          "wordCount": 1928,
+          "title": "How Blockchain Games Ensure Transparent Data Flow?",
+          "imageUrl": "https://miro.medium.com/max/1200/1*SDdpHrPXRsG5MInopSJr0g.jpeg"
         },
         {
-          "id": "https://medium.com/p/6358735d5f60",
-          "author": "Crypto Beat",
-          "description": "Cryptocurrencies are a volatile market, with prices rapidly changing. Here are the top 10 cryptocurrencies by market capitalization.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/current-crypto-prices-january-06-2023-6358735d5f60?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-06T11:50:13.000Z",
-          "wordCount": 1049,
-          "title": "Current Crypto Prices — January 06, 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/0*XY9ZRlqDqMxAk4v6"
+          "id": "https://medium.com/p/e8c17542699b",
+          "author": "Radovan Stevanovic",
+          "description": "Inner workings of the Raft algorithm and how it ensures that all nodes in a distributed system are working towards the same goal…",
+          "link": "https://medium.com/coinmonks/the-raft-algorithm-achieving-distributed-systems-consensus-e8c17542699b?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-06T13:27:14.000Z",
+          "wordCount": 4181,
+          "title": "The Raft Algorithm: Achieving Distributed Systems Consensus",
+          "imageUrl": "https://miro.medium.com/max/1200/1*2lnPNmgg1hk5Sgb5oK_Pog.jpeg"
         }
       ]
     },
