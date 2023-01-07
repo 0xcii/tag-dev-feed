@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-07T14:10:47.233Z</id>
+    <id>urn:2023-01-07T15:12:07.060Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-07T14:10:47.233Z</updated>
+    <updated>2023-01-07T15:12:07.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to get NFT balance of Solana Wallet]]></title>
+        <id>https://medium.com/p/4155abd058f2</id>
+        <link href="https://coinsbench.com/how-to-get-nft-balance-of-solana-wallet-4155abd058f2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-07T14:41:43.000Z</updated>
+        <summary type="html"><![CDATA[A guide to fetch the NFT balance of an address using Moralis Solana API]]></summary>
+        <author>
+            <name>Chikku George</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Struct Use Cases: Library Record-Keeping]]></title>
         <id>https://medium.com/p/1fb97091d4f7</id>
@@ -239,16 +249,6 @@ A technical writer is a person who writes company documents such as user manuals
 Continue reading on CoinsBench »]]></summary>
         <author>
             <name>Rafał Wawrzyniak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Smart Contract Generator Powered By OpenAI ChatGPT-3]]></title>
-        <id>https://medium.com/p/3361b512a033</id>
-        <link href="https://coinsbench.com/solidity-smart-contract-generator-powered-by-openai-chatgpt-3-3361b512a033?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-04T12:26:00.000Z</updated>
-        <summary type="html"><![CDATA[I have created a Solidity Smart Contract Generator using OpenAI APIs. In this article, I will explain how I made it.]]></summary>
-        <author>
-            <name>ismail</name>
         </author>
     </entry>
     <entry>
