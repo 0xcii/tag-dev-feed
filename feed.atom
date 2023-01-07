@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-07T13:15:13.389Z</id>
+    <id>urn:2023-01-07T14:10:47.233Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-07T13:15:13.389Z</updated>
+    <updated>2023-01-07T14:10:47.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Struct Use Cases: Library Record-Keeping]]></title>
+        <id>https://medium.com/p/1fb97091d4f7</id>
+        <link href="https://coinsbench.com/struct-use-cases-library-record-keeping-1fb97091d4f7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-07T13:26:49.000Z</updated>
+        <summary type="html"><![CDATA[What if we wanted to have an immutable record of all the library books we cared about? 🤔 Keeping our book records on a centralized server…]]></summary>
+        <author>
+            <name>Abhay Patel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best 5 Stocks to add in portfolio in January 2023]]></title>
         <id>https://medium.com/p/b2e1ca85736e</id>
@@ -239,17 +249,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[I have created a Solidity Smart Contract Generator using OpenAI APIs. In this article, I will explain how I made it.]]></summary>
         <author>
             <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity #16 . Visibility and Immutability]]></title>
-        <id>https://medium.com/p/ae2bcef26967</id>
-        <link href="https://coinsbench.com/solidity-16-visibility-and-immutability-ae2bcef26967?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-04T12:25:51.000Z</updated>
-        <summary type="html"><![CDATA[Understand the 4 different visibilities to implement a proper access control to your functions & the immutable state variables in Solidity.
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Amalia</name>
         </author>
     </entry>
     <entry>

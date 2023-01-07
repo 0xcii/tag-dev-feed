@@ -18,12 +18,22 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1fb97091d4f7",
+          "author": "Abhay Patel",
+          "description": "What if we wanted to have an immutable record of all the library books we cared about? 🤔 Keeping our book records on a centralized server…",
+          "link": "https://coinsbench.com/struct-use-cases-library-record-keeping-1fb97091d4f7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-07T13:26:49.000Z",
+          "wordCount": 2715,
+          "title": "Struct Use Cases: Library Record-Keeping",
+          "imageUrl": "https://miro.medium.com/freeze/max/480/0*arIO6QIC80AgRA9_.gif"
+        },
+        {
           "id": "https://medium.com/p/7326d936631",
           "author": "Amalia",
           "description": "Solidity is the programming language built to run the Ethereum blockchain platform. It allows you to implement smart contracts and create…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/solidity-1-your-first-smart-contract-7326d936631?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-06T13:41:12.000Z",
-          "wordCount": 4093,
+          "wordCount": 4108,
           "title": "Solidity #1 . your first smart contract",
           "imageUrl": "https://miro.medium.com/max/766/1*2Uq1jmvdylKxvzmQdnC87g.png"
         },
@@ -63,7 +73,7 @@
           "description": "What is Ethereum (ETH) Staking?",
           "link": "https://coinsbench.com/how-do-i-earn-rewards-on-my-eth-17812d0d2ee?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-06T13:40:34.000Z",
-          "wordCount": 3358,
+          "wordCount": 3416,
           "title": "How do I earn rewards on my ETH?",
           "imageUrl": "https://miro.medium.com/max/640/1*G1mDmpgqA_YMu9itNHfsQw.jpeg"
         },
@@ -106,16 +116,6 @@
           "wordCount": 3938,
           "title": "Solidity Smart Contract Generator Powered By OpenAI ChatGPT-3",
           "imageUrl": "https://miro.medium.com/max/1200/1*dmizICKdjnm1Q1NfPM6DCg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ae2bcef26967",
-          "author": "Amalia",
-          "description": "Understand the 4 different visibilities to implement a proper access control to your functions & the immutable state variables in Solidity.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-16-visibility-and-immutability-ae2bcef26967?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-04T12:25:51.000Z",
-          "wordCount": 2562,
-          "title": "Solidity #16 . Visibility and Immutability",
-          "imageUrl": "https://miro.medium.com/max/1200/0*6aIor24sZgpDXr-S"
         }
       ]
     },
