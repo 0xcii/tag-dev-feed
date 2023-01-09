@@ -1,10 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-09T20:14:55.140Z</id>
+    <id>urn:2023-01-09T21:12:09.736Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-09T20:14:55.140Z</updated>
+    <updated>2023-01-09T21:12:09.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Style Guide (Part I)]]></title>
+        <id>https://medium.com/p/d0fda6041ff9</id>
+        <link href="https://blog.blockmagnates.com/solidity-style-guide-part-i-d0fda6041ff9?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-01-09T20:20:55.000Z</updated>
+        <summary type="html"><![CDATA[What is good code when we are talking about smart-contract development?]]></summary>
+        <author>
+            <name>Ivan Leskov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity #6 . Arrays And Mappings]]></title>
+        <id>https://medium.com/p/d2dd5be8c0d</id>
+        <link href="https://coinsbench.com/solidity-6-arrays-and-mappings-d2dd5be8c0d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-09T20:19:31.000Z</updated>
+        <summary type="html"><![CDATA[How to store elements in arrays and mappings in Solidity. Arrays are data structures that store a collection of elements of the same type.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Amalia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity #4 . operators, conditions]]></title>
+        <id>https://medium.com/p/736a2c3faeff</id>
+        <link href="https://coinsbench.com/solidity-4-operators-conditions-736a2c3faeff?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-09T20:19:27.000Z</updated>
+        <summary type="html"><![CDATA[Conditions allow you to take decisions in your programs. You will check values of conditions and take different actions depending on the…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Amalia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity #5 . loops]]></title>
+        <id>https://medium.com/p/fff6cd6ab2bc</id>
+        <link href="https://coinsbench.com/solidity-5-loops-fff6cd6ab2bc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-09T20:19:27.000Z</updated>
+        <summary type="html"><![CDATA[Loops are used to execute pieces of code without having to write them over and over again. Solidity offers three types of loops: for, while
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Amalia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity #2 . data types and variables]]></title>
+        <id>https://medium.com/p/f76570ea6ac2</id>
+        <link href="https://coinsbench.com/solidity-2-data-types-and-variables-f76570ea6ac2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-09T20:18:54.000Z</updated>
+        <summary type="html"><![CDATA[Variables are used to store data, either on the blockchain storage or temporarily inside functions. Their data types can vary from…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Amalia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estimate  Transaction Gas with Ethers.js and EIP-1559]]></title>
+        <id>https://medium.com/p/4f87d8244cbf</id>
+        <link href="https://coinsbench.com/estimate-transaction-gas-with-ethers-js-and-eip-1559-4f87d8244cbf?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-09T20:18:52.000Z</updated>
+        <summary type="html"><![CDATA[👉 Demo code — https://github.com/neznein9/gas-estimation
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Rob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2# Let’s learn Solidity ~ Data Types]]></title>
+        <id>https://medium.com/p/9497253bf47c</id>
+        <link href="https://coinsbench.com/2-lets-learn-solidity-data-types-9497253bf47c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-09T20:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Let's start the 2nd lesson on the solidity programming language. In this article, we will learn about the different data types that…]]></summary>
+        <author>
+            <name>ismail</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How MEV is preventing you from making profitable trades]]></title>
+        <id>https://medium.com/p/a9692698b08a</id>
+        <link href="https://coinsbench.com/how-mev-is-preventing-you-from-making-profitable-trades-a9692698b08a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-09T20:18:47.000Z</updated>
+        <summary type="html"><![CDATA[This is a multi-part series looking into MEV. In this article, we will look into MEV, why it matters, and how it is leading an incentive…]]></summary>
+        <author>
+            <name>Jae Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity #20 . Interface And Library]]></title>
+        <id>https://medium.com/p/9e5ab5d9ccbf</id>
+        <link href="https://coinsbench.com/solidity-20-interface-and-library-9e5ab5d9ccbf?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-09T20:18:46.000Z</updated>
+        <summary type="html"><![CDATA[Interfaces and libraries are important concepts in Solidity that allow for the creation of reusable code and the abstraction of contract…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Amalia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEXC Research｜Behind Solana’s Rebound Against The Bear Trend: What Is Its Current Status?]]></title>
+        <id>https://medium.com/p/38205fedddc6</id>
+        <link href="https://coinsbench.com/mexc-research-behind-solanas-rebound-against-the-bear-trend-what-is-its-current-status-38205fedddc6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-09T20:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Written by MEXC Research]]></summary>
+        <author>
+            <name>M-Ventures &amp; Labs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Style Guide (Part II)]]></title>
+        <id>https://medium.com/p/176d31e386f0</id>
+        <link href="https://coinsbench.com/solidity-style-guide-part-iii-176d31e386f0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-09T20:18:41.000Z</updated>
+        <summary type="html"><![CDATA[Today we will continue the conversation about style in solidity smart contract development]]></summary>
+        <author>
+            <name>Ivan Leskov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Common Smart Contract Mistakes and how you can avoid them.]]></title>
         <id>https://medium.com/p/4cef7ebec51c</id>
@@ -109,26 +225,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to get NFT balance of Solana Wallet]]></title>
-        <id>https://medium.com/p/4155abd058f2</id>
-        <link href="https://coinsbench.com/how-to-get-nft-balance-of-solana-wallet-4155abd058f2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-07T14:41:43.000Z</updated>
-        <summary type="html"><![CDATA[A guide to fetch the NFT balance of an address using Moralis Solana API]]></summary>
-        <author>
-            <name>Chikku George</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Struct Use Cases: Library Record-Keeping]]></title>
-        <id>https://medium.com/p/1fb97091d4f7</id>
-        <link href="https://coinsbench.com/struct-use-cases-library-record-keeping-1fb97091d4f7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-07T13:26:49.000Z</updated>
-        <summary type="html"><![CDATA[What if we wanted to have an immutable record of all the library books we cared about? 🤔 Keeping our book records on a centralized server…]]></summary>
-        <author>
-            <name>Abhay Patel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevNTell - Corgis.xyz]]></title>
         <id>https://blog.developerdao.com/devntell-corgisxyz</id>
         <link href="https://blog.developerdao.com/devntell-corgisxyz"/>
@@ -153,68 +249,6 @@ https://www.youtube.com/watch?v=sSrWxlcbML4]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solidity #1 . your first smart contract]]></title>
-        <id>https://medium.com/p/7326d936631</id>
-        <link href="https://coinsbench.com/solidity-1-your-first-smart-contract-7326d936631?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-06T13:41:12.000Z</updated>
-        <summary type="html"><![CDATA[Solidity is the programming language built to run the Ethereum blockchain platform. It allows you to implement smart contracts and create…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Amalia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to How to Create a Decentralized Website Using an IPFS]]></title>
-        <id>https://medium.com/p/9eb76413760b</id>
-        <link href="https://coinsbench.com/the-ultimate-guide-to-how-to-create-a-decentralized-website-using-an-ipfs-9eb76413760b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-06T13:41:05.000Z</updated>
-        <summary type="html"><![CDATA[For the last four months, I’ve been building more Web3 Development projects with LearnWeb3DAO. During the junior path, we learn about InterPlanetary File System (IPFS) and create a website. I’m proud…]]></summary>
-        <author>
-            <name>Katia D</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Write-up for yet another EVM puzzle5]]></title>
-        <id>https://medium.com/p/76033711a562</id>
-        <link href="https://coinsbench.com/write-up-for-yet-another-evm-puzzle5-76033711a562?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-06T13:40:58.000Z</updated>
-        <summary type="html"><![CDATA[Our final write up for yet another EVM puzzle, already gonna miss it. Link of puzzle is here, here is another EVM playgound version.]]></summary>
-        <author>
-            <name>0xNorman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity #19 . Call Other Contracts]]></title>
-        <id>https://medium.com/p/49e73649c62f</id>
-        <link href="https://coinsbench.com/solidity-19-call-other-contracts-49e73649c62f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-06T13:40:47.000Z</updated>
-        <summary type="html"><![CDATA[How to Call Other Contracts in Solidity so as to access their functions and enrich your programs while minimizing code length.
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Amalia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do I earn rewards on my ETH?]]></title>
-        <id>https://medium.com/p/17812d0d2ee</id>
-        <link href="https://coinsbench.com/how-do-i-earn-rewards-on-my-eth-17812d0d2ee?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-06T13:40:34.000Z</updated>
-        <summary type="html"><![CDATA[What is Ethereum (ETH) Staking?]]></summary>
-        <author>
-            <name>Jae Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sketching a minimal DEX and blockchain state]]></title>
-        <id>https://medium.com/p/18db3627720d</id>
-        <link href="https://coinsbench.com/smart-contracts-and-blockchain-state-automated-market-makers-amms-18db3627720d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-06T13:40:15.000Z</updated>
-        <summary type="html"><![CDATA[Visualising how smart contracts update blockchain state using a minimal AMM]]></summary>
-        <author>
-            <name>Dexter Awoyemi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Technical Writing 101: 360 Guide on How to Start your Technical Writing Journey]]></title>
         <id>https://blog.developerdao.com/technical-writing-101-360-guide-on-how-to-start-your-technical-writing-journey</id>
         <link href="https://blog.developerdao.com/technical-writing-101-360-guide-on-how-to-start-your-technical-writing-journey"/>
@@ -227,27 +261,6 @@ What Makes a Technical Writer?
 A technical writer is a person who writes company documents such as user manuals, reference guides, business plans, legal disclaimers, op…]]></summary>
         <author>
             <name>Victor Fawole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain Node Providers]]></title>
-        <id>https://medium.com/p/20ae6f9ce408</id>
-        <link href="https://coinsbench.com/blockchain-node-providers-20ae6f9ce408?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-04T12:26:33.000Z</updated>
-        <summary type="html"><![CDATA[A blockchain node provider is a company or organization that runs one or more full nodes on a blockchain network and makes them available…]]></summary>
-        <author>
-            <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERC20 tokens Exchange Office… or how to perform tokens atomic swap — part 2]]></title>
-        <id>https://medium.com/p/af70c38b5831</id>
-        <link href="https://coinsbench.com/erc20-tokens-exchange-office-or-how-to-perform-tokens-atomic-swap-part-2-af70c38b5831?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-04T12:26:24.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I explain how to create a dedicated smart contract for atomically executing ERC20 token swaps acting as Exchange Office.
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Rafał Wawrzyniak</name>
         </author>
     </entry>
     <entry>
