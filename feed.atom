@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-11T14:17:41.386Z</id>
+    <id>urn:2023-01-11T15:25:50.495Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-11T14:17:41.386Z</updated>
+    <updated>2023-01-11T15:25:50.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity #7 . Assert, Require And Revert]]></title>
+        <id>https://medium.com/p/70f8c974ee6d</id>
+        <link href="https://coinsbench.com/solidity-7-assert-require-and-revert-70f8c974ee6d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-11T14:51:44.000Z</updated>
+        <summary type="html"><![CDATA[How to use assert, require and revert to verify statements and spot or prevent bugs, and what is the difference between these 3 functions.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Amalia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity #13 . constructor() and Inheritance]]></title>
+        <id>https://medium.com/p/95811061e6d6</id>
+        <link href="https://coinsbench.com/solidity-13-constructor-and-inheritance-95811061e6d6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-11T14:51:29.000Z</updated>
+        <summary type="html"><![CDATA[Understand the constructor() function and the inheritance concept in Solidity to write more complex smart contracts and reuse code.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Amalia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity #3 . functions]]></title>
+        <id>https://medium.com/p/79ba0524af41</id>
+        <link href="https://coinsbench.com/solidity-3-functions-79ba0524af41?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-11T14:51:22.000Z</updated>
+        <summary type="html"><![CDATA[A function is a group of reusable code that performs a specific task. They allow programmers to break up a large program into a number of…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Amalia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1# Let’s learn Solidity ~ HelloWorld]]></title>
+        <id>https://medium.com/p/9629f5b5056e</id>
+        <link href="https://coinsbench.com/1-lets-learn-solidity-helloworld-9629f5b5056e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-11T14:51:16.000Z</updated>
+        <summary type="html"><![CDATA[In this series, we will be going to learn how to write smart contracts in a solidity programming language.]]></summary>
+        <author>
+            <name>ismail</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raydium lost $4.4 million in a hacking attack]]></title>
+        <id>https://medium.com/p/29f0eb49132b</id>
+        <link href="https://coinsbench.com/raydium-lost-4-4-million-in-a-hacking-attack-29f0eb49132b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-11T14:50:34.000Z</updated>
+        <summary type="html"><![CDATA[New hacking attack on a blockchain company, in this case, Raydium, an AMM (Automated Market Maker) integrated in Solana Ecosystem.]]></summary>
+        <author>
+            <name>Aitor Zaldua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity #21 . Import]]></title>
+        <id>https://medium.com/p/11e52e6e9f63</id>
+        <link href="https://coinsbench.com/solidity-21-import-11e52e6e9f63?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-11T14:50:31.000Z</updated>
+        <summary type="html"><![CDATA[Importing Code in Solidity: Types, Syntax, and Best Practices.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Amalia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3: The Next Frontier of Software Development and the challenges that lie ahead]]></title>
         <id>https://medium.com/p/4645b3d0eb86</id>
@@ -158,68 +222,6 @@ Continue reading on CoinsBench »]]></summary>
 Continue reading on CoinsBench »]]></summary>
         <author>
             <name>Amalia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Estimate  Transaction Gas with Ethers.js and EIP-1559]]></title>
-        <id>https://medium.com/p/4f87d8244cbf</id>
-        <link href="https://coinsbench.com/estimate-transaction-gas-with-ethers-js-and-eip-1559-4f87d8244cbf?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-09T20:18:52.000Z</updated>
-        <summary type="html"><![CDATA[👉 Demo code — https://github.com/neznein9/gas-estimation
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Rob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2# Let’s learn Solidity ~ Data Types]]></title>
-        <id>https://medium.com/p/9497253bf47c</id>
-        <link href="https://coinsbench.com/2-lets-learn-solidity-data-types-9497253bf47c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-09T20:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Let's start the 2nd lesson on the solidity programming language. In this article, we will learn about the different data types that…]]></summary>
-        <author>
-            <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How MEV is preventing you from making profitable trades]]></title>
-        <id>https://medium.com/p/a9692698b08a</id>
-        <link href="https://coinsbench.com/how-mev-is-preventing-you-from-making-profitable-trades-a9692698b08a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-09T20:18:47.000Z</updated>
-        <summary type="html"><![CDATA[This is a multi-part series looking into MEV. In this article, we will look into MEV, why it matters, and how it is leading an incentive…]]></summary>
-        <author>
-            <name>Jae Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity #20 . Interface And Library]]></title>
-        <id>https://medium.com/p/9e5ab5d9ccbf</id>
-        <link href="https://coinsbench.com/solidity-20-interface-and-library-9e5ab5d9ccbf?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-09T20:18:46.000Z</updated>
-        <summary type="html"><![CDATA[Interfaces and libraries are important concepts in Solidity that allow for the creation of reusable code and the abstraction of contract…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Amalia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEXC Research｜Behind Solana’s Rebound Against The Bear Trend: What Is Its Current Status?]]></title>
-        <id>https://medium.com/p/38205fedddc6</id>
-        <link href="https://coinsbench.com/mexc-research-behind-solanas-rebound-against-the-bear-trend-what-is-its-current-status-38205fedddc6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-09T20:18:43.000Z</updated>
-        <summary type="html"><![CDATA[Written by MEXC Research]]></summary>
-        <author>
-            <name>M-Ventures &amp; Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Style Guide (Part II)]]></title>
-        <id>https://medium.com/p/176d31e386f0</id>
-        <link href="https://coinsbench.com/solidity-style-guide-part-iii-176d31e386f0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-09T20:18:41.000Z</updated>
-        <summary type="html"><![CDATA[Today we will continue the conversation about style in solidity smart contract development]]></summary>
-        <author>
-            <name>Ivan Leskov</name>
         </author>
     </entry>
     <entry>

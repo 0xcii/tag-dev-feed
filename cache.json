@@ -18,6 +18,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/70f8c974ee6d",
+          "author": "Amalia",
+          "description": "How to use assert, require and revert to verify statements and spot or prevent bugs, and what is the difference between these 3 functions.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-7-assert-require-and-revert-70f8c974ee6d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-11T14:51:44.000Z",
+          "wordCount": 2945,
+          "title": "Solidity #7 . Assert, Require And Revert",
+          "imageUrl": "https://miro.medium.com/max/601/1*WE4uC_8YQXITsFCIB2Afww.png"
+        },
+        {
+          "id": "https://medium.com/p/95811061e6d6",
+          "author": "Amalia",
+          "description": "Understand the constructor() function and the inheritance concept in Solidity to write more complex smart contracts and reuse code.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-13-constructor-and-inheritance-95811061e6d6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-11T14:51:29.000Z",
+          "wordCount": 2715,
+          "title": "Solidity #13 . constructor() and Inheritance",
+          "imageUrl": "https://miro.medium.com/max/466/1*WRBNnGQCmEyQNEUJBY7fpQ.png"
+        },
+        {
+          "id": "https://medium.com/p/79ba0524af41",
+          "author": "Amalia",
+          "description": "A function is a group of reusable code that performs a specific task. They allow programmers to break up a large program into a number of…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-3-functions-79ba0524af41?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-11T14:51:22.000Z",
+          "wordCount": 4269,
+          "title": "Solidity #3 . functions",
+          "imageUrl": "https://miro.medium.com/max/343/1*UklhAWpYqquT4L3_KNNQuw.png"
+        },
+        {
+          "id": "https://medium.com/p/9629f5b5056e",
+          "author": "ismail",
+          "description": "In this series, we will be going to learn how to write smart contracts in a solidity programming language.",
+          "link": "https://coinsbench.com/1-lets-learn-solidity-helloworld-9629f5b5056e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-11T14:51:16.000Z",
+          "wordCount": 2850,
+          "title": "1# Let’s learn Solidity ~ HelloWorld",
+          "imageUrl": "https://miro.medium.com/max/1200/1*c00U-zon8zSjdchWfR27Mg.png"
+        },
+        {
+          "id": "https://medium.com/p/29f0eb49132b",
+          "author": "Aitor Zaldua",
+          "description": "New hacking attack on a blockchain company, in this case, Raydium, an AMM (Automated Market Maker) integrated in Solana Ecosystem.",
+          "link": "https://coinsbench.com/raydium-lost-4-4-million-in-a-hacking-attack-29f0eb49132b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-11T14:50:34.000Z",
+          "wordCount": 1864,
+          "title": "Raydium lost $4.4 million in a hacking attack",
+          "imageUrl": "https://miro.medium.com/max/1200/1*ylT_pM6nKmxXyippR5aKmA.png"
+        },
+        {
+          "id": "https://medium.com/p/11e52e6e9f63",
+          "author": "Amalia",
+          "description": "Importing Code in Solidity: Types, Syntax, and Best Practices.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-21-import-11e52e6e9f63?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-11T14:50:31.000Z",
+          "wordCount": 2768,
+          "title": "Solidity #21 . Import",
+          "imageUrl": "https://miro.medium.com/max/1200/0*hbCYpoW_Ojo5L7v_"
+        },
+        {
           "id": "https://medium.com/p/d2dd5be8c0d",
           "author": "Amalia",
           "description": "How to store elements in arrays and mappings in Solidity. Arrays are data structures that store a collection of elements of the same type.\nContinue reading on CoinsBench »",
@@ -56,66 +116,6 @@
           "wordCount": 3379,
           "title": "Solidity #2 . data types and variables",
           "imageUrl": "https://miro.medium.com/max/634/1*u0rB557ipoQ9yuRs8UOp5g.png"
-        },
-        {
-          "id": "https://medium.com/p/4f87d8244cbf",
-          "author": "Rob",
-          "description": "👉 Demo code — https://github.com/neznein9/gas-estimation\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/estimate-transaction-gas-with-ethers-js-and-eip-1559-4f87d8244cbf?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-09T20:18:52.000Z",
-          "wordCount": 2986,
-          "title": "Estimate  Transaction Gas with Ethers.js and EIP-1559",
-          "imageUrl": "https://miro.medium.com/max/640/1*fEvCipegD21Qfn_bzbxwog.png"
-        },
-        {
-          "id": "https://medium.com/p/9497253bf47c",
-          "author": "ismail",
-          "description": "Let's start the 2nd lesson on the solidity programming language. In this article, we will learn about the different data types that…",
-          "link": "https://coinsbench.com/2-lets-learn-solidity-data-types-9497253bf47c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-09T20:18:50.000Z",
-          "wordCount": 2141,
-          "title": "2# Let’s learn Solidity ~ Data Types",
-          "imageUrl": "https://miro.medium.com/max/1200/1*1h2o0jNRjQCyXYMvJzF8jA.png"
-        },
-        {
-          "id": "https://medium.com/p/a9692698b08a",
-          "author": "Jae Lee",
-          "description": "This is a multi-part series looking into MEV. In this article, we will look into MEV, why it matters, and how it is leading an incentive…",
-          "link": "https://coinsbench.com/how-mev-is-preventing-you-from-making-profitable-trades-a9692698b08a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-09T20:18:47.000Z",
-          "wordCount": 3724,
-          "title": "How MEV is preventing you from making profitable trades",
-          "imageUrl": "https://miro.medium.com/max/640/1*X5mN2IyEtNv5cYkuA1MjFQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/9e5ab5d9ccbf",
-          "author": "Amalia",
-          "description": "Interfaces and libraries are important concepts in Solidity that allow for the creation of reusable code and the abstraction of contract…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-20-interface-and-library-9e5ab5d9ccbf?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-09T20:18:46.000Z",
-          "wordCount": 3666,
-          "title": "Solidity #20 . Interface And Library",
-          "imageUrl": "https://miro.medium.com/max/1200/0*9xrhfBxzh67RpDuU"
-        },
-        {
-          "id": "https://medium.com/p/38205fedddc6",
-          "author": "M-Ventures & Labs",
-          "description": "Written by MEXC Research",
-          "link": "https://coinsbench.com/mexc-research-behind-solanas-rebound-against-the-bear-trend-what-is-its-current-status-38205fedddc6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-09T20:18:43.000Z",
-          "wordCount": 3173,
-          "title": "MEXC Research｜Behind Solana’s Rebound Against The Bear Trend: What Is Its Current Status?",
-          "imageUrl": "https://miro.medium.com/max/1200/0*7XNM_MjMEbozU6dE"
-        },
-        {
-          "id": "https://medium.com/p/176d31e386f0",
-          "author": "Ivan Leskov",
-          "description": "Today we will continue the conversation about style in solidity smart contract development",
-          "link": "https://coinsbench.com/solidity-style-guide-part-iii-176d31e386f0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-09T20:18:41.000Z",
-          "wordCount": 2546,
-          "title": "Solidity Style Guide (Part II)",
-          "imageUrl": "https://miro.medium.com/max/925/1*GWr48xgyQAAiULSWuzcBLA.png"
         }
       ]
     },
