@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-10T23:12:58.373Z</id>
+    <id>urn:2023-01-11T01:05:19.841Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-10T23:12:58.373Z</updated>
+    <updated>2023-01-11T01:05:19.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -358,16 +358,6 @@ https://www.youtube.com/watch?v=ULpuwe108FY]]></summary>
         <summary type="html"><![CDATA[The programming language used to create Smart Contracts is called Solidity. It is compiled into bytecode that the Ethereum Virtual Machine…]]></summary>
         <author>
             <name>Daan Kloetstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethernaut level 0 — Hello Ethernaut Solution]]></title>
-        <id>https://medium.com/p/6af462f63833</id>
-        <link href="https://blog.blockmagnates.com/ethernaut-level-0-hello-ethernaut-solution-6af462f63833?source=rss----18fa961f1eff--solidity"/>
-        <updated>2022-12-12T13:03:21.000Z</updated>
-        <summary type="html"><![CDATA[Ethernaut is a Web3/Solidity-based wargame inspired by overthewire, to be played in the Ethereum Virtual Machine. Each level is a smart…]]></summary>
-        <author>
-            <name>0xcsp</name>
         </author>
     </entry>
 </feed>
