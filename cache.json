@@ -18,6 +18,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/c60834968fae",
+          "author": "Crypto Beat",
+          "description": "Writing a cryptocurrency bot can be a rewarding experience. It requires a basic understanding of coding and trading strategies.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/lets-write-a-cryptocurrency-bot-c60834968fae?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-13T13:06:13.000Z",
+          "wordCount": 2121,
+          "title": "Let’s Write a Cryptocurrency Bot",
+          "imageUrl": "https://miro.medium.com/max/1200/0*-CO8LZ0lywARBWtT"
+        },
+        {
+          "id": "https://medium.com/p/9abc86f0b4e",
+          "author": "Amalia",
+          "description": "How to choose between memory, storage and calldata in Solidity to control where our data is located and save as much gas as possible.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-9-memory-storage-and-calldata-9abc86f0b4e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-13T13:06:06.000Z",
+          "wordCount": 3604,
+          "title": "Solidity #9 . Memory, Storage And Calldata",
+          "imageUrl": "https://miro.medium.com/max/1200/0*rAZPqgJ1D0-p9cL2"
+        },
+        {
+          "id": "https://medium.com/p/347c3cde4b08",
+          "author": "Amalia",
+          "description": "Manipulate Struct & Enum to create your own types. Struct allows you to define your own complex types, Enum is used to keep track of…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-9-struct-and-enum-347c3cde4b08?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-13T13:05:54.000Z",
+          "wordCount": 3281,
+          "title": "Solidity #9 . Struct And Enum",
+          "imageUrl": "https://miro.medium.com/max/394/1*eJV2QLZsyXZfDqzIPAFJeQ.png"
+        },
+        {
+          "id": "https://medium.com/p/695535f5599d",
+          "author": "Amalia",
+          "description": "Or how to customize and minimize your code using Solidity function modifiers to save lines of code & custom errors to create your own…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-8-custom-errors-and-function-modifiers-695535f5599d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-13T13:05:50.000Z",
+          "wordCount": 3200,
+          "title": "Solidity #8 . Custom Errors and Function Modifiers",
+          "imageUrl": "https://miro.medium.com/max/636/1*R9Xk9GrXxbwEeQTCKcGDWA.png"
+        },
+        {
+          "id": "https://medium.com/p/c0bc1e32026b",
+          "author": "Ujjwal Gupta",
+          "description": "NFT is a great technology. It allows us to tokenize almost anything, can be used as proof of something and there are other use cases.",
+          "link": "https://coinsbench.com/introducing-nftomics-c0bc1e32026b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-13T13:05:43.000Z",
+          "wordCount": 2049,
+          "title": "Introducing NFTOMICS",
+          "imageUrl": "https://miro.medium.com/max/1200/1*2IMqMkGLwQbhzIXPSS04HA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/e851ae961983",
+          "author": "Batoulalkarim",
+          "description": "Batoul Alkarim",
+          "link": "https://coinsbench.com/how-to-mint-an-nft-from-code-pt-2-e851ae961983?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-13T13:05:35.000Z",
+          "wordCount": 3584,
+          "title": "How to Mint an NFT from Code (Pt. 2)",
+          "imageUrl": "https://miro.medium.com/max/1200/1*U40y0kJ7WilcmZRrxpHMdw.png"
+        },
+        {
           "id": "https://medium.com/p/70f8c974ee6d",
           "author": "Amalia",
           "description": "How to use assert, require and revert to verify statements and spot or prevent bugs, and what is the difference between these 3 functions.\nContinue reading on CoinsBench »",
@@ -43,7 +103,7 @@
           "description": "A function is a group of reusable code that performs a specific task. They allow programmers to break up a large program into a number of…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/solidity-3-functions-79ba0524af41?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-11T14:51:22.000Z",
-          "wordCount": 4332,
+          "wordCount": 4272,
           "title": "Solidity #3 . functions",
           "imageUrl": "https://miro.medium.com/max/343/1*UklhAWpYqquT4L3_KNNQuw.png"
         },
@@ -56,66 +116,6 @@
           "wordCount": 2792,
           "title": "1# Let’s learn Solidity ~ HelloWorld",
           "imageUrl": "https://miro.medium.com/max/1200/1*c00U-zon8zSjdchWfR27Mg.png"
-        },
-        {
-          "id": "https://medium.com/p/29f0eb49132b",
-          "author": "Aitor Zaldua",
-          "description": "New hacking attack on a blockchain company, in this case, Raydium, an AMM (Automated Market Maker) integrated in Solana Ecosystem.",
-          "link": "https://coinsbench.com/raydium-lost-4-4-million-in-a-hacking-attack-29f0eb49132b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-11T14:50:34.000Z",
-          "wordCount": 1974,
-          "title": "Raydium lost $4.4 million in a hacking attack",
-          "imageUrl": "https://miro.medium.com/max/1200/1*ylT_pM6nKmxXyippR5aKmA.png"
-        },
-        {
-          "id": "https://medium.com/p/11e52e6e9f63",
-          "author": "Amalia",
-          "description": "Importing Code in Solidity: Types, Syntax, and Best Practices.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-21-import-11e52e6e9f63?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-11T14:50:31.000Z",
-          "wordCount": 2744,
-          "title": "Solidity #21 . Import",
-          "imageUrl": "https://miro.medium.com/max/1200/0*hbCYpoW_Ojo5L7v_"
-        },
-        {
-          "id": "https://medium.com/p/d2dd5be8c0d",
-          "author": "Amalia",
-          "description": "How to store elements in arrays and mappings in Solidity. Arrays are data structures that store a collection of elements of the same type.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-6-arrays-and-mappings-d2dd5be8c0d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-09T20:19:31.000Z",
-          "wordCount": 4946,
-          "title": "Solidity #6 . Arrays And Mappings",
-          "imageUrl": "https://miro.medium.com/max/478/1*Z2XIa_SMZFi5W8R8UfNybA.png"
-        },
-        {
-          "id": "https://medium.com/p/736a2c3faeff",
-          "author": "Amalia",
-          "description": "Conditions allow you to take decisions in your programs. You will check values of conditions and take different actions depending on the…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-4-operators-conditions-736a2c3faeff?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-09T20:19:27.000Z",
-          "wordCount": 4370,
-          "title": "Solidity #4 . operators, conditions",
-          "imageUrl": "https://miro.medium.com/max/524/1*i5YQJBiMscuOObxA12fcDw.png"
-        },
-        {
-          "id": "https://medium.com/p/fff6cd6ab2bc",
-          "author": "Amalia",
-          "description": "Loops are used to execute pieces of code without having to write them over and over again. Solidity offers three types of loops: for, while\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-5-loops-fff6cd6ab2bc?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-09T20:19:27.000Z",
-          "wordCount": 4946,
-          "title": "Solidity #5 . loops",
-          "imageUrl": "https://miro.medium.com/max/368/1*ZzoS4bAPpIwgMXnEBUIBpQ.png"
-        },
-        {
-          "id": "https://medium.com/p/f76570ea6ac2",
-          "author": "Amalia",
-          "description": "Variables are used to store data, either on the blockchain storage or temporarily inside functions. Their data types can vary from…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-2-data-types-and-variables-f76570ea6ac2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-09T20:18:54.000Z",
-          "wordCount": 3372,
-          "title": "Solidity #2 . data types and variables",
-          "imageUrl": "https://miro.medium.com/max/634/1*u0rB557ipoQ9yuRs8UOp5g.png"
         }
       ]
     },
@@ -130,7 +130,7 @@
           "description": "We analyze users in different stages of crypto adoption, looking at how people enter crypto, and shares valuable insights for crypto…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/from-no-coiner-to-degen-mapping-the-journeys-of-the-crypto-curious-and-implications-for-builders-d53817f06152?source=rss----721b17443fd5---4",
           "publishedOn": "2023-01-13T10:30:31.000Z",
-          "wordCount": 1313,
+          "wordCount": 1104,
           "title": "From No-coiner to Degen — Mapping the Journeys of the Crypto Curious and Implications for Builders",
           "imageUrl": "https://miro.medium.com/max/1200/0*wEraJEN0OP5eiOFJ.jpg"
         },
@@ -140,7 +140,7 @@
           "description": "Introduction",
           "link": "https://medium.com/coinmonks/web3-js-a-beginners-guide-to-interacting-with-the-ethereum-blockchain-66ed96fbe7ac?source=rss----721b17443fd5---4",
           "publishedOn": "2023-01-13T10:30:20.000Z",
-          "wordCount": 1785,
+          "wordCount": 1804,
           "title": "Web3.js: A Beginner’s Guide to Interacting with the Ethereum Blockchain",
           "imageUrl": "https://miro.medium.com/max/1200/1*oVQLlozcDlLYPTJ7khZbDg.jpeg"
         },
@@ -210,7 +210,7 @@
           "description": "Chainlink (LINK) is a decentralized oracle network that connects smart contracts on the blockchain with external data sources, off-chain…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/what-is-chainlink-link-e0c427b04868?source=rss----721b17443fd5---4",
           "publishedOn": "2023-01-13T09:57:57.000Z",
-          "wordCount": 1120,
+          "wordCount": 1474,
           "title": "What is Chainlink (LINK)",
           "imageUrl": "https://miro.medium.com/max/1200/1*THGZzNuDZG9abe3MqbZrvw.jpeg"
         },
@@ -247,7 +247,7 @@
           "description": "The programming language used to create Smart Contracts is called Solidity. It is compiled into bytecode that the Ethereum Virtual Machine…",
           "link": "https://blog.blockmagnates.com/how-to-write-a-simple-ethereum-smart-contract-38028cd9fc3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2022-12-16T13:55:10.000Z",
-          "wordCount": 3966,
+          "wordCount": 3974,
           "title": "How to write a simple Ethereum Smart Contract",
           "imageUrl": "https://miro.medium.com/max/1021/1*sYy611Mk7ZyRMC327OyQRg.png"
         }
