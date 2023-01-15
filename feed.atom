@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-15T01:08:37.005Z</id>
+    <id>urn:2023-01-15T02:41:14.754Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-15T01:08:37.005Z</updated>
+    <updated>2023-01-15T02:41:14.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -371,16 +371,6 @@ Glosseta Foundation: https://www.glosseta.foundation
 https://www.youtube.com/watch?v=ULpuwe108FY]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to write a simple Ethereum Smart Contract]]></title>
-        <id>https://medium.com/p/38028cd9fc3</id>
-        <link href="https://blog.blockmagnates.com/how-to-write-a-simple-ethereum-smart-contract-38028cd9fc3?source=rss----18fa961f1eff--solidity"/>
-        <updated>2022-12-16T13:55:10.000Z</updated>
-        <summary type="html"><![CDATA[The programming language used to create Smart Contracts is called Solidity. It is compiled into bytecode that the Ethereum Virtual Machine…]]></summary>
-        <author>
-            <name>Daan Kloetstra</name>
         </author>
     </entry>
 </feed>
