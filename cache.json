@@ -18,6 +18,76 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/513a01d05db6",
+          "author": "Katia D",
+          "description": "Exploring the Web 3 space is confusing but exciting at the same time. This tweet below was my next step in learning more. I signed up right away and was accepted. One exciting project was creating a…",
+          "link": "https://coinsbench.com/creating-a-token-on-the-polygon-blockchain-513a01d05db6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-17T20:07:09.000Z",
+          "wordCount": 1928,
+          "title": "Creating a Token On The Polygon Blockchain",
+          "imageUrl": "https://miro.medium.com/max/768/1*jKGg2lJzCxHtT2TSMCsLYg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/7b28fe7b97c3",
+          "author": "Scofield O. Idehen",
+          "description": "On day 3 of my learning Patrick Collins course “Learn Blockchain, solidity and full stack web3 development with javascript, \" the…",
+          "link": "https://coinsbench.com/solidity-visibility-state-modifiers-series-part-2-7b28fe7b97c3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-17T20:07:00.000Z",
+          "wordCount": 2178,
+          "title": "Solidity Visibility State/Modifiers (Series — part 2)",
+          "imageUrl": "https://miro.medium.com/max/1200/1*nBjyiRL4xuTjiRd9ykp17g.png"
+        },
+        {
+          "id": "https://medium.com/p/7c2e789c8e18",
+          "author": "Amalia",
+          "description": "How to use Events in Solidity as a cheap form of storage and a way to log to the blockchain  and analysis of 2 projects based on…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-11-events-and-analysis-of-2-solidity-projects-7c2e789c8e18?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-17T20:06:52.000Z",
+          "wordCount": 3203,
+          "title": "Solidity #11 . Events and Analysis of 2 Solidity Projects",
+          "imageUrl": "https://miro.medium.com/max/1200/0*_RKdPNwyx9rQPuvT"
+        },
+        {
+          "id": "https://medium.com/p/ef82899f4441",
+          "author": "Amalia",
+          "description": "In this lesson we will study a Ballot project implemented in Solidity to consolidate & review our knowledge through a real use case.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-12-analysis-of-a-ballot-project-ef82899f4441?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-17T20:06:44.000Z",
+          "wordCount": 5471,
+          "title": "Solidity #12 . Analysis of a Ballot Project",
+          "imageUrl": "https://miro.medium.com/max/1200/0*SaF4PGcD7BxHFupw"
+        },
+        {
+          "id": "https://medium.com/p/4ffb99bea4b0",
+          "author": "Amalia",
+          "description": "Contracts that inherit code from multiple parent contracts often have to invoke their parent constructors. But how ? Amalia Kelley\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-14-multipe-inheritances-and-calling-parent-constructors-4ffb99bea4b0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-17T20:06:36.000Z",
+          "wordCount": 2963,
+          "title": "Solidity #14 . Multipe Inheritances and Calling Parent Constructors",
+          "imageUrl": "https://miro.medium.com/max/613/1*WJQT-zatlHna12bO3Q4jQA.png"
+        },
+        {
+          "id": "https://medium.com/p/42a1e1e620d",
+          "author": "Amalia",
+          "description": "How to call parent functions in child contracts in Solidity through 2 methods and how to actually use inheritance in a realistic way.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-15-calling-parent-functions-and-application-of-our-knowledge-42a1e1e620d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-17T20:06:29.000Z",
+          "wordCount": 2919,
+          "title": "Solidity #15 . Calling Parent Functions and Application of Our Knowledge",
+          "imageUrl": "https://miro.medium.com/max/1200/0*GzVVPXe9JMCPDzD-"
+        },
+        {
+          "id": "https://medium.com/p/8053728a326b",
+          "author": "Jae Lee",
+          "description": "This is part two of a multi-part series exploring MEV (Maximal Extraction Value).",
+          "link": "https://coinsbench.com/how-mev-brought-centralization-censorship-to-ethereum-8053728a326b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-17T20:06:22.000Z",
+          "wordCount": 2649,
+          "title": "How MEV brought Centralization & Censorship to Ethereum",
+          "imageUrl": "https://miro.medium.com/max/640/1*iR_i6ZhZWHhxNnk-LIcV0A.jpeg"
+        },
+        {
           "id": "https://medium.com/p/beb0f99bf26e",
           "author": "Alexander John Lee",
           "description": "An introduction to building a decentralized exchange",
@@ -46,76 +116,6 @@
           "wordCount": 3751,
           "title": "Solidity #9 . Memory, Storage And Calldata",
           "imageUrl": "https://miro.medium.com/max/1200/0*rAZPqgJ1D0-p9cL2"
-        },
-        {
-          "id": "https://medium.com/p/347c3cde4b08",
-          "author": "Amalia",
-          "description": "Manipulate Struct & Enum to create your own types. Struct allows you to define your own complex types, Enum is used to keep track of…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-9-struct-and-enum-347c3cde4b08?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-13T13:05:54.000Z",
-          "wordCount": 3355,
-          "title": "Solidity #9 . Struct And Enum",
-          "imageUrl": "https://miro.medium.com/max/394/1*eJV2QLZsyXZfDqzIPAFJeQ.png"
-        },
-        {
-          "id": "https://medium.com/p/695535f5599d",
-          "author": "Amalia",
-          "description": "Or how to customize and minimize your code using Solidity function modifiers to save lines of code & custom errors to create your own…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-8-custom-errors-and-function-modifiers-695535f5599d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-13T13:05:50.000Z",
-          "wordCount": 3279,
-          "title": "Solidity #8 . Custom Errors and Function Modifiers",
-          "imageUrl": "https://miro.medium.com/max/636/1*R9Xk9GrXxbwEeQTCKcGDWA.png"
-        },
-        {
-          "id": "https://medium.com/p/c0bc1e32026b",
-          "author": "Ujjwal Gupta",
-          "description": "NFT is a great technology. It allows us to tokenize almost anything, can be used as proof of something and there are other use cases.",
-          "link": "https://coinsbench.com/introducing-nftomics-c0bc1e32026b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-13T13:05:43.000Z",
-          "wordCount": 2096,
-          "title": "Introducing NFTOMICS",
-          "imageUrl": "https://miro.medium.com/max/1200/1*2IMqMkGLwQbhzIXPSS04HA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e851ae961983",
-          "author": "Batoul Alkarim",
-          "description": "Batoul Alkarim",
-          "link": "https://coinsbench.com/how-to-mint-an-nft-from-code-pt-2-e851ae961983?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-13T13:05:35.000Z",
-          "wordCount": 3746,
-          "title": "How to Mint an NFT from Code (Pt. 2)",
-          "imageUrl": "https://miro.medium.com/max/1200/1*U40y0kJ7WilcmZRrxpHMdw.png"
-        },
-        {
-          "id": "https://medium.com/p/70f8c974ee6d",
-          "author": "Amalia",
-          "description": "How to use assert, require and revert to verify statements and spot or prevent bugs, and what is the difference between these 3 functions.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-7-assert-require-and-revert-70f8c974ee6d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-11T14:51:44.000Z",
-          "wordCount": 2983,
-          "title": "Solidity #7 . Assert, Require And Revert",
-          "imageUrl": "https://miro.medium.com/max/601/1*WE4uC_8YQXITsFCIB2Afww.png"
-        },
-        {
-          "id": "https://medium.com/p/95811061e6d6",
-          "author": "Amalia",
-          "description": "Understand the constructor() function and the inheritance concept in Solidity to write more complex smart contracts and reuse code.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-13-constructor-and-inheritance-95811061e6d6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-11T14:51:29.000Z",
-          "wordCount": 2732,
-          "title": "Solidity #13 . constructor() and Inheritance",
-          "imageUrl": "https://miro.medium.com/max/466/1*WRBNnGQCmEyQNEUJBY7fpQ.png"
-        },
-        {
-          "id": "https://medium.com/p/79ba0524af41",
-          "author": "Amalia",
-          "description": "A function is a group of reusable code that performs a specific task. They allow programmers to break up a large program into a number of…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-3-functions-79ba0524af41?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-11T14:51:22.000Z",
-          "wordCount": 4333,
-          "title": "Solidity #3 . functions",
-          "imageUrl": "https://miro.medium.com/max/343/1*UklhAWpYqquT4L3_KNNQuw.png"
         }
       ]
     },
