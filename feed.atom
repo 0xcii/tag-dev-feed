@@ -1,111 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-17T15:13:02.734Z</id>
+    <id>urn:2023-01-17T16:17:24.228Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-17T15:13:02.734Z</updated>
+    <updated>2023-01-17T16:17:24.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Naive random implementation in smart contracts and its flaws.]]></title>
-        <id>https://medium.com/p/81f763414920</id>
-        <link href="https://medium.com/coinmonks/naive-random-implementation-in-smart-contracts-and-its-flaws-81f763414920?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T13:32:20.000Z</updated>
-        <summary type="html"><![CDATA[This is a widespread practice to introduce randomness into smart contracts using block hashes. Plenty of popular smart contracts are based…]]></summary>
-        <author>
-            <name>3dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Still Believe In Cryptocurrency?]]></title>
-        <id>https://medium.com/p/66feb2ce1e59</id>
-        <link href="https://medium.com/coinmonks/why-you-should-still-believe-in-cryptocurrency-66feb2ce1e59?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T13:32:13.000Z</updated>
-        <summary type="html"><![CDATA[The cryptocurrency market has seen a massive collapse over the past year, which is natural for any new form of currency. In this blog…]]></summary>
-        <author>
-            <name>DigitalViews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptocurrency 101]]></title>
-        <id>https://medium.com/p/16b2bf877cea</id>
-        <link href="https://medium.com/coinmonks/cryptocurrency-101-16b2bf877cea?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T13:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Ever since Nas Daily’s video came out about how I earned over $400,000 with less than $10,000 investing in Bitcoin and Ethereum, I’ve been…]]></summary>
-        <author>
-            <name>MrNouman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain and AI: How Blockchain Technology Can Provide a Secure and Decentralized Platform for…]]></title>
-        <id>https://medium.com/p/7514cee8f566</id>
-        <link href="https://medium.com/coinmonks/blockchain-and-ai-how-blockchain-technology-can-provide-a-secure-and-decentralized-platform-for-7514cee8f566?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T13:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain and AI are two of the most innovative and transformative technologies, their potential to enhance each other is immense.]]></summary>
-        <author>
-            <name>Radovan Stevanovic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To CoinDhan P2P Trading]]></title>
-        <id>https://medium.com/p/7cfb7b9c641</id>
-        <link href="https://medium.com/coinmonks/a-guide-to-coindhan-p2p-trading-7cfb7b9c641?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T13:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Recent blow-offs in the crypto realm have given enough opportunities for regulatory bodies and governments to criticize the crypto markets…]]></summary>
-        <author>
-            <name>CoinDhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023: To invest, or not to invest? That is the question]]></title>
-        <id>https://medium.com/p/38b97b61c073</id>
-        <link href="https://medium.com/coinmonks/2023-to-invest-or-not-to-invest-that-is-the-question-38b97b61c073?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T13:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Global markets remain flat, trading up a few points and down a few. They will stay in this pattern until something positive breaks, giving…]]></summary>
-        <author>
-            <name>Ronwriter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTX Crypto: Disgraced 3AC Founders Are Launching New Project]]></title>
-        <id>https://medium.com/p/960140a5953d</id>
-        <link href="https://medium.com/coinmonks/gtx-crypto-disgraced-3ac-founders-are-launching-new-project-960140a5953d?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T08:43:50.000Z</updated>
-        <summary type="html"><![CDATA[The disgraced founders of 3AC, a failed cryptocurrency trading platform, are launching a new project called GTX and are seeking $25…
+        <title type="html"><![CDATA[Government Bonds And Stablecoins — How Do They Fit Together?]]></title>
+        <id>https://medium.com/p/87c3eeda3f93</id>
+        <link href="https://medium.com/coinmonks/government-bonds-and-stablecoins-how-do-they-fit-together-87c3eeda3f93?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-17T16:15:25.000Z</updated>
+        <summary type="html"><![CDATA[The interest rate turnaround is having an effect: Circle covers USDC to a large extent with US government bonds, and Tether now does the…
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Crypto Beat</name>
+            <name>TheLuWizz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alchemy Pay Enables Fiat-Crypto Payments]]></title>
-        <id>https://medium.com/p/6988314de0d8</id>
-        <link href="https://medium.com/coinmonks/alchemy-pay-enables-fiat-crypto-payments-6988314de0d8?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T08:43:38.000Z</updated>
-        <summary type="html"><![CDATA[Alchemy Pay Crypto is a secure and convenient way to make payments with cryptocurrencies. It is a relatively new and innovative platform.
+        <title type="html"><![CDATA[Best Solana API Providers]]></title>
+        <id>https://medium.com/p/770c136ba7bc</id>
+        <link href="https://medium.com/coinmonks/best-solana-api-providers-770c136ba7bc?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-17T16:15:18.000Z</updated>
+        <summary type="html"><![CDATA[Solana is an open source blockchain that is designed to have a high transaction speed. It uses a consensus mechanism called “Proof of…]]></summary>
+        <author>
+            <name>Dy_storyteller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 2023 Bull Run Has Just Started! Is it Time to Invest?]]></title>
+        <id>https://medium.com/p/cc77a5b5cd3f</id>
+        <link href="https://medium.com/coinmonks/the-2023-bull-run-has-just-started-is-it-time-to-invest-cc77a5b5cd3f?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-17T16:15:13.000Z</updated>
+        <summary type="html"><![CDATA[The Bull Run has just started, and in this article, we’ll see if it’s time to invest… and what’s going on in cryptocurrencies!
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Crypto Beat</name>
+            <name>Mike Coldman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Space-based Multisignature Wallet Technology]]></title>
-        <id>https://medium.com/p/9d4c45f154a6</id>
-        <link href="https://medium.com/coinmonks/space-based-multisignature-wallet-technology-9d4c45f154a6?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T08:43:26.000Z</updated>
-        <summary type="html"><![CDATA[Space-based multisignature wallet technology is a revolutionary security protocol that offers users an unprecedented level of security.
+        <title type="html"><![CDATA[Best 5 Cryptocurrencies to Buy if you want to be Rich]]></title>
+        <id>https://medium.com/p/140c97e1ed2f</id>
+        <link href="https://medium.com/coinmonks/best-cryptocurrencies-to-buy-if-you-want-to-be-rich-140c97e1ed2f?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-17T16:15:03.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin (BTC)
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Crypto Beat</name>
+            <name>Vremaroiu Alin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the Alchemix lending protocol became the growth driver of DeFi 2.0]]></title>
-        <id>https://medium.com/p/6ce703c2dc63</id>
-        <link href="https://medium.com/coinmonks/how-the-alchemix-lending-protocol-became-the-growth-driver-of-defi-2-0-6ce703c2dc63?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T08:43:18.000Z</updated>
-        <summary type="html"><![CDATA[Along with DEX, the lending services are one of the cornerstones of the DeFi segment. How does it work? What does it propose? Let’s see…]]></summary>
+        <title type="html"><![CDATA[Thoughts on Entrepreneurship: OpenAI’s ChatGPT 3 and DALL-E]]></title>
+        <id>https://medium.com/p/bef8c5f32e5</id>
+        <link href="https://medium.com/coinmonks/thoughts-on-entrepreneurship-openais-chatgpt-3-and-dall-e-bef8c5f32e5?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-17T16:14:57.000Z</updated>
+        <summary type="html"><![CDATA[by: Christopher H. Loo, MD-PhD
+Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Sunflower Corporation</name>
+            <name>Christopher H. Loo, MD-PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Best Cheap Cryptocurrencies to Buy Right Now]]></title>
+        <id>https://medium.com/p/48b8a293cca2</id>
+        <link href="https://medium.com/coinmonks/3-best-cheap-cryptocurrencies-to-buy-right-now-48b8a293cca2?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-17T16:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Dogecoin (DOGE)
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Vremaroiu Alin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy New Year from OpenAI ChatGPT]]></title>
+        <id>https://medium.com/p/17f85210c3ee</id>
+        <link href="https://medium.com/coinmonks/happy-new-year-from-openai-chatgpt-17f85210c3ee?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-17T16:14:43.000Z</updated>
+        <summary type="html"><![CDATA[by: Christopher H. Loo, MD-PhD
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Christopher H. Loo, MD-PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intention Setting into 2023]]></title>
+        <id>https://medium.com/p/11b43dd919ed</id>
+        <link href="https://medium.com/coinmonks/intention-setting-into-2023-11b43dd919ed?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-17T16:14:36.000Z</updated>
+        <summary type="html"><![CDATA[by: Christopher H. Loo, MD-PhD
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Christopher H. Loo, MD-PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying to stay Up to Date with Crypto? Focus on the Signal, Filter Out the Noise (with 7 Examples)]]></title>
+        <id>https://medium.com/p/ba3209bc11a4</id>
+        <link href="https://medium.com/coinmonks/trying-to-stay-up-to-date-with-crypto-focus-on-the-signal-filter-out-the-noise-with-7-examples-ba3209bc11a4?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-17T16:14:30.000Z</updated>
+        <summary type="html"><![CDATA[I guess we succeed in receiving all most relevant info, don’t we? But at what cost? Let’s scale down on information and focus on value!]]></summary>
+        <author>
+            <name>MDSquared</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum (ETH) Price Prediction 2023–2025, update 17th of January]]></title>
+        <id>https://medium.com/p/d7b3e6c571d5</id>
+        <link href="https://medium.com/coinmonks/ethereum-eth-price-prediction-2023-2025-update-17th-of-january-d7b3e6c571d5?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-17T16:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Exactly What Is Ethereum (ETH)?
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Vremaroiu Alin</name>
         </author>
     </entry>
     <entry>
