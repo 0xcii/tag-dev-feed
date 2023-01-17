@@ -43,7 +43,7 @@
           "description": "How to choose between memory, storage and calldata in Solidity to control where our data is located and save as much gas as possible.\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/solidity-9-memory-storage-and-calldata-9abc86f0b4e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-13T13:06:06.000Z",
-          "wordCount": 3747,
+          "wordCount": 3736,
           "title": "Solidity #9 . Memory, Storage And Calldata",
           "imageUrl": "https://miro.medium.com/max/1200/0*rAZPqgJ1D0-p9cL2"
         },
@@ -53,7 +53,7 @@
           "description": "Manipulate Struct & Enum to create your own types. Struct allows you to define your own complex types, Enum is used to keep track of…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/solidity-9-struct-and-enum-347c3cde4b08?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-13T13:05:54.000Z",
-          "wordCount": 3283,
+          "wordCount": 3340,
           "title": "Solidity #9 . Struct And Enum",
           "imageUrl": "https://miro.medium.com/max/394/1*eJV2QLZsyXZfDqzIPAFJeQ.png"
         },
@@ -63,7 +63,7 @@
           "description": "Or how to customize and minimize your code using Solidity function modifiers to save lines of code & custom errors to create your own…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/solidity-8-custom-errors-and-function-modifiers-695535f5599d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-13T13:05:50.000Z",
-          "wordCount": 3275,
+          "wordCount": 3264,
           "title": "Solidity #8 . Custom Errors and Function Modifiers",
           "imageUrl": "https://miro.medium.com/max/636/1*R9Xk9GrXxbwEeQTCKcGDWA.png"
         },
@@ -73,7 +73,7 @@
           "description": "NFT is a great technology. It allows us to tokenize almost anything, can be used as proof of something and there are other use cases.",
           "link": "https://coinsbench.com/introducing-nftomics-c0bc1e32026b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-13T13:05:43.000Z",
-          "wordCount": 2086,
+          "wordCount": 2096,
           "title": "Introducing NFTOMICS",
           "imageUrl": "https://miro.medium.com/max/1200/1*2IMqMkGLwQbhzIXPSS04HA.jpeg"
         },
@@ -83,7 +83,7 @@
           "description": "Batoul Alkarim",
           "link": "https://coinsbench.com/how-to-mint-an-nft-from-code-pt-2-e851ae961983?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-13T13:05:35.000Z",
-          "wordCount": 3654,
+          "wordCount": 3746,
           "title": "How to Mint an NFT from Code (Pt. 2)",
           "imageUrl": "https://miro.medium.com/max/1200/1*U40y0kJ7WilcmZRrxpHMdw.png"
         },
@@ -93,7 +93,7 @@
           "description": "How to use assert, require and revert to verify statements and spot or prevent bugs, and what is the difference between these 3 functions.\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/solidity-7-assert-require-and-revert-70f8c974ee6d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-11T14:51:44.000Z",
-          "wordCount": 2979,
+          "wordCount": 2968,
           "title": "Solidity #7 . Assert, Require And Revert",
           "imageUrl": "https://miro.medium.com/max/601/1*WE4uC_8YQXITsFCIB2Afww.png"
         },
@@ -103,7 +103,7 @@
           "description": "Understand the constructor() function and the inheritance concept in Solidity to write more complex smart contracts and reuse code.\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/solidity-13-constructor-and-inheritance-95811061e6d6?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-11T14:51:29.000Z",
-          "wordCount": 2732,
+          "wordCount": 2717,
           "title": "Solidity #13 . constructor() and Inheritance",
           "imageUrl": "https://miro.medium.com/max/466/1*WRBNnGQCmEyQNEUJBY7fpQ.png"
         },
@@ -124,6 +124,66 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/81f763414920",
+          "author": "3dev",
+          "description": "This is a widespread practice to introduce randomness into smart contracts using block hashes. Plenty of popular smart contracts are based…",
+          "link": "https://medium.com/coinmonks/naive-random-implementation-in-smart-contracts-and-its-flaws-81f763414920?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-17T13:32:20.000Z",
+          "wordCount": 3339,
+          "title": "Naive random implementation in smart contracts and its flaws.",
+          "imageUrl": "https://miro.medium.com/max/940/1*d-gPaeer1fcFlByHOGPFnQ.png"
+        },
+        {
+          "id": "https://medium.com/p/66feb2ce1e59",
+          "author": "DigitalViews",
+          "description": "The cryptocurrency market has seen a massive collapse over the past year, which is natural for any new form of currency. In this blog…",
+          "link": "https://medium.com/coinmonks/why-you-should-still-believe-in-cryptocurrency-66feb2ce1e59?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-17T13:32:13.000Z",
+          "wordCount": 2547,
+          "title": "Why You Should Still Believe In Cryptocurrency?",
+          "imageUrl": "https://miro.medium.com/max/1200/1*qaPAoUHLbXAd-XK7P2jT2w.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/16b2bf877cea",
+          "author": "MrNouman",
+          "description": "Ever since Nas Daily’s video came out about how I earned over $400,000 with less than $10,000 investing in Bitcoin and Ethereum, I’ve been…",
+          "link": "https://medium.com/coinmonks/cryptocurrency-101-16b2bf877cea?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-17T13:32:06.000Z",
+          "wordCount": 39522,
+          "title": "Cryptocurrency 101",
+          "imageUrl": "https://miro.medium.com/max/700/0*-Yr5n97RjLXiNzmL.png"
+        },
+        {
+          "id": "https://medium.com/p/7514cee8f566",
+          "author": "Radovan Stevanovic",
+          "description": "Blockchain and AI are two of the most innovative and transformative technologies, their potential to enhance each other is immense.",
+          "link": "https://medium.com/coinmonks/blockchain-and-ai-how-blockchain-technology-can-provide-a-secure-and-decentralized-platform-for-7514cee8f566?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-17T13:31:56.000Z",
+          "wordCount": 5626,
+          "title": "Blockchain and AI: How Blockchain Technology Can Provide a Secure and Decentralized Platform for…",
+          "imageUrl": "https://miro.medium.com/max/1200/1*T8w0OF1ThyNRH3ClbsxBfw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/7cfb7b9c641",
+          "author": "CoinDhan",
+          "description": "Recent blow-offs in the crypto realm have given enough opportunities for regulatory bodies and governments to criticize the crypto markets…",
+          "link": "https://medium.com/coinmonks/a-guide-to-coindhan-p2p-trading-7cfb7b9c641?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-17T13:31:49.000Z",
+          "wordCount": 2529,
+          "title": "A Guide To CoinDhan P2P Trading",
+          "imageUrl": "https://miro.medium.com/max/389/0*wLvo75Gxllkh6Xcg"
+        },
+        {
+          "id": "https://medium.com/p/38b97b61c073",
+          "author": "Ronwriter",
+          "description": "Global markets remain flat, trading up a few points and down a few. They will stay in this pattern until something positive breaks, giving…",
+          "link": "https://medium.com/coinmonks/2023-to-invest-or-not-to-invest-that-is-the-question-38b97b61c073?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-17T13:31:43.000Z",
+          "wordCount": 2213,
+          "title": "2023: To invest, or not to invest? That is the question",
+          "imageUrl": "https://miro.medium.com/max/720/1*GhcVsXVtYQV4C2GjOkVH2g.jpeg"
+        },
         {
           "id": "https://medium.com/p/960140a5953d",
           "author": "Crypto Beat",
@@ -163,66 +223,6 @@
           "wordCount": 3760,
           "title": "How the Alchemix lending protocol became the growth driver of DeFi 2.0",
           "imageUrl": "https://miro.medium.com/max/1200/1*CPm5iY5bJcJRePhIra1rew.png"
-        },
-        {
-          "id": "https://medium.com/p/14f39fd2530e",
-          "author": "Grapherex",
-          "description": "Read the following to learn how to choose a bot to automate your cryptocurrency trading strategies and expand your crypto portfolio!",
-          "link": "https://medium.com/coinmonks/bots-for-cryptocurrency-trading-guide-for-2023-14f39fd2530e?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T08:43:12.000Z",
-          "wordCount": 2483,
-          "title": "Bots for Cryptocurrency Trading: Guide for 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/1*loA6HEYPsNruK056ahbViQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/7cbc26584179",
-          "author": "Eduardo Abreu",
-          "description": "The following websites provide a variety of information on crypto and blockchain technology, as well as the latest news, trends, and…",
-          "link": "https://medium.com/coinmonks/7-websites-that-can-help-improve-your-knowledge-about-cryptocurrency-7cbc26584179?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T08:43:05.000Z",
-          "wordCount": 1911,
-          "title": "7 websites that can help improve your knowledge about cryptocurrency",
-          "imageUrl": "https://miro.medium.com/max/1200/1*y3whyUgt2yyUJ6TabDrD_g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f611cd7c5833",
-          "author": "Crypto Beat",
-          "description": "If you’re interested in keeping upwith the crypto world, then you’ve come to the right place to receive crypto news.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/crypto-news-today-january-17-2023-f611cd7c5833?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T07:18:18.000Z",
-          "wordCount": 1084,
-          "title": "Crypto News Today — January 17, 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/0*S1IrBKq0e79EuNWd"
-        },
-        {
-          "id": "https://medium.com/p/14636bae29f6",
-          "author": "Crypto Beat",
-          "description": "The Fear and Greed Index is a tool that helps investors and traders understand the sentiment of the crypto market. Stay up to date.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-fear-and-greed-index-today-january-17-2023-14636bae29f6?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T07:18:08.000Z",
-          "wordCount": 1103,
-          "title": "Bitcoin Fear And Greed Index Today — January 17, 2023",
-          "imageUrl": "https://miro.medium.com/max/640/0*8ZZ4tTqeSnbOtoOS.png"
-        },
-        {
-          "id": "https://medium.com/p/eb6264ddf7f7",
-          "author": "Crypto Beat",
-          "description": "The following overview shows the top 5 winner and looser in the last 24 hours. Keep up to date.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/crypto-winner-and-looser-today-january-17-2023-eb6264ddf7f7?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T07:18:02.000Z",
-          "wordCount": 1093,
-          "title": "Crypto Winner And Looser Today — January 17, 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/0*WYdB-QbuPSEsN6sv"
-        },
-        {
-          "id": "https://medium.com/p/c9cc92c45273",
-          "author": "Crypto Beat",
-          "description": "What are crypto memes? They are funny pictures or videos that feature characters. Here are the best crypto memes of the last 24 hours.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/crypto-memes-today-january-17-2023-c9cc92c45273?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T07:17:55.000Z",
-          "wordCount": 1085,
-          "title": "Crypto Memes Today — January 17, 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/0*xlzQoFBWcoFZ5NNo"
         }
       ]
     },
