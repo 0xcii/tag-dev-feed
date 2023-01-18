@@ -1,79 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-18T15:13:24.711Z</id>
+    <id>urn:2023-01-18T16:17:46.020Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-18T15:13:24.711Z</updated>
+    <updated>2023-01-18T16:17:46.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Blockchain: The Technology That Will Make You Rich or Just Confuse You More]]></title>
-        <id>https://medium.com/p/b0ac526ea8c7</id>
-        <link href="https://medium.com/coinmonks/blockchain-the-technology-that-will-make-you-rich-or-just-confuse-you-more-b0ac526ea8c7?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-18T15:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Exploring the Potential and Risks of Investing in Blockchain Technology]]></summary>
+        <title type="html"><![CDATA[How to Build Your First Data DAO Factory on the FVM]]></title>
+        <id>https://blog.developerdao.com/how-to-build-your-first-data-dao-factory-on-the-fvm</id>
+        <link href="https://blog.developerdao.com/how-to-build-your-first-data-dao-factory-on-the-fvm"/>
+        <updated>2023-01-18T15:20:41.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial will enable you to program the Filecoin deal market and create multiple Data DAOs on the Filecoin Virtual Machine.
+
+What is the Filecoin Virtual Machine?
+Let's start by understanding the Filecoin Virtual Machine (FVM). As a Web3 developer, you may already know that Filecoin is a decentralized storage provider or a peer-to-peer network that stores files with built-in economic incentives to ensure files are stored reliably over time, to be exact. Now think of adding a computational layer on the top of Filecoin, that FVM for you.
+The FVM unlocks boundless possibilities, ranging from programmable storage primitives (such as storage bounties, auctions, and more), to cross-chain interoperability bridges (e.g. trustlessly connecting Filecoin with Ethereum, Solana, NEAR, and more), t…]]></summary>
         <author>
-            <name>Adedeji Jedidiah Ogunsola</name>
+            <name>Aayush Gupta</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Omni Protocol hack analysis, July 2022]]></title>
-        <id>https://medium.com/p/1aea23166a75</id>
-        <link href="https://medium.com/coinmonks/omni-protocol-hack-analysis-july-2022-1aea23166a75?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-18T15:03:55.000Z</updated>
-        <summary type="html"><![CDATA[On July 10, 2022, a hacker who used an Ethereum smart contract reentrancy vulnerability was able to steal $1.4 million from Omni, an NFT…]]></summary>
-        <author>
-            <name>Harbor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Litecoin (LTC) a Good Investment in 2023?]]></title>
-        <id>https://medium.com/p/6659bde97e7f</id>
-        <link href="https://medium.com/coinmonks/is-litecoin-ltc-a-good-investment-in-2023-6659bde97e7f?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-18T14:58:19.000Z</updated>
-        <summary type="html"><![CDATA[When prices drop, Litecoin is a great cryptocurrency to invest in because it is still among the most valuable on the market. As one of the…
+        <title type="html"><![CDATA[US Congress Creates First “Digital Assets Committee”]]></title>
+        <id>https://medium.com/p/49160d82eaa7</id>
+        <link href="https://medium.com/coinmonks/us-congress-creates-first-digital-assets-committee-49160d82eaa7?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T15:14:19.000Z</updated>
+        <summary type="html"><![CDATA[The United States Congress has taken a major step forward in the world of digital assets and blockchain technology by creating a new…
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Vremaroiu Alin</name>
+            <name>Doogie</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We analyse today ,18th of January, 3 Good Stocks: Nvidia (NVDA),Unity Software (U) and Visa (V)]]></title>
-        <id>https://medium.com/p/fcceaf647a28</id>
-        <link href="https://medium.com/coinmonks/we-analyse-today-18th-of-january-3-good-stocks-nvidia-nvda-unity-software-u-and-visa-v-fcceaf647a28?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-18T14:58:14.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia (NVDA)
+        <title type="html"><![CDATA[The 2008 Crisis and the Rise of Bitcoin: How Blockchain Technology Can Protect Us]]></title>
+        <id>https://medium.com/p/667eba362539</id>
+        <link href="https://medium.com/coinmonks/the-2008-crisis-and-the-rise-of-bitcoin-how-blockchain-technology-can-protect-us-667eba362539?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T15:14:12.000Z</updated>
+        <summary type="html"><![CDATA[As the 2008 financial crisis evolved, American families watched in horror as the government bailed out Wall Street bankers who had caused…]]></summary>
+        <author>
+            <name>Sonny Monroe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Polkadot (DOT)]]></title>
+        <id>https://medium.com/p/56133f06ec7f</id>
+        <link href="https://medium.com/coinmonks/what-is-polkadot-dot-56133f06ec7f?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T15:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Polkadot (DOT) is a next-generation blockchain platform that is designed to support the deployment of decentralized applications (dApps)…
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Vremaroiu Alin</name>
+            <name>Hatty's Shack</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I asked ChatGPT: Shiba Inu (SHIB) vs Dogecoin (DOGE). Which is better?]]></title>
-        <id>https://medium.com/p/87e20fd2d78e</id>
-        <link href="https://medium.com/coinmonks/i-asked-chatgpt-shiba-inu-shib-vs-dogecoin-doge-which-is-better-87e20fd2d78e?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-18T14:58:08.000Z</updated>
-        <summary type="html"><![CDATA[Shiba Inu and Dogecoin are two different things, although they are closely related. Shiba Inu is a cryptocurrency, similar to Bitcoin or…
+        <title type="html"><![CDATA[The Rise of Soulbound Web3 Identity Protocols — No this isn’t a Terminator Apocalypse]]></title>
+        <id>https://medium.com/p/981c65a85784</id>
+        <link href="https://medium.com/coinmonks/the-rise-of-soulbound-web3-identity-protocols-no-this-isnt-a-terminator-apocalypse-981c65a85784?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T15:13:40.000Z</updated>
+        <summary type="html"><![CDATA[As the world of blockchain and cryptocurrency continues to evolve, new technologies are emerging that offer exciting possibilities for the…]]></summary>
+        <author>
+            <name>Daniel Diep</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Momentum Indicator Average Directional Indicator (ADX)]]></title>
+        <id>https://medium.com/p/77a0c8c7e555</id>
+        <link href="https://medium.com/coinmonks/momentum-indicator-average-directional-indicator-adx-77a0c8c7e555?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T15:13:33.000Z</updated>
+        <summary type="html"><![CDATA[What is the Average Directional Indicator?
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Vremaroiu Alin</name>
+            <name>Stefan Simbade</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin got one more problem]]></title>
-        <id>https://medium.com/p/a40f8d2791a8</id>
-        <link href="https://medium.com/coinmonks/bitcoin-got-one-more-problem-a40f8d2791a8?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-18T14:58:03.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is growing too fast. It outpaced any assets in the world, and that is a miracle. But that is bad.
+        <title type="html"><![CDATA[Cardano Will Reach $5 Soon.]]></title>
+        <id>https://medium.com/p/b9d13eba300d</id>
+        <link href="https://medium.com/coinmonks/cardano-will-reach-5-soon-b9d13eba300d?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T15:13:26.000Z</updated>
+        <summary type="html"><![CDATA[We might not have all the answers, but when investors talk about cryptocurrency tokens, Cardano ADA is a big part of the conversation.
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>xuanling11</name>
+            <name>Linus Martel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Genesis & Gemini Earn Update 45]]></title>
-        <id>https://medium.com/p/f5bb9a1c1aa8</id>
-        <link href="https://medium.com/coinmonks/genesis-gemini-earn-update-45-f5bb9a1c1aa8?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-18T14:57:55.000Z</updated>
+        <title type="html"><![CDATA[Genesis & Gemini Earn Update 44]]></title>
+        <id>https://medium.com/p/5ece7bf9b785</id>
+        <link href="https://medium.com/coinmonks/genesis-gemini-earn-update-44-5ece7bf9b785?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T15:13:18.000Z</updated>
         <summary type="html"><![CDATA[If you missed my previous articles, check here…
 Continue reading on Coinmonks »]]></summary>
         <author>
@@ -81,34 +95,35 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Two reasons why Bitcoin price is growing plus a Golden Cross on the horizon?]]></title>
-        <id>https://medium.com/p/2bc04922251b</id>
-        <link href="https://medium.com/coinmonks/two-reasons-why-bitcoin-price-is-growing-plus-a-golden-cross-on-the-horizon-2bc04922251b?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-18T14:57:49.000Z</updated>
-        <summary type="html"><![CDATA[What Market Phase are we entering into has been the introductory question for our last appointments. Are we going to listen to the Bulls or…]]></summary>
-        <author>
-            <name>Mike Zillo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto — have the last dominoes fallen?]]></title>
-        <id>https://medium.com/p/a4c41b8da88d</id>
-        <link href="https://medium.com/coinmonks/crypto-have-the-last-dominoes-fallen-a4c41b8da88d?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-18T14:57:38.000Z</updated>
-        <summary type="html"><![CDATA[© Steven Boykey Sidley]]></summary>
-        <author>
-            <name>Steven Boykey Sidley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto News Today — January 18, 2023]]></title>
-        <id>https://medium.com/p/be3633f1f319</id>
-        <link href="https://medium.com/coinmonks/crypto-news-today-january-18-2023-be3633f1f319?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-18T14:57:17.000Z</updated>
-        <summary type="html"><![CDATA[If you’re interested in keeping upwith the crypto world, then you’ve come to the right place to receive crypto news.
+        <title type="html"><![CDATA[When founders who lost investors’ funds can repay through another of their startups?]]></title>
+        <id>https://medium.com/p/fe13f20c8a49</id>
+        <link href="https://medium.com/coinmonks/when-founders-who-lost-investors-funds-can-repay-through-another-of-their-startups-fe13f20c8a49?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T15:13:06.000Z</updated>
+        <summary type="html"><![CDATA[If investors lose all their investments, how can they get all back?
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Crypto Beat</name>
+            <name>xuanling11</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The story of SushiSwap and Vampire attack]]></title>
+        <id>https://medium.com/p/848394f4363b</id>
+        <link href="https://medium.com/coinmonks/the-story-of-sushiswap-and-vampire-attack-848394f4363b?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T15:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Hello, everyone! This is CroutonDigital with you!]]></summary>
+        <author>
+            <name>Crouton Digital</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing Your Bitcoins: A Look at the Latest Crypto Security Measures]]></title>
+        <id>https://medium.com/p/3621ec18d188</id>
+        <link href="https://medium.com/coinmonks/securing-your-bitcoins-a-look-at-the-latest-crypto-security-measures-3621ec18d188?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T15:12:49.000Z</updated>
+        <summary type="html"><![CDATA[The use of cryptocurrencies, such as Bitcoin, has been on the rise in recent years. However, with the increasing popularity of these…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Paul C.</name>
         </author>
     </entry>
     <entry>
