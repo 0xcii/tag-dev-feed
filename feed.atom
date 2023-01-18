@@ -1,10 +1,165 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-18T13:19:34.718Z</id>
+    <id>urn:2023-01-18T14:11:52.520Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-18T13:19:34.718Z</updated>
+    <updated>2023-01-18T14:11:52.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity #18 . Send Ether, Ether Wallet]]></title>
+        <id>https://medium.com/p/5b90ea4b94b2</id>
+        <link href="https://coinsbench.com/solidity-18-send-ether-ether-wallet-5b90ea4b94b2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-18T13:45:46.000Z</updated>
+        <summary type="html"><![CDATA[How to send Ether in Solidity in 3 different ways. After that, we’ll code a simple Ether wallet capable of sending and receiving Ether.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Amalia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity #17 . Payable, Fallback and Receive]]></title>
+        <id>https://medium.com/p/d24b9f7d355f</id>
+        <link href="https://coinsbench.com/solidity-17-payable-fallback-and-receive-d24b9f7d355f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-18T13:45:44.000Z</updated>
+        <summary type="html"><![CDATA[How to use payable, fallback() and receive() concepts in Solidity in order to receive and send Ether, and handle unusual calls.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Amalia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity security and best practices]]></title>
+        <id>https://medium.com/p/f6a9187a1151</id>
+        <link href="https://coinsbench.com/solidity-security-best-practices-f6a9187a1151?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-18T13:38:35.000Z</updated>
+        <summary type="html"><![CDATA[Solidity is a programming language used for writing smart contracts on the Ethereum blockchain. It is a powerful tool that allows…]]></summary>
+        <author>
+            <name>Charles Mbuthia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Contracts Within Contracts: A Dive into Solidity Mapping (Series — Part 3)]]></title>
+        <id>https://medium.com/p/1714bbe24072</id>
+        <link href="https://coinsbench.com/solidity-contracts-within-contracts-a-dive-into-solidity-mapping-series-part-3-1714bbe24072?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-18T13:38:33.000Z</updated>
+        <summary type="html"><![CDATA[On Day 4 of my learning path of “Learn Blockchain, Solidity and Full Stack Web Development with JavaScript, I learnt about contracts…]]></summary>
+        <author>
+            <name>Scofield O. Idehen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity #22 . Try and Catch]]></title>
+        <id>https://medium.com/p/448cecc71fa3</id>
+        <link href="https://coinsbench.com/solidity-22-try-and-catch-448cecc71fa3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-18T13:38:31.000Z</updated>
+        <summary type="html"><![CDATA[Enhance error handling in Solidity with try and catch statements.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Amalia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Active Cryptocurrency — January 18, 2023]]></title>
+        <id>https://medium.com/p/45c36b1b2881</id>
+        <link href="https://medium.com/coinmonks/most-active-cryptocurrency-january-18-2023-45c36b1b2881?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T13:27:23.000Z</updated>
+        <summary type="html"><![CDATA[The cryptocurrency markets are constantly in flux. Here is a list of the top 10 most active cryptocurrencies, based on 24-hour volume.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Beat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Reasons Behind Turkey's Slow Blockchain Adoption Part1]]></title>
+        <id>https://medium.com/p/f0aa8e508d62</id>
+        <link href="https://medium.com/coinmonks/exploring-the-reasons-behind-turkeys-slow-blockchain-adoption-part1-f0aa8e508d62?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T13:27:17.000Z</updated>
+        <summary type="html"><![CDATA[The blockchain industry is experiencing unprecedented growth, with investments in the sector reaching an all-time high in 2020. While…]]></summary>
+        <author>
+            <name>Meteali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connecting the dots in the Blockchain world with Polkadot!]]></title>
+        <id>https://medium.com/p/60b2b9805be0</id>
+        <link href="https://medium.com/coinmonks/connecting-the-dots-in-the-blockchain-world-with-polkadot-60b2b9805be0?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T13:27:10.000Z</updated>
+        <summary type="html"><![CDATA[Polkadot is a blockchain protocol that has the objective to enable interoperability between different blockchain networks. The project was…]]></summary>
+        <author>
+            <name>Eduardo Abreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who is Vitalik Buterin?]]></title>
+        <id>https://medium.com/p/f8f38b77be8d</id>
+        <link href="https://medium.com/coinmonks/who-is-vitalik-buterin-f8f38b77be8d?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T13:26:17.000Z</updated>
+        <summary type="html"><![CDATA[Vitalik Buterin is the main “face” of the Ethereum project and one of its founders. What is his backstory? How did he manage to create…]]></summary>
+        <author>
+            <name>Sunflower Corporation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bringing IRL Utility to WheelCoin to Embrace ReFi Agenda]]></title>
+        <id>https://medium.com/p/91a24276d549</id>
+        <link href="https://medium.com/coinmonks/bringing-irl-utility-to-wheelcoin-to-embrace-refi-agenda-91a24276d549?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T13:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Today, January 18th, we are announcing the live functionality for WheelCoin app users to burn WHL, the reward token, in exchange for…]]></summary>
+        <author>
+            <name>Boyd Cohen, Ph.D. CEO IoMob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happened to Inflation in 1980 ??]]></title>
+        <id>https://medium.com/p/b317754cc5a1</id>
+        <link href="https://medium.com/coinmonks/what-happened-to-inflation-in-1980-b317754cc5a1?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T13:25:34.000Z</updated>
+        <summary type="html"><![CDATA[This graph is a graph of the Interest Rate of the policy results from The FED. There was an increase in prices in 1970 and 1980. This is…]]></summary>
+        <author>
+            <name>Finance Enjoyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Tools Everyone in the Blockchain Industry Should Be Using]]></title>
+        <id>https://medium.com/p/51ac386582de</id>
+        <link href="https://medium.com/coinmonks/5-tools-everyone-in-the-blockchain-industry-should-be-using-51ac386582de?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T13:25:28.000Z</updated>
+        <summary type="html"><![CDATA[The blockchain assiduity is growing fleetly, and with this growth comes the need for tools that make the development and use of blockchain…]]></summary>
+        <author>
+            <name>Aniket Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 Outstanding Reasons to Learn Substrate for Your Business]]></title>
+        <id>https://medium.com/p/ec863e1ff671</id>
+        <link href="https://medium.com/coinmonks/9-outstanding-reasons-to-learn-substrate-for-your-business-ec863e1ff671?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T13:25:05.000Z</updated>
+        <summary type="html"><![CDATA[Unlocking the potential of blockchain: How learning Substrate can benefit your business.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>J. Cienfuegos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 18th, 2023, Bitcoin — Significant recovery expected]]></title>
+        <id>https://medium.com/p/7037c9728391</id>
+        <link href="https://medium.com/coinmonks/january-18th-2023-bitcoin-significant-recovery-expected-7037c9728391?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T13:24:51.000Z</updated>
+        <summary type="html"><![CDATA[After a brutal 14-months bear market, Bitcoin prices reached an important low at 15,479 USD on November 21st, 2022. Since then, prices…]]></summary>
+        <author>
+            <name>Florian Grummes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analyzing formations of different crypto narratives from a historical perspective]]></title>
+        <id>https://medium.com/p/30f9f457eecc</id>
+        <link href="https://medium.com/coinmonks/analyzing-formations-of-different-crypto-narratives-from-a-historical-perspective-30f9f457eecc?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-18T13:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrencies and the underlying blockchain technology have received a lot of mainstream attention in recent years, and with that, have…]]></summary>
+        <author>
+            <name>Kyrian Alex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating a Token On The Polygon Blockchain]]></title>
         <id>https://medium.com/p/513a01d05db6</id>
@@ -59,145 +214,6 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solidity #15 . Calling Parent Functions and Application of Our Knowledge]]></title>
-        <id>https://medium.com/p/42a1e1e620d</id>
-        <link href="https://coinsbench.com/solidity-15-calling-parent-functions-and-application-of-our-knowledge-42a1e1e620d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-17T20:06:29.000Z</updated>
-        <summary type="html"><![CDATA[How to call parent functions in child contracts in Solidity through 2 methods and how to actually use inheritance in a realistic way.
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Amalia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How MEV brought Centralization & Censorship to Ethereum]]></title>
-        <id>https://medium.com/p/8053728a326b</id>
-        <link href="https://coinsbench.com/how-mev-brought-centralization-censorship-to-ethereum-8053728a326b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-17T20:06:22.000Z</updated>
-        <summary type="html"><![CDATA[This is part two of a multi-part series exploring MEV (Maximal Extraction Value).]]></summary>
-        <author>
-            <name>Jae Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Government Bonds And Stablecoins — How Do They Fit Together?]]></title>
-        <id>https://medium.com/p/87c3eeda3f93</id>
-        <link href="https://medium.com/coinmonks/government-bonds-and-stablecoins-how-do-they-fit-together-87c3eeda3f93?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T16:15:25.000Z</updated>
-        <summary type="html"><![CDATA[The interest rate turnaround is having an effect: Circle covers USDC to a large extent with US government bonds, and Tether now does the…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>TheLuWizz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Solana API Providers]]></title>
-        <id>https://medium.com/p/770c136ba7bc</id>
-        <link href="https://medium.com/coinmonks/best-solana-api-providers-770c136ba7bc?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T16:15:18.000Z</updated>
-        <summary type="html"><![CDATA[Solana is an open source blockchain that is designed to have a high transaction speed. It uses a consensus mechanism called “Proof of…]]></summary>
-        <author>
-            <name>Dy_storyteller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2023 Bull Run Has Just Started! Is it Time to Invest?]]></title>
-        <id>https://medium.com/p/cc77a5b5cd3f</id>
-        <link href="https://medium.com/coinmonks/the-2023-bull-run-has-just-started-is-it-time-to-invest-cc77a5b5cd3f?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T16:15:13.000Z</updated>
-        <summary type="html"><![CDATA[The Bull Run has just started, and in this article, we’ll see if it’s time to invest… and what’s going on in cryptocurrencies!
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Mike Coldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best 5 Cryptocurrencies to Buy if you want to be Rich]]></title>
-        <id>https://medium.com/p/140c97e1ed2f</id>
-        <link href="https://medium.com/coinmonks/best-cryptocurrencies-to-buy-if-you-want-to-be-rich-140c97e1ed2f?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T16:15:03.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin (BTC)
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Vremaroiu Alin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoughts on Entrepreneurship: OpenAI’s ChatGPT 3 and DALL-E]]></title>
-        <id>https://medium.com/p/bef8c5f32e5</id>
-        <link href="https://medium.com/coinmonks/thoughts-on-entrepreneurship-openais-chatgpt-3-and-dall-e-bef8c5f32e5?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T16:14:57.000Z</updated>
-        <summary type="html"><![CDATA[by: Christopher H. Loo, MD-PhD
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Christopher H. Loo, MD-PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Best Cheap Cryptocurrencies to Buy Right Now]]></title>
-        <id>https://medium.com/p/48b8a293cca2</id>
-        <link href="https://medium.com/coinmonks/3-best-cheap-cryptocurrencies-to-buy-right-now-48b8a293cca2?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T16:14:51.000Z</updated>
-        <summary type="html"><![CDATA[Dogecoin (DOGE)
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Vremaroiu Alin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy New Year from OpenAI ChatGPT]]></title>
-        <id>https://medium.com/p/17f85210c3ee</id>
-        <link href="https://medium.com/coinmonks/happy-new-year-from-openai-chatgpt-17f85210c3ee?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T16:14:43.000Z</updated>
-        <summary type="html"><![CDATA[by: Christopher H. Loo, MD-PhD
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Christopher H. Loo, MD-PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intention Setting into 2023]]></title>
-        <id>https://medium.com/p/11b43dd919ed</id>
-        <link href="https://medium.com/coinmonks/intention-setting-into-2023-11b43dd919ed?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T16:14:36.000Z</updated>
-        <summary type="html"><![CDATA[by: Christopher H. Loo, MD-PhD
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Christopher H. Loo, MD-PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trying to stay Up to Date with Crypto? Focus on the Signal, Filter Out the Noise (with 7 Examples)]]></title>
-        <id>https://medium.com/p/ba3209bc11a4</id>
-        <link href="https://medium.com/coinmonks/trying-to-stay-up-to-date-with-crypto-focus-on-the-signal-filter-out-the-noise-with-7-examples-ba3209bc11a4?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T16:14:30.000Z</updated>
-        <summary type="html"><![CDATA[I guess we succeed in receiving all most relevant info, don’t we? But at what cost? Let’s scale down on information and focus on value!]]></summary>
-        <author>
-            <name>MDSquared</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum (ETH) Price Prediction 2023–2025, update 17th of January]]></title>
-        <id>https://medium.com/p/d7b3e6c571d5</id>
-        <link href="https://medium.com/coinmonks/ethereum-eth-price-prediction-2023-2025-update-17th-of-january-d7b3e6c571d5?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-17T16:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Exactly What Is Ethereum (ETH)?
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Vremaroiu Alin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Proof of Concept Automated Market Maker in Solidity]]></title>
-        <id>https://medium.com/p/beb0f99bf26e</id>
-        <link href="https://coinsbench.com/building-a-proof-of-concept-automated-market-maker-in-solidity-beb0f99bf26e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-14T11:06:42.000Z</updated>
-        <summary type="html"><![CDATA[An introduction to building a decentralized exchange]]></summary>
-        <author>
-            <name>Alexander John Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevNTell - Debond Protocol]]></title>
         <id>https://blog.developerdao.com/devntell-debond-protocol</id>
         <link href="https://blog.developerdao.com/devntell-debond-protocol"/>
@@ -208,28 +224,6 @@ From Desmo labs:
 Desmo Labs (D/LABS) is a fintech solution provider of software development and consulting services. Our experienced and innovative team of professionals specializes in the development of uniform KYC solutions and tokenization to facilitate compliance and more efficiently negotiate any goods or services. Our technologies offer a secure and efficient "Swift" on-chain settlement system with integrated KYC and DID claim standards. This can enable the development of simplified and compliant financial software for both the public and private sec…]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Write a Cryptocurrency Bot]]></title>
-        <id>https://medium.com/p/c60834968fae</id>
-        <link href="https://coinsbench.com/lets-write-a-cryptocurrency-bot-c60834968fae?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-13T13:06:13.000Z</updated>
-        <summary type="html"><![CDATA[Writing a cryptocurrency bot can be a rewarding experience. It requires a basic understanding of coding and trading strategies.
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Crypto Beat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity #9 . Memory, Storage And Calldata]]></title>
-        <id>https://medium.com/p/9abc86f0b4e</id>
-        <link href="https://coinsbench.com/solidity-9-memory-storage-and-calldata-9abc86f0b4e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-13T13:06:06.000Z</updated>
-        <summary type="html"><![CDATA[How to choose between memory, storage and calldata in Solidity to control where our data is located and save as much gas as possible.
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Amalia</name>
         </author>
     </entry>
     <entry>

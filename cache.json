@@ -18,6 +18,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/5b90ea4b94b2",
+          "author": "Amalia",
+          "description": "How to send Ether in Solidity in 3 different ways. After that, we’ll code a simple Ether wallet capable of sending and receiving Ether.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-18-send-ether-ether-wallet-5b90ea4b94b2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-18T13:45:46.000Z",
+          "wordCount": 3192,
+          "title": "Solidity #18 . Send Ether, Ether Wallet",
+          "imageUrl": "https://miro.medium.com/max/1200/0*VXxi3gOpItPzVoA7"
+        },
+        {
+          "id": "https://medium.com/p/d24b9f7d355f",
+          "author": "Amalia",
+          "description": "How to use payable, fallback() and receive() concepts in Solidity in order to receive and send Ether, and handle unusual calls.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-17-payable-fallback-and-receive-d24b9f7d355f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-18T13:45:44.000Z",
+          "wordCount": 2810,
+          "title": "Solidity #17 . Payable, Fallback and Receive",
+          "imageUrl": "https://miro.medium.com/max/1200/0*AOuvR9UHssARwfvL"
+        },
+        {
+          "id": "https://medium.com/p/f6a9187a1151",
+          "author": "Charles Mbuthia",
+          "description": "Solidity is a programming language used for writing smart contracts on the Ethereum blockchain. It is a powerful tool that allows…",
+          "link": "https://coinsbench.com/solidity-security-best-practices-f6a9187a1151?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-18T13:38:35.000Z",
+          "wordCount": 2609,
+          "title": "Solidity security and best practices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1714bbe24072",
+          "author": "Scofield O. Idehen",
+          "description": "On Day 4 of my learning path of “Learn Blockchain, Solidity and Full Stack Web Development with JavaScript, I learnt about contracts…",
+          "link": "https://coinsbench.com/solidity-contracts-within-contracts-a-dive-into-solidity-mapping-series-part-3-1714bbe24072?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-18T13:38:33.000Z",
+          "wordCount": 3069,
+          "title": "Solidity Contracts Within Contracts: A Dive into Solidity Mapping (Series — Part 3)",
+          "imageUrl": "https://miro.medium.com/max/1200/1*ICsCn0cFHroSmpuKHrwIYg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/448cecc71fa3",
+          "author": "Amalia",
+          "description": "Enhance error handling in Solidity with try and catch statements.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-22-try-and-catch-448cecc71fa3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-18T13:38:31.000Z",
+          "wordCount": 2874,
+          "title": "Solidity #22 . Try and Catch",
+          "imageUrl": "https://miro.medium.com/max/434/1*9DajKCJC2SN26d2PLqCaVA.png"
+        },
+        {
           "id": "https://medium.com/p/513a01d05db6",
           "author": "Katia D",
           "description": "Exploring the Web 3 space is confusing but exciting at the same time. This tweet below was my next step in learning more. I signed up right away and was accepted. One exciting project was creating a…",
@@ -63,59 +113,9 @@
           "description": "Contracts that inherit code from multiple parent contracts often have to invoke their parent constructors. But how ? Amalia Kelley\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/solidity-14-multipe-inheritances-and-calling-parent-constructors-4ffb99bea4b0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-17T20:06:36.000Z",
-          "wordCount": 2954,
+          "wordCount": 2963,
           "title": "Solidity #14 . Multipe Inheritances and Calling Parent Constructors",
           "imageUrl": "https://miro.medium.com/max/613/1*WJQT-zatlHna12bO3Q4jQA.png"
-        },
-        {
-          "id": "https://medium.com/p/42a1e1e620d",
-          "author": "Amalia",
-          "description": "How to call parent functions in child contracts in Solidity through 2 methods and how to actually use inheritance in a realistic way.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-15-calling-parent-functions-and-application-of-our-knowledge-42a1e1e620d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-17T20:06:29.000Z",
-          "wordCount": 2945,
-          "title": "Solidity #15 . Calling Parent Functions and Application of Our Knowledge",
-          "imageUrl": "https://miro.medium.com/max/1200/0*GzVVPXe9JMCPDzD-"
-        },
-        {
-          "id": "https://medium.com/p/8053728a326b",
-          "author": "Jae Lee",
-          "description": "This is part two of a multi-part series exploring MEV (Maximal Extraction Value).",
-          "link": "https://coinsbench.com/how-mev-brought-centralization-censorship-to-ethereum-8053728a326b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-17T20:06:22.000Z",
-          "wordCount": 2649,
-          "title": "How MEV brought Centralization & Censorship to Ethereum",
-          "imageUrl": "https://miro.medium.com/max/640/1*iR_i6ZhZWHhxNnk-LIcV0A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/beb0f99bf26e",
-          "author": "Alexander John Lee",
-          "description": "An introduction to building a decentralized exchange",
-          "link": "https://coinsbench.com/building-a-proof-of-concept-automated-market-maker-in-solidity-beb0f99bf26e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-14T11:06:42.000Z",
-          "wordCount": 4046,
-          "title": "Building a Proof of Concept Automated Market Maker in Solidity",
-          "imageUrl": "https://miro.medium.com/max/1200/1*J9SJzUZDl0vlRsKRcNgsVA.png"
-        },
-        {
-          "id": "https://medium.com/p/c60834968fae",
-          "author": "Crypto Beat",
-          "description": "Writing a cryptocurrency bot can be a rewarding experience. It requires a basic understanding of coding and trading strategies.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/lets-write-a-cryptocurrency-bot-c60834968fae?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-13T13:06:13.000Z",
-          "wordCount": 2023,
-          "title": "Let’s Write a Cryptocurrency Bot",
-          "imageUrl": "https://miro.medium.com/max/1200/0*-CO8LZ0lywARBWtT"
-        },
-        {
-          "id": "https://medium.com/p/9abc86f0b4e",
-          "author": "Amalia",
-          "description": "How to choose between memory, storage and calldata in Solidity to control where our data is located and save as much gas as possible.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-9-memory-storage-and-calldata-9abc86f0b4e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-13T13:06:06.000Z",
-          "wordCount": 3653,
-          "title": "Solidity #9 . Memory, Storage And Calldata",
-          "imageUrl": "https://miro.medium.com/max/1200/0*rAZPqgJ1D0-p9cL2"
         }
       ]
     },
@@ -125,104 +125,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/87c3eeda3f93",
-          "author": "TheLuWizz",
-          "description": "The interest rate turnaround is having an effect: Circle covers USDC to a large extent with US government bonds, and Tether now does the…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/government-bonds-and-stablecoins-how-do-they-fit-together-87c3eeda3f93?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T16:15:25.000Z",
-          "wordCount": 1099,
-          "title": "Government Bonds And Stablecoins — How Do They Fit Together?",
-          "imageUrl": "https://miro.medium.com/max/1200/0*E7g8PWXhaM6MDg_S"
+          "id": "https://medium.com/p/45c36b1b2881",
+          "author": "Crypto Beat",
+          "description": "The cryptocurrency markets are constantly in flux. Here is a list of the top 10 most active cryptocurrencies, based on 24-hour volume.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/most-active-cryptocurrency-january-18-2023-45c36b1b2881?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-18T13:27:23.000Z",
+          "wordCount": 1085,
+          "title": "Most Active Cryptocurrency — January 18, 2023",
+          "imageUrl": "https://miro.medium.com/max/1200/0*RAbTBNBFw_cH8g4Q"
         },
         {
-          "id": "https://medium.com/p/770c136ba7bc",
-          "author": "Dy_storyteller",
-          "description": "Solana is an open source blockchain that is designed to have a high transaction speed. It uses a consensus mechanism called “Proof of…",
-          "link": "https://medium.com/coinmonks/best-solana-api-providers-770c136ba7bc?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T16:15:18.000Z",
-          "wordCount": 3639,
-          "title": "Best Solana API Providers",
-          "imageUrl": "https://miro.medium.com/max/1200/0*U_Lt7mONShF-2VwF"
+          "id": "https://medium.com/p/f0aa8e508d62",
+          "author": "Meteali",
+          "description": "The blockchain industry is experiencing unprecedented growth, with investments in the sector reaching an all-time high in 2020. While…",
+          "link": "https://medium.com/coinmonks/exploring-the-reasons-behind-turkeys-slow-blockchain-adoption-part1-f0aa8e508d62?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-18T13:27:17.000Z",
+          "wordCount": 3217,
+          "title": "Exploring the Reasons Behind Turkey's Slow Blockchain Adoption Part1",
+          "imageUrl": "https://miro.medium.com/max/1080/1*bUebLuF6tnbu-kofvh209A.png"
         },
         {
-          "id": "https://medium.com/p/cc77a5b5cd3f",
-          "author": "Mike Coldman",
-          "description": "The Bull Run has just started, and in this article, we’ll see if it’s time to invest… and what’s going on in cryptocurrencies!\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-2023-bull-run-has-just-started-is-it-time-to-invest-cc77a5b5cd3f?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T16:15:13.000Z",
-          "wordCount": 1031,
-          "title": "The 2023 Bull Run Has Just Started! Is it Time to Invest?",
-          "imageUrl": "https://miro.medium.com/max/1200/1*mngofw4WxmqcusnO7IJyLg.png"
+          "id": "https://medium.com/p/60b2b9805be0",
+          "author": "Eduardo Abreu",
+          "description": "Polkadot is a blockchain protocol that has the objective to enable interoperability between different blockchain networks. The project was…",
+          "link": "https://medium.com/coinmonks/connecting-the-dots-in-the-blockchain-world-with-polkadot-60b2b9805be0?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-18T13:27:10.000Z",
+          "wordCount": 1786,
+          "title": "Connecting the dots in the Blockchain world with Polkadot!",
+          "imageUrl": "https://miro.medium.com/max/1200/1*kyqOOe25ziJsgV7DeHqcPA.jpeg"
         },
         {
-          "id": "https://medium.com/p/140c97e1ed2f",
-          "author": "Vremaroiu Alin",
-          "description": "Bitcoin (BTC)\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/best-cryptocurrencies-to-buy-if-you-want-to-be-rich-140c97e1ed2f?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T16:15:03.000Z",
-          "wordCount": 1077,
-          "title": "Best 5 Cryptocurrencies to Buy if you want to be Rich",
-          "imageUrl": "https://miro.medium.com/max/1200/1*3MmjfAdvbsIzjv5UWyH0wQ.jpeg"
+          "id": "https://medium.com/p/f8f38b77be8d",
+          "author": "Sunflower Corporation",
+          "description": "Vitalik Buterin is the main “face” of the Ethereum project and one of its founders. What is his backstory? How did he manage to create…",
+          "link": "https://medium.com/coinmonks/who-is-vitalik-buterin-f8f38b77be8d?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-18T13:26:17.000Z",
+          "wordCount": 4003,
+          "title": "Who is Vitalik Buterin?",
+          "imageUrl": "https://miro.medium.com/max/1200/1*UOqG2HJJKomHkdCFZwaNXw.png"
         },
         {
-          "id": "https://medium.com/p/bef8c5f32e5",
-          "author": "Christopher H. Loo, MD-PhD",
-          "description": "by: Christopher H. Loo, MD-PhD\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/thoughts-on-entrepreneurship-openais-chatgpt-3-and-dall-e-bef8c5f32e5?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T16:14:57.000Z",
-          "wordCount": 1441,
-          "title": "Thoughts on Entrepreneurship: OpenAI’s ChatGPT 3 and DALL-E",
-          "imageUrl": "https://miro.medium.com/max/1024/1*BR2jEZwlGzrp2-2axFkrww.png"
+          "id": "https://medium.com/p/91a24276d549",
+          "author": "Boyd Cohen, Ph.D. CEO IoMob",
+          "description": "Today, January 18th, we are announcing the live functionality for WheelCoin app users to burn WHL, the reward token, in exchange for…",
+          "link": "https://medium.com/coinmonks/bringing-irl-utility-to-wheelcoin-to-embrace-refi-agenda-91a24276d549?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-18T13:25:42.000Z",
+          "wordCount": 2853,
+          "title": "Bringing IRL Utility to WheelCoin to Embrace ReFi Agenda",
+          "imageUrl": "https://miro.medium.com/max/422/1*Qx7-ynBGfCl5bNGdqFE2tA.png"
         },
         {
-          "id": "https://medium.com/p/48b8a293cca2",
-          "author": "Vremaroiu Alin",
-          "description": "Dogecoin (DOGE)\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/3-best-cheap-cryptocurrencies-to-buy-right-now-48b8a293cca2?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T16:14:51.000Z",
-          "wordCount": 1087,
-          "title": "3 Best Cheap Cryptocurrencies to Buy Right Now",
-          "imageUrl": "https://miro.medium.com/max/1200/1*IzdjyCjWdj8twdX9FoBaJQ.jpeg"
+          "id": "https://medium.com/p/b317754cc5a1",
+          "author": "Finance Enjoyer",
+          "description": "This graph is a graph of the Interest Rate of the policy results from The FED. There was an increase in prices in 1970 and 1980. This is…",
+          "link": "https://medium.com/coinmonks/what-happened-to-inflation-in-1980-b317754cc5a1?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-18T13:25:34.000Z",
+          "wordCount": 1454,
+          "title": "What Happened to Inflation in 1980 ??",
+          "imageUrl": "https://miro.medium.com/max/1168/1*hmW9t1xI5uTF74L-Nri-Gw.png"
         },
         {
-          "id": "https://medium.com/p/17f85210c3ee",
-          "author": "Christopher H. Loo, MD-PhD",
-          "description": "by: Christopher H. Loo, MD-PhD\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/happy-new-year-from-openai-chatgpt-17f85210c3ee?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T16:14:43.000Z",
-          "wordCount": 1388,
-          "title": "Happy New Year from OpenAI ChatGPT",
-          "imageUrl": "https://miro.medium.com/max/1200/1*LvtXXCA_O7dknbAZCAhs7Q.jpeg"
+          "id": "https://medium.com/p/51ac386582de",
+          "author": "Aniket Das",
+          "description": "The blockchain assiduity is growing fleetly, and with this growth comes the need for tools that make the development and use of blockchain…",
+          "link": "https://medium.com/coinmonks/5-tools-everyone-in-the-blockchain-industry-should-be-using-51ac386582de?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-18T13:25:28.000Z",
+          "wordCount": 1865,
+          "title": "5 Tools Everyone in the Blockchain Industry Should Be Using",
+          "imageUrl": "https://miro.medium.com/max/474/0*xLV8fDC4mUq57Q44"
         },
         {
-          "id": "https://medium.com/p/11b43dd919ed",
-          "author": "Christopher H. Loo, MD-PhD",
-          "description": "by: Christopher H. Loo, MD-PhD\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/intention-setting-into-2023-11b43dd919ed?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T16:14:36.000Z",
-          "wordCount": 1463,
-          "title": "Intention Setting into 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/1*jsqW143wdWizUNGtNjsiig.jpeg"
+          "id": "https://medium.com/p/ec863e1ff671",
+          "author": "J. Cienfuegos",
+          "description": "Unlocking the potential of blockchain: How learning Substrate can benefit your business.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/9-outstanding-reasons-to-learn-substrate-for-your-business-ec863e1ff671?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-18T13:25:05.000Z",
+          "wordCount": 1197,
+          "title": "9 Outstanding Reasons to Learn Substrate for Your Business",
+          "imageUrl": "https://miro.medium.com/max/1200/0*7OIKQHCoRHH-l2c0"
         },
         {
-          "id": "https://medium.com/p/ba3209bc11a4",
-          "author": "MDSquared",
-          "description": "I guess we succeed in receiving all most relevant info, don’t we? But at what cost? Let’s scale down on information and focus on value!",
-          "link": "https://medium.com/coinmonks/trying-to-stay-up-to-date-with-crypto-focus-on-the-signal-filter-out-the-noise-with-7-examples-ba3209bc11a4?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T16:14:30.000Z",
-          "wordCount": 3494,
-          "title": "Trying to stay Up to Date with Crypto? Focus on the Signal, Filter Out the Noise (with 7 Examples)",
-          "imageUrl": "https://miro.medium.com/max/1200/1*mo9OTGy0Dbut8W2LfeFs-w.jpeg"
+          "id": "https://medium.com/p/7037c9728391",
+          "author": "Florian Grummes",
+          "description": "After a brutal 14-months bear market, Bitcoin prices reached an important low at 15,479 USD on November 21st, 2022. Since then, prices…",
+          "link": "https://medium.com/coinmonks/january-18th-2023-bitcoin-significant-recovery-expected-7037c9728391?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-18T13:24:51.000Z",
+          "wordCount": 4713,
+          "title": "January 18th, 2023, Bitcoin — Significant recovery expected",
+          "imageUrl": "https://miro.medium.com/max/798/1*W-uCsZKRYlcEvbkr9FtQmw.jpeg"
         },
         {
-          "id": "https://medium.com/p/d7b3e6c571d5",
-          "author": "Vremaroiu Alin",
-          "description": "Exactly What Is Ethereum (ETH)?\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/ethereum-eth-price-prediction-2023-2025-update-17th-of-january-d7b3e6c571d5?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-17T16:14:23.000Z",
-          "wordCount": 1143,
-          "title": "Ethereum (ETH) Price Prediction 2023–2025, update 17th of January",
-          "imageUrl": "https://miro.medium.com/max/1200/1*22ABo98KnU16oijAlMs5aQ.jpeg"
+          "id": "https://medium.com/p/30f9f457eecc",
+          "author": "Kyrian Alex",
+          "description": "Cryptocurrencies and the underlying blockchain technology have received a lot of mainstream attention in recent years, and with that, have…",
+          "link": "https://medium.com/coinmonks/analyzing-formations-of-different-crypto-narratives-from-a-historical-perspective-30f9f457eecc?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-18T13:24:19.000Z",
+          "wordCount": 3385,
+          "title": "Analyzing formations of different crypto narratives from a historical perspective",
+          "imageUrl": "https://miro.medium.com/max/1107/1*V2agfScdc55J7tIFo4IksQ.png"
         }
       ]
     },
