@@ -18,6 +18,36 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a338c7bde864",
+          "author": "natnat",
+          "description": "Our task is to make sure the lending pool is not offering flash loans.",
+          "link": "https://coinsbench.com/unstoppable-writeup-smart-contract-hacking-damn-vulnerable-defi-a338c7bde864?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-19T12:58:56.000Z",
+          "wordCount": 1523,
+          "title": "Unstoppable  writeup— Smart contract hacking — Damn Vulnerable DeFi",
+          "imageUrl": "https://miro.medium.com/max/1200/1*Ziq062FjhxM_YtGCRwqTWA.png"
+        },
+        {
+          "id": "https://medium.com/p/af5bc50f6b7",
+          "author": "Pranshu Duneja",
+          "description": "As the revolution of Web3.0 is taking the Digital world by storm, there are so many potential projects that have yet to set their mark in…",
+          "link": "https://coinsbench.com/what-is-ipfs-a-decentralized-file-system-protocol-af5bc50f6b7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-19T12:58:49.000Z",
+          "wordCount": 2321,
+          "title": "What is IPFS — A Decentralized File System Protocol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2d657c44eb3d",
+          "author": "Beach Crypto",
+          "description": "In the pursuit of simplicity I had to take a closer look at the super simple mint function I found in the Preset ERC721 contract…",
+          "link": "https://coinsbench.com/deploy-a-bad-contract-ii-2d657c44eb3d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-19T12:58:43.000Z",
+          "wordCount": 2464,
+          "title": "Super Simple Mint Contract",
+          "imageUrl": "https://miro.medium.com/max/1200/1*EqWdRsSfEoianxLWM1ApiQ.png"
+        },
+        {
           "id": "https://medium.com/p/5b90ea4b94b2",
           "author": "Amalia",
           "description": "How to send Ether in Solidity in 3 different ways. After that, we’ll code a simple Ether wallet capable of sending and receiving Ether.\nContinue reading on CoinsBench »",
@@ -86,36 +116,6 @@
           "wordCount": 2251,
           "title": "Solidity Visibility State/Modifiers (Series — part 2)",
           "imageUrl": "https://miro.medium.com/max/1200/1*nBjyiRL4xuTjiRd9ykp17g.png"
-        },
-        {
-          "id": "https://medium.com/p/7c2e789c8e18",
-          "author": "Amalia",
-          "description": "How to use Events in Solidity as a cheap form of storage and a way to log to the blockchain  and analysis of 2 projects based on…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-11-events-and-analysis-of-2-solidity-projects-7c2e789c8e18?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-17T20:06:52.000Z",
-          "wordCount": 3254,
-          "title": "Solidity #11 . Events and Analysis of 2 Solidity Projects",
-          "imageUrl": "https://miro.medium.com/max/1200/0*_RKdPNwyx9rQPuvT"
-        },
-        {
-          "id": "https://medium.com/p/ef82899f4441",
-          "author": "Amalia",
-          "description": "In this lesson we will study a Ballot project implemented in Solidity to consolidate & review our knowledge through a real use case.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-12-analysis-of-a-ballot-project-ef82899f4441?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-17T20:06:44.000Z",
-          "wordCount": 5616,
-          "title": "Solidity #12 . Analysis of a Ballot Project",
-          "imageUrl": "https://miro.medium.com/max/1200/0*SaF4PGcD7BxHFupw"
-        },
-        {
-          "id": "https://medium.com/p/4ffb99bea4b0",
-          "author": "Amalia",
-          "description": "Contracts that inherit code from multiple parent contracts often have to invoke their parent constructors. But how ? Amalia Kelley\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-14-multipe-inheritances-and-calling-parent-constructors-4ffb99bea4b0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-17T20:06:36.000Z",
-          "wordCount": 2945,
-          "title": "Solidity #14 . Multipe Inheritances and Calling Parent Constructors",
-          "imageUrl": "https://miro.medium.com/max/613/1*WJQT-zatlHna12bO3Q4jQA.png"
         }
       ]
     },
