@@ -23,7 +23,7 @@
           "description": "How to send Ether in Solidity in 3 different ways. After that, we’ll code a simple Ether wallet capable of sending and receiving Ether.\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/solidity-18-send-ether-ether-wallet-5b90ea4b94b2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-18T13:45:46.000Z",
-          "wordCount": 3195,
+          "wordCount": 3189,
           "title": "Solidity #18 . Send Ether, Ether Wallet",
           "imageUrl": "https://miro.medium.com/max/1200/0*VXxi3gOpItPzVoA7"
         },
@@ -33,7 +33,7 @@
           "description": "How to use payable, fallback() and receive() concepts in Solidity in order to receive and send Ether, and handle unusual calls.\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/solidity-17-payable-fallback-and-receive-d24b9f7d355f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-18T13:45:44.000Z",
-          "wordCount": 2711,
+          "wordCount": 2705,
           "title": "Solidity #17 . Payable, Fallback and Receive",
           "imageUrl": "https://miro.medium.com/max/1200/0*AOuvR9UHssARwfvL"
         },
@@ -63,7 +63,7 @@
           "description": "Enhance error handling in Solidity with try and catch statements.\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/solidity-22-try-and-catch-448cecc71fa3?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-18T13:38:31.000Z",
-          "wordCount": 3012,
+          "wordCount": 3006,
           "title": "Solidity #22 . Try and Catch",
           "imageUrl": "https://miro.medium.com/max/434/1*9DajKCJC2SN26d2PLqCaVA.png"
         },
@@ -93,7 +93,7 @@
           "description": "How to use Events in Solidity as a cheap form of storage and a way to log to the blockchain  and analysis of 2 projects based on…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/solidity-11-events-and-analysis-of-2-solidity-projects-7c2e789c8e18?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-17T20:06:52.000Z",
-          "wordCount": 3260,
+          "wordCount": 3254,
           "title": "Solidity #11 . Events and Analysis of 2 Solidity Projects",
           "imageUrl": "https://miro.medium.com/max/1200/0*_RKdPNwyx9rQPuvT"
         },
@@ -103,7 +103,7 @@
           "description": "In this lesson we will study a Ballot project implemented in Solidity to consolidate & review our knowledge through a real use case.\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/solidity-12-analysis-of-a-ballot-project-ef82899f4441?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-17T20:06:44.000Z",
-          "wordCount": 5510,
+          "wordCount": 5616,
           "title": "Solidity #12 . Analysis of a Ballot Project",
           "imageUrl": "https://miro.medium.com/max/1200/0*SaF4PGcD7BxHFupw"
         },
@@ -113,7 +113,7 @@
           "description": "Contracts that inherit code from multiple parent contracts often have to invoke their parent constructors. But how ? Amalia Kelley\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/solidity-14-multipe-inheritances-and-calling-parent-constructors-4ffb99bea4b0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-17T20:06:36.000Z",
-          "wordCount": 2951,
+          "wordCount": 2945,
           "title": "Solidity #14 . Multipe Inheritances and Calling Parent Constructors",
           "imageUrl": "https://miro.medium.com/max/613/1*WJQT-zatlHna12bO3Q4jQA.png"
         }
@@ -125,104 +125,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/26b6fd1ad27c",
-          "author": "Crypto Beat",
-          "description": "Cryptocurrencies are a volatile market, with prices rapidly changing. Here are the top 10 cryptocurrencies by market capitalization.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/current-crypto-prices-january-19-2023-26b6fd1ad27c?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-19T09:57:49.000Z",
-          "wordCount": 1049,
-          "title": "Current Crypto Prices — January 19, 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/0*mrshBwzR1jksa7jQ"
+          "id": "https://medium.com/p/92cfa5d8499a",
+          "author": "Dy_storyteller",
+          "description": "Blockchain visualization tools can help users better understand on-chain activity by providing a graphical representation of the data.",
+          "link": "https://medium.com/coinmonks/visualize-money-flow-using-gephi-92cfa5d8499a?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-19T10:27:17.000Z",
+          "wordCount": 2145,
+          "title": "Blockchain visualization using GraphQL and Gephi",
+          "imageUrl": "https://miro.medium.com/max/767/0*1PjSmREq0qyqOCL9"
         },
         {
-          "id": "https://medium.com/p/877b6a587425",
-          "author": "Crypto Beat",
-          "description": "The cryptocurrency markets are constantly in flux. Here is a list of the top 10 most active cryptocurrencies, based on 24-hour volume.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/most-active-cryptocurrency-january-19-2023-877b6a587425?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-19T09:57:41.000Z",
-          "wordCount": 1085,
-          "title": "Most Active Cryptocurrency — January 19, 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/0*D8O6Ru9LQv7K18Mg"
+          "id": "https://medium.com/p/dc90e02bd108",
+          "author": "TheLuWizz",
+          "description": "Expectations are high for Cardano and the ADA Coin in 2023. There are several promises for the Ethereum challenger to deliver on in the…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/three-big-upcoming-events-on-cardano-dc90e02bd108?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-19T10:27:03.000Z",
+          "wordCount": 1415,
+          "title": "Three Big Upcoming Events On Cardano",
+          "imageUrl": "https://miro.medium.com/max/1200/1*jNP3US_ZNMf4TTDCcyd-9A.png"
         },
         {
-          "id": "https://medium.com/p/399693e8d54b",
-          "author": "Crypto Beat",
-          "description": "Bitcoin is a digital currency, or cryptocurrency, that was created in 2009 by an unknown person Satoshi Nakamoto and evolved greatly.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/what-is-bitcoin-and-how-does-it-work-399693e8d54b?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-19T09:57:30.000Z",
-          "wordCount": 1086,
-          "title": "What Is Bitcoin And How Does It Work?",
-          "imageUrl": "https://miro.medium.com/max/1200/0*ajfI9qLlp_7-bwAh"
+          "id": "https://medium.com/p/37953a0b2984",
+          "author": "MrNouman",
+          "description": "Estimated reading time: 15 minutes.",
+          "link": "https://medium.com/coinmonks/how-technology-is-hijacking-your-mind-from-a-magician-and-google-design-ethicist-37953a0b2984?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-19T10:26:53.000Z",
+          "wordCount": 8167,
+          "title": "How Technology is Hijacking Your Mind — from a Magician and Google Design Ethicist",
+          "imageUrl": "https://miro.medium.com/max/700/0*aRKtbCF6W0c0IhK0.jpeg"
         },
         {
-          "id": "https://medium.com/p/6cb3c2a5de4e",
-          "author": "Crypto Beat",
-          "description": "The Grayscale Bitcoin Trust is a digital currency investment product that investors can buy and sell in their own brokerage account.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/grayscale-bitcoin-trust-an-introduction-6cb3c2a5de4e?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-19T09:57:21.000Z",
-          "wordCount": 1073,
-          "title": "Grayscale Bitcoin Trust: An Introduction",
-          "imageUrl": "https://miro.medium.com/max/1200/0*BLP9r-bJn28L1PRe"
+          "id": "https://medium.com/p/7436ae6c1c25",
+          "author": "Velvet.Capital",
+          "description": "Bull vs. Bear! Who will win? Check the top crypto and DeFi stories of the week!",
+          "link": "https://medium.com/coinmonks/weekly-crypto-defi-alpha-7436ae6c1c25?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-19T10:26:26.000Z",
+          "wordCount": 3061,
+          "title": "Weekly Crypto & DeFi Alpha",
+          "imageUrl": "https://miro.medium.com/max/1200/1*Mc1tNuThwB-U1lsxn55uCQ.png"
         },
         {
-          "id": "https://medium.com/p/d0dd550b2201",
-          "author": "Crypto Beat",
-          "description": "ISO 20022 is an important standard for the cryptocurrency industry. It will enable banks and payment networks to provide more services.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/what-is-iso-20022-and-how-will-it-impact-the-crypto-industry-d0dd550b2201?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-19T09:57:10.000Z",
-          "wordCount": 1086,
-          "title": "What is ISO 20022 and How Will it Impact the Crypto Industry?",
-          "imageUrl": "https://miro.medium.com/max/1200/0*t5CgqMAJxO5QPz65"
+          "id": "https://medium.com/p/cb171bb5fcd7",
+          "author": "Velvet.Capital",
+          "description": "2022 is in the books, and we’re all stoked for 2023! A dive into the top stories in crypto & DeFi at the top of the year!",
+          "link": "https://medium.com/coinmonks/this-week-in-crypto-jan-1st-8th-cb171bb5fcd7?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-19T10:26:13.000Z",
+          "wordCount": 2685,
+          "title": "This Week in Crypto (Jan 1st- 8th)",
+          "imageUrl": "https://miro.medium.com/max/1200/1*Mc1tNuThwB-U1lsxn55uCQ.png"
         },
         {
-          "id": "https://medium.com/p/ae2178fd0eeb",
-          "author": "Chuxiaolian",
-          "description": "I joined web3 exactly 2 years ago.",
-          "link": "https://medium.com/coinmonks/how-to-find-a-job-in-web3-how-to-get-started-with-web3-ae2178fd0eeb?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-19T09:57:01.000Z",
-          "wordCount": 2782,
-          "title": "How to find a job in Web3? How to get started with web3?",
-          "imageUrl": "https://miro.medium.com/max/1200/1*dJCudw5PeIBkFP8wV601Uw.png"
+          "id": "https://medium.com/p/dd2f9e1305f",
+          "author": "Velvet.Capital",
+          "description": "Check out the ‘DeFi Gems’ Portfolio live now in the Velvet Community Marketplace. Build a portfolio of all the best DeFi projects!",
+          "link": "https://medium.com/coinmonks/velvet-community-marketplace-defi-gems-dd2f9e1305f?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-19T10:25:51.000Z",
+          "wordCount": 3033,
+          "title": "Velvet Community Marketplace: DeFi Gems",
+          "imageUrl": "https://miro.medium.com/max/1200/0*9NgfRYMJTCD6dHPo.png"
         },
         {
-          "id": "https://medium.com/p/75d621f33a43",
-          "author": "KOOP360",
-          "description": "CoinDCX",
-          "link": "https://medium.com/coinmonks/exploiting-indias-crypto-potential-with-coindcx-75d621f33a43?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-19T09:56:51.000Z",
-          "wordCount": 1828,
-          "title": "Exploiting India’s Crypto Potential with CoinDCX",
-          "imageUrl": "https://miro.medium.com/max/1024/0*FqeouEj1aHPNkyEa.png"
+          "id": "https://medium.com/p/a1ee55b4b09b",
+          "author": "Jamen Mendes",
+          "description": "This is the Struggle that Will define the Future of Bitcoin and Crypto Currencies.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/bitcoin-fighting-for-its-life-a1ee55b4b09b?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-19T10:25:40.000Z",
+          "wordCount": 1227,
+          "title": "Bitcoin — Fighting For Its Life!",
+          "imageUrl": "https://miro.medium.com/max/1200/1*u5xxBVPU2qCHDFvsi583eg.jpeg"
         },
         {
-          "id": "https://medium.com/p/71ee573387b8",
-          "author": "Emveep",
-          "description": "Smart contracts in the business can bring benefits. But how much money must spend on hiring a smart contract developer? We have found it!",
-          "link": "https://medium.com/coinmonks/cost-of-hiring-smart-contract-developers-in-various-countries-71ee573387b8?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-19T09:56:42.000Z",
-          "wordCount": 3045,
-          "title": "Cost of Hiring Smart Contract Developers in Various Countries",
-          "imageUrl": "https://miro.medium.com/max/1024/1*mK7BZdfKgxN6STnE-jMxZA.png"
+          "id": "https://medium.com/p/ca7c46e79318",
+          "author": "Johnwege",
+          "description": "Imagine a scenario where you have finally become interested in cryptocurrency and now are struggling to decide which one you should buy…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/why-you-shouldnt-buy-bitcoin-ca7c46e79318?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-19T10:25:27.000Z",
+          "wordCount": 1081,
+          "title": "Why You Shouldn’t Buy Bitcoin",
+          "imageUrl": "https://miro.medium.com/max/1200/1*WJo048-JSg869Otussi8aA.png"
         },
         {
-          "id": "https://medium.com/p/77e3879a098a",
-          "author": "SmartNodes Validator ⚛",
-          "description": "POW VS POS EXPLAINED?",
-          "link": "https://medium.com/coinmonks/https-medium-com-coinmonks-all-you-need-to-know-about-pos-and-pow-consensus-mechanism-77e3879a098a?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-19T09:56:28.000Z",
-          "wordCount": 3369,
-          "title": "All you need to know about POS and POW Consensus Mechanism",
-          "imageUrl": "https://miro.medium.com/max/940/1*Qf3jTbk95TaiWA09HMRf-A.png"
+          "id": "https://medium.com/p/51ef29e094cf",
+          "author": "Monroe Mayfield",
+          "description": "The full story A Rise in EV Market-Share Means Greater Impact on Batteries, Electrification, Mining & Mobility is published in Areas &…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/ev-market-share-is-51ef29e094cf?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-19T10:25:05.000Z",
+          "wordCount": 1125,
+          "title": "EV Market Share Is",
+          "imageUrl": "https://miro.medium.com/max/788/0*K3csZFtAEwmrWjCu"
         },
         {
-          "id": "https://medium.com/p/b0d53974d4a9",
-          "author": "Allan Jackob",
-          "description": "Have you ever tried to be an avatar? If yes, what was your experience? If not, you are having your right time now. Around the world, there…",
-          "link": "https://medium.com/coinmonks/unfold-the-uniqueness-of-a-digital-world-with-the-incredible-metaverse-development-b0d53974d4a9?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-19T09:56:20.000Z",
-          "wordCount": 2472,
-          "title": "Unfold the uniqueness of a digital world with the incredible Metaverse development!",
-          "imageUrl": "https://miro.medium.com/max/939/1*aeUnPqmz5GbiCi5NE5kV3g.jpeg"
+          "id": "https://medium.com/p/f6e969b52f4",
+          "author": "Yoaquim A. Boom",
+          "description": "With hundreds of currencies and tokens to select from, the world of cryptocurrency may be bewildering. This is how you pick the right ones.",
+          "link": "https://medium.com/coinmonks/this-is-how-you-pick-the-best-crypto-investments-f6e969b52f4?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-19T10:24:54.000Z",
+          "wordCount": 2850,
+          "title": "This is How you Pick the BEST Crypto Investments",
+          "imageUrl": "https://miro.medium.com/max/676/1*sVTVbmesCzcqktTLUx6jEg.png"
         }
       ]
     },
