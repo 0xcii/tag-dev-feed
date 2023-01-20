@@ -327,16 +327,6 @@
           "wordCount": 2417,
           "title": "DevNTell - Cypherock",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671812646504%2Fcf6994ea-6bc1-4c58-9352-2ae414fe0f59.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        },
-        {
-          "id": "https://blog.developerdao.com/create-nft-smart-contract-with-thirdweb-and-chainlink",
-          "author": "Aayush Gupta",
-          "description": "In this tutorial, we will build a custom ERC-721 NFT collection using thirdweb and Chainlink. We will use thirdweb ContractKit for the ERC-721 token standard, thirdweb deploy to deploy our smart contract to Mumbai Testnet, and Chainlink Data Feeds to fetch the realtime price of Matic to set the base price for minting NFT. We will build and deploy a smart contract that allows users to mint NFT. The user has to pay at least $1 in Matic to mint the NFT. We get the actual price conversion using Chainlink Data Feeds.\nWhat is ERC-721?\nERC-721 is a free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.\nThe ERC-721 introduces a standard fo…",
-          "link": "https://blog.developerdao.com/create-nft-smart-contract-with-thirdweb-and-chainlink",
-          "publishedOn": "2022-12-21T15:20:42.000Z",
-          "wordCount": 13110,
-          "title": "Create NFT Smart Contract with thirdweb and Chainlink",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671028837198%2Fu-fbsXVOj.png%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         }
       ]
     }
