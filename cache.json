@@ -18,6 +18,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/b787309a5e7",
+          "author": "Helwan Mandé",
+          "description": "Let’s analyze the use a Merkle proof set for inclusion in this Decentralize Application (Dapp)!",
+          "link": "https://coinsbench.com/a-merkle-tree-use-case-a16z-eth-testnet-drop-b787309a5e7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-20T13:09:48.000Z",
+          "wordCount": 1763,
+          "title": "A Merkle Tree use case : a16z/eth-testnet-drop",
+          "imageUrl": "https://miro.medium.com/max/1100/1*0qvIyE5dY8DngQnGZeaTvg.png"
+        },
+        {
+          "id": "https://medium.com/p/2036d8f2f773",
+          "author": "Scofield O. Idehen",
+          "description": "In my learning path on blockchain Solidity course by Patrick Collins, today, I learnt about inheritance, Override and Virtual, I did…",
+          "link": "https://coinsbench.com/inheritance-in-solidity-series-part-4-2036d8f2f773?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-20T13:09:42.000Z",
+          "wordCount": 2215,
+          "title": "Inheritance in Solidity (Series — Part 4)",
+          "imageUrl": "https://miro.medium.com/max/1200/1*Dwb7ih-Ms4BDa9tBQHjA9Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/12a0a18095ef",
+          "author": "Marq",
+          "description": "What is Yul?",
+          "link": "https://coinsbench.com/beginners-guide-to-yul-12a0a18095ef?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-20T13:09:34.000Z",
+          "wordCount": 10000,
+          "title": "Beginner's Guide to Yul",
+          "imageUrl": "https://miro.medium.com/max/801/1*Ibildy3SEnb4lUjZzUzbiA.png"
+        },
+        {
+          "id": "https://medium.com/p/ded192fda92",
+          "author": "natnat",
+          "description": "Task",
+          "link": "https://coinsbench.com/fallback-walkthrough-smart-contract-hacking-ded192fda92?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-20T13:09:29.000Z",
+          "wordCount": 1416,
+          "title": "fallback walkthrough — smart contract hacking",
+          "imageUrl": "https://miro.medium.com/max/1200/1*Vp7__SW7mOdx5BmQJmVJqg.png"
+        },
+        {
           "id": "https://medium.com/p/a338c7bde864",
           "author": "natnat",
           "description": "Our task is to make sure the lending pool is not offering flash loans.",
@@ -33,7 +73,7 @@
           "description": "As the revolution of Web3.0 is taking the Digital world by storm, there are so many potential projects that have yet to set their mark in…",
           "link": "https://coinsbench.com/what-is-ipfs-a-decentralized-file-system-protocol-af5bc50f6b7?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-19T12:58:49.000Z",
-          "wordCount": 2321,
+          "wordCount": 2333,
           "title": "What is IPFS — A Decentralized File System Protocol",
           "imageUrl": null
         },
@@ -43,7 +83,7 @@
           "description": "In the pursuit of simplicity I had to take a closer look at the super simple mint function I found in the Preset ERC721 contract…",
           "link": "https://coinsbench.com/deploy-a-bad-contract-ii-2d657c44eb3d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-19T12:58:43.000Z",
-          "wordCount": 2464,
+          "wordCount": 2406,
           "title": "Super Simple Mint Contract",
           "imageUrl": "https://miro.medium.com/max/1200/1*EqWdRsSfEoianxLWM1ApiQ.png"
         },
@@ -76,46 +116,6 @@
           "wordCount": 2567,
           "title": "Solidity security and best practices",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1714bbe24072",
-          "author": "Scofield O. Idehen",
-          "description": "On Day 4 of my learning path of “Learn Blockchain, Solidity and Full Stack Web Development with JavaScript, I learnt about contracts…",
-          "link": "https://coinsbench.com/solidity-contracts-within-contracts-a-dive-into-solidity-mapping-series-part-3-1714bbe24072?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-18T13:38:33.000Z",
-          "wordCount": 3076,
-          "title": "Solidity Contracts Within Contracts: A Dive into Solidity Mapping (Series — Part 3)",
-          "imageUrl": "https://miro.medium.com/max/1200/1*ICsCn0cFHroSmpuKHrwIYg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/448cecc71fa3",
-          "author": "Amalia",
-          "description": "Enhance error handling in Solidity with try and catch statements.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-22-try-and-catch-448cecc71fa3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-18T13:38:31.000Z",
-          "wordCount": 3043,
-          "title": "Solidity #22 . Try and Catch",
-          "imageUrl": "https://miro.medium.com/max/434/1*9DajKCJC2SN26d2PLqCaVA.png"
-        },
-        {
-          "id": "https://medium.com/p/513a01d05db6",
-          "author": "Katia D",
-          "description": "Exploring the Web 3 space is confusing but exciting at the same time. This tweet below was my next step in learning more. I signed up right away and was accepted. One exciting project was creating a…",
-          "link": "https://coinsbench.com/creating-a-token-on-the-polygon-blockchain-513a01d05db6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-17T20:07:09.000Z",
-          "wordCount": 1885,
-          "title": "Creating a Token On The Polygon Blockchain",
-          "imageUrl": "https://miro.medium.com/max/768/1*jKGg2lJzCxHtT2TSMCsLYg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/7b28fe7b97c3",
-          "author": "Scofield O. Idehen",
-          "description": "On day 3 of my learning Patrick Collins course “Learn Blockchain, solidity and full stack web3 development with javascript, \" the…",
-          "link": "https://coinsbench.com/solidity-visibility-state-modifiers-series-part-2-7b28fe7b97c3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-17T20:07:00.000Z",
-          "wordCount": 2303,
-          "title": "Solidity Visibility State/Modifiers (Series — part 2)",
-          "imageUrl": "https://miro.medium.com/max/1200/1*nBjyiRL4xuTjiRd9ykp17g.png"
         }
       ]
     },
@@ -150,7 +150,7 @@
           "description": "Recently, the Bitzlato Exchange has risen to the public surface, where this exchange is very foreign to cryptocurrency investors / traders.",
           "link": "https://medium.com/coinmonks/small-crypto-exchange-bitzlato-stopped-cf9a5bb8275d?source=rss----721b17443fd5---4",
           "publishedOn": "2023-01-20T09:06:51.000Z",
-          "wordCount": 1694,
+          "wordCount": 1513,
           "title": "Small Crypto Exchange (Bitzlato) Stopped",
           "imageUrl": "https://miro.medium.com/max/1200/0*glGY5CIYNCBPWY7Q"
         },
@@ -200,7 +200,7 @@
           "description": "Tesla (TSLA)\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/3-good-stocks-that-we-analyse-today-19th-of-january-do-you-have-them-in-your-portfolio-efdc2ba8f7c0?source=rss----721b17443fd5---4",
           "publishedOn": "2023-01-20T09:06:14.000Z",
-          "wordCount": 1274,
+          "wordCount": 1080,
           "title": "3 Good Stocks that we analyse today,19th of January. Do you have them in your portfolio?",
           "imageUrl": "https://miro.medium.com/max/1200/1*SfNH0QBj5XhbXci3ss9cBw.jpeg"
         },

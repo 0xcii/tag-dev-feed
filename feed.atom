@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-20T12:26:06.735Z</id>
+    <id>urn:2023-01-20T13:20:27.737Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-20T12:26:06.735Z</updated>
+    <updated>2023-01-20T13:20:27.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Merkle Tree use case : a16z/eth-testnet-drop]]></title>
+        <id>https://medium.com/p/b787309a5e7</id>
+        <link href="https://coinsbench.com/a-merkle-tree-use-case-a16z-eth-testnet-drop-b787309a5e7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-20T13:09:48.000Z</updated>
+        <summary type="html"><![CDATA[Let’s analyze the use a Merkle proof set for inclusion in this Decentralize Application (Dapp)!]]></summary>
+        <author>
+            <name>Helwan Mandé</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inheritance in Solidity (Series — Part 4)]]></title>
+        <id>https://medium.com/p/2036d8f2f773</id>
+        <link href="https://coinsbench.com/inheritance-in-solidity-series-part-4-2036d8f2f773?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-20T13:09:42.000Z</updated>
+        <summary type="html"><![CDATA[In my learning path on blockchain Solidity course by Patrick Collins, today, I learnt about inheritance, Override and Virtual, I did…]]></summary>
+        <author>
+            <name>Scofield O. Idehen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beginner's Guide to Yul]]></title>
+        <id>https://medium.com/p/12a0a18095ef</id>
+        <link href="https://coinsbench.com/beginners-guide-to-yul-12a0a18095ef?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-20T13:09:34.000Z</updated>
+        <summary type="html"><![CDATA[What is Yul?]]></summary>
+        <author>
+            <name>Marq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fallback walkthrough — smart contract hacking]]></title>
+        <id>https://medium.com/p/ded192fda92</id>
+        <link href="https://coinsbench.com/fallback-walkthrough-smart-contract-hacking-ded192fda92?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-20T13:09:29.000Z</updated>
+        <summary type="html"><![CDATA[Task]]></summary>
+        <author>
+            <name>natnat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It is Not Over for Bitcoin]]></title>
         <id>https://medium.com/p/6b603d663aa0</id>
@@ -196,47 +236,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Solidity is a programming language used for writing smart contracts on the Ethereum blockchain. It is a powerful tool that allows…]]></summary>
         <author>
             <name>Charles Mbuthia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Contracts Within Contracts: A Dive into Solidity Mapping (Series — Part 3)]]></title>
-        <id>https://medium.com/p/1714bbe24072</id>
-        <link href="https://coinsbench.com/solidity-contracts-within-contracts-a-dive-into-solidity-mapping-series-part-3-1714bbe24072?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-18T13:38:33.000Z</updated>
-        <summary type="html"><![CDATA[On Day 4 of my learning path of “Learn Blockchain, Solidity and Full Stack Web Development with JavaScript, I learnt about contracts…]]></summary>
-        <author>
-            <name>Scofield O. Idehen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity #22 . Try and Catch]]></title>
-        <id>https://medium.com/p/448cecc71fa3</id>
-        <link href="https://coinsbench.com/solidity-22-try-and-catch-448cecc71fa3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-18T13:38:31.000Z</updated>
-        <summary type="html"><![CDATA[Enhance error handling in Solidity with try and catch statements.
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Amalia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a Token On The Polygon Blockchain]]></title>
-        <id>https://medium.com/p/513a01d05db6</id>
-        <link href="https://coinsbench.com/creating-a-token-on-the-polygon-blockchain-513a01d05db6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-17T20:07:09.000Z</updated>
-        <summary type="html"><![CDATA[Exploring the Web 3 space is confusing but exciting at the same time. This tweet below was my next step in learning more. I signed up right away and was accepted. One exciting project was creating a…]]></summary>
-        <author>
-            <name>Katia D</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Visibility State/Modifiers (Series — part 2)]]></title>
-        <id>https://medium.com/p/7b28fe7b97c3</id>
-        <link href="https://coinsbench.com/solidity-visibility-state-modifiers-series-part-2-7b28fe7b97c3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-17T20:07:00.000Z</updated>
-        <summary type="html"><![CDATA[On day 3 of my learning Patrick Collins course “Learn Blockchain, solidity and full stack web3 development with javascript, " the…]]></summary>
-        <author>
-            <name>Scofield O. Idehen</name>
         </author>
     </entry>
     <entry>
