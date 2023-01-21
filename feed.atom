@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-21T22:11:19.985Z</id>
+    <id>urn:2023-01-21T23:12:09.882Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-21T22:11:19.985Z</updated>
+    <updated>2023-01-21T23:12:09.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DevNTell - AstroDao]]></title>
+        <id>https://blog.developerdao.com/devntell-astrodao</id>
+        <link href="https://blog.developerdao.com/devntell-astrodao"/>
+        <updated>2023-01-21T22:16:36.000Z</updated>
+        <summary type="html"><![CDATA[In this week's episode of DevNTell, Patrick Woo (agileurbanite#1795) gave us an overview and demo of AstroDAO: A no-code DAO launcher on Near Protocol
+🌟 Developer Spotlight
+Patrick is a fellow BUIDLer building DApps currently in the NEAR ecosystem with a focus on DAO tooling.
+📖 Resources
+Website: https://astrodao.com/
+Docs: https://api.app.astrodao.com/docs/#/
+GitHub: https://github.com/near-daos/astro-ui
+Twitter: https://twitter.com/AstroDao
+Patricks Twitter: https://twitter.com/patrickwoo
+🎥 Presentation
+
+
+
+https://www.youtube.com/watch?v=P6aVUDsRSa0]]></summary>
+        <author>
+            <name>Narbeh Shahnazarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automate Your Smart Contract with Gelato]]></title>
         <id>https://blog.developerdao.com/automate-your-smart-contract-with-gelato</id>
