@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-23T14:12:22.111Z</id>
+    <id>urn:2023-01-23T15:13:48.155Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-23T14:12:22.111Z</updated>
+    <updated>2023-01-23T15:13:48.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Clear answer : View function consume gas?(solidity)]]></title>
+        <id>https://medium.com/p/df6e5a172650</id>
+        <link href="https://blog.blockmagnates.com/clear-answer-view-function-consume-gas-solidity-df6e5a172650?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-01-23T14:31:46.000Z</updated>
+        <summary type="html"><![CDATA[Misconceptions about the view function and let’s understand it clearly]]></summary>
+        <author>
+            <name>Stealth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Try Catch in Solidity]]></title>
         <id>https://cryptomarketpool.com/?p=21241</id>
