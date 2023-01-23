@@ -39,6 +39,76 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/441f407171ab",
+          "author": "Burgossrodrigo",
+          "description": "This code is using the ethers library to interact with a smart contract on the Goerli Ethereum test network. The smart contract is an…",
+          "link": "https://coinsbench.com/storing-liquidity-events-from-uniswap-v3-into-mongodb-with-ethers-js-441f407171ab?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-23T19:57:21.000Z",
+          "wordCount": 1717,
+          "title": "Storing liquidity events from Uniswap V3 into mongoDB with ethers.js",
+          "imageUrl": "https://miro.medium.com/max/600/1*Q01bj0iW1mDm9G3hN3jBXQ.png"
+        },
+        {
+          "id": "https://medium.com/p/7e0520d8d19c",
+          "author": "Darlington Gospel",
+          "description": "we’ll take a look at how to create a smart contract that can be used to conduct a raffle draw on the Ethereum blockchain.",
+          "link": "https://coinsbench.com/raffle-draws-on-the-ethereum-blockchain-a-beginners-guide-7e0520d8d19c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-23T19:57:19.000Z",
+          "wordCount": 3066,
+          "title": "Raffle Draws on the Ethereum Blockchain: A Beginner’s Guide",
+          "imageUrl": "https://miro.medium.com/max/1200/0*t_CbtcwPq6D_gIX-.png"
+        },
+        {
+          "id": "https://medium.com/p/85211dcf979c",
+          "author": "Fagbuyi Temitope Emmauel",
+          "description": "Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of…",
+          "link": "https://coinsbench.com/building-your-first-smart-contract-a-step-by-step-guide-85211dcf979c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-23T19:57:16.000Z",
+          "wordCount": 2191,
+          "title": "Building Your First Smart Contract: A Step-by-Step Guide",
+          "imageUrl": "https://miro.medium.com/max/1200/0*4MsVgH5oMbzWmJeY.png"
+        },
+        {
+          "id": "https://medium.com/p/6c388ef6419a",
+          "author": "Fagbuyi Temitope Emmauel",
+          "description": "Solidity is a programming language used for writing smart contracts on the Ethereum blockchain. Smart contracts are self-executing…",
+          "link": "https://coinsbench.com/an-introduction-to-solidity-what-is-it-and-how-does-it-work-6c388ef6419a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-23T19:57:10.000Z",
+          "wordCount": 2155,
+          "title": "“An Introduction to Solidity: What is it and how does it work?”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d776ef57d844",
+          "author": "Kyrian Alex",
+          "description": "As cryptocurrencies and digital assets continue to grow in popularity and mainstream adoption, it’s important to understand the various…",
+          "link": "https://coinsbench.com/how-does-token-supply-affect-price-d776ef57d844?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-23T19:57:07.000Z",
+          "wordCount": 3839,
+          "title": "How does token supply affect price?",
+          "imageUrl": "https://miro.medium.com/max/697/0*pJlzxIth0FodqP5f"
+        },
+        {
+          "id": "https://medium.com/p/76ee93d6c160",
+          "author": "Burgossrodrigo",
+          "description": "This tutorial will guide you through the process of creating a token bridge on the Ethereum Virtual Machine (EVM). A token bridge allows…",
+          "link": "https://coinsbench.com/token-bridge-with-solidity-76ee93d6c160?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-23T19:57:05.000Z",
+          "wordCount": 1275,
+          "title": "Token bridge with solidity",
+          "imageUrl": "https://miro.medium.com/max/800/1*P2AMo9zRSNzywpQ62GQshQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/132b4cbbd089",
+          "author": "Charaka Abeywickrama",
+          "description": "A smart contract is a computer program that is used to encode and enforce the terms of an agreement between two or more parties. In the…",
+          "link": "https://coinsbench.com/beginners-guide-to-build-a-smart-contract-on-the-ethereum-blockchain-132b4cbbd089?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-23T19:57:02.000Z",
+          "wordCount": 2283,
+          "title": "Beginners guide to build a smart contract on the Ethereum Blockchain",
+          "imageUrl": "https://miro.medium.com/max/1200/1*5A5d8G3Pa3E0Ufi5uZZ7vg.png"
+        },
+        {
           "id": "https://medium.com/p/b787309a5e7",
           "author": "Helwan Mandé",
           "description": "Let’s analyze the use a Merkle proof set for inclusion in this Decentralize Application (Dapp)!",
@@ -67,76 +137,6 @@
           "wordCount": 9984,
           "title": "Beginner's Guide to Yul",
           "imageUrl": "https://miro.medium.com/max/801/1*Ibildy3SEnb4lUjZzUzbiA.png"
-        },
-        {
-          "id": "https://medium.com/p/ded192fda92",
-          "author": "natnat",
-          "description": "Task",
-          "link": "https://coinsbench.com/fallback-walkthrough-smart-contract-hacking-ded192fda92?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-20T13:09:29.000Z",
-          "wordCount": 1701,
-          "title": "fallback walkthrough — smart contract hacking",
-          "imageUrl": "https://miro.medium.com/max/1200/1*Vp7__SW7mOdx5BmQJmVJqg.png"
-        },
-        {
-          "id": "https://medium.com/p/a338c7bde864",
-          "author": "natnat",
-          "description": "Our task is to make sure the lending pool is not offering flash loans.",
-          "link": "https://coinsbench.com/unstoppable-writeup-smart-contract-hacking-damn-vulnerable-defi-a338c7bde864?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-19T12:58:56.000Z",
-          "wordCount": 1520,
-          "title": "Unstoppable  writeup— Smart contract hacking — Damn Vulnerable DeFi",
-          "imageUrl": "https://miro.medium.com/max/1200/1*Ziq062FjhxM_YtGCRwqTWA.png"
-        },
-        {
-          "id": "https://medium.com/p/af5bc50f6b7",
-          "author": "Pranshu Duneja",
-          "description": "As the revolution of Web3.0 is taking the Digital world by storm, there are so many potential projects that have yet to set their mark in…",
-          "link": "https://coinsbench.com/what-is-ipfs-a-decentralized-file-system-protocol-af5bc50f6b7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-19T12:58:49.000Z",
-          "wordCount": 2357,
-          "title": "What is IPFS — A Decentralized File System Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2d657c44eb3d",
-          "author": "Beach Crypto",
-          "description": "In the pursuit of simplicity I had to take a closer look at the super simple mint function I found in the Preset ERC721 contract…",
-          "link": "https://coinsbench.com/deploy-a-bad-contract-ii-2d657c44eb3d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-19T12:58:43.000Z",
-          "wordCount": 2476,
-          "title": "Super Simple Mint Contract",
-          "imageUrl": "https://miro.medium.com/max/1200/1*EqWdRsSfEoianxLWM1ApiQ.png"
-        },
-        {
-          "id": "https://medium.com/p/5b90ea4b94b2",
-          "author": "Amalia",
-          "description": "How to send Ether in Solidity in 3 different ways. After that, we’ll code a simple Ether wallet capable of sending and receiving Ether.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-18-send-ether-ether-wallet-5b90ea4b94b2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-18T13:45:46.000Z",
-          "wordCount": 3240,
-          "title": "Solidity #18 . Send Ether, Ether Wallet",
-          "imageUrl": "https://miro.medium.com/max/1200/0*VXxi3gOpItPzVoA7"
-        },
-        {
-          "id": "https://medium.com/p/d24b9f7d355f",
-          "author": "Amalia",
-          "description": "How to use payable, fallback() and receive() concepts in Solidity in order to receive and send Ether, and handle unusual calls.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-17-payable-fallback-and-receive-d24b9f7d355f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-18T13:45:44.000Z",
-          "wordCount": 2861,
-          "title": "Solidity #17 . Payable, Fallback and Receive",
-          "imageUrl": "https://miro.medium.com/max/1200/0*AOuvR9UHssARwfvL"
-        },
-        {
-          "id": "https://medium.com/p/f6a9187a1151",
-          "author": "Charles Mbuthia",
-          "description": "Solidity is a programming language used for writing smart contracts on the Ethereum blockchain. It is a powerful tool that allows…",
-          "link": "https://coinsbench.com/solidity-security-best-practices-f6a9187a1151?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-18T13:38:35.000Z",
-          "wordCount": 2604,
-          "title": "Solidity security and best practices",
-          "imageUrl": null
         }
       ]
     },
