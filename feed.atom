@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-24T15:13:02.672Z</id>
+    <id>urn:2023-01-24T16:17:39.453Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-24T15:13:02.672Z</updated>
+    <updated>2023-01-24T16:17:39.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Three Gas Optimization Strategies For Ethereum Smart Contracts]]></title>
+        <id>https://medium.com/p/c44e9f7ab47d</id>
+        <link href="https://coinsbench.com/three-gas-optimization-strategies-for-ethereum-smart-contracts-c44e9f7ab47d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-24T16:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Saving gas in Solidity is an integral part of developing smart contracts on the Ethereum blockchain. Gas is the internal pricing for…]]></summary>
+        <author>
+            <name>Jaden Duxfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Creating a Blockchain from Scratch: A Detailed, User-Friendly Guide with Programming Examples”]]></title>
+        <id>https://medium.com/p/f7518e4bd52d</id>
+        <link href="https://coinsbench.com/creating-a-blockchain-from-scratch-a-detailed-user-friendly-guide-with-programming-examples-f7518e4bd52d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-24T16:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology is disrupting the way we conduct transactions and manage data by providing a decentralized, secure and tamper-proof…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>The Tech Cat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenZeppelin ERC721 Mintable with URI Storage]]></title>
+        <id>https://medium.com/p/ad574ce5d43a</id>
+        <link href="https://coinsbench.com/mintenopenzeppelin-erc721-mintable-with-uri-storage-ad574ce5d43a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-24T16:00:10.000Z</updated>
+        <summary type="html"><![CDATA[The overall goal of this project is to create an Omnichain ERC721 NFT contract. The first step will be a traditional OpenZeppelin ERC721…]]></summary>
+        <author>
+            <name>Beach Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Address Member Functions in Solidity]]></title>
+        <id>https://medium.com/p/353574a8cc95</id>
+        <link href="https://coinsbench.com/address-member-functions-in-solidity-353574a8cc95?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-24T16:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Addresses in Solidity]]></summary>
+        <author>
+            <name>Shlok Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lazy NFT Minting — EIP 721 and Vouchers]]></title>
+        <id>https://medium.com/p/88ad41654e6b</id>
+        <link href="https://coinsbench.com/lazy-nft-minting-eip-721-and-vouchers-88ad41654e6b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-24T15:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Hey there, in this blog we will discuss how you can approve an NFT and someone else can mint it for its specified price.]]></summary>
+        <author>
+            <name>Moid Khan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Query the Bitcoin memory pool in Python]]></title>
         <id>https://cryptomarketpool.com/?p=21260</id>
@@ -169,26 +220,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Token bridge with solidity]]></title>
-        <id>https://medium.com/p/76ee93d6c160</id>
-        <link href="https://coinsbench.com/token-bridge-with-solidity-76ee93d6c160?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-23T19:57:05.000Z</updated>
-        <summary type="html"><![CDATA[This tutorial will guide you through the process of creating a token bridge on the Ethereum Virtual Machine (EVM). A token bridge allows…]]></summary>
-        <author>
-            <name>Burgossrodrigo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beginners guide to build a smart contract on the Ethereum Blockchain]]></title>
-        <id>https://medium.com/p/132b4cbbd089</id>
-        <link href="https://coinsbench.com/beginners-guide-to-build-a-smart-contract-on-the-ethereum-blockchain-132b4cbbd089?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-23T19:57:02.000Z</updated>
-        <summary type="html"><![CDATA[A smart contract is a computer program that is used to encode and enforce the terms of an agreement between two or more parties. In the…]]></summary>
-        <author>
-            <name>Charaka Abeywickrama</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Clear answer : View function consume gas?(solidity)]]></title>
         <id>https://medium.com/p/df6e5a172650</id>
         <link href="https://blog.blockmagnates.com/clear-answer-view-function-consume-gas-solidity-df6e5a172650?source=rss----18fa961f1eff--solidity"/>
@@ -255,36 +286,6 @@ What is Gelato Automate
 Gelato Automate allows you to automate your smart contract executions in a reliable, developer-friendly & decentralized manner while leveraging off-chain data. The most significant advantage of Gelato is its easy-to-use Gelato Au…]]></summary>
         <author>
             <name>Aayush Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Merkle Tree use case : a16z/eth-testnet-drop]]></title>
-        <id>https://medium.com/p/b787309a5e7</id>
-        <link href="https://coinsbench.com/a-merkle-tree-use-case-a16z-eth-testnet-drop-b787309a5e7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-20T13:09:48.000Z</updated>
-        <summary type="html"><![CDATA[Let’s analyze the use a Merkle proof set for inclusion in this Decentralize Application (Dapp)!]]></summary>
-        <author>
-            <name>Helwan Mandé</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inheritance in Solidity (Series — Part 4)]]></title>
-        <id>https://medium.com/p/2036d8f2f773</id>
-        <link href="https://coinsbench.com/inheritance-in-solidity-series-part-4-2036d8f2f773?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-20T13:09:42.000Z</updated>
-        <summary type="html"><![CDATA[In my learning path on blockchain Solidity course by Patrick Collins, today, I learnt about inheritance, Override and Virtual, I did…]]></summary>
-        <author>
-            <name>Scofield O. Idehen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beginner's Guide to Yul]]></title>
-        <id>https://medium.com/p/12a0a18095ef</id>
-        <link href="https://coinsbench.com/beginners-guide-to-yul-12a0a18095ef?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-20T13:09:34.000Z</updated>
-        <summary type="html"><![CDATA[What is Yul?]]></summary>
-        <author>
-            <name>Marq</name>
         </author>
     </entry>
     <entry>

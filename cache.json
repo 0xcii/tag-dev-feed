@@ -11,7 +11,7 @@
           "description": "The Bitcoin memory pool, also known as the “transaction pool” or “mempool,” is a holding area for unconfirmed transactions waiting…\nThe post Query the Bitcoin memory pool in Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/query-the-bitcoin-memory-pool-in-python/",
           "publishedOn": "2023-01-24T15:00:09.000Z",
-          "wordCount": 3604,
+          "wordCount": 3613,
           "title": "Query the Bitcoin memory pool in Python",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "A try catch is a common error handling mechanism used in many programming languages, and Solidity is no exception. In…\nThe post Try Catch in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/try-catch-in-solidity/",
           "publishedOn": "2023-01-23T14:05:12.000Z",
-          "wordCount": 3906,
+          "wordCount": 3916,
           "title": "Try Catch in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -31,7 +31,7 @@
           "description": "In this article we will use Python to get the balance of a Bitcoin wallet. Bitcoin is a decentralized digital…\nThe post Use Python to get the balance of a Bitcoin wallet appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/use-python-to-get-the-balance-of-a-bitcoin-wallet/",
           "publishedOn": "2023-01-23T02:04:03.000Z",
-          "wordCount": 3692,
+          "wordCount": 3703,
           "title": "Use Python to get the balance of a Bitcoin wallet",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         }
@@ -48,6 +48,56 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/c44e9f7ab47d",
+          "author": "Jaden Duxfield",
+          "description": "Saving gas in Solidity is an integral part of developing smart contracts on the Ethereum blockchain. Gas is the internal pricing for…",
+          "link": "https://coinsbench.com/three-gas-optimization-strategies-for-ethereum-smart-contracts-c44e9f7ab47d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-24T16:00:23.000Z",
+          "wordCount": 2752,
+          "title": "Three Gas Optimization Strategies For Ethereum Smart Contracts",
+          "imageUrl": "https://miro.medium.com/max/795/1*WbW3LlFSa_30EPKIXxwp8A.png"
+        },
+        {
+          "id": "https://medium.com/p/f7518e4bd52d",
+          "author": "The Tech Cat",
+          "description": "Blockchain technology is disrupting the way we conduct transactions and manage data by providing a decentralized, secure and tamper-proof…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/creating-a-blockchain-from-scratch-a-detailed-user-friendly-guide-with-programming-examples-f7518e4bd52d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-24T16:00:17.000Z",
+          "wordCount": 2540,
+          "title": "“Creating a Blockchain from Scratch: A Detailed, User-Friendly Guide with Programming Examples”",
+          "imageUrl": "https://miro.medium.com/max/1200/0*HcMTY6bFLAt8pXYE.png"
+        },
+        {
+          "id": "https://medium.com/p/ad574ce5d43a",
+          "author": "Beach Crypto",
+          "description": "The overall goal of this project is to create an Omnichain ERC721 NFT contract. The first step will be a traditional OpenZeppelin ERC721…",
+          "link": "https://coinsbench.com/mintenopenzeppelin-erc721-mintable-with-uri-storage-ad574ce5d43a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-24T16:00:10.000Z",
+          "wordCount": 3265,
+          "title": "OpenZeppelin ERC721 Mintable with URI Storage",
+          "imageUrl": "https://miro.medium.com/max/1200/1*CekmPFdPBQAqnATcgTlfCw.png"
+        },
+        {
+          "id": "https://medium.com/p/353574a8cc95",
+          "author": "Shlok Kumar",
+          "description": "Addresses in Solidity",
+          "link": "https://coinsbench.com/address-member-functions-in-solidity-353574a8cc95?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-24T16:00:02.000Z",
+          "wordCount": 2027,
+          "title": "Address Member Functions in Solidity",
+          "imageUrl": "https://miro.medium.com/max/1200/1*2GMMhMNa65BemV3r1_s70g.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/88ad41654e6b",
+          "author": "Moid Khan",
+          "description": "Hey there, in this blog we will discuss how you can approve an NFT and someone else can mint it for its specified price.",
+          "link": "https://coinsbench.com/lazy-nft-minting-eip-721-and-vouchers-88ad41654e6b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-24T15:59:54.000Z",
+          "wordCount": 4201,
+          "title": "Lazy NFT Minting — EIP 721 and Vouchers",
+          "imageUrl": "https://miro.medium.com/max/1200/1*kbIla6A3iOaoaWoiFa9vfg.png"
+        },
         {
           "id": "https://medium.com/p/441f407171ab",
           "author": "Burgossrodrigo",
@@ -97,56 +147,6 @@
           "wordCount": 3791,
           "title": "How does token supply affect price?",
           "imageUrl": "https://miro.medium.com/max/697/0*pJlzxIth0FodqP5f"
-        },
-        {
-          "id": "https://medium.com/p/76ee93d6c160",
-          "author": "Burgossrodrigo",
-          "description": "This tutorial will guide you through the process of creating a token bridge on the Ethereum Virtual Machine (EVM). A token bridge allows…",
-          "link": "https://coinsbench.com/token-bridge-with-solidity-76ee93d6c160?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-23T19:57:05.000Z",
-          "wordCount": 1567,
-          "title": "Token bridge with solidity",
-          "imageUrl": "https://miro.medium.com/max/800/1*P2AMo9zRSNzywpQ62GQshQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/132b4cbbd089",
-          "author": "Charaka Abeywickrama",
-          "description": "A smart contract is a computer program that is used to encode and enforce the terms of an agreement between two or more parties. In the…",
-          "link": "https://coinsbench.com/beginners-guide-to-build-a-smart-contract-on-the-ethereum-blockchain-132b4cbbd089?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-23T19:57:02.000Z",
-          "wordCount": 2283,
-          "title": "Beginners guide to build a smart contract on the Ethereum Blockchain",
-          "imageUrl": "https://miro.medium.com/max/1200/1*5A5d8G3Pa3E0Ufi5uZZ7vg.png"
-        },
-        {
-          "id": "https://medium.com/p/b787309a5e7",
-          "author": "Helwan Mandé",
-          "description": "Let’s analyze the use a Merkle proof set for inclusion in this Decentralize Application (Dapp)!",
-          "link": "https://coinsbench.com/a-merkle-tree-use-case-a16z-eth-testnet-drop-b787309a5e7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-20T13:09:48.000Z",
-          "wordCount": 1854,
-          "title": "A Merkle Tree use case : a16z/eth-testnet-drop",
-          "imageUrl": "https://miro.medium.com/max/1100/1*0qvIyE5dY8DngQnGZeaTvg.png"
-        },
-        {
-          "id": "https://medium.com/p/2036d8f2f773",
-          "author": "Scofield O. Idehen",
-          "description": "In my learning path on blockchain Solidity course by Patrick Collins, today, I learnt about inheritance, Override and Virtual, I did…",
-          "link": "https://coinsbench.com/inheritance-in-solidity-series-part-4-2036d8f2f773?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-20T13:09:42.000Z",
-          "wordCount": 2190,
-          "title": "Inheritance in Solidity (Series — Part 4)",
-          "imageUrl": "https://miro.medium.com/max/1200/1*Dwb7ih-Ms4BDa9tBQHjA9Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/12a0a18095ef",
-          "author": "Marq",
-          "description": "What is Yul?",
-          "link": "https://coinsbench.com/beginners-guide-to-yul-12a0a18095ef?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-20T13:09:34.000Z",
-          "wordCount": 10060,
-          "title": "Beginner's Guide to Yul",
-          "imageUrl": "https://miro.medium.com/max/801/1*Ibildy3SEnb4lUjZzUzbiA.png"
         }
       ]
     },
@@ -191,7 +191,7 @@
           "description": "Want to use this article on your website? You can get the publishing rights to this article on Tokenblogs",
           "link": "https://medium.com/coinmonks/could-music-be-the-path-to-adoption-for-algorand-a9c4110ddd7d?source=rss----721b17443fd5---4",
           "publishedOn": "2023-01-24T11:46:19.000Z",
-          "wordCount": 2985,
+          "wordCount": 2991,
           "title": "Could Music Be The Path To Adoption For Algorand?",
           "imageUrl": "https://miro.medium.com/max/1200/1*cFA__5IWk3VW26_vn7bpaw.png"
         },
@@ -211,7 +211,7 @@
           "description": "In Other Words, What Is Dogecoin (DOGE)?\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/dogecoin-doge-price-prediction-2023-2025-update-23th-of-january-2023-5bf0cd3e6e94?source=rss----721b17443fd5---4",
           "publishedOn": "2023-01-24T10:25:48.000Z",
-          "wordCount": 1060,
+          "wordCount": 1003,
           "title": "Dogecoin (DOGE) Price Prediction 2023–2025,update 23th of January 2023",
           "imageUrl": "https://miro.medium.com/max/1200/1*_yCpkRqHZdgATBdA-Jsq2g.jpeg"
         },
@@ -221,7 +221,7 @@
           "description": "Listing your token on PancakeSwap, the leading decentralized exchange (DEX) on the Binance Smart Chain, can be a fun and exciting process…",
           "link": "https://medium.com/coinmonks/how-to-list-your-token-on-pancakeswap-step-by-step-guide-c72952801fca?source=rss----721b17443fd5---4",
           "publishedOn": "2023-01-24T10:25:41.000Z",
-          "wordCount": 2164,
+          "wordCount": 2539,
           "title": "How To List A Token On PancakeSwap (Step By Step Guide)",
           "imageUrl": "https://miro.medium.com/max/1200/0*rYda_TbAcYra_U_A"
         },
