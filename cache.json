@@ -49,6 +49,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/2cb807795155",
+          "author": "Pranshu Duneja",
+          "description": "Bitcoin was introduced in a white paper by Satoshi Nakamoto in 2008 after global financial crisis. It addressed the problem of having…",
+          "link": "https://coinsbench.com/what-are-l2-solutions-for-ethereum-plasma-chains-rollups-state-channels-2cb807795155?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-25T13:14:11.000Z",
+          "wordCount": 3247,
+          "title": "What are L2 Solutions for Ethereum || Plasma Chains || Rollups || State Channels",
+          "imageUrl": "https://miro.medium.com/max/952/1*bWOXeghqcBNJp-_pwoFJGg.png"
+        },
+        {
+          "id": "https://medium.com/p/56fafc22e4e0",
+          "author": "The Tech Cat",
+          "description": "Are you looking to break into the world of blockchain technology and web development? Look no further! This comprehensive guide will take…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/links-become-a-web3-master-unlock-the-secrets-of-building-decentralized-applications-56fafc22e4e0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-25T13:14:04.000Z",
+          "wordCount": 2660,
+          "title": "Links“Become a Web3 Master: Unlock the Secrets of Building Decentralized Applications”",
+          "imageUrl": "https://miro.medium.com/max/959/0*TIqpIXubEMfx7rsf.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/18c9a3325e34",
+          "author": "Beach Crypto",
+          "description": "Alright. It’s Friday night, I’m exited to get this project started. Coding for fun is very relaxing to me and I really value the time that…",
+          "link": "https://coinsbench.com/building-a-layerzero-openzeppelin-erc721-nft-contract-18c9a3325e34?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-25T13:13:56.000Z",
+          "wordCount": 1599,
+          "title": "Building a LayerZero OpenZeppelin ERC721 NFT Contract",
+          "imageUrl": "https://miro.medium.com/max/1156/1*AoV86YOYqmFJAI6gPgY4XQ.png"
+        },
+        {
+          "id": "https://medium.com/p/b4feccdb5172",
+          "author": "Marq",
+          "description": "In this article we will use Yul to optimize our smart contracts to save on gas. We will look at three different smart contracts developed…",
+          "link": "https://coinsbench.com/using-yul-to-optimize-gas-costs-b4feccdb5172?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-25T13:13:46.000Z",
+          "wordCount": 10824,
+          "title": "Using Yul To Optimize Gas Costs",
+          "imageUrl": "https://miro.medium.com/max/689/1*ZDwqQA8-AUVE7v5vUssGnw.png"
+        },
+        {
           "id": "https://medium.com/p/c44e9f7ab47d",
           "author": "Jaden Duxfield",
           "description": "Saving gas in Solidity is an integral part of developing smart contracts on the Ethereum blockchain. Gas is the internal pricing for…",
@@ -107,46 +147,6 @@
           "wordCount": 1673,
           "title": "Storing liquidity events from Uniswap V3 into mongoDB with ethers.js",
           "imageUrl": "https://miro.medium.com/max/600/1*Q01bj0iW1mDm9G3hN3jBXQ.png"
-        },
-        {
-          "id": "https://medium.com/p/7e0520d8d19c",
-          "author": "Darlington Gospel",
-          "description": "we’ll take a look at how to create a smart contract that can be used to conduct a raffle draw on the Ethereum blockchain.",
-          "link": "https://coinsbench.com/raffle-draws-on-the-ethereum-blockchain-a-beginners-guide-7e0520d8d19c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-23T19:57:19.000Z",
-          "wordCount": 3148,
-          "title": "Raffle Draws on the Ethereum Blockchain: A Beginner’s Guide",
-          "imageUrl": "https://miro.medium.com/max/1200/0*t_CbtcwPq6D_gIX-.png"
-        },
-        {
-          "id": "https://medium.com/p/85211dcf979c",
-          "author": "Fagbuyi Temitope Emmauel",
-          "description": "Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of…",
-          "link": "https://coinsbench.com/building-your-first-smart-contract-a-step-by-step-guide-85211dcf979c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-23T19:57:16.000Z",
-          "wordCount": 2269,
-          "title": "Building Your First Smart Contract: A Step-by-Step Guide",
-          "imageUrl": "https://miro.medium.com/max/1200/0*4MsVgH5oMbzWmJeY.png"
-        },
-        {
-          "id": "https://medium.com/p/6c388ef6419a",
-          "author": "Fagbuyi Temitope Emmauel",
-          "description": "Solidity is a programming language used for writing smart contracts on the Ethereum blockchain. Smart contracts are self-executing…",
-          "link": "https://coinsbench.com/an-introduction-to-solidity-what-is-it-and-how-does-it-work-6c388ef6419a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-23T19:57:10.000Z",
-          "wordCount": 2037,
-          "title": "“An Introduction to Solidity: What is it and how does it work?”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d776ef57d844",
-          "author": "Kyrian Alex",
-          "description": "As cryptocurrencies and digital assets continue to grow in popularity and mainstream adoption, it’s important to understand the various…",
-          "link": "https://coinsbench.com/how-does-token-supply-affect-price-d776ef57d844?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-23T19:57:07.000Z",
-          "wordCount": 3841,
-          "title": "How does token supply affect price?",
-          "imageUrl": "https://miro.medium.com/max/697/0*pJlzxIth0FodqP5f"
         }
       ]
     },
@@ -156,104 +156,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/ca6a81a914f2",
-          "author": "Isotopic",
-          "description": "NFT, Crypto, and Blockchain games are all concepts that can be easily confused and mixed up. It is only normal to get lost between all the…",
-          "link": "https://medium.com/coinmonks/the-difference-between-blockchain-crypto-and-nft-gaming-ca6a81a914f2?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-24T11:46:43.000Z",
-          "wordCount": 2167,
-          "title": "The difference between Blockchain, Crypto, and NFT gaming",
-          "imageUrl": "https://miro.medium.com/max/1200/1*opc-cp8iQzyKVqwvyYEWbA.jpeg"
+          "id": "https://medium.com/p/8e21f81444a4",
+          "author": "yourPRstrategist",
+          "description": "In a bid to promote mass adoption, besides including legal tender payments, PlayMining is celebrating the DEP’s one-year anniversary since…",
+          "link": "https://medium.com/coinmonks/playmining-gamefi-platform-now-accepts-both-legal-tender-and-deapcoin-dep-as-payment-for-nfts-8e21f81444a4?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-25T12:59:32.000Z",
+          "wordCount": 2926,
+          "title": "PlayMining GameFi Platform Now Accepts Both Legal Tender and DEAPcoin ($DEP) as Payment for NFTs",
+          "imageUrl": "https://miro.medium.com/max/624/1*hNGF7TRNXe9F0dr3JveMsw.png"
         },
         {
-          "id": "https://medium.com/p/cad061f98969",
-          "author": "Grapherex",
-          "description": "How are crypto assets regulated around the world? What are the global trends in enhancing the security of digital assets?",
-          "link": "https://medium.com/coinmonks/global-crypto-regulation-2022-cad061f98969?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-24T11:46:36.000Z",
-          "wordCount": 4692,
-          "title": "Global Crypto Regulation 2022",
-          "imageUrl": "https://miro.medium.com/max/1200/1*qJHS7VTUygINe2BkLTgRKw.jpeg"
+          "id": "https://medium.com/p/77eede41ee02",
+          "author": "Crypto Beat",
+          "description": "The Fear and Greed Index is a tool that helps investors and traders understand the sentiment of the crypto market. Stay up to date.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/bitcoin-fear-and-greed-index-today-january-25-2023-77eede41ee02?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-25T12:59:25.000Z",
+          "wordCount": 1103,
+          "title": "Bitcoin Fear And Greed Index Today — January 25, 2023",
+          "imageUrl": "https://miro.medium.com/max/640/0*YJ_JuFryJ1Y48jzU.png"
         },
         {
-          "id": "https://medium.com/p/8e3cbdb25a72",
-          "author": "Amit Dutta",
-          "description": "To understand private keys and seed phrases it’s essential to know what a blockchain wallet refers to. A blockchain wallet is a digital…",
-          "link": "https://medium.com/coinmonks/private-key-vs-seed-phrase-8e3cbdb25a72?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-24T11:46:27.000Z",
-          "wordCount": 3134,
-          "title": "Private Key vs Seed Phrase",
-          "imageUrl": "https://miro.medium.com/max/1080/0*uxcQ0D5BCY1XAKup"
+          "id": "https://medium.com/p/cda005490ef",
+          "author": "Crypto Beat",
+          "description": "What are crypto memes? They are funny pictures or videos that feature characters. Here are the best crypto memes of the last 24 hours.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/crypto-memes-today-january-25-2023-cda005490ef?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-25T12:59:19.000Z",
+          "wordCount": 1085,
+          "title": "Crypto Memes Today — January 25, 2023",
+          "imageUrl": "https://miro.medium.com/max/1200/0*4Sw7KtYp07E5bxKN"
         },
         {
-          "id": "https://medium.com/p/a9c4110ddd7d",
-          "author": "tokenblogs.app",
-          "description": "Want to use this article on your website? You can get the publishing rights to this article on Tokenblogs",
-          "link": "https://medium.com/coinmonks/could-music-be-the-path-to-adoption-for-algorand-a9c4110ddd7d?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-24T11:46:19.000Z",
-          "wordCount": 2991,
-          "title": "Could Music Be The Path To Adoption For Algorand?",
-          "imageUrl": "https://miro.medium.com/max/1200/1*cFA__5IWk3VW26_vn7bpaw.png"
+          "id": "https://medium.com/p/31bb08953b85",
+          "author": "Crypto Beat",
+          "description": "If you’re interested in keeping upwith the crypto world, then you’ve come to the right place to receive crypto news.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/crypto-news-today-january-25-2023-31bb08953b85?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-25T12:58:19.000Z",
+          "wordCount": 1088,
+          "title": "Crypto News Today — January 25, 2023",
+          "imageUrl": "https://miro.medium.com/max/1200/0*neXk8ut7ivMPy2CK"
         },
         {
-          "id": "https://medium.com/p/9fbab16b3f70",
-          "author": "William Hill",
-          "description": "Building a full-stack NFT (non-fungible token) decentralized application (dApp) can be a complex process, but by breaking it down into…",
-          "link": "https://medium.com/coinmonks/the-complete-guide-to-full-stack-nft-dapp-its-benefits-9fbab16b3f70?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-24T10:51:20.000Z",
-          "wordCount": 3060,
-          "title": "The Complete Guide to Full-Stack NFT dApp & its Benefits",
-          "imageUrl": "https://miro.medium.com/max/740/1*CEjRCS-3GoktYZAwnjSN1A.jpeg"
+          "id": "https://medium.com/p/602fafaf7aeb",
+          "author": "Crypto Beat",
+          "description": "The cryptocurrency markets are constantly in flux. Here is a list of the top 10 most active cryptocurrencies, based on 24-hour volume.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/most-active-cryptocurrency-january-25-2023-602fafaf7aeb?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-25T12:58:07.000Z",
+          "wordCount": 1267,
+          "title": "Most Active Cryptocurrency — January 25, 2023",
+          "imageUrl": "https://miro.medium.com/max/1200/0*xHlHquUGLvH8JSZ8"
         },
         {
-          "id": "https://medium.com/p/5bf0cd3e6e94",
-          "author": "Vremaroiu Alin",
-          "description": "In Other Words, What Is Dogecoin (DOGE)?\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/dogecoin-doge-price-prediction-2023-2025-update-23th-of-january-2023-5bf0cd3e6e94?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-24T10:25:48.000Z",
-          "wordCount": 1060,
-          "title": "Dogecoin (DOGE) Price Prediction 2023–2025,update 23th of January 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/1*_yCpkRqHZdgATBdA-Jsq2g.jpeg"
+          "id": "https://medium.com/p/b9f2083055e0",
+          "author": "Crypto Beat",
+          "description": "Cryptocurrencies are a volatile market, with prices rapidly changing. Here are the top 10 cryptocurrencies by market capitalization.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/current-crypto-prices-january-25-2023-b9f2083055e0?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-25T12:55:00.000Z",
+          "wordCount": 1049,
+          "title": "Current Crypto Prices — January 25, 2023",
+          "imageUrl": "https://miro.medium.com/max/1200/0*KfU1PCWfJ267n-mM"
         },
         {
-          "id": "https://medium.com/p/c72952801fca",
-          "author": "Arda G.",
-          "description": "Listing your token on PancakeSwap, the leading decentralized exchange (DEX) on the Binance Smart Chain, can be a fun and exciting process…",
-          "link": "https://medium.com/coinmonks/how-to-list-your-token-on-pancakeswap-step-by-step-guide-c72952801fca?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-24T10:25:41.000Z",
-          "wordCount": 2164,
-          "title": "How To List A Token On PancakeSwap (Step By Step Guide)",
-          "imageUrl": "https://miro.medium.com/max/1200/0*rYda_TbAcYra_U_A"
+          "id": "https://medium.com/p/65da6c1cd871",
+          "author": "Doogie",
+          "description": "The FBI announced on Monday that it has concluded its investigation into the theft of $100 million from Harmony Protocol last June and has…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/fbi-confirms-north-korea-is-behind-65da6c1cd871?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-25T12:54:57.000Z",
+          "wordCount": 1124,
+          "title": "FBI Confirms North Korea Is Behind",
+          "imageUrl": "https://miro.medium.com/max/300/1*lFaSxZfHLlgHqOXf56BkAQ.png"
         },
         {
-          "id": "https://medium.com/p/fb1e6580adf4",
-          "author": "Arda G.",
-          "description": "Are you tired of your 9–5 job and looking for a way to make some extra cash on the side? Look no further than creating your own token!",
-          "link": "https://medium.com/coinmonks/building-your-own-token-as-a-side-hustle-how-to-create-your-token-step-by-step-guide-fb1e6580adf4?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-24T10:25:34.000Z",
-          "wordCount": 2785,
-          "title": "Building Your Own Token as a Side Hustle: How to Create Your Token Step By Step Guide",
-          "imageUrl": "https://miro.medium.com/max/1200/0*IO6X04uxoxws6VN6"
+          "id": "https://medium.com/p/facc21a00265",
+          "author": "Crypto Conquest",
+          "description": "The crypto market is a wild, wondrous and intimidating place; don’t trek alone! Subscribe to The Crypto Conquistador, and let us be your…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/pantera-capitals-2023-crypto-outlook-might-just-surprise-some-people-facc21a00265?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-25T12:47:44.000Z",
+          "wordCount": 1077,
+          "title": "Pantera Capital’s 2023 Crypto Outlook might just surprise some people!",
+          "imageUrl": "https://miro.medium.com/max/1200/0*UaZ19FEIl2e6MaGj"
         },
         {
-          "id": "https://medium.com/p/44223be41853",
-          "author": "Johnwege",
-          "description": "Many of us who have gotten deep into crypto usually only talk about the great ways that it has changed our lives. From being a better…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/how-crypto-will-negatively-change-your-life-44223be41853?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-24T10:25:28.000Z",
-          "wordCount": 1396,
-          "title": "How Crypto Will Negatively Change Your Life",
-          "imageUrl": "https://miro.medium.com/max/1200/1*ZTpwsCvYDvnW8jK8ELlJHw.jpeg"
+          "id": "https://medium.com/p/716d12aa8b85",
+          "author": "crypto_albert",
+          "description": "Yesterday El Salvador just repaid $800 million bond, according to the Finance Minister Alejandro Zelaya of the little Central american…",
+          "link": "https://medium.com/coinmonks/president-nayib-bukele-he-who-laughs-last-laughs-best-716d12aa8b85?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-25T12:47:41.000Z",
+          "wordCount": 2012,
+          "title": "President Nayib Bukele — he who laughs last laughs best",
+          "imageUrl": "https://miro.medium.com/max/1200/1*--IejAjT0lgMTRTr2b-6TQ.png"
         },
         {
-          "id": "https://medium.com/p/b493a009a8e7",
-          "author": "ismail",
-          "description": "solidity programming language",
-          "link": "https://medium.com/coinmonks/60-use-cases-of-smart-contract-b493a009a8e7?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-24T09:29:27.000Z",
-          "wordCount": 2591,
-          "title": "60 Use Cases of Smart Contract",
-          "imageUrl": "https://miro.medium.com/max/1080/1*DbBRRTqeCT5zbUrhOv7cZA.png"
+          "id": "https://medium.com/p/ef1c61d9dc97",
+          "author": "Graham Brooks",
+          "description": "Due to the abundance of positive and bizarre events that have occurred in the ecosystem in recent days, it appears that this is the Shiba…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/shiba-inu-bull-run-is-confirmed-ef1c61d9dc97?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-25T12:47:35.000Z",
+          "wordCount": 1084,
+          "title": "Shiba Inu BULL RUN is CONFIRMED!!!",
+          "imageUrl": "https://miro.medium.com/max/1200/0*CwZc2Lse4DS5xq9C.jpg"
         }
       ]
     },
