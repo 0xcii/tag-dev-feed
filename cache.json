@@ -31,7 +31,7 @@
           "description": "In this article we will use Python to get the balance of a Bitcoin wallet. Bitcoin is a decentralized digital…\nThe post Use Python to get the balance of a Bitcoin wallet appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/use-python-to-get-the-balance-of-a-bitcoin-wallet/",
           "publishedOn": "2023-01-23T02:04:03.000Z",
-          "wordCount": 3682,
+          "wordCount": 3681,
           "title": "Use Python to get the balance of a Bitcoin wallet",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         }
@@ -94,7 +94,7 @@
           "description": "Saving gas in Solidity is an integral part of developing smart contracts on the Ethereum blockchain. Gas is the internal pricing for…",
           "link": "https://coinsbench.com/three-gas-optimization-strategies-for-ethereum-smart-contracts-c44e9f7ab47d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-24T16:00:23.000Z",
-          "wordCount": 2752,
+          "wordCount": 2795,
           "title": "Three Gas Optimization Strategies For Ethereum Smart Contracts",
           "imageUrl": "https://miro.medium.com/max/795/1*WbW3LlFSa_30EPKIXxwp8A.png"
         },
@@ -156,6 +156,26 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/5d25f9becbc1",
+          "author": "Jamshed Khan",
+          "description": "It is difficult to predict exactly which cryptocurrencies will perform the best in 2023, as the market is highly volatile and subject to a…",
+          "link": "https://medium.com/coinmonks/2023-cryptocurrency-investment-guide-top-picks-from-bitcoin-to-cardano-solana-and-polkadot-5d25f9becbc1?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-25T15:17:54.000Z",
+          "wordCount": 1964,
+          "title": "2023 Cryptocurrency Investment Guide: Top Picks from Bitcoin to Cardano, Solana, and Polkadot",
+          "imageUrl": "https://miro.medium.com/max/1200/0*kysMZ_rvHxDK6v-M"
+        },
+        {
+          "id": "https://medium.com/p/352244e4dee7",
+          "author": "Josh Kretschmer",
+          "description": "A look at the 4Q22 earnings results and the effects of regulatory headwinds on the institutional crypto ecosystem\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/crypto-winter-takes-its-toll-352244e4dee7?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-25T15:16:10.000Z",
+          "wordCount": 1039,
+          "title": "Crypto Winter Takes its Toll",
+          "imageUrl": "https://miro.medium.com/max/960/0*3HzZAWf_epeZ3CLW.jpg"
+        },
+        {
           "id": "https://medium.com/p/e6b72dee51f1",
           "author": "Cryptozone Africa",
           "description": "Before cryptocurrency came into being, gift cards already existed. Several exchange platforms allow traders to exchange one asset for the…",
@@ -181,7 +201,7 @@
           "description": "At the backdrop of increased pressure from the RBI and the NCPI, exchanges have banned payment via UPI and banks; thus, paving the way for…",
           "link": "https://medium.com/coinmonks/why-is-coindhan-indias-safest-p2p-exchange-5c5e89f4eb91?source=rss----721b17443fd5---4",
           "publishedOn": "2023-01-25T13:55:20.000Z",
-          "wordCount": 2238,
+          "wordCount": 2057,
           "title": "Why Is Coindhan India’s Safest P2P Exchange?",
           "imageUrl": "https://miro.medium.com/max/720/1*YsH5ortmj92aUsrheH_gxA.png"
         },
@@ -234,26 +254,6 @@
           "wordCount": 2492,
           "title": "The cryptoverse and everyday people: this is what I’m talking about",
           "imageUrl": "https://miro.medium.com/max/800/1*9bHJMfZ6iNGcIO65d1iz3g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/925748b05a19",
-          "author": "Cardanians.io (CRDNS pool)",
-          "description": "Cryptocurrency adoption is largely driven by speculation and the vision of getting rich quickly. This is unfortunate from a technology…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/lets-be-patient-about-the-adoption-of-blockchain-technology-925748b05a19?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-25T13:43:07.000Z",
-          "wordCount": 1390,
-          "title": "Let’s be patient about the adoption of blockchain technology",
-          "imageUrl": "https://miro.medium.com/max/1200/0*1tuJZcmIWwulNEJw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/590851f15142",
-          "author": "Vremaroiu Alin",
-          "description": "Bitcoin (BTC)\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/buy-these-3-cryptocurrencies-when-market-is-down-590851f15142?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-25T13:43:00.000Z",
-          "wordCount": 1295,
-          "title": "Buy these 3 Cryptocurrencies when market is down",
-          "imageUrl": "https://miro.medium.com/max/1200/1*tSFRNM0OlCy6vYyAbcknQg.png"
         }
       ]
     },
@@ -289,6 +289,16 @@
       "feedUrl": "https://blog.developerdao.com/rss.xml",
       "siteUrl": "https://blog.developerdao.com",
       "articles": [
+        {
+          "id": "https://blog.developerdao.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript",
+          "author": "Olubisi Idris Ayinde",
+          "description": "If you know TypeScript, adding the ability to create, mint, and manage non-fungible tokens (NFTs) to your app is easy. The Infura NFT SDK wraps REST calls to Ethereum nodes, abstracting away the technical compilations and making it possible to work with NFTs with just an Infura account, some configuration, and a few lines of code. The Infura NFT SDK also doesn't require the overhead of learning Solidity, importing ABIs, etc. Whether new to Web3 or highly experienced, Infura NFT SDK makes NFTs easy.\nLet's jump in, build, and deploy an ERC721 NFT to see how it works.\nWhat is the Infura NFT SDK?\nThe Infura NFT SDK is an SDK that allows you to build and interact with NFTs easily. It's implemented in TypeScript, a programming language that is a strict superset of JavaScript. The SDK includes cr…",
+          "link": "https://blog.developerdao.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript",
+          "publishedOn": "2023-01-25T15:20:42.000Z",
+          "wordCount": 14144,
+          "title": "Easily Create An NFT App Using The New Infura NFT SDK TypeScript",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1674224440420%2F0767ead9-47cf-43ab-8680-e4955351dcbd.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
         {
           "id": "https://blog.developerdao.com/devntell-astrodao",
           "author": "Narbeh Shahnazarian",
