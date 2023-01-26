@@ -295,7 +295,7 @@
           "description": "If you know TypeScript, adding the ability to create, mint, and manage non-fungible tokens (NFTs) to your app is easy. The Infura NFT SDK wraps REST calls to Ethereum nodes, abstracting away the technical compilations and making it possible to work with NFTs with just an Infura account, some configuration, and a few lines of code. The Infura NFT SDK also doesn't require the overhead of learning Solidity, importing ABIs, etc. Whether new to Web3 or highly experienced, Infura NFT SDK makes NFTs easy.\nLet's jump in, build, and deploy an ERC721 NFT to see how it works.\nWhat is the Infura NFT SDK?\nThe Infura NFT SDK is an SDK that allows you to build and interact with NFTs easily. It's implemented in TypeScript, a programming language that is a strict superset of JavaScript. The SDK includes cr…",
           "link": "https://blog.developerdao.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript",
           "publishedOn": "2023-01-25T15:20:42.000Z",
-          "wordCount": 14144,
+          "wordCount": 14176,
           "title": "Easily Create An NFT App Using The New Infura NFT SDK TypeScript",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1674224440420%2F0767ead9-47cf-43ab-8680-e4955351dcbd.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -305,7 +305,7 @@
           "description": "In this week's episode of DevNTell, Patrick Woo (agileurbanite#1795) gave us an overview and demo of AstroDAO: A no-code DAO launcher on Near Protocol\n🌟 Developer Spotlight\nPatrick is a fellow BUIDLer building DApps currently in the NEAR ecosystem with a focus on DAO tooling.\n📖 Resources\nWebsite: https://astrodao.com/\nDocs: https://api.app.astrodao.com/docs/#/\nGitHub: https://github.com/near-daos/astro-ui\nTwitter: https://twitter.com/AstroDao\nPatricks Twitter: https://twitter.com/patrickwoo\n🎥 Presentation\n\n\n\nhttps://www.youtube.com/watch?v=P6aVUDsRSa0",
           "link": "https://blog.developerdao.com/devntell-astrodao",
           "publishedOn": "2023-01-21T22:16:36.000Z",
-          "wordCount": 2356,
+          "wordCount": 2388,
           "title": "DevNTell - AstroDao",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1674338708580%2Ffb0c48c1-971c-4681-a999-ff35f2e5fd3b.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -315,7 +315,7 @@
           "description": "This tutorial will teach you how to automate our smart contracts using Galeto Automate. We will build a LunchMoney DApp, which parents can use to send lunch money to their children every 24 hours.\nWhat is Gelato\nGelato Network is a decentralized platform that allows developers to automate the execution of smart contracts on all major EVM-compatible blockchains, including Ethereum, Polygon, Fantom, Arbitrum, BNB Chain, Optimism, and many more. It also empowers builders to create augmented smart contracts that are gasless and off-chain aware.\nWhat is Gelato Automate\nGelato Automate allows you to automate your smart contract executions in a reliable, developer-friendly & decentralized manner while leveraging off-chain data. The most significant advantage of Gelato is its easy-to-use Gelato Au…",
           "link": "https://blog.developerdao.com/automate-your-smart-contract-with-gelato",
           "publishedOn": "2023-01-20T15:20:41.000Z",
-          "wordCount": 7765,
+          "wordCount": 7797,
           "title": "Automate Your Smart Contract with Gelato",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1673943636353%2Fcb37054a-3a68-4060-9ea1-62537bc5f02c.png%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -325,7 +325,7 @@
           "description": "source\nRecently, I posted on my LinkedIn page about the importance of blockchain education and received a lot of questions from people asking me to explain what blockchain technology is. This shows that many people are still unfamiliar with blockchains or have not heard of them, despite their digital literacy. As much as we may want to blame them for not paying enough attention online, it is not fair to blame these people.  Instead, we should blame those in the industry who have made it appear as though only highly technical people can understand and participate in the space. This is not the case, and it's important to educate more people about the reality of blockchains.\nBlockchains are for everyone, but understanding how to use them in everyday life is necessary to grasp this revolutiona…",
           "link": "https://blog.developerdao.com/the-ethical-and-societal-implications-of-blockchain-technology-and-its-potential-impact-on-governance-and-society-as-a-whole",
           "publishedOn": "2023-01-19T15:20:42.000Z",
-          "wordCount": 12831,
+          "wordCount": 12863,
           "title": "The ethical and societal implications of blockchain technology and its potential impact on governance and society as a whole.",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fstock%2Funsplash%2FvoM1Z9cGPCU%2Fupload%2Fe976381b34549acd80d957f85922b6bc.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -335,7 +335,7 @@
           "description": "This tutorial will enable you to program the Filecoin deal market and create multiple Data DAOs on the Filecoin Virtual Machine.\n\nWhat is the Filecoin Virtual Machine?\nLet's start by understanding the Filecoin Virtual Machine (FVM). As a Web3 developer, you may already know that Filecoin is a decentralized storage provider or a peer-to-peer network that stores files with built-in economic incentives to ensure files are stored reliably over time, to be exact. Now think of adding a computational layer on the top of Filecoin, that FVM for you.\nThe FVM unlocks boundless possibilities, ranging from programmable storage primitives (such as storage bounties, auctions, and more), to cross-chain interoperability bridges (e.g. trustlessly connecting Filecoin with Ethereum, Solana, NEAR, and more), t…",
           "link": "https://blog.developerdao.com/how-to-build-your-first-data-dao-factory-on-the-fvm",
           "publishedOn": "2023-01-18T15:20:41.000Z",
-          "wordCount": 11948,
+          "wordCount": 11980,
           "title": "How to Build Your First Data DAO Factory on the FVM",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671775844703%2F23f6a889-ab92-4dc6-8d02-6e7a02e33c74.png%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -345,7 +345,7 @@
           "description": "In this week's episode of DevNTell, Yu, Dhruv and Joey from Desmo Labs gave us an overview of the Debond Protocol. Debond Protocol is looking to make the financial derivatives market (bonds) fully accessible on-chain.\n🚀 About Desmo Labs\nFrom Desmo labs:\nDesmo Labs (D/LABS) is a fintech solution provider of software development and consulting services. Our experienced and innovative team of professionals specializes in the development of uniform KYC solutions and tokenization to facilitate compliance and more efficiently negotiate any goods or services. Our technologies offer a secure and efficient \"Swift\" on-chain settlement system with integrated KYC and DID claim standards. This can enable the development of simplified and compliant financial software for both the public and private sec…",
           "link": "https://blog.developerdao.com/devntell-debond-protocol",
           "publishedOn": "2023-01-14T01:56:36.000Z",
-          "wordCount": 3551,
+          "wordCount": 3583,
           "title": "DevNTell - Debond Protocol",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1673643001883%2Fb17ac964-5065-4a27-a6b5-00d4689e9b03.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -355,7 +355,7 @@
           "description": "At a recent lunch with friends, someone asked everyone to share the worst advice or prediction they have given in their lives. When it came to my turn, I did not have a hard time coming up with an answer. It was back during the end of the 90s, and I was running one of the last bulletin board systems (BBSes) in my hometown of San Diego. For those who may not recall, a BBS was a network pre-Web that ran on dial-up servers. There used to be countless BBSes across the globe spanning every interest area and topic, but as the Web grew, the popularity of the BBS declined. \nA small San Diego publication interviewed me as part of a story on the end of the BBS era, and I was asked in that interview if I thought the Web would make the BBS irrelevant. In my defiant teenage voice, I triumphantly declar…",
           "link": "https://blog.developerdao.com/from-bulletin-board-systems-to-polkadot",
           "publishedOn": "2023-01-11T15:20:44.000Z",
-          "wordCount": 5252,
+          "wordCount": 5284,
           "title": "From Bulletin Board Systems to Polkadot",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1672999670019%2F9a015075-bdf9-4977-b5cd-d7886d280fc0.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -365,7 +365,7 @@
           "description": "🌈 GM\nIn this week's episode of DevNTell, codewithcorgis (Drew) gives us an updated look at his project, Corgis.xyz: Corgis.xyz is looking to make code cute and informative! Maybe the way to teach your mom, dad, friends, or family what you do in web3.\n🌟 Developer Spotlight\nCorgi Drew is a developer focused on education which focuses on making code accessible and making learning fun and interactive. He lives and breathes in teaching others tech. He makes fun learning materials, videos, and comics to break problems into visually animated chunks. Comes from a background in teaching data science and full-stack development but is on a journey to make the duolingo for tech.\n🐶 About Corgis.xyz\nCorgis.xyz aspirations are to make code cute and informative! The intent is to make it easy for newcomers to learn and think like a coder by converting challenging concepts into comic-book-like lessons and playing interactive puzzle games. (Source)\nWebsite: https://www.corgis.xyz/\nTwitter: https://twitter.com/codewithcorgis\nMedium: https://medium.com/codewithcorgis\nInsta: https://www.instagram.com/codewithcorgis/\n🎥 Presentation\n\n\n\nhttps://www.youtube.com/watch?v=sSrWxlcbML4",
           "link": "https://blog.developerdao.com/devntell-corgisxyz",
           "publishedOn": "2023-01-06T20:32:17.000Z",
-          "wordCount": 2916,
+          "wordCount": 2948,
           "title": "DevNTell - Corgis.xyz",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1673036905639%2Fd3a3b69d-4f65-41f1-8ba3-9646ae688675.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -375,7 +375,7 @@
           "description": "You might have the impression that writers are born. But no, they are made!\nWriting is a skill you can learn, sharpen, and master through consistent practice over time. All it takes is good resources to learn and to write and read what other writers have written constantly.\nLisa See says, \"reading a thousand books will make your words flow like a river\".\nAre you a lover of emerging technologies, someone who likes to explain things in a way that even a 6-year-old baby can understand? Or are you a developer who loves to share ideas and teach people via written content? Then technical writing is for you. So, let's get started!\nWhat Makes a Technical Writer?\nA technical writer is a person who writes company documents such as user manuals, reference guides, business plans, legal disclaimers, op…",
           "link": "https://blog.developerdao.com/technical-writing-101-360-guide-on-how-to-start-your-technical-writing-journey",
           "publishedOn": "2023-01-04T15:20:45.000Z",
-          "wordCount": 11897,
+          "wordCount": 11929,
           "title": "Technical Writing 101: 360 Guide on How to Start your Technical Writing Journey",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fstock%2Funsplash%2F46a2ca6f5c7c3e78e0983ac5d2b18bf9.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -385,7 +385,7 @@
           "description": "As a software or web developer, you will work with different components, some of which you will use more often, like application programming interfaces (APIs) and software development kits (SDKs) mainly because developers are keen to improve the software development cycles. In modern-day software development, APIs and SDKs have become essential parts; because they have so much in common, they often get mixed up.\nIn my opinion, in the first half of 2022, we had an uptrend in Developer Experience (DX), while User Experience (UX) dominated the second half. APIs and SDKs play an essential part in improving both experiences. A well-known SDK is Google SDK for analytics which developers use to get data about user behaviours. We also have Facebook SDK for advertising, which makes it easier for de…",
           "link": "https://blog.developerdao.com/the-difference-between-alchemy-api-and-thirdweb-sdk",
           "publishedOn": "2022-12-29T15:20:42.000Z",
-          "wordCount": 8381,
+          "wordCount": 8413,
           "title": "The Difference Between Alchemy API and thirdweb SDK?",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1670962164506%2FSyW44E-rKj.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         }
