@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-27T14:11:48.961Z</id>
+    <id>urn:2023-01-27T15:13:19.302Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-27T14:11:48.961Z</updated>
+    <updated>2023-01-27T15:13:19.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -75,16 +75,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[A new hack involving a feature on the NFT marketplace OpenSea through phishing websites is the method used latley by scammers to drain your…]]></summary>
         <author>
             <name>BlockOSINT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bug fix 2 a simple misunderstanding of Solidity internal Functions]]></title>
-        <id>https://medium.com/p/61331809ce0</id>
-        <link href="https://coinsbench.com/bug-fix-2-a-simple-misunderstanding-of-internal-functions-61331809ce0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-27T13:04:25.000Z</updated>
-        <summary type="html"><![CDATA[LayerZero OpenZeppelin ERC721 Mintable with URI Storage]]></summary>
-        <author>
-            <name>Beach Crypto</name>
         </author>
     </entry>
     <entry>
@@ -232,6 +222,16 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Addresses in Solidity]]></summary>
         <author>
             <name>Shlok Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lazy NFT Minting — EIP 721 and Vouchers]]></title>
+        <id>https://medium.com/p/88ad41654e6b</id>
+        <link href="https://coinsbench.com/lazy-nft-minting-eip-721-and-vouchers-88ad41654e6b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-01-24T15:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Hey there, in this blog we will discuss how you can approve an NFT and someone else can mint it for its specified price.]]></summary>
+        <author>
+            <name>Moid Khan</name>
         </author>
     </entry>
     <entry>
