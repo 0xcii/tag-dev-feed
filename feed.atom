@@ -1,70 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-27T16:17:01.571Z</id>
+    <id>urn:2023-01-27T17:11:37.364Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-27T16:17:01.571Z</updated>
+    <updated>2023-01-27T17:11:37.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[E-Commerce 2.0: How Smart Contracts are Disrupting Traditional Online Marketplaces]]></title>
-        <id>https://medium.com/p/b4a04db91385</id>
-        <link href="https://medium.com/coinmonks/e-commerce-2-0-how-smart-contracts-are-disrupting-traditional-online-marketplaces-b4a04db91385?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-27T13:25:20.000Z</updated>
-        <summary type="html"><![CDATA[Streamlining Transactions, Improving Trust and Efficiency]]></summary>
+        <title type="html"><![CDATA[Major Web3 Security Incidents in 2022]]></title>
+        <id>https://medium.com/p/69a6ca205f3a</id>
+        <link href="https://medium.com/coinmonks/major-web3-security-incidents-in-2022-69a6ca205f3a?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-27T16:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Crypto markets witnessed 167 major security incidents that resulted in over $13.7 billion losses in 2022.]]></summary>
         <author>
-            <name>Saud Muzaffar</name>
+            <name>Observers.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Central Bank Digital Currencies (CBDCs) are set to change the game for the global economy: A…]]></title>
-        <id>https://medium.com/p/97994ce1b118</id>
-        <link href="https://medium.com/coinmonks/how-central-bank-digital-currencies-cbdcs-are-set-to-change-the-game-for-the-global-economy-a-97994ce1b118?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-27T13:24:18.000Z</updated>
-        <summary type="html"><![CDATA[An in-depth examination of CBDCs, their potential impact, and the ongoing pilot projects]]></summary>
-        <author>
-            <name>Saud Muzaffar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an NFT Minting Platform: A Simple Guide]]></title>
-        <id>https://medium.com/p/d64ed755fc3b</id>
-        <link href="https://medium.com/coinmonks/how-to-build-an-nft-minting-platform-a-simple-guide-d64ed755fc3b?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-27T13:24:12.000Z</updated>
-        <summary type="html"><![CDATA[NFT minting is the process of creating and issuing unique digital assets that are represented by NFTs on a blockchain. NFTs are a special…]]></summary>
-        <author>
-            <name>William Hill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most common smart contracts vulnerabilities]]></title>
-        <id>https://medium.com/p/306c1c27eea2</id>
-        <link href="https://medium.com/coinmonks/most-common-smart-contracts-vulnerabilities-306c1c27eea2?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-27T13:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Reentrancy: This vulnerability occurs when a contract calls an external contract and the external contract calls back into the first…
+        <title type="html"><![CDATA[The JPEG Wars: Unlocking NFT Liquidity]]></title>
+        <id>https://medium.com/p/8609601726cf</id>
+        <link href="https://medium.com/coinmonks/the-jpeg-wars-unlocking-nft-liquidity-8609601726cf?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-27T16:13:43.000Z</updated>
+        <summary type="html"><![CDATA[A Comprehensive Overview of NFT-Fi and How to Get NFT Exposition without Holding Illiquid Assets.
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Simon Busch</name>
+            <name>Francesco Galati</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rarible clone script — Ready-made solution to start an NFT Marketplace]]></title>
-        <id>https://medium.com/p/eab1d95360b3</id>
-        <link href="https://medium.com/coinmonks/rarible-clone-script-eab1d95360b3?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-27T13:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Rarible clone script is the pre-developed software of the existing rarible NFT marketplace. It has all the features similar to the rarible]]></summary>
+        <title type="html"><![CDATA[7 Individuals Who Could Be Nakamoto That We Have Been Waiting To Unmask]]></title>
+        <id>https://medium.com/p/fdfceb80e88c</id>
+        <link href="https://medium.com/coinmonks/7-individuals-who-could-be-nakamoto-that-we-have-been-waiting-to-unmask-fdfceb80e88c?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-27T16:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Somewhere, at the back of the mind, while using Bitcoin you must have wondered who Satoshi Nakamoto is? Someone who was so farsighted that…]]></summary>
         <author>
-            <name>mg aaron</name>
+            <name>CoinDhan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revolutionizing Gaming and Staking: Introducing the New Dogs Roulette and Single Asset Lending]]></title>
-        <id>https://medium.com/p/541309caf525</id>
-        <link href="https://medium.com/coinmonks/revolutionizing-gaming-and-staking-introducing-the-new-dogs-roulette-and-single-asset-lending-541309caf525?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-27T13:23:47.000Z</updated>
-        <summary type="html"><![CDATA[In this article I’ll share the updates which we have on the Dogs Roulette Game and regarding Single Asset Lending as part of the Animal…
+        <title type="html"><![CDATA[Cronos (CRO) Price Prediction 2023–2025, update 27th of January]]></title>
+        <id>https://medium.com/p/ab67beb19f0e</id>
+        <link href="https://medium.com/coinmonks/cronos-cro-price-prediction-2023-2025-update-27th-of-january-ab67beb19f0e?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-27T16:13:28.000Z</updated>
+        <summary type="html"><![CDATA[What is Cronos (CRO)?
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>MDSquared</name>
+            <name>Vremaroiu Alin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best 3 Cryptocurrencies to Buy today 27th of January]]></title>
+        <id>https://medium.com/p/223a5771629c</id>
+        <link href="https://medium.com/coinmonks/best-3-cryptocurrencies-to-buy-today-27th-of-january-223a5771629c?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-27T16:13:21.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin (BTC)
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Vremaroiu Alin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Dogecoin (Doge) and Shiba Inu (SHIB) a good investment in 2023?]]></title>
+        <id>https://medium.com/p/27a72ea4ea35</id>
+        <link href="https://medium.com/coinmonks/are-dogecoin-doge-and-shiba-inu-shib-a-good-investment-in-2023-27a72ea4ea35?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-27T16:13:15.000Z</updated>
+        <summary type="html"><![CDATA[Dogecoin (DOGE)
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Vremaroiu Alin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can LUNC Reach $1 in 2023?]]></title>
+        <id>https://medium.com/p/61a308d74134</id>
+        <link href="https://medium.com/coinmonks/can-lunc-reach-1-in-2023-61a308d74134?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-27T16:13:08.000Z</updated>
+        <summary type="html"><![CDATA[On the previous day, the price of Terra Luna Classic fell by 1.5%, falling to $0.00017113 as the market as a whole fell by roughly 0.5%.]]></summary>
+        <author>
+            <name>ETELL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Good Stocks that we analyse today, 27th of January. What do you think?]]></title>
+        <id>https://medium.com/p/55b0b219ef22</id>
+        <link href="https://medium.com/coinmonks/3-good-stocks-that-we-analyse-today-27th-of-january-what-do-you-think-55b0b219ef22?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-27T16:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Lockheed Martin (LMT)
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Vremaroiu Alin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Crypto Not to Buy in 2023! Caution!]]></title>
+        <id>https://medium.com/p/6f1e1eee0741</id>
+        <link href="https://medium.com/coinmonks/5-crypto-not-to-buy-in-2023-caution-6f1e1eee0741?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-27T16:12:53.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will give you only 5 cryptos to buy but 5 cryptos not to buy in 2023.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Mike Coldman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bulls Are Back]]></title>
+        <id>https://medium.com/p/6ff3554207ea</id>
+        <link href="https://medium.com/coinmonks/the-bulls-are-back-6ff3554207ea?source=rss----721b17443fd5---4"/>
+        <updated>2023-01-27T16:12:47.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin Influencers Are Bullish Again, After a Tough 2022
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Rick Mulvey</name>
         </author>
     </entry>
     <entry>
@@ -75,47 +120,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[A new hack involving a feature on the NFT marketplace OpenSea through phishing websites is the method used latley by scammers to drain your…]]></summary>
         <author>
             <name>BlockOSINT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s time for a change, and crypto is here to do it]]></title>
-        <id>https://medium.com/p/61c0822e3635</id>
-        <link href="https://medium.com/coinmonks/its-time-for-a-change-and-crypto-is-here-to-do-it-61c0822e3635?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-27T12:56:31.000Z</updated>
-        <summary type="html"><![CDATA[About 17 years ago, my daughter took out a government-funded student loan to pay for her college education. Like most college students, she…]]></summary>
-        <author>
-            <name>Ronwriter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 Crypto Predictions: Expert Reveals Top 5 Coins to Invest in Now]]></title>
-        <id>https://medium.com/p/a1fdcb096c6d</id>
-        <link href="https://medium.com/coinmonks/2023-crypto-predictions-expert-reveals-top-5-coins-to-invest-in-now-a1fdcb096c6d?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-27T12:47:18.000Z</updated>
-        <summary type="html"><![CDATA[Learn Which Cryptocurrencies are Poised to Skyrocket in the Coming Year and How to Profit from Them]]></summary>
-        <author>
-            <name>MrNouman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Responsibility Of Protecting Our Online Privacy]]></title>
-        <id>https://medium.com/p/8dda9234ed91</id>
-        <link href="https://medium.com/coinmonks/the-responsibility-of-protecting-our-online-privacy-8dda9234ed91?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-27T12:47:12.000Z</updated>
-        <summary type="html"><![CDATA[Why Being Vigilant Matters
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Pantera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Books that Can Help You on the Road to Financial Freedom]]></title>
-        <id>https://medium.com/p/ee5dc067f3ff</id>
-        <link href="https://medium.com/coinmonks/10-books-that-can-help-you-in-the-road-to-financial-freedom-ee5dc067f3ff?source=rss----721b17443fd5---4"/>
-        <updated>2023-01-27T12:47:06.000Z</updated>
-        <summary type="html"><![CDATA[Reaching financial freedom is a goal that many people aim for, but it can be difficult to achieve without a plan and an understanding of…]]></summary>
-        <author>
-            <name>Eduardo Abreu</name>
         </author>
     </entry>
     <entry>
