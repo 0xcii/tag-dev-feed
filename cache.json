@@ -11,7 +11,7 @@
           "description": "Bitcoin’s blockchain and the Lightning Network are both crucial components of the Bitcoin ecosystem, but they serve vastly different purposes.…\nThe post Bitcoin blockchain vs the Lightning network appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/bitcoin-blockchain-vs-the-lightning-network/",
           "publishedOn": "2023-01-26T21:58:48.000Z",
-          "wordCount": 3692,
+          "wordCount": 3736,
           "title": "Bitcoin blockchain vs the Lightning network",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2022/05/bitcoin-lightning-network.jpg"
         },
@@ -21,7 +21,7 @@
           "description": "The Bitcoin memory pool, also known as the “transaction pool” or “mempool,” is a holding area for unconfirmed transactions waiting…\nThe post Query the Bitcoin memory pool in Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/query-the-bitcoin-memory-pool-in-python/",
           "publishedOn": "2023-01-24T15:00:09.000Z",
-          "wordCount": 3631,
+          "wordCount": 3645,
           "title": "Query the Bitcoin memory pool in Python",
           "imageUrl": null
         },
@@ -31,7 +31,7 @@
           "description": "A try catch is a common error handling mechanism used in many programming languages, and Solidity is no exception. In…\nThe post Try Catch in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/try-catch-in-solidity/",
           "publishedOn": "2023-01-23T14:05:12.000Z",
-          "wordCount": 3905,
+          "wordCount": 3919,
           "title": "Try Catch in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -41,7 +41,7 @@
           "description": "In this article we will use Python to get the balance of a Bitcoin wallet. Bitcoin is a decentralized digital…\nThe post Use Python to get the balance of a Bitcoin wallet appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/use-python-to-get-the-balance-of-a-bitcoin-wallet/",
           "publishedOn": "2023-01-23T02:04:03.000Z",
-          "wordCount": 3691,
+          "wordCount": 3705,
           "title": "Use Python to get the balance of a Bitcoin wallet",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         }
@@ -58,6 +58,26 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/e96cda4b9be1",
+          "author": "BlockOSINT",
+          "description": "A new hack involving a feature on the NFT marketplace OpenSea through phishing websites is the method used latley by scammers to drain your…",
+          "link": "https://coinsbench.com/what-is-a-gasless-signature-scam-e96cda4b9be1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-27T13:04:27.000Z",
+          "wordCount": 2924,
+          "title": "What is a Gasless signature scam?",
+          "imageUrl": "https://miro.medium.com/max/1024/1*EqIC2n1oMw62130SD1X4XA.png"
+        },
+        {
+          "id": "https://medium.com/p/61331809ce0",
+          "author": "Beach Crypto",
+          "description": "LayerZero OpenZeppelin ERC721 Mintable with URI Storage",
+          "link": "https://coinsbench.com/bug-fix-2-a-simple-misunderstanding-of-internal-functions-61331809ce0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-01-27T13:04:25.000Z",
+          "wordCount": 1695,
+          "title": "Bug fix 2 a simple misunderstanding of Solidity internal Functions",
+          "imageUrl": "https://miro.medium.com/max/1200/1*iRIr9uDXtVFW0pWtAIukVA.png"
+        },
         {
           "id": "https://medium.com/p/2cb807795155",
           "author": "Pranshu Duneja",
@@ -137,26 +157,6 @@
           "wordCount": 2338,
           "title": "Address Member Functions in Solidity",
           "imageUrl": "https://miro.medium.com/max/1200/1*2GMMhMNa65BemV3r1_s70g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/88ad41654e6b",
-          "author": "Moid Khan",
-          "description": "Hey there, in this blog we will discuss how you can approve an NFT and someone else can mint it for its specified price.",
-          "link": "https://coinsbench.com/lazy-nft-minting-eip-721-and-vouchers-88ad41654e6b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-24T15:59:54.000Z",
-          "wordCount": 4197,
-          "title": "Lazy NFT Minting — EIP 721 and Vouchers",
-          "imageUrl": "https://miro.medium.com/max/1200/1*kbIla6A3iOaoaWoiFa9vfg.png"
-        },
-        {
-          "id": "https://medium.com/p/441f407171ab",
-          "author": "Burgossrodrigo",
-          "description": "This code is using the ethers library to interact with a smart contract on the Goerli Ethereum test network. The smart contract is an…",
-          "link": "https://coinsbench.com/storing-liquidity-events-from-uniswap-v3-into-mongodb-with-ethers-js-441f407171ab?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-23T19:57:21.000Z",
-          "wordCount": 1614,
-          "title": "Storing liquidity events from Uniswap V3 into mongoDB with ethers.js",
-          "imageUrl": "https://miro.medium.com/max/600/1*Q01bj0iW1mDm9G3hN3jBXQ.png"
         }
       ]
     },
@@ -166,104 +166,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/f7c73a746309",
+          "id": "https://medium.com/p/61c0822e3635",
+          "author": "Ronwriter",
+          "description": "About 17 years ago, my daughter took out a government-funded student loan to pay for her college education. Like most college students, she…",
+          "link": "https://medium.com/coinmonks/its-time-for-a-change-and-crypto-is-here-to-do-it-61c0822e3635?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-27T12:56:31.000Z",
+          "wordCount": 1950,
+          "title": "It’s time for a change, and crypto is here to do it",
+          "imageUrl": "https://miro.medium.com/max/612/1*XCvTT7m9sX-KGougkIW7IA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/a1fdcb096c6d",
           "author": "MrNouman",
-          "description": "When talking about blockchains, we commonly think of its applications in the future. “Blockchain will solve this, blockchain will achieve…",
-          "link": "https://medium.com/coinmonks/50-examples-of-how-blockchains-are-taking-over-the-world-f7c73a746309?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T11:21:42.000Z",
-          "wordCount": 5860,
-          "title": "50+ Examples of How Blockchains are Taking Over the World",
-          "imageUrl": "https://miro.medium.com/max/700/0*6KR1BEyI9T3bVsOs.png"
+          "description": "Learn Which Cryptocurrencies are Poised to Skyrocket in the Coming Year and How to Profit from Them",
+          "link": "https://medium.com/coinmonks/2023-crypto-predictions-expert-reveals-top-5-coins-to-invest-in-now-a1fdcb096c6d?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-27T12:47:18.000Z",
+          "wordCount": 4557,
+          "title": "2023 Crypto Predictions: Expert Reveals Top 5 Coins to Invest in Now",
+          "imageUrl": "https://miro.medium.com/max/720/1*21QTjx-rjmkQnl7i9gLNPw.jpeg"
         },
         {
-          "id": "https://medium.com/p/e7891b752fcb",
-          "author": "Crypto Conquest",
-          "description": "The best daily source of crypto news, insights and alpha.",
-          "link": "https://medium.com/coinmonks/eight-ways-bitcoin-mining-is-good-for-the-environment-e7891b752fcb?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T11:21:37.000Z",
-          "wordCount": 2571,
-          "title": "Eight ways Bitcoin mining is GOOD for the environment.",
-          "imageUrl": "https://miro.medium.com/max/1200/0*2TlBRa_VDzg8RAVC"
+          "id": "https://medium.com/p/8dda9234ed91",
+          "author": "Pantera",
+          "description": "Why Being Vigilant Matters\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-responsibility-of-protecting-our-online-privacy-8dda9234ed91?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-27T12:47:12.000Z",
+          "wordCount": 1406,
+          "title": "The Responsibility Of Protecting Our Online Privacy",
+          "imageUrl": "https://miro.medium.com/max/1170/0*A_qCNu_0VrlGdm6O.png"
         },
         {
-          "id": "https://medium.com/p/fa645699308e",
-          "author": "Graham Brooks",
-          "description": "The Shiba Inu is the driving force behind three significant upward and downward trends. According to the Shiba Inu environment team…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/these-are-the-top-3-reasons-why-shiba-inu-will-explode-fa645699308e?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T11:21:31.000Z",
-          "wordCount": 1079,
-          "title": "These Are The TOP 3 REASONS Why Shiba Inu Will EXPLODE!!",
-          "imageUrl": "https://miro.medium.com/max/1200/1*Uiqhxzg15EuI_FYKFxm4Ew.png"
+          "id": "https://medium.com/p/ee5dc067f3ff",
+          "author": "Eduardo Abreu",
+          "description": "Reaching financial freedom is a goal that many people aim for, but it can be difficult to achieve without a plan and an understanding of…",
+          "link": "https://medium.com/coinmonks/10-books-that-can-help-you-in-the-road-to-financial-freedom-ee5dc067f3ff?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-27T12:47:06.000Z",
+          "wordCount": 2956,
+          "title": "10 Books that Can Help You on the Road to Financial Freedom",
+          "imageUrl": "https://miro.medium.com/max/1200/1*vRbMuCXehWhyYJgdkrTxWg.jpeg"
         },
         {
-          "id": "https://medium.com/p/a8238ed1c098",
-          "author": "CyberSec_Sai",
-          "description": "Discover the geopolitical alignments, target countries, and industries of the most active ransomware groups currently in operation and…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/top-10-active-ransomware-gangs-geopolitics-origin-and-targets-a8238ed1c098?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T11:21:28.000Z",
-          "wordCount": 985,
-          "title": "Top 10 Active Ransomware Gangs: Geopolitics, Origin and Targets",
-          "imageUrl": "https://miro.medium.com/max/1200/1*pskXAKkBCkmw2CNLGBaSXQ.png"
-        },
-        {
-          "id": "https://medium.com/p/acc5758af83a",
+          "id": "https://medium.com/p/3ebb81c4fa0c",
           "author": "Crypto Beat",
-          "description": "If you’re interested in keeping upwith the crypto world, then you’ve come to the right place to receive crypto news.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/crypto-news-today-january-27-2023-acc5758af83a?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T11:19:10.000Z",
-          "wordCount": 1086,
-          "title": "Crypto News Today — January 27, 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/0*CNLIL9YnAH_jNdmA"
+          "description": "Disney would gain access to a huge platform to market its content, while Roblox would gain access to Disney’s vast resources.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/will-disney-buy-roblox-3ebb81c4fa0c?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-27T12:47:00.000Z",
+          "wordCount": 1421,
+          "title": "Will Disney Buy Roblox?",
+          "imageUrl": "https://miro.medium.com/max/1200/0*O8JwS4pPifxWJYe3"
         },
         {
-          "id": "https://medium.com/p/32f8a69d1541",
+          "id": "https://medium.com/p/c2ddabb645cc",
           "author": "Crypto Beat",
-          "description": "The Fear and Greed Index is a tool that helps investors and traders understand the sentiment of the crypto market. Stay up to date.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-fear-and-greed-index-today-january-27-2023-32f8a69d1541?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T11:19:04.000Z",
-          "wordCount": 1103,
-          "title": "Bitcoin Fear And Greed Index Today — January 27, 2023",
-          "imageUrl": "https://miro.medium.com/max/640/0*roZoPqrtL0vg5D3i.png"
+          "description": "Crypto is the future of money, and as a teen, it’s important to understand the benefits and risks associated with it.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/a-teenagers-view-on-crypto-the-future-of-money-c2ddabb645cc?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-27T12:46:54.000Z",
+          "wordCount": 1710,
+          "title": "A Teenager’s View on Crypto: The Future of Money",
+          "imageUrl": "https://miro.medium.com/max/1200/0*IIxEXamedx-cWaXg"
         },
         {
-          "id": "https://medium.com/p/3df7c644203c",
+          "id": "https://medium.com/p/d8eee5ced7e2",
           "author": "Crypto Beat",
-          "description": "The following overview shows the top 5 winner and looser in the last 24 hours. Keep up to date.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/crypto-winner-and-looser-today-january-27-2023-3df7c644203c?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T11:18:59.000Z",
-          "wordCount": 1093,
-          "title": "Crypto Winner And Looser Today — January 27, 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/0*zuUv2SiK87V8cnyg"
+          "description": "Cryptocurrency can be a profitable investment opportunity for entrepreneurs, however, success in the space is not guaranteed.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/formula-for-entrepreneurial-success-in-crypto-d8eee5ced7e2?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-27T12:46:47.000Z",
+          "wordCount": 1385,
+          "title": "Formula for Entrepreneurial Success in Crypto",
+          "imageUrl": "https://miro.medium.com/max/1200/0*iSIi-5NYnnn5kdo9"
         },
         {
-          "id": "https://medium.com/p/36aa8f9d5a91",
+          "id": "https://medium.com/p/5bc9935bd060",
           "author": "Crypto Beat",
-          "description": "What are crypto memes? They are funny pictures or videos that feature characters. Here are the best crypto memes of the last 24 hours.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/crypto-memes-today-january-27-2023-36aa8f9d5a91?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T11:18:52.000Z",
-          "wordCount": 1085,
-          "title": "Crypto Memes Today — January 27, 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/0*VBbTgjkdLAaIph2-"
+          "description": "Crypto entrepreneurs and startups have access to a wide range of free resources. From online tools to networking opportunities.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/free-things-for-crypto-entrepreneurs-and-startups-5bc9935bd060?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-27T12:46:41.000Z",
+          "wordCount": 1629,
+          "title": "Free Things for Crypto Entrepreneurs and Startups",
+          "imageUrl": "https://miro.medium.com/max/1200/0*VYiqp_MJBVHVjEg_"
         },
         {
-          "id": "https://medium.com/p/3221117a1331",
+          "id": "https://medium.com/p/d391999e4c0d",
           "author": "Crypto Beat",
-          "description": "Cryptocurrencies are a volatile market, with prices rapidly changing. Here are the top 10 cryptocurrencies by market capitalization.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/current-crypto-prices-january-27-2023-3221117a1331?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T11:18:24.000Z",
-          "wordCount": 1049,
-          "title": "Current Crypto Prices — January 27, 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/0*HB6fyCXD7SzW87-B"
+          "description": "Bitcoin’s Theory is a concept of digital currency that has revolutionized the way money is exchanged and used. It is based on a Blockchain.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/bitcoins-theory-d391999e4c0d?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-27T12:46:36.000Z",
+          "wordCount": 1441,
+          "title": "Bitcoin’s Theory",
+          "imageUrl": "https://miro.medium.com/max/1200/0*qTVacuE4FxsDcgTd"
         },
         {
-          "id": "https://medium.com/p/3c1d7dd4bdd",
+          "id": "https://medium.com/p/b9429b2cf811",
           "author": "Crypto Beat",
-          "description": "The cryptocurrency markets are constantly in flux. Here is a list of the top 10 most active cryptocurrencies, based on 24-hour volume.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/most-active-cryptocurrency-january-27-2023-3c1d7dd4bdd?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T11:18:16.000Z",
-          "wordCount": 1085,
-          "title": "Most Active Cryptocurrency — January 27, 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/0*hu9F7VDFKUBRVHBc"
+          "description": "Crypto has come a long way over the past decade and is slowly becoming more mainstream. However, there are still many rejections on crypto.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/7-rejections-from-crypto-skeptics-b9429b2cf811?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-27T12:46:30.000Z",
+          "wordCount": 1597,
+          "title": "7 Rejections From Crypto Skeptics",
+          "imageUrl": "https://miro.medium.com/max/1200/0*0exENOMmesWeAxyJ"
         }
       ]
     },
