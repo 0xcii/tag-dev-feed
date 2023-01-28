@@ -114,7 +114,7 @@
           "description": "Saving gas in Solidity is an integral part of developing smart contracts on the Ethereum blockchain. Gas is the internal pricing for…",
           "link": "https://coinsbench.com/three-gas-optimization-strategies-for-ethereum-smart-contracts-c44e9f7ab47d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-24T16:00:23.000Z",
-          "wordCount": 2715,
+          "wordCount": 2798,
           "title": "Three Gas Optimization Strategies For Ethereum Smart Contracts",
           "imageUrl": "https://miro.medium.com/max/795/1*WbW3LlFSa_30EPKIXxwp8A.png"
         },
@@ -144,7 +144,7 @@
           "description": "Addresses in Solidity",
           "link": "https://coinsbench.com/address-member-functions-in-solidity-353574a8cc95?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-24T16:00:02.000Z",
-          "wordCount": 2279,
+          "wordCount": 2363,
           "title": "Address Member Functions in Solidity",
           "imageUrl": "https://miro.medium.com/max/1200/1*2GMMhMNa65BemV3r1_s70g.jpeg"
         },
@@ -166,12 +166,82 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/3366718ad2d1",
+          "author": "Ali Murtaza Memon",
+          "description": "A step-by-step guide to verifying your smart contracts on Etherscan using Hardhat",
+          "link": "https://medium.com/coinmonks/verify-your-smart-contracts-on-etherscan-programmatically-using-hardhat-3366718ad2d1?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-28T18:04:01.000Z",
+          "wordCount": 5629,
+          "title": "Verify your Smart Contracts on Etherscan Programmatically using Hardhat",
+          "imageUrl": "https://miro.medium.com/max/1200/1*dKLD38zwPx6BiMZHzTQF7w.png"
+        },
+        {
+          "id": "https://medium.com/p/8d7ef9028ae1",
+          "author": "Nouman Fareedi",
+          "description": "The perfect blend of product and data | Day-to-day tasks, tools used, & skills required",
+          "link": "https://medium.com/coinmonks/a-day-in-the-life-of-a-product-analyst-8d7ef9028ae1?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-28T18:03:52.000Z",
+          "wordCount": 2302,
+          "title": "A day in the life of a Product Analyst",
+          "imageUrl": "https://miro.medium.com/max/1080/0*D7yed5EkB27YkgKg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/eec792ba2e59",
+          "author": "Peaze",
+          "description": "The point of Decentralized Finance (DeFi) is to enable free access to financial tools and economic abilities without the restrictions…",
+          "link": "https://medium.com/coinmonks/retail-adoption-of-defi-eec792ba2e59?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-28T18:03:47.000Z",
+          "wordCount": 3491,
+          "title": "Retail Adoption of DeFi",
+          "imageUrl": "https://miro.medium.com/max/1200/1*FI2-Gqy_YBMeqPkNA_fy7w.png"
+        },
+        {
+          "id": "https://medium.com/p/3da0fb2c96b7",
+          "author": "Niklas Schomaker",
+          "description": "Non-Fungible Tokens, or NFTs, have been making headlines in recent years for their innovative use of blockchain technology to create unique…",
+          "link": "https://medium.com/coinmonks/nfts-non-fungible-tokens-3da0fb2c96b7?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-28T18:03:40.000Z",
+          "wordCount": 3579,
+          "title": "NFTs (Non-fungible-tokens)",
+          "imageUrl": "https://miro.medium.com/max/631/0*-D1dF6SHjCC0v6Jj"
+        },
+        {
+          "id": "https://medium.com/p/921f87a4e0c",
+          "author": "Vremaroiu Alin",
+          "description": "YouTube is one of the most popular platforms for creating and sharing videos, and it’s also a great way to make money. If you have a…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/top-7-tricks-to-monetize-your-youtube-channel-921f87a4e0c?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-28T18:03:34.000Z",
+          "wordCount": 1131,
+          "title": "Top 7 tricks to monetize your YouTube channel",
+          "imageUrl": "https://miro.medium.com/max/1200/1*RITOuMxNtLQZanW9GggaRg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3818fa9a8eab",
+          "author": "Aditya Khurana",
+          "description": "Panchatantra is a collection of fables or short stories form India dating back to 2nd century B.C.. They were initially composed to impart…",
+          "link": "https://medium.com/coinmonks/web3-and-panchatantra-fable-1-3818fa9a8eab?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-28T18:03:28.000Z",
+          "wordCount": 3073,
+          "title": "Web3 and Panchatantra — FABLE 1",
+          "imageUrl": "https://miro.medium.com/max/344/1*W7W6pUAJEiIu9-C9zweHLQ.png"
+        },
+        {
+          "id": "https://medium.com/p/a8104aac459a",
+          "author": "Vremaroiu Alin",
+          "description": "The internet has opened up a world of opportunities for people to make money online. Whether you’re looking to supplement your income or…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/10-proven-ways-to-make-money-online-a8104aac459a?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-01-28T18:03:22.000Z",
+          "wordCount": 1131,
+          "title": "10 Proven Ways to Make Money Online",
+          "imageUrl": "https://miro.medium.com/max/1200/1*a57XhWTi-c1AIIgu-XRAWg.jpeg"
+        },
+        {
           "id": "https://medium.com/p/69a6ca205f3a",
           "author": "Observers.com",
           "description": "Crypto markets witnessed 167 major security incidents that resulted in over $13.7 billion losses in 2022.",
           "link": "https://medium.com/coinmonks/major-web3-security-incidents-in-2022-69a6ca205f3a?source=rss----721b17443fd5---4",
           "publishedOn": "2023-01-27T16:15:28.000Z",
-          "wordCount": 2864,
+          "wordCount": 2961,
           "title": "Major Web3 Security Incidents in 2022",
           "imageUrl": "https://miro.medium.com/max/1200/1*5Rxo8qI3e_v9p5lZJPr39Q.jpeg"
         },
@@ -194,76 +264,6 @@
           "wordCount": 2804,
           "title": "7 Individuals Who Could Be Nakamoto That We Have Been Waiting To Unmask",
           "imageUrl": "https://miro.medium.com/max/437/0*A-XwxZPG1FR2pUQm"
-        },
-        {
-          "id": "https://medium.com/p/ab67beb19f0e",
-          "author": "Vremaroiu Alin",
-          "description": "What is Cronos (CRO)?\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/cronos-cro-price-prediction-2023-2025-update-27th-of-january-ab67beb19f0e?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T16:13:28.000Z",
-          "wordCount": 1299,
-          "title": "Cronos (CRO) Price Prediction 2023–2025, update 27th of January",
-          "imageUrl": "https://miro.medium.com/max/1200/1*ccInvLOgLtmQ4rf95dR1VQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/223a5771629c",
-          "author": "Vremaroiu Alin",
-          "description": "Bitcoin (BTC)\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/best-3-cryptocurrencies-to-buy-today-27th-of-january-223a5771629c?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T16:13:21.000Z",
-          "wordCount": 1093,
-          "title": "Best 3 Cryptocurrencies to Buy today 27th of January",
-          "imageUrl": "https://miro.medium.com/max/1200/1*xU7yq2x5r3L23s00Se7xug.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/27a72ea4ea35",
-          "author": "Vremaroiu Alin",
-          "description": "Dogecoin (DOGE)\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/are-dogecoin-doge-and-shiba-inu-shib-a-good-investment-in-2023-27a72ea4ea35?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T16:13:15.000Z",
-          "wordCount": 1399,
-          "title": "Are Dogecoin (Doge) and Shiba Inu (SHIB) a good investment in 2023?",
-          "imageUrl": "https://miro.medium.com/max/1200/1*_pOsHBg8o22VWEGWW9e05w.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/61a308d74134",
-          "author": "ETELL",
-          "description": "On the previous day, the price of Terra Luna Classic fell by 1.5%, falling to $0.00017113 as the market as a whole fell by roughly 0.5%.",
-          "link": "https://medium.com/coinmonks/can-lunc-reach-1-in-2023-61a308d74134?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T16:13:08.000Z",
-          "wordCount": 2437,
-          "title": "Can LUNC Reach $1 in 2023?",
-          "imageUrl": "https://miro.medium.com/max/1200/0*40Tsr-T7grfS20S6.jpg"
-        },
-        {
-          "id": "https://medium.com/p/55b0b219ef22",
-          "author": "Vremaroiu Alin",
-          "description": "Lockheed Martin (LMT)\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/3-good-stocks-that-we-analyse-today-27th-of-january-what-do-you-think-55b0b219ef22?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T16:13:00.000Z",
-          "wordCount": 1068,
-          "title": "3 Good Stocks that we analyse today, 27th of January. What do you think?",
-          "imageUrl": "https://miro.medium.com/max/1200/1*dd1HBnj2JsgfaxDFCwvhZg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/6f1e1eee0741",
-          "author": "Mike Coldman",
-          "description": "In this article, I will give you only 5 cryptos to buy but 5 cryptos not to buy in 2023.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/5-crypto-not-to-buy-in-2023-caution-6f1e1eee0741?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T16:12:53.000Z",
-          "wordCount": 1029,
-          "title": "5 Crypto Not to Buy in 2023! Caution!",
-          "imageUrl": "https://miro.medium.com/max/500/1*v2QyCroCI6PORtP1StFdPg.png"
-        },
-        {
-          "id": "https://medium.com/p/6ff3554207ea",
-          "author": "Rick Mulvey",
-          "description": "Bitcoin Influencers Are Bullish Again, After a Tough 2022\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-bulls-are-back-6ff3554207ea?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-01-27T16:12:47.000Z",
-          "wordCount": 1375,
-          "title": "The Bulls Are Back",
-          "imageUrl": "https://miro.medium.com/max/1200/0*ETp0nZK2iFGEGMJf.jpeg"
         }
       ]
     },
@@ -278,7 +278,7 @@
           "description": "Misconceptions about the view function and let’s understand it clearly",
           "link": "https://blog.blockmagnates.com/clear-answer-view-function-consume-gas-solidity-df6e5a172650?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-01-23T14:31:46.000Z",
-          "wordCount": 2099,
+          "wordCount": 2180,
           "title": "Clear answer : View function consume gas?(solidity)",
           "imageUrl": null
         },
