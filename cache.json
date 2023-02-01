@@ -31,7 +31,7 @@
           "description": "A try catch is a common error handling mechanism used in many programming languages, and Solidity is no exception. In…\nThe post Try Catch in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/try-catch-in-solidity/",
           "publishedOn": "2023-01-23T14:05:12.000Z",
-          "wordCount": 3903,
+          "wordCount": 3904,
           "title": "Try Catch in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -41,7 +41,7 @@
           "description": "In this article we will use Python to get the balance of a Bitcoin wallet. Bitcoin is a decentralized digital…\nThe post Use Python to get the balance of a Bitcoin wallet appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/use-python-to-get-the-balance-of-a-bitcoin-wallet/",
           "publishedOn": "2023-01-23T02:04:03.000Z",
-          "wordCount": 3689,
+          "wordCount": 3690,
           "title": "Use Python to get the balance of a Bitcoin wallet",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         }
@@ -59,12 +59,72 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/53adc9a19d1e",
+          "author": "Gloria Okoba",
+          "description": "Solidity is a programming language specifically designed to be used for writing smart contracts on the Ethereum blockchain. As the Ethereum…",
+          "link": "https://coinsbench.com/solidity-for-beginners-understanding-the-features-of-solidity-53adc9a19d1e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-01T13:28:41.000Z",
+          "wordCount": 2824,
+          "title": "Solidity for Beginners: understanding the features of Solidity.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f3719b6c12b3",
+          "author": "Kaankacar",
+          "description": "Truffle is a development environment, testing framework, and asset pipeline for Ethereum. It is the most popular framework for developing…",
+          "link": "https://coinsbench.com/truffle-the-ultimate-toolkit-for-ethereum-development-f3719b6c12b3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-01T13:28:39.000Z",
+          "wordCount": 2102,
+          "title": "Truffle: The Ultimate Toolkit for Ethereum Development",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e9bd7f9061fb",
+          "author": "Marq",
+          "description": "In this article we will look at how the EVM interprets libraries, and walk through an example of how to create one.",
+          "link": "https://coinsbench.com/deep-dive-into-solidity-libraries-e9bd7f9061fb?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-01T13:28:38.000Z",
+          "wordCount": 7492,
+          "title": "Deep Dive Into Solidity Libraries",
+          "imageUrl": "https://miro.medium.com/max/540/1*J4JPR5aCLy7-ofXHZHqbbA.png"
+        },
+        {
+          "id": "https://medium.com/p/c7056709784d",
+          "author": "JiJay",
+          "description": "Outline",
+          "link": "https://coinsbench.com/improving-the-speed-of-hardhat-test-using-snapshot-c7056709784d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-01T13:28:36.000Z",
+          "wordCount": 3750,
+          "title": "Improving the speed of hardhat test using snapshot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f66d8e9cd319",
+          "author": "Harisaqeel",
+          "description": "How it’s Changing the Game for Businesses and Consumers?",
+          "link": "https://coinsbench.com/unlocking-the-potential-of-blockchain-how-its-changing-the-game-for-businesses-and-consumers-f66d8e9cd319?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-01T13:28:34.000Z",
+          "wordCount": 2728,
+          "title": "Unlocking the Potential of Blockchain",
+          "imageUrl": "https://miro.medium.com/max/1200/1*CDGFB_3z-V1I_oErnsNZbg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/70092ce1e8f",
+          "author": "Jae Lee",
+          "description": "This is part three of a multi-part series exploring MEV (Maximal Extraction Value).",
+          "link": "https://coinsbench.com/how-proposer-builder-separation-aims-to-solve-mev-in-ethereum-70092ce1e8f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-01T13:28:06.000Z",
+          "wordCount": 2254,
+          "title": "How Proposer-Builder Separation aims to solve MEV in Ethereum",
+          "imageUrl": "https://miro.medium.com/max/640/1*2Whk0DdkqttcCI8VPKrKTg.jpeg"
+        },
+        {
           "id": "https://medium.com/p/cb0a2ab8d401",
           "author": "Jessie Mongeon",
           "description": "This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…",
           "link": "https://coinsbench.com/brownie-create-and-mint-an-nft-using-brownie-cb0a2ab8d401?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-30T14:09:13.000Z",
-          "wordCount": 2743,
+          "wordCount": 2721,
           "title": "Brownie: Create and Mint an NFT Using Brownie",
           "imageUrl": "https://miro.medium.com/max/1200/0*DxhgZ8rhQbr01fJi"
         },
@@ -84,7 +144,7 @@
           "description": "Hello everyone",
           "link": "https://coinsbench.com/4-lets-learn-solidity-reference-types-fdc7e4f203bf?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-01-30T14:09:04.000Z",
-          "wordCount": 2805,
+          "wordCount": 2824,
           "title": "4# Let’s learn Solidity ~ Reference Types",
           "imageUrl": "https://miro.medium.com/max/1200/1*mcboEmphiaYhqPrEtqClJg.png"
         },
@@ -97,66 +157,6 @@
           "wordCount": 2284,
           "title": "3# Let’s learn Solidity ~ Value Types",
           "imageUrl": "https://miro.medium.com/max/1200/1*sNLfEwzlQT_9Iuj8Vlxjkg.png"
-        },
-        {
-          "id": "https://medium.com/p/ef1f39e9d6f1",
-          "author": "natnat",
-          "description": "task:",
-          "link": "https://coinsbench.com/coinflip-ethernaut-smart-contract-hacking-ef1f39e9d6f1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-30T14:08:59.000Z",
-          "wordCount": 1545,
-          "title": "Coinflip ethernaut — smart contract hacking",
-          "imageUrl": "https://miro.medium.com/max/1026/1*0XfNux0GKooNSKgWMJGHHg.png"
-        },
-        {
-          "id": "https://medium.com/p/e96cda4b9be1",
-          "author": "BlockOSINT",
-          "description": "A new hack involving a feature on the NFT marketplace OpenSea through phishing websites is the method used latley by scammers to drain your…",
-          "link": "https://coinsbench.com/what-is-a-gasless-signature-scam-e96cda4b9be1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-27T13:04:27.000Z",
-          "wordCount": 2928,
-          "title": "What is a Gasless signature scam?",
-          "imageUrl": "https://miro.medium.com/max/1024/1*EqIC2n1oMw62130SD1X4XA.png"
-        },
-        {
-          "id": "https://medium.com/p/2cb807795155",
-          "author": "Pranshu Duneja",
-          "description": "Bitcoin was introduced in a white paper by Satoshi Nakamoto in 2008 after global financial crisis. It addressed the problem of having…",
-          "link": "https://coinsbench.com/what-are-l2-solutions-for-ethereum-plasma-chains-rollups-state-channels-2cb807795155?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-25T13:14:11.000Z",
-          "wordCount": 3287,
-          "title": "What are L2 Solutions for Ethereum || Plasma Chains || Rollups || State Channels",
-          "imageUrl": "https://miro.medium.com/max/952/1*bWOXeghqcBNJp-_pwoFJGg.png"
-        },
-        {
-          "id": "https://medium.com/p/56fafc22e4e0",
-          "author": "The Tech Cat",
-          "description": "Are you looking to break into the world of blockchain technology and web development? Look no further! This comprehensive guide will take…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/links-become-a-web3-master-unlock-the-secrets-of-building-decentralized-applications-56fafc22e4e0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-25T13:14:04.000Z",
-          "wordCount": 2547,
-          "title": "Links“Become a Web3 Master: Unlock the Secrets of Building Decentralized Applications”",
-          "imageUrl": "https://miro.medium.com/max/959/0*TIqpIXubEMfx7rsf.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/18c9a3325e34",
-          "author": "Beach Crypto",
-          "description": "Alright. It’s Friday night, I’m exited to get this project started. Coding for fun is very relaxing to me and I really value the time that…",
-          "link": "https://coinsbench.com/building-a-layerzero-openzeppelin-erc721-nft-contract-18c9a3325e34?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-25T13:13:56.000Z",
-          "wordCount": 1550,
-          "title": "Building a LayerZero OpenZeppelin ERC721 NFT Contract",
-          "imageUrl": "https://miro.medium.com/max/1156/1*AoV86YOYqmFJAI6gPgY4XQ.png"
-        },
-        {
-          "id": "https://medium.com/p/b4feccdb5172",
-          "author": "Marq",
-          "description": "In this article we will use Yul to optimize our smart contracts to save on gas. We will look at three different smart contracts developed…",
-          "link": "https://coinsbench.com/using-yul-to-optimize-gas-costs-b4feccdb5172?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-25T13:13:46.000Z",
-          "wordCount": 10785,
-          "title": "Using Yul To Optimize Gas Costs",
-          "imageUrl": "https://miro.medium.com/max/689/1*ZDwqQA8-AUVE7v5vUssGnw.png"
         }
       ]
     },
@@ -165,6 +165,66 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/1be924ad8ba5",
+          "author": "Henrywilliam",
+          "description": "The rise of NFTs has created a demand for a streamlined, user-friendly platform where artists, collectors, and enthusiasts can buy, sell…",
+          "link": "https://medium.com/coinmonks/nft-marketplace-builder-1be924ad8ba5?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-01T13:53:53.000Z",
+          "wordCount": 5720,
+          "title": "NFT Marketplace Builder — Be the Next NFT Powerhouse with a Customized Marketplace",
+          "imageUrl": "https://miro.medium.com/max/700/1*5FCKf00j4RQKVnB5xzvJ6A.png"
+        },
+        {
+          "id": "https://medium.com/p/dd6b8e9d8421",
+          "author": "Hari Pandey",
+          "description": "Introduction:",
+          "link": "https://medium.com/coinmonks/blockchain-in-blood-supply-management-system-dd6b8e9d8421?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-01T13:52:47.000Z",
+          "wordCount": 2300,
+          "title": "Blockchain in Blood Supply Management System",
+          "imageUrl": "https://miro.medium.com/max/600/0*qUQzvtYQ-K4Zo_xC.jpg"
+        },
+        {
+          "id": "https://medium.com/p/a672c4fae3ce",
+          "author": "Ronwriter",
+          "description": "Non-fungible tokens (NFT) made their splash in 2021 and saw their crash in 2022 but somehow managed to keep their value. The total market…",
+          "link": "https://medium.com/coinmonks/did-an-nft-do-that-a672c4fae3ce?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-01T13:52:34.000Z",
+          "wordCount": 2013,
+          "title": "Did an NFT do that?",
+          "imageUrl": "https://miro.medium.com/max/800/1*favg0Ih3dL_MZajbqPJcVA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/f92e3ac381ab",
+          "author": "Linus Martel",
+          "description": "Bitcoin gained 30%, Ethereum gained another 30%, and most altcoins saw significant sell-offs over the past two weeks, illustrating the…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/top-crypto-coins-ready-to-explode-f92e3ac381ab?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-01T13:52:28.000Z",
+          "wordCount": 989,
+          "title": "TOP Crypto Coins Ready To Explode!",
+          "imageUrl": "https://miro.medium.com/max/1200/0*0sNjoG5VgMRzgDid"
+        },
+        {
+          "id": "https://medium.com/p/8151c8f0638e",
+          "author": "Patience Igwe",
+          "description": "Web3 analytics is important because it allows for the tracking and analysis of data on decentralized blockchain networks, such as Ethereum…",
+          "link": "https://medium.com/coinmonks/web3-analytics-and-visualization-tools-how-dapplooker-gives-you-the-edge-over-other-competitors-8151c8f0638e?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-01T13:52:06.000Z",
+          "wordCount": 3123,
+          "title": "Web3 Analytics and Visualization Tools — How DappLooker Gives you the Edge Over Other Competitors",
+          "imageUrl": "https://miro.medium.com/max/1080/0*3q-YYIZt0Z1ONmE_"
+        },
+        {
+          "id": "https://medium.com/p/7409c71d75c4",
+          "author": "Hatty's Shack",
+          "description": "Cryptocurrency has been a hot topic in the financial world in recent years, with Bitcoin being the most well-known and widely adopted. But…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/what-is-creditcoin-ctc-7409c71d75c4?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-01T13:51:58.000Z",
+          "wordCount": 1010,
+          "title": "What is CreditCoin (CTC)",
+          "imageUrl": "https://miro.medium.com/max/1200/1*qsnn9Z0f5t1BzJVyI2AFIg.jpeg"
+        },
         {
           "id": "https://medium.com/p/bfd1c445cd0a",
           "author": "Salah I.",
@@ -204,66 +264,6 @@
           "wordCount": 1666,
           "title": "How to buy Crypto Coins — The only way you will ever use",
           "imageUrl": "https://miro.medium.com/max/1024/0*a2z6h9B_lp4D2_rw.png"
-        },
-        {
-          "id": "https://medium.com/p/497aa4a128af",
-          "author": "WebSculpt",
-          "description": "It has been requested that I offer more information that complete beginners can use, and it became a lot more than just a blog post! (Stay…",
-          "link": "https://medium.com/coinmonks/start-coding-a-beginners-lesson-497aa4a128af?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-01T09:39:35.000Z",
-          "wordCount": 3747,
-          "title": "Start Coding | A Beginner’s Lesson",
-          "imageUrl": "https://miro.medium.com/max/1200/1*HEm_PSe0kYHJ4CBZQYMMCg.png"
-        },
-        {
-          "id": "https://medium.com/p/a443d1f10b20",
-          "author": "Financely Group",
-          "description": "Bitcoin is often referred to as a decentralized currency, but is this really the case? This article aims to examine the true level of…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-is-actually-centralized-an-in-depth-examination-a443d1f10b20?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-01T09:39:27.000Z",
-          "wordCount": 1341,
-          "title": "Bitcoin is Actually Centralized: An In-Depth Examination",
-          "imageUrl": "https://miro.medium.com/max/1200/0*BCK1-cOAWddc-sxv"
-        },
-        {
-          "id": "https://medium.com/p/12ff55574e10",
-          "author": "Crypto Beat",
-          "description": "Cryptocurrency is a form of digital or virtual currency that is secured and encrypted using cryptography.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/i-asked-chatgpt-what-is-cryptocurrency-and-how-does-it-work-12ff55574e10?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-01T09:39:21.000Z",
-          "wordCount": 1438,
-          "title": "I Asked ChatGPT What Is Cryptocurrency and How Does It Work?",
-          "imageUrl": "https://miro.medium.com/max/1200/0*DuwtorregowZHe_F"
-        },
-        {
-          "id": "https://medium.com/p/39ee9b24c12e",
-          "author": "Crypto Beat",
-          "description": "Cryptocurrencies are digital or virtual currencies that use cryptography for security, making them difficult to counterfeit.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/i-asked-chatgpt-what-are-the-different-types-of-cryptocurrencies-39ee9b24c12e?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-01T09:39:13.000Z",
-          "wordCount": 1372,
-          "title": "I Asked ChatGPT What Are the Different Types of Cryptocurrencies?",
-          "imageUrl": "https://miro.medium.com/max/1200/0*Yu4_NEHqJtH9Qu5D"
-        },
-        {
-          "id": "https://medium.com/p/b83903eb353c",
-          "author": "Crypto Beat",
-          "description": "when trading cryptocurrency, it is important to follow the best practices. This includes doing your research and starting small.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/i-asked-chatgpt-what-are-the-best-practices-for-trading-cryptocurrency-b83903eb353c?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-01T09:39:07.000Z",
-          "wordCount": 1386,
-          "title": "I Asked ChatGPT What Are the Best Practices for Trading Cryptocurrency?",
-          "imageUrl": "https://miro.medium.com/max/1200/0*Am44WNFTkXRCJDGi"
-        },
-        {
-          "id": "https://medium.com/p/5aaf3bac53c9",
-          "author": "Crypto Beat",
-          "description": "Investing in cryptocurrency can be an attractive option for many investors. However, it also comes with its own set of unique challenges.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/i-asked-chatgpt-what-are-the-challenges-of-investing-in-cryptocurrency-5aaf3bac53c9?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-01T09:39:02.000Z",
-          "wordCount": 1443,
-          "title": "I Asked ChatGPT What Are the Challenges of Investing in Cryptocurrency?",
-          "imageUrl": "https://miro.medium.com/max/1200/0*BZk_mOYXUjbb8Y0S"
         }
       ]
     },
