@@ -11,7 +11,7 @@
           "description": "Bitcoin’s blockchain and the Lightning Network are both crucial components of the Bitcoin ecosystem, but they serve vastly different purposes.…\nThe post Bitcoin blockchain vs the Lightning network appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/bitcoin-blockchain-vs-the-lightning-network/",
           "publishedOn": "2023-01-26T21:58:48.000Z",
-          "wordCount": 3717,
+          "wordCount": 3727,
           "title": "Bitcoin blockchain vs the Lightning network",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2022/05/bitcoin-lightning-network.jpg"
         },
@@ -21,7 +21,7 @@
           "description": "The Bitcoin memory pool, also known as the “transaction pool” or “mempool,” is a holding area for unconfirmed transactions waiting…\nThe post Query the Bitcoin memory pool in Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/query-the-bitcoin-memory-pool-in-python/",
           "publishedOn": "2023-01-24T15:00:09.000Z",
-          "wordCount": 3626,
+          "wordCount": 3635,
           "title": "Query the Bitcoin memory pool in Python",
           "imageUrl": null
         },
@@ -31,7 +31,7 @@
           "description": "A try catch is a common error handling mechanism used in many programming languages, and Solidity is no exception. In…\nThe post Try Catch in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/try-catch-in-solidity/",
           "publishedOn": "2023-01-23T14:05:12.000Z",
-          "wordCount": 3900,
+          "wordCount": 3909,
           "title": "Try Catch in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -41,7 +41,7 @@
           "description": "In this article we will use Python to get the balance of a Bitcoin wallet. Bitcoin is a decentralized digital…\nThe post Use Python to get the balance of a Bitcoin wallet appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/use-python-to-get-the-balance-of-a-bitcoin-wallet/",
           "publishedOn": "2023-01-23T02:04:03.000Z",
-          "wordCount": 3686,
+          "wordCount": 3695,
           "title": "Use Python to get the balance of a Bitcoin wallet",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         }
@@ -58,6 +58,86 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/9a9252c104c9",
+          "author": "Harisaqeel",
+          "description": "Before diving deep into ERC20 tokens, we need to understand some basic terms we will use throughout our article.",
+          "link": "https://coinsbench.com/smart-contract-erc-20-9a9252c104c9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-03T16:08:48.000Z",
+          "wordCount": 3547,
+          "title": "Smart Contract (ERC-20)",
+          "imageUrl": "https://miro.medium.com/max/1078/0*P4can8Omk8H3gf2c"
+        },
+        {
+          "id": "https://medium.com/p/661ec14bdd50",
+          "author": "Shlok Kumar",
+          "description": "Arrays in Solidity have built-in methods such as push, length, pop for adding, removing, and retrieving values in the array",
+          "link": "https://coinsbench.com/solidity-arrays-part-2-661ec14bdd50?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-03T16:08:33.000Z",
+          "wordCount": 2741,
+          "title": "Solidity Arrays Part 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/170da746d72f",
+          "author": "Jessie Mongeon",
+          "description": "This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…",
+          "link": "https://coinsbench.com/bueno-how-to-create-a-generative-nft-collection-with-bueno-170da746d72f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-03T16:08:23.000Z",
+          "wordCount": 2097,
+          "title": "Bueno: How to Create a Generative NFT Collection with Bueno",
+          "imageUrl": "https://miro.medium.com/max/1200/0*qE7QgbeGhSZYy1WN"
+        },
+        {
+          "id": "https://medium.com/p/3aa2f413e8f8",
+          "author": "Jessie Mongeon",
+          "description": "This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…",
+          "link": "https://coinsbench.com/cardano-submit-cardano-blockchain-transactions-with-embedded-metadata-stored-on-filebase-3aa2f413e8f8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-03T16:07:56.000Z",
+          "wordCount": 2228,
+          "title": "Cardano: Submit Cardano Blockchain Transactions with Embedded Metadata Stored on Filebase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b85763a33d6e",
+          "author": "Nawar Hisso",
+          "description": "Have you ever applied for a job at a web3 company, but felt a bit confused about what a smart contract is and how it works? 🤔",
+          "link": "https://coinsbench.com/how-to-start-playing-with-a-smart-contract-b85763a33d6e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-03T16:07:39.000Z",
+          "wordCount": 3615,
+          "title": "How to start playing with a Smart Contract?",
+          "imageUrl": "https://miro.medium.com/max/1200/1*3z1ACm7NeuxD1w3MJjfW_Q.png"
+        },
+        {
+          "id": "https://medium.com/p/169657c4e554",
+          "author": "Kaankacar",
+          "description": "Web3.js is a JavaScript library that provides a simple interface for interacting with decentralized applications (dApps) built on the…",
+          "link": "https://coinsbench.com/web3-js-the-key-to-unlocking-your-dapp-development-dreams-with-a-smile-169657c4e554?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-03T16:07:23.000Z",
+          "wordCount": 2606,
+          "title": "Web3.js: The Key to Unlocking Your DApp Development Dreams (With a Smile)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/89538e2ffe86",
+          "author": "harry",
+          "description": "In EIP4337, the`UserOperation` struct is defined as follows:",
+          "link": "https://coinsbench.com/how-to-sign-and-validate-the-signature-of-useroperation-in-eip-4337-account-abstraction-89538e2ffe86?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-03T16:07:08.000Z",
+          "wordCount": 1878,
+          "title": "How to sign and validate the signature of UserOperation in EIP-4337 (Account Abstraction)",
+          "imageUrl": "https://miro.medium.com/max/622/1*XADp26agvj2gNfp-xgQOzA.png"
+        },
+        {
+          "id": "https://medium.com/p/8f5cf6714bd6",
+          "author": "Huw Grano",
+          "description": "A Hashed Timelock Contract (HTLC) is a type of smart contract that allows value (such as a token) to be locked for a fixed period (or a…",
+          "link": "https://coinsbench.com/exploring-htlcs-in-solidity-8f5cf6714bd6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-03T16:06:55.000Z",
+          "wordCount": 2867,
+          "title": "Exploring HTLCs in Solidity",
+          "imageUrl": "https://miro.medium.com/max/1200/1*xHSseg_AXr_ZZOPjkFKziw.png"
+        },
         {
           "id": "https://medium.com/p/53adc9a19d1e",
           "author": "Gloria Okoba",
@@ -77,86 +157,6 @@
           "wordCount": 2085,
           "title": "Truffle: The Ultimate Toolkit for Ethereum Development",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e9bd7f9061fb",
-          "author": "Marq",
-          "description": "In this article we will look at how the EVM interprets libraries, and walk through an example of how to create one.",
-          "link": "https://coinsbench.com/deep-dive-into-solidity-libraries-e9bd7f9061fb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-01T13:28:38.000Z",
-          "wordCount": 7497,
-          "title": "Deep Dive Into Solidity Libraries",
-          "imageUrl": "https://miro.medium.com/max/540/1*J4JPR5aCLy7-ofXHZHqbbA.png"
-        },
-        {
-          "id": "https://medium.com/p/c7056709784d",
-          "author": "JiJay",
-          "description": "Outline",
-          "link": "https://coinsbench.com/improving-the-speed-of-hardhat-test-using-snapshot-c7056709784d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-01T13:28:36.000Z",
-          "wordCount": 3714,
-          "title": "Improving the speed of hardhat test using snapshot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f66d8e9cd319",
-          "author": "Harisaqeel",
-          "description": "How it’s Changing the Game for Businesses and Consumers?",
-          "link": "https://coinsbench.com/unlocking-the-potential-of-blockchain-how-its-changing-the-game-for-businesses-and-consumers-f66d8e9cd319?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-01T13:28:34.000Z",
-          "wordCount": 2766,
-          "title": "Unlocking the Potential of Blockchain",
-          "imageUrl": "https://miro.medium.com/max/1200/1*CDGFB_3z-V1I_oErnsNZbg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/70092ce1e8f",
-          "author": "Jae Lee",
-          "description": "This is part three of a multi-part series exploring MEV (Maximal Extraction Value).",
-          "link": "https://coinsbench.com/how-proposer-builder-separation-aims-to-solve-mev-in-ethereum-70092ce1e8f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-01T13:28:06.000Z",
-          "wordCount": 2530,
-          "title": "How Proposer-Builder Separation aims to solve MEV in Ethereum",
-          "imageUrl": "https://miro.medium.com/max/640/1*2Whk0DdkqttcCI8VPKrKTg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/cb0a2ab8d401",
-          "author": "Jessie Mongeon",
-          "description": "This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…",
-          "link": "https://coinsbench.com/brownie-create-and-mint-an-nft-using-brownie-cb0a2ab8d401?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-30T14:09:13.000Z",
-          "wordCount": 2738,
-          "title": "Brownie: Create and Mint an NFT Using Brownie",
-          "imageUrl": "https://miro.medium.com/max/1200/0*DxhgZ8rhQbr01fJi"
-        },
-        {
-          "id": "https://medium.com/p/3da4d8dfca6c",
-          "author": "Jessie Mongeon",
-          "description": "This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…",
-          "link": "https://coinsbench.com/airswap-track-nft-contract-addresses-with-airswap-cli-3da4d8dfca6c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-30T14:09:08.000Z",
-          "wordCount": 1740,
-          "title": "AirSwap: Track NFT Contract Addresses with AirSwap CLI",
-          "imageUrl": "https://miro.medium.com/max/721/0*Es0Zd8YQO-5dC7K2"
-        },
-        {
-          "id": "https://medium.com/p/fdc7e4f203bf",
-          "author": "ismail",
-          "description": "Hello everyone",
-          "link": "https://coinsbench.com/4-lets-learn-solidity-reference-types-fdc7e4f203bf?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-30T14:09:04.000Z",
-          "wordCount": 2812,
-          "title": "4# Let’s learn Solidity ~ Reference Types",
-          "imageUrl": "https://miro.medium.com/max/1200/1*mcboEmphiaYhqPrEtqClJg.png"
-        },
-        {
-          "id": "https://medium.com/p/267f27a8fd33",
-          "author": "ismail",
-          "description": "Hello everyone",
-          "link": "https://coinsbench.com/3-lets-learn-solidity-value-types-267f27a8fd33?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-01-30T14:09:02.000Z",
-          "wordCount": 2192,
-          "title": "3# Let’s learn Solidity ~ Value Types",
-          "imageUrl": "https://miro.medium.com/max/1200/1*sNLfEwzlQT_9Iuj8Vlxjkg.png"
         }
       ]
     },

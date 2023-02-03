@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-03T15:13:16.060Z</id>
+    <id>urn:2023-02-03T16:17:19.489Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-03T15:13:16.060Z</updated>
+    <updated>2023-02-03T16:17:19.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract (ERC-20)]]></title>
+        <id>https://medium.com/p/9a9252c104c9</id>
+        <link href="https://coinsbench.com/smart-contract-erc-20-9a9252c104c9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-03T16:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Before diving deep into ERC20 tokens, we need to understand some basic terms we will use throughout our article.]]></summary>
+        <author>
+            <name>Harisaqeel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Arrays Part 2]]></title>
+        <id>https://medium.com/p/661ec14bdd50</id>
+        <link href="https://coinsbench.com/solidity-arrays-part-2-661ec14bdd50?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-03T16:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Arrays in Solidity have built-in methods such as push, length, pop for adding, removing, and retrieving values in the array]]></summary>
+        <author>
+            <name>Shlok Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bueno: How to Create a Generative NFT Collection with Bueno]]></title>
+        <id>https://medium.com/p/170da746d72f</id>
+        <link href="https://coinsbench.com/bueno-how-to-create-a-generative-nft-collection-with-bueno-170da746d72f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-03T16:08:23.000Z</updated>
+        <summary type="html"><![CDATA[This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…]]></summary>
+        <author>
+            <name>Jessie Mongeon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano: Submit Cardano Blockchain Transactions with Embedded Metadata Stored on Filebase]]></title>
+        <id>https://medium.com/p/3aa2f413e8f8</id>
+        <link href="https://coinsbench.com/cardano-submit-cardano-blockchain-transactions-with-embedded-metadata-stored-on-filebase-3aa2f413e8f8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-03T16:07:56.000Z</updated>
+        <summary type="html"><![CDATA[This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…]]></summary>
+        <author>
+            <name>Jessie Mongeon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to start playing with a Smart Contract?]]></title>
+        <id>https://medium.com/p/b85763a33d6e</id>
+        <link href="https://coinsbench.com/how-to-start-playing-with-a-smart-contract-b85763a33d6e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-03T16:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever applied for a job at a web3 company, but felt a bit confused about what a smart contract is and how it works? 🤔]]></summary>
+        <author>
+            <name>Nawar Hisso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3.js: The Key to Unlocking Your DApp Development Dreams (With a Smile)]]></title>
+        <id>https://medium.com/p/169657c4e554</id>
+        <link href="https://coinsbench.com/web3-js-the-key-to-unlocking-your-dapp-development-dreams-with-a-smile-169657c4e554?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-03T16:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Web3.js is a JavaScript library that provides a simple interface for interacting with decentralized applications (dApps) built on the…]]></summary>
+        <author>
+            <name>Kaankacar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to sign and validate the signature of UserOperation in EIP-4337 (Account Abstraction)]]></title>
+        <id>https://medium.com/p/89538e2ffe86</id>
+        <link href="https://coinsbench.com/how-to-sign-and-validate-the-signature-of-useroperation-in-eip-4337-account-abstraction-89538e2ffe86?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-03T16:07:08.000Z</updated>
+        <summary type="html"><![CDATA[In EIP4337, the`UserOperation` struct is defined as follows:]]></summary>
+        <author>
+            <name>harry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring HTLCs in Solidity]]></title>
+        <id>https://medium.com/p/8f5cf6714bd6</id>
+        <link href="https://coinsbench.com/exploring-htlcs-in-solidity-8f5cf6714bd6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-03T16:06:55.000Z</updated>
+        <summary type="html"><![CDATA[A Hashed Timelock Contract (HTLC) is a type of smart contract that allows value (such as a token) to be locked for a fixed period (or a…]]></summary>
+        <author>
+            <name>Huw Grano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kindness And All That]]></title>
         <id>https://medium.com/p/8e00595f8f8b</id>
@@ -141,86 +221,6 @@ Currently, in the docs of The Gra…]]></summary>
         <summary type="html"><![CDATA[Truffle is a development environment, testing framework, and asset pipeline for Ethereum. It is the most popular framework for developing…]]></summary>
         <author>
             <name>Kaankacar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Dive Into Solidity Libraries]]></title>
-        <id>https://medium.com/p/e9bd7f9061fb</id>
-        <link href="https://coinsbench.com/deep-dive-into-solidity-libraries-e9bd7f9061fb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-01T13:28:38.000Z</updated>
-        <summary type="html"><![CDATA[In this article we will look at how the EVM interprets libraries, and walk through an example of how to create one.]]></summary>
-        <author>
-            <name>Marq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving the speed of hardhat test using snapshot]]></title>
-        <id>https://medium.com/p/c7056709784d</id>
-        <link href="https://coinsbench.com/improving-the-speed-of-hardhat-test-using-snapshot-c7056709784d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-01T13:28:36.000Z</updated>
-        <summary type="html"><![CDATA[Outline]]></summary>
-        <author>
-            <name>JiJay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking the Potential of Blockchain]]></title>
-        <id>https://medium.com/p/f66d8e9cd319</id>
-        <link href="https://coinsbench.com/unlocking-the-potential-of-blockchain-how-its-changing-the-game-for-businesses-and-consumers-f66d8e9cd319?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-01T13:28:34.000Z</updated>
-        <summary type="html"><![CDATA[How it’s Changing the Game for Businesses and Consumers?]]></summary>
-        <author>
-            <name>Harisaqeel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Proposer-Builder Separation aims to solve MEV in Ethereum]]></title>
-        <id>https://medium.com/p/70092ce1e8f</id>
-        <link href="https://coinsbench.com/how-proposer-builder-separation-aims-to-solve-mev-in-ethereum-70092ce1e8f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-01T13:28:06.000Z</updated>
-        <summary type="html"><![CDATA[This is part three of a multi-part series exploring MEV (Maximal Extraction Value).]]></summary>
-        <author>
-            <name>Jae Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brownie: Create and Mint an NFT Using Brownie]]></title>
-        <id>https://medium.com/p/cb0a2ab8d401</id>
-        <link href="https://coinsbench.com/brownie-create-and-mint-an-nft-using-brownie-cb0a2ab8d401?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-30T14:09:13.000Z</updated>
-        <summary type="html"><![CDATA[This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…]]></summary>
-        <author>
-            <name>Jessie Mongeon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirSwap: Track NFT Contract Addresses with AirSwap CLI]]></title>
-        <id>https://medium.com/p/3da4d8dfca6c</id>
-        <link href="https://coinsbench.com/airswap-track-nft-contract-addresses-with-airswap-cli-3da4d8dfca6c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-30T14:09:08.000Z</updated>
-        <summary type="html"><![CDATA[This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…]]></summary>
-        <author>
-            <name>Jessie Mongeon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4# Let’s learn Solidity ~ Reference Types]]></title>
-        <id>https://medium.com/p/fdc7e4f203bf</id>
-        <link href="https://coinsbench.com/4-lets-learn-solidity-reference-types-fdc7e4f203bf?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-30T14:09:04.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone]]></summary>
-        <author>
-            <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3# Let’s learn Solidity ~ Value Types]]></title>
-        <id>https://medium.com/p/267f27a8fd33</id>
-        <link href="https://coinsbench.com/3-lets-learn-solidity-value-types-267f27a8fd33?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-01-30T14:09:02.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone]]></summary>
-        <author>
-            <name>ismail</name>
         </author>
     </entry>
     <entry>
