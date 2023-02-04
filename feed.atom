@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-04T15:12:07.172Z</id>
+    <id>urn:2023-02-04T16:16:33.956Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-04T15:12:07.172Z</updated>
+    <updated>2023-02-04T16:16:33.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an NFT Market Dashboard Using QuickNode's GraphQL NFT API]]></title>
+        <id>https://blog.developerdao.com/how-to-build-an-nft-market-dashboard-using-quicknodes-graphql-nft-api</id>
+        <link href="https://blog.developerdao.com/how-to-build-an-nft-market-dashboard-using-quicknodes-graphql-nft-api"/>
+        <updated>2023-02-04T15:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Non-fungible tokens (NFTs) are digital assets that represent ownership of a unique item, such as a piece of art or a collectible. With the rise of NFTs, developers are looking for efficient and flexible ways to build applications that leverage the unique properties of NFTs.
+But getting all the marketplace data in a consistent manner isn't a simple task; developers have to crawl through the blockchain and filter out the important bits and pieces of data. A tedious and frustrating undertaking.
+QuickNode's GraphQL NFT API provides a simple and unified method for developers to interact with NFT marketplaces, regardless of the underlying technology. This tutorial will explain step-by-step how to use this API.
+Note: QuickNode recently acquired Icy.tools and we will use the icy-nft-hooks library …]]></summary>
+        <author>
+            <name>Aayush Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Subscription payments in Solidity]]></title>
         <id>https://cryptomarketpool.com/?p=6537</id>
