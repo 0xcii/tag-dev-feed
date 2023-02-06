@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-06T15:13:22.677Z</id>
+    <id>urn:2023-02-06T16:17:35.172Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-06T15:13:22.677Z</updated>
+    <updated>2023-02-06T16:17:35.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unleashing the Power of Structs: A Guide to Organizing Data in Solidity]]></title>
+        <id>https://medium.com/p/aa723e736253</id>
+        <link href="https://coinsbench.com/unleashing-the-power-of-structs-a-guide-to-organizing-data-in-solidity-aa723e736253?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-06T15:06:08.000Z</updated>
+        <summary type="html"><![CDATA[Solidity Structs: The building blocks for organizing and managing complex data in Ethereum smart contracts.]]></summary>
+        <author>
+            <name>Shlok Kumar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Step-by-step guide: How to deploy and verify a smart contract on chain?]]></title>
         <id>https://medium.com/p/98b900049541</id>
@@ -220,16 +230,6 @@ The post Subscription payments in Solidity appeared first on Crypto Market Pool.
         <summary type="html"><![CDATA[Arrays in Solidity have built-in methods such as push, length, pop for adding, removing, and retrieving values in the array]]></summary>
         <author>
             <name>Shlok Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bueno: How to Create a Generative NFT Collection with Bueno]]></title>
-        <id>https://medium.com/p/170da746d72f</id>
-        <link href="https://coinsbench.com/bueno-how-to-create-a-generative-nft-collection-with-bueno-170da746d72f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-03T16:08:23.000Z</updated>
-        <summary type="html"><![CDATA[This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…]]></summary>
-        <author>
-            <name>Jessie Mongeon</name>
         </author>
     </entry>
     <entry>
