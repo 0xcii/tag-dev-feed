@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-06T14:12:08.136Z</id>
+    <id>urn:2023-02-06T15:13:22.677Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-06T14:12:08.136Z</updated>
+    <updated>2023-02-06T15:13:22.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Step-by-step guide: How to deploy and verify a smart contract on chain?]]></title>
+        <id>https://medium.com/p/98b900049541</id>
+        <link href="https://coinsbench.com/step-by-step-guide-how-to-deploy-and-verify-a-smart-contract-on-chain-98b900049541?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-06T15:05:01.000Z</updated>
+        <summary type="html"><![CDATA[🎉 Let’s deploy and verify our first smart contract! 🚀]]></summary>
+        <author>
+            <name>Nawar Hisso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storing IPFS Assets on Ethereum Smart Contracts using Solidity.sol]]></title>
+        <id>https://medium.com/p/c5b996bf7e5d</id>
+        <link href="https://coinsbench.com/storing-ipfs-assets-on-ethereum-smart-contracts-using-solidity-sol-c5b996bf7e5d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-06T15:04:53.000Z</updated>
+        <summary type="html"><![CDATA[IPFS( InterPlanetary File System) is a peer- to- peer file sharing network that enables users to store and share files in a decentralized…]]></summary>
+        <author>
+            <name>Aniket Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethers.js: The All-in-One Ethereum Library for Developers(Part I: Introduction)]]></title>
+        <id>https://medium.com/p/b4920fc12958</id>
+        <link href="https://coinsbench.com/ethers-js-the-all-in-one-ethereum-library-for-developers-part-i-introduction-b4920fc12958?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-06T15:04:45.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum is a decentralized platform that enables developers to build and deploy decentralized applications, or dApps. To interact with the…]]></summary>
+        <author>
+            <name>Kaankacar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A quick guide to developing upgradable smart contracts using UUPS — Openzeppelin]]></title>
+        <id>https://medium.com/p/3f2b6809b8b</id>
+        <link href="https://coinsbench.com/a-quick-guide-to-developing-upgradable-smart-contracts-using-uups-openzeppelin-3f2b6809b8b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-06T15:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Hey guys 👋, in this blog we’ll be developing an upgradable smart contract using UUPS (Upgradeable Universal Proxy Standard).]]></summary>
+        <author>
+            <name>Moid Khan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETH Advance Smart Contract Hacking for web3 in 2023]]></title>
         <id>https://medium.com/p/7a2ee790a271</id>
@@ -190,46 +230,6 @@ The post Subscription payments in Solidity appeared first on Crypto Market Pool.
         <summary type="html"><![CDATA[This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…]]></summary>
         <author>
             <name>Jessie Mongeon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cardano: Submit Cardano Blockchain Transactions with Embedded Metadata Stored on Filebase]]></title>
-        <id>https://medium.com/p/3aa2f413e8f8</id>
-        <link href="https://coinsbench.com/cardano-submit-cardano-blockchain-transactions-with-embedded-metadata-stored-on-filebase-3aa2f413e8f8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-03T16:07:56.000Z</updated>
-        <summary type="html"><![CDATA[This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…]]></summary>
-        <author>
-            <name>Jessie Mongeon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to start playing with a Smart Contract?]]></title>
-        <id>https://medium.com/p/b85763a33d6e</id>
-        <link href="https://coinsbench.com/how-to-start-playing-with-a-smart-contract-b85763a33d6e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-03T16:07:39.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever applied for a job at a web3 company, but felt a bit confused about what a smart contract is and how it works? 🤔]]></summary>
-        <author>
-            <name>Nawar Hisso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3.js: The Key to Unlocking Your DApp Development Dreams (With a Smile)]]></title>
-        <id>https://medium.com/p/169657c4e554</id>
-        <link href="https://coinsbench.com/web3-js-the-key-to-unlocking-your-dapp-development-dreams-with-a-smile-169657c4e554?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-03T16:07:23.000Z</updated>
-        <summary type="html"><![CDATA[Web3.js is a JavaScript library that provides a simple interface for interacting with decentralized applications (dApps) built on the…]]></summary>
-        <author>
-            <name>Kaankacar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to sign and validate the signature of UserOperation in EIP-4337 (Account Abstraction)]]></title>
-        <id>https://medium.com/p/89538e2ffe86</id>
-        <link href="https://coinsbench.com/how-to-sign-and-validate-the-signature-of-useroperation-in-eip-4337-account-abstraction-89538e2ffe86?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-03T16:07:08.000Z</updated>
-        <summary type="html"><![CDATA[In EIP4337, the`UserOperation` struct is defined as follows:]]></summary>
-        <author>
-            <name>harry</name>
         </author>
     </entry>
     <entry>
