@@ -69,6 +69,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/c22cba5960cb",
+          "author": "Dibakar Sutra Dhar",
+          "description": "Ethernaut Fallback CTF hack",
+          "link": "https://coinsbench.com/antisec-ethernaut-fallback-c22cba5960cb?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-08T14:50:34.000Z",
+          "wordCount": 2589,
+          "title": "AntiSec — Ethernaut Fallback",
+          "imageUrl": "https://miro.medium.com/max/1200/1*qAIG-65THAvbnaTS8Mc0NQ.png"
+        },
+        {
+          "id": "https://medium.com/p/8a0e60cc8f3",
+          "author": "Ibrahim Aziz",
+          "description": "For this week’s challenge, we will be changing the structure a little bit. I will post the challenge here, as usual, then over the week…",
+          "link": "https://coinsbench.com/web3-talents-week2-modified-erc20-token-8a0e60cc8f3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-08T14:50:27.000Z",
+          "wordCount": 1426,
+          "title": "Web3 Talents Weekly Challenges: Week2",
+          "imageUrl": "https://miro.medium.com/max/651/1*KHusr1A9mT2Kit-0eyAZ5w.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3832c184bbe2",
+          "author": "Kaankacar",
+          "description": "In the first two parts of this blog post, we introduced Ethers.js and showed you how to get started witn this part, we’ll…",
+          "link": "https://coinsbench.com/ethers-js-the-good-the-bad-and-the-ugly-part-iii-the-end-3832c184bbe2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-08T14:49:39.000Z",
+          "wordCount": 1417,
+          "title": "Ethers.js: The Good, The Bad, and The Ugly(Part III: The End)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4f3b7c437dd6",
+          "author": "Web3 Eye",
+          "description": "We finished the MVP of Peggy dApp in Space Warp. Now the contract is able to custody miners. And the dApp can interact with the contract…",
+          "link": "https://coinsbench.com/fvm-fil-peggys-current-progress-4f3b7c437dd6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-08T14:49:37.000Z",
+          "wordCount": 2255,
+          "title": "FVM — FIL Peggy’s current progress",
+          "imageUrl": "https://miro.medium.com/max/554/1*QyV0308DAkz1zYvmTwq_fA.png"
+        },
+        {
+          "id": "https://medium.com/p/a4e3abfd1e2f",
+          "author": "Nils Giebing",
+          "description": "Introduction:\nThe use of artificial intelligence (AI) in cybersecurity has expanded quickly in recent years, making it simpler for hackers…",
+          "link": "https://coinsbench.com/case-study-using-blockchain-to-secure-data-against-ai-powered-attacks-a4e3abfd1e2f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-08T14:49:33.000Z",
+          "wordCount": 1647,
+          "title": "Case Study: Using Blockchain to Secure Data Against AI-Powered Attacks",
+          "imageUrl": "https://miro.medium.com/max/1200/1*00cjweUJqSs99iCju6TZHw.jpeg"
+        },
+        {
           "id": "https://medium.com/p/aa723e736253",
           "author": "Shlok Kumar",
           "description": "Solidity Structs: The building blocks for organizing and managing complex data in Ethereum smart contracts.",
@@ -117,56 +167,6 @@
           "wordCount": 1785,
           "title": "A quick guide to developing upgradable smart contracts using UUPS — Openzeppelin",
           "imageUrl": "https://miro.medium.com/max/1200/1*-zOXekwwAQN_AM85BFf6vg.png"
-        },
-        {
-          "id": "https://medium.com/p/1b9cd740d3b8",
-          "author": "Harisaqeel",
-          "description": "Right Blockchain certifications can help you get double or even triple the salary of a software engineer",
-          "link": "https://coinsbench.com/blockchain-certification-helped-grow-my-earnings-1b9cd740d3b8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-03T16:13:00.000Z",
-          "wordCount": 1768,
-          "title": "Blockchain Certification helped grow my earnings",
-          "imageUrl": "https://miro.medium.com/max/783/1*hVEGKNb3q0oncj3tf7xgow.png"
-        },
-        {
-          "id": "https://medium.com/p/67a70f1fdc65",
-          "author": "Ibrahim Aziz",
-          "description": "On Friday, 5pm CET we had the privilege of having our first call for Web3 Talents ‘Weekly Challenge’. The Weekly Challenge is a program…",
-          "link": "https://coinsbench.com/web3-talents-weekly-challenges-week-1-67a70f1fdc65?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-03T16:12:15.000Z",
-          "wordCount": 1341,
-          "title": "Web3 Talents Weekly Challenges: Week 1",
-          "imageUrl": "https://miro.medium.com/max/719/1*Ohg5fx0bznsIqYcy7bxeCw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/c5faa1e5f1da",
-          "author": "RadientBrain",
-          "description": "Online gaming has become a popular form of entertainment in recent years, with millions of people playing games such as online casinos…",
-          "link": "https://coinsbench.com/provably-fair-system-a-guide-to-fair-and-transparent-online-gaming-c5faa1e5f1da?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-03T16:12:06.000Z",
-          "wordCount": 2893,
-          "title": "Provably Fair System: A Guide to Fair and Transparent Online Gaming",
-          "imageUrl": "https://miro.medium.com/max/640/1*BCGDtyW3ESl91GPGwnC7qA.png"
-        },
-        {
-          "id": "https://medium.com/p/9a9252c104c9",
-          "author": "Harisaqeel",
-          "description": "Before diving deep into ERC20 tokens, we need to understand some basic terms we will use throughout our article.",
-          "link": "https://coinsbench.com/smart-contract-erc-20-9a9252c104c9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-03T16:08:48.000Z",
-          "wordCount": 3193,
-          "title": "Smart Contract (ERC-20)",
-          "imageUrl": "https://miro.medium.com/max/1078/0*P4can8Omk8H3gf2c"
-        },
-        {
-          "id": "https://medium.com/p/661ec14bdd50",
-          "author": "Shlok Kumar",
-          "description": "Arrays in Solidity have built-in methods such as push, length, pop for adding, removing, and retrieving values in the array",
-          "link": "https://coinsbench.com/solidity-arrays-part-2-661ec14bdd50?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-03T16:08:33.000Z",
-          "wordCount": 2482,
-          "title": "Solidity Arrays Part 2",
-          "imageUrl": null
         }
       ]
     },

@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T14:12:30.797Z</id>
+    <id>urn:2023-02-08T15:13:35.345Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-08T14:12:30.797Z</updated>
+    <updated>2023-02-08T15:13:35.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AntiSec — Ethernaut Fallback]]></title>
+        <id>https://medium.com/p/c22cba5960cb</id>
+        <link href="https://coinsbench.com/antisec-ethernaut-fallback-c22cba5960cb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-08T14:50:34.000Z</updated>
+        <summary type="html"><![CDATA[Ethernaut Fallback CTF hack]]></summary>
+        <author>
+            <name>Dibakar Sutra Dhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Talents Weekly Challenges: Week2]]></title>
+        <id>https://medium.com/p/8a0e60cc8f3</id>
+        <link href="https://coinsbench.com/web3-talents-week2-modified-erc20-token-8a0e60cc8f3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-08T14:50:27.000Z</updated>
+        <summary type="html"><![CDATA[For this week’s challenge, we will be changing the structure a little bit. I will post the challenge here, as usual, then over the week…]]></summary>
+        <author>
+            <name>Ibrahim Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethers.js: The Good, The Bad, and The Ugly(Part III: The End)]]></title>
+        <id>https://medium.com/p/3832c184bbe2</id>
+        <link href="https://coinsbench.com/ethers-js-the-good-the-bad-and-the-ugly-part-iii-the-end-3832c184bbe2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-08T14:49:39.000Z</updated>
+        <summary type="html"><![CDATA[In the first two parts of this blog post, we introduced Ethers.js and showed you how to get started witn this part, we’ll…]]></summary>
+        <author>
+            <name>Kaankacar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FVM — FIL Peggy’s current progress]]></title>
+        <id>https://medium.com/p/4f3b7c437dd6</id>
+        <link href="https://coinsbench.com/fvm-fil-peggys-current-progress-4f3b7c437dd6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-08T14:49:37.000Z</updated>
+        <summary type="html"><![CDATA[We finished the MVP of Peggy dApp in Space Warp. Now the contract is able to custody miners. And the dApp can interact with the contract…]]></summary>
+        <author>
+            <name>Web3 Eye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case Study: Using Blockchain to Secure Data Against AI-Powered Attacks]]></title>
+        <id>https://medium.com/p/a4e3abfd1e2f</id>
+        <link href="https://coinsbench.com/case-study-using-blockchain-to-secure-data-against-ai-powered-attacks-a4e3abfd1e2f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-08T14:49:33.000Z</updated>
+        <summary type="html"><![CDATA[Introduction:
+The use of artificial intelligence (AI) in cybersecurity has expanded quickly in recent years, making it simpler for hackers…]]></summary>
+        <author>
+            <name>Nils Giebing</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to write an Ethereum smart contract using Vyper?]]></title>
         <id>https://medium.com/p/edc18ba1ec3d</id>
@@ -196,56 +247,6 @@ Note: QuickNode recently acquired Icy.tools and we will use the icy-nft-hooks li
 The post Subscription payments in Solidity appeared first on Crypto Market Pool.]]></summary>
         <author>
             <name>Crypto Market Pool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain Certification helped grow my earnings]]></title>
-        <id>https://medium.com/p/1b9cd740d3b8</id>
-        <link href="https://coinsbench.com/blockchain-certification-helped-grow-my-earnings-1b9cd740d3b8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-03T16:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Right Blockchain certifications can help you get double or even triple the salary of a software engineer]]></summary>
-        <author>
-            <name>Harisaqeel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Talents Weekly Challenges: Week 1]]></title>
-        <id>https://medium.com/p/67a70f1fdc65</id>
-        <link href="https://coinsbench.com/web3-talents-weekly-challenges-week-1-67a70f1fdc65?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-03T16:12:15.000Z</updated>
-        <summary type="html"><![CDATA[On Friday, 5pm CET we had the privilege of having our first call for Web3 Talents ‘Weekly Challenge’. The Weekly Challenge is a program…]]></summary>
-        <author>
-            <name>Ibrahim Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Provably Fair System: A Guide to Fair and Transparent Online Gaming]]></title>
-        <id>https://medium.com/p/c5faa1e5f1da</id>
-        <link href="https://coinsbench.com/provably-fair-system-a-guide-to-fair-and-transparent-online-gaming-c5faa1e5f1da?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-03T16:12:06.000Z</updated>
-        <summary type="html"><![CDATA[Online gaming has become a popular form of entertainment in recent years, with millions of people playing games such as online casinos…]]></summary>
-        <author>
-            <name>RadientBrain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract (ERC-20)]]></title>
-        <id>https://medium.com/p/9a9252c104c9</id>
-        <link href="https://coinsbench.com/smart-contract-erc-20-9a9252c104c9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-03T16:08:48.000Z</updated>
-        <summary type="html"><![CDATA[Before diving deep into ERC20 tokens, we need to understand some basic terms we will use throughout our article.]]></summary>
-        <author>
-            <name>Harisaqeel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Arrays Part 2]]></title>
-        <id>https://medium.com/p/661ec14bdd50</id>
-        <link href="https://coinsbench.com/solidity-arrays-part-2-661ec14bdd50?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-03T16:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Arrays in Solidity have built-in methods such as push, length, pop for adding, removing, and retrieving values in the array]]></summary>
-        <author>
-            <name>Shlok Kumar</name>
         </author>
     </entry>
     <entry>
