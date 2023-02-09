@@ -69,6 +69,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/16da3a2549",
+          "author": "Srinivas Joshi",
+          "description": "The ability of Ethereum smart contracts to use and call code from other external contracts is one of their features. The contracts must…",
+          "link": "https://coinsbench.com/reentrancy-attacks-and-how-to-deal-with-them-16da3a2549?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-09T13:13:36.000Z",
+          "wordCount": 2836,
+          "title": "Reentrancy attacks and how to deal with them",
+          "imageUrl": "https://miro.medium.com/max/850/1*LXjmn6JEHxoXuSdvHZw7Uw.png"
+        },
+        {
+          "id": "https://medium.com/p/f64c70a90d0",
+          "author": "Shahaneri",
+          "description": "Ethernaut is a Web3/Solidity based wargame inspired by overthewire, to be played in the Ethereum Virtual Machine.",
+          "link": "https://coinsbench.com/ethernaut-level-1-fallback-f64c70a90d0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-09T13:13:33.000Z",
+          "wordCount": 1533,
+          "title": "Ethernaut level 1 — Fallback",
+          "imageUrl": "https://miro.medium.com/max/1200/1*1FVJpLYYpIjrw8R3mHWAEg.png"
+        },
+        {
+          "id": "https://medium.com/p/3c96044c1007",
+          "author": "Oluchukwu Okpala",
+          "description": "Introduction to Decentralized Autonomous Organizations(DAOs)",
+          "link": "https://coinsbench.com/decentralized-autonomous-organizations-daos-3c96044c1007?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-09T13:13:32.000Z",
+          "wordCount": 2408,
+          "title": "Decentralized Autonomous Organizations (DAOs)",
+          "imageUrl": "https://miro.medium.com/max/1200/0*98ONlwmVIW2Pj-4h"
+        },
+        {
+          "id": "https://medium.com/p/a6c5c7bac7d",
+          "author": "Dibakar Sutra Dhar",
+          "description": "Exploiting the Fallout contract from Ethernaut CTF",
+          "link": "https://coinsbench.com/antisec-ethernaut-fal1out-a6c5c7bac7d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-09T13:13:30.000Z",
+          "wordCount": 2314,
+          "title": "AntiSec — Ethernaut FAL1OUT",
+          "imageUrl": "https://miro.medium.com/max/1200/1*WSGuSqM5eEWH27V7i3jkrw.png"
+        },
+        {
+          "id": "https://medium.com/p/d35e2a81d421",
+          "author": "futuremomentumArt",
+          "description": "Introduction\nOpenSea is one of the leading platforms for NFTs. The disadvantage, however, is that all NFTS that are created directly on…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/ipfs-or-arweave-d35e2a81d421?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-09T13:13:28.000Z",
+          "wordCount": 2299,
+          "title": "IPFS or Arweave?",
+          "imageUrl": "https://miro.medium.com/max/1200/1*kVLnH5rK7xjK2gKlEvo92w.png"
+        },
+        {
           "id": "https://medium.com/p/c22cba5960cb",
           "author": "Dibakar Sutra Dhar",
           "description": "Ethernaut Fallback CTF hack",
@@ -117,56 +167,6 @@
           "wordCount": 1648,
           "title": "Case Study: Using Blockchain to Secure Data Against AI-Powered Attacks",
           "imageUrl": "https://miro.medium.com/max/1200/1*00cjweUJqSs99iCju6TZHw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/aa723e736253",
-          "author": "Shlok Kumar",
-          "description": "Solidity Structs: The building blocks for organizing and managing complex data in Ethereum smart contracts.",
-          "link": "https://coinsbench.com/unleashing-the-power-of-structs-a-guide-to-organizing-data-in-solidity-aa723e736253?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-06T15:06:08.000Z",
-          "wordCount": 1671,
-          "title": "Unleashing the Power of Structs: A Guide to Organizing Data in Solidity",
-          "imageUrl": "https://miro.medium.com/max/1200/1*MIZzSXckeQpVLH9BeMScow.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/98b900049541",
-          "author": "Nawar Hisso",
-          "description": "🎉 Let’s deploy and verify our first smart contract! 🚀",
-          "link": "https://coinsbench.com/step-by-step-guide-how-to-deploy-and-verify-a-smart-contract-on-chain-98b900049541?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-06T15:05:01.000Z",
-          "wordCount": 2009,
-          "title": "Step-by-step guide: How to deploy and verify a smart contract on chain?",
-          "imageUrl": "https://miro.medium.com/max/1024/1*-8RJoF3fP5HIc_suTSE3Pw.png"
-        },
-        {
-          "id": "https://medium.com/p/c5b996bf7e5d",
-          "author": "Aniket Das",
-          "description": "IPFS( InterPlanetary File System) is a peer- to- peer file sharing network that enables users to store and share files in a decentralized…",
-          "link": "https://coinsbench.com/storing-ipfs-assets-on-ethereum-smart-contracts-using-solidity-sol-c5b996bf7e5d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-06T15:04:53.000Z",
-          "wordCount": 1790,
-          "title": "Storing IPFS Assets on Ethereum Smart Contracts using Solidity.sol",
-          "imageUrl": "https://miro.medium.com/max/920/1*h-H0SpI3JoY4Jnmy3xS_4g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/b4920fc12958",
-          "author": "Kaankacar",
-          "description": "Ethereum is a decentralized platform that enables developers to build and deploy decentralized applications, or dApps. To interact with the…",
-          "link": "https://coinsbench.com/ethers-js-the-all-in-one-ethereum-library-for-developers-part-i-introduction-b4920fc12958?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-06T15:04:45.000Z",
-          "wordCount": 1402,
-          "title": "Ethers.js: The All-in-One Ethereum Library for Developers(Part I: Introduction)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3f2b6809b8b",
-          "author": "Moid Khan",
-          "description": "Hey guys 👋, in this blog we’ll be developing an upgradable smart contract using UUPS (Upgradeable Universal Proxy Standard).",
-          "link": "https://coinsbench.com/a-quick-guide-to-developing-upgradable-smart-contracts-using-uups-openzeppelin-3f2b6809b8b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-06T15:04:35.000Z",
-          "wordCount": 1785,
-          "title": "A quick guide to developing upgradable smart contracts using UUPS — Openzeppelin",
-          "imageUrl": "https://miro.medium.com/max/1200/1*-zOXekwwAQN_AM85BFf6vg.png"
         }
       ]
     },

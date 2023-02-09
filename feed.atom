@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T12:27:16.081Z</id>
+    <id>urn:2023-02-09T13:27:28.572Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-09T12:27:16.081Z</updated>
+    <updated>2023-02-09T13:27:28.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Reentrancy attacks and how to deal with them]]></title>
+        <id>https://medium.com/p/16da3a2549</id>
+        <link href="https://coinsbench.com/reentrancy-attacks-and-how-to-deal-with-them-16da3a2549?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-09T13:13:36.000Z</updated>
+        <summary type="html"><![CDATA[The ability of Ethereum smart contracts to use and call code from other external contracts is one of their features. The contracts must…]]></summary>
+        <author>
+            <name>Srinivas Joshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethernaut level 1 — Fallback]]></title>
+        <id>https://medium.com/p/f64c70a90d0</id>
+        <link href="https://coinsbench.com/ethernaut-level-1-fallback-f64c70a90d0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-09T13:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Ethernaut is a Web3/Solidity based wargame inspired by overthewire, to be played in the Ethereum Virtual Machine.]]></summary>
+        <author>
+            <name>Shahaneri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Autonomous Organizations (DAOs)]]></title>
+        <id>https://medium.com/p/3c96044c1007</id>
+        <link href="https://coinsbench.com/decentralized-autonomous-organizations-daos-3c96044c1007?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-09T13:13:32.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Decentralized Autonomous Organizations(DAOs)]]></summary>
+        <author>
+            <name>Oluchukwu Okpala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AntiSec — Ethernaut FAL1OUT]]></title>
+        <id>https://medium.com/p/a6c5c7bac7d</id>
+        <link href="https://coinsbench.com/antisec-ethernaut-fal1out-a6c5c7bac7d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-09T13:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Exploiting the Fallout contract from Ethernaut CTF]]></summary>
+        <author>
+            <name>Dibakar Sutra Dhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPFS or Arweave?]]></title>
+        <id>https://medium.com/p/d35e2a81d421</id>
+        <link href="https://coinsbench.com/ipfs-or-arweave-d35e2a81d421?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-09T13:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+OpenSea is one of the leading platforms for NFTs. The disadvantage, however, is that all NFTS that are created directly on…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>futuremomentumArt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AntiSec — Ethernaut Fallback]]></title>
         <id>https://medium.com/p/c22cba5960cb</id>
@@ -173,56 +225,6 @@ Continue reading on Coinmonks »]]></summary>
 Continue reading on Coinmonks »]]></summary>
         <author>
             <name>Drake Flyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleashing the Power of Structs: A Guide to Organizing Data in Solidity]]></title>
-        <id>https://medium.com/p/aa723e736253</id>
-        <link href="https://coinsbench.com/unleashing-the-power-of-structs-a-guide-to-organizing-data-in-solidity-aa723e736253?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-06T15:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Solidity Structs: The building blocks for organizing and managing complex data in Ethereum smart contracts.]]></summary>
-        <author>
-            <name>Shlok Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step-by-step guide: How to deploy and verify a smart contract on chain?]]></title>
-        <id>https://medium.com/p/98b900049541</id>
-        <link href="https://coinsbench.com/step-by-step-guide-how-to-deploy-and-verify-a-smart-contract-on-chain-98b900049541?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-06T15:05:01.000Z</updated>
-        <summary type="html"><![CDATA[🎉 Let’s deploy and verify our first smart contract! 🚀]]></summary>
-        <author>
-            <name>Nawar Hisso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storing IPFS Assets on Ethereum Smart Contracts using Solidity.sol]]></title>
-        <id>https://medium.com/p/c5b996bf7e5d</id>
-        <link href="https://coinsbench.com/storing-ipfs-assets-on-ethereum-smart-contracts-using-solidity-sol-c5b996bf7e5d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-06T15:04:53.000Z</updated>
-        <summary type="html"><![CDATA[IPFS( InterPlanetary File System) is a peer- to- peer file sharing network that enables users to store and share files in a decentralized…]]></summary>
-        <author>
-            <name>Aniket Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethers.js: The All-in-One Ethereum Library for Developers(Part I: Introduction)]]></title>
-        <id>https://medium.com/p/b4920fc12958</id>
-        <link href="https://coinsbench.com/ethers-js-the-all-in-one-ethereum-library-for-developers-part-i-introduction-b4920fc12958?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-06T15:04:45.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum is a decentralized platform that enables developers to build and deploy decentralized applications, or dApps. To interact with the…]]></summary>
-        <author>
-            <name>Kaankacar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A quick guide to developing upgradable smart contracts using UUPS — Openzeppelin]]></title>
-        <id>https://medium.com/p/3f2b6809b8b</id>
-        <link href="https://coinsbench.com/a-quick-guide-to-developing-upgradable-smart-contracts-using-uups-openzeppelin-3f2b6809b8b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-06T15:04:35.000Z</updated>
-        <summary type="html"><![CDATA[Hey guys 👋, in this blog we’ll be developing an upgradable smart contract using UUPS (Upgradeable Universal Proxy Standard).]]></summary>
-        <author>
-            <name>Moid Khan</name>
         </author>
     </entry>
     <entry>
