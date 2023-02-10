@@ -330,6 +330,16 @@
       "siteUrl": "https://blog.developerdao.com",
       "articles": [
         {
+          "id": "https://blog.developerdao.com/devntell-burnkoincom",
+          "author": "Narbeh Shahnazarian",
+          "description": "In this week's episode of DevNTell, founders Luke Willis and Kui He gave us an overview of their project BurnKoin.com: The first proof of burn mining pool on Koinos network\n🌟 Developer Spotlight\nLuke and Kui are the creators and operators of burnkoin.com, the first proof of burn mining pool. BurnKoin is their first project together, demonstrating their commitment to accessible dApps and desire for decentralization. The profit from BurnKoin is being used to bootstrap their next project: Koinos Account Protocol\n🚀 About Burn Koin\nBurn Koin is the first burn pool developed for the Koinos network\nUseful Resources:\nWebsite: https://burnkoin.com/\nKap Domains: https://kap.domains/\nGitHub: https://github.com/lukemwillis/koinos...\nTwitter: https://twitter.com/BurnKoin\nKui's Twitter: https://twitter.com/kuixihe\nLuke's Twitter: https://twitter.com/lukemwillis\n🎥 Presentation\n\n\n\nhttps://www.youtube.com/watch?v=W57aBqRheiU",
+          "link": "https://blog.developerdao.com/devntell-burnkoincom",
+          "publishedOn": "2023-02-10T21:40:45.000Z",
+          "wordCount": 2678,
+          "title": "DevNTell - BurnKoin.com",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1675908314868%2Fc8fcb412-d045-4703-90d1-67e1c3750503.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
           "id": "https://blog.developerdao.com/how-to-build-an-nft-market-dashboard-using-quicknodes-graphql-nft-api",
           "author": "Aayush Gupta",
           "description": "Non-fungible tokens (NFTs) are digital assets that represent ownership of a unique item, such as a piece of art or a collectible. With the rise of NFTs, developers are looking for efficient and flexible ways to build applications that leverage the unique properties of NFTs.\nBut getting all the marketplace data in a consistent manner isn't a simple task; developers have to crawl through the blockchain and filter out the important bits and pieces of data. A tedious and frustrating undertaking.\nQuickNode's GraphQL NFT API provides a simple and unified method for developers to interact with NFT marketplaces, regardless of the underlying technology. This tutorial will explain step-by-step how to use this API.\nNote: QuickNode recently acquired Icy.tools and we will use the icy-nft-hooks library …",
