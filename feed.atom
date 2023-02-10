@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T14:12:27.510Z</id>
+    <id>urn:2023-02-10T15:13:31.355Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-10T14:12:27.510Z</updated>
+    <updated>2023-02-10T15:13:31.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Credible, Optimal Auctions via Blockchains]]></title>
+        <id>https://medium.com/p/11c4dee20c59</id>
+        <link href="https://medium.com/coinmonks/credible-optimal-auctions-via-blockchains-11c4dee20c59?source=rss----721b17443fd5---4"/>
+        <updated>2023-02-10T14:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Picture yourself at an auction, surrounded by eager bidders, all hoping to get their hands on the prized possession up for grabs. But as…]]></summary>
+        <author>
+            <name>Kyrian Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Storage. How does it work?]]></title>
+        <id>https://medium.com/p/8354afde3eb</id>
+        <link href="https://medium.com/coinmonks/solidity-storage-how-does-it-work-8354afde3eb?source=rss----721b17443fd5---4"/>
+        <updated>2023-02-10T14:53:51.000Z</updated>
+        <summary type="html"><![CDATA[The Storage is one of the four data locations a solidity smart contract has (the others are : memory, calldata and stack). In simple words…]]></summary>
+        <author>
+            <name>Alberto Molina</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Turns its Focus to Cryptocurrency Staking — Shuts Down Kraken’s Staking Program]]></title>
         <id>https://medium.com/p/e36f621454da</id>
@@ -166,26 +186,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Recently, Brian Armstrong, CEO of Coinbase, voiced his worries regarding rumors that the U.S. SEC may prevent retail investors from…]]></summary>
         <author>
             <name>Crypto Coins Insights</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplifying Analytics for your dApp]]></title>
-        <id>https://medium.com/p/2f708dd94ae6</id>
-        <link href="https://medium.com/coinmonks/simplifying-analytics-for-your-dapp-2f708dd94ae6?source=rss----721b17443fd5---4"/>
-        <updated>2023-02-10T11:06:51.000Z</updated>
-        <summary type="html"><![CDATA[Make Data-Driven Decisions for your dApp with Streamlined Analytics]]></summary>
-        <author>
-            <name>Dy_storyteller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Supply Chain Management with Blockchain Technology]]></title>
-        <id>https://medium.com/p/ad4b2dbd8084</id>
-        <link href="https://medium.com/coinmonks/the-future-of-supply-chain-management-with-blockchain-technology-ad4b2dbd8084?source=rss----721b17443fd5---4"/>
-        <updated>2023-02-10T11:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Supply Chain Management (SCM) is a critical aspect of modern businesses, as it involves the coordination of all activities involved in the…]]></summary>
-        <author>
-            <name>Clinton Flores</name>
         </author>
     </entry>
     <entry>
