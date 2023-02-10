@@ -31,7 +31,7 @@
           "description": "The Bitcoin memory pool, also known as the “transaction pool” or “mempool,” is a holding area for unconfirmed transactions waiting…\nThe post Query the Bitcoin memory pool in Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/query-the-bitcoin-memory-pool-in-python/",
           "publishedOn": "2023-01-24T15:00:09.000Z",
-          "wordCount": 3663,
+          "wordCount": 3664,
           "title": "Query the Bitcoin memory pool in Python",
           "imageUrl": null
         },
@@ -69,6 +69,86 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/2cb28e1f5d07",
+          "author": "Dibakar Sutra Dhar",
+          "description": "Exploiting the randomness of CoinFlip contract from Ethernaut CTF",
+          "link": "https://coinsbench.com/antisec-ethernaut-coinflip-2cb28e1f5d07?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-10T11:19:50.000Z",
+          "wordCount": 2733,
+          "title": "AntiSec — Ethernaut CoinFlip",
+          "imageUrl": "https://miro.medium.com/max/1200/1*gIHol5VN82waQ9kEAKP-Uw.png"
+        },
+        {
+          "id": "https://medium.com/p/657b0e88279b",
+          "author": "Kaankacar",
+          "description": "In the first part of this blog post, we introduced Ethers.js and its comprehensive set of features for working with the Ethereum…",
+          "link": "https://coinsbench.com/get-started-with-ethers-js-code-examples-and-explanations-part-ii-coding-657b0e88279b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-10T11:19:42.000Z",
+          "wordCount": 1545,
+          "title": "Get Started with Ethers.js: Code Examples and Explanations(Part II:Coding)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e8f29cebc650",
+          "author": "Nils Giebing",
+          "description": "Organizations across a range of industries now place a high importance on blockchain security as the use of blockchain technology grows…",
+          "link": "https://coinsbench.com/unlocking-the-full-potential-of-blockchain-with-secure-web3-websites-api-queries-and-smart-e8f29cebc650?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-10T11:19:34.000Z",
+          "wordCount": 1683,
+          "title": "Unlocking the Full Potential of Blockchain with Secure Web3 Websites, API Queries, and Smart…",
+          "imageUrl": "https://miro.medium.com/max/1200/1*UYRYlqYt-HIe6RdRKU4BlQ.png"
+        },
+        {
+          "id": "https://medium.com/p/401a05e94078",
+          "author": "Bartu bozkurt",
+          "description": "1) Uninitialized storage pointers",
+          "link": "https://coinsbench.com/smart-contract-vulnerabilities-3-401a05e94078?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-10T11:19:25.000Z",
+          "wordCount": 2502,
+          "title": "Smart Contract Vulnerabilities 3",
+          "imageUrl": "https://miro.medium.com/max/600/1*9LDHWWAMPo5lb2k6VqFlwg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/5cf820e7e8a6",
+          "author": "Ibrahim Aziz",
+          "description": "For our week2 Challenge, we were to build an ERC20 token that has a 5% transaction tax (More on the challenge here)",
+          "link": "https://coinsbench.com/modifying-openzeppelins-erc20-smart-contract-5cf820e7e8a6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-10T11:19:09.000Z",
+          "wordCount": 1721,
+          "title": "Modifying Openzeppelin’s ERC20 smart contract",
+          "imageUrl": "https://miro.medium.com/max/700/1*hIFkaoylyII66P34wurOMQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/a224fd2f5769",
+          "author": "Darlington Gospel",
+          "description": "Upon completion of this tutorial, you will have gained a deeper understanding of how to programmatically transmit Ethers and…",
+          "link": "https://coinsbench.com/how-to-send-ethers-programmatically-without-metamask-a224fd2f5769?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-10T11:19:02.000Z",
+          "wordCount": 2943,
+          "title": "How to Send Ethers Programmatically without Metamask",
+          "imageUrl": "https://miro.medium.com/max/1200/0*qsUkurX5rWrUCAqm.png"
+        },
+        {
+          "id": "https://medium.com/p/bc5aa046b67",
+          "author": "Jessie Mongeon",
+          "description": "This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…",
+          "link": "https://coinsbench.com/gun-create-a-decentralized-chat-app-with-gun-and-ipfs-bc5aa046b67?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-10T11:18:53.000Z",
+          "wordCount": 1777,
+          "title": "GUN: Create a Decentralized Chat App with GUN and IPFS",
+          "imageUrl": "https://miro.medium.com/max/1200/0*5ojvSJNBf9IXUvhU"
+        },
+        {
+          "id": "https://medium.com/p/996d810b856e",
+          "author": "Amalia",
+          "description": "How to create a contract from a contract with new.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-23-new-996d810b856e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-10T11:18:46.000Z",
+          "wordCount": 1961,
+          "title": "Solidity #23 . new",
+          "imageUrl": "https://miro.medium.com/max/1200/1*CEMSwuuflSkaKUtOR4fL7g.jpeg"
+        },
+        {
           "id": "https://medium.com/p/16da3a2549",
           "author": "Srinivas Joshi",
           "description": "The ability of Ethereum smart contracts to use and call code from other external contracts is one of their features. The contracts must…",
@@ -87,86 +167,6 @@
           "wordCount": 1533,
           "title": "Ethernaut level 1 — Fallback",
           "imageUrl": "https://miro.medium.com/max/1200/1*1FVJpLYYpIjrw8R3mHWAEg.png"
-        },
-        {
-          "id": "https://medium.com/p/3c96044c1007",
-          "author": "Oluchukwu Okpala",
-          "description": "Introduction to Decentralized Autonomous Organizations(DAOs)",
-          "link": "https://coinsbench.com/decentralized-autonomous-organizations-daos-3c96044c1007?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-09T13:13:32.000Z",
-          "wordCount": 2408,
-          "title": "Decentralized Autonomous Organizations (DAOs)",
-          "imageUrl": "https://miro.medium.com/max/1200/0*98ONlwmVIW2Pj-4h"
-        },
-        {
-          "id": "https://medium.com/p/a6c5c7bac7d",
-          "author": "Dibakar Sutra Dhar",
-          "description": "Exploiting the Fallout contract from Ethernaut CTF",
-          "link": "https://coinsbench.com/antisec-ethernaut-fal1out-a6c5c7bac7d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-09T13:13:30.000Z",
-          "wordCount": 2314,
-          "title": "AntiSec — Ethernaut FAL1OUT",
-          "imageUrl": "https://miro.medium.com/max/1200/1*WSGuSqM5eEWH27V7i3jkrw.png"
-        },
-        {
-          "id": "https://medium.com/p/d35e2a81d421",
-          "author": "futuremomentumArt",
-          "description": "Introduction\nOpenSea is one of the leading platforms for NFTs. The disadvantage, however, is that all NFTS that are created directly on…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/ipfs-or-arweave-d35e2a81d421?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-09T13:13:28.000Z",
-          "wordCount": 2299,
-          "title": "IPFS or Arweave?",
-          "imageUrl": "https://miro.medium.com/max/1200/1*kVLnH5rK7xjK2gKlEvo92w.png"
-        },
-        {
-          "id": "https://medium.com/p/c22cba5960cb",
-          "author": "Dibakar Sutra Dhar",
-          "description": "Ethernaut Fallback CTF hack",
-          "link": "https://coinsbench.com/antisec-ethernaut-fallback-c22cba5960cb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-08T14:50:34.000Z",
-          "wordCount": 2589,
-          "title": "AntiSec — Ethernaut Fallback",
-          "imageUrl": "https://miro.medium.com/max/1200/1*qAIG-65THAvbnaTS8Mc0NQ.png"
-        },
-        {
-          "id": "https://medium.com/p/8a0e60cc8f3",
-          "author": "Ibrahim Aziz",
-          "description": "For this week’s challenge, we will be changing the structure a little bit. I will post the challenge here, as usual, then over the week…",
-          "link": "https://coinsbench.com/web3-talents-week2-modified-erc20-token-8a0e60cc8f3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-08T14:50:27.000Z",
-          "wordCount": 1428,
-          "title": "Web3 Talents Weekly Challenges: Week2",
-          "imageUrl": "https://miro.medium.com/max/651/1*KHusr1A9mT2Kit-0eyAZ5w.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3832c184bbe2",
-          "author": "Kaankacar",
-          "description": "In the first two parts of this blog post, we introduced Ethers.js and showed you how to get started witn this part, we’ll…",
-          "link": "https://coinsbench.com/ethers-js-the-good-the-bad-and-the-ugly-part-iii-the-end-3832c184bbe2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-08T14:49:39.000Z",
-          "wordCount": 1417,
-          "title": "Ethers.js: The Good, The Bad, and The Ugly(Part III: The End)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4f3b7c437dd6",
-          "author": "Web3 Eye",
-          "description": "We finished the MVP of Peggy dApp in Space Warp. Now the contract is able to custody miners. And the dApp can interact with the contract…",
-          "link": "https://coinsbench.com/fvm-fil-peggys-current-progress-4f3b7c437dd6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-08T14:49:37.000Z",
-          "wordCount": 2255,
-          "title": "FVM — FIL Peggy’s current progress",
-          "imageUrl": "https://miro.medium.com/max/554/1*QyV0308DAkz1zYvmTwq_fA.png"
-        },
-        {
-          "id": "https://medium.com/p/a4e3abfd1e2f",
-          "author": "Nils Giebing",
-          "description": "Introduction:\nThe use of artificial intelligence (AI) in cybersecurity has expanded quickly in recent years, making it simpler for hackers…",
-          "link": "https://coinsbench.com/case-study-using-blockchain-to-secure-data-against-ai-powered-attacks-a4e3abfd1e2f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-08T14:49:33.000Z",
-          "wordCount": 1648,
-          "title": "Case Study: Using Blockchain to Secure Data Against AI-Powered Attacks",
-          "imageUrl": "https://miro.medium.com/max/1200/1*00cjweUJqSs99iCju6TZHw.jpeg"
         }
       ]
     },
@@ -175,6 +175,16 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/afb95215b52a",
+          "author": "EQ Lab",
+          "description": "If you have coded on Solidity, you do know that, contrary to its commonly-praised simplicity, this language has many inherent…",
+          "link": "https://medium.com/coinmonks/solidity-source-mapping-afb95215b52a?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-10T11:32:50.000Z",
+          "wordCount": 1529,
+          "title": "Solidity Source Mapping",
+          "imageUrl": "https://miro.medium.com/max/1200/1*TxYO7pPVznp_f8ZQBgWcLg.png"
+        },
         {
           "id": "https://medium.com/p/232004a425e8",
           "author": "Paul C.",
@@ -201,7 +211,7 @@
           "description": "Make Data-Driven Decisions for your dApp with Streamlined Analytics",
           "link": "https://medium.com/coinmonks/simplifying-analytics-for-your-dapp-2f708dd94ae6?source=rss----721b17443fd5---4",
           "publishedOn": "2023-02-10T11:06:51.000Z",
-          "wordCount": 2766,
+          "wordCount": 2944,
           "title": "Simplifying Analytics for your dApp",
           "imageUrl": "https://miro.medium.com/max/1200/0*-jAWf9lpM9K_8PPh"
         },
@@ -264,16 +274,6 @@
           "wordCount": 2467,
           "title": "Metaverse Fusionist mainnet is online, how to get ACE tokens for free?",
           "imageUrl": "https://miro.medium.com/max/360/1*edjTiBVLyLO0NRV-GFZ1lA.png"
-        },
-        {
-          "id": "https://medium.com/p/ed03f669f5e1",
-          "author": "William Hill",
-          "description": "The world of Non-Fungible Tokens (NFTs) is growing at an incredible pace, and with it, the demand for NFT development services. NFT…",
-          "link": "https://medium.com/coinmonks/nft-development-studios-a-guide-to-navigating-the-nft-landscape-ed03f669f5e1?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-10T09:43:17.000Z",
-          "wordCount": 2014,
-          "title": "NFT Development Studios: A Guide to Navigating the NFT Landscape",
-          "imageUrl": "https://miro.medium.com/max/1200/1*Rm9psT3SontrnmSfMujJKg.jpeg"
         }
       ]
     },
