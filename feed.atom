@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T12:26:22.177Z</id>
+    <id>urn:2023-02-13T13:22:04.643Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-13T12:26:22.177Z</updated>
+    <updated>2023-02-13T13:22:04.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hosting a Form on IPFS]]></title>
+        <id>https://medium.com/p/1d1f7b6eb1e7</id>
+        <link href="https://coinsbench.com/hosting-a-form-on-ipfs-1d1f7b6eb1e7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-13T12:38:20.000Z</updated>
+        <summary type="html"><![CDATA[This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…]]></summary>
+        <author>
+            <name>Jessie Mongeon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ganache: Create a dApp Hosted on IPFS]]></title>
+        <id>https://medium.com/p/e66edc8ef19c</id>
+        <link href="https://coinsbench.com/ganache-create-a-dapp-hosted-on-ipfs-e66edc8ef19c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-13T12:37:40.000Z</updated>
+        <summary type="html"><![CDATA[This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…]]></summary>
+        <author>
+            <name>Jessie Mongeon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modified ERC20 Part 2: Completing the Weekly Challenge]]></title>
+        <id>https://medium.com/p/51ca22060e3</id>
+        <link href="https://coinsbench.com/modified-erc20-part-2-completing-the-weekly-challenge-51ca22060e3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-13T12:37:38.000Z</updated>
+        <summary type="html"><![CDATA[This is the second part of how to solve the Web3 Talent’s Weekly Challenge: Week 2.]]></summary>
+        <author>
+            <name>Ibrahim Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Swap and Add Liquidity on Starknet]]></title>
+        <id>https://medium.com/p/2c5eb05ea92c</id>
+        <link href="https://coinsbench.com/how-to-swap-and-add-liquidity-on-starknet-2c5eb05ea92c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-13T12:37:37.000Z</updated>
+        <summary type="html"><![CDATA[Hi, dear community, here i want to tell you about the main hope of this bear market — STTTTTTTTARKNEEEET. Here I want to show how to…]]></summary>
+        <author>
+            <name>Nazarlvr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Talents Weekly Challenges: Week 3]]></title>
+        <id>https://medium.com/p/6617405d46ae</id>
+        <link href="https://coinsbench.com/web3-talents-weekly-challenges-week-3-6617405d46ae?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-13T12:37:35.000Z</updated>
+        <summary type="html"><![CDATA[On last week’s challenge, we built an ERC20 token with 5% tax on transfers (and a couple more requirements, check out the week2 article for the full challenge) The Week 2 Challenge was exciting 🤩…]]></summary>
+        <author>
+            <name>Ibrahim Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5# Let’s learn Solidity ~ State variables]]></title>
+        <id>https://medium.com/p/991ffd972b5</id>
+        <link href="https://coinsbench.com/5-lets-learn-solidity-state-variables-991ffd972b5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-13T12:37:32.000Z</updated>
+        <summary type="html"><![CDATA[State variables in Solidity are variables that store data within a smart contract. They are used to keep track of important information…]]></summary>
+        <author>
+            <name>ismail</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Getting Started with Bitcoin Mining: A Beginner’s Guide”]]></title>
+        <id>https://medium.com/p/cd45cb9c5130</id>
+        <link href="https://coinsbench.com/getting-started-with-bitcoin-mining-a-beginners-guide-cd45cb9c5130?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-13T12:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Chapter 1: Introduction to Bitcoin Mining
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>The Tech Cat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AntiSec — Ethernaut Telephone]]></title>
         <id>https://medium.com/p/3585786813d6</id>
@@ -183,77 +254,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Organizations across a range of industries now place a high importance on blockchain security as the use of blockchain technology grows…]]></summary>
         <author>
             <name>Nils Giebing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract Vulnerabilities 3]]></title>
-        <id>https://medium.com/p/401a05e94078</id>
-        <link href="https://coinsbench.com/smart-contract-vulnerabilities-3-401a05e94078?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-10T11:19:25.000Z</updated>
-        <summary type="html"><![CDATA[1) Uninitialized storage pointers]]></summary>
-        <author>
-            <name>Bartu bozkurt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modifying Openzeppelin’s ERC20 smart contract]]></title>
-        <id>https://medium.com/p/5cf820e7e8a6</id>
-        <link href="https://coinsbench.com/modifying-openzeppelins-erc20-smart-contract-5cf820e7e8a6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-10T11:19:09.000Z</updated>
-        <summary type="html"><![CDATA[For our week2 Challenge, we were to build an ERC20 token that has a 5% transaction tax (More on the challenge here)]]></summary>
-        <author>
-            <name>Ibrahim Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send Ethers Programmatically without Metamask]]></title>
-        <id>https://medium.com/p/a224fd2f5769</id>
-        <link href="https://coinsbench.com/how-to-send-ethers-programmatically-without-metamask-a224fd2f5769?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-10T11:19:02.000Z</updated>
-        <summary type="html"><![CDATA[Upon completion of this tutorial, you will have gained a deeper understanding of how to programmatically transmit Ethers and…]]></summary>
-        <author>
-            <name>Darlington Gospel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUN: Create a Decentralized Chat App with GUN and IPFS]]></title>
-        <id>https://medium.com/p/bc5aa046b67</id>
-        <link href="https://coinsbench.com/gun-create-a-decentralized-chat-app-with-gun-and-ipfs-bc5aa046b67?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-10T11:18:53.000Z</updated>
-        <summary type="html"><![CDATA[This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…]]></summary>
-        <author>
-            <name>Jessie Mongeon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity #23 . new]]></title>
-        <id>https://medium.com/p/996d810b856e</id>
-        <link href="https://coinsbench.com/solidity-23-new-996d810b856e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-10T11:18:46.000Z</updated>
-        <summary type="html"><![CDATA[How to create a contract from a contract with new.
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Amalia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reentrancy attacks and how to deal with them]]></title>
-        <id>https://medium.com/p/16da3a2549</id>
-        <link href="https://coinsbench.com/reentrancy-attacks-and-how-to-deal-with-them-16da3a2549?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-09T13:13:36.000Z</updated>
-        <summary type="html"><![CDATA[The ability of Ethereum smart contracts to use and call code from other external contracts is one of their features. The contracts must…]]></summary>
-        <author>
-            <name>Srinivas Joshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethernaut level 1 — Fallback]]></title>
-        <id>https://medium.com/p/f64c70a90d0</id>
-        <link href="https://coinsbench.com/ethernaut-level-1-fallback-f64c70a90d0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-09T13:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Ethernaut is a Web3/Solidity based wargame inspired by overthewire, to be played in the Ethereum Virtual Machine.]]></summary>
-        <author>
-            <name>Shahaneri</name>
         </author>
     </entry>
     <entry>

@@ -79,6 +79,76 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1d1f7b6eb1e7",
+          "author": "Jessie Mongeon",
+          "description": "This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…",
+          "link": "https://coinsbench.com/hosting-a-form-on-ipfs-1d1f7b6eb1e7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-13T12:38:20.000Z",
+          "wordCount": 2386,
+          "title": "Hosting a Form on IPFS",
+          "imageUrl": "https://miro.medium.com/max/1200/0*5bZUeFJFYTKekD5r"
+        },
+        {
+          "id": "https://medium.com/p/e66edc8ef19c",
+          "author": "Jessie Mongeon",
+          "description": "This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…",
+          "link": "https://coinsbench.com/ganache-create-a-dapp-hosted-on-ipfs-e66edc8ef19c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-13T12:37:40.000Z",
+          "wordCount": 1801,
+          "title": "Ganache: Create a dApp Hosted on IPFS",
+          "imageUrl": "https://miro.medium.com/max/1200/0*1PysXoytxPDXCwBK"
+        },
+        {
+          "id": "https://medium.com/p/51ca22060e3",
+          "author": "Ibrahim Aziz",
+          "description": "This is the second part of how to solve the Web3 Talent’s Weekly Challenge: Week 2.",
+          "link": "https://coinsbench.com/modified-erc20-part-2-completing-the-weekly-challenge-51ca22060e3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-13T12:37:38.000Z",
+          "wordCount": 1807,
+          "title": "Modified ERC20 Part 2: Completing the Weekly Challenge",
+          "imageUrl": "https://miro.medium.com/max/1200/1*BSWG-ic8QRLCnugjiyNznQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/2c5eb05ea92c",
+          "author": "Nazarlvr",
+          "description": "Hi, dear community, here i want to tell you about the main hope of this bear market — STTTTTTTTARKNEEEET. Here I want to show how to…",
+          "link": "https://coinsbench.com/how-to-swap-and-add-liquidity-on-starknet-2c5eb05ea92c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-13T12:37:37.000Z",
+          "wordCount": 1999,
+          "title": "How to Swap and Add Liquidity on Starknet",
+          "imageUrl": "https://miro.medium.com/max/475/1*_2GhnUQSAlibxIIfMeEgaQ.png"
+        },
+        {
+          "id": "https://medium.com/p/6617405d46ae",
+          "author": "Ibrahim Aziz",
+          "description": "On last week’s challenge, we built an ERC20 token with 5% tax on transfers (and a couple more requirements, check out the week2 article for the full challenge) The Week 2 Challenge was exciting 🤩…",
+          "link": "https://coinsbench.com/web3-talents-weekly-challenges-week-3-6617405d46ae?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-13T12:37:35.000Z",
+          "wordCount": 1682,
+          "title": "Web3 Talents Weekly Challenges: Week 3",
+          "imageUrl": "https://miro.medium.com/max/500/1*WNYIRSZXqFFV1kF2HZlDTg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/991ffd972b5",
+          "author": "ismail",
+          "description": "State variables in Solidity are variables that store data within a smart contract. They are used to keep track of important information…",
+          "link": "https://coinsbench.com/5-lets-learn-solidity-state-variables-991ffd972b5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-13T12:37:32.000Z",
+          "wordCount": 2222,
+          "title": "5# Let’s learn Solidity ~ State variables",
+          "imageUrl": "https://miro.medium.com/max/1200/1*E9A7A82g2msvHK_PtfptBA.png"
+        },
+        {
+          "id": "https://medium.com/p/cd45cb9c5130",
+          "author": "The Tech Cat",
+          "description": "Chapter 1: Introduction to Bitcoin Mining\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/getting-started-with-bitcoin-mining-a-beginners-guide-cd45cb9c5130?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-13T12:37:30.000Z",
+          "wordCount": 5847,
+          "title": "“Getting Started with Bitcoin Mining: A Beginner’s Guide”",
+          "imageUrl": "https://miro.medium.com/max/696/0*chboLWfDZTqUdvD8.jpg"
+        },
+        {
           "id": "https://medium.com/p/2cb28e1f5d07",
           "author": "Dibakar Sutra Dhar",
           "description": "Exploiting the randomness of CoinFlip contract from Ethernaut CTF",
@@ -107,76 +177,6 @@
           "wordCount": 1683,
           "title": "Unlocking the Full Potential of Blockchain with Secure Web3 Websites, API Queries, and Smart…",
           "imageUrl": "https://miro.medium.com/max/1200/1*UYRYlqYt-HIe6RdRKU4BlQ.png"
-        },
-        {
-          "id": "https://medium.com/p/401a05e94078",
-          "author": "Bartu bozkurt",
-          "description": "1) Uninitialized storage pointers",
-          "link": "https://coinsbench.com/smart-contract-vulnerabilities-3-401a05e94078?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-10T11:19:25.000Z",
-          "wordCount": 2502,
-          "title": "Smart Contract Vulnerabilities 3",
-          "imageUrl": "https://miro.medium.com/max/600/1*9LDHWWAMPo5lb2k6VqFlwg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/5cf820e7e8a6",
-          "author": "Ibrahim Aziz",
-          "description": "For our week2 Challenge, we were to build an ERC20 token that has a 5% transaction tax (More on the challenge here)",
-          "link": "https://coinsbench.com/modifying-openzeppelins-erc20-smart-contract-5cf820e7e8a6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-10T11:19:09.000Z",
-          "wordCount": 1721,
-          "title": "Modifying Openzeppelin’s ERC20 smart contract",
-          "imageUrl": "https://miro.medium.com/max/700/1*hIFkaoylyII66P34wurOMQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/a224fd2f5769",
-          "author": "Darlington Gospel",
-          "description": "Upon completion of this tutorial, you will have gained a deeper understanding of how to programmatically transmit Ethers and…",
-          "link": "https://coinsbench.com/how-to-send-ethers-programmatically-without-metamask-a224fd2f5769?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-10T11:19:02.000Z",
-          "wordCount": 2943,
-          "title": "How to Send Ethers Programmatically without Metamask",
-          "imageUrl": "https://miro.medium.com/max/1200/0*qsUkurX5rWrUCAqm.png"
-        },
-        {
-          "id": "https://medium.com/p/bc5aa046b67",
-          "author": "Jessie Mongeon",
-          "description": "This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…",
-          "link": "https://coinsbench.com/gun-create-a-decentralized-chat-app-with-gun-and-ipfs-bc5aa046b67?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-10T11:18:53.000Z",
-          "wordCount": 1777,
-          "title": "GUN: Create a Decentralized Chat App with GUN and IPFS",
-          "imageUrl": "https://miro.medium.com/max/1200/0*5ojvSJNBf9IXUvhU"
-        },
-        {
-          "id": "https://medium.com/p/996d810b856e",
-          "author": "Amalia",
-          "description": "How to create a contract from a contract with new.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-23-new-996d810b856e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-10T11:18:46.000Z",
-          "wordCount": 1963,
-          "title": "Solidity #23 . new",
-          "imageUrl": "https://miro.medium.com/max/1200/1*CEMSwuuflSkaKUtOR4fL7g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/16da3a2549",
-          "author": "Srinivas Joshi",
-          "description": "The ability of Ethereum smart contracts to use and call code from other external contracts is one of their features. The contracts must…",
-          "link": "https://coinsbench.com/reentrancy-attacks-and-how-to-deal-with-them-16da3a2549?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-09T13:13:36.000Z",
-          "wordCount": 2836,
-          "title": "Reentrancy attacks and how to deal with them",
-          "imageUrl": "https://miro.medium.com/max/850/1*LXjmn6JEHxoXuSdvHZw7Uw.png"
-        },
-        {
-          "id": "https://medium.com/p/f64c70a90d0",
-          "author": "Shahaneri",
-          "description": "Ethernaut is a Web3/Solidity based wargame inspired by overthewire, to be played in the Ethereum Virtual Machine.",
-          "link": "https://coinsbench.com/ethernaut-level-1-fallback-f64c70a90d0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-09T13:13:33.000Z",
-          "wordCount": 1533,
-          "title": "Ethernaut level 1 — Fallback",
-          "imageUrl": "https://miro.medium.com/max/1200/1*1FVJpLYYpIjrw8R3mHWAEg.png"
         }
       ]
     },
