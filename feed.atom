@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T11:11:27.508Z</id>
+    <id>urn:2023-02-13T12:26:22.177Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-13T11:11:27.508Z</updated>
+    <updated>2023-02-13T12:26:22.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AntiSec — Ethernaut Telephone]]></title>
+        <id>https://medium.com/p/3585786813d6</id>
+        <link href="https://blog.blockmagnates.com/antisec-ethernaut-telephone-3585786813d6?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-02-13T11:51:30.000Z</updated>
+        <summary type="html"><![CDATA[Exploiting tx.origin of the Telephone contract]]></summary>
+        <author>
+            <name>Dibakar Sutra Dhar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modules in Solidity]]></title>
         <id>https://cryptomarketpool.com/?p=21461</id>
