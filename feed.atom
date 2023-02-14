@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T17:12:41.873Z</id>
+    <id>urn:2023-02-14T18:16:40.520Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-14T17:12:41.873Z</updated>
+    <updated>2023-02-14T18:16:40.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity vs Vyper]]></title>
+        <id>https://medium.com/p/af174e4d8d5e</id>
+        <link href="https://blog.blockmagnates.com/solidity-vs-vyper-af174e4d8d5e?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-02-14T17:26:28.000Z</updated>
+        <summary type="html"><![CDATA[Overview]]></summary>
+        <author>
+            <name>Arpan Mondal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity #24 . create2]]></title>
+        <id>https://medium.com/p/77045e4d64c7</id>
+        <link href="https://coinsbench.com/solidity-24-create2-77045e4d64c7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-14T17:24:31.000Z</updated>
+        <summary type="html"><![CDATA[How to create a contract from a contract and pre-compute its address.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Amalia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Depths of Ethereum Contract Interaction with Web3.js: A Guide for Advanced Developers]]></title>
+        <id>https://medium.com/p/5a0627a3f227</id>
+        <link href="https://coinsbench.com/exploring-the-depths-of-ethereum-contract-interaction-with-web3-js-a-guide-for-advanced-developers-5a0627a3f227?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-14T17:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Previously, I published this post…]]></summary>
+        <author>
+            <name>Kaankacar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vault — smart contract hacking — ethernaut]]></title>
+        <id>https://medium.com/p/16d36a1636a4</id>
+        <link href="https://coinsbench.com/vault-smart-contract-hacking-ethernaut-16d36a1636a4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-14T17:24:10.000Z</updated>
+        <summary type="html"><![CDATA[code]]></summary>
+        <author>
+            <name>natnat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT Weekly Market Update (Feb 7th — Oct 13th) | CoinCodeCap’s Weekly]]></title>
         <id>https://medium.com/p/c0df69accc91</id>
@@ -229,36 +270,6 @@ Luke's Twitter: https://twitter.com/lukemwillis
 https://www.youtube.com/watch?v=W57aBqRheiU]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AntiSec — Ethernaut CoinFlip]]></title>
-        <id>https://medium.com/p/2cb28e1f5d07</id>
-        <link href="https://coinsbench.com/antisec-ethernaut-coinflip-2cb28e1f5d07?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-10T11:19:50.000Z</updated>
-        <summary type="html"><![CDATA[Exploiting the randomness of CoinFlip contract from Ethernaut CTF]]></summary>
-        <author>
-            <name>Dibakar Sutra Dhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Started with Ethers.js: Code Examples and Explanations(Part II:Coding)]]></title>
-        <id>https://medium.com/p/657b0e88279b</id>
-        <link href="https://coinsbench.com/get-started-with-ethers-js-code-examples-and-explanations-part-ii-coding-657b0e88279b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-10T11:19:42.000Z</updated>
-        <summary type="html"><![CDATA[In the first part of this blog post, we introduced Ethers.js and its comprehensive set of features for working with the Ethereum…]]></summary>
-        <author>
-            <name>Kaankacar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking the Full Potential of Blockchain with Secure Web3 Websites, API Queries, and Smart…]]></title>
-        <id>https://medium.com/p/e8f29cebc650</id>
-        <link href="https://coinsbench.com/unlocking-the-full-potential-of-blockchain-with-secure-web3-websites-api-queries-and-smart-e8f29cebc650?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-10T11:19:34.000Z</updated>
-        <summary type="html"><![CDATA[Organizations across a range of industries now place a high importance on blockchain security as the use of blockchain technology grows…]]></summary>
-        <author>
-            <name>Nils Giebing</name>
         </author>
     </entry>
     <entry>
