@@ -79,6 +79,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/58ff4b14a507",
+          "author": "Javier Calderon",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/build-a-crypto-ai-trading-bot-with-chatgpt-58ff4b14a507?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-16T11:54:43.000Z",
+          "wordCount": 4490,
+          "title": "Build a Crypto AI Trading Bot with ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b2392042d1c9",
+          "author": "Aitor Zaldua",
+          "description": "When it comes to getting started in smart contract programming, there are plenty of resources online. Almost everyone in the ecosystem has…",
+          "link": "https://coinsbench.com/what-next-after-learning-solidity-basics-try-secureum-b2392042d1c9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-16T11:54:30.000Z",
+          "wordCount": 2740,
+          "title": "What next after learning Solidity Basics? Try Secureum.",
+          "imageUrl": "https://miro.medium.com/max/776/1*M2mTNKp3DwRV4tNvJhAiVw.png"
+        },
+        {
+          "id": "https://medium.com/p/460b457520b2",
+          "author": "Maxwell Onyeka",
+          "description": "Decentralized Applications: What They Are and How They’re Different",
+          "link": "https://coinsbench.com/overview-of-decentralized-applications-dapps-and-the-web3-ecosystem-460b457520b2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-16T11:54:14.000Z",
+          "wordCount": 4302,
+          "title": "Overview of decentralized applications (dapps) and the Web3 ecosystem.",
+          "imageUrl": "https://miro.medium.com/max/1200/0*Uy9aNU2gHy-xnADJ"
+        },
+        {
+          "id": "https://medium.com/p/e75cb8733fcc",
+          "author": "Nazarlvr",
+          "description": "Hi, recently i wrote about How to Swap and Add Liquidity on Starknet, you can read it here. It’s nice guide, because there i show how to…",
+          "link": "https://coinsbench.com/deploying-a-smart-contract-on-starknet-coding-guide-e75cb8733fcc?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-16T11:54:03.000Z",
+          "wordCount": 2926,
+          "title": "Deploying a smart contract on StarkNet(Coding Guide)",
+          "imageUrl": "https://miro.medium.com/max/1200/1*LJn8PEAxqOmjzDFwoskg1w.png"
+        },
+        {
+          "id": "https://medium.com/p/df984e90015c",
+          "author": "Dibakar Sutra Dhar",
+          "description": "Force Feeding Smart Contract using Selfdestruct()",
+          "link": "https://coinsbench.com/antisec-ethernaut-force-df984e90015c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-16T11:53:52.000Z",
+          "wordCount": 2158,
+          "title": "AntiSec — Ethernaut Force",
+          "imageUrl": "https://miro.medium.com/max/1200/1*abVo1VpuTcbsi_X1a1h1Qw.png"
+        },
+        {
           "id": "https://medium.com/p/f22b6eb8d2e4",
           "author": "Beach Crypto",
           "description": "ExampleUniversalONFT721.sol",
@@ -127,56 +177,6 @@
           "wordCount": 2501,
           "title": "Solidity #25 . keccak256()",
           "imageUrl": "https://miro.medium.com/max/1200/0*dxQnvj7t_POdZ7Qi"
-        },
-        {
-          "id": "https://medium.com/p/77045e4d64c7",
-          "author": "Amalia",
-          "description": "How to create a contract from a contract and pre-compute its address.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-24-create2-77045e4d64c7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-14T17:24:31.000Z",
-          "wordCount": 2458,
-          "title": "Solidity #24 . create2",
-          "imageUrl": "https://miro.medium.com/max/1200/1*kwQ1ETyqoVmA-VGeSXnzJA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/5a0627a3f227",
-          "author": "Kaankacar",
-          "description": "Previously, I published this post…",
-          "link": "https://coinsbench.com/exploring-the-depths-of-ethereum-contract-interaction-with-web3-js-a-guide-for-advanced-developers-5a0627a3f227?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-14T17:24:26.000Z",
-          "wordCount": 1718,
-          "title": "Exploring the Depths of Ethereum Contract Interaction with Web3.js: A Guide for Advanced Developers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/16d36a1636a4",
-          "author": "natnat",
-          "description": "code",
-          "link": "https://coinsbench.com/vault-smart-contract-hacking-ethernaut-16d36a1636a4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-14T17:24:10.000Z",
-          "wordCount": 1447,
-          "title": "Vault — smart contract hacking — ethernaut",
-          "imageUrl": "https://miro.medium.com/max/1200/1*RoeMCw5TAqJKZfWOp1TcBQ.png"
-        },
-        {
-          "id": "https://medium.com/p/1d1f7b6eb1e7",
-          "author": "Jessie Mongeon",
-          "description": "This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…",
-          "link": "https://coinsbench.com/hosting-a-form-on-ipfs-1d1f7b6eb1e7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-13T12:38:20.000Z",
-          "wordCount": 2381,
-          "title": "Hosting a Form on IPFS",
-          "imageUrl": "https://miro.medium.com/max/1200/0*5bZUeFJFYTKekD5r"
-        },
-        {
-          "id": "https://medium.com/p/e66edc8ef19c",
-          "author": "Jessie Mongeon",
-          "description": "This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…",
-          "link": "https://coinsbench.com/ganache-create-a-dapp-hosted-on-ipfs-e66edc8ef19c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-13T12:37:40.000Z",
-          "wordCount": 1797,
-          "title": "Ganache: Create a dApp Hosted on IPFS",
-          "imageUrl": "https://miro.medium.com/max/1200/0*1PysXoytxPDXCwBK"
         }
       ]
     },
@@ -185,6 +185,46 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/efe1403b6e34",
+          "author": "MetaLamp",
+          "description": "Cryptocurrency is a promising and rapidly developing field that should not be overlooked, unless you live in a cave. By November 2022, more…",
+          "link": "https://medium.com/coinmonks/la-migliore-offerta-how-cryptocurrency-use-improves-business-and-the-economy-efe1403b6e34?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-16T12:16:23.000Z",
+          "wordCount": 4992,
+          "title": "La migliore offerta: How cryptocurrency use improves business and the economy",
+          "imageUrl": "https://miro.medium.com/max/1200/1*o0dPAqYpWNRG7yvQnI4uPg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/e301c8b27514",
+          "author": "Coin On Wheel",
+          "description": "We’ll examine news about Binance and whether it’s still trustworthy, including a dip in its stablecoin, BUSD. We’ll review a tweet from Cz…",
+          "link": "https://medium.com/coinmonks/binances-busd-fatal-news-should-you-worry-sec-vs-crypto-e301c8b27514?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-16T12:16:16.000Z",
+          "wordCount": 4530,
+          "title": "Binance’s BUSD FATAL NEWS! Should You Worry? (SEC vs Crypto)",
+          "imageUrl": "https://miro.medium.com/max/320/0*F6vJCVI4YlodAHpx.jpg"
+        },
+        {
+          "id": "https://medium.com/p/7252965f997d",
+          "author": "Cathrine Williams",
+          "description": "Binance Smart Contract Development is creating, testing, and deploying smart contracts on the Binance Smart Chain (BSC) blockchain…",
+          "link": "https://medium.com/coinmonks/binance-smart-contract-development-a-step-by-step-guide-7252965f997d?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-16T12:16:09.000Z",
+          "wordCount": 4824,
+          "title": "Binance Smart Contract Development — A Step by Step Guide",
+          "imageUrl": "https://miro.medium.com/max/626/1*SC1bkC0x6_59SoI1hRsmxA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/b338fe94f527",
+          "author": "God of Knowledge✔️",
+          "description": "Siemens, the third-largest publicly traded company in the world, has issued its first digital bond on the Polygon blockchain, signaling a…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/siemens-partners-with-polygon-to-issue-60m-digital-bond-on-blockchain-b338fe94f527?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-16T12:15:55.000Z",
+          "wordCount": 1046,
+          "title": "Siemens Partners with Polygon to Issue €60M Digital Bond on Blockchain",
+          "imageUrl": "https://miro.medium.com/max/1200/1*PbIGpRi4ZZS9k8XR8Xeb2A.jpeg"
+        },
         {
           "id": "https://medium.com/p/68b047a729da",
           "author": "Cathrine Williams",
@@ -244,46 +284,6 @@
           "wordCount": 1010,
           "title": "Ethereum (ETH) Price Prediction 2023–2025, update 15th of February",
           "imageUrl": "https://miro.medium.com/max/1200/1*3WyANeQnbbXqI_eXnxxsZA.png"
-        },
-        {
-          "id": "https://medium.com/p/8ec1f0cd5ac8",
-          "author": "Vremaroiu Alin",
-          "description": "Shiba Inu (SHIB)\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/best-3-cryptocurrencies-that-cannot-miss-from-your-portfolio-in-february-2023-8ec1f0cd5ac8?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-16T09:15:49.000Z",
-          "wordCount": 1028,
-          "title": "Best 3 Cryptocurrencies that cannot miss from your portfolio in February 2023",
-          "imageUrl": "https://miro.medium.com/max/1200/1*GfQibSblEUnzhBLvLPrKnA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/29b51958ea78",
-          "author": "Vremaroiu Alin",
-          "description": "Coca-Cola (KO)\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/top-3-stocks-to-buy-today-15th-of-february-29b51958ea78?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-16T09:15:41.000Z",
-          "wordCount": 1071,
-          "title": "Top 3 Stocks to Buy today , 15th of February",
-          "imageUrl": "https://miro.medium.com/max/1200/1*PFfhMeZADI6_P-5-5PKrwA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e519cb56f076",
-          "author": "The Wolf of Wallet Street",
-          "description": "This post is a continuation of the Bear Market Master Plan series. If you haven’t already, please read the intro post first.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/how-to-actually-take-advantage-of-the-bear-market-part-2-the-4-coins-that-make-the-most-sense-e519cb56f076?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-16T09:15:32.000Z",
-          "wordCount": 1119,
-          "title": "How to ACTUALLY take advantage of the bear market Part 2: The 4 coins that make the most sense",
-          "imageUrl": "https://miro.medium.com/max/967/1*YzcdteUWQmTFSRDhpr9pyQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/565032164349",
-          "author": "qryptography",
-          "description": "Every single day billions of dollars worth of cryptocurrencies are being bought and sold worldwide. The buying and selling of…",
-          "link": "https://medium.com/coinmonks/how-to-buy-and-sell-cryptocurrencies-all-to-know-565032164349?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-16T09:15:23.000Z",
-          "wordCount": 2824,
-          "title": "How to Buy and Sell Cryptocurrencies: All to Know",
-          "imageUrl": "https://miro.medium.com/max/768/1*vwF6glt5UYvg5__5rBWMvg.jpeg"
         }
       ]
     },
@@ -292,6 +292,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/c93d762a8d37",
+          "author": "Dibakar Sutra Dhar",
+          "description": "Performing Overflows on the Solidity Unsigned Integers",
+          "link": "https://blog.blockmagnates.com/antisec-ethernaut-token-c93d762a8d37?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-02-16T11:56:16.000Z",
+          "wordCount": 2157,
+          "title": "AntiSec — Ethernaut Token",
+          "imageUrl": "https://miro.medium.com/max/1200/1*GiyTpyqASzGwIdR0LPXPaw.png"
+        },
         {
           "id": "https://medium.com/p/af174e4d8d5e",
           "author": "Arpan Mondal",
