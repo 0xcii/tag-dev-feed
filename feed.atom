@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T14:12:03.758Z</id>
+    <id>urn:2023-02-17T15:13:33.870Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-17T14:12:03.758Z</updated>
+    <updated>2023-02-17T15:13:33.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Structs: The Key to Managing Multisig Wallet Data]]></title>
+        <id>https://medium.com/p/539d20d9a575</id>
+        <link href="https://coinsbench.com/a-structs-specialty-week3-challenge-part-1-539d20d9a575?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-17T14:55:02.000Z</updated>
+        <summary type="html"><![CDATA[A Little Intro…]]></summary>
+        <author>
+            <name>Ibrahim Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Foundry, an indispensable tool for web3 development(1)]]></title>
+        <id>https://medium.com/p/44886a06adb2</id>
+        <link href="https://coinsbench.com/how-to-use-foundry-an-indispensable-tool-for-web3-development-1-44886a06adb2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-17T14:54:54.000Z</updated>
+        <summary type="html"><![CDATA[This series will explain in detail how to use foundry, which is indispensable for web3 development.I hope that many people will find…]]></summary>
+        <author>
+            <name>EggDragon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Contracts: Day 9 of My 30-Day Journey]]></title>
+        <id>https://medium.com/p/ac791f4881c</id>
+        <link href="https://coinsbench.com/the-future-of-contracts-day-9-of-my-30-day-journey-ac791f4881c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-17T14:54:47.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Adedeji Jedidiah Ogunsola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help Firebase Developer to Cut in Web3 and Build a Decentralized Social Data Model in DB3 Network]]></title>
+        <id>https://medium.com/p/9ce4e2e5f1da</id>
+        <link href="https://coinsbench.com/help-firebase-developer-to-cut-in-web3-and-build-a-decentralized-social-data-model-in-db3-network-9ce4e2e5f1da?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-17T14:54:39.000Z</updated>
+        <summary type="html"><![CDATA[Currently, most web3 developers still start their developers careers with exposure to web2’s technology stack. For example, Solidity…]]></summary>
+        <author>
+            <name>Man Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the difference between transfer ,send and call in solidity]]></title>
+        <id>https://medium.com/p/53b592efb4d1</id>
+        <link href="https://coinsbench.com/understanding-the-difference-between-transfer-send-and-call-in-solidity-53b592efb4d1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-17T14:54:31.000Z</updated>
+        <summary type="html"><![CDATA[When you program smart contracts you are bound to come across different methods to send ether to EOA(externally owned account) or…]]></summary>
+        <author>
+            <name>Srinivas Joshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating the Uncharted Waters of Smart Contract Deployment: The Dangers and How to Overcome Them]]></title>
+        <id>https://medium.com/p/62e74c48cca1</id>
+        <link href="https://coinsbench.com/navigating-the-uncharted-waters-of-smart-contract-deployment-the-dangers-and-how-to-overcome-them-62e74c48cca1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-17T14:53:18.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts are one of the most innovative developments in the blockchain space. They allow developers to create automated…]]></summary>
+        <author>
+            <name>Kaankacar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cryptocurrency Wallet Development Services — A Comprehensive Guide]]></title>
         <id>https://medium.com/p/4c838d08fc92</id>
@@ -159,67 +219,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Hi, recently i wrote about How to Swap and Add Liquidity on Starknet, you can read it here. It’s nice guide, because there i show how to…]]></summary>
         <author>
             <name>Nazarlvr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AntiSec — Ethernaut Force]]></title>
-        <id>https://medium.com/p/df984e90015c</id>
-        <link href="https://coinsbench.com/antisec-ethernaut-force-df984e90015c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-16T11:53:52.000Z</updated>
-        <summary type="html"><![CDATA[Force Feeding Smart Contract using Selfdestruct()]]></summary>
-        <author>
-            <name>Dibakar Sutra Dhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploy, Mint and send an NFT from Goerli to Mumbia with LayerZero Solidity examples and Hardhat]]></title>
-        <id>https://medium.com/p/f22b6eb8d2e4</id>
-        <link href="https://coinsbench.com/goesdeploy-mint-and-send-an-nft-from-goerli-to-mumbia-with-layerzero-solidity-examples-and-hardhat-f22b6eb8d2e4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-15T13:17:20.000Z</updated>
-        <summary type="html"><![CDATA[ExampleUniversalONFT721.sol]]></summary>
-        <author>
-            <name>Beach Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6# Let’s learn Solidity ~ Local variables]]></title>
-        <id>https://medium.com/p/4ad73a705127</id>
-        <link href="https://coinsbench.com/6-lets-learn-solidity-local-variables-4ad73a705127?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-15T13:17:13.000Z</updated>
-        <summary type="html"><![CDATA[Local variables in Solidity are variables that are defined within a function and are used to store temporary data. They are created when a…]]></summary>
-        <author>
-            <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Damn Vulnerable DeFi Challenges : #7 Compromised]]></title>
-        <id>https://medium.com/p/9ada74bc42fe</id>
-        <link href="https://coinsbench.com/damn-vulnerable-defi-challenges-7-compromised-9ada74bc42fe?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-15T13:17:07.000Z</updated>
-        <summary type="html"><![CDATA[Damn Vulnerable DeFi is a serie of CTF games where the player must find a vulnerability to break or steal a protocol.These educational…]]></summary>
-        <author>
-            <name>Salah I.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is “Address Poisoning” scam?]]></title>
-        <id>https://medium.com/p/6f72f385a83a</id>
-        <link href="https://coinsbench.com/what-is-address-poisoning-scam-6f72f385a83a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-15T13:17:01.000Z</updated>
-        <summary type="html"><![CDATA[It is a new type of scam targeting active crypto users that transacts frequently]]></summary>
-        <author>
-            <name>BlockOSINT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity #25 . keccak256()]]></title>
-        <id>https://medium.com/p/50776e91eae6</id>
-        <link href="https://coinsbench.com/solidity-25-keccak256-50776e91eae6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-15T13:16:55.000Z</updated>
-        <summary type="html"><![CDATA[How to use the hashing function keccak256() in Solidity and avoid collisions.
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Amalia</name>
         </author>
     </entry>
     <entry>

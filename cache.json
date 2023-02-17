@@ -79,6 +79,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/539d20d9a575",
+          "author": "Ibrahim Aziz",
+          "description": "A Little Intro…",
+          "link": "https://coinsbench.com/a-structs-specialty-week3-challenge-part-1-539d20d9a575?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-17T14:55:02.000Z",
+          "wordCount": 1466,
+          "title": "Structs: The Key to Managing Multisig Wallet Data",
+          "imageUrl": "https://miro.medium.com/max/600/1*hnym60ruGVCmOacGcU5nMA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/44886a06adb2",
+          "author": "EggDragon",
+          "description": "This series will explain in detail how to use foundry, which is indispensable for web3 development.I hope that many people will find…",
+          "link": "https://coinsbench.com/how-to-use-foundry-an-indispensable-tool-for-web3-development-1-44886a06adb2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-17T14:54:54.000Z",
+          "wordCount": 3407,
+          "title": "How to use Foundry, an indispensable tool for web3 development(1)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ac791f4881c",
+          "author": "Adedeji Jedidiah Ogunsola",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/the-future-of-contracts-day-9-of-my-30-day-journey-ac791f4881c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-17T14:54:47.000Z",
+          "wordCount": 1422,
+          "title": "The Future of Contracts: Day 9 of My 30-Day Journey",
+          "imageUrl": "https://miro.medium.com/max/1200/1*6hlewCYvd-C9sIQqSpXxTg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/9ce4e2e5f1da",
+          "author": "Man Xu",
+          "description": "Currently, most web3 developers still start their developers careers with exposure to web2’s technology stack. For example, Solidity…",
+          "link": "https://coinsbench.com/help-firebase-developer-to-cut-in-web3-and-build-a-decentralized-social-data-model-in-db3-network-9ce4e2e5f1da?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-17T14:54:39.000Z",
+          "wordCount": 1697,
+          "title": "Help Firebase Developer to Cut in Web3 and Build a Decentralized Social Data Model in DB3 Network",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/53b592efb4d1",
+          "author": "Srinivas Joshi",
+          "description": "When you program smart contracts you are bound to come across different methods to send ether to EOA(externally owned account) or…",
+          "link": "https://coinsbench.com/understanding-the-difference-between-transfer-send-and-call-in-solidity-53b592efb4d1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-17T14:54:31.000Z",
+          "wordCount": 1775,
+          "title": "Understanding the difference between transfer ,send and call in solidity",
+          "imageUrl": "https://miro.medium.com/max/916/1*FNzdCtL_3bDK1l06ONcnRA.png"
+        },
+        {
+          "id": "https://medium.com/p/62e74c48cca1",
+          "author": "Kaankacar",
+          "description": "Smart contracts are one of the most innovative developments in the blockchain space. They allow developers to create automated…",
+          "link": "https://coinsbench.com/navigating-the-uncharted-waters-of-smart-contract-deployment-the-dangers-and-how-to-overcome-them-62e74c48cca1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-17T14:53:18.000Z",
+          "wordCount": 2558,
+          "title": "Navigating the Uncharted Waters of Smart Contract Deployment: The Dangers and How to Overcome Them",
+          "imageUrl": "https://miro.medium.com/max/512/1*rKPwoHIkRtSvCsMWwpY_0w.jpeg"
+        },
+        {
           "id": "https://medium.com/p/58ff4b14a507",
           "author": "Javier Calderon",
           "description": "Introduction",
@@ -117,66 +177,6 @@
           "wordCount": 2926,
           "title": "Deploying a smart contract on StarkNet(Coding Guide)",
           "imageUrl": "https://miro.medium.com/max/1200/1*LJn8PEAxqOmjzDFwoskg1w.png"
-        },
-        {
-          "id": "https://medium.com/p/df984e90015c",
-          "author": "Dibakar Sutra Dhar",
-          "description": "Force Feeding Smart Contract using Selfdestruct()",
-          "link": "https://coinsbench.com/antisec-ethernaut-force-df984e90015c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-16T11:53:52.000Z",
-          "wordCount": 2158,
-          "title": "AntiSec — Ethernaut Force",
-          "imageUrl": "https://miro.medium.com/max/1200/1*abVo1VpuTcbsi_X1a1h1Qw.png"
-        },
-        {
-          "id": "https://medium.com/p/f22b6eb8d2e4",
-          "author": "Beach Crypto",
-          "description": "ExampleUniversalONFT721.sol",
-          "link": "https://coinsbench.com/goesdeploy-mint-and-send-an-nft-from-goerli-to-mumbia-with-layerzero-solidity-examples-and-hardhat-f22b6eb8d2e4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-15T13:17:20.000Z",
-          "wordCount": 5023,
-          "title": "Deploy, Mint and send an NFT from Goerli to Mumbia with LayerZero Solidity examples and Hardhat",
-          "imageUrl": "https://miro.medium.com/max/1200/1*77y_c1eRhaH4BABYrHBfrg.png"
-        },
-        {
-          "id": "https://medium.com/p/4ad73a705127",
-          "author": "ismail",
-          "description": "Local variables in Solidity are variables that are defined within a function and are used to store temporary data. They are created when a…",
-          "link": "https://coinsbench.com/6-lets-learn-solidity-local-variables-4ad73a705127?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-15T13:17:13.000Z",
-          "wordCount": 2178,
-          "title": "6# Let’s learn Solidity ~ Local variables",
-          "imageUrl": "https://miro.medium.com/max/1200/1*W1_WO7zrcKEBRLM8zwHUpw.png"
-        },
-        {
-          "id": "https://medium.com/p/9ada74bc42fe",
-          "author": "Salah I.",
-          "description": "Damn Vulnerable DeFi is a serie of CTF games where the player must find a vulnerability to break or steal a protocol.These educational…",
-          "link": "https://coinsbench.com/damn-vulnerable-defi-challenges-7-compromised-9ada74bc42fe?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-15T13:17:07.000Z",
-          "wordCount": 3479,
-          "title": "Damn Vulnerable DeFi Challenges : #7 Compromised",
-          "imageUrl": "https://miro.medium.com/max/1200/1*GIu4-1eOnQgWWBjJoAD52A.png"
-        },
-        {
-          "id": "https://medium.com/p/6f72f385a83a",
-          "author": "BlockOSINT",
-          "description": "It is a new type of scam targeting active crypto users that transacts frequently",
-          "link": "https://coinsbench.com/what-is-address-poisoning-scam-6f72f385a83a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-15T13:17:01.000Z",
-          "wordCount": 2480,
-          "title": "What is “Address Poisoning” scam?",
-          "imageUrl": "https://miro.medium.com/max/1024/1*YWTcKOBI6ZCOhfRce9DE0A.png"
-        },
-        {
-          "id": "https://medium.com/p/50776e91eae6",
-          "author": "Amalia",
-          "description": "How to use the hashing function keccak256() in Solidity and avoid collisions.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-25-keccak256-50776e91eae6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-15T13:16:55.000Z",
-          "wordCount": 2501,
-          "title": "Solidity #25 . keccak256()",
-          "imageUrl": "https://miro.medium.com/max/1200/0*dxQnvj7t_POdZ7Qi"
         }
       ]
     },
