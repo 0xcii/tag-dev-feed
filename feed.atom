@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T01:06:35.189Z</id>
+    <id>urn:2023-02-18T02:40:56.952Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-18T01:06:35.189Z</updated>
+    <updated>2023-02-18T02:40:56.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DevNTell - Universal Profiles with Lukso]]></title>
+        <id>https://blog.developerdao.com/devntell-universal-profiles-with-lukso</id>
+        <link href="https://blog.developerdao.com/devntell-universal-profiles-with-lukso"/>
+        <updated>2023-02-18T02:01:58.000Z</updated>
+        <summary type="html"><![CDATA[In this week's episode of DevNTell, Yamen Mehri gave us an overview of Universal Profiles built with the Lukso Network
+🌟 Developer Spotlight
+Yamen is smart contract engineer who began studying computer and communication network engineering before leaving to start his career full-time in web3. Almost 2 years ago he joined LUKSO and has been focusing on the nonfinancial side of the blockchain space and more on the social and the creative side.
+🚀 About Lukso
+From the Lukso Landing page:
+LUKSO is the space to shape our future digital lifestyle and truly own what we create. A space to innovate, invent and interact in truly new ways. A foundation for trust, value and engagement - built on Universal Profiles.
+Useful Resouces:
+Lukso Netowrk: https://lukso.network/
+Docs: https://docs.lukso.tech/
+Universal Profiles: https://universalprofile.cloud/
+Twitter: https://twitter.com/lukso_io
+GitHub repo: https://github.com/lukso-network
+Yamen's Twitter: https://twitter.com/0xYamen
+🎥 Presentation
+
+
+
+https://www.youtube.com/watch?v=RnyR7G_1sbg]]></summary>
+        <author>
+            <name>Narbeh Shahnazarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Structs: The Key to Managing Multisig Wallet Data]]></title>
         <id>https://medium.com/p/539d20d9a575</id>
