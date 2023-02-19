@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-19T03:17:20.005Z</id>
+    <id>urn:2023-02-19T04:15:33.059Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-19T03:17:20.006Z</updated>
+    <updated>2023-02-19T04:15:33.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -503,20 +503,6 @@ Patricks Twitter: https://twitter.com/patrickwoo
 https://www.youtube.com/watch?v=P6aVUDsRSa0]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate Your Smart Contract with Gelato]]></title>
-        <id>https://blog.developerdao.com/automate-your-smart-contract-with-gelato</id>
-        <link href="https://blog.developerdao.com/automate-your-smart-contract-with-gelato"/>
-        <updated>2023-01-20T15:20:41.000Z</updated>
-        <summary type="html"><![CDATA[This tutorial will teach you how to automate our smart contracts using Galeto Automate. We will build a LunchMoney DApp, which parents can use to send lunch money to their children every 24 hours.
-What is Gelato
-Gelato Network is a decentralized platform that allows developers to automate the execution of smart contracts on all major EVM-compatible blockchains, including Ethereum, Polygon, Fantom, Arbitrum, BNB Chain, Optimism, and many more. It also empowers builders to create augmented smart contracts that are gasless and off-chain aware.
-What is Gelato Automate
-Gelato Automate allows you to automate your smart contract executions in a reliable, developer-friendly & decentralized manner while leveraging off-chain data. The most significant advantage of Gelato is its easy-to-use Gelato Au…]]></summary>
-        <author>
-            <name>Aayush Gupta</name>
         </author>
     </entry>
 </feed>
