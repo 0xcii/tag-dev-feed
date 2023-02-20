@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-20T04:16:27.011Z</id>
+    <id>urn:2023-02-20T05:12:46.657Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-20T04:16:27.011Z</updated>
+    <updated>2023-02-20T05:12:46.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity account abstraction]]></title>
+        <id>https://cryptomarketpool.com/?p=21543</id>
+        <link href="https://cryptomarketpool.com/solidity-account-abstraction/"/>
+        <updated>2023-02-20T05:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Creating a Solidity Smart Contract with Account Abstraction. One of the most exciting features of Solidity is account abstraction. Account…
+The post Solidity account abstraction appeared first on Crypto Market Pool.]]></summary>
+        <author>
+            <name>Crypto Market Pool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Exchange aggregator Dexible suffers exploit of $2 Million | Curated CoinCodeCap #18 February…]]></title>
         <id>https://medium.com/p/faaab7640ea8</id>
