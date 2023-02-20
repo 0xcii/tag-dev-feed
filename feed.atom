@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-20T13:21:46.673Z</id>
+    <id>urn:2023-02-20T14:12:12.260Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-20T13:21:46.673Z</updated>
+    <updated>2023-02-20T14:12:12.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Macrometa: Track IPFS Files with Macrometa]]></title>
+        <id>https://medium.com/p/7b9ab76e8453</id>
+        <link href="https://coinsbench.com/macrometa-track-ipfs-files-with-macrometa-7b9ab76e8453?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-20T13:40:26.000Z</updated>
+        <summary type="html"><![CDATA[This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…]]></summary>
+        <author>
+            <name>Jessie Mongeon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralizing Machine Learning Training with Bacalhau and IPFS]]></title>
+        <id>https://medium.com/p/48eae50c9d22</id>
+        <link href="https://coinsbench.com/decentralizing-machine-learning-training-with-bacalhau-and-ipfs-48eae50c9d22?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-20T13:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Bacalhau is a fast, cost-efficient, and secure platform for data processing that allows you to streamline your existing workflows without…]]></summary>
+        <author>
+            <name>Hakeem Kazeem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AntiSec — Ethernaut King]]></title>
+        <id>https://medium.com/p/7934d6e2a1dc</id>
+        <link href="https://coinsbench.com/antisec-ethernaut-king-7934d6e2a1dc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-20T13:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Exploiting King with transfer() method]]></summary>
+        <author>
+            <name>Dibakar Sutra Dhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity #26 . this]]></title>
+        <id>https://medium.com/p/73282968d3c8</id>
+        <link href="https://coinsbench.com/solidity-26-this-73282968d3c8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-20T13:39:49.000Z</updated>
+        <summary type="html"><![CDATA[What is the purpose of the keyword this in Solidity?
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Amalia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Could Happen if Ripple Loses Its Battle with the SEC?]]></title>
+        <id>https://medium.com/p/8c6d8c545f25</id>
+        <link href="https://medium.com/coinmonks/what-could-happen-if-ripple-loses-its-battle-with-the-sec-8c6d8c545f25?source=rss----721b17443fd5---4"/>
+        <updated>2023-02-20T13:28:07.000Z</updated>
+        <summary type="html"><![CDATA[Ripple is currently in a battle with the SEC, and the outcome of the lawsuit could have a significant impact on Ripple and the XRP token.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Beat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 3 Binance Futures Trading Bots]]></title>
         <id>https://medium.com/p/e6031f84b3f9</id>
@@ -209,17 +261,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3 Good Stocks that we analyse today, 16th of February]]></title>
-        <id>https://medium.com/p/67c06789afc</id>
-        <link href="https://medium.com/coinmonks/3-good-stocks-that-we-analyse-today-16th-of-february-67c06789afc?source=rss----721b17443fd5---4"/>
-        <updated>2023-02-17T13:20:14.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia (NVDA)
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Vremaroiu Alin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AntiSec — Ethernaut Token]]></title>
         <id>https://medium.com/p/c93d762a8d37</id>
         <link href="https://blog.blockmagnates.com/antisec-ethernaut-token-c93d762a8d37?source=rss----18fa961f1eff--solidity"/>
@@ -227,46 +268,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Performing Overflows on the Solidity Unsigned Integers]]></summary>
         <author>
             <name>Dibakar Sutra Dhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Crypto AI Trading Bot with ChatGPT]]></title>
-        <id>https://medium.com/p/58ff4b14a507</id>
-        <link href="https://coinsbench.com/build-a-crypto-ai-trading-bot-with-chatgpt-58ff4b14a507?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-16T11:54:43.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Javier Calderon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What next after learning Solidity Basics? Try Secureum.]]></title>
-        <id>https://medium.com/p/b2392042d1c9</id>
-        <link href="https://coinsbench.com/what-next-after-learning-solidity-basics-try-secureum-b2392042d1c9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-16T11:54:30.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to getting started in smart contract programming, there are plenty of resources online. Almost everyone in the ecosystem has…]]></summary>
-        <author>
-            <name>Aitor Zaldua</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overview of decentralized applications (dapps) and the Web3 ecosystem.]]></title>
-        <id>https://medium.com/p/460b457520b2</id>
-        <link href="https://coinsbench.com/overview-of-decentralized-applications-dapps-and-the-web3-ecosystem-460b457520b2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-16T11:54:14.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized Applications: What They Are and How They’re Different]]></summary>
-        <author>
-            <name>Maxwell Onyeka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying a smart contract on StarkNet(Coding Guide)]]></title>
-        <id>https://medium.com/p/e75cb8733fcc</id>
-        <link href="https://coinsbench.com/deploying-a-smart-contract-on-starknet-coding-guide-e75cb8733fcc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-16T11:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Hi, recently i wrote about How to Swap and Add Liquidity on Starknet, you can read it here. It’s nice guide, because there i show how to…]]></summary>
-        <author>
-            <name>Nazarlvr</name>
         </author>
     </entry>
     <entry>
