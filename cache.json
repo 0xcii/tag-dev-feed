@@ -21,7 +21,7 @@
           "description": "In this tutorial we will create a DAO smart contract. A DAO (Decentralized Autonomous Organization) is a type of organization…\nThe post How to create a DAO appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/how-to-create-a-dao/",
           "publishedOn": "2023-02-18T15:40:47.000Z",
-          "wordCount": 4228,
+          "wordCount": 4229,
           "title": "How to create a DAO",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -41,7 +41,7 @@
           "description": "Creating a Smart Contract for Subscription Payments in Ethereum Solidity Solidity is the programming language for writing smart contracts on…\nThe post Subscription payments in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/subscription-payments-in-solidity/",
           "publishedOn": "2023-02-04T14:50:43.000Z",
-          "wordCount": 3576,
+          "wordCount": 3566,
           "title": "Subscription payments in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -89,6 +89,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1f894c33c63a",
+          "author": "ismail",
+          "description": "Constant variables in Solidity are variables that are defined with the constant keyword, indicating that their value cannot be changed once…",
+          "link": "https://coinsbench.com/7-lets-learn-solidity-constant-variables-1f894c33c63a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-21T17:27:54.000Z",
+          "wordCount": 1695,
+          "title": "7# Let’s learn Solidity ~ Constant variables",
+          "imageUrl": "https://miro.medium.com/max/1200/1*aBFb04zCitS-IfUEQOu_Mw.png"
+        },
+        {
+          "id": "https://medium.com/p/d7de871ca3e3",
+          "author": "Shlok Kumar",
+          "description": "Immutable state variable is used to define storage identifiers that offer more flexibility as their values can be changed after declaration",
+          "link": "https://coinsbench.com/immutable-state-variables-in-solidity-d7de871ca3e3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-21T17:27:52.000Z",
+          "wordCount": 1626,
+          "title": "Immutable State Variables in Solidity",
+          "imageUrl": "https://miro.medium.com/max/1200/1*xqYpiPy-qEz8bCQBpjhA7A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/adc384d7cd8b",
+          "author": "Kuuku Baffoe",
+          "description": "The world of blockchain technology has revolutionized the way we interact with data, creating a new digital world of opportunities. Smart…",
+          "link": "https://coinsbench.com/optimizing-gas-costs-when-writing-smart-contracts-with-solidity-adc384d7cd8b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-21T17:27:50.000Z",
+          "wordCount": 2098,
+          "title": "Optimizing Gas Costs When Writing Smart Contracts with Solidity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/53ec44832402",
+          "author": "Code With Marish",
+          "description": "Hello friends, In this post, we will be building a smart contract for a bank and heist it to understand the reentrancy attack. This will…",
+          "link": "https://coinsbench.com/understand-reentrancy-attack-by-building-a-bank-smart-contract-53ec44832402?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-21T17:27:46.000Z",
+          "wordCount": 7072,
+          "title": "Solidity: Build smart contract for bank and understand reentrancy attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/875dbb312933",
+          "author": "Juliet Chege",
+          "description": "A smartcontract is an agreement between two individuals or entities in the form of computer code that runs on a blockchain. It defines the…",
+          "link": "https://coinsbench.com/a-guide-to-smartcontracts-875dbb312933?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-21T17:27:43.000Z",
+          "wordCount": 2198,
+          "title": "A Guide to Smartcontracts",
+          "imageUrl": "https://miro.medium.com/max/1200/0*8Rhf4H1Za3TZvZIb"
+        },
+        {
+          "id": "https://medium.com/p/54c7580469a9",
+          "author": "Dibakar Sutra Dhar",
+          "description": "Reaching to the Top by exploiting Interface implementation",
+          "link": "https://coinsbench.com/antisec-ethernaut-elevator-54c7580469a9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-21T17:27:41.000Z",
+          "wordCount": 2693,
+          "title": "AntiSec — Ethernaut Elevator",
+          "imageUrl": "https://miro.medium.com/max/1200/1*i3ohZRFsjv_MvI1QPKuZMw.png"
+        },
+        {
           "id": "https://medium.com/p/7b9ab76e8453",
           "author": "Jessie Mongeon",
           "description": "This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…",
@@ -127,66 +187,6 @@
           "wordCount": 1992,
           "title": "Solidity #26 . this",
           "imageUrl": "https://miro.medium.com/max/1200/0*D0fTGn4SwLdBfqyz"
-        },
-        {
-          "id": "https://medium.com/p/539d20d9a575",
-          "author": "Ibrahim Aziz",
-          "description": "A Little Intro…",
-          "link": "https://coinsbench.com/a-structs-specialty-week3-challenge-part-1-539d20d9a575?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-17T14:55:02.000Z",
-          "wordCount": 1466,
-          "title": "Structs: The Key to Managing Multisig Wallet Data",
-          "imageUrl": "https://miro.medium.com/max/600/1*hnym60ruGVCmOacGcU5nMA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/44886a06adb2",
-          "author": "EggDragon",
-          "description": "This series will explain in detail how to use foundry, which is indispensable for web3 development.I hope that many people will find…",
-          "link": "https://coinsbench.com/how-to-use-foundry-an-indispensable-tool-for-web3-development-1-44886a06adb2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-17T14:54:54.000Z",
-          "wordCount": 3407,
-          "title": "How to use Foundry, an indispensable tool for web3 development(1)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ac791f4881c",
-          "author": "Adedeji Jedidiah Ogunsola",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/the-future-of-contracts-day-9-of-my-30-day-journey-ac791f4881c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-17T14:54:47.000Z",
-          "wordCount": 1422,
-          "title": "The Future of Contracts: Day 9 of My 30-Day Journey",
-          "imageUrl": "https://miro.medium.com/max/1200/1*6hlewCYvd-C9sIQqSpXxTg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/9ce4e2e5f1da",
-          "author": "Man Xu",
-          "description": "Currently, most web3 developers still start their developers careers with exposure to web2’s technology stack. For example, Solidity…",
-          "link": "https://coinsbench.com/help-firebase-developer-to-cut-in-web3-and-build-a-decentralized-social-data-model-in-db3-network-9ce4e2e5f1da?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-17T14:54:39.000Z",
-          "wordCount": 2027,
-          "title": "Help Firebase Developer to Cut in Web3 and Build a Decentralized Social Data Model in DB3 Network",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/53b592efb4d1",
-          "author": "Srinivas Joshi",
-          "description": "When you program smart contracts you are bound to come across different methods to send ether to EOA(externally owned account) or…",
-          "link": "https://coinsbench.com/understanding-the-difference-between-transfer-send-and-call-in-solidity-53b592efb4d1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-17T14:54:31.000Z",
-          "wordCount": 1775,
-          "title": "Understanding the difference between transfer ,send and call in solidity",
-          "imageUrl": "https://miro.medium.com/max/916/1*FNzdCtL_3bDK1l06ONcnRA.png"
-        },
-        {
-          "id": "https://medium.com/p/62e74c48cca1",
-          "author": "Kaankacar",
-          "description": "Smart contracts are one of the most innovative developments in the blockchain space. They allow developers to create automated…",
-          "link": "https://coinsbench.com/navigating-the-uncharted-waters-of-smart-contract-deployment-the-dangers-and-how-to-overcome-them-62e74c48cca1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-17T14:53:18.000Z",
-          "wordCount": 2558,
-          "title": "Navigating the Uncharted Waters of Smart Contract Deployment: The Dangers and How to Overcome Them",
-          "imageUrl": "https://miro.medium.com/max/512/1*rKPwoHIkRtSvCsMWwpY_0w.jpeg"
         }
       ]
     },
@@ -302,6 +302,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/40eb04bbe728",
+          "author": "Kuuku Baffoe",
+          "description": "Troubleshooting Solidity code can be a difficult task for even the most experienced developers. With the ever-evolving blockchain…",
+          "link": "https://blog.blockmagnates.com/debugging-solidity-code-with-truffle-40eb04bbe728?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-02-21T17:25:56.000Z",
+          "wordCount": 1834,
+          "title": "Debugging Solidity Code with Truffle",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/c93d762a8d37",
           "author": "Dibakar Sutra Dhar",

@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T17:12:21.853Z</id>
+    <id>urn:2023-02-21T18:16:35.400Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-21T17:12:21.853Z</updated>
+    <updated>2023-02-21T18:16:35.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7# Let’s learn Solidity ~ Constant variables]]></title>
+        <id>https://medium.com/p/1f894c33c63a</id>
+        <link href="https://coinsbench.com/7-lets-learn-solidity-constant-variables-1f894c33c63a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-21T17:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Constant variables in Solidity are variables that are defined with the constant keyword, indicating that their value cannot be changed once…]]></summary>
+        <author>
+            <name>ismail</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immutable State Variables in Solidity]]></title>
+        <id>https://medium.com/p/d7de871ca3e3</id>
+        <link href="https://coinsbench.com/immutable-state-variables-in-solidity-d7de871ca3e3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-21T17:27:52.000Z</updated>
+        <summary type="html"><![CDATA[Immutable state variable is used to define storage identifiers that offer more flexibility as their values can be changed after declaration]]></summary>
+        <author>
+            <name>Shlok Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Gas Costs When Writing Smart Contracts with Solidity]]></title>
+        <id>https://medium.com/p/adc384d7cd8b</id>
+        <link href="https://coinsbench.com/optimizing-gas-costs-when-writing-smart-contracts-with-solidity-adc384d7cd8b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-21T17:27:50.000Z</updated>
+        <summary type="html"><![CDATA[The world of blockchain technology has revolutionized the way we interact with data, creating a new digital world of opportunities. Smart…]]></summary>
+        <author>
+            <name>Kuuku Baffoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity: Build smart contract for bank and understand reentrancy attack]]></title>
+        <id>https://medium.com/p/53ec44832402</id>
+        <link href="https://coinsbench.com/understand-reentrancy-attack-by-building-a-bank-smart-contract-53ec44832402?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-21T17:27:46.000Z</updated>
+        <summary type="html"><![CDATA[Hello friends, In this post, we will be building a smart contract for a bank and heist it to understand the reentrancy attack. This will…]]></summary>
+        <author>
+            <name>Code With Marish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to Smartcontracts]]></title>
+        <id>https://medium.com/p/875dbb312933</id>
+        <link href="https://coinsbench.com/a-guide-to-smartcontracts-875dbb312933?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-21T17:27:43.000Z</updated>
+        <summary type="html"><![CDATA[A smartcontract is an agreement between two individuals or entities in the form of computer code that runs on a blockchain. It defines the…]]></summary>
+        <author>
+            <name>Juliet Chege</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AntiSec — Ethernaut Elevator]]></title>
+        <id>https://medium.com/p/54c7580469a9</id>
+        <link href="https://coinsbench.com/antisec-ethernaut-elevator-54c7580469a9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-21T17:27:41.000Z</updated>
+        <summary type="html"><![CDATA[Reaching to the Top by exploiting Interface implementation]]></summary>
+        <author>
+            <name>Dibakar Sutra Dhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging Solidity Code with Truffle]]></title>
+        <id>https://medium.com/p/40eb04bbe728</id>
+        <link href="https://blog.blockmagnates.com/debugging-solidity-code-with-truffle-40eb04bbe728?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-02-21T17:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Troubleshooting Solidity code can be a difficult task for even the most experienced developers. With the ever-evolving blockchain…]]></summary>
+        <author>
+            <name>Kuuku Baffoe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin and Cryptocurrency; The road to financial FREEDOM]]></title>
         <id>https://medium.com/p/3bed35a9831c</id>
@@ -200,66 +270,6 @@ Yamen's Twitter: https://twitter.com/0xYamen
 https://www.youtube.com/watch?v=RnyR7G_1sbg]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structs: The Key to Managing Multisig Wallet Data]]></title>
-        <id>https://medium.com/p/539d20d9a575</id>
-        <link href="https://coinsbench.com/a-structs-specialty-week3-challenge-part-1-539d20d9a575?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-17T14:55:02.000Z</updated>
-        <summary type="html"><![CDATA[A Little Intro…]]></summary>
-        <author>
-            <name>Ibrahim Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use Foundry, an indispensable tool for web3 development(1)]]></title>
-        <id>https://medium.com/p/44886a06adb2</id>
-        <link href="https://coinsbench.com/how-to-use-foundry-an-indispensable-tool-for-web3-development-1-44886a06adb2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-17T14:54:54.000Z</updated>
-        <summary type="html"><![CDATA[This series will explain in detail how to use foundry, which is indispensable for web3 development.I hope that many people will find…]]></summary>
-        <author>
-            <name>EggDragon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Contracts: Day 9 of My 30-Day Journey]]></title>
-        <id>https://medium.com/p/ac791f4881c</id>
-        <link href="https://coinsbench.com/the-future-of-contracts-day-9-of-my-30-day-journey-ac791f4881c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-17T14:54:47.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Adedeji Jedidiah Ogunsola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Help Firebase Developer to Cut in Web3 and Build a Decentralized Social Data Model in DB3 Network]]></title>
-        <id>https://medium.com/p/9ce4e2e5f1da</id>
-        <link href="https://coinsbench.com/help-firebase-developer-to-cut-in-web3-and-build-a-decentralized-social-data-model-in-db3-network-9ce4e2e5f1da?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-17T14:54:39.000Z</updated>
-        <summary type="html"><![CDATA[Currently, most web3 developers still start their developers careers with exposure to web2’s technology stack. For example, Solidity…]]></summary>
-        <author>
-            <name>Man Xu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the difference between transfer ,send and call in solidity]]></title>
-        <id>https://medium.com/p/53b592efb4d1</id>
-        <link href="https://coinsbench.com/understanding-the-difference-between-transfer-send-and-call-in-solidity-53b592efb4d1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-17T14:54:31.000Z</updated>
-        <summary type="html"><![CDATA[When you program smart contracts you are bound to come across different methods to send ether to EOA(externally owned account) or…]]></summary>
-        <author>
-            <name>Srinivas Joshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating the Uncharted Waters of Smart Contract Deployment: The Dangers and How to Overcome Them]]></title>
-        <id>https://medium.com/p/62e74c48cca1</id>
-        <link href="https://coinsbench.com/navigating-the-uncharted-waters-of-smart-contract-deployment-the-dangers-and-how-to-overcome-them-62e74c48cca1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-17T14:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts are one of the most innovative developments in the blockchain space. They allow developers to create automated…]]></summary>
-        <author>
-            <name>Kaankacar</name>
         </author>
     </entry>
     <entry>
