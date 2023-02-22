@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T17:12:25.932Z</id>
+    <id>urn:2023-02-22T18:16:52.633Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-22T17:12:25.932Z</updated>
+    <updated>2023-02-22T18:16:52.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to use Foundry, an indispensable tool for web3 development(2)]]></title>
+        <id>https://medium.com/p/14c7773a97d7</id>
+        <link href="https://coinsbench.com/how-to-use-foundry-an-indispensable-tool-for-web3-development-2-14c7773a97d7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-22T17:05:10.000Z</updated>
+        <summary type="html"><![CDATA[This series will explain in detail how to use foundry, which is indispensable for web3 development.I hope that many people will find…]]></summary>
+        <author>
+            <name>EggDragon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity: Fixed Deposit feature in our Bank Smart Contract]]></title>
+        <id>https://medium.com/p/6f4b83a58766</id>
+        <link href="https://coinsbench.com/solidity-fixed-deposit-feature-in-our-bank-smart-contract-6f4b83a58766?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-22T17:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Hello friends, In this post, we will implement the Fixed Deposit feature in our bank smart contract using solidity, which will help you…]]></summary>
+        <author>
+            <name>Code With Marish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Solidity: The language of the new web!]]></title>
+        <id>https://medium.com/p/a9ec67954e5f</id>
+        <link href="https://coinsbench.com/welcome-to-solidity-the-language-of-the-new-web-a9ec67954e5f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-22T17:04:44.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll take a beginner-friendly approach to Solidity, covering its basic syntax, data types, and other essential concepts…]]></summary>
+        <author>
+            <name>Meyoron Aghogho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is a Dapp deployment like making a cocktail?]]></title>
+        <id>https://medium.com/p/c1f53313e8d7</id>
+        <link href="https://coinsbench.com/why-is-odapp-deployment-like-making-a-cocktail-c1f53313e8d7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-22T17:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Although today applications built on the blockchain have not yet been able to completely replace some Web2 services for us, the world has…]]></summary>
+        <author>
+            <name>ASSOC-exe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cryptourrency Exchange Script - Start Your Crypto Exchange Now!]]></title>
         <id>https://medium.com/p/61cbb30d24f8</id>
@@ -169,16 +209,6 @@ The post Gnosis Safes appeared first on Crypto Market Pool.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AntiSec — Ethernaut Elevator]]></title>
-        <id>https://medium.com/p/54c7580469a9</id>
-        <link href="https://coinsbench.com/antisec-ethernaut-elevator-54c7580469a9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-21T17:27:41.000Z</updated>
-        <summary type="html"><![CDATA[Reaching to the Top by exploiting Interface implementation]]></summary>
-        <author>
-            <name>Dibakar Sutra Dhar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Debugging Solidity Code with Truffle]]></title>
         <id>https://medium.com/p/40eb04bbe728</id>
         <link href="https://blog.blockmagnates.com/debugging-solidity-code-with-truffle-40eb04bbe728?source=rss----18fa961f1eff--solidity"/>
@@ -196,37 +226,6 @@ The post Gnosis Safes appeared first on Crypto Market Pool.]]></summary>
         <summary type="html"><![CDATA[This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…]]></summary>
         <author>
             <name>Jessie Mongeon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decentralizing Machine Learning Training with Bacalhau and IPFS]]></title>
-        <id>https://medium.com/p/48eae50c9d22</id>
-        <link href="https://coinsbench.com/decentralizing-machine-learning-training-with-bacalhau-and-ipfs-48eae50c9d22?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-20T13:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Bacalhau is a fast, cost-efficient, and secure platform for data processing that allows you to streamline your existing workflows without…]]></summary>
-        <author>
-            <name>Hakeem Kazeem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AntiSec — Ethernaut King]]></title>
-        <id>https://medium.com/p/7934d6e2a1dc</id>
-        <link href="https://coinsbench.com/antisec-ethernaut-king-7934d6e2a1dc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-20T13:39:53.000Z</updated>
-        <summary type="html"><![CDATA[Exploiting King with transfer() method]]></summary>
-        <author>
-            <name>Dibakar Sutra Dhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity #26 . this]]></title>
-        <id>https://medium.com/p/73282968d3c8</id>
-        <link href="https://coinsbench.com/solidity-26-this-73282968d3c8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-20T13:39:49.000Z</updated>
-        <summary type="html"><![CDATA[What is the purpose of the keyword this in Solidity?
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Amalia</name>
         </author>
     </entry>
     <entry>

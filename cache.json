@@ -89,6 +89,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/14c7773a97d7",
+          "author": "EggDragon",
+          "description": "This series will explain in detail how to use foundry, which is indispensable for web3 development.I hope that many people will find…",
+          "link": "https://coinsbench.com/how-to-use-foundry-an-indispensable-tool-for-web3-development-2-14c7773a97d7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-22T17:05:10.000Z",
+          "wordCount": 3139,
+          "title": "How to use Foundry, an indispensable tool for web3 development(2)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6f4b83a58766",
+          "author": "Code With Marish",
+          "description": "Hello friends, In this post, we will implement the Fixed Deposit feature in our bank smart contract using solidity, which will help you…",
+          "link": "https://coinsbench.com/solidity-fixed-deposit-feature-in-our-bank-smart-contract-6f4b83a58766?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-22T17:05:08.000Z",
+          "wordCount": 5455,
+          "title": "Solidity: Fixed Deposit feature in our Bank Smart Contract",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a9ec67954e5f",
+          "author": "Meyoron Aghogho",
+          "description": "In this article, we’ll take a beginner-friendly approach to Solidity, covering its basic syntax, data types, and other essential concepts…",
+          "link": "https://coinsbench.com/welcome-to-solidity-the-language-of-the-new-web-a9ec67954e5f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-22T17:04:44.000Z",
+          "wordCount": 3888,
+          "title": "Welcome to Solidity: The language of the new web!",
+          "imageUrl": "https://miro.medium.com/max/1000/1*MNjCwJCRw1U1z3r184vNPw.png"
+        },
+        {
+          "id": "https://medium.com/p/c1f53313e8d7",
+          "author": "ASSOC-exe",
+          "description": "Although today applications built on the blockchain have not yet been able to completely replace some Web2 services for us, the world has…",
+          "link": "https://coinsbench.com/why-is-odapp-deployment-like-making-a-cocktail-c1f53313e8d7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-22T17:04:39.000Z",
+          "wordCount": 2593,
+          "title": "Why is a Dapp deployment like making a cocktail?",
+          "imageUrl": "https://miro.medium.com/max/1200/1*bVjrYaHk0I0kTwk2HOwPRg.png"
+        },
+        {
           "id": "https://medium.com/p/1f894c33c63a",
           "author": "ismail",
           "description": "Constant variables in Solidity are variables that are defined with the constant keyword, indicating that their value cannot be changed once…",
@@ -139,16 +179,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/0*8Rhf4H1Za3TZvZIb"
         },
         {
-          "id": "https://medium.com/p/54c7580469a9",
-          "author": "Dibakar Sutra Dhar",
-          "description": "Reaching to the Top by exploiting Interface implementation",
-          "link": "https://coinsbench.com/antisec-ethernaut-elevator-54c7580469a9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-21T17:27:41.000Z",
-          "wordCount": 2747,
-          "title": "AntiSec — Ethernaut Elevator",
-          "imageUrl": "https://miro.medium.com/max/1200/1*i3ohZRFsjv_MvI1QPKuZMw.png"
-        },
-        {
           "id": "https://medium.com/p/7b9ab76e8453",
           "author": "Jessie Mongeon",
           "description": "This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…",
@@ -157,36 +187,6 @@
           "wordCount": 1743,
           "title": "Macrometa: Track IPFS Files with Macrometa",
           "imageUrl": "https://miro.medium.com/max/1200/0*h5NM1WmaIbHb197o"
-        },
-        {
-          "id": "https://medium.com/p/48eae50c9d22",
-          "author": "Hakeem Kazeem",
-          "description": "Bacalhau is a fast, cost-efficient, and secure platform for data processing that allows you to streamline your existing workflows without…",
-          "link": "https://coinsbench.com/decentralizing-machine-learning-training-with-bacalhau-and-ipfs-48eae50c9d22?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-20T13:39:57.000Z",
-          "wordCount": 2876,
-          "title": "Decentralizing Machine Learning Training with Bacalhau and IPFS",
-          "imageUrl": "https://miro.medium.com/max/1200/1*G6q01jSgARNU64iIS2PFpA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/7934d6e2a1dc",
-          "author": "Dibakar Sutra Dhar",
-          "description": "Exploiting King with transfer() method",
-          "link": "https://coinsbench.com/antisec-ethernaut-king-7934d6e2a1dc?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-20T13:39:53.000Z",
-          "wordCount": 2419,
-          "title": "AntiSec — Ethernaut King",
-          "imageUrl": "https://miro.medium.com/max/1200/1*hP_Ntr3Ch_ZvzzEmOuTBAQ.png"
-        },
-        {
-          "id": "https://medium.com/p/73282968d3c8",
-          "author": "Amalia",
-          "description": "What is the purpose of the keyword this in Solidity?\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-26-this-73282968d3c8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-20T13:39:49.000Z",
-          "wordCount": 1983,
-          "title": "Solidity #26 . this",
-          "imageUrl": "https://miro.medium.com/max/1200/0*D0fTGn4SwLdBfqyz"
         }
       ]
     },
@@ -251,7 +251,7 @@
           "description": "Smart contract development is the process of creating self-executing digital contracts that are stored on a blockchain network.",
           "link": "https://medium.com/coinmonks/smart-contract-development-must-know-facts-d2f7dd7c54f?source=rss----721b17443fd5---4",
           "publishedOn": "2023-02-22T14:00:36.000Z",
-          "wordCount": 5928,
+          "wordCount": 6109,
           "title": "Smart Contract Development - Must Know Facts !",
           "imageUrl": "https://miro.medium.com/max/1200/1*ouEHd6oKdYF-Nx-GKYC21w.jpeg"
         },
