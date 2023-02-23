@@ -1,10 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T15:24:11.132Z</id>
+    <id>urn:2023-02-23T16:19:03.124Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-23T15:24:11.132Z</updated>
+    <updated>2023-02-23T16:19:03.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Cross-Chain NFT using Router Protocol's CrossTalk Library]]></title>
+        <id>https://blog.developerdao.com/router-portocol-crosstalk</id>
+        <link href="https://blog.developerdao.com/router-portocol-crosstalk"/>
+        <updated>2023-02-23T16:09:27.000Z</updated>
+        <summary type="html"><![CDATA[gm gm gm!!!
+Today we will write an NFT (ERC721) smart contract, allowing sending and receiving an NFT from different chains. To transfer our NFTs between chains, we will use Router Cross-Talk Library.
+We will transfer an NFT from Avalanche Fuji Testnet to Polygon Mumbai Testnet.
+If you are more of a video tutorial fan, then this is for you 👇🏻
+
+
+
+https://youtu.be/NUb7Nt8lges
+ 
+
+Understanding the Fundamentals
+Before we start, let's look at the basics, so we're all on the same page.
+What is Chain-Interoperability?
+Chain interoperability is the capability of different blockchain networks or systems to interact and exchange information and resources. In simpler terms, blockchain systems can work together as a unified network instead of operating in isolation.
+For example, we could use one blo…]]></summary>
+        <author>
+            <name>Megabyte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insights from Marketing Expert Pamela Wilson: Strategies to Maximize Your Small Business Marketing…]]></title>
+        <id>https://medium.com/p/b109131e52ea</id>
+        <link href="https://medium.com/coinmonks/insights-from-marketing-expert-pamela-wilson-strategies-to-maximize-your-small-business-marketing-b109131e52ea?source=rss----721b17443fd5---4"/>
+        <updated>2023-02-23T15:37:43.000Z</updated>
+        <summary type="html"><![CDATA[Pamela Wilson
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Christopher H. Loo, MD-PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trading Success: A True Story of Perseverance and Strategy]]></title>
+        <id>https://medium.com/p/7e7a2a191372</id>
+        <link href="https://medium.com/coinmonks/trading-success-a-true-story-of-perseverance-and-strategy-7e7a2a191372?source=rss----721b17443fd5---4"/>
+        <updated>2023-02-23T15:37:36.000Z</updated>
+        <summary type="html"><![CDATA[In the world of trading, success stories are often seen as the stuff of legend. However, for one man, trading success was a reality he…]]></summary>
+        <author>
+            <name>The Trading Bible</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[discovering innovative web3 startups; propy]]></title>
+        <id>https://medium.com/p/e3f8ca43f20</id>
+        <link href="https://medium.com/coinmonks/discovering-innovative-web3-startups-propy-e3f8ca43f20?source=rss----721b17443fd5---4"/>
+        <updated>2023-02-23T15:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Buying property made seamless with NFTs.]]></summary>
+        <author>
+            <name>ugo ogwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether Has Transferred Part of Its Reserves to the Management of a Wall Street Firm]]></title>
+        <id>https://medium.com/p/ebdf2624e6b</id>
+        <link href="https://medium.com/coinmonks/tether-has-transferred-part-of-its-reserves-to-the-management-of-a-wall-street-firm-ebdf2624e6b?source=rss----721b17443fd5---4"/>
+        <updated>2023-02-23T15:37:20.000Z</updated>
+        <summary type="html"><![CDATA[The Wall Street Journal published an article on February 10, according to which a large Wall Street firm, Cantor Fitzgerald, will manage…]]></summary>
+        <author>
+            <name>Observers.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next Big Crypto Narrative Is Here - Get In Early For Massive Gains!]]></title>
+        <id>https://medium.com/p/7824515dda2c</id>
+        <link href="https://medium.com/coinmonks/next-big-crypto-narrative-is-here-get-in-early-for-massive-gains-7824515dda2c?source=rss----721b17443fd5---4"/>
+        <updated>2023-02-23T15:37:12.000Z</updated>
+        <summary type="html"><![CDATA[Positioning yourself early in the strongest crypto narratives gives you the best chances for earning big profits.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Ziva Fajfar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Implications of Increased Regulation on the Digital Economy]]></title>
+        <id>https://medium.com/p/c80367471a6a</id>
+        <link href="https://medium.com/coinmonks/the-implications-of-increased-regulation-on-the-digital-economy-c80367471a6a?source=rss----721b17443fd5---4"/>
+        <updated>2023-02-23T15:37:03.000Z</updated>
+        <summary type="html"><![CDATA[For many, “regulation” and “cryptocurrency” embody clashing ideals. In the early days, Bitcoin was seen as a way to sell illegal items on…]]></summary>
+        <author>
+            <name>Joe Robert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rarible Clone -  Develop NFT Marketplace Like Rarible]]></title>
         <id>https://medium.com/p/5f0017e03798</id>
@@ -43,71 +129,6 @@
         <summary type="html"><![CDATA[Summary of the live stream where Boris Godlin explains what to consider when working with historical data, how to move from raw data to…]]></summary>
         <author>
             <name>Alexandr Kumancev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is 28K The Next Stop For BTC To Moon Narrative?]]></title>
-        <id>https://medium.com/p/aac4c1e392df</id>
-        <link href="https://medium.com/coinmonks/is-28k-the-next-stop-for-btc-to-moon-narrative-aac4c1e392df?source=rss----721b17443fd5---4"/>
-        <updated>2023-02-23T14:08:41.000Z</updated>
-        <summary type="html"><![CDATA[Is it a bull trap or is it the start of a bull market? Are you asking this? If you are, we are on the same page. Bitcoin has been flirtious…]]></summary>
-        <author>
-            <name>CoinDhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achieving Financial Freedom With Bitcoin: What You Need to Know]]></title>
-        <id>https://medium.com/p/b7ce3c71ac0f</id>
-        <link href="https://medium.com/coinmonks/achieving-financial-freedom-with-bitcoin-what-you-need-to-know-b7ce3c71ac0f?source=rss----721b17443fd5---4"/>
-        <updated>2023-02-23T12:38:52.000Z</updated>
-        <summary type="html"><![CDATA[It’s risky, but not impossible.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Freedom Investor Peter Pirnbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cardano (ADA) Price Prediction 2023–2025, update 22th of February]]></title>
-        <id>https://medium.com/p/d544e2cd5e01</id>
-        <link href="https://medium.com/coinmonks/cardano-ada-price-prediction-2023-2025-update-22th-of-february-d544e2cd5e01?source=rss----721b17443fd5---4"/>
-        <updated>2023-02-23T12:38:44.000Z</updated>
-        <summary type="html"><![CDATA[Cardano (ADA): What Is It?
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Vremaroiu Alin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 3 Cheap Cryptocurrencies to Buy at the end of February 2023]]></title>
-        <id>https://medium.com/p/a3bd06b171ff</id>
-        <link href="https://medium.com/coinmonks/top-3-cheap-cryptocurrencies-to-buy-at-the-end-of-february-2023-a3bd06b171ff?source=rss----721b17443fd5---4"/>
-        <updated>2023-02-23T12:38:37.000Z</updated>
-        <summary type="html"><![CDATA[Dogecoin (DOGE)
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Vremaroiu Alin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 3 Dividend Stocks to Buy for Long Term]]></title>
-        <id>https://medium.com/p/dfe768d5a5c4</id>
-        <link href="https://medium.com/coinmonks/top-3-dividend-stocks-to-buy-for-long-term-dfe768d5a5c4?source=rss----721b17443fd5---4"/>
-        <updated>2023-02-23T12:38:28.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft (MSFT)
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Vremaroiu Alin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I asked ChatGPT: How to Invest 1000$ in Bitcoin , Ethereum and Cardano]]></title>
-        <id>https://medium.com/p/1b2b56454394</id>
-        <link href="https://medium.com/coinmonks/i-asked-chatgpt-how-to-invest-1000-in-bitcoin-ethereum-and-cardano-1b2b56454394?source=rss----721b17443fd5---4"/>
-        <updated>2023-02-23T12:38:20.000Z</updated>
-        <summary type="html"><![CDATA[As cryptocurrencies continue to gain popularity and more people become interested in investing, it can be overwhelming to decide where to…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Vremaroiu Alin</name>
         </author>
     </entry>
     <entry>
