@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T02:43:03.513Z</id>
+    <id>urn:2023-02-23T03:15:12.901Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-23T02:43:03.513Z</updated>
+    <updated>2023-02-23T03:15:12.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -465,17 +465,6 @@ What is the Infura NFT SDK?
 The Infura NFT SDK is an SDK that allows you to build and interact with NFTs easily. It's implemented in TypeScript, a programming language that is a strict superset of JavaScript. The SDK includes cr…]]></summary>
         <author>
             <name>Olubisi Idris Ayinde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Query the Bitcoin memory pool in Python]]></title>
-        <id>https://cryptomarketpool.com/?p=21260</id>
-        <link href="https://cryptomarketpool.com/query-the-bitcoin-memory-pool-in-python/"/>
-        <updated>2023-01-24T15:00:09.000Z</updated>
-        <summary type="html"><![CDATA[The Bitcoin memory pool, also known as the “transaction pool” or “mempool,” is a holding area for unconfirmed transactions waiting…
-The post Query the Bitcoin memory pool in Python appeared first on Crypto Market Pool.]]></summary>
-        <author>
-            <name>Crypto Market Pool</name>
         </author>
     </entry>
 </feed>
