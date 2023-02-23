@@ -21,7 +21,7 @@
           "description": "Creating a Solidity Smart Contract with Account Abstraction. One of the most exciting features of Solidity is account abstraction. Account…\nThe post Solidity account abstraction appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/solidity-account-abstraction/",
           "publishedOn": "2023-02-20T05:01:08.000Z",
-          "wordCount": 3705,
+          "wordCount": 3704,
           "title": "Solidity account abstraction",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -78,6 +78,26 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/dc3068433274",
+          "author": "Code With Marish",
+          "description": "Hello friends, In this post, we will use the multisig (multisignature) concept to approve the Fixed Deposit claims. So far we are using the…",
+          "link": "https://coinsbench.com/solidity-multisig-demo-using-our-bank-smart-contract-dc3068433274?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-23T11:55:03.000Z",
+          "wordCount": 2660,
+          "title": "Solidity: Multisig Demo using our Bank smart contract",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cb1ef6b5e335",
+          "author": "Adedeji Jedidiah Ogunsola",
+          "description": "Exploring the Advantages, Drawbacks, and Future of Decentralized Contract Technology",
+          "link": "https://coinsbench.com/smart-contracts-the-legal-documents-of-the-21st-century-or-not-cb1ef6b5e335?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-23T11:55:01.000Z",
+          "wordCount": 4716,
+          "title": "Smart Contracts: The Legal Documents of the 21st Century (or Not)",
+          "imageUrl": "https://miro.medium.com/max/1024/0*Rf0sHDGVAJ14LfdV"
+        },
         {
           "id": "https://medium.com/p/14c7773a97d7",
           "author": "EggDragon",
@@ -157,26 +177,6 @@
           "wordCount": 7072,
           "title": "Solidity: Build smart contract for bank and understand reentrancy attack",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/875dbb312933",
-          "author": "Juliet Chege",
-          "description": "A smartcontract is an agreement between two individuals or entities in the form of computer code that runs on a blockchain. It defines the…",
-          "link": "https://coinsbench.com/a-guide-to-smartcontracts-875dbb312933?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-21T17:27:43.000Z",
-          "wordCount": 2198,
-          "title": "A Guide to Smartcontracts",
-          "imageUrl": "https://miro.medium.com/max/1200/0*8Rhf4H1Za3TZvZIb"
-        },
-        {
-          "id": "https://medium.com/p/7b9ab76e8453",
-          "author": "Jessie Mongeon",
-          "description": "This guide was originally published on https://docs.filebase.com. Check out the Filebase documentation site for the latest Web3 tutorials…",
-          "link": "https://coinsbench.com/macrometa-track-ipfs-files-with-macrometa-7b9ab76e8453?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-20T13:40:26.000Z",
-          "wordCount": 1743,
-          "title": "Macrometa: Track IPFS Files with Macrometa",
-          "imageUrl": "https://miro.medium.com/max/1200/0*h5NM1WmaIbHb197o"
         }
       ]
     },
@@ -185,6 +185,46 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/eef3dba33ece",
+          "author": "Emveep",
+          "description": "At this time, we will cover another step when expanding your market. Read the discussion til the end and start your Apps on Demand Today.",
+          "link": "https://medium.com/coinmonks/heres-the-type-of-apps-on-demand-for-gen-z-at-2023-eef3dba33ece?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-23T12:27:09.000Z",
+          "wordCount": 3934,
+          "title": "Here’s the Type of Apps on Demand For Gen Z at 2023",
+          "imageUrl": "https://miro.medium.com/max/1200/1*bDamJkctCsfhF5ktKN0I0w.png"
+        },
+        {
+          "id": "https://medium.com/p/ff7741fb04d8",
+          "author": "Coucou Camille",
+          "description": "For all active market participants, historical data plays an essential part in making trading decisions. It is no difference in the…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/download-binance-zipped-data-using-python-ff7741fb04d8?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-23T12:27:00.000Z",
+          "wordCount": 1097,
+          "title": "Download Binance Zipped Data Using Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6109d46d49ee",
+          "author": "Monroe Mayfield",
+          "description": "This is the first part of a content series about Areas on the Radar — Energy Production Investments in the publication Areas & Producers.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/outlook-on-areas-of-energy-production-investments-in-africa-brazil-indonesia-usa-eastmed-iraq-6109d46d49ee?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-23T12:26:53.000Z",
+          "wordCount": 1093,
+          "title": "Outlook on Areas of Energy Production Investments in Africa, Brazil, Indonesia, USA, EastMed & Iraq",
+          "imageUrl": "https://miro.medium.com/max/1200/0*EHOFBtprpruSClpj"
+        },
+        {
+          "id": "https://medium.com/p/152a97d99423",
+          "author": "Ehsan Yazdanparast",
+          "description": "How This Technology Is Revolutionizing the Crypto Industry\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/atomic-swap-the-future-of-secure-cryptocurrency-trading-152a97d99423?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-23T12:26:47.000Z",
+          "wordCount": 1044,
+          "title": "Atomic Swap: The Future of Secure Cryptocurrency Trading",
+          "imageUrl": "https://miro.medium.com/max/1200/0*aDW8ufI9ROFY61SJ"
+        },
         {
           "id": "https://medium.com/p/aa193f9ec0de",
           "author": "Coinmonks Team",
@@ -244,46 +284,6 @@
           "wordCount": 1055,
           "title": "Meet Daniel Martinez: Co-Founder of Hivemind CRM and Pioneer in Business Automation",
           "imageUrl": "https://miro.medium.com/max/1200/1*_rcdd-FDPc8DqFn3pyPW-w.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d2f7dd7c54f",
-          "author": "Sophia Grace",
-          "description": "Smart contract development is the process of creating self-executing digital contracts that are stored on a blockchain network.",
-          "link": "https://medium.com/coinmonks/smart-contract-development-must-know-facts-d2f7dd7c54f?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-22T14:00:36.000Z",
-          "wordCount": 5928,
-          "title": "Smart Contract Development - Must Know Facts !",
-          "imageUrl": "https://miro.medium.com/max/1200/1*ouEHd6oKdYF-Nx-GKYC21w.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/1bc2ccf510d",
-          "author": "The Trading Bible",
-          "description": "Trading in financial markets can be an exciting and lucrative pursuit, but it also requires a significant investment of time and effort…",
-          "link": "https://medium.com/coinmonks/how-much-time-does-it-really-takes-to-be-a-profitable-trader-1bc2ccf510d?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-22T12:54:36.000Z",
-          "wordCount": 2724,
-          "title": "how much time does it really takes to be a profitable trader?",
-          "imageUrl": "https://miro.medium.com/max/1200/1*IB4IbiD2acoRjt6Gw0J7qQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e1c63513a290",
-          "author": "Nathaniel Adediran",
-          "description": "Stablecoins have become increasingly important in the rapidly growing decentralized finance (DeFi) sector, which allows for peer-to-peer…",
-          "link": "https://medium.com/coinmonks/understanding-how-stablecoin-works-e1c63513a290?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-22T12:46:35.000Z",
-          "wordCount": 3944,
-          "title": "Understanding How Stablecoin Works",
-          "imageUrl": "https://miro.medium.com/max/1200/0*Ou-bwjlllDX5pJjy"
-        },
-        {
-          "id": "https://medium.com/p/511d30068cea",
-          "author": "Nathaniel Adediran",
-          "description": "The goal of cryptocurrency economics is to create a secure and efficient financial system that incentivizes the participants to maintain...",
-          "link": "https://medium.com/coinmonks/the-key-component-of-cryptocurrency-economics-511d30068cea?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-22T12:46:29.000Z",
-          "wordCount": 2412,
-          "title": "The Key Component of Cryptocurrency Economics",
-          "imageUrl": "https://miro.medium.com/max/1200/0*_eUyjFODmJ0UfkWB"
         }
       ]
     },
