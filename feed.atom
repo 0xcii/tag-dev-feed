@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T03:16:42.877Z</id>
+    <id>urn:2023-02-24T04:16:42.488Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-24T03:16:42.877Z</updated>
+    <updated>2023-02-24T04:16:42.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -476,19 +476,6 @@ https://www.youtube.com/watch?v=OfFieWwtDhg]]></summary>
 The post Bitcoin blockchain vs the Lightning network appeared first on Crypto Market Pool.]]></summary>
         <author>
             <name>Crypto Market Pool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easily Create An NFT App Using The New Infura NFT SDK TypeScript]]></title>
-        <id>https://blog.developerdao.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript</id>
-        <link href="https://blog.developerdao.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript"/>
-        <updated>2023-01-25T15:20:42.000Z</updated>
-        <summary type="html"><![CDATA[If you know TypeScript, adding the ability to create, mint, and manage non-fungible tokens (NFTs) to your app is easy. The Infura NFT SDK wraps REST calls to Ethereum nodes, abstracting away the technical compilations and making it possible to work with NFTs with just an Infura account, some configuration, and a few lines of code. The Infura NFT SDK also doesn't require the overhead of learning Solidity, importing ABIs, etc. Whether new to Web3 or highly experienced, Infura NFT SDK makes NFTs easy.
-Let's jump in, build, and deploy an ERC721 NFT to see how it works.
-What is the Infura NFT SDK?
-The Infura NFT SDK is an SDK that allows you to build and interact with NFTs easily. It's implemented in TypeScript, a programming language that is a strict superset of JavaScript. The SDK includes cr…]]></summary>
-        <author>
-            <name>Olubisi Idris Ayinde</name>
         </author>
     </entry>
 </feed>
