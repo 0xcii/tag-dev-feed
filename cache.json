@@ -79,6 +79,36 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/4151714a7e08",
+          "author": "Adedeji Jedidiah Ogunsola",
+          "description": "Introduction:",
+          "link": "https://coinsbench.com/the-lowdown-on-gas-fees-day-11-of-my-30-day-journey-4151714a7e08?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-24T17:28:54.000Z",
+          "wordCount": 1637,
+          "title": "The Lowdown on Gas Fees: Day 11 of My 30-Day Journey",
+          "imageUrl": "https://miro.medium.com/max/1200/1*6hlewCYvd-C9sIQqSpXxTg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/11375e48360e",
+          "author": "GabiDev",
+          "description": "Here is what you need to know. ✍🏻 ✅",
+          "link": "https://coinsbench.com/10-step-blockchain-software-developer-roadmap-from-my-own-experience-11375e48360e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-24T17:28:22.000Z",
+          "wordCount": 2146,
+          "title": "10 Step blockchain software developer roadmap — From my own experience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f1c974ccd24d",
+          "author": "Harish Ramamurthy",
+          "description": "Smart contracts use Events to communicate or provide notifications to the outside world. In Ethereum, when a transaction is mined, smart…",
+          "link": "https://coinsbench.com/fetching-historical-events-from-a-smart-contract-f1c974ccd24d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-24T17:28:11.000Z",
+          "wordCount": 2139,
+          "title": "Fetching Historical Events from a Smart Contract.",
+          "imageUrl": "https://miro.medium.com/max/1109/1*XIWrK-l8bnY-aKmLMz1I4g.png"
+        },
+        {
           "id": "https://medium.com/p/dc3068433274",
           "author": "Code With Marish",
           "description": "Hello friends, In this post, we will use the multisig (multisignature) concept to approve the Fixed Deposit claims. So far we are using the…",
@@ -147,36 +177,6 @@
           "wordCount": 1699,
           "title": "7# Let’s learn Solidity ~ Constant variables",
           "imageUrl": "https://miro.medium.com/max/1200/1*aBFb04zCitS-IfUEQOu_Mw.png"
-        },
-        {
-          "id": "https://medium.com/p/d7de871ca3e3",
-          "author": "Shlok Kumar",
-          "description": "Immutable state variable is used to define storage identifiers that offer more flexibility as their values can be changed after declaration",
-          "link": "https://coinsbench.com/immutable-state-variables-in-solidity-d7de871ca3e3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-21T17:27:52.000Z",
-          "wordCount": 1630,
-          "title": "Immutable State Variables in Solidity",
-          "imageUrl": "https://miro.medium.com/max/1200/1*xqYpiPy-qEz8bCQBpjhA7A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/adc384d7cd8b",
-          "author": "Kuuku Baffoe",
-          "description": "The world of blockchain technology has revolutionized the way we interact with data, creating a new digital world of opportunities. Smart…",
-          "link": "https://coinsbench.com/optimizing-gas-costs-when-writing-smart-contracts-with-solidity-adc384d7cd8b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-21T17:27:50.000Z",
-          "wordCount": 2102,
-          "title": "Optimizing Gas Costs When Writing Smart Contracts with Solidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/53ec44832402",
-          "author": "Code With Marish",
-          "description": "Hello friends, In this post, we will be building a smart contract for a bank and heist it to understand the reentrancy attack. This will…",
-          "link": "https://coinsbench.com/understand-reentrancy-attack-by-building-a-bank-smart-contract-53ec44832402?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-21T17:27:46.000Z",
-          "wordCount": 7076,
-          "title": "Solidity: Build smart contract for bank and understand reentrancy attack",
-          "imageUrl": null
         }
       ]
     },

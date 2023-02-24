@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T17:12:41.400Z</id>
+    <id>urn:2023-02-24T18:17:00.143Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-24T17:12:41.400Z</updated>
+    <updated>2023-02-24T18:17:00.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Lowdown on Gas Fees: Day 11 of My 30-Day Journey]]></title>
+        <id>https://medium.com/p/4151714a7e08</id>
+        <link href="https://coinsbench.com/the-lowdown-on-gas-fees-day-11-of-my-30-day-journey-4151714a7e08?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-24T17:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Introduction:]]></summary>
+        <author>
+            <name>Adedeji Jedidiah Ogunsola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Step blockchain software developer roadmap — From my own experience]]></title>
+        <id>https://medium.com/p/11375e48360e</id>
+        <link href="https://coinsbench.com/10-step-blockchain-software-developer-roadmap-from-my-own-experience-11375e48360e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-24T17:28:22.000Z</updated>
+        <summary type="html"><![CDATA[Here is what you need to know. ✍🏻 ✅]]></summary>
+        <author>
+            <name>GabiDev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fetching Historical Events from a Smart Contract.]]></title>
+        <id>https://medium.com/p/f1c974ccd24d</id>
+        <link href="https://coinsbench.com/fetching-historical-events-from-a-smart-contract-f1c974ccd24d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-24T17:28:11.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts use Events to communicate or provide notifications to the outside world. In Ethereum, when a transaction is mined, smart…]]></summary>
+        <author>
+            <name>Harish Ramamurthy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The DeFi Ascension begins…]]></title>
         <id>https://medium.com/p/eec71f08834c</id>
@@ -213,36 +243,6 @@ The post Gnosis Safes appeared first on Crypto Market Pool.]]></summary>
         <summary type="html"><![CDATA[Constant variables in Solidity are variables that are defined with the constant keyword, indicating that their value cannot be changed once…]]></summary>
         <author>
             <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immutable State Variables in Solidity]]></title>
-        <id>https://medium.com/p/d7de871ca3e3</id>
-        <link href="https://coinsbench.com/immutable-state-variables-in-solidity-d7de871ca3e3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-21T17:27:52.000Z</updated>
-        <summary type="html"><![CDATA[Immutable state variable is used to define storage identifiers that offer more flexibility as their values can be changed after declaration]]></summary>
-        <author>
-            <name>Shlok Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Gas Costs When Writing Smart Contracts with Solidity]]></title>
-        <id>https://medium.com/p/adc384d7cd8b</id>
-        <link href="https://coinsbench.com/optimizing-gas-costs-when-writing-smart-contracts-with-solidity-adc384d7cd8b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-21T17:27:50.000Z</updated>
-        <summary type="html"><![CDATA[The world of blockchain technology has revolutionized the way we interact with data, creating a new digital world of opportunities. Smart…]]></summary>
-        <author>
-            <name>Kuuku Baffoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity: Build smart contract for bank and understand reentrancy attack]]></title>
-        <id>https://medium.com/p/53ec44832402</id>
-        <link href="https://coinsbench.com/understand-reentrancy-attack-by-building-a-bank-smart-contract-53ec44832402?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-21T17:27:46.000Z</updated>
-        <summary type="html"><![CDATA[Hello friends, In this post, we will be building a smart contract for a bank and heist it to understand the reentrancy attack. This will…]]></summary>
-        <author>
-            <name>Code With Marish</name>
         </author>
     </entry>
     <entry>
