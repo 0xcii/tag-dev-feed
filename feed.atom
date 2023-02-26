@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T14:11:19.803Z</id>
+    <id>urn:2023-02-26T15:12:35.489Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-26T14:11:19.803Z</updated>
+    <updated>2023-02-26T15:12:35.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -474,35 +474,6 @@ Currently, in the docs of The Gra…]]></summary>
         <summary type="html"><![CDATA[To integrate Merkle Tree into your NFT collection you need to change your smart contract and also your DAPP.]]></summary>
         <author>
             <name>Omar EZKER</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevNTell - Mirror World SDK]]></title>
-        <id>https://blog.developerdao.com/devntell-mirror-world-sdk</id>
-        <link href="https://blog.developerdao.com/devntell-mirror-world-sdk"/>
-        <updated>2023-01-28T02:32:38.000Z</updated>
-        <summary type="html"><![CDATA[In this week's episode of DevNTell, CTO of Mirror World Jonathan Bakebwa gave us an overview of the Mirror World SDK: a cross-platform SDK that provides a simple, declarative API interface for building Mobile and Web dApps in a multi-chain context.
-🚀 About Mirror World
-From the Mirror World Docs:
-We built Mirror World to accelerate the adoption of decentralized technologies. At present there are a lot of challenges faced with building decentralized applications:
-For users, the onboarding process is severely complex - requiring new user to install various wallet extensions and learn about private key management before they even interact with the dApp is a taxing effort.
-For developers, it is no hidden secret that building Web 3 applications is also significantly complex. The average developer will not only have to have proficiency both at the protocol level for blockchain development, they must also possess application level proficiency to build a successful dApps to their users. This increases the time to market.
-For individuals/teams with limited time and resources, this effort would be better spent improving their core product and iterating quickly for their users.
-Therefore, we built the Mirror World Smart SDK to make it easy for developers to:
-Onboard new Web3 users with one click. - No more seed-phrases! Mirror World's Smart Auth provides authentication with methods your users are already familiar with.
-Fast-track your Web3 development time. - The Mirror World API provides a simple, yet powerful and declarative interface for interacting with the chain.
-Target multiple platforms - The Mirror World Smart SDK is cross-platform. Build for the Web. Build for Mobile. Build with speed.
-Useful Resources:
-Congregated list of Resources (use this to get started with Mirror World)
-Website
-Jonathon's Twitter
-🎥 Presentation
-
-
-
-https://www.youtube.com/watch?v=OfFieWwtDhg]]></summary>
-        <author>
-            <name>Narbeh Shahnazarian</name>
         </author>
     </entry>
 </feed>
