@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-27T17:12:40.578Z</id>
+    <id>urn:2023-02-27T18:17:12.943Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-27T17:12:40.578Z</updated>
+    <updated>2023-02-27T18:17:12.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Thyra - A Secure and User-Friendly Gateway to the Massa Blockchain]]></title>
+        <id>https://medium.com/p/bf46a680b25f</id>
+        <link href="https://coinsbench.com/thyra-a-secure-and-user-friendly-gateway-to-the-massa-blockchain-bf46a680b25f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-27T17:51:58.000Z</updated>
+        <summary type="html"><![CDATA[Thyra is a client application developed by MassaLabs for hosting and browsing decentralized websites on the Massa blockchain. It is a fully…]]></summary>
+        <author>
+            <name>SkillovuU</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Web3 Donation Page]]></title>
+        <id>https://medium.com/p/44e7e5571429</id>
+        <link href="https://coinsbench.com/a-web3-donation-page-44e7e5571429?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-27T17:51:50.000Z</updated>
+        <summary type="html"><![CDATA[Web3 functionalities: Connect and Send]]></summary>
+        <author>
+            <name>TechExplorer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reentrancy — Ethernaut Smart Contract Hacking]]></title>
+        <id>https://medium.com/p/c465ddf50641</id>
+        <link href="https://coinsbench.com/reentrancy-ethernaut-smart-contract-hacking-c465ddf50641?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-27T17:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Task:]]></summary>
+        <author>
+            <name>natnat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Answer-to-Earn Platform with React, Solidity, and CometChat]]></title>
+        <id>https://medium.com/p/8ea4c7d0b1bd</id>
+        <link href="https://coinsbench.com/how-to-build-an-answer-to-earn-platform-with-react-solidity-and-cometchat-8ea4c7d0b1bd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-27T17:51:32.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial combines blockchain technology, real-time communication, and user-generated content to create an interactive platform that…]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tezos (XTZ) Price Prediction 2023–2025, update 23th of February]]></title>
         <id>https://medium.com/p/9b852fa0b481</id>
@@ -245,36 +285,6 @@ For example, we could use one blo…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solidity: Fixed Deposit feature in our Bank Smart Contract]]></title>
-        <id>https://medium.com/p/6f4b83a58766</id>
-        <link href="https://coinsbench.com/solidity-fixed-deposit-feature-in-our-bank-smart-contract-6f4b83a58766?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-22T17:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Hello friends, In this post, we will implement the Fixed Deposit feature in our bank smart contract using solidity, which will help you…]]></summary>
-        <author>
-            <name>Code With Marish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Solidity: The language of the new web!]]></title>
-        <id>https://medium.com/p/a9ec67954e5f</id>
-        <link href="https://coinsbench.com/welcome-to-solidity-the-language-of-the-new-web-a9ec67954e5f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-22T17:04:44.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll take a beginner-friendly approach to Solidity, covering its basic syntax, data types, and other essential concepts…]]></summary>
-        <author>
-            <name>Meyoron Aghogho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is a Dapp deployment like making a cocktail?]]></title>
-        <id>https://medium.com/p/c1f53313e8d7</id>
-        <link href="https://coinsbench.com/why-is-odapp-deployment-like-making-a-cocktail-c1f53313e8d7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-22T17:04:39.000Z</updated>
-        <summary type="html"><![CDATA[Although today applications built on the blockchain have not yet been able to completely replace some Web2 services for us, the world has…]]></summary>
-        <author>
-            <name>ASSOC-exe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gnosis Safes]]></title>
         <id>https://cryptomarketpool.com/?p=21551</id>
         <link href="https://cryptomarketpool.com/gnosis-safes/"/>
@@ -283,16 +293,6 @@ For example, we could use one blo…]]></summary>
 The post Gnosis Safes appeared first on Crypto Market Pool.]]></summary>
         <author>
             <name>Crypto Market Pool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7# Let’s learn Solidity ~ Constant variables]]></title>
-        <id>https://medium.com/p/1f894c33c63a</id>
-        <link href="https://coinsbench.com/7-lets-learn-solidity-constant-variables-1f894c33c63a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-21T17:27:54.000Z</updated>
-        <summary type="html"><![CDATA[Constant variables in Solidity are variables that are defined with the constant keyword, indicating that their value cannot be changed once…]]></summary>
-        <author>
-            <name>ismail</name>
         </author>
     </entry>
     <entry>

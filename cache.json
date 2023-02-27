@@ -41,7 +41,7 @@
           "description": "In this tutorial we will create a DAO smart contract. A DAO (Decentralized Autonomous Organization) is a type of organization…\nThe post How to create a DAO appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/how-to-create-a-dao/",
           "publishedOn": "2023-02-18T15:40:47.000Z",
-          "wordCount": 4263,
+          "wordCount": 4264,
           "title": "How to create a DAO",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -78,6 +78,46 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/bf46a680b25f",
+          "author": "SkillovuU",
+          "description": "Thyra is a client application developed by MassaLabs for hosting and browsing decentralized websites on the Massa blockchain. It is a fully…",
+          "link": "https://coinsbench.com/thyra-a-secure-and-user-friendly-gateway-to-the-massa-blockchain-bf46a680b25f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-27T17:51:58.000Z",
+          "wordCount": 3014,
+          "title": "Thyra - A Secure and User-Friendly Gateway to the Massa Blockchain",
+          "imageUrl": "https://miro.medium.com/max/1200/1*7lxgnAQKPTjhKUzXxg4sXg.png"
+        },
+        {
+          "id": "https://medium.com/p/44e7e5571429",
+          "author": "TechExplorer",
+          "description": "Web3 functionalities: Connect and Send",
+          "link": "https://coinsbench.com/a-web3-donation-page-44e7e5571429?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-27T17:51:50.000Z",
+          "wordCount": 1514,
+          "title": "A Web3 Donation Page",
+          "imageUrl": "https://miro.medium.com/max/1200/1*AYrnPQolwdi8zcktryJHdA.png"
+        },
+        {
+          "id": "https://medium.com/p/c465ddf50641",
+          "author": "natnat",
+          "description": "Task:",
+          "link": "https://coinsbench.com/reentrancy-ethernaut-smart-contract-hacking-c465ddf50641?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-27T17:51:46.000Z",
+          "wordCount": 2003,
+          "title": "Reentrancy — Ethernaut Smart Contract Hacking",
+          "imageUrl": "https://miro.medium.com/max/1200/1*k1zL8oNdLlquAbOwR09nCA.png"
+        },
+        {
+          "id": "https://medium.com/p/8ea4c7d0b1bd",
+          "author": "Darlington Gospel",
+          "description": "This tutorial combines blockchain technology, real-time communication, and user-generated content to create an interactive platform that…",
+          "link": "https://coinsbench.com/how-to-build-an-answer-to-earn-platform-with-react-solidity-and-cometchat-8ea4c7d0b1bd?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-27T17:51:32.000Z",
+          "wordCount": 4429,
+          "title": "How to Build an Answer-to-Earn Platform with React, Solidity, and CometChat",
+          "imageUrl": "https://miro.medium.com/max/1200/0*N4TzCOA1Yk7ubGF8.png"
+        },
         {
           "id": "https://medium.com/p/4151714a7e08",
           "author": "Adedeji Jedidiah Ogunsola",
@@ -137,46 +177,6 @@
           "wordCount": 3139,
           "title": "How to use Foundry, an indispensable tool for web3 development(2)",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6f4b83a58766",
-          "author": "Code With Marish",
-          "description": "Hello friends, In this post, we will implement the Fixed Deposit feature in our bank smart contract using solidity, which will help you…",
-          "link": "https://coinsbench.com/solidity-fixed-deposit-feature-in-our-bank-smart-contract-6f4b83a58766?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-22T17:05:08.000Z",
-          "wordCount": 5455,
-          "title": "Solidity: Fixed Deposit feature in our Bank Smart Contract",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a9ec67954e5f",
-          "author": "Meyoron Aghogho",
-          "description": "In this article, we’ll take a beginner-friendly approach to Solidity, covering its basic syntax, data types, and other essential concepts…",
-          "link": "https://coinsbench.com/welcome-to-solidity-the-language-of-the-new-web-a9ec67954e5f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-22T17:04:44.000Z",
-          "wordCount": 3888,
-          "title": "Welcome to Solidity: The language of the new web!",
-          "imageUrl": "https://miro.medium.com/max/1000/1*MNjCwJCRw1U1z3r184vNPw.png"
-        },
-        {
-          "id": "https://medium.com/p/c1f53313e8d7",
-          "author": "ASSOC-exe",
-          "description": "Although today applications built on the blockchain have not yet been able to completely replace some Web2 services for us, the world has…",
-          "link": "https://coinsbench.com/why-is-odapp-deployment-like-making-a-cocktail-c1f53313e8d7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-22T17:04:39.000Z",
-          "wordCount": 2593,
-          "title": "Why is a Dapp deployment like making a cocktail?",
-          "imageUrl": "https://miro.medium.com/max/1200/1*bVjrYaHk0I0kTwk2HOwPRg.png"
-        },
-        {
-          "id": "https://medium.com/p/1f894c33c63a",
-          "author": "ismail",
-          "description": "Constant variables in Solidity are variables that are defined with the constant keyword, indicating that their value cannot be changed once…",
-          "link": "https://coinsbench.com/7-lets-learn-solidity-constant-variables-1f894c33c63a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-21T17:27:54.000Z",
-          "wordCount": 1695,
-          "title": "7# Let’s learn Solidity ~ Constant variables",
-          "imageUrl": "https://miro.medium.com/max/1200/1*aBFb04zCitS-IfUEQOu_Mw.png"
         }
       ]
     },
@@ -241,7 +241,7 @@
           "description": "When it comes to Bitcoin, the terms “Satoshi” and “Bitcoin” are often used interchangeably.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/i-asked-chatgpt-how-many-satoshi-are-in-one-bitcoin-dc7e162afbcd?source=rss----721b17443fd5---4",
           "publishedOn": "2023-02-27T15:30:50.000Z",
-          "wordCount": 1067,
+          "wordCount": 1277,
           "title": "I asked ChatGPT: How many Satoshi are in one Bitcoin?",
           "imageUrl": "https://miro.medium.com/max/1200/1*rwU2jtIdrSZdo6yk56hvoQ.jpeg"
         },
@@ -251,7 +251,7 @@
           "description": "Do you want to develop your own apps? Then you should learn about the Solidity programming language! Solidity is a programming language…",
           "link": "https://medium.com/coinmonks/unlock-the-secret-to-building-your-apps-with-solidity-programming-6993ae63ed7a?source=rss----721b17443fd5---4",
           "publishedOn": "2023-02-27T15:30:39.000Z",
-          "wordCount": 5060,
+          "wordCount": 5244,
           "title": "Unlock the Secret to Building Your Apps with Solidity Programming!",
           "imageUrl": "https://miro.medium.com/max/1200/0*3bUcNVM0R7tcAsau"
         },
@@ -261,7 +261,7 @@
           "description": "Fallback function is executed when the contract receives plain Ether without any data.",
           "link": "https://medium.com/coinmonks/fallback-functions-in-solidity-c5e05ea7341?source=rss----721b17443fd5---4",
           "publishedOn": "2023-02-27T15:30:32.000Z",
-          "wordCount": 1937,
+          "wordCount": 2104,
           "title": "Fallback Functions in Solidity",
           "imageUrl": "https://miro.medium.com/max/1200/1*91bSNh-N5arPcP8k17b56A.jpeg"
         },
@@ -271,7 +271,7 @@
           "description": "In previous article I told you about “Copy Trading” system and represent you the Pros and Cons of this method, now I want to give you 10…",
           "link": "https://medium.com/coinmonks/10-reasons-you-should-use-copy-trading-as-a-beginner-c233f9916724?source=rss----721b17443fd5---4",
           "publishedOn": "2023-02-27T15:30:26.000Z",
-          "wordCount": 1890,
+          "wordCount": 2103,
           "title": "10 reasons you should use copy trading as a beginner?",
           "imageUrl": "https://miro.medium.com/max/1200/1*LzkDVFOYbDa4rhb9h3NzSw.jpeg"
         },
@@ -281,7 +281,7 @@
           "description": "Chris Myles (Blogger Evolution)\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/from-9-5-to-financial-freedom-the-inspiring-journey-of-chris-myles-d2091aea6537?source=rss----721b17443fd5---4",
           "publishedOn": "2023-02-27T15:30:19.000Z",
-          "wordCount": 1038,
+          "wordCount": 1207,
           "title": "From 9–5 to Financial Freedom: The Inspiring Journey of Chris Myles",
           "imageUrl": "https://miro.medium.com/max/1200/1*ciqKpFSj0cTpHI5a50r80A.jpeg"
         }
