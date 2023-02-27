@@ -11,7 +11,7 @@
           "description": "In this article we will discuss Gnosis Safes with Python. Gnosis Safes is a powerful smart contract wallet on the…\nThe post Interact with Gnosis Safes with Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/interact-with-gnosis-safes-with-python/",
           "publishedOn": "2023-02-25T05:45:30.000Z",
-          "wordCount": 3631,
+          "wordCount": 3667,
           "title": "Interact with Gnosis Safes with Python",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Gnosis Safes is an open-source platform that allows users to create secure and customizable smart contract wallets on the Ethereum…\nThe post Gnosis Safes appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/gnosis-safes/",
           "publishedOn": "2023-02-22T05:05:20.000Z",
-          "wordCount": 3877,
+          "wordCount": 3913,
           "title": "Gnosis Safes",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2023/02/image.png"
         },
@@ -31,7 +31,7 @@
           "description": "Creating a Solidity Smart Contract with Account Abstraction. One of the most exciting features of Solidity is account abstraction. Account…\nThe post Solidity account abstraction appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/solidity-account-abstraction/",
           "publishedOn": "2023-02-20T05:01:08.000Z",
-          "wordCount": 3706,
+          "wordCount": 3742,
           "title": "Solidity account abstraction",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -41,7 +41,7 @@
           "description": "In this tutorial we will create a DAO smart contract. A DAO (Decentralized Autonomous Organization) is a type of organization…\nThe post How to create a DAO appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/how-to-create-a-dao/",
           "publishedOn": "2023-02-18T15:40:47.000Z",
-          "wordCount": 4228,
+          "wordCount": 4263,
           "title": "How to create a DAO",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -51,7 +51,7 @@
           "description": "Modules in Solidity. Solidity is the most widely used programming language for writing smart contracts on the Ethereum blockchain. It’s…\nThe post Modules in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/modules-in-solidity/",
           "publishedOn": "2023-02-13T04:27:10.000Z",
-          "wordCount": 3769,
+          "wordCount": 3805,
           "title": "Modules in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -61,7 +61,7 @@
           "description": "Creating a Smart Contract for Subscription Payments in Ethereum Solidity Solidity is the programming language for writing smart contracts on…\nThe post Subscription payments in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/subscription-payments-in-solidity/",
           "publishedOn": "2023-02-04T14:50:43.000Z",
-          "wordCount": 3566,
+          "wordCount": 3602,
           "title": "Subscription payments in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         }
@@ -186,104 +186,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/9ce3893696cc",
+          "id": "https://medium.com/p/c67b1dff8b78",
+          "author": "Jim Fox",
+          "description": "Developers have always been the unsung heroes behind every major tech evolution. I’ve seen a lot of technologies and companies come and go…",
+          "link": "https://medium.com/coinmonks/developers-look-to-bitcoin-c67b1dff8b78?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-27T14:13:29.000Z",
+          "wordCount": 2996,
+          "title": "Developers Look to Bitcoin",
+          "imageUrl": "https://miro.medium.com/max/1200/0*wggg2YDcBtRzwDzO"
+        },
+        {
+          "id": "https://medium.com/p/847d121e9f53",
+          "author": "Wasif M Rahman",
+          "description": "Over the next decade, we will see many traditional content creators begin to adopt blockchain technology and specifically NFTs as a…",
+          "link": "https://medium.com/coinmonks/diversifying-revenue-streams-in-the-web-3-creator-economy-847d121e9f53?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-27T14:13:21.000Z",
+          "wordCount": 1945,
+          "title": "Diversifying Revenue Streams in The Web 3 Creator Economy",
+          "imageUrl": "https://miro.medium.com/max/1200/1*NYLqwG_EviUxlYGNbahOUA.png"
+        },
+        {
+          "id": "https://medium.com/p/a7d26643b32",
+          "author": "Florian Grummes",
+          "description": "In the first few weeks of 2023, Bitcoin’s price has continued its upward trajectory, fueled by growing institutional adoption and…",
+          "link": "https://medium.com/coinmonks/february-23rd-2023-bitcoin-next-target-30-000-usd-a7d26643b32?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-27T14:13:14.000Z",
+          "wordCount": 5122,
+          "title": "February 23rd, 2023, Bitcoin — Next target 30,000 USD",
+          "imageUrl": "https://miro.medium.com/max/798/1*W-uCsZKRYlcEvbkr9FtQmw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/85c29ab9f7a5",
+          "author": "Indigo Labs Foundation",
+          "description": "The global economy has faced significant challenges in recent years, including the impact of the coronavirus pandemic and military…",
+          "link": "https://medium.com/coinmonks/economic-recession-external-factors-2022-part-2-85c29ab9f7a5?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-27T14:13:08.000Z",
+          "wordCount": 9615,
+          "title": "Economic recession — external factors 2022 (part 2)",
+          "imageUrl": "https://miro.medium.com/max/700/0*oXAa3l7wm1iO8WPK.png"
+        },
+        {
+          "id": "https://medium.com/p/37d215446ec9",
+          "author": "Crypto Beat",
+          "description": "Crypto tax software can be a great tool for managing your cryptocurrency taxes. There are a number of different crypto tax software.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/best-crypto-tax-software-37d215446ec9?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-27T14:13:02.000Z",
+          "wordCount": 1099,
+          "title": "Best Crypto Tax Software",
+          "imageUrl": "https://miro.medium.com/max/1200/0*pXVC0lpyDMa6TCQK"
+        },
+        {
+          "id": "https://medium.com/p/97c6f8abcff1",
+          "author": "Crypto Beat",
+          "description": "Stripe’s expansion of its Global Payouts service with cryptocurrency is a great way for businesses to simplify global payments.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/stripe-crypto-97c6f8abcff1?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-27T14:12:51.000Z",
+          "wordCount": 1068,
+          "title": "Stripe Crypto",
+          "imageUrl": "https://miro.medium.com/max/1200/0*v9YgpF5Q743FmhKI"
+        },
+        {
+          "id": "https://medium.com/p/c7adccbc0871",
           "author": "Vremaroiu Alin",
-          "description": "Can You Explain the XRP Token?\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/ripple-xrp-price-prediction-2023-2025-update-24th-of-february-9ce3893696cc?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-27T14:10:17.000Z",
-          "wordCount": 1033,
-          "title": "Ripple (XRP) Price Prediction 2023–2025,update 24th of February",
-          "imageUrl": "https://miro.medium.com/max/1200/1*g8YsSn8_Ez33fUcC9VhfEA.jpeg"
+          "description": "Polygon (MATIC)\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/2-cryptocurrencies-to-buy-before-bull-market-c7adccbc0871?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-27T14:12:34.000Z",
+          "wordCount": 1030,
+          "title": "2 Cryptocurrencies to Buy Before Bull Market",
+          "imageUrl": "https://miro.medium.com/max/1200/1*2ErXiF1yHf1FMRGf16xqKA.jpeg"
         },
         {
-          "id": "https://medium.com/p/a1e79ada456c",
+          "id": "https://medium.com/p/443d485c5616",
           "author": "Vremaroiu Alin",
-          "description": "Investing is an essential part of wealth creation, and there are various types of investors in the market. Each investor has their…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/i-asked-chatgpt-which-are-the-types-of-investors-a1e79ada456c?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-27T14:10:10.000Z",
-          "wordCount": 1055,
-          "title": "I asked ChatGPT: Which are the types of investors?",
-          "imageUrl": "https://miro.medium.com/max/1200/1*kcgdlmbz6RSfbvQqlAisCg.jpeg"
+          "description": "Bitcoin, Ethereum, and Binance Coin are some of the most popular cryptocurrencies in the world. Each of them has its unique features and…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/i-asked-chatgpt-bitcoin-vs-ethereum-vs-binance-coin-which-is-better-443d485c5616?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-27T14:12:27.000Z",
+          "wordCount": 1070,
+          "title": "I asked ChatGPT: Bitcoin vs Ethereum vs Binance Coin .Which is better?",
+          "imageUrl": "https://miro.medium.com/max/1200/1*SLk7_sbZdZ6Ed0M8t0yP4Q.jpeg"
         },
         {
-          "id": "https://medium.com/p/4e20611f804",
-          "author": "Vremaroiu Alin",
-          "description": "Understanding your investor profile is crucial when it comes to making investment decisions.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/i-asked-chatgpt-how-i-can-understand-which-is-my-investor-profile-4e20611f804?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-27T14:10:04.000Z",
-          "wordCount": 1060,
-          "title": "I asked ChatGPT: How I can understand which is my investor profile?",
-          "imageUrl": "https://miro.medium.com/max/1200/1*3N0DbnzTLYg4HVngESIgig.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/fd13cc57caa",
-          "author": "Roberto",
-          "description": "Have you ever felt trapped in a financial system that seems to control your every move?\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-benefits-of-a-decentralized-financial-system-for-freedom-fd13cc57caa?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-27T14:09:57.000Z",
-          "wordCount": 1085,
-          "title": "The Benefits of a Decentralized Financial System for Freedom",
-          "imageUrl": "https://miro.medium.com/max/1024/1*GgA5z-jNe-IpYRjnsHBMVA.png"
-        },
-        {
-          "id": "https://medium.com/p/d949eb1a4674",
+          "id": "https://medium.com/p/830094246e7f",
           "author": "Christopher H. Loo, MD-PhD",
-          "description": "Paul Halme\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/interview-with-paul-halme-from-stock-broker-to-entrepreneur-d949eb1a4674?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-27T14:09:51.000Z",
+          "description": "Mark Yegge (Architecting Wealth Podcast)\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/architecting-wealth-an-interview-with-mark-yegge-830094246e7f?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-27T14:12:14.000Z",
           "wordCount": 1055,
-          "title": "Interview with Paul Halme: From Stock Broker to Entrepreneur",
-          "imageUrl": "https://miro.medium.com/max/1200/1*NETo1SjD7hv2STED04vIUQ.jpeg"
+          "title": "Architecting Wealth: An Interview with Mark Yegge",
+          "imageUrl": "https://miro.medium.com/max/1200/1*ugs5hjAHpnIW5IKGK5S5ow.jpeg"
         },
         {
-          "id": "https://medium.com/p/23e86153a9db",
-          "author": "Christopher H. Loo, MD-PhD",
-          "description": "Brandon Beliso\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/brandon-beliso-a-martial-arts-master-and-purpose-driven-influencer-23e86153a9db?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-27T14:09:44.000Z",
-          "wordCount": 1060,
-          "title": "Brandon Beliso: A Martial Arts Master and Purpose-Driven Influencer",
-          "imageUrl": "https://miro.medium.com/max/1200/1*zacsk2-TSJfIbzeeKzhoSw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/5841e8542831",
-          "author": "Mike Coldman",
-          "description": "This article explains why Ethereum is my most significant investment in 2023!\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/i-explain-why-ethereum-is-my-most-significant-investment-in-2023-in-more-detail-5841e8542831?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-27T14:09:37.000Z",
-          "wordCount": 1013,
-          "title": "I explain why Ethereum is my most significant investment in 2023! In more detail!",
-          "imageUrl": "https://miro.medium.com/max/1000/1*QLdgupZ7Ql1fmeJSX_mVTw.png"
-        },
-        {
-          "id": "https://medium.com/p/45f131902692",
-          "author": "Chuxiaolian",
-          "description": "I wrote an article “It is not easy to make money in the currency circle”, and received the same feeling from some friends, most of them…",
-          "link": "https://medium.com/coinmonks/20-of-people-who-make-money-in-the-crypto-market-are-doing-these-things-45f131902692?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-27T14:09:26.000Z",
-          "wordCount": 2736,
-          "title": "20% of people who make money in the crypto market are doing these things",
-          "imageUrl": "https://miro.medium.com/max/655/0*bOk6OzmA8UbrKuV_"
-        },
-        {
-          "id": "https://medium.com/p/d6e045ccb657",
-          "author": "Lera",
-          "description": "Tips & Tricks",
-          "link": "https://medium.com/coinmonks/quick-review-on-the-best-crypto-trading-platforms-for-beginners-d6e045ccb657?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-27T14:09:19.000Z",
-          "wordCount": 2461,
-          "title": "Quick Review on the Best Crypto Trading Platforms for Beginners",
-          "imageUrl": "https://miro.medium.com/max/1200/0*0bCu4RfpG7BcNzKs"
-        },
-        {
-          "id": "https://medium.com/p/d3ad038b910",
-          "author": "CryptoRevolution",
-          "description": "With so many analysts claiming that the Metaverse is the Internet's future, it's no surprise that investors want to know about the best…",
-          "link": "https://medium.com/coinmonks/4-metaverse-coins-that-will-continue-to-climb-in-2023-d3ad038b910?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-02-27T14:09:10.000Z",
-          "wordCount": 2950,
-          "title": "4 Metaverse Coins That Will Continue to climb in 2023.",
-          "imageUrl": "https://miro.medium.com/max/1080/1*KAb8bCbdEMXT_LzDpf-_oQ.jpeg"
+          "id": "https://medium.com/p/65ee62f87712",
+          "author": "The Wolf of Wallet Street",
+          "description": "Part 2, let’s get it.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/23-crypto-coins-for-2023-part-2-2-65ee62f87712?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-02-27T14:12:07.000Z",
+          "wordCount": 1036,
+          "title": "23 crypto coins for 2023 (part 2/2)",
+          "imageUrl": "https://miro.medium.com/max/1200/1*shZo5CTzzDtvcXXj8qwxgA.jpeg"
         }
       ]
     },
