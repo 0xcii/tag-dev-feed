@@ -99,16 +99,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*6hlewCYvd-C9sIQqSpXxTg.jpeg"
         },
         {
-          "id": "https://medium.com/p/f29ea4f557cc",
-          "author": "Kuuku Baffoe",
-          "description": "Events and logs are a dynamic and powerful feature of the Solidity programming language that enable developers and users to gain greater…",
-          "link": "https://coinsbench.com/understanding-solidity-events-and-logs-f29ea4f557cc?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-28T17:39:49.000Z",
-          "wordCount": 3086,
-          "title": "Understanding Solidity Events and Logs",
-          "imageUrl": null
-        },
-        {
           "id": "https://medium.com/p/b339eb52c5b5",
           "author": "Rohit sutar",
           "description": "In Solidity, abi.encode() and abi.decode() is used to serialize and deserialize data structures.",
@@ -177,6 +167,16 @@
           "wordCount": 2142,
           "title": "10 Step blockchain software developer roadmap — From my own experience",
           "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f1c974ccd24d",
+          "author": "Harish Ramamurthy",
+          "description": "Smart contracts use Events to communicate or provide notifications to the outside world. In Ethereum, when a transaction is mined, smart…",
+          "link": "https://coinsbench.com/fetching-historical-events-from-a-smart-contract-f1c974ccd24d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-24T17:28:11.000Z",
+          "wordCount": 2135,
+          "title": "Fetching Historical Events from a Smart Contract.",
+          "imageUrl": "https://miro.medium.com/max/1109/1*XIWrK-l8bnY-aKmLMz1I4g.png"
         }
       ]
     },

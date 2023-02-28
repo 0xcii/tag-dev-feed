@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-28T21:12:15.769Z</id>
+    <id>urn:2023-02-28T22:12:55.633Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-28T21:12:15.769Z</updated>
+    <updated>2023-02-28T22:12:55.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -44,16 +44,6 @@ Continue reading on Block Magnates »]]></summary>
         <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Adedeji Jedidiah Ogunsola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Solidity Events and Logs]]></title>
-        <id>https://medium.com/p/f29ea4f557cc</id>
-        <link href="https://coinsbench.com/understanding-solidity-events-and-logs-f29ea4f557cc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-28T17:39:49.000Z</updated>
-        <summary type="html"><![CDATA[Events and logs are a dynamic and powerful feature of the Solidity programming language that enable developers and users to gain greater…]]></summary>
-        <author>
-            <name>Kuuku Baffoe</name>
         </author>
     </entry>
     <entry>
@@ -266,6 +256,16 @@ The post Interact with Gnosis Safes with Python appeared first on Crypto Market 
         <summary type="html"><![CDATA[Here is what you need to know. ✍🏻 ✅]]></summary>
         <author>
             <name>GabiDev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fetching Historical Events from a Smart Contract.]]></title>
+        <id>https://medium.com/p/f1c974ccd24d</id>
+        <link href="https://coinsbench.com/fetching-historical-events-from-a-smart-contract-f1c974ccd24d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-24T17:28:11.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts use Events to communicate or provide notifications to the outside world. In Ethereum, when a transaction is mined, smart…]]></summary>
+        <author>
+            <name>Harish Ramamurthy</name>
         </author>
     </entry>
     <entry>
