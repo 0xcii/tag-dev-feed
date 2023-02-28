@@ -21,7 +21,7 @@
           "description": "Gnosis Safes is an open-source platform that allows users to create secure and customizable smart contract wallets on the Ethereum…\nThe post Gnosis Safes appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/gnosis-safes/",
           "publishedOn": "2023-02-22T05:05:20.000Z",
-          "wordCount": 3916,
+          "wordCount": 3915,
           "title": "Gnosis Safes",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2023/02/image.png"
         },
@@ -41,7 +41,7 @@
           "description": "In this tutorial we will create a DAO smart contract. A DAO (Decentralized Autonomous Organization) is a type of organization…\nThe post How to create a DAO appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/how-to-create-a-dao/",
           "publishedOn": "2023-02-18T15:40:47.000Z",
-          "wordCount": 4265,
+          "wordCount": 4266,
           "title": "How to create a DAO",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -61,7 +61,7 @@
           "description": "Creating a Smart Contract for Subscription Payments in Ethereum Solidity Solidity is the programming language for writing smart contracts on…\nThe post Subscription payments in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/subscription-payments-in-solidity/",
           "publishedOn": "2023-02-04T14:50:43.000Z",
-          "wordCount": 3603,
+          "wordCount": 3604,
           "title": "Subscription payments in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         }
@@ -78,6 +78,46 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/3d9ff0ca5ab1",
+          "author": "Beach Crypto",
+          "description": "LayerZero OpenZeppelin ERC721 Mintable with URI Storage",
+          "link": "https://coinsbench.com/deploy-mint-and-send-an-erc721-nft-from-ethereum-to-polygon-testnets-with-layerzero-in-remix-3d9ff0ca5ab1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-28T17:40:11.000Z",
+          "wordCount": 2781,
+          "title": "Deploy, Mint and Send an ERC721 NFT From Ethereum to Polygon Testnets with LayerZero in Remix",
+          "imageUrl": "https://miro.medium.com/max/1200/1*VETRLtJFPjVdk1PZyPCr7w.png"
+        },
+        {
+          "id": "https://medium.com/p/e876bd8e1461",
+          "author": "Adedeji Jedidiah Ogunsola",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/demystifying-consensus-algorithms-day-13-of-my-30-day-journey-e876bd8e1461?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-28T17:39:51.000Z",
+          "wordCount": 1668,
+          "title": "Demystifying Consensus Algorithms: Day 13 of My 30-Day Journey",
+          "imageUrl": "https://miro.medium.com/max/1200/1*6hlewCYvd-C9sIQqSpXxTg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/f29ea4f557cc",
+          "author": "Kuuku Baffoe",
+          "description": "Events and logs are a dynamic and powerful feature of the Solidity programming language that enable developers and users to gain greater…",
+          "link": "https://coinsbench.com/understanding-solidity-events-and-logs-f29ea4f557cc?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-28T17:39:49.000Z",
+          "wordCount": 3086,
+          "title": "Understanding Solidity Events and Logs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b339eb52c5b5",
+          "author": "Rohit sutar",
+          "description": "In Solidity, abi.encode() and abi.decode() is used to serialize and deserialize data structures.",
+          "link": "https://coinsbench.com/solidity-abi-encode-and-decode-b339eb52c5b5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-02-28T17:39:46.000Z",
+          "wordCount": 2648,
+          "title": "Solidity ABI Encode and Decode.",
+          "imageUrl": "https://miro.medium.com/max/1200/1*mvInnsm8cDdAhvdNeGbFWw.jpeg"
+        },
         {
           "id": "https://medium.com/p/bf46a680b25f",
           "author": "SkillovuU",
@@ -136,46 +176,6 @@
           "publishedOn": "2023-02-24T17:28:22.000Z",
           "wordCount": 2142,
           "title": "10 Step blockchain software developer roadmap — From my own experience",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f1c974ccd24d",
-          "author": "Harish Ramamurthy",
-          "description": "Smart contracts use Events to communicate or provide notifications to the outside world. In Ethereum, when a transaction is mined, smart…",
-          "link": "https://coinsbench.com/fetching-historical-events-from-a-smart-contract-f1c974ccd24d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-24T17:28:11.000Z",
-          "wordCount": 2135,
-          "title": "Fetching Historical Events from a Smart Contract.",
-          "imageUrl": "https://miro.medium.com/max/1109/1*XIWrK-l8bnY-aKmLMz1I4g.png"
-        },
-        {
-          "id": "https://medium.com/p/dc3068433274",
-          "author": "Code With Marish",
-          "description": "Hello friends, In this post, we will use the multisig (multisignature) concept to approve the Fixed Deposit claims. So far we are using the…",
-          "link": "https://coinsbench.com/solidity-multisig-demo-using-our-bank-smart-contract-dc3068433274?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-23T11:55:03.000Z",
-          "wordCount": 2660,
-          "title": "Solidity: Multisig Demo using our Bank smart contract",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/cb1ef6b5e335",
-          "author": "Adedeji Jedidiah Ogunsola",
-          "description": "Exploring the Advantages, Drawbacks, and Future of Decentralized Contract Technology",
-          "link": "https://coinsbench.com/smart-contracts-the-legal-documents-of-the-21st-century-or-not-cb1ef6b5e335?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-23T11:55:01.000Z",
-          "wordCount": 4716,
-          "title": "Smart Contracts: The Legal Documents of the 21st Century (or Not)",
-          "imageUrl": "https://miro.medium.com/max/1024/0*Rf0sHDGVAJ14LfdV"
-        },
-        {
-          "id": "https://medium.com/p/14c7773a97d7",
-          "author": "EggDragon",
-          "description": "This series will explain in detail how to use foundry, which is indispensable for web3 development.I hope that many people will find…",
-          "link": "https://coinsbench.com/how-to-use-foundry-an-indispensable-tool-for-web3-development-2-14c7773a97d7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-22T17:05:10.000Z",
-          "wordCount": 3139,
-          "title": "How to use Foundry, an indispensable tool for web3 development(2)",
           "imageUrl": null
         }
       ]
@@ -292,6 +292,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/cec0f9693cb4",
+          "author": "Kristaps Grinbergs",
+          "description": "In the previous post, we discussed meta transactions and the EIP-712 standard.\nContinue reading on Block Magnates »",
+          "link": "https://blog.blockmagnates.com/understanding-the-signing-process-of-solidity-transactions-with-ethers-js-cec0f9693cb4?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-02-28T17:52:21.000Z",
+          "wordCount": 2340,
+          "title": "Understanding the Signing Process of Solidity Transactions with Ethers.js",
+          "imageUrl": "https://miro.medium.com/max/1200/1*YY27gDt8peUf4UFn09b_gA.jpeg"
+        },
         {
           "id": "https://medium.com/p/40eb04bbe728",
           "author": "Kuuku Baffoe",

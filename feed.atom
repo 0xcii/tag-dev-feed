@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-28T17:12:47.222Z</id>
+    <id>urn:2023-02-28T18:17:05.103Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-28T17:12:47.222Z</updated>
+    <updated>2023-02-28T18:17:05.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Signing Process of Solidity Transactions with Ethers.js]]></title>
+        <id>https://medium.com/p/cec0f9693cb4</id>
+        <link href="https://blog.blockmagnates.com/understanding-the-signing-process-of-solidity-transactions-with-ethers-js-cec0f9693cb4?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-02-28T17:52:21.000Z</updated>
+        <summary type="html"><![CDATA[In the previous post, we discussed meta transactions and the EIP-712 standard.
+Continue reading on Block Magnates »]]></summary>
+        <author>
+            <name>Kristaps Grinbergs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploy, Mint and Send an ERC721 NFT From Ethereum to Polygon Testnets with LayerZero in Remix]]></title>
+        <id>https://medium.com/p/3d9ff0ca5ab1</id>
+        <link href="https://coinsbench.com/deploy-mint-and-send-an-erc721-nft-from-ethereum-to-polygon-testnets-with-layerzero-in-remix-3d9ff0ca5ab1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-28T17:40:11.000Z</updated>
+        <summary type="html"><![CDATA[LayerZero OpenZeppelin ERC721 Mintable with URI Storage]]></summary>
+        <author>
+            <name>Beach Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying Consensus Algorithms: Day 13 of My 30-Day Journey]]></title>
+        <id>https://medium.com/p/e876bd8e1461</id>
+        <link href="https://coinsbench.com/demystifying-consensus-algorithms-day-13-of-my-30-day-journey-e876bd8e1461?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-28T17:39:51.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Adedeji Jedidiah Ogunsola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Solidity Events and Logs]]></title>
+        <id>https://medium.com/p/f29ea4f557cc</id>
+        <link href="https://coinsbench.com/understanding-solidity-events-and-logs-f29ea4f557cc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-28T17:39:49.000Z</updated>
+        <summary type="html"><![CDATA[Events and logs are a dynamic and powerful feature of the Solidity programming language that enable developers and users to gain greater…]]></summary>
+        <author>
+            <name>Kuuku Baffoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity ABI Encode and Decode.]]></title>
+        <id>https://medium.com/p/b339eb52c5b5</id>
+        <link href="https://coinsbench.com/solidity-abi-encode-and-decode-b339eb52c5b5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-02-28T17:39:46.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, abi.encode() and abi.decode() is used to serialize and deserialize data structures.]]></summary>
+        <author>
+            <name>Rohit sutar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Decentralized Apps: A Comprehensive Guide to Understanding and Using Them]]></title>
         <id>https://medium.com/p/9017dee6817a</id>
@@ -218,16 +269,6 @@ The post Interact with Gnosis Safes with Python appeared first on Crypto Market 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fetching Historical Events from a Smart Contract.]]></title>
-        <id>https://medium.com/p/f1c974ccd24d</id>
-        <link href="https://coinsbench.com/fetching-historical-events-from-a-smart-contract-f1c974ccd24d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-24T17:28:11.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts use Events to communicate or provide notifications to the outside world. In Ethereum, when a transaction is mined, smart…]]></summary>
-        <author>
-            <name>Harish Ramamurthy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building Cross-Chain NFT using Router Protocol's CrossTalk Library]]></title>
         <id>https://blog.developerdao.com/router-portocol-crosstalk</id>
         <link href="https://blog.developerdao.com/router-portocol-crosstalk"/>
@@ -249,36 +290,6 @@ Chain interoperability is the capability of different blockchain networks or sys
 For example, we could use one blo…]]></summary>
         <author>
             <name>Megabyte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity: Multisig Demo using our Bank smart contract]]></title>
-        <id>https://medium.com/p/dc3068433274</id>
-        <link href="https://coinsbench.com/solidity-multisig-demo-using-our-bank-smart-contract-dc3068433274?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-23T11:55:03.000Z</updated>
-        <summary type="html"><![CDATA[Hello friends, In this post, we will use the multisig (multisignature) concept to approve the Fixed Deposit claims. So far we are using the…]]></summary>
-        <author>
-            <name>Code With Marish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contracts: The Legal Documents of the 21st Century (or Not)]]></title>
-        <id>https://medium.com/p/cb1ef6b5e335</id>
-        <link href="https://coinsbench.com/smart-contracts-the-legal-documents-of-the-21st-century-or-not-cb1ef6b5e335?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-23T11:55:01.000Z</updated>
-        <summary type="html"><![CDATA[Exploring the Advantages, Drawbacks, and Future of Decentralized Contract Technology]]></summary>
-        <author>
-            <name>Adedeji Jedidiah Ogunsola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use Foundry, an indispensable tool for web3 development(2)]]></title>
-        <id>https://medium.com/p/14c7773a97d7</id>
-        <link href="https://coinsbench.com/how-to-use-foundry-an-indispensable-tool-for-web3-development-2-14c7773a97d7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-02-22T17:05:10.000Z</updated>
-        <summary type="html"><![CDATA[This series will explain in detail how to use foundry, which is indispensable for web3 development.I hope that many people will find…]]></summary>
-        <author>
-            <name>EggDragon</name>
         </author>
     </entry>
     <entry>
