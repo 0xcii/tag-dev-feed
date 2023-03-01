@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T01:15:34.945Z</id>
+    <id>urn:2023-03-01T02:56:44.709Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-01T01:15:34.945Z</updated>
+    <updated>2023-03-01T02:56:44.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -477,26 +477,6 @@ Discovery
 Currently, in the docs of The Gra…]]></summary>
         <author>
             <name>Jon-Pierre Sanchez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[String Type and String Literals in Solidity]]></title>
-        <id>https://medium.com/p/5580254bd72f</id>
-        <link href="https://blog.blockmagnates.com/string-type-and-string-literals-in-solidity-5580254bd72f?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-01-30T13:45:11.000Z</updated>
-        <summary type="html"><![CDATA[String in Solidity]]></summary>
-        <author>
-            <name>Shlok Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use Merkle Tree for gasless Whitelist/Presale in NFT collection]]></title>
-        <id>https://medium.com/p/e8f8477e39a9</id>
-        <link href="https://blog.blockmagnates.com/how-to-use-merkle-tree-for-gasless-whitelist-presale-in-nft-collection-e8f8477e39a9?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-01-30T13:45:08.000Z</updated>
-        <summary type="html"><![CDATA[To integrate Merkle Tree into your NFT collection you need to change your smart contract and also your DAPP.]]></summary>
-        <author>
-            <name>Omar EZKER</name>
         </author>
     </entry>
 </feed>
