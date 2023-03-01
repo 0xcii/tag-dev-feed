@@ -11,7 +11,7 @@
           "description": "In this article we will discuss Gnosis Safes with Python. Gnosis Safes is a powerful smart contract wallet on the…\nThe post Interact with Gnosis Safes with Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/interact-with-gnosis-safes-with-python/",
           "publishedOn": "2023-02-25T05:45:30.000Z",
-          "wordCount": 3652,
+          "wordCount": 3643,
           "title": "Interact with Gnosis Safes with Python",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Gnosis Safes is an open-source platform that allows users to create secure and customizable smart contract wallets on the Ethereum…\nThe post Gnosis Safes appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/gnosis-safes/",
           "publishedOn": "2023-02-22T05:05:20.000Z",
-          "wordCount": 3899,
+          "wordCount": 3890,
           "title": "Gnosis Safes",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2023/02/image.png"
         },
@@ -31,7 +31,7 @@
           "description": "Creating a Solidity Smart Contract with Account Abstraction. One of the most exciting features of Solidity is account abstraction. Account…\nThe post Solidity account abstraction appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/solidity-account-abstraction/",
           "publishedOn": "2023-02-20T05:01:08.000Z",
-          "wordCount": 3729,
+          "wordCount": 3718,
           "title": "Solidity account abstraction",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -41,7 +41,7 @@
           "description": "In this tutorial we will create a DAO smart contract. A DAO (Decentralized Autonomous Organization) is a type of organization…\nThe post How to create a DAO appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/how-to-create-a-dao/",
           "publishedOn": "2023-02-18T15:40:47.000Z",
-          "wordCount": 4249,
+          "wordCount": 4239,
           "title": "How to create a DAO",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -51,7 +51,7 @@
           "description": "Modules in Solidity. Solidity is the most widely used programming language for writing smart contracts on the Ethereum blockchain. It’s…\nThe post Modules in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/modules-in-solidity/",
           "publishedOn": "2023-02-13T04:27:10.000Z",
-          "wordCount": 3791,
+          "wordCount": 3781,
           "title": "Modules in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -61,7 +61,7 @@
           "description": "Creating a Smart Contract for Subscription Payments in Ethereum Solidity Solidity is the programming language for writing smart contracts on…\nThe post Subscription payments in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/subscription-payments-in-solidity/",
           "publishedOn": "2023-02-04T14:50:43.000Z",
-          "wordCount": 3587,
+          "wordCount": 3577,
           "title": "Subscription payments in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         }
@@ -78,6 +78,46 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/6979e8fa2ab8",
+          "author": "Kaankacar",
+          "description": "The blockchain technology has been an emerging technology that is transforming the way we interact with digital assets. Smart contracts…",
+          "link": "https://coinsbench.com/revolutionizing-digital-asset-interactions-a-short-guide-to-seamlessly-integrating-smart-contracts-6979e8fa2ab8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-01T16:47:08.000Z",
+          "wordCount": 2810,
+          "title": "Revolutionizing Digital Asset Interactions: A Short Guide to Seamlessly Integrating Smart Contracts…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/af752bd357e",
+          "author": "Adedeji Jedidiah Ogunsola",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/web3-protocols-day-14-of-my-30-day-journey-af752bd357e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-01T16:47:06.000Z",
+          "wordCount": 1600,
+          "title": "Web3 Protocols: Day 14 of My 30-Day Journey",
+          "imageUrl": "https://miro.medium.com/max/1200/1*6hlewCYvd-C9sIQqSpXxTg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/57c8459abcdf",
+          "author": "TechExplorer",
+          "description": "Truffle Pet-Shop Tutorial",
+          "link": "https://coinsbench.com/truffle-tutorial-57c8459abcdf?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-01T16:47:00.000Z",
+          "wordCount": 2477,
+          "title": "Deploy Your First Smart-Contract",
+          "imageUrl": "https://miro.medium.com/max/634/1*ToJxHo-bizXE7zgiIJy9Hg.png"
+        },
+        {
+          "id": "https://medium.com/p/97680386d85d",
+          "author": "TechExplorer",
+          "description": "The Fastest and Easiest Way to Create Web3 Money Pools",
+          "link": "https://coinsbench.com/create-web3-money-pools-in-seconds-with-gizeam-97680386d85d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-01T16:46:56.000Z",
+          "wordCount": 1442,
+          "title": "Create Web3 Money Pools in Seconds with Gizeam",
+          "imageUrl": "https://miro.medium.com/max/1200/1*9WOlNkjAbf5yDVvU8ZQx4w.png"
+        },
         {
           "id": "https://medium.com/p/3d9ff0ca5ab1",
           "author": "Beach Crypto",
@@ -137,46 +177,6 @@
           "wordCount": 2006,
           "title": "Reentrancy — Ethernaut Smart Contract Hacking",
           "imageUrl": "https://miro.medium.com/max/1200/1*k1zL8oNdLlquAbOwR09nCA.png"
-        },
-        {
-          "id": "https://medium.com/p/8ea4c7d0b1bd",
-          "author": "Darlington Gospel",
-          "description": "This tutorial combines blockchain technology, real-time communication, and user-generated content to create an interactive platform that…",
-          "link": "https://coinsbench.com/how-to-build-an-answer-to-earn-platform-with-react-solidity-and-cometchat-8ea4c7d0b1bd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-27T17:51:32.000Z",
-          "wordCount": 4432,
-          "title": "How to Build an Answer-to-Earn Platform with React, Solidity, and CometChat",
-          "imageUrl": "https://miro.medium.com/max/1200/0*N4TzCOA1Yk7ubGF8.png"
-        },
-        {
-          "id": "https://medium.com/p/4151714a7e08",
-          "author": "Adedeji Jedidiah Ogunsola",
-          "description": "Introduction:",
-          "link": "https://coinsbench.com/the-lowdown-on-gas-fees-day-11-of-my-30-day-journey-4151714a7e08?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-24T17:28:54.000Z",
-          "wordCount": 1636,
-          "title": "The Lowdown on Gas Fees: Day 11 of My 30-Day Journey",
-          "imageUrl": "https://miro.medium.com/max/1200/1*6hlewCYvd-C9sIQqSpXxTg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/11375e48360e",
-          "author": "GabiDev",
-          "description": "Here is what you need to know. ✍🏻 ✅",
-          "link": "https://coinsbench.com/10-step-blockchain-software-developer-roadmap-from-my-own-experience-11375e48360e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-24T17:28:22.000Z",
-          "wordCount": 2145,
-          "title": "10 Step blockchain software developer roadmap — From my own experience",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f1c974ccd24d",
-          "author": "Harish Ramamurthy",
-          "description": "Smart contracts use Events to communicate or provide notifications to the outside world. In Ethereum, when a transaction is mined, smart…",
-          "link": "https://coinsbench.com/fetching-historical-events-from-a-smart-contract-f1c974ccd24d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-24T17:28:11.000Z",
-          "wordCount": 2138,
-          "title": "Fetching Historical Events from a Smart Contract.",
-          "imageUrl": "https://miro.medium.com/max/1109/1*XIWrK-l8bnY-aKmLMz1I4g.png"
         }
       ]
     },
