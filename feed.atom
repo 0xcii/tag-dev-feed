@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T17:12:45.489Z</id>
+    <id>urn:2023-03-01T18:16:56.322Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-01T17:12:45.489Z</updated>
+    <updated>2023-03-01T18:16:56.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Beating Ethernaut With Foundry Level 13: Gatekeeper One]]></title>
+        <id>https://medium.com/p/37f00b9c697e</id>
+        <link href="https://blog.blockmagnates.com/beating-ethernaut-with-foundry-level-13-gatekeeper-one-37f00b9c697e?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-03-01T17:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back, today we’ll be going over level 13, Gatekeeper One. This level will test your knowledge in manipulating bytes and calculating…]]></summary>
+        <author>
+            <name>Zouvier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Revolutionizing Digital Asset Interactions: A Short Guide to Seamlessly Integrating Smart Contracts…]]></title>
         <id>https://medium.com/p/6979e8fa2ab8</id>
