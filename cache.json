@@ -11,7 +11,7 @@
           "description": "In this article we will discuss Gnosis Safes with Python. Gnosis Safes is a powerful smart contract wallet on the…\nThe post Interact with Gnosis Safes with Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/interact-with-gnosis-safes-with-python/",
           "publishedOn": "2023-02-25T05:45:30.000Z",
-          "wordCount": 3668,
+          "wordCount": 3658,
           "title": "Interact with Gnosis Safes with Python",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Gnosis Safes is an open-source platform that allows users to create secure and customizable smart contract wallets on the Ethereum…\nThe post Gnosis Safes appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/gnosis-safes/",
           "publishedOn": "2023-02-22T05:05:20.000Z",
-          "wordCount": 3915,
+          "wordCount": 3905,
           "title": "Gnosis Safes",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2023/02/image.png"
         },
@@ -41,7 +41,7 @@
           "description": "In this tutorial we will create a DAO smart contract. A DAO (Decentralized Autonomous Organization) is a type of organization…\nThe post How to create a DAO appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/how-to-create-a-dao/",
           "publishedOn": "2023-02-18T15:40:47.000Z",
-          "wordCount": 4266,
+          "wordCount": 4255,
           "title": "How to create a DAO",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -51,7 +51,7 @@
           "description": "Modules in Solidity. Solidity is the most widely used programming language for writing smart contracts on the Ethereum blockchain. It’s…\nThe post Modules in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/modules-in-solidity/",
           "publishedOn": "2023-02-13T04:27:10.000Z",
-          "wordCount": 3808,
+          "wordCount": 3798,
           "title": "Modules in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -61,7 +61,7 @@
           "description": "Creating a Smart Contract for Subscription Payments in Ethereum Solidity Solidity is the programming language for writing smart contracts on…\nThe post Subscription payments in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/subscription-payments-in-solidity/",
           "publishedOn": "2023-02-04T14:50:43.000Z",
-          "wordCount": 3604,
+          "wordCount": 3594,
           "title": "Subscription payments in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         }
@@ -78,6 +78,46 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/780ce622cb51",
+          "author": "The Tech Cat",
+          "description": "Bitcoin, the world’s first decentralized digital currency, has been making waves in the financial world since its inception in 2009. In…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/the-latest-developments-in-the-bitcoin-world-780ce622cb51?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-02T13:53:50.000Z",
+          "wordCount": 2051,
+          "title": "“The Latest Developments in the Bitcoin World”",
+          "imageUrl": "https://miro.medium.com/max/1200/0*30JoGM4yHstj2Mly.jpg"
+        },
+        {
+          "id": "https://medium.com/p/74f67515b752",
+          "author": "Kuuku Baffoe",
+          "description": "The development of blockchain technology has been rapid and its potential applications are becoming more and more realized. However, the…",
+          "link": "https://coinsbench.com/exploring-the-interoperability-of-solidity-with-other-blockchains-74f67515b752?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-02T13:53:37.000Z",
+          "wordCount": 2182,
+          "title": "Exploring the Interoperability of Solidity with Other Blockchains",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/44c87011b295",
+          "author": "Bloqarl",
+          "description": "You might have come across some Solidity tips to improve your code skills in order to save some gas, but, today I want to focus more on how…",
+          "link": "https://coinsbench.com/solidity-gas-optimization-1-understanding-how-evm-works-can-save-you-gas-44c87011b295?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-02T13:53:26.000Z",
+          "wordCount": 2640,
+          "title": "Solidity Gas Optimization #1: Understanding how EVM works can save you gas",
+          "imageUrl": "https://miro.medium.com/max/1024/1*N7gQ423GR20VOZGE96Yt9A.png"
+        },
+        {
+          "id": "https://medium.com/p/549b0bf07ab7",
+          "author": "Adedeji Jedidiah Ogunsola",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/web3-infrastructure-day-15-of-my-30-day-journey-549b0bf07ab7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-02T13:53:22.000Z",
+          "wordCount": 1588,
+          "title": "Web3 Infrastructure: Day 15 of My 30-Day Journey",
+          "imageUrl": "https://miro.medium.com/max/1200/1*6hlewCYvd-C9sIQqSpXxTg.jpeg"
+        },
         {
           "id": "https://medium.com/p/6979e8fa2ab8",
           "author": "Kaankacar",
@@ -137,46 +177,6 @@
           "wordCount": 1671,
           "title": "Demystifying Consensus Algorithms: Day 13 of My 30-Day Journey",
           "imageUrl": "https://miro.medium.com/max/1200/1*6hlewCYvd-C9sIQqSpXxTg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/b339eb52c5b5",
-          "author": "Rohit sutar",
-          "description": "In Solidity, abi.encode() and abi.decode() is used to serialize and deserialize data structures.",
-          "link": "https://coinsbench.com/solidity-abi-encode-and-decode-b339eb52c5b5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-28T17:39:46.000Z",
-          "wordCount": 2652,
-          "title": "Solidity ABI Encode and Decode.",
-          "imageUrl": "https://miro.medium.com/max/1200/1*mvInnsm8cDdAhvdNeGbFWw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/bf46a680b25f",
-          "author": "SkillovuU",
-          "description": "Thyra is a client application developed by MassaLabs for hosting and browsing decentralized websites on the Massa blockchain. It is a fully…",
-          "link": "https://coinsbench.com/thyra-a-secure-and-user-friendly-gateway-to-the-massa-blockchain-bf46a680b25f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-27T17:51:58.000Z",
-          "wordCount": 3017,
-          "title": "Thyra - A Secure and User-Friendly Gateway to the Massa Blockchain",
-          "imageUrl": "https://miro.medium.com/max/1200/1*7lxgnAQKPTjhKUzXxg4sXg.png"
-        },
-        {
-          "id": "https://medium.com/p/44e7e5571429",
-          "author": "TechExplorer",
-          "description": "Web3 functionalities: Connect and Send",
-          "link": "https://coinsbench.com/a-web3-donation-page-44e7e5571429?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-27T17:51:50.000Z",
-          "wordCount": 1514,
-          "title": "A Web3 Donation Page",
-          "imageUrl": "https://miro.medium.com/max/1200/1*AYrnPQolwdi8zcktryJHdA.png"
-        },
-        {
-          "id": "https://medium.com/p/c465ddf50641",
-          "author": "natnat",
-          "description": "Task:",
-          "link": "https://coinsbench.com/reentrancy-ethernaut-smart-contract-hacking-c465ddf50641?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-02-27T17:51:46.000Z",
-          "wordCount": 2006,
-          "title": "Reentrancy — Ethernaut Smart Contract Hacking",
-          "imageUrl": "https://miro.medium.com/max/1200/1*k1zL8oNdLlquAbOwR09nCA.png"
         }
       ]
     },
@@ -185,6 +185,66 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/639974e4f1c1",
+          "author": "Cathrine Williams",
+          "description": "A blockchain smart contract is a self-executing digital contract that is written in computer code and stored on a blockchain.",
+          "link": "https://medium.com/coinmonks/blockchain-smart-contract-development-step-by-step-guide-639974e4f1c1?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-02T13:37:40.000Z",
+          "wordCount": 3560,
+          "title": "Blockchain Smart Contract Development — Step by step guide",
+          "imageUrl": "https://miro.medium.com/max/1200/1*s2FKhJffrPl6WlWL1I3t0Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/a58935e1c529",
+          "author": "PVMihalache",
+          "description": "NFTs, JETCOIN, the JETCOIN Institute and the Hall of Fame!\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/standing-in-the-hall-of-fame-and-the-worlds-gonna-know-your-name-with-jetcoin-a58935e1c529?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-02T13:37:33.000Z",
+          "wordCount": 1329,
+          "title": "Standing in the Hall of Fame, and the world’s gonna know your name … with JETCOIN!",
+          "imageUrl": "https://miro.medium.com/max/1080/0*z-bvi5M2KgG4gxmW"
+        },
+        {
+          "id": "https://medium.com/p/d40e04b97cf0",
+          "author": "Alberto Molina",
+          "description": "The Memory is one of the four data locations a solidity smart contract has (the others are : storage, calldata and stack). In simple words…",
+          "link": "https://medium.com/coinmonks/solidity-memory-how-does-it-work-d40e04b97cf0?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-02T13:37:23.000Z",
+          "wordCount": 2530,
+          "title": "Solidity Memory. How does it work?",
+          "imageUrl": "https://miro.medium.com/max/1200/0*H_-I5dwrP12fRk0f.jpg"
+        },
+        {
+          "id": "https://medium.com/p/5b0b87c03b7",
+          "author": "Tom Dean",
+          "description": "Is it time to buy or not?\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/top-5-alts-for-2023-long-term-buy-5b0b87c03b7?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-02T13:37:15.000Z",
+          "wordCount": 1014,
+          "title": "TOP 5 ALTS FOR 2023 — LONG TERM BUY",
+          "imageUrl": "https://miro.medium.com/max/1200/1*nkmfwD8LPozl7oeElffg0w.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/2205e074f97f",
+          "author": "Mike Zillo",
+          "description": "What Market Phase are we entering into has been the introductory question for our last appointments. Are we going to listen to the Bulls or…",
+          "link": "https://medium.com/coinmonks/bitcoin-between-a-key-support-and-resistance-are-bulls-or-bears-going-to-win-2205e074f97f?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-02T13:37:08.000Z",
+          "wordCount": 2181,
+          "title": "Bitcoin between a key support and resistance. Are bulls or bears going to win?",
+          "imageUrl": "https://miro.medium.com/max/1200/1*KZhu9wiOl3tJpeeCucZpTQ.png"
+        },
+        {
+          "id": "https://medium.com/p/a250f6b460d3",
+          "author": "Rohan16",
+          "description": "Hi,\nFellow Readers\nWelcome to my world of becoming a Smart contract Auditor\nin next 30 days…\nMoving forward to my introduction👇👇\nRohan16…",
+          "link": "https://medium.com/coinmonks/all-about-solidity-fundamentals-rohan16-a250f6b460d3?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-02T13:37:03.000Z",
+          "wordCount": 3365,
+          "title": "㏡ — All about Solidity Fundamentals | Rohan16",
+          "imageUrl": "https://miro.medium.com/max/1200/1*5YaWDZha0UdjEPGzoGFc5g.png"
+        },
         {
           "id": "https://medium.com/p/f16f432b7734",
           "author": "Ronwriter",
@@ -224,66 +284,6 @@
           "wordCount": 1570,
           "title": "Web3 Weekly Challenge: Week 5",
           "imageUrl": "https://miro.medium.com/max/1080/1*QUgjmg2kKHtXC8ATSrJwhg.png"
-        },
-        {
-          "id": "https://medium.com/p/eaf104908a68",
-          "author": "Ibrahim Aziz",
-          "description": "Introduction",
-          "link": "https://medium.com/coinmonks/the-defi-revolution-risks-and-rewards-of-lending-protocols-eaf104908a68?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-02T12:38:24.000Z",
-          "wordCount": 2141,
-          "title": "The DeFi Revolution : Risks and Rewards of Lending Protocols",
-          "imageUrl": "https://miro.medium.com/max/1080/1*K_ZqgdAZVEo04W3dxT6f4Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/b07411756720",
-          "author": "Sophia Grace",
-          "description": "Binance Smart Contracts are self-executing programs that facilitate transactions and interactions between parties without the need…",
-          "link": "https://medium.com/coinmonks/binance-smart-contract-development-step-by-step-guide-b07411756720?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-02T12:38:18.000Z",
-          "wordCount": 2647,
-          "title": "Binance Smart Contract Development - Step By Step Guide",
-          "imageUrl": "https://miro.medium.com/max/1200/1*84u9gQnIIWAkDwUO6XrbkA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/594ae97d6828",
-          "author": "Rea Dela Cruz",
-          "description": "Are you ready to dive into the thrilling world of cryptocurrency trading? Hold on tight, because this is one rollercoaster ride you won’t…",
-          "link": "https://medium.com/coinmonks/the-rookies-guide-to-crypto-trading-minimizing-risks-and-maximizing-returns-594ae97d6828?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-02T12:38:03.000Z",
-          "wordCount": 2000,
-          "title": "The Rookie’s Guide to Crypto Trading: Minimizing Risks and Maximizing Returns",
-          "imageUrl": "https://miro.medium.com/max/1200/1*lu9Jl-4cNNGNQnMTJZZTZg.png"
-        },
-        {
-          "id": "https://medium.com/p/8948e2a50e1f",
-          "author": "David McAlpine",
-          "description": "Article translated by David McAlpine from Chinese news site, https://www.stcn.com/article/detail/804323.html",
-          "link": "https://medium.com/coinmonks/shenzhens-digital-rmb-pilot-program-achieves-another-breakthrough-as-625-hong-kong-residents-apply-8948e2a50e1f?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-02T12:37:27.000Z",
-          "wordCount": 2411,
-          "title": "Shenzhen’s digital RMB pilot program achieves another breakthrough as 625 Hong Kong residents apply…",
-          "imageUrl": "https://miro.medium.com/max/1200/0*4_mfbn42Yn9bc8In.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d5439e852d5c",
-          "author": "Christopher H. Loo, MD-PhD",
-          "description": "Kevin Snow (Growth Mode Podcast)\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/unleashing-business-growth-with-kevin-snow-lessons-from-a-serial-entrepreneur-and-sales-expert-d5439e852d5c?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-02T12:37:20.000Z",
-          "wordCount": 1086,
-          "title": "Unleashing Business Growth with Kevin Snow: Lessons from a Serial Entrepreneur and Sales Expert",
-          "imageUrl": "https://miro.medium.com/max/1200/1*a0WXuIbsh5ZLA5qu9CMvEQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d6697f149322",
-          "author": "Christopher H. Loo, MD-PhD",
-          "description": "Ashton Ferrazzo (Freedom Fitness Equipment)\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/risking-it-all-one-fitness-professionals-story-of-quitting-his-corporate-job-and-starting-a-d6697f149322?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-02T12:37:12.000Z",
-          "wordCount": 1083,
-          "title": "Risking It All: One Fitness Professional’s Story of Quitting His Corporate Job and Starting a…",
-          "imageUrl": "https://miro.medium.com/max/1200/1*kBMJNNJ1L4YIosOqSofAiA.jpeg"
         }
       ]
     },
@@ -298,7 +298,7 @@
           "description": "Welcome back, today we’ll be going over level 13, Gatekeeper One. This level will test your knowledge in manipulating bytes and calculating…",
           "link": "https://blog.blockmagnates.com/beating-ethernaut-with-foundry-level-13-gatekeeper-one-37f00b9c697e?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-03-01T17:31:33.000Z",
-          "wordCount": 1754,
+          "wordCount": 1773,
           "title": "Beating Ethernaut With Foundry Level 13: Gatekeeper One",
           "imageUrl": "https://miro.medium.com/max/1200/1*G1RV-BDlRWjah9e1kLB8MQ.png"
         },
