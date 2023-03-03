@@ -428,16 +428,6 @@
           "wordCount": 12314,
           "title": "How to Build an NFT Market Dashboard Using QuickNode's GraphQL NFT API",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1675452079742%2F2e02c2d2-9748-4e7b-b992-9d8de4536053.png%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        },
-        {
-          "id": "https://blog.developerdao.com/how-to-properly-request-json-metadata-stored-in-ipfs-for-your-the-graph-subgraph",
-          "author": "Jon-Pierre Sanchez",
-          "description": "Hi, my name is JP 👋 (@J_pizzl3/@jpdev)!\nI'm one of the core developers working on InterplanetaryFonts, a Web3 NFT marketplace and collaboration platform for creators and collectors of Fonts (@IPFonts/@ipfonts). Below I will describe a tricky problem we ran into when developing our subgraph on The Graph that relates to retrieving data hosted on IPFS that will hopefully help you in your Web3 journey.\nProblem\nOur subgraph at InterplanetaryFonts that powers our DApp on https://interplanetaryfonts.xyz/ was missing smart contract entity metadata, which is data that does not live directly in the smart contract but on IPFS as a JSON file. \nThis can be a frustrating and confusing problem, but with the right approach and tools, you can resolve it quickly.\nDiscovery\nCurrently, in the docs of The Gra…",
-          "link": "https://blog.developerdao.com/how-to-properly-request-json-metadata-stored-in-ipfs-for-your-the-graph-subgraph",
-          "publishedOn": "2023-02-01T15:20:39.000Z",
-          "wordCount": 7425,
-          "title": "How to properly request JSON metadata stored in IPFS for your \"The Graph\" Subgraph",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1674832658789%2F193a8cb5-d936-4163-957f-6a16c566d180.jpeg%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         }
       ]
     }

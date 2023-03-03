@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T03:03:57.568Z</id>
+    <id>urn:2023-03-03T04:41:30.726Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T03:03:57.568Z</updated>
+    <updated>2023-03-03T04:41:30.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -477,22 +477,6 @@ Note: QuickNode recently acquired Icy.tools and we will use the icy-nft-hooks li
 The post Subscription payments in Solidity appeared first on Crypto Market Pool.]]></summary>
         <author>
             <name>Crypto Market Pool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to properly request JSON metadata stored in IPFS for your "The Graph" Subgraph]]></title>
-        <id>https://blog.developerdao.com/how-to-properly-request-json-metadata-stored-in-ipfs-for-your-the-graph-subgraph</id>
-        <link href="https://blog.developerdao.com/how-to-properly-request-json-metadata-stored-in-ipfs-for-your-the-graph-subgraph"/>
-        <updated>2023-02-01T15:20:39.000Z</updated>
-        <summary type="html"><![CDATA[Hi, my name is JP 👋 (@J_pizzl3/@jpdev)!
-I'm one of the core developers working on InterplanetaryFonts, a Web3 NFT marketplace and collaboration platform for creators and collectors of Fonts (@IPFonts/@ipfonts). Below I will describe a tricky problem we ran into when developing our subgraph on The Graph that relates to retrieving data hosted on IPFS that will hopefully help you in your Web3 journey.
-Problem
-Our subgraph at InterplanetaryFonts that powers our DApp on https://interplanetaryfonts.xyz/ was missing smart contract entity metadata, which is data that does not live directly in the smart contract but on IPFS as a JSON file. 
-This can be a frustrating and confusing problem, but with the right approach and tools, you can resolve it quickly.
-Discovery
-Currently, in the docs of The Gra…]]></summary>
-        <author>
-            <name>Jon-Pierre Sanchez</name>
         </author>
     </entry>
 </feed>
