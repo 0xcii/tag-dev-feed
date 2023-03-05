@@ -380,6 +380,16 @@
       "siteUrl": "https://blog.developerdao.com",
       "articles": [
         {
+          "id": "https://blog.developerdao.com/devntell-supercluster",
+          "author": "Narbeh Shahnazarian",
+          "description": "🌈 GM\nIn this weeks episode of DevNTell, co-founders Kai Huang and Gov go over the latest on their project, Supercluster Labs\n🌟 Developer Spotlight\nKai has been in Product Management for the last 6 years, currently working as a PM for MetaMask. Kai Started working on Supercluster about 4 months ago with the team he formed at HackFS '22 with the goal to provide a super easy decentralized file-sharing application.\nGov is a blockchain/web3 developer and researcher who has been in the space since 2014. He has worked on several projects in the space, notably at a venture-funded project that developed secure p2p file sharing for governments. In addition, he has participated in several hackathons, notably creating a top 10 hack at HackFS 2020 and winning 2nd place for the IPFS prize at HackFS 2022.\n🔥 About Supercluster Labs\nSupercluster is a decentralized file-sharing solution purpose-built for DAOs. Supercluster Files enables DAOs to share content between team members without having to rely on centralized parties.\nWebsite: supercluster.dev\nTwitter: twitter.com/superclusterdev\nDiscord: https://discord.gg/KxRPj43aPT\n🎥 Presentation\n\n\n\nhttps://www.youtube.com/watch?v=An5lk2Bfo3Q",
+          "link": "https://blog.developerdao.com/devntell-supercluster",
+          "publishedOn": "2023-03-05T02:28:26.000Z",
+          "wordCount": 2961,
+          "title": "DevNTell - Supercluster",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1677982608544%2F624a5275-1f68-460d-8e8a-45ae979ae430.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
           "id": "https://blog.developerdao.com/explorer-of-geo-genesis",
           "author": "Ahmed Abdelmalek",
           "description": "Yaniv Tal, CEO of Edge & Node, announced and launched Geo at The Graph Day. Everyone can register at https://edgeandnode.com/geo/ to get on the waitlist for the beta, or go to https://www.geobrowser.io/.\nBut first, lets learn about Geo and how it fits into The Graphs ecosystem and history.\nThe Graph: Indexes for Querying Blockchain Networks and IPFS\nYaniv had a vision in 2017 when he co-founded The Graph to be an indexing service for the blockchain and the worlds knowledge, which needs a complex set of infrastructures to index data in a decentralized way, with different roles such as indexers, delegators, and curators.\nWhen we consider the types of data currently on The Graph, we realize we are dealing with a relatively small dataset. The crypto world focuses on DeFi, NFTs, DAOs, and, more…",
