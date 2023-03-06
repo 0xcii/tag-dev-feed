@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T15:14:20.589Z</id>
+    <id>urn:2023-03-06T16:18:49.876Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-06T15:14:20.589Z</updated>
+    <updated>2023-03-06T16:18:49.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your First DApp using QuickNode's API]]></title>
+        <id>https://blog.developerdao.com/how-to-build-your-first-dapp-using-quicknodes-api</id>
+        <link href="https://blog.developerdao.com/how-to-build-your-first-dapp-using-quicknodes-api"/>
+        <updated>2023-03-06T15:20:39.000Z</updated>
+        <summary type="html"><![CDATA[If you're new to Web3 and feeling overwhelmed about where to begin, don't worry - we've got your back. In this article, we'll take you by the hand and guide you step by step through building your first DApp using the QuickNode API.
+Don't worry if you're unfamiliar with the term "DApp" - we'll start with the basics and explain everything along the way.
+Whether you're a seasoned developer or a complete beginner, we guarantee you'll be a pro in no time!
+So, let's get started.
+What is a DApp?
+If you're unfamiliar with the term "DApp," it stands for Decentralized Application, a software application operating on a decentralized network like Ethereum.
+One of the primary benefits of DApps is their additional security layer, as transactions are encrypted and distributed across the blockchain networ…]]></summary>
+        <author>
+            <name>Victoria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Polygon Is Clear (%99 of Humans Are Can’t See)]]></title>
         <id>https://medium.com/p/c05f91cf5cdd</id>
