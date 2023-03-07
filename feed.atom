@@ -1,18 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T14:12:55.192Z</id>
+    <id>urn:2023-03-07T15:13:35.490Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-07T14:12:55.192Z</updated>
+    <updated>2023-03-07T15:13:35.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Top Token Holders API]]></title>
-        <id>https://medium.com/p/e881bbb63c93</id>
-        <link href="https://medium.com/coinmonks/top-token-holders-api-e881bbb63c93?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-07T10:13:41.000Z</updated>
-        <summary type="html"><![CDATA[Curious about the top holders of a token on Binance Smart Chain, or which wallet owns the maximum? Here’s the answer]]></summary>
+        <title type="html"><![CDATA[How to start as blockchain developer]]></title>
+        <id>https://medium.com/p/1291e4a1a48c</id>
+        <link href="https://medium.com/coinmonks/how-to-start-as-blockchain-developer-1291e4a1a48c?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-07T14:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Are you interested in the exciting world of blockchain technology and want to become a blockchain developer? Blockchain is a revolutionary…]]></summary>
         <author>
-            <name>Dy_storyteller</name>
+            <name>Martin Tonev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web 3.0 — A safe bet for businesses?]]></title>
+        <id>https://medium.com/p/36f5c351619e</id>
+        <link href="https://medium.com/coinmonks/web-3-0-a-safe-bet-for-businesses-36f5c351619e?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-07T14:42:17.000Z</updated>
+        <summary type="html"><![CDATA[In 2023, Web 3.0 has become synonymous with dynamic online practices. The decentralisation of the web gives users more control over their…]]></summary>
+        <author>
+            <name>Alt Labs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICO vs STO: Which Fundraising Model is Right for Your Business?]]></title>
+        <id>https://medium.com/p/c153a92e425a</id>
+        <link href="https://medium.com/coinmonks/ico-vs-sto-which-fundraising-model-is-right-for-your-business-c153a92e425a?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-07T14:05:14.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we will explore the differences between ICO and STO, examine their advantages and disadvantages.]]></summary>
+        <author>
+            <name>Cathrine Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zenvangelist Journal : Horizen EVM, Punkz Hero Gaming & Community Parties]]></title>
+        <id>https://medium.com/p/641d0d303980</id>
+        <link href="https://medium.com/coinmonks/zenvangelist-journal-horizen-evm-punkz-hero-gaming-community-parties-641d0d303980?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-07T14:04:35.000Z</updated>
+        <summary type="html"><![CDATA[In the future of the Cryptoverse … EVM compatibility will matters more than ever. Horizen is building a better world, and the…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>PVMihalache</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alex Mashinsky: The man behind the alleged Celsius crypto fraud]]></title>
+        <id>https://medium.com/p/2e78397b43f2</id>
+        <link href="https://medium.com/coinmonks/alex-mashinsky-the-man-behind-the-alleged-celsius-crypto-fraud-2e78397b43f2?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-07T14:02:23.000Z</updated>
+        <summary type="html"><![CDATA[The creditors of Celsius Network have begun legal action against Mashinsky to recover the $2.8 million.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Beat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity vulnerabilities #2: Phishing attack in Web3 — Why not to use tx.origin?]]></title>
+        <id>https://medium.com/p/65039c4a483c</id>
+        <link href="https://medium.com/coinmonks/solidity-vulnerabilities-2-phishing-attack-in-web3-why-not-to-use-tx-origin-65039c4a483c?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-07T14:02:16.000Z</updated>
+        <summary type="html"><![CDATA[Let’s understand what is the role of tx.origin and msg.sender and when it’s recommended to be used and after this I will go through why…]]></summary>
+        <author>
+            <name>Bloqarl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain and the Future of Media and Entertainment: Harnessing the Power of Decentralization]]></title>
+        <id>https://medium.com/p/10a39fea4ab5</id>
+        <link href="https://medium.com/coinmonks/blockchain-and-the-future-of-media-and-entertainment-harnessing-the-power-of-decentralization-10a39fea4ab5?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-07T14:02:08.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology is a decentralized, distributed ledger system that has the potential to transform a wide range of industries. One…]]></summary>
+        <author>
+            <name>Isotopic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CryptoGPT: Unlocking AI’s Potential on the Blockchain]]></title>
+        <id>https://medium.com/p/41e51d0e3c68</id>
+        <link href="https://medium.com/coinmonks/cryptogpt-unlocking-ais-potential-on-the-blockchain-41e51d0e3c68?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-07T14:02:01.000Z</updated>
+        <summary type="html"><![CDATA[A ZK Layer-2 that gives you control over the commercialization of your AI data. It is launched by the same parent company called OpenAI…]]></summary>
+        <author>
+            <name>Dollar Island</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is ChatGTP  Threatening Crypto Content Creators?]]></title>
+        <id>https://medium.com/p/66529ca14ac1</id>
+        <link href="https://medium.com/coinmonks/is-chatgtp-threatening-crypto-content-creators-66529ca14ac1?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-07T14:01:54.000Z</updated>
+        <summary type="html"><![CDATA[By now you’ve surely heard about how AI tools — among other things — will revolutionize the conception, writing, and SEO of content. Does…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Ren &amp; Heinrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Technology To Power Web3 Data: More Complete Datasets In A Multi-Chain Ecosystem]]></title>
+        <id>https://medium.com/p/1487f5a57cf8</id>
+        <link href="https://medium.com/coinmonks/the-technology-to-power-web3-data-more-complete-datasets-in-a-multi-chain-ecosystem-1487f5a57cf8?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-07T14:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Thousands of users have enjoyed our comprehensive crypto asset API datasets since the API Launchpad Program began in January. Now that they…]]></summary>
+        <author>
+            <name>Blockpour</name>
         </author>
     </entry>
     <entry>
@@ -25,115 +118,6 @@ Everywhere you look, there's a growing demand for blockchain education. From onl
 In this article, we'll explore the idea that education, while necessary, may not be the most critical factor in achieving success in the blockchain world. Instead, we'll examin…]]></summary>
         <author>
             <name>Victoria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VAIOT Crypto: Blockchain-based AI Assistants]]></title>
-        <id>https://medium.com/p/854f045abcd5</id>
-        <link href="https://medium.com/coinmonks/vaiot-crypto-blockchain-based-ai-assistants-854f045abcd5?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-07T07:29:52.000Z</updated>
-        <summary type="html"><![CDATA[VAIOT provides a portfolio of blockchain-based AI Assistants and on-chain Intelligent Contracts that enable businesses and consumers.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Crypto Beat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Aftermath of Crypto Lending]]></title>
-        <id>https://medium.com/p/e39f08897575</id>
-        <link href="https://medium.com/coinmonks/the-aftermath-of-crypto-lending-e39f08897575?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-07T07:28:04.000Z</updated>
-        <summary type="html"><![CDATA[At one point, the crypto lending market was considered the next big thing. There were even talks that these businesses could end the…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Johnwege</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto News Today — March 07, 2023]]></title>
-        <id>https://medium.com/p/489a4b2782a1</id>
-        <link href="https://medium.com/coinmonks/crypto-news-today-march-07-2023-489a4b2782a1?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-07T07:27:58.000Z</updated>
-        <summary type="html"><![CDATA[If you’re interested in keeping upwith the crypto world, then you’ve come to the right place to receive crypto news.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Crypto Beat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Fear And Greed Index Today — March 07, 2023]]></title>
-        <id>https://medium.com/p/383317136d5c</id>
-        <link href="https://medium.com/coinmonks/bitcoin-fear-and-greed-index-today-march-07-2023-383317136d5c?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-07T07:27:52.000Z</updated>
-        <summary type="html"><![CDATA[The Fear and Greed Index is a tool that helps investors and traders understand the sentiment of the crypto market. Stay up to date.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Crypto Beat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Winner And Looser Today — March 07, 2023]]></title>
-        <id>https://medium.com/p/2855a136ad8a</id>
-        <link href="https://medium.com/coinmonks/crypto-winner-and-looser-today-march-07-2023-2855a136ad8a?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-07T07:27:45.000Z</updated>
-        <summary type="html"><![CDATA[The following overview shows the top 5 winner and looser in the last 24 hours. Keep up to date.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Crypto Beat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Current Crypto Prices — March 07, 2023]]></title>
-        <id>https://medium.com/p/ae2ba22f69d8</id>
-        <link href="https://medium.com/coinmonks/current-crypto-prices-march-07-2023-ae2ba22f69d8?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-07T07:27:40.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrencies are a volatile market, with prices rapidly changing. Here are the top 10 cryptocurrencies by market capitalization.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Crypto Beat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Memes Today — March 07, 2023]]></title>
-        <id>https://medium.com/p/a566fe6fee19</id>
-        <link href="https://medium.com/coinmonks/crypto-memes-today-march-07-2023-a566fe6fee19?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-07T07:27:34.000Z</updated>
-        <summary type="html"><![CDATA[What are crypto memes? They are funny pictures or videos that feature characters. Here are the best crypto memes of the last 24 hours.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Crypto Beat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripple (XRP) Price Prediction 2023–2025, update 6th of March]]></title>
-        <id>https://medium.com/p/3add7cdf008b</id>
-        <link href="https://medium.com/coinmonks/ripple-xrp-price-prediction-2023-2025-update-6th-of-march-3add7cdf008b?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-07T07:27:17.000Z</updated>
-        <summary type="html"><![CDATA[What is Ripple( XRP)?
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Vremaroiu Alin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Active Cryptocurrency — March 07, 2023]]></title>
-        <id>https://medium.com/p/376f1d779fcd</id>
-        <link href="https://medium.com/coinmonks/most-active-cryptocurrency-march-07-2023-376f1d779fcd?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-07T07:27:10.000Z</updated>
-        <summary type="html"><![CDATA[The cryptocurrency markets are constantly in flux. Here is a list of the top 10 most active cryptocurrencies, based on 24-hour volume.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Crypto Beat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Tips when writing smart contracts in solidity.]]></title>
-        <id>https://medium.com/p/916388b03951</id>
-        <link href="https://blog.blockmagnates.com/top-10-tips-when-writing-smart-contracts-in-solidity-916388b03951?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-03-06T16:37:23.000Z</updated>
-        <summary type="html"><![CDATA[📝 Smart contracts are the backbone of blockchain technology, enabling the automation of agreements and transactions without…]]></summary>
-        <author>
-            <name>Ssali Benjamin T</name>
         </author>
     </entry>
     <entry>
@@ -295,6 +279,16 @@ The post AI on the Bitcoin blockchain with Python appeared first on Crypto Marke
         <summary type="html"><![CDATA[A white paper is a document that concisely and clearly describes a problem and suggests a solution. Companies, entrepreneurs, and…]]></summary>
         <author>
             <name>Galien Dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Tips when writing smart contracts in solidity.]]></title>
+        <id>https://medium.com/p/916388b03951</id>
+        <link href="https://medium.com/coinmonks/top-10-tips-when-writing-smart-contracts-in-solidity-916388b03951?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-03-02T13:08:46.000Z</updated>
+        <summary type="html"><![CDATA[📝 Smart contracts are the backbone of blockchain technology, enabling the automation of agreements and transactions without…]]></summary>
+        <author>
+            <name>Ssali Benjamin T</name>
         </author>
     </entry>
     <entry>
