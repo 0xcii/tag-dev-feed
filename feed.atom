@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T16:18:28.438Z</id>
+    <id>urn:2023-03-07T17:12:38.194Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-07T16:18:28.438Z</updated>
+    <updated>2023-03-07T17:12:38.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Centralization Challenge — Blockchain Itself]]></title>
+        <id>https://medium.com/p/81e50fae2b41</id>
+        <link href="https://coinsbench.com/the-ultimate-centralization-challenge-blockchain-itself-81e50fae2b41?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-07T16:24:36.000Z</updated>
+        <summary type="html"><![CDATA[The argument about which chains are more or less centralized rages on. Some focus on the token distribution, some on nodes, some on…]]></summary>
+        <author>
+            <name>Yuri Vizitei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9# Let’s learn Solidity ~ If else statement]]></title>
+        <id>https://medium.com/p/f5c02583cdd1</id>
+        <link href="https://coinsbench.com/9-lets-learn-solidity-if-else-statement-f5c02583cdd1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-07T16:24:29.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, if and else statements are used to execute different blocks of code depending on whether a certain condition is met. This can…]]></summary>
+        <author>
+            <name>ismail</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Tips when writing smart contracts in solidity.]]></title>
         <id>https://medium.com/p/916388b03951</id>
@@ -259,26 +279,6 @@ The post AI on the Bitcoin blockchain with Python appeared first on Crypto Marke
         <summary type="html"><![CDATA[Blur has become the NFT marketplace with not only highest trading volume, but also the highest user count, surpassing OpenSea’s long reign…]]></summary>
         <author>
             <name>Jae Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reentrancy Ethereum Smart Contract Best Practices]]></title>
-        <id>https://medium.com/p/bda50f181564</id>
-        <link href="https://coinsbench.com/reentrancy-ethereum-smart-contract-best-practices-bda50f181564?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-03T13:56:33.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts are computer programs that run on the Ethereum blockchain. They are designed to execute automatically and securely without…]]></summary>
-        <author>
-            <name>Galien Dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhitePaper Analysis — the do’s and don’ts]]></title>
-        <id>https://medium.com/p/ccaa468e7867</id>
-        <link href="https://coinsbench.com/whitepaper-analysis-the-dos-and-don-ts-ccaa468e7867?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-03T13:56:30.000Z</updated>
-        <summary type="html"><![CDATA[A white paper is a document that concisely and clearly describes a problem and suggests a solution. Companies, entrepreneurs, and…]]></summary>
-        <author>
-            <name>Galien Dev</name>
         </author>
     </entry>
     <entry>

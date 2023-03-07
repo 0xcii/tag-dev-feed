@@ -31,7 +31,7 @@
           "description": "Gnosis Safes is an open-source platform that allows users to create secure and customizable smart contract wallets on the Ethereum…\nThe post Gnosis Safes appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/gnosis-safes/",
           "publishedOn": "2023-02-22T05:05:20.000Z",
-          "wordCount": 3897,
+          "wordCount": 3898,
           "title": "Gnosis Safes",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2023/02/image.png"
         },
@@ -41,7 +41,7 @@
           "description": "Creating a Solidity Smart Contract with Account Abstraction. One of the most exciting features of Solidity is account abstraction. Account…\nThe post Solidity account abstraction appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/solidity-account-abstraction/",
           "publishedOn": "2023-02-20T05:01:08.000Z",
-          "wordCount": 3726,
+          "wordCount": 3727,
           "title": "Solidity account abstraction",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -51,7 +51,7 @@
           "description": "In this tutorial we will create a DAO smart contract. A DAO (Decentralized Autonomous Organization) is a type of organization…\nThe post How to create a DAO appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/how-to-create-a-dao/",
           "publishedOn": "2023-02-18T15:40:47.000Z",
-          "wordCount": 4259,
+          "wordCount": 4248,
           "title": "How to create a DAO",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -79,6 +79,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/81e50fae2b41",
+          "author": "Yuri Vizitei",
+          "description": "The argument about which chains are more or less centralized rages on. Some focus on the token distribution, some on nodes, some on…",
+          "link": "https://coinsbench.com/the-ultimate-centralization-challenge-blockchain-itself-81e50fae2b41?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-07T16:24:36.000Z",
+          "wordCount": 2733,
+          "title": "The Ultimate Centralization Challenge — Blockchain Itself",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/0*xLqrsm8Gbv_V5S-F.jpg"
+        },
+        {
+          "id": "https://medium.com/p/f5c02583cdd1",
+          "author": "ismail",
+          "description": "In Solidity, if and else statements are used to execute different blocks of code depending on whether a certain condition is met. This can…",
+          "link": "https://coinsbench.com/9-lets-learn-solidity-if-else-statement-f5c02583cdd1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-07T16:24:29.000Z",
+          "wordCount": 1709,
+          "title": "9# Let’s learn Solidity ~ If else statement",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0iwr5NZ00LYnRLNyor6H_g.png"
+        },
+        {
           "id": "https://medium.com/p/fc08a1502187",
           "author": "ismail",
           "description": "Let’s start the 8th lesson on solidity programming language. In this article, we will learn about the immutable variables in solidity.",
@@ -94,7 +114,7 @@
           "description": "The solidity programming language offers various types of loops, which help us execute a piece of code repeatedly. These loops come in…",
           "link": "https://coinsbench.com/10-lets-learn-solidity-loops-28e53f2b1009?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-03-06T16:14:01.000Z",
-          "wordCount": 1828,
+          "wordCount": 1829,
           "title": "10# Let’s learn Solidity ~ Loops",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OSedixsHQBIjNKJyrYA_RA.png"
         },
@@ -157,26 +177,6 @@
           "wordCount": 3191,
           "title": "The Rise of Blur: How it Beat OpenSea and became the #1 NFT Marketplace",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*4dlZhnk1XjT4tOpXhLwc5w.png"
-        },
-        {
-          "id": "https://medium.com/p/bda50f181564",
-          "author": "Galien Dev",
-          "description": "Smart contracts are computer programs that run on the Ethereum blockchain. They are designed to execute automatically and securely without…",
-          "link": "https://coinsbench.com/reentrancy-ethereum-smart-contract-best-practices-bda50f181564?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-03T13:56:33.000Z",
-          "wordCount": 2740,
-          "title": "Reentrancy Ethereum Smart Contract Best Practices",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rY0_12avXniIIFkgWmZGFQ.png"
-        },
-        {
-          "id": "https://medium.com/p/ccaa468e7867",
-          "author": "Galien Dev",
-          "description": "A white paper is a document that concisely and clearly describes a problem and suggests a solution. Companies, entrepreneurs, and…",
-          "link": "https://coinsbench.com/whitepaper-analysis-the-dos-and-don-ts-ccaa468e7867?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-03T13:56:30.000Z",
-          "wordCount": 1888,
-          "title": "WhitePaper Analysis — the do’s and don’ts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*XEuO0Bpi5i1qejgAfw210Q.png"
         }
       ]
     },
