@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T15:13:35.490Z</id>
+    <id>urn:2023-03-07T16:18:28.438Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-07T15:13:35.490Z</updated>
+    <updated>2023-03-07T16:18:28.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Tips when writing smart contracts in solidity.]]></title>
+        <id>https://medium.com/p/916388b03951</id>
+        <link href="https://medium.com/coinmonks/top-10-tips-when-writing-smart-contracts-in-solidity-916388b03951?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-07T15:46:36.000Z</updated>
+        <summary type="html"><![CDATA[📝 Smart contracts are the backbone of blockchain technology, enabling the automation of agreements and transactions without…]]></summary>
+        <author>
+            <name>Ssali Benjamin T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZK Rollups: The Future of Ethereum Scaling]]></title>
+        <id>https://medium.com/p/ffc3a6942ae5</id>
+        <link href="https://medium.com/coinmonks/zk-rollups-the-future-of-ethereum-scaling-ffc3a6942ae5?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-07T15:46:31.000Z</updated>
+        <summary type="html"><![CDATA[If you’re familiar with Ethereum, you’re probably aware of the network’s scalability issues. As more users join the network, the demand for…]]></summary>
+        <author>
+            <name>adiyash.eth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantom DeFi #3 — Exploring Spirit Swap: the DEX cooler than Casper!]]></title>
+        <id>https://medium.com/p/233847817202</id>
+        <link href="https://medium.com/coinmonks/fantom-defi-3-exploring-spirit-swap-the-dex-cooler-than-casper-233847817202?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-07T15:46:25.000Z</updated>
+        <summary type="html"><![CDATA[I recently started exploring the Fantom chain and using Spirit Swap for all of my DeFi experiences. I grew quite fond of Spirit Swap and…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>PVMihalache</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SolanaFM Developer Portal Deep Dive]]></title>
+        <id>https://medium.com/p/35bd81df2261</id>
+        <link href="https://medium.com/coinmonks/solanafm-developer-portal-deep-dive-35bd81df2261?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-07T15:46:15.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever read an explorer before? Do you really know how to read one? Really??]]></summary>
+        <author>
+            <name>Oderinde Ifeoluwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to start as blockchain developer]]></title>
         <id>https://medium.com/p/1291e4a1a48c</id>
@@ -65,47 +106,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Let’s understand what is the role of tx.origin and msg.sender and when it’s recommended to be used and after this I will go through why…]]></summary>
         <author>
             <name>Bloqarl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain and the Future of Media and Entertainment: Harnessing the Power of Decentralization]]></title>
-        <id>https://medium.com/p/10a39fea4ab5</id>
-        <link href="https://medium.com/coinmonks/blockchain-and-the-future-of-media-and-entertainment-harnessing-the-power-of-decentralization-10a39fea4ab5?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-07T14:02:08.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology is a decentralized, distributed ledger system that has the potential to transform a wide range of industries. One…]]></summary>
-        <author>
-            <name>Isotopic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryptoGPT: Unlocking AI’s Potential on the Blockchain]]></title>
-        <id>https://medium.com/p/41e51d0e3c68</id>
-        <link href="https://medium.com/coinmonks/cryptogpt-unlocking-ais-potential-on-the-blockchain-41e51d0e3c68?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-07T14:02:01.000Z</updated>
-        <summary type="html"><![CDATA[A ZK Layer-2 that gives you control over the commercialization of your AI data. It is launched by the same parent company called OpenAI…]]></summary>
-        <author>
-            <name>Dollar Island</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is ChatGTP  Threatening Crypto Content Creators?]]></title>
-        <id>https://medium.com/p/66529ca14ac1</id>
-        <link href="https://medium.com/coinmonks/is-chatgtp-threatening-crypto-content-creators-66529ca14ac1?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-07T14:01:54.000Z</updated>
-        <summary type="html"><![CDATA[By now you’ve surely heard about how AI tools — among other things — will revolutionize the conception, writing, and SEO of content. Does…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Ren &amp; Heinrich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Technology To Power Web3 Data: More Complete Datasets In A Multi-Chain Ecosystem]]></title>
-        <id>https://medium.com/p/1487f5a57cf8</id>
-        <link href="https://medium.com/coinmonks/the-technology-to-power-web3-data-more-complete-datasets-in-a-multi-chain-ecosystem-1487f5a57cf8?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-07T14:01:46.000Z</updated>
-        <summary type="html"><![CDATA[Thousands of users have enjoyed our comprehensive crypto asset API datasets since the API Launchpad Program began in January. Now that they…]]></summary>
-        <author>
-            <name>Blockpour</name>
         </author>
     </entry>
     <entry>
@@ -279,16 +279,6 @@ The post AI on the Bitcoin blockchain with Python appeared first on Crypto Marke
         <summary type="html"><![CDATA[A white paper is a document that concisely and clearly describes a problem and suggests a solution. Companies, entrepreneurs, and…]]></summary>
         <author>
             <name>Galien Dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Tips when writing smart contracts in solidity.]]></title>
-        <id>https://medium.com/p/916388b03951</id>
-        <link href="https://medium.com/coinmonks/top-10-tips-when-writing-smart-contracts-in-solidity-916388b03951?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-03-02T13:08:46.000Z</updated>
-        <summary type="html"><![CDATA[📝 Smart contracts are the backbone of blockchain technology, enabling the automation of agreements and transactions without…]]></summary>
-        <author>
-            <name>Ssali Benjamin T</name>
         </author>
     </entry>
     <entry>

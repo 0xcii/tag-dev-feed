@@ -94,7 +94,7 @@
           "description": "The solidity programming language offers various types of loops, which help us execute a piece of code repeatedly. These loops come in…",
           "link": "https://coinsbench.com/10-lets-learn-solidity-loops-28e53f2b1009?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-03-06T16:14:01.000Z",
-          "wordCount": 1829,
+          "wordCount": 1828,
           "title": "10# Let’s learn Solidity ~ Loops",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OSedixsHQBIjNKJyrYA_RA.png"
         },
@@ -186,12 +186,52 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/916388b03951",
+          "author": "Ssali Benjamin T",
+          "description": "📝 Smart contracts are the backbone of blockchain technology, enabling the automation of agreements and transactions without…",
+          "link": "https://medium.com/coinmonks/top-10-tips-when-writing-smart-contracts-in-solidity-916388b03951?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-07T15:46:36.000Z",
+          "wordCount": 1872,
+          "title": "Top 10 Tips when writing smart contracts in solidity.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yc7eRVDIrFJPI5HRQ_3qag.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/ffc3a6942ae5",
+          "author": "adiyash.eth",
+          "description": "If you’re familiar with Ethereum, you’re probably aware of the network’s scalability issues. As more users join the network, the demand for…",
+          "link": "https://medium.com/coinmonks/zk-rollups-the-future-of-ethereum-scaling-ffc3a6942ae5?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-07T15:46:31.000Z",
+          "wordCount": 2470,
+          "title": "ZK Rollups: The Future of Ethereum Scaling",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*mhdOH4fNhRLspqNc"
+        },
+        {
+          "id": "https://medium.com/p/233847817202",
+          "author": "PVMihalache",
+          "description": "I recently started exploring the Fantom chain and using Spirit Swap for all of my DeFi experiences. I grew quite fond of Spirit Swap and…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/fantom-defi-3-exploring-spirit-swap-the-dex-cooler-than-casper-233847817202?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-07T15:46:25.000Z",
+          "wordCount": 1166,
+          "title": "Fantom DeFi #3 — Exploring Spirit Swap: the DEX cooler than Casper!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*QE14f0RMGCUn1fkT.png"
+        },
+        {
+          "id": "https://medium.com/p/35bd81df2261",
+          "author": "Oderinde Ifeoluwa",
+          "description": "Have you ever read an explorer before? Do you really know how to read one? Really??",
+          "link": "https://medium.com/coinmonks/solanafm-developer-portal-deep-dive-35bd81df2261?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-07T15:46:15.000Z",
+          "wordCount": 2684,
+          "title": "SolanaFM Developer Portal Deep Dive",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:820/1*M8Or8fLLeTHoqgvqE6XTFA.jpeg"
+        },
+        {
           "id": "https://medium.com/p/1291e4a1a48c",
           "author": "Martin Tonev",
           "description": "Are you interested in the exciting world of blockchain technology and want to become a blockchain developer? Blockchain is a revolutionary…",
           "link": "https://medium.com/coinmonks/how-to-start-as-blockchain-developer-1291e4a1a48c?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-07T14:42:36.000Z",
-          "wordCount": 2037,
+          "wordCount": 1897,
           "title": "How to start as blockchain developer",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*RN4dZmKSAvePfquC2p85bA.jpeg"
         },
@@ -201,7 +241,7 @@
           "description": "In 2023, Web 3.0 has become synonymous with dynamic online practices. The decentralisation of the web gives users more control over their…",
           "link": "https://medium.com/coinmonks/web-3-0-a-safe-bet-for-businesses-36f5c351619e?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-07T14:42:17.000Z",
-          "wordCount": 2116,
+          "wordCount": 1909,
           "title": "Web 3.0 — A safe bet for businesses?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*CBqlvVkUB4ZdlSsUtFml_g.png"
         },
@@ -244,46 +284,6 @@
           "wordCount": 2099,
           "title": "Solidity vulnerabilities #2: Phishing attack in Web3 — Why not to use tx.origin?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*t_SRusEiu37U_vP8S9I6fA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/10a39fea4ab5",
-          "author": "Isotopic",
-          "description": "Blockchain technology is a decentralized, distributed ledger system that has the potential to transform a wide range of industries. One…",
-          "link": "https://medium.com/coinmonks/blockchain-and-the-future-of-media-and-entertainment-harnessing-the-power-of-decentralization-10a39fea4ab5?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-07T14:02:08.000Z",
-          "wordCount": 2113,
-          "title": "Blockchain and the Future of Media and Entertainment: Harnessing the Power of Decentralization",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JFRyYGfehLm7f5E9aG-p2A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/41e51d0e3c68",
-          "author": "Dollar Island",
-          "description": "A ZK Layer-2 that gives you control over the commercialization of your AI data. It is launched by the same parent company called OpenAI…",
-          "link": "https://medium.com/coinmonks/cryptogpt-unlocking-ais-potential-on-the-blockchain-41e51d0e3c68?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-07T14:02:01.000Z",
-          "wordCount": 2440,
-          "title": "CryptoGPT: Unlocking AI’s Potential on the Blockchain",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*vS11zxz3vfpAPRWgM8AyFA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/66529ca14ac1",
-          "author": "Ren & Heinrich",
-          "description": "By now you’ve surely heard about how AI tools — among other things — will revolutionize the conception, writing, and SEO of content. Does…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/is-chatgtp-threatening-crypto-content-creators-66529ca14ac1?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-07T14:01:54.000Z",
-          "wordCount": 1084,
-          "title": "Is ChatGTP  Threatening Crypto Content Creators?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:819/1*rVctryDmzCcNzAU14_KLGw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/1487f5a57cf8",
-          "author": "Blockpour",
-          "description": "Thousands of users have enjoyed our comprehensive crypto asset API datasets since the API Launchpad Program began in January. Now that they…",
-          "link": "https://medium.com/coinmonks/the-technology-to-power-web3-data-more-complete-datasets-in-a-multi-chain-ecosystem-1487f5a57cf8?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-07T14:01:46.000Z",
-          "wordCount": 3057,
-          "title": "The Technology To Power Web3 Data: More Complete Datasets In A Multi-Chain Ecosystem",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:975/1*GN5eAhHjfrP6gooG9IiVnw.png"
         }
       ]
     },
@@ -301,16 +301,6 @@
           "wordCount": 2337,
           "title": "Exploring Solidity Control Structures",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/916388b03951",
-          "author": "Ssali Benjamin T",
-          "description": "📝 Smart contracts are the backbone of blockchain technology, enabling the automation of agreements and transactions without…",
-          "link": "https://medium.com/coinmonks/top-10-tips-when-writing-smart-contracts-in-solidity-916388b03951?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2023-03-02T13:08:46.000Z",
-          "wordCount": 1567,
-          "title": "Top 10 Tips when writing smart contracts in solidity.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yc7eRVDIrFJPI5HRQ_3qag.jpeg"
         },
         {
           "id": "https://medium.com/p/37f00b9c697e",
