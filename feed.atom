@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T11:11:51.395Z</id>
+    <id>urn:2023-03-09T12:28:04.917Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-09T11:11:51.395Z</updated>
+    <updated>2023-03-09T12:28:04.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Functions]]></title>
+        <id>https://medium.com/p/1f8d70b4ea7a</id>
+        <link href="https://coinsbench.com/solidity-functions-1f8d70b4ea7a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-09T11:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Solidity is a high-level programming language used to write smart contracts on the Ethereum blockchain. Functions are a core component of…]]></summary>
+        <author>
+            <name>masson tribed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Self-sovereign identity and why is it important for Digital nomads?]]></title>
         <id>https://medium.com/p/c658c7007065</id>
@@ -243,16 +253,6 @@ In this article, we'll explore the idea that education, while necessary, may not
         <summary type="html"><![CDATA[Solidity supports multiple inheritance, which allows a single contract to inherit from multiple contracts at the same time]]></summary>
         <author>
             <name>Shlok Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to create a simple DAO for Decentralize Applications]]></title>
-        <id>https://medium.com/p/8dbcea55cf2c</id>
-        <link href="https://coinsbench.com/how-to-create-a-simple-dao-for-decentralize-applications-8dbcea55cf2c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-06T16:13:51.000Z</updated>
-        <summary type="html"><![CDATA[What is a DAO?]]></summary>
-        <author>
-            <name>BrianKim</name>
         </author>
     </entry>
     <entry>

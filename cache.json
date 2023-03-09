@@ -11,7 +11,7 @@
           "description": "There are a few different ways you could use AI on the Bitcoin blockchain. One can use a machine learning…\nThe post AI on the Bitcoin blockchain with Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/ai-on-the-bitcoin-blockchain-with-python/",
           "publishedOn": "2023-03-04T10:26:38.000Z",
-          "wordCount": 4254,
+          "wordCount": 4253,
           "title": "AI on the Bitcoin blockchain with Python",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "In this article we will discuss Gnosis Safes with Python. Gnosis Safes is a powerful smart contract wallet on the…\nThe post Interact with Gnosis Safes with Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/interact-with-gnosis-safes-with-python/",
           "publishedOn": "2023-02-25T05:45:30.000Z",
-          "wordCount": 3679,
+          "wordCount": 3678,
           "title": "Interact with Gnosis Safes with Python",
           "imageUrl": null
         },
@@ -41,7 +41,7 @@
           "description": "Creating a Solidity Smart Contract with Account Abstraction. One of the most exciting features of Solidity is account abstraction. Account…\nThe post Solidity account abstraction appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/solidity-account-abstraction/",
           "publishedOn": "2023-02-20T05:01:08.000Z",
-          "wordCount": 3725,
+          "wordCount": 3724,
           "title": "Solidity account abstraction",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -51,7 +51,7 @@
           "description": "In this tutorial we will create a DAO smart contract. A DAO (Decentralized Autonomous Organization) is a type of organization…\nThe post How to create a DAO appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/how-to-create-a-dao/",
           "publishedOn": "2023-02-18T15:40:47.000Z",
-          "wordCount": 4245,
+          "wordCount": 4246,
           "title": "How to create a DAO",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -78,6 +78,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/1f8d70b4ea7a",
+          "author": "masson tribed",
+          "description": "Solidity is a high-level programming language used to write smart contracts on the Ethereum blockchain. Functions are a core component of…",
+          "link": "https://coinsbench.com/solidity-functions-1f8d70b4ea7a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-09T11:16:24.000Z",
+          "wordCount": 2512,
+          "title": "Solidity Functions",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*joVq4VL5eoS8rkZ96pk1IA.png"
+        },
         {
           "id": "https://medium.com/p/6d3d8063c834",
           "author": "Noama Samreen",
@@ -167,16 +177,6 @@
           "wordCount": 2082,
           "title": "Multiple Inheritance in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*dxrpyHAJ70UZg5fQonOplw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/8dbcea55cf2c",
-          "author": "BrianKim",
-          "description": "What is a DAO?",
-          "link": "https://coinsbench.com/how-to-create-a-simple-dao-for-decentralize-applications-8dbcea55cf2c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-06T16:13:51.000Z",
-          "wordCount": 2537,
-          "title": "How to create a simple DAO for Decentralize Applications",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*DGbnMgWyax27QEavFM9vrA.jpeg"
         }
       ]
     },
