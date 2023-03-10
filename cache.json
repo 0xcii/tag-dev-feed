@@ -79,6 +79,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e75324ba6e99",
+          "author": "AdefeyiTimi Adeyeloja",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/understanding-erc-721-the-standard-for-non-fungible-tokens-on-the-ethereum-blockchain-e75324ba6e99?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-10T14:10:40.000Z",
+          "wordCount": 2551,
+          "title": "Understanding ERC-721: The Standard for Non-Fungible Tokens on the Ethereum Blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*PKTzS1k-MIC5OUHQusLR9A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/29657a0e761d",
+          "author": "AdefeyiTimi Adeyeloja",
+          "description": "The Power of Metamask: Exploring the Possibilities of Decentralized Finance",
+          "link": "https://coinsbench.com/metamask-and-defi-exploring-the-possibilities-29657a0e761d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-10T14:10:39.000Z",
+          "wordCount": 4650,
+          "title": "Metamask and DeFi: Exploring the Possibilities",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jgAhpXd7VSpAJ8Cnci3-7g.png"
+        },
+        {
+          "id": "https://medium.com/p/8c6481e6cf24",
+          "author": "Marta",
+          "description": "IPFS (InterPlanetary File System) is a distributed system used for file sharing. Many NFT projects use IPFS to store art and its metadata…",
+          "link": "https://coinsbench.com/mfs-update-folders-of-immutable-files-in-ipfs-8c6481e6cf24?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-10T14:10:38.000Z",
+          "wordCount": 3694,
+          "title": "MFS: Update Folders of Immutable Files in IPFS",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KyUFGSq7EeHSwHEkJo482g.png"
+        },
+        {
+          "id": "https://medium.com/p/cefbd24713e6",
+          "author": "Cyrille",
+          "description": "Overview of a Telegram Bot that will allow you to issue your community with experience tokens (XP).",
+          "link": "https://coinsbench.com/web3-on-chain-xp-for-telegram-part-1-2-cefbd24713e6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-10T14:10:36.000Z",
+          "wordCount": 2303,
+          "title": "Web3: On-Chain XP for Telegram Part 1/2",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*EKWyGh5-d8aFJVyC2TS7Zw.jpeg"
+        },
+        {
           "id": "https://medium.com/p/1f8d70b4ea7a",
           "author": "Mrexamples",
           "description": "Solidity is a high-level programming language used to write smart contracts on the Ethereum blockchain. Functions are a core component of…",
@@ -137,46 +177,6 @@
           "wordCount": 1708,
           "title": "9# Let’s learn Solidity ~ If else statement",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0iwr5NZ00LYnRLNyor6H_g.png"
-        },
-        {
-          "id": "https://medium.com/p/fc08a1502187",
-          "author": "ismail",
-          "description": "Let’s start the 8th lesson on solidity programming language. In this article, we will learn about the immutable variables in solidity.",
-          "link": "https://coinsbench.com/8-lets-learn-solidity-immutable-variables-fc08a1502187?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-06T16:14:03.000Z",
-          "wordCount": 1792,
-          "title": "8# Let’s learn Solidity ~ Immutable variables",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zsxFy0dbB50V5HxBTn19Pw.png"
-        },
-        {
-          "id": "https://medium.com/p/28e53f2b1009",
-          "author": "ismail",
-          "description": "The solidity programming language offers various types of loops, which help us execute a piece of code repeatedly. These loops come in…",
-          "link": "https://coinsbench.com/10-lets-learn-solidity-loops-28e53f2b1009?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-06T16:14:01.000Z",
-          "wordCount": 1828,
-          "title": "10# Let’s learn Solidity ~ Loops",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OSedixsHQBIjNKJyrYA_RA.png"
-        },
-        {
-          "id": "https://medium.com/p/19c7c849eb72",
-          "author": "Vigneshwar Krishnamoorthy",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/whatll-happen-to-forward-contracts-if-smart-contracts-are-judicially-accepted-19c7c849eb72?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-06T16:14:00.000Z",
-          "wordCount": 4411,
-          "title": "What’ll happen to Forward Contracts if Smart Contracts are judicially accepted?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*k907Ryyyt7MizUOmEKkWEQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/835c02eb58cb",
-          "author": "Shlok Kumar",
-          "description": "Solidity supports multiple inheritance, which allows a single contract to inherit from multiple contracts at the same time",
-          "link": "https://coinsbench.com/multiple-inheritance-in-solidity-835c02eb58cb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-06T16:13:54.000Z",
-          "wordCount": 2084,
-          "title": "Multiple Inheritance in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*dxrpyHAJ70UZg5fQonOplw.jpeg"
         }
       ]
     },
@@ -185,6 +185,26 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/c2029bfee6b5",
+          "author": "cryptoinspector",
+          "description": "We’ll be sharing with you our top Altcoins that haven’t even hit the market yet giving you that chance and opportunity that very few even…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/3-sleeping-altcoins-launching-soon-c2029bfee6b5?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-10T14:29:09.000Z",
+          "wordCount": 1212,
+          "title": "3 Sleeping Altcoins Launching Soon!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BsGgLw8gmX6o94uKSDZZdw.png"
+        },
+        {
+          "id": "https://medium.com/p/9d413a0b531c",
+          "author": "Trader FX",
+          "description": "A great alternative to panic selling is to run a reversed grid trading bot that helps you to buy low and sell high seamlessly.",
+          "link": "https://medium.com/coinmonks/markets-crashing-do-not-panic-sell-do-this-instead-9d413a0b531c?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-10T14:28:56.000Z",
+          "wordCount": 3464,
+          "title": "Markets crashing? Do not panic sell! Do this instead!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:704/1*DwkR-N97BQtZV4I5qUNzHA.jpeg"
+        },
         {
           "id": "https://medium.com/p/91a63ec6b437",
           "author": "Florian Grummes",
@@ -264,26 +284,6 @@
           "wordCount": 3189,
           "title": "Defi Smart Contract Development: A Beginner’s Guide to Blockchain-Powered Finance",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0dnCFCQqczpElxFl5MAHtQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/c86f61b977bb",
-          "author": "Sophia Grace",
-          "description": "A cryptocurrency exchange script is a pre-built software solution that provides the basic framework for a cryptocurrency exchange.",
-          "link": "https://medium.com/coinmonks/cryptocurrency-exchange-script-c86f61b977bb?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-10T13:06:59.000Z",
-          "wordCount": 4101,
-          "title": "Cryptocurrency Exchange Script: The Ultimate Guide for Beginners",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:500/1*3BDucSv-o101y3Yc5v5lcg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/6d4f49c00d4",
-          "author": "Ronwriter",
-          "description": "I know regulations in the cryptoverse are necessary; please look at the stories below.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/can-we-not-talk-about-crypto-regulations-for-a-moment-and-focus-on-what-is-right-about-the-6d4f49c00d4?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-10T12:27:08.000Z",
-          "wordCount": 1122,
-          "title": "Can we NOT talk about crypto regulations for a moment and focus on what is right about the…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*oM-8uXq8urCzAs1f4UVOhA.jpeg"
         }
       ]
     },
