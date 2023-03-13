@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-13T13:21:17.061Z</id>
+    <id>urn:2023-03-13T14:12:32.272Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-13T13:21:17.061Z</updated>
+    <updated>2023-03-13T14:12:32.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to solve Ethernaut challenges #1: Levels 1 to 5]]></title>
+        <id>https://medium.com/p/42eb3981f16c</id>
+        <link href="https://coinsbench.com/how-to-solve-ethernaut-challenges-1-levels-1-to-5-42eb3981f16c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-13T13:43:45.000Z</updated>
+        <summary type="html"><![CDATA[Let’s play with Ethernaut and learn to hack Solidity together. I will go through how to complete the levels and I will be providing any…]]></summary>
+        <author>
+            <name>Bloqarl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Machine Learning Inference with Bacalhau and FEVM Smart Contracts -“Project Lilypad”]]></title>
+        <id>https://medium.com/p/fe6a9715ed39</id>
+        <link href="https://coinsbench.com/decentralized-machine-learning-inference-with-bacalhau-and-fevm-smart-contracts-project-lilypad-fe6a9715ed39?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-13T13:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Lilypad is a simple and lightweight FVM “oracle” using Bacalhau enabling calling Bacalhau jobs from smart contracts!]]></summary>
+        <author>
+            <name>Hakeem Kazeem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Applying UniswapV3 liquidity tax in a ERC20 token]]></title>
+        <id>https://medium.com/p/5df66cddfc67</id>
+        <link href="https://coinsbench.com/applying-uniswapv3-liquidity-tax-in-a-erc20-token-5df66cddfc67?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-13T13:43:41.000Z</updated>
+        <summary type="html"><![CDATA[The function starts by declaring two variables, tokenAmount, and ethAmountToMint. It then approves token transfer to cover all possible…]]></summary>
+        <author>
+            <name>Burgossrodrigo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Creative Ways to Secure Your Smart Contract: Examples and Best Practices(Part: I)]]></title>
+        <id>https://medium.com/p/134867b66b29</id>
+        <link href="https://coinsbench.com/4-creative-ways-to-secure-your-smart-contract-examples-and-best-practices-134867b66b29?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-13T13:43:39.000Z</updated>
+        <summary type="html"><![CDATA[Smart contract security is a crucial consideration for any blockchain-based application. The decentralized nature of blockchains and the…]]></summary>
+        <author>
+            <name>Kaankacar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethernaut 14: New gates to overcome]]></title>
+        <id>https://medium.com/p/1f2d42f61577</id>
+        <link href="https://coinsbench.com/ethernaut-14-new-gates-to-overcome-1f2d42f61577?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-13T13:43:37.000Z</updated>
+        <summary type="html"><![CDATA[Back into the Ethernaut, we are going to start with 2 new features that Open Zeppelin added to the CTF challenges game. The first one is…]]></summary>
+        <author>
+            <name>Aitor Zaldua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setup simple ethereum private blockchain for testing purpose using Ganache]]></title>
+        <id>https://medium.com/p/6a1baaa22784</id>
+        <link href="https://blog.blockmagnates.com/setup-simple-ethereum-private-blockchain-for-testing-purpose-using-ganache-6a1baaa22784?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-03-13T13:31:11.000Z</updated>
+        <summary type="html"><![CDATA[Hi guys, in this short article I will show you how to setup a private ethereum network using Ganache. Keep in mind this is only for testing…]]></summary>
+        <author>
+            <name>Heisenbergt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[South Korea Announces $51M Investment for Expansion of Metaverse-Related Projects | Curated…]]></title>
         <id>https://medium.com/p/2fa6c16d6dee</id>
@@ -203,26 +263,6 @@ Imagine a chain with good security and one with widespread decentralization comi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web3/Web2 Security: Closer than you think.]]></title>
-        <id>https://medium.com/p/6545f782cdad</id>
-        <link href="https://coinsbench.com/web3-web2-security-closer-than-you-think-6545f782cdad?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-08T13:52:04.000Z</updated>
-        <summary type="html"><![CDATA[Every year, magazines, TV shows, influencers or even the different governments like to indicate who is, for them, the Personality of the…]]></summary>
-        <author>
-            <name>Aitor Zaldua</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a decentralized CRUD application using Typescript, React, and DB3.js]]></title>
-        <id>https://medium.com/p/35948f84034e</id>
-        <link href="https://coinsbench.com/build-a-decentralized-crud-application-using-typescript-react-and-db3-js-35948f84034e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-08T13:52:02.000Z</updated>
-        <summary type="html"><![CDATA[The article details the application’s creation process and provides code examples, including the CRUD operations and filtering processes.]]></summary>
-        <author>
-            <name>Man Xu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What are NFTs?]]></title>
         <id>https://medium.com/p/8b71d56ac7ac</id>
         <link href="https://blog.blockmagnates.com/what-are-nfts-8b71d56ac7ac?source=rss----18fa961f1eff--solidity"/>
@@ -247,26 +287,6 @@ Smart contract debugging is identifying and fixing errors in smart contracts. It
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Ultimate Centralization Challenge — Blockchain Itself]]></title>
-        <id>https://medium.com/p/81e50fae2b41</id>
-        <link href="https://coinsbench.com/the-ultimate-centralization-challenge-blockchain-itself-81e50fae2b41?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-07T16:24:36.000Z</updated>
-        <summary type="html"><![CDATA[The argument about which chains are more or less centralized rages on. Some focus on the token distribution, some on nodes, some on…]]></summary>
-        <author>
-            <name>Yuri Vizitei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9# Let’s learn Solidity ~ If else statement]]></title>
-        <id>https://medium.com/p/f5c02583cdd1</id>
-        <link href="https://coinsbench.com/9-lets-learn-solidity-if-else-statement-f5c02583cdd1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-07T16:24:29.000Z</updated>
-        <summary type="html"><![CDATA[In Solidity, if and else statements are used to execute different blocks of code depending on whether a certain condition is met. This can…]]></summary>
-        <author>
-            <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building User-Friendly DApps: Tips for Founders.]]></title>
         <id>https://blog.developerdao.com/building-user-friendly-dapps-tips-for-founders</id>
         <link href="https://blog.developerdao.com/building-user-friendly-dapps-tips-for-founders"/>
@@ -286,16 +306,6 @@ In this article, we'll explore the idea that education, while necessary, may not
         <summary type="html"><![CDATA[The world of computer programming is filled with a myriad of intricately woven control structures. These structures, while they may seem…]]></summary>
         <author>
             <name>Kuuku Baffoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8# Let’s learn Solidity ~ Immutable variables]]></title>
-        <id>https://medium.com/p/fc08a1502187</id>
-        <link href="https://coinsbench.com/8-lets-learn-solidity-immutable-variables-fc08a1502187?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-06T16:14:03.000Z</updated>
-        <summary type="html"><![CDATA[Let’s start the 8th lesson on solidity programming language. In this article, we will learn about the immutable variables in solidity.]]></summary>
-        <author>
-            <name>ismail</name>
         </author>
     </entry>
     <entry>
