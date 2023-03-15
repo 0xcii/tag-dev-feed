@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T14:12:19.034Z</id>
+    <id>urn:2023-03-15T15:13:32.823Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-15T14:12:19.034Z</updated>
+    <updated>2023-03-15T15:13:32.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NEAR — The first certified carbon neutral Layer 1 blockchain]]></title>
+        <id>https://medium.com/p/b459b9f7cadb</id>
+        <link href="https://coinsbench.com/near-the-first-certified-carbon-neutral-layer-1-blockchain-b459b9f7cadb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-15T14:25:01.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Sam Vishwas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Audit: Why it is required plus polygon audit code]]></title>
+        <id>https://medium.com/p/9a9d5efcf25a</id>
+        <link href="https://coinsbench.com/smart-contract-audit-why-it-is-required-plus-polygon-audit-code-9a9d5efcf25a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-15T14:24:54.000Z</updated>
+        <summary type="html"><![CDATA[A smart contract audit is a process of analyzing the source code of a smart contract to identify potential security vulnerabilities, coding…]]></summary>
+        <author>
+            <name>Anuj Agarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to convert Solidity JSON ABI to Human Readable ABI in Hardhat]]></title>
+        <id>https://medium.com/p/b493412c5333</id>
+        <link href="https://coinsbench.com/how-to-convert-solidity-json-abi-to-human-readable-abi-in-hardhat-b493412c5333?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-15T14:24:51.000Z</updated>
+        <summary type="html"><![CDATA[When you develop dApps, one of the main requirements is to load the Application Binary Interface (ABI) into your frontend app. The methods…]]></summary>
+        <author>
+            <name>Anjana J</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Strings — Mrexamples]]></title>
+        <id>https://medium.com/p/625b1784679b</id>
+        <link href="https://coinsbench.com/solidity-strings-mrexamples-625b1784679b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-15T14:24:46.000Z</updated>
+        <summary type="html"><![CDATA[We are discussing solidity strings, and believing that it would help the learners in theirs's learning journey. Solidity is a popular…]]></summary>
+        <author>
+            <name>Mrexamples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethernaut 15: Understanding the standard ERC-20]]></title>
+        <id>https://medium.com/p/3d0ec1d77f1c</id>
+        <link href="https://coinsbench.com/ethernaut-15-understanding-the-standard-erc-20-3d0ec1d77f1c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-15T14:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Standard (noun UK /ˈstændəd/):]]></summary>
+        <author>
+            <name>Aitor Zaldua</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Stablecoin Yields Greater than 20% APY — $USDT Edition]]></title>
         <id>https://medium.com/p/75598c1f839</id>
@@ -163,36 +213,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Applying UniswapV3 liquidity tax in a ERC20 token]]></title>
-        <id>https://medium.com/p/5df66cddfc67</id>
-        <link href="https://coinsbench.com/applying-uniswapv3-liquidity-tax-in-a-erc20-token-5df66cddfc67?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-13T13:43:41.000Z</updated>
-        <summary type="html"><![CDATA[The function starts by declaring two variables, tokenAmount, and ethAmountToMint. It then approves token transfer to cover all possible…]]></summary>
-        <author>
-            <name>Burgossrodrigo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Creative Ways to Secure Your Smart Contract: Examples and Best Practices(Part: I)]]></title>
-        <id>https://medium.com/p/134867b66b29</id>
-        <link href="https://coinsbench.com/4-creative-ways-to-secure-your-smart-contract-examples-and-best-practices-134867b66b29?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-13T13:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Smart contract security is a crucial consideration for any blockchain-based application. The decentralized nature of blockchains and the…]]></summary>
-        <author>
-            <name>Kaankacar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethernaut 14: New gates to overcome]]></title>
-        <id>https://medium.com/p/1f2d42f61577</id>
-        <link href="https://coinsbench.com/ethernaut-14-new-gates-to-overcome-1f2d42f61577?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-13T13:43:37.000Z</updated>
-        <summary type="html"><![CDATA[Back into the Ethernaut, we are going to start with 2 new features that Open Zeppelin added to the CTF challenges game. The first one is…]]></summary>
-        <author>
-            <name>Aitor Zaldua</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Setup simple ethereum private blockchain for testing purpose using Ganache]]></title>
         <id>https://medium.com/p/6a1baaa22784</id>
         <link href="https://blog.blockmagnates.com/setup-simple-ethereum-private-blockchain-for-testing-purpose-using-ganache-6a1baaa22784?source=rss----18fa961f1eff--solidity"/>
@@ -228,26 +248,6 @@ Promo Code for 50 dollars off paid Metacrafters courses: 50FORETHDENVER
 https://www.youtube.com/watch?v=YpJY0I6at54]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding ERC-721: The Standard for Non-Fungible Tokens on the Ethereum Blockchain]]></title>
-        <id>https://medium.com/p/e75324ba6e99</id>
-        <link href="https://coinsbench.com/understanding-erc-721-the-standard-for-non-fungible-tokens-on-the-ethereum-blockchain-e75324ba6e99?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-10T14:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>AdefeyiTimi Adeyeloja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MFS: Update Folders of Immutable Files in IPFS]]></title>
-        <id>https://medium.com/p/8c6481e6cf24</id>
-        <link href="https://coinsbench.com/mfs-update-folders-of-immutable-files-in-ipfs-8c6481e6cf24?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-10T14:10:38.000Z</updated>
-        <summary type="html"><![CDATA[IPFS (InterPlanetary File System) is a distributed system used for file sharing. Many NFT projects use IPFS to store art and its metadata…]]></summary>
-        <author>
-            <name>Marta</name>
         </author>
     </entry>
     <entry>

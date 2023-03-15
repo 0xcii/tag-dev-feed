@@ -21,7 +21,7 @@
           "description": "In this article we will discuss Gnosis Safes with Python. Gnosis Safes is a powerful smart contract wallet on the…\nThe post Interact with Gnosis Safes with Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/interact-with-gnosis-safes-with-python/",
           "publishedOn": "2023-02-25T05:45:30.000Z",
-          "wordCount": 3684,
+          "wordCount": 3685,
           "title": "Interact with Gnosis Safes with Python",
           "imageUrl": null
         },
@@ -51,7 +51,7 @@
           "description": "In this tutorial we will create a DAO smart contract. A DAO (Decentralized Autonomous Organization) is a type of organization…\nThe post How to create a DAO appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/how-to-create-a-dao/",
           "publishedOn": "2023-02-18T15:40:47.000Z",
-          "wordCount": 4251,
+          "wordCount": 4252,
           "title": "How to create a DAO",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         }
@@ -68,6 +68,56 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/b459b9f7cadb",
+          "author": "Sam Vishwas",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/near-the-first-certified-carbon-neutral-layer-1-blockchain-b459b9f7cadb?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-15T14:25:01.000Z",
+          "wordCount": 3070,
+          "title": "NEAR — The first certified carbon neutral Layer 1 blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3gqgj-aSvJiFdMbkJ-M6Wg.png"
+        },
+        {
+          "id": "https://medium.com/p/9a9d5efcf25a",
+          "author": "Anuj Agarwal",
+          "description": "A smart contract audit is a process of analyzing the source code of a smart contract to identify potential security vulnerabilities, coding…",
+          "link": "https://coinsbench.com/smart-contract-audit-why-it-is-required-plus-polygon-audit-code-9a9d5efcf25a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-15T14:24:54.000Z",
+          "wordCount": 2200,
+          "title": "Smart Contract Audit: Why it is required plus polygon audit code",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-IIgyAh7ZGCI5ZsoB1lJrg.png"
+        },
+        {
+          "id": "https://medium.com/p/b493412c5333",
+          "author": "Anjana J",
+          "description": "When you develop dApps, one of the main requirements is to load the Application Binary Interface (ABI) into your frontend app. The methods…",
+          "link": "https://coinsbench.com/how-to-convert-solidity-json-abi-to-human-readable-abi-in-hardhat-b493412c5333?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-15T14:24:51.000Z",
+          "wordCount": 1542,
+          "title": "How to convert Solidity JSON ABI to Human Readable ABI in Hardhat",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*0hwuAamEKWEi-TQ-vtbBXg.png"
+        },
+        {
+          "id": "https://medium.com/p/625b1784679b",
+          "author": "Mrexamples",
+          "description": "We are discussing solidity strings, and believing that it would help the learners in theirs's learning journey. Solidity is a popular…",
+          "link": "https://coinsbench.com/solidity-strings-mrexamples-625b1784679b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-15T14:24:46.000Z",
+          "wordCount": 2582,
+          "title": "Solidity Strings — Mrexamples",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qTYzCT_Ve4d6w0DZ7WWPwA.png"
+        },
+        {
+          "id": "https://medium.com/p/3d0ec1d77f1c",
+          "author": "Aitor Zaldua",
+          "description": "Standard (noun UK /ˈstændəd/):",
+          "link": "https://coinsbench.com/ethernaut-15-understanding-the-standard-erc-20-3d0ec1d77f1c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-15T14:24:42.000Z",
+          "wordCount": 2083,
+          "title": "Ethernaut 15: Understanding the standard ERC-20",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zG4L8udNoUjMWrlnj7EYYw.png"
+        },
         {
           "id": "https://medium.com/p/aadcc31b28a2",
           "author": "Kaankacar",
@@ -117,56 +167,6 @@
           "wordCount": 3090,
           "title": "Decentralized Machine Learning Inference with Bacalhau and FEVM Smart Contracts -“Project Lilypad”",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*do0yzbJQGGvqtDF8EqSyJw.png"
-        },
-        {
-          "id": "https://medium.com/p/5df66cddfc67",
-          "author": "Burgossrodrigo",
-          "description": "The function starts by declaring two variables, tokenAmount, and ethAmountToMint. It then approves token transfer to cover all possible…",
-          "link": "https://coinsbench.com/applying-uniswapv3-liquidity-tax-in-a-erc20-token-5df66cddfc67?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-13T13:43:41.000Z",
-          "wordCount": 1340,
-          "title": "Applying UniswapV3 liquidity tax in a ERC20 token",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*ihaUwsAzrbloYJEH"
-        },
-        {
-          "id": "https://medium.com/p/134867b66b29",
-          "author": "Kaankacar",
-          "description": "Smart contract security is a crucial consideration for any blockchain-based application. The decentralized nature of blockchains and the…",
-          "link": "https://coinsbench.com/4-creative-ways-to-secure-your-smart-contract-examples-and-best-practices-134867b66b29?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-13T13:43:39.000Z",
-          "wordCount": 1975,
-          "title": "4 Creative Ways to Secure Your Smart Contract: Examples and Best Practices(Part: I)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1f2d42f61577",
-          "author": "Aitor Zaldua",
-          "description": "Back into the Ethernaut, we are going to start with 2 new features that Open Zeppelin added to the CTF challenges game. The first one is…",
-          "link": "https://coinsbench.com/ethernaut-14-new-gates-to-overcome-1f2d42f61577?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-13T13:43:37.000Z",
-          "wordCount": 2372,
-          "title": "Ethernaut 14: New gates to overcome",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vV_dIgbHlvdMuRZzYKAmUA.png"
-        },
-        {
-          "id": "https://medium.com/p/e75324ba6e99",
-          "author": "AdefeyiTimi Adeyeloja",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/understanding-erc-721-the-standard-for-non-fungible-tokens-on-the-ethereum-blockchain-e75324ba6e99?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-10T14:10:40.000Z",
-          "wordCount": 2549,
-          "title": "Understanding ERC-721: The Standard for Non-Fungible Tokens on the Ethereum Blockchain",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*PKTzS1k-MIC5OUHQusLR9A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/8c6481e6cf24",
-          "author": "Marta",
-          "description": "IPFS (InterPlanetary File System) is a distributed system used for file sharing. Many NFT projects use IPFS to store art and its metadata…",
-          "link": "https://coinsbench.com/mfs-update-folders-of-immutable-files-in-ipfs-8c6481e6cf24?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-10T14:10:38.000Z",
-          "wordCount": 3692,
-          "title": "MFS: Update Folders of Immutable Files in IPFS",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KyUFGSq7EeHSwHEkJo482g.png"
         }
       ]
     },
@@ -211,7 +211,7 @@
           "description": "Republican House Majority Whip Tom Emmer (R-MN) expressed his opposition to a central bank digital currency (CBDC) during a panel hosted…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/digital-dollar-could-expand-financial-control-over-americans-6272364c4e7f?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-15T10:31:10.000Z",
-          "wordCount": 1308,
+          "wordCount": 1111,
           "title": "Digital Dollar Could Expand ‘Financial Control’ Over Americans",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:300/1*7QUej_qjzKpUC74OmUveag.png"
         },
@@ -221,7 +221,7 @@
           "description": "As we move into the third month of the year, the cryptocurrency market continues to evolve and grow at an unprecedented pace.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/trending-cryptocurrencies-for-march-f81d916fb0aa?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-15T10:31:02.000Z",
-          "wordCount": 1319,
+          "wordCount": 1113,
           "title": "Trending Cryptocurrencies for March",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:300/1*7QUej_qjzKpUC74OmUveag.png"
         },
@@ -261,7 +261,7 @@
           "description": "Bitcoin dropped below $20,000 for the first time in over two months after US Vice President Joe Biden’s revised budget and the collapse of…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/when-did-todays-crypto-market-fall-and-why-did-it-happen-the-bear-market-is-back-f15a5ab5577b?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-15T10:30:27.000Z",
-          "wordCount": 1279,
+          "wordCount": 1094,
           "title": "When did today’s crypto market fall, and why did it happen? The Bear Market Is Back",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZSv4qlsJVb6d94pk9npKFA.jpeg"
         },
