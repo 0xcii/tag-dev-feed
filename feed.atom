@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-14T23:12:54.660Z</id>
+    <id>urn:2023-03-15T01:06:30.771Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-14T23:12:54.660Z</updated>
+    <updated>2023-03-15T01:06:30.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -538,16 +538,6 @@ https://www.youtube.com/watch?v=RnyR7G_1sbg]]></summary>
         <summary type="html"><![CDATA[Overview]]></summary>
         <author>
             <name>Arpan Mondal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AntiSec — Ethernaut Telephone]]></title>
-        <id>https://medium.com/p/3585786813d6</id>
-        <link href="https://blog.blockmagnates.com/antisec-ethernaut-telephone-3585786813d6?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-02-13T11:51:30.000Z</updated>
-        <summary type="html"><![CDATA[Exploiting tx.origin of the Telephone contract]]></summary>
-        <author>
-            <name>Dibakar Sutra Dhar</name>
         </author>
     </entry>
 </feed>
