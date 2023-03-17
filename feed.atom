@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-17T18:14:43.460Z</id>
+    <id>urn:2023-03-17T19:10:21.001Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-17T18:14:43.460Z</updated>
+    <updated>2023-03-17T19:10:21.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Tutorial: automated testing token swaps (Uniswap / Pancakeswap)]]></title>
+        <id>https://medium.com/p/e7b4724bbc06</id>
+        <link href="https://coinsbench.com/solidity-tutorial-automated-testing-token-swaps-uniswap-pancakeswap-e7b4724bbc06?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-17T18:33:10.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will deploy the whole Uniswap V2 protocol to a Hardhat test environment. This will allow us to create automated tests…]]></summary>
+        <author>
+            <name>Cyrille</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Tutorial: Swap Token Fees for ETH]]></title>
+        <id>https://medium.com/p/f0e27ee0b979</id>
+        <link href="https://coinsbench.com/solidity-tutorial-swap-token-fees-for-eth-f0e27ee0b979?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-17T18:33:03.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will build an ERC-20 contract that collects ETH fees on transfers.]]></summary>
+        <author>
+            <name>Cyrille</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with Hedera Hashgraph with OpenZepplin]]></title>
+        <id>https://medium.com/p/28cac9292c02</id>
+        <link href="https://coinsbench.com/getting-started-with-hedera-hashgraph-with-openzepplin-28cac9292c02?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-17T18:33:01.000Z</updated>
+        <summary type="html"><![CDATA[Terms like Blockchain, Crypto, smart contracts, NFT, and DeFi are no longer new words for netizens. Most of them have a somewhat good…]]></summary>
+        <author>
+            <name>Anjana J</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to build a dApp with Hedera, Ethers.js, and Solid JS]]></title>
+        <id>https://medium.com/p/755ba5bbdaae</id>
+        <link href="https://coinsbench.com/build-a-dapp-with-hedera-ethers-js-and-solid-js-755ba5bbdaae?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-17T18:32:59.000Z</updated>
+        <summary type="html"><![CDATA[A couple of days ago, I wrote an article about getting started with Hedera Hashgraph with OpenZepplin. Today, I’m going to extend that…]]></summary>
+        <author>
+            <name>Anjana J</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Assisted Smart Contract Security Auditing]]></title>
+        <id>https://medium.com/p/fdcd47f0d1d2</id>
+        <link href="https://coinsbench.com/ai-assisted-smart-contract-security-auditing-fdcd47f0d1d2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-17T18:32:55.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts play a crucial role in the rapidly evolving world of decentralized finance. These self-executing contracts have…]]></summary>
+        <author>
+            <name>Javier Calderon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Security Part III: Advanced Techniques for Unbeatable Security and Peace of Mind]]></title>
+        <id>https://medium.com/p/de7cf42a4d77</id>
+        <link href="https://coinsbench.com/smart-contract-security-advanced-techniques-for-unbeatable-security-and-peace-of-mind-part-iii-de7cf42a4d77?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-17T18:32:53.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts are a critical component of decentralized applications, enabling developers to create trustless and secure systems without…]]></summary>
+        <author>
+            <name>Kaankacar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GammaX: learn&earn and airdrop]]></title>
         <id>https://medium.com/p/dd67a61d983a</id>
@@ -150,66 +210,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[We are discussing solidity strings, and believing that it would help the learners in theirs's learning journey. Solidity is a popular…]]></summary>
         <author>
             <name>Mrexamples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethernaut 15: Understanding the standard ERC-20]]></title>
-        <id>https://medium.com/p/3d0ec1d77f1c</id>
-        <link href="https://coinsbench.com/ethernaut-15-understanding-the-standard-erc-20-3d0ec1d77f1c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-15T14:24:42.000Z</updated>
-        <summary type="html"><![CDATA[Standard (noun UK /ˈstændəd/):]]></summary>
-        <author>
-            <name>Aitor Zaldua</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract Security Part II: Innovative Approaches to Protect Your Blockchain-Based…]]></title>
-        <id>https://medium.com/p/aadcc31b28a2</id>
-        <link href="https://coinsbench.com/next-level-strategies-for-smart-contract-security-innovative-approaches-to-protect-your-aadcc31b28a2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-14T17:54:21.000Z</updated>
-        <summary type="html"><![CDATA[In my previous blog post, we discussed some creative ways to secure your smart contracts, including using multi-signature wallets…]]></summary>
-        <author>
-            <name>Kaankacar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to Smart Contracts in NFT Transactions: A Comprehensive Insight into the Future…]]></title>
-        <id>https://medium.com/p/a1f80b922ebf</id>
-        <link href="https://coinsbench.com/the-ultimate-guide-to-smart-contracts-in-nft-transactions-a-comprehensive-insight-into-the-future-a1f80b922ebf?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-14T17:54:17.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the Role of Smart Contracts in Securing and Automating Transactions of Non-Fungible Tokens]]></summary>
-        <author>
-            <name>Adedeji Jedidiah Ogunsola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Journey to build the best dApp #1: I’ve got an idea, now what?]]></title>
-        <id>https://medium.com/p/2336a71148a4</id>
-        <link href="https://coinsbench.com/journey-to-build-the-best-dapp-1-ive-got-an-idea-now-what-2336a71148a4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-14T17:53:52.000Z</updated>
-        <summary type="html"><![CDATA[How can I possibly create a Web3 website by myself if I have never done any FrondEnd or BackEnd development? Well, lucky for me there is a…]]></summary>
-        <author>
-            <name>Bloqarl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to solve Ethernaut challenges #1: Levels 1 to 5]]></title>
-        <id>https://medium.com/p/42eb3981f16c</id>
-        <link href="https://coinsbench.com/how-to-solve-ethernaut-challenges-1-levels-1-to-5-42eb3981f16c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-13T13:43:45.000Z</updated>
-        <summary type="html"><![CDATA[Let’s play with Ethernaut and learn to hack Solidity together. I will go through how to complete the levels and I will be providing any…]]></summary>
-        <author>
-            <name>Bloqarl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decentralized Machine Learning Inference with Bacalhau and FEVM Smart Contracts -“Project Lilypad”]]></title>
-        <id>https://medium.com/p/fe6a9715ed39</id>
-        <link href="https://coinsbench.com/decentralized-machine-learning-inference-with-bacalhau-and-fevm-smart-contracts-project-lilypad-fe6a9715ed39?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-13T13:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Lilypad is a simple and lightweight FVM “oracle” using Bacalhau enabling calling Bacalhau jobs from smart contracts!]]></summary>
-        <author>
-            <name>Hakeem Kazeem</name>
         </author>
     </entry>
     <entry>

@@ -11,7 +11,7 @@
           "description": "There are a few different ways you could use AI on the Bitcoin blockchain. One can use a machine learning…\nThe post AI on the Bitcoin blockchain with Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/ai-on-the-bitcoin-blockchain-with-python/",
           "publishedOn": "2023-03-04T10:26:38.000Z",
-          "wordCount": 4269,
+          "wordCount": 4270,
           "title": "AI on the Bitcoin blockchain with Python",
           "imageUrl": null
         },
@@ -69,6 +69,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e7b4724bbc06",
+          "author": "Cyrille",
+          "description": "In this tutorial, we will deploy the whole Uniswap V2 protocol to a Hardhat test environment. This will allow us to create automated tests…",
+          "link": "https://coinsbench.com/solidity-tutorial-automated-testing-token-swaps-uniswap-pancakeswap-e7b4724bbc06?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-17T18:33:10.000Z",
+          "wordCount": 2998,
+          "title": "Solidity Tutorial: automated testing token swaps (Uniswap / Pancakeswap)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1rmVp9l5FmYswQFJrp2Bqw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/f0e27ee0b979",
+          "author": "Cyrille",
+          "description": "In this tutorial, we will build an ERC-20 contract that collects ETH fees on transfers.",
+          "link": "https://coinsbench.com/solidity-tutorial-swap-token-fees-for-eth-f0e27ee0b979?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-17T18:33:03.000Z",
+          "wordCount": 3054,
+          "title": "Solidity Tutorial: Swap Token Fees for ETH",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*R9UCiYHXUEc1WQ0C"
+        },
+        {
+          "id": "https://medium.com/p/28cac9292c02",
+          "author": "Anjana J",
+          "description": "Terms like Blockchain, Crypto, smart contracts, NFT, and DeFi are no longer new words for netizens. Most of them have a somewhat good…",
+          "link": "https://coinsbench.com/getting-started-with-hedera-hashgraph-with-openzepplin-28cac9292c02?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-17T18:33:01.000Z",
+          "wordCount": 3328,
+          "title": "Getting Started with Hedera Hashgraph with OpenZepplin",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*kpLu9A_BYA1rq92faSlNbg.png"
+        },
+        {
+          "id": "https://medium.com/p/755ba5bbdaae",
+          "author": "Anjana J",
+          "description": "A couple of days ago, I wrote an article about getting started with Hedera Hashgraph with OpenZepplin. Today, I’m going to extend that…",
+          "link": "https://coinsbench.com/build-a-dapp-with-hedera-ethers-js-and-solid-js-755ba5bbdaae?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-17T18:32:59.000Z",
+          "wordCount": 2890,
+          "title": "How to build a dApp with Hedera, Ethers.js, and Solid JS",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*CLEUk9hxqMF3DbPUFp6xMA.png"
+        },
+        {
+          "id": "https://medium.com/p/fdcd47f0d1d2",
+          "author": "Javier Calderon",
+          "description": "Smart contracts play a crucial role in the rapidly evolving world of decentralized finance. These self-executing contracts have…",
+          "link": "https://coinsbench.com/ai-assisted-smart-contract-security-auditing-fdcd47f0d1d2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-17T18:32:55.000Z",
+          "wordCount": 4334,
+          "title": "AI-Assisted Smart Contract Security Auditing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/de7cf42a4d77",
+          "author": "Kaankacar",
+          "description": "Smart contracts are a critical component of decentralized applications, enabling developers to create trustless and secure systems without…",
+          "link": "https://coinsbench.com/smart-contract-security-advanced-techniques-for-unbeatable-security-and-peace-of-mind-part-iii-de7cf42a4d77?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-17T18:32:53.000Z",
+          "wordCount": 2898,
+          "title": "Smart Contract Security Part III: Advanced Techniques for Unbeatable Security and Peace of Mind",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/1*49fdL0v1_iSbQ6_SJrDofw.jpeg"
+        },
+        {
           "id": "https://medium.com/p/b459b9f7cadb",
           "author": "Sam Vishwas",
           "description": "Introduction",
@@ -107,66 +167,6 @@
           "wordCount": 2582,
           "title": "Solidity Strings — Mrexamples",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qTYzCT_Ve4d6w0DZ7WWPwA.png"
-        },
-        {
-          "id": "https://medium.com/p/3d0ec1d77f1c",
-          "author": "Aitor Zaldua",
-          "description": "Standard (noun UK /ˈstændəd/):",
-          "link": "https://coinsbench.com/ethernaut-15-understanding-the-standard-erc-20-3d0ec1d77f1c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-15T14:24:42.000Z",
-          "wordCount": 2083,
-          "title": "Ethernaut 15: Understanding the standard ERC-20",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zG4L8udNoUjMWrlnj7EYYw.png"
-        },
-        {
-          "id": "https://medium.com/p/aadcc31b28a2",
-          "author": "Kaankacar",
-          "description": "In my previous blog post, we discussed some creative ways to secure your smart contracts, including using multi-signature wallets…",
-          "link": "https://coinsbench.com/next-level-strategies-for-smart-contract-security-innovative-approaches-to-protect-your-aadcc31b28a2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-14T17:54:21.000Z",
-          "wordCount": 3349,
-          "title": "Smart Contract Security Part II: Innovative Approaches to Protect Your Blockchain-Based…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a1f80b922ebf",
-          "author": "Adedeji Jedidiah Ogunsola",
-          "description": "Understanding the Role of Smart Contracts in Securing and Automating Transactions of Non-Fungible Tokens",
-          "link": "https://coinsbench.com/the-ultimate-guide-to-smart-contracts-in-nft-transactions-a-comprehensive-insight-into-the-future-a1f80b922ebf?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-14T17:54:17.000Z",
-          "wordCount": 2469,
-          "title": "The Ultimate Guide to Smart Contracts in NFT Transactions: A Comprehensive Insight into the Future…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:827/0*g8dG4E88tnOWYGkx"
-        },
-        {
-          "id": "https://medium.com/p/2336a71148a4",
-          "author": "Bloqarl",
-          "description": "How can I possibly create a Web3 website by myself if I have never done any FrondEnd or BackEnd development? Well, lucky for me there is a…",
-          "link": "https://coinsbench.com/journey-to-build-the-best-dapp-1-ive-got-an-idea-now-what-2336a71148a4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-14T17:53:52.000Z",
-          "wordCount": 1941,
-          "title": "Journey to build the best dApp #1: I’ve got an idea, now what?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*6a8Gl282IiLOPxM18RyAEA.png"
-        },
-        {
-          "id": "https://medium.com/p/42eb3981f16c",
-          "author": "Bloqarl",
-          "description": "Let’s play with Ethernaut and learn to hack Solidity together. I will go through how to complete the levels and I will be providing any…",
-          "link": "https://coinsbench.com/how-to-solve-ethernaut-challenges-1-levels-1-to-5-42eb3981f16c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-13T13:43:45.000Z",
-          "wordCount": 3023,
-          "title": "How to solve Ethernaut challenges #1: Levels 1 to 5",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:798/1*eVdef3ONaAg_0cfNMY4r1g.png"
-        },
-        {
-          "id": "https://medium.com/p/fe6a9715ed39",
-          "author": "Hakeem Kazeem",
-          "description": "Lilypad is a simple and lightweight FVM “oracle” using Bacalhau enabling calling Bacalhau jobs from smart contracts!",
-          "link": "https://coinsbench.com/decentralized-machine-learning-inference-with-bacalhau-and-fevm-smart-contracts-project-lilypad-fe6a9715ed39?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-13T13:43:43.000Z",
-          "wordCount": 3090,
-          "title": "Decentralized Machine Learning Inference with Bacalhau and FEVM Smart Contracts -“Project Lilypad”",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*do0yzbJQGGvqtDF8EqSyJw.png"
         }
       ]
     },
