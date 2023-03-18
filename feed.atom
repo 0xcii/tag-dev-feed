@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-17T23:12:25.206Z</id>
+    <id>urn:2023-03-18T01:04:31.091Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-17T23:12:25.206Z</updated>
+    <updated>2023-03-18T01:04:31.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -525,16 +525,6 @@ Yamen's Twitter: https://twitter.com/0xYamen
 https://www.youtube.com/watch?v=RnyR7G_1sbg]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AntiSec — Ethernaut Token]]></title>
-        <id>https://medium.com/p/c93d762a8d37</id>
-        <link href="https://blog.blockmagnates.com/antisec-ethernaut-token-c93d762a8d37?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-02-16T11:56:16.000Z</updated>
-        <summary type="html"><![CDATA[Performing Overflows on the Solidity Unsigned Integers]]></summary>
-        <author>
-            <name>Dibakar Sutra Dhar</name>
         </author>
     </entry>
 </feed>
