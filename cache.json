@@ -69,6 +69,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/fab6566b9eb3",
+          "author": "Evangelos Pappas",
+          "description": "On-chain profiles are revolutionizing the way users interact with blockchain-based games by offering a frictionless bridge between Web2 and…",
+          "link": "https://coinsbench.com/on-chain-profiles-a-technical-deep-dive-into-the-future-of-seamless-web2-to-web3-gaming-experience-fab6566b9eb3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-18T07:31:32.000Z",
+          "wordCount": 2465,
+          "title": "On-chain Profiles: A Technical Deep Dive into the Future of Seamless Web2-to-Web3 Gaming Experience…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*YpkRCgVz5dWL9_4AxQeF3w.png"
+        },
+        {
           "id": "https://medium.com/p/e7b4724bbc06",
           "author": "Cyrille",
           "description": "In this tutorial, we will deploy the whole Uniswap V2 protocol to a Hardhat test environment. This will allow us to create automated tests…",
@@ -157,16 +167,6 @@
           "wordCount": 1542,
           "title": "How to convert Solidity JSON ABI to Human Readable ABI in Hardhat",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*0hwuAamEKWEi-TQ-vtbBXg.png"
-        },
-        {
-          "id": "https://medium.com/p/625b1784679b",
-          "author": "Mrexamples",
-          "description": "We are discussing solidity strings, and believing that it would help the learners in theirs's learning journey. Solidity is a popular…",
-          "link": "https://coinsbench.com/solidity-strings-mrexamples-625b1784679b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-15T14:24:46.000Z",
-          "wordCount": 2582,
-          "title": "Solidity Strings — Mrexamples",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qTYzCT_Ve4d6w0DZ7WWPwA.png"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-18T07:11:15.177Z</id>
+    <id>urn:2023-03-18T08:15:28.380Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-18T07:11:15.177Z</updated>
+    <updated>2023-03-18T08:15:28.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[On-chain Profiles: A Technical Deep Dive into the Future of Seamless Web2-to-Web3 Gaming Experience…]]></title>
+        <id>https://medium.com/p/fab6566b9eb3</id>
+        <link href="https://coinsbench.com/on-chain-profiles-a-technical-deep-dive-into-the-future-of-seamless-web2-to-web3-gaming-experience-fab6566b9eb3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-18T07:31:32.000Z</updated>
+        <summary type="html"><![CDATA[On-chain profiles are revolutionizing the way users interact with blockchain-based games by offering a frictionless bridge between Web2 and…]]></summary>
+        <author>
+            <name>Evangelos Pappas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevNTell - DeForm]]></title>
         <id>https://blog.developerdao.com/devntell-deform</id>
@@ -227,16 +237,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[When you develop dApps, one of the main requirements is to load the Application Binary Interface (ABI) into your frontend app. The methods…]]></summary>
         <author>
             <name>Anjana J</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Strings — Mrexamples]]></title>
-        <id>https://medium.com/p/625b1784679b</id>
-        <link href="https://coinsbench.com/solidity-strings-mrexamples-625b1784679b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-15T14:24:46.000Z</updated>
-        <summary type="html"><![CDATA[We are discussing solidity strings, and believing that it would help the learners in theirs's learning journey. Solidity is a popular…]]></summary>
-        <author>
-            <name>Mrexamples</name>
         </author>
     </entry>
     <entry>
