@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-20T13:21:46.504Z</id>
+    <id>urn:2023-03-20T14:13:22.146Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-20T13:21:46.504Z</updated>
+    <updated>2023-03-20T14:13:22.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Template for Hardhat + Foundry Setup]]></title>
+        <id>https://medium.com/p/e9c7af9c3e7b</id>
+        <link href="https://coinsbench.com/template-for-hardhat-foundry-setup-e9c7af9c3e7b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-20T13:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Hardhat and Foundry/Forge both have their pros and cons, so why not use them both in one project for the best of both worlds!
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>insurgent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chapter 1: Introduction to Proxy Contracts and Opcodes]]></title>
+        <id>https://medium.com/p/b64dcb24e2a1</id>
+        <link href="https://coinsbench.com/chapter-1-introduction-to-proxy-contracts-and-opcodes-b64dcb24e2a1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-20T13:34:30.000Z</updated>
+        <summary type="html"><![CDATA[Proxy contracts are a type of smart contract in Ethereum that allow for contract upgradability and modularity by separating contract logic…]]></summary>
+        <author>
+            <name>Ozor A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Proof of Work (PoW)?]]></title>
+        <id>https://medium.com/p/d897cf18968b</id>
+        <link href="https://coinsbench.com/what-is-the-proof-of-work-pow-d897cf18968b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-20T13:34:28.000Z</updated>
+        <summary type="html"><![CDATA[The Proof of Work (PoW) is a key component of many blockchain-based systems, including Bitcoin. PoW allows for the secure and decentralized…]]></summary>
+        <author>
+            <name>Leo G.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Security Part IV: Practices for Bulletproofing Your Blockchain Applications]]></title>
+        <id>https://medium.com/p/93443d907a21</id>
+        <link href="https://coinsbench.com/smart-contract-security-part-iv-practices-for-bulletproofing-your-blockchain-applications-93443d907a21?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-20T13:34:21.000Z</updated>
+        <summary type="html"><![CDATA[Even with the best security measures in place, smart contracts can still be vulnerable if they are not deployed and maintained securely. In…]]></summary>
+        <author>
+            <name>Kaankacar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ABI Encoding in Solidity]]></title>
+        <id>https://medium.com/p/45a54ae2cdba</id>
+        <link href="https://coinsbench.com/abi-encoding-in-solidity-45a54ae2cdba?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-20T13:34:19.000Z</updated>
+        <summary type="html"><![CDATA[ABI encoding is used for smart contract functions’ input data into a format that can be sent over the Ethereum network]]></summary>
+        <author>
+            <name>Shlok Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Web3 Airbnb 2.0 Clone with React, Solidity, and CometChat]]></title>
+        <id>https://medium.com/p/e2bce920f43d</id>
+        <link href="https://coinsbench.com/how-to-build-a-web3-airbnb-2-0-clone-with-react-solidity-and-cometchat-e2bce920f43d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-20T13:34:18.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking to create a cutting-edge platform that leverages the power of web3 to transform the way people book and share…]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Security Practices Part I: Access Control]]></title>
+        <id>https://medium.com/p/dfd2fe430d0b</id>
+        <link href="https://coinsbench.com/solidity-security-practices-part-i-access-control-dfd2fe430d0b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-20T13:34:03.000Z</updated>
+        <summary type="html"><![CDATA[Access control is an essential security measure when it comes to developing smart contracts in Solidity. Access control ensures that only…]]></summary>
+        <author>
+            <name>Kaankacar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beating Ethernaut Level 18: MagicNumber]]></title>
+        <id>https://medium.com/p/a282cd5bc093</id>
+        <link href="https://coinsbench.com/beating-ethernaut-level-18-magicnumber-a282cd5bc093?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-20T13:33:58.000Z</updated>
+        <summary type="html"><![CDATA[In this Ethernaut challenge, we need to create a Solver contract that responds to the whatIsTheMeaningOfLife() function with the correct…]]></summary>
+        <author>
+            <name>Zouvier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[P2P Exchange: Highly Scalable Crypto Exchange Platform For Efficient And Seamless Transactions]]></title>
         <id>https://medium.com/p/c424fe01002e</id>
@@ -152,86 +233,6 @@ https://www.youtube.com/watch?v=QMspxXjrgqs]]></summary>
         <summary type="html"><![CDATA[In this tutorial, we will deploy the whole Uniswap V2 protocol to a Hardhat test environment. This will allow us to create automated tests…]]></summary>
         <author>
             <name>Cyrille</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Tutorial: Swap Token Fees for ETH]]></title>
-        <id>https://medium.com/p/f0e27ee0b979</id>
-        <link href="https://coinsbench.com/solidity-tutorial-swap-token-fees-for-eth-f0e27ee0b979?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-17T18:33:03.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will build an ERC-20 contract that collects ETH fees on transfers.]]></summary>
-        <author>
-            <name>Cyrille</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with Hedera Hashgraph with OpenZepplin]]></title>
-        <id>https://medium.com/p/28cac9292c02</id>
-        <link href="https://coinsbench.com/getting-started-with-hedera-hashgraph-with-openzepplin-28cac9292c02?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-17T18:33:01.000Z</updated>
-        <summary type="html"><![CDATA[Terms like Blockchain, Crypto, smart contracts, NFT, and DeFi are no longer new words for netizens. Most of them have a somewhat good…]]></summary>
-        <author>
-            <name>Anjana J</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to build a dApp with Hedera, Ethers.js, and Solid JS]]></title>
-        <id>https://medium.com/p/755ba5bbdaae</id>
-        <link href="https://coinsbench.com/build-a-dapp-with-hedera-ethers-js-and-solid-js-755ba5bbdaae?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-17T18:32:59.000Z</updated>
-        <summary type="html"><![CDATA[A couple of days ago, I wrote an article about getting started with Hedera Hashgraph with OpenZepplin. Today, I’m going to extend that…]]></summary>
-        <author>
-            <name>Anjana J</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Assisted Smart Contract Security Auditing]]></title>
-        <id>https://medium.com/p/fdcd47f0d1d2</id>
-        <link href="https://coinsbench.com/ai-assisted-smart-contract-security-auditing-fdcd47f0d1d2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-17T18:32:55.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts play a crucial role in the rapidly evolving world of decentralized finance. These self-executing contracts have…]]></summary>
-        <author>
-            <name>Javier Calderon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract Security Part III: Advanced Techniques for Unbeatable Security and Peace of Mind]]></title>
-        <id>https://medium.com/p/de7cf42a4d77</id>
-        <link href="https://coinsbench.com/smart-contract-security-advanced-techniques-for-unbeatable-security-and-peace-of-mind-part-iii-de7cf42a4d77?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-17T18:32:53.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts are a critical component of decentralized applications, enabling developers to create trustless and secure systems without…]]></summary>
-        <author>
-            <name>Kaankacar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEAR — The first certified carbon neutral Layer 1 blockchain]]></title>
-        <id>https://medium.com/p/b459b9f7cadb</id>
-        <link href="https://coinsbench.com/near-the-first-certified-carbon-neutral-layer-1-blockchain-b459b9f7cadb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-15T14:25:01.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Sam Vishwas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract Audit: Why it is required plus polygon audit code]]></title>
-        <id>https://medium.com/p/9a9d5efcf25a</id>
-        <link href="https://coinsbench.com/smart-contract-audit-why-it-is-required-plus-polygon-audit-code-9a9d5efcf25a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-15T14:24:54.000Z</updated>
-        <summary type="html"><![CDATA[A smart contract audit is a process of analyzing the source code of a smart contract to identify potential security vulnerabilities, coding…]]></summary>
-        <author>
-            <name>Anuj Agarwal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to convert Solidity JSON ABI to Human Readable ABI in Hardhat]]></title>
-        <id>https://medium.com/p/b493412c5333</id>
-        <link href="https://coinsbench.com/how-to-convert-solidity-json-abi-to-human-readable-abi-in-hardhat-b493412c5333?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-15T14:24:51.000Z</updated>
-        <summary type="html"><![CDATA[When you develop dApps, one of the main requirements is to load the Application Binary Interface (ABI) into your frontend app. The methods…]]></summary>
-        <author>
-            <name>Anjana J</name>
         </author>
     </entry>
     <entry>

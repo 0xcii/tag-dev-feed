@@ -59,6 +59,86 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e9c7af9c3e7b",
+          "author": "insurgent",
+          "description": "Hardhat and Foundry/Forge both have their pros and cons, so why not use them both in one project for the best of both worlds!\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/template-for-hardhat-foundry-setup-e9c7af9c3e7b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-20T13:34:32.000Z",
+          "wordCount": 1212,
+          "title": "Template for Hardhat + Foundry Setup",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*oAd3swv8CvHYIf-1"
+        },
+        {
+          "id": "https://medium.com/p/b64dcb24e2a1",
+          "author": "Ozor A.",
+          "description": "Proxy contracts are a type of smart contract in Ethereum that allow for contract upgradability and modularity by separating contract logic…",
+          "link": "https://coinsbench.com/chapter-1-introduction-to-proxy-contracts-and-opcodes-b64dcb24e2a1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-20T13:34:30.000Z",
+          "wordCount": 5026,
+          "title": "Chapter 1: Introduction to Proxy Contracts and Opcodes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d897cf18968b",
+          "author": "Leo G.",
+          "description": "The Proof of Work (PoW) is a key component of many blockchain-based systems, including Bitcoin. PoW allows for the secure and decentralized…",
+          "link": "https://coinsbench.com/what-is-the-proof-of-work-pow-d897cf18968b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-20T13:34:28.000Z",
+          "wordCount": 2499,
+          "title": "What is the Proof of Work (PoW)?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:636/1*UL8NKx4cBVka2l80GGy5WQ.png"
+        },
+        {
+          "id": "https://medium.com/p/93443d907a21",
+          "author": "Kaankacar",
+          "description": "Even with the best security measures in place, smart contracts can still be vulnerable if they are not deployed and maintained securely. In…",
+          "link": "https://coinsbench.com/smart-contract-security-part-iv-practices-for-bulletproofing-your-blockchain-applications-93443d907a21?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-20T13:34:21.000Z",
+          "wordCount": 3001,
+          "title": "Smart Contract Security Part IV: Practices for Bulletproofing Your Blockchain Applications",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*x8krG9ZiTJwehq-3N-pDfw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/45a54ae2cdba",
+          "author": "Shlok Kumar",
+          "description": "ABI encoding is used for smart contract functions’ input data into a format that can be sent over the Ethereum network",
+          "link": "https://coinsbench.com/abi-encoding-in-solidity-45a54ae2cdba?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-20T13:34:19.000Z",
+          "wordCount": 2102,
+          "title": "ABI Encoding in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*3pAeUTgwpaq07u-m6oObsQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/e2bce920f43d",
+          "author": "Darlington Gospel",
+          "description": "Are you looking to create a cutting-edge platform that leverages the power of web3 to transform the way people book and share…",
+          "link": "https://coinsbench.com/how-to-build-a-web3-airbnb-2-0-clone-with-react-solidity-and-cometchat-e2bce920f43d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-20T13:34:18.000Z",
+          "wordCount": 5794,
+          "title": "How to Build a Web3 Airbnb 2.0 Clone with React, Solidity, and CometChat",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*BA7bByF8wEN5xF_a.png"
+        },
+        {
+          "id": "https://medium.com/p/dfd2fe430d0b",
+          "author": "Kaankacar",
+          "description": "Access control is an essential security measure when it comes to developing smart contracts in Solidity. Access control ensures that only…",
+          "link": "https://coinsbench.com/solidity-security-practices-part-i-access-control-dfd2fe430d0b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-20T13:34:03.000Z",
+          "wordCount": 2200,
+          "title": "Solidity Security Practices Part I: Access Control",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*G9DpLN5ZnmtoLxUzfCV3cA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/a282cd5bc093",
+          "author": "Zouvier",
+          "description": "In this Ethernaut challenge, we need to create a Solver contract that responds to the whatIsTheMeaningOfLife() function with the correct…",
+          "link": "https://coinsbench.com/beating-ethernaut-level-18-magicnumber-a282cd5bc093?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-20T13:33:58.000Z",
+          "wordCount": 1443,
+          "title": "Beating Ethernaut Level 18: MagicNumber",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0yZ3OJ8J12meNe6GDsys_g.png"
+        },
+        {
           "id": "https://medium.com/p/fab6566b9eb3",
           "author": "Evangelos Pappas",
           "description": "On-chain profiles are revolutionizing the way users interact with blockchain-based games by offering a frictionless bridge between Web2 and…",
@@ -77,86 +157,6 @@
           "wordCount": 2998,
           "title": "Solidity Tutorial: automated testing token swaps (Uniswap / Pancakeswap)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1rmVp9l5FmYswQFJrp2Bqw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f0e27ee0b979",
-          "author": "Cyrille",
-          "description": "In this tutorial, we will build an ERC-20 contract that collects ETH fees on transfers.",
-          "link": "https://coinsbench.com/solidity-tutorial-swap-token-fees-for-eth-f0e27ee0b979?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-17T18:33:03.000Z",
-          "wordCount": 3054,
-          "title": "Solidity Tutorial: Swap Token Fees for ETH",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*R9UCiYHXUEc1WQ0C"
-        },
-        {
-          "id": "https://medium.com/p/28cac9292c02",
-          "author": "Anjana J",
-          "description": "Terms like Blockchain, Crypto, smart contracts, NFT, and DeFi are no longer new words for netizens. Most of them have a somewhat good…",
-          "link": "https://coinsbench.com/getting-started-with-hedera-hashgraph-with-openzepplin-28cac9292c02?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-17T18:33:01.000Z",
-          "wordCount": 3328,
-          "title": "Getting Started with Hedera Hashgraph with OpenZepplin",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*kpLu9A_BYA1rq92faSlNbg.png"
-        },
-        {
-          "id": "https://medium.com/p/755ba5bbdaae",
-          "author": "Anjana J",
-          "description": "A couple of days ago, I wrote an article about getting started with Hedera Hashgraph with OpenZepplin. Today, I’m going to extend that…",
-          "link": "https://coinsbench.com/build-a-dapp-with-hedera-ethers-js-and-solid-js-755ba5bbdaae?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-17T18:32:59.000Z",
-          "wordCount": 2890,
-          "title": "How to build a dApp with Hedera, Ethers.js, and Solid JS",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*CLEUk9hxqMF3DbPUFp6xMA.png"
-        },
-        {
-          "id": "https://medium.com/p/fdcd47f0d1d2",
-          "author": "Javier Calderon",
-          "description": "Smart contracts play a crucial role in the rapidly evolving world of decentralized finance. These self-executing contracts have…",
-          "link": "https://coinsbench.com/ai-assisted-smart-contract-security-auditing-fdcd47f0d1d2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-17T18:32:55.000Z",
-          "wordCount": 4334,
-          "title": "AI-Assisted Smart Contract Security Auditing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/de7cf42a4d77",
-          "author": "Kaankacar",
-          "description": "Smart contracts are a critical component of decentralized applications, enabling developers to create trustless and secure systems without…",
-          "link": "https://coinsbench.com/smart-contract-security-advanced-techniques-for-unbeatable-security-and-peace-of-mind-part-iii-de7cf42a4d77?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-17T18:32:53.000Z",
-          "wordCount": 2898,
-          "title": "Smart Contract Security Part III: Advanced Techniques for Unbeatable Security and Peace of Mind",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/1*49fdL0v1_iSbQ6_SJrDofw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/b459b9f7cadb",
-          "author": "Sam Vishwas",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/near-the-first-certified-carbon-neutral-layer-1-blockchain-b459b9f7cadb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-15T14:25:01.000Z",
-          "wordCount": 3070,
-          "title": "NEAR — The first certified carbon neutral Layer 1 blockchain",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3gqgj-aSvJiFdMbkJ-M6Wg.png"
-        },
-        {
-          "id": "https://medium.com/p/9a9d5efcf25a",
-          "author": "Anuj Agarwal",
-          "description": "A smart contract audit is a process of analyzing the source code of a smart contract to identify potential security vulnerabilities, coding…",
-          "link": "https://coinsbench.com/smart-contract-audit-why-it-is-required-plus-polygon-audit-code-9a9d5efcf25a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-15T14:24:54.000Z",
-          "wordCount": 2200,
-          "title": "Smart Contract Audit: Why it is required plus polygon audit code",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-IIgyAh7ZGCI5ZsoB1lJrg.png"
-        },
-        {
-          "id": "https://medium.com/p/b493412c5333",
-          "author": "Anjana J",
-          "description": "When you develop dApps, one of the main requirements is to load the Application Binary Interface (ABI) into your frontend app. The methods…",
-          "link": "https://coinsbench.com/how-to-convert-solidity-json-abi-to-human-readable-abi-in-hardhat-b493412c5333?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-15T14:24:51.000Z",
-          "wordCount": 1542,
-          "title": "How to convert Solidity JSON ABI to Human Readable ABI in Hardhat",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*0hwuAamEKWEi-TQ-vtbBXg.png"
         }
       ]
     },
