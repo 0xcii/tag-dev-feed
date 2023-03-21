@@ -11,7 +11,7 @@
           "description": "There are a few different ways you could use AI on the Bitcoin blockchain. One can use a machine learning…\nThe post AI on the Bitcoin blockchain with Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/ai-on-the-bitcoin-blockchain-with-python/",
           "publishedOn": "2023-03-04T10:26:38.000Z",
-          "wordCount": 4270,
+          "wordCount": 4269,
           "title": "AI on the Bitcoin blockchain with Python",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "In this article we will discuss Gnosis Safes with Python. Gnosis Safes is a powerful smart contract wallet on the…\nThe post Interact with Gnosis Safes with Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/interact-with-gnosis-safes-with-python/",
           "publishedOn": "2023-02-25T05:45:30.000Z",
-          "wordCount": 3695,
+          "wordCount": 3694,
           "title": "Interact with Gnosis Safes with Python",
           "imageUrl": null
         },
@@ -31,7 +31,7 @@
           "description": "Gnosis Safes is an open-source platform that allows users to create secure and customizable smart contract wallets on the Ethereum…\nThe post Gnosis Safes appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/gnosis-safes/",
           "publishedOn": "2023-02-22T05:05:20.000Z",
-          "wordCount": 3911,
+          "wordCount": 3912,
           "title": "Gnosis Safes",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2023/02/image.png"
         },
@@ -41,7 +41,7 @@
           "description": "Creating a Solidity Smart Contract with Account Abstraction. One of the most exciting features of Solidity is account abstraction. Account…\nThe post Solidity account abstraction appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/solidity-account-abstraction/",
           "publishedOn": "2023-02-20T05:01:08.000Z",
-          "wordCount": 3740,
+          "wordCount": 3741,
           "title": "Solidity account abstraction",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         }
@@ -104,7 +104,7 @@
           "description": "ABI encoding is used for smart contract functions’ input data into a format that can be sent over the Ethereum network",
           "link": "https://coinsbench.com/abi-encoding-in-solidity-45a54ae2cdba?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-03-20T13:34:19.000Z",
-          "wordCount": 2096,
+          "wordCount": 2102,
           "title": "ABI Encoding in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*3pAeUTgwpaq07u-m6oObsQ.jpeg"
         },
@@ -166,6 +166,56 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/8d1e8234d832",
+          "author": "thecryptolearn",
+          "description": "The rise of cryptocurrencies",
+          "link": "https://medium.com/coinmonks/why-bank-failures-are-a-good-thing-8d1e8234d832?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-21T13:00:35.000Z",
+          "wordCount": 2161,
+          "title": "Why Bank Failures Are a Good Thing",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*37UUn93Mjbv4Qf43CtZ6Yw.png"
+        },
+        {
+          "id": "https://medium.com/p/10f1ffbb1a0a",
+          "author": "Cathrine Williams",
+          "description": "Welcome to our blog where we will be discussing the key differences between Ethereum smart contracts and traditional contracts.",
+          "link": "https://medium.com/coinmonks/ethereum-smart-contract-vs-traditional-contract-10f1ffbb1a0a?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-21T13:00:29.000Z",
+          "wordCount": 3959,
+          "title": "Comparing Ethereum Smart Contracts with Traditional Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*XxLX1kASjK1S7uFaSpXULw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/dfda3d766d1e",
+          "author": "PVMihalache",
+          "description": "PoolTogether is the crypto-powered savings protocol based on Premium Bonds that helps users to save money. Additionally, the participants…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/pooltogether-its-cool-to-be-an-optimistic-pooler-dfda3d766d1e?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-21T12:51:44.000Z",
+          "wordCount": 1380,
+          "title": "PoolTogether — It’s Cool To Be an Optimistic Pooler!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:680/1*AYU7WhqOC8iHcaZiSuaBZg.png"
+        },
+        {
+          "id": "https://medium.com/p/e8cd258c5640",
+          "author": "Hajra Ajmal",
+          "description": "Artificial intelligence (AI) is transforming our world at an unprecedented pace. From self-driving cars to personal digital assistants, AI…",
+          "link": "https://medium.com/coinmonks/the-ethics-of-artificial-intelligence-navigating-the-consequences-for-society-e8cd258c5640?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-21T12:51:24.000Z",
+          "wordCount": 2281,
+          "title": "The Ethics of Artificial Intelligence: Navigating the Consequences for Society",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WILdxaK3UBfwntzkfb1Uzg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/2e582c587ab",
+          "author": "Kaan Kaçar",
+          "description": "Multi-signature (multi-sig) wallets are a type of smart contract that provides enhanced security and control for managing cryptocurrency…",
+          "link": "https://medium.com/coinmonks/solidity-security-practices-part-ii-multi-signature-wallets-2e582c587ab?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-21T12:51:17.000Z",
+          "wordCount": 2759,
+          "title": "Solidity Security Practices Part II: Multi-Signature Wallets",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LJGBItfYpp0OXbFMyemiXQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/b5eba5510317",
           "author": "Ronwriter",
           "description": "In many ways, banks represent the financial foundation of a global community. Without them, individuals and businesses must fend for the…\nContinue reading on Coinmonks »",
@@ -181,7 +231,7 @@
           "description": "Discover the Top 3 Altcoins That Could Dethrone Bitcoin in 2023\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/3-altcoins-that-could-challenge-bitcoins-dominance-in-2023-cc219b507a3a?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-21T12:00:39.000Z",
-          "wordCount": 1289,
+          "wordCount": 1101,
           "title": "3 Altcoins That Could Challenge Bitcoin’s Dominance in 2023",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*NuxQyEI98WT3Yy-6GBsE4Q.png"
         },
@@ -191,7 +241,7 @@
           "description": "By — Curious Cosmonaut Research, you can find hundreds of Cosmos articles on our research site here.",
           "link": "https://medium.com/coinmonks/yieldbots-yield-bearing-nft-in-cosmos-3ee6fc526cb3?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-21T11:58:51.000Z",
-          "wordCount": 3553,
+          "wordCount": 3342,
           "title": "YieldBots — Yield Bearing NFT in Cosmos",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*LmXI9o3JegcQwY-Vi6uOKg.png"
         },
@@ -201,7 +251,7 @@
           "description": "The Cronos cryptocurrency (previously known as the “crypto.com coin”) is the in-house token of the Crypto.com-built blockchain network…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/is-cronos-cro-a-good-investment-in-2023-e435f3c677d5?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-21T11:58:38.000Z",
-          "wordCount": 1355,
+          "wordCount": 1085,
           "title": "Is Cronos (CRO) a Good Investment in 2023 ?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ccInvLOgLtmQ4rf95dR1VQ.jpeg"
         },
@@ -211,59 +261,9 @@
           "description": "On September 13th 2022 Sweatcoin finally launches its cryptocurrency SWEAT. Read this if you want to know how to earn money by walking…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/sweatcoin-walk-for-crypto-on-13-september-2022-84c6ce602d94?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-21T11:58:26.000Z",
-          "wordCount": 1421,
+          "wordCount": 1136,
           "title": "SWEATCOIN — Walk for Crypto on 13. September 2022!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*kHeAH18h-0V_RYucxvuKZA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/32db92f19b88",
-          "author": "Atchantix",
-          "description": "Since 13th September 2022 SWEAT is now a full-grown cryptocurrency. Sweat wallet was released and new features have been implemented…",
-          "link": "https://medium.com/coinmonks/sweatcoin-an-update-on-walking-for-crypto-32db92f19b88?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-21T11:58:17.000Z",
-          "wordCount": 2300,
-          "title": "Sweatcoin — An update on walking for Crypto",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1HdRasjsX_fvsdhBwuK3jg.png"
-        },
-        {
-          "id": "https://medium.com/p/b3686bf1b56c",
-          "author": "Samson Adesanoye",
-          "description": "The rise of different blockchains has brought various explorers with it, that provide detailed analytics about its blockchain network and…",
-          "link": "https://medium.com/coinmonks/tenderly-explorer-the-unified-blockchain-explorer-you-need-b3686bf1b56c?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-21T11:58:09.000Z",
-          "wordCount": 2334,
-          "title": "Tenderly Explorer The Unified Blockchain Explorer You Need",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*eUW8qyfp8zbaH24kk-gCPw.png"
-        },
-        {
-          "id": "https://medium.com/p/16143f9e8234",
-          "author": "Ziva Fajfar",
-          "description": "Arbitrum is giving away 1.162 billion $ARB tokens but if you missed it, don’t worry. Other big airdrops are on their way!\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/top-5-biggest-upcoming-crypto-airdrops-of-2023-if-you-missed-arbitrum-16143f9e8234?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-21T11:57:52.000Z",
-          "wordCount": 1301,
-          "title": "Top 5 Biggest Upcoming Crypto Airdrops Of 2023 If You Missed Arbitrum",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1186/1*dQXQSEelXlccLi7QAoodoA.png"
-        },
-        {
-          "id": "https://medium.com/p/a2c1d522fb4f",
-          "author": "0xJinbe",
-          "description": "INTRODUCTION",
-          "link": "https://medium.com/coinmonks/explaining-peer-to-peer-distribution-a2c1d522fb4f?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-21T11:57:08.000Z",
-          "wordCount": 4021,
-          "title": "Explaining Peer To Peer Distribution",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5e64ad094205",
-          "author": "0xJinbe",
-          "description": "Blockchain started with its first implementation using a new type of currency known as Bitcoin. Bitcoin is a type of digital currency that…",
-          "link": "https://medium.com/coinmonks/bitcoin-101-intro-for-newbies-5e64ad094205?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-21T11:57:00.000Z",
-          "wordCount": 2358,
-          "title": "Bitcoin 101 intro for newbies",
-          "imageUrl": null
         }
       ]
     },
