@@ -11,7 +11,7 @@
           "description": "There are a few different ways you could use AI on the Bitcoin blockchain. One can use a machine learning…\nThe post AI on the Bitcoin blockchain with Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/ai-on-the-bitcoin-blockchain-with-python/",
           "publishedOn": "2023-03-04T10:26:38.000Z",
-          "wordCount": 4256,
+          "wordCount": 4267,
           "title": "AI on the Bitcoin blockchain with Python",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "In this article we will discuss Gnosis Safes with Python. Gnosis Safes is a powerful smart contract wallet on the…\nThe post Interact with Gnosis Safes with Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/interact-with-gnosis-safes-with-python/",
           "publishedOn": "2023-02-25T05:45:30.000Z",
-          "wordCount": 3681,
+          "wordCount": 3692,
           "title": "Interact with Gnosis Safes with Python",
           "imageUrl": null
         },
@@ -31,7 +31,7 @@
           "description": "Gnosis Safes is an open-source platform that allows users to create secure and customizable smart contract wallets on the Ethereum…\nThe post Gnosis Safes appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/gnosis-safes/",
           "publishedOn": "2023-02-22T05:05:20.000Z",
-          "wordCount": 3899,
+          "wordCount": 3910,
           "title": "Gnosis Safes",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2023/02/image.png"
         }
@@ -48,6 +48,56 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/e39e3d69ccf8",
+          "author": "Madhur Shrimal",
+          "description": "What does SoulBound mean?",
+          "link": "https://coinsbench.com/tutorial-building-an-erc1155-souldbound-token-e39e3d69ccf8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-22T12:03:29.000Z",
+          "wordCount": 2044,
+          "title": "Tutorial: Building an ERC1155 SoulBound Token",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/0*2RNgTQ28iz0_K6cJ"
+        },
+        {
+          "id": "https://medium.com/p/40580fbceac8",
+          "author": "Leo G.",
+          "description": "A few weeks ago, I talked about the PoW algorithm and I ended my article by briefly describing the PoS. Today, I’d like to take a moment to…",
+          "link": "https://coinsbench.com/what-is-the-proof-of-stake-pos-40580fbceac8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-22T12:03:16.000Z",
+          "wordCount": 2946,
+          "title": "What is the Proof of Stake (PoS)?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:636/1*HhyYXR-B1poX8uvPETmzKw.png"
+        },
+        {
+          "id": "https://medium.com/p/db234d4b003c",
+          "author": "Shlok Kumar",
+          "description": "ABI.encodePacked compresses the contract data into a one-byte array thereby reducing its size",
+          "link": "https://coinsbench.com/packed-encoding-of-abi-in-solidity-db234d4b003c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-22T12:03:16.000Z",
+          "wordCount": 1947,
+          "title": "Packed Encoding of ABI in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NPba7ZnS-Y360ULvk7lnpg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/33ee93511386",
+          "author": "Aitor Zaldua",
+          "description": "“The blockchain is inmutable. Until is not”. Old Klingon proverb.",
+          "link": "https://coinsbench.com/ethernaut-16-proxies-libraries-and-the-upgradeable-contracts-33ee93511386?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-22T12:03:16.000Z",
+          "wordCount": 2314,
+          "title": "Ethernaut 16: Proxies, libraries and the upgradeable contracts.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*afqFC2bYyzMkBXtM3n7ykQ.png"
+        },
+        {
+          "id": "https://medium.com/p/e24fe0a7c933",
+          "author": "Leo G.",
+          "description": "Are you ready to dive into the world of decentralized applications (DApps) and blockchain technology? In this tutorial, I’ll guide you…",
+          "link": "https://coinsbench.com/create-and-deploy-your-first-next-js-blockchain-dapp-with-solidity-in-minutes-e24fe0a7c933?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-22T12:03:15.000Z",
+          "wordCount": 2302,
+          "title": "Create and Deploy Your First Next.js Blockchain DApp with Solidity in Minutes!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:619/1*pfvcqfmcxnMQOAq8hinbWA.png"
+        },
         {
           "id": "https://medium.com/p/e9c7af9c3e7b",
           "author": "insurgent",
@@ -97,56 +147,6 @@
           "wordCount": 2102,
           "title": "ABI Encoding in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*3pAeUTgwpaq07u-m6oObsQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e2bce920f43d",
-          "author": "Darlington Gospel",
-          "description": "Are you looking to create a cutting-edge platform that leverages the power of web3 to transform the way people book and share…",
-          "link": "https://coinsbench.com/how-to-build-a-web3-airbnb-2-0-clone-with-react-solidity-and-cometchat-e2bce920f43d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-20T13:34:18.000Z",
-          "wordCount": 5794,
-          "title": "How to Build a Web3 Airbnb 2.0 Clone with React, Solidity, and CometChat",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*BA7bByF8wEN5xF_a.png"
-        },
-        {
-          "id": "https://medium.com/p/dfd2fe430d0b",
-          "author": "Kaan Kaçar",
-          "description": "Access control is an essential security measure when it comes to developing smart contracts in Solidity. Access control ensures that only…",
-          "link": "https://coinsbench.com/solidity-security-practices-part-i-access-control-dfd2fe430d0b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-20T13:34:03.000Z",
-          "wordCount": 2206,
-          "title": "Solidity Security Practices Part I: Access Control",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*G9DpLN5ZnmtoLxUzfCV3cA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/a282cd5bc093",
-          "author": "Zouvier",
-          "description": "In this Ethernaut challenge, we need to create a Solver contract that responds to the whatIsTheMeaningOfLife() function with the correct…",
-          "link": "https://coinsbench.com/beating-ethernaut-level-18-magicnumber-a282cd5bc093?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-20T13:33:58.000Z",
-          "wordCount": 1443,
-          "title": "Beating Ethernaut Level 18: MagicNumber",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0yZ3OJ8J12meNe6GDsys_g.png"
-        },
-        {
-          "id": "https://medium.com/p/fab6566b9eb3",
-          "author": "Evangelos Pappas",
-          "description": "On-chain profiles are revolutionizing the way users interact with blockchain-based games by offering a frictionless bridge between Web2 and…",
-          "link": "https://coinsbench.com/on-chain-profiles-a-technical-deep-dive-into-the-future-of-seamless-web2-to-web3-gaming-experience-fab6566b9eb3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-18T07:31:32.000Z",
-          "wordCount": 2465,
-          "title": "On-chain Profiles: A Technical Deep Dive into the Future of Seamless Web2-to-Web3 Gaming Experience…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*YpkRCgVz5dWL9_4AxQeF3w.png"
-        },
-        {
-          "id": "https://medium.com/p/e7b4724bbc06",
-          "author": "Cyrille",
-          "description": "In this tutorial, we will deploy the whole Uniswap V2 protocol to a Hardhat test environment. This will allow us to create automated tests…",
-          "link": "https://coinsbench.com/solidity-tutorial-automated-testing-token-swaps-uniswap-pancakeswap-e7b4724bbc06?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-17T18:33:10.000Z",
-          "wordCount": 2998,
-          "title": "Solidity Tutorial: automated testing token swaps (Uniswap / Pancakeswap)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1rmVp9l5FmYswQFJrp2Bqw.jpeg"
         }
       ]
     },
@@ -155,6 +155,36 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/11085bb44f81",
+          "author": "Ronwriter",
+          "description": "The recent banking debacle in the Traditional Finance (TradFi) has only impacted the fiat money of crypto companies. As disheartening as…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/defi-shines-amid-tradfi-collapses-11085bb44f81?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-22T11:46:00.000Z",
+          "wordCount": 1045,
+          "title": "DeFi shines amid TradFi collapses",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1019/1*8_uTxYD0YP83FG9vEdpKUQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/8972dfaa74b5",
+          "author": "Shaun Enslin",
+          "description": "As we hit resistance levels, you may be asking, why I am shorting Etherium? Lets dive into my crypto plan for the next week.",
+          "link": "https://medium.com/coinmonks/weekly-bitcoin-plan-19-mar2023-8972dfaa74b5?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-22T11:43:54.000Z",
+          "wordCount": 1697,
+          "title": "Weekly Bitcoin plan: 19 Mar2023",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*J9PvyV8hcWvFtS_vNNymUQ.png"
+        },
+        {
+          "id": "https://medium.com/p/ad2d9f75f895",
+          "author": "Ziva Fajfar",
+          "description": "The Arbitrum airdrop is scheduled for tomorrow and many major exchanges have already announced the $ARB listing.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/how-to-best-trade-arb-token-when-it-hits-the-market-ad2d9f75f895?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-22T11:28:43.000Z",
+          "wordCount": 1054,
+          "title": "How To Best Trade $ARB Token When It Hits The Market",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BleaHuCBk9gBxDoOzvvTiw.png"
+        },
         {
           "id": "https://medium.com/p/7e5853808f20",
           "author": "Mark Timmis",
@@ -181,7 +211,7 @@
           "description": "Investors always looking for tomorrow’s undiscovered winners are undoubtedly already familiar with MEXC Global. The vast selection of…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/revolutionize-your-crypto-trading-with-mexc-global-the-industrys-top-rated-exchange-70a2ac0182fa?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-22T10:10:34.000Z",
-          "wordCount": 1097,
+          "wordCount": 1090,
           "title": "Revolutionize Your Crypto Trading with MEXC Global: The Industry’s Top-Rated Exchange",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*NdHNh_cc6w48n-AD"
         },
@@ -191,7 +221,7 @@
           "description": "StealthEX, an instant non-custodial crypto platform, has successfully entered into a new partnership with an EVM-based Omega Wallet, a…",
           "link": "https://medium.com/coinmonks/stealthex-to-be-integrated-into-omega-wallet-ae2d26faeac9?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-22T10:10:22.000Z",
-          "wordCount": 2259,
+          "wordCount": 1994,
           "title": "StealthEX to Be Integrated into Omega Wallet",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*F86pfcLvsfXnAzFPx9A-Ow.png"
         },
@@ -224,36 +254,6 @@
           "wordCount": 2198,
           "title": "Startup Radar: Why we like Relai, the easiest way to buy bitcoins instantly",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e46bf926b99d",
-          "author": "Chirayu Arya",
-          "description": "The gaming industry has been evolving rapidly over the years, with new technologies and innovations making games more immersive, engaging…",
-          "link": "https://medium.com/coinmonks/gamefi-the-new-era-of-gaming-and-finance-e46bf926b99d?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-22T07:35:46.000Z",
-          "wordCount": 2857,
-          "title": "GameFi: The New Era of Gaming and Finance",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:806/1*gw1WzLh_aQWEpDtdfuDYdw.png"
-        },
-        {
-          "id": "https://medium.com/p/b225bcffeb8e",
-          "author": "Langa Ntuli",
-          "description": "When the rug gets pulled out from under you\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-art-of-the-exit-scam-in-crypto-b225bcffeb8e?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-22T07:35:24.000Z",
-          "wordCount": 1082,
-          "title": "The Art Of The Rug Pull In Crypto",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mYS8-jZzFdUlTmwv1ToiFQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f0299f6baed0",
-          "author": "Sunflower Corporation",
-          "description": "The Risk/Reward ratio is a coefficient designed to calculate the potential profitability from a trade relative to the inherent risk and…",
-          "link": "https://medium.com/coinmonks/risk-reward-ratio-in-crypto-trading-why-is-it-so-important-f0299f6baed0?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-22T07:35:18.000Z",
-          "wordCount": 2706,
-          "title": "Risk/Reward Ratio in crypto trading: why is it so important?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*D_l-SbESCRVcFgdvdieHcA.png"
         }
       ]
     },
