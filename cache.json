@@ -49,6 +49,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/5f76c1a057cc",
+          "author": "Shlok Kumar",
+          "description": "SHA256 in Solidity provides developers with a secure and efficient way to perform cryptographic operations on their data",
+          "link": "https://coinsbench.com/sha256-in-solidity-5f76c1a057cc?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-23T13:29:42.000Z",
+          "wordCount": 1695,
+          "title": "SHA256 in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ROw9xwt_bXZ66OiJBmPb7A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/74c7a6baefcd",
+          "author": "Pozitron",
+          "description": "Greetings, curious readers! Today, we’ll dive into the fascinating world of smart contracts and how they’re reshaping the supply chain…",
+          "link": "https://coinsbench.com/revolutionizing-supply-chain-management-with-smart-contracts-on-the-blockchain-74c7a6baefcd?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-23T13:29:36.000Z",
+          "wordCount": 2856,
+          "title": "Revolutionizing Supply Chain Management: With Smart Contracts on the Blockchain.",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1003/1*ycWlcQ9BXQ1GhyE7qi_hLA.gif"
+        },
+        {
+          "id": "https://medium.com/p/be795a16fbf7",
+          "author": "Leo G.",
+          "description": "If you’ve been dabbling in the world of blockchain and cryptocurrencies, you’ve probably heard about Ethereum and its revolutionary smart…",
+          "link": "https://coinsbench.com/master-the-art-of-ethereum-gas-boost-your-blockchain-skills-and-save-money-on-transactions-be795a16fbf7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-23T13:29:30.000Z",
+          "wordCount": 2338,
+          "title": "Master the Art of Ethereum Gas: Boost Your Blockchain Skills and Save Money on Transactions!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:636/1*3UHaqC2kQDUcqyEr3ghMbQ.png"
+        },
+        {
+          "id": "https://medium.com/p/b2ddac7dc0ad",
+          "author": "Madhur Shrimal",
+          "description": "Tired of verifying your email and other social media on every website and also share your personal details all the time? On-chain…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/on-chain-credentials-b2ddac7dc0ad?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-23T13:29:22.000Z",
+          "wordCount": 1672,
+          "title": "On-chain credentials",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/0*5NxMQBRzfBSNto_x"
+        },
+        {
+          "id": "https://medium.com/p/e32c77d9ed72",
+          "author": "Web3verse Academy",
+          "description": "This blog post is a lab manual for the Web3LabsForAll project. Web3LabsForAll is an open-source project to help new students or…",
+          "link": "https://coinsbench.com/lab-5-developing-react-webapp-for-interaction-with-smart-contract-using-ether-js-e32c77d9ed72?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-23T13:29:20.000Z",
+          "wordCount": 3821,
+          "title": "Lab 5: Developing React WebApp for Interaction with Smart Contract using ether.js",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*fqjdXi96rQrN8CjD"
+        },
+        {
           "id": "https://medium.com/p/e39e3d69ccf8",
           "author": "Madhur Shrimal",
           "description": "What does SoulBound mean?",
@@ -97,56 +147,6 @@
           "wordCount": 2283,
           "title": "Create and Deploy Your First Next.js Blockchain DApp with Solidity in Minutes!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:619/1*pfvcqfmcxnMQOAq8hinbWA.png"
-        },
-        {
-          "id": "https://medium.com/p/e9c7af9c3e7b",
-          "author": "insurgent",
-          "description": "Hardhat and Foundry/Forge both have their pros and cons, so why not use them both in one project for the best of both worlds!\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/template-for-hardhat-foundry-setup-e9c7af9c3e7b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-20T13:34:32.000Z",
-          "wordCount": 1212,
-          "title": "Template for Hardhat + Foundry Setup",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*oAd3swv8CvHYIf-1"
-        },
-        {
-          "id": "https://medium.com/p/b64dcb24e2a1",
-          "author": "Ozor A.",
-          "description": "Proxy contracts are a type of smart contract in Ethereum that allow for contract upgradability and modularity by separating contract logic…",
-          "link": "https://coinsbench.com/chapter-1-introduction-to-proxy-contracts-and-opcodes-b64dcb24e2a1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-20T13:34:30.000Z",
-          "wordCount": 5026,
-          "title": "Chapter 1: Introduction to Proxy Contracts and Opcodes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d897cf18968b",
-          "author": "Leo G.",
-          "description": "The Proof of Work (PoW) is a key component of many blockchain-based systems, including Bitcoin. PoW allows for the secure and decentralized…",
-          "link": "https://coinsbench.com/what-is-the-proof-of-work-pow-d897cf18968b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-20T13:34:28.000Z",
-          "wordCount": 2499,
-          "title": "What is the Proof of Work (PoW)?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:636/1*UL8NKx4cBVka2l80GGy5WQ.png"
-        },
-        {
-          "id": "https://medium.com/p/93443d907a21",
-          "author": "Kaan Kaçar",
-          "description": "Even with the best security measures in place, smart contracts can still be vulnerable if they are not deployed and maintained securely. In…",
-          "link": "https://coinsbench.com/smart-contract-security-part-iv-practices-for-bulletproofing-your-blockchain-applications-93443d907a21?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-20T13:34:21.000Z",
-          "wordCount": 3007,
-          "title": "Smart Contract Security Part IV: Practices for Bulletproofing Your Blockchain Applications",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*x8krG9ZiTJwehq-3N-pDfw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/45a54ae2cdba",
-          "author": "Shlok Kumar",
-          "description": "ABI encoding is used for smart contract functions’ input data into a format that can be sent over the Ethereum network",
-          "link": "https://coinsbench.com/abi-encoding-in-solidity-45a54ae2cdba?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-20T13:34:19.000Z",
-          "wordCount": 2102,
-          "title": "ABI Encoding in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*3pAeUTgwpaq07u-m6oObsQ.jpeg"
         }
       ]
     },
@@ -156,104 +156,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/9a91c9d6caae",
-          "author": "Vladan Lausevic",
-          "description": "Decentralized citizenship is still a young development regarding technology and organization. One of the main ideas is that humans can have…",
-          "link": "https://medium.com/coinmonks/enter-decentralized-citizenships-9a91c9d6caae?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-23T13:07:28.000Z",
-          "wordCount": 2238,
-          "title": "Enter decentralized citizenships",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*y-qBwHGmC3y7o4QB.png"
+          "id": "https://medium.com/p/15d5cc454d44",
+          "author": "Dy_storyteller",
+          "description": "Exploring the Best APIs for Ethereum Non-Fungible Tokens (NFTs) and Their Features for Developers and Curious Eyes",
+          "link": "https://medium.com/coinmonks/top-ethereum-nft-apis-15d5cc454d44?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-23T13:31:26.000Z",
+          "wordCount": 4155,
+          "title": "Top 10 Ethereum NFT APIs",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:720/0*3xFqmh2d381inJTl"
         },
         {
-          "id": "https://medium.com/p/7ce43b02a67",
-          "author": "Dmitry K",
-          "description": "What happened?",
-          "link": "https://medium.com/coinmonks/6-cryptoassets-to-invest-recommended-by-artificial-intelligence-7ce43b02a67?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-23T13:07:13.000Z",
-          "wordCount": 1679,
-          "title": "6 cryptoassets to invest recommended by artificial intelligence",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UKdnY2YzCoShmE38IGR3dA.jpeg"
+          "id": "https://medium.com/p/77f925f67cd3",
+          "author": "Adedeji Jedidiah Ogunsola",
+          "description": "How Non-Fungible Tokens Can Revolutionize the Way We Learn and Share Information",
+          "link": "https://medium.com/coinmonks/unlocking-the-value-of-knowledge-exploring-the-potential-of-nfts-in-education-77f925f67cd3?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-23T13:26:21.000Z",
+          "wordCount": 2573,
+          "title": "Unlocking the Value of Knowledge: Exploring the Potential of NFTs in Education",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:960/0*7HtiFhzc5dSX8mcB"
         },
         {
-          "id": "https://medium.com/p/64fc61f1922e",
-          "author": "Paul Phoenix",
-          "description": "Falling Transaction Fees and Positive Poll Results Indicate a Bright Future for Ethereum",
-          "link": "https://medium.com/coinmonks/santiment-predicts-ethereum-to-surpass-2-000-mark-in-upcoming-period-64fc61f1922e?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-23T13:07:07.000Z",
-          "wordCount": 1596,
-          "title": "Santiment Predicts Ethereum to Surpass $2,000 Mark in Upcoming Period",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:696/0*5gw7bU0Uc-TVF0bL.png"
+          "id": "https://medium.com/p/7115b8b6a312",
+          "author": "Kaan Kaçar",
+          "description": "Formal verification is a process used for verifying the correctness of smart contracts, which can help in preventing potential security…",
+          "link": "https://medium.com/coinmonks/solidity-security-practices-part-iv-formal-verification-7115b8b6a312?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-23T13:26:07.000Z",
+          "wordCount": 3739,
+          "title": "Solidity Security Practices Part IV: Formal Verification",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*CzpuPrxZtimLRRjRbWJxqQ.jpeg"
         },
         {
-          "id": "https://medium.com/p/1a1502753ab7",
-          "author": "Logan Teague",
-          "description": "What you need to know about the future of finance",
-          "link": "https://medium.com/coinmonks/the-revolution-of-decentralized-finance-defi-1a1502753ab7?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-23T13:06:07.000Z",
-          "wordCount": 3295,
-          "title": "The Revolution of Decentralized Finance (Defi)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*yYZITlQXudDCZLPw"
+          "id": "https://medium.com/p/70dd0337d8ba",
+          "author": "cryptopassionfruit",
+          "description": "Bitcoin: A Brief History",
+          "link": "https://medium.com/coinmonks/bitcoin-a-brief-history-70dd0337d8ba?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-23T13:26:01.000Z",
+          "wordCount": 2453,
+          "title": "Bitcoin: a brief history",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*A6npa9cV5Yk_MRdh"
         },
         {
-          "id": "https://medium.com/p/e10d58135181",
-          "author": "Everything Blockchain",
-          "description": "The lack of interoperability with ever-emerging platforms is diminishing the network effect that could exist between these platforms.",
-          "link": "https://medium.com/coinmonks/zklink-unifying-multi-chain-liquidity-e10d58135181?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-23T13:05:55.000Z",
-          "wordCount": 3696,
-          "title": "zkLink — Unifying Multi-chain liquidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*k-0WS8DgKq7EPe7WZA8JHA.png"
+          "id": "https://medium.com/p/f0df0308afbd",
+          "author": "Cathrine Williams",
+          "description": "A white-label Binance clone is a pre-built cryptocurrency exchange platform that allows entrepreneurs to launch their own exchange.",
+          "link": "https://medium.com/coinmonks/white-label-binance-clone-script-f0df0308afbd?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-23T13:25:55.000Z",
+          "wordCount": 2371,
+          "title": "Launching Your Own Cryptocurrency Exchange: White-Label Binance Clone",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/1d79773954fd",
-          "author": "Mike Coldman",
-          "description": "In this article, we will complete the trilogy by establishing a sort of Guide, the 10 rules to follow almost religiously to hold your boat…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-10-rules-that-will-make-you-a-cryptocurrency-expert-1d79773954fd?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-23T13:05:49.000Z",
-          "wordCount": 1014,
-          "title": "The 10 Rules That Will Make You a Cryptocurrency Expert!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*WnJzcSJ2ZLW81cCcvd2ypA.png"
+          "id": "https://medium.com/p/9b2422e40ce0",
+          "author": "JohnVictor",
+          "description": "If you’re an avid user of cryptocurrencies, then you probably know the importance of having a reliable decentralized wallet to store and…",
+          "link": "https://medium.com/coinmonks/metamask-clone-development-build-your-own-decentralized-crypto-wallet-9b2422e40ce0?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-23T13:25:49.000Z",
+          "wordCount": 7552,
+          "title": "Metamask Clone Development — Build Your Own Decentralized Crypto Wallet",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:626/1*wgJWUGZEUTHaRJ9h8fAlZw.png"
         },
         {
-          "id": "https://medium.com/p/e8569bb9a36e",
-          "author": "0xRebels",
-          "description": "Can Blockchain help prevent the spread of misinformation caused by the exponentially growing AI's ability to mimic the real world?",
-          "link": "https://medium.com/coinmonks/ai-vs-blockchain-solving-the-deep-fake-problem-using-blockchain-ipfs-and-nfts-e8569bb9a36e?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-23T13:05:39.000Z",
-          "wordCount": 3323,
-          "title": "AI vs. Blockchain — Solving the Deep Fake problem using blockchain, IPFS (and NFTs?)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WvDb9Tjxu05-QBWmKXLDFQ.jpeg"
+          "id": "https://medium.com/p/8500db3fe4c7",
+          "author": "1 Bitcoin",
+          "description": "Ordinals, Inscriptions and the DeFi/NFT Bitcoin Adventure.",
+          "link": "https://medium.com/coinmonks/nfts-on-bitcoin-are-a-thing-but-not-without-controversy-8500db3fe4c7?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-23T13:25:31.000Z",
+          "wordCount": 2165,
+          "title": "NFTs On Bitcoin Are Now A Thing But Not Without Controversy",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*A2CEAMourEqQJptR6TdmDQ.jpeg"
         },
         {
-          "id": "https://medium.com/p/929ceda5a823",
-          "author": "James",
-          "description": "Money is an essential component of our society, and it has been evolving over the years. From bartering to the use of physical cash and…",
-          "link": "https://medium.com/coinmonks/the-future-of-money-and-how-it-might-change-over-the-next-few-years-929ceda5a823?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-23T13:05:30.000Z",
-          "wordCount": 2095,
-          "title": "The future of money and how it might change over the next few years",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*AB7yJCmaxVzqe3-i_tfqGw@2x.jpeg"
+          "id": "https://medium.com/p/3f156d510050",
+          "author": "Adedeji Jedidiah Ogunsola",
+          "description": "Everything You Need to Know About NFTs and Taxes",
+          "link": "https://medium.com/coinmonks/understanding-the-tax-implications-of-nft-ownership-a-comprehensive-guide-3f156d510050?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-23T13:25:23.000Z",
+          "wordCount": 2382,
+          "title": "Understanding the Tax Implications of NFT Ownership: A Comprehensive Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*rL8RJISc4709QEii"
         },
         {
-          "id": "https://medium.com/p/9843be5fe3d3",
-          "author": "Crypto Beat",
-          "description": "The cryptocurrency industry has faced a number of challenges in recent years, with scandals and implosions eroding consumer trust.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/cryptocurrency-companies-seek-to-rebrand-9843be5fe3d3?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-23T12:54:19.000Z",
-          "wordCount": 1075,
-          "title": "Cryptocurrency Companies Seek to Rebrand",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*ullpkn_tgAtZQsln"
+          "id": "https://medium.com/p/d5bd085e8c6d",
+          "author": "Adedeji Jedidiah Ogunsola",
+          "description": "Learn the Key Factors to Identify Authentic NFTs and Avoid Scams in the Blockchain World",
+          "link": "https://medium.com/coinmonks/how-to-spot-a-fake-nft-the-ultimate-guide-to-protect-your-investment-d5bd085e8c6d?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-23T13:25:15.000Z",
+          "wordCount": 2285,
+          "title": "How to Spot a Fake NFT? The Ultimate Guide to Protect Your Investment",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1065/0*cxx_A16i-iAj6Md_"
         },
         {
-          "id": "https://medium.com/p/8aa6d65ef5ef",
-          "author": "Crypto Beat",
-          "description": "The SEC’s case against Ripple has significant implications for the cryptocurrency industry and the future of XRP.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/xrp-jumps-20-with-crypto-world-convinced-ripple-will-beat-sec-in-court-case-8aa6d65ef5ef?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-23T12:54:11.000Z",
-          "wordCount": 1082,
-          "title": "XRP jumps 20% with crypto world convinced Ripple will beat SEC in court case",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*mIoQMi9i56e2RJE-"
+          "id": "https://medium.com/p/10e37d15735d",
+          "author": "Adedeji Jedidiah Ogunsola",
+          "description": "Unlocking the Potential of Non-Fungible Tokens to Create Unique and Valuable Experiences for Fashion Consumers",
+          "link": "https://medium.com/coinmonks/unleashing-the-power-of-nfts-how-the-fashion-industry-is-revolutionizing-digital-ownership-10e37d15735d?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-23T13:25:07.000Z",
+          "wordCount": 2112,
+          "title": "Unleashing the Power of NFTs: How the Fashion Industry is Revolutionizing Digital Ownership",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*0O4PrmJkVqP_OsMW"
         }
       ]
     },
