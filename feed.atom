@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T11:10:32.135Z</id>
+    <id>urn:2023-03-24T12:22:40.178Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-24T11:10:32.135Z</updated>
+    <updated>2023-03-24T12:22:40.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Security Practices Part IV: Continuous monitoring]]></title>
+        <id>https://medium.com/p/85129c3ba9ef</id>
+        <link href="https://medium.com/coinmonks/solidity-security-practices-part-iv-continuous-monitoring-85129c3ba9ef?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-24T11:56:44.000Z</updated>
+        <summary type="html"><![CDATA[One of the most critical aspects of developing a smart contract is ensuring that it is secure and free from vulnerabilities. This is where…]]></summary>
+        <author>
+            <name>Kaan Kaçar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TMS Network (TMSN)]]></title>
+        <id>https://medium.com/p/d00a4e89a7e2</id>
+        <link href="https://medium.com/coinmonks/tms-network-tmsn-d00a4e89a7e2?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-24T11:56:35.000Z</updated>
+        <summary type="html"><![CDATA[How could Decentralized Exchange TMS Network’s (TMSN)’s Release Affect Cardano (ADA) and Fantom (FTM) Investors?]]></summary>
+        <author>
+            <name>Sundas Anwer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Breaking Resistance Levels and Predicting The Future | And More in This Week’s Crypto…]]></title>
+        <id>https://medium.com/p/e51ad4001513</id>
+        <link href="https://medium.com/coinmonks/bitcoin-breaking-resistance-levels-and-predicting-the-future-and-more-in-this-weeks-crypto-e51ad4001513?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-24T11:56:27.000Z</updated>
+        <summary type="html"><![CDATA[Get up to date on the latest analysis and trading tips with our Crypto update week 12]]></summary>
+        <author>
+            <name>Cryptohopper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Blockchain?]]></title>
+        <id>https://medium.com/p/be0cd045566d</id>
+        <link href="https://medium.com/coinmonks/what-is-blockchain-be0cd045566d?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-24T11:56:20.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology is a revolutionary digital ledger system that enables the creation of decentralized, secure &transparent digital n/w.]]></summary>
+        <author>
+            <name>Lindajohn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Become A Smart Contract Developer?]]></title>
+        <id>https://medium.com/p/6fcaca5d7f2d</id>
+        <link href="https://medium.com/coinmonks/how-to-become-a-smart-contract-developer-6fcaca5d7f2d?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-24T11:56:12.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will discuss what smart contracts are, the skills and steps required to become a smart contract developer.]]></summary>
+        <author>
+            <name>Olga Green</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Things To Know When Looking For Opportunities To Earn Money Online]]></title>
+        <id>https://medium.com/p/624ab04fd2e2</id>
+        <link href="https://medium.com/coinmonks/6-things-to-know-when-looking-for-opportunities-to-earn-money-online-624ab04fd2e2?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-24T11:56:05.000Z</updated>
+        <summary type="html"><![CDATA[With the great number of people browsing the web to search for products and services that could benefit them, more and more marketers and…]]></summary>
+        <author>
+            <name>Amit Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here comes Decipher EVM Puzzles game for all Smart Contract Devs]]></title>
+        <id>https://medium.com/p/2369d67eae29</id>
+        <link href="https://medium.com/coinmonks/here-comes-decipher-evm-puzzles-game-for-all-smart-contract-devs-2369d67eae29?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-24T11:55:58.000Z</updated>
+        <summary type="html"><![CDATA[A collection of EVM puzzles that helps you understand EVM opcodes effectively by simply solving puzzles.]]></summary>
+        <author>
+            <name>Zaryab Afser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Defi Swap Exchange Script — 2023]]></title>
+        <id>https://medium.com/p/20bffff18af3</id>
+        <link href="https://medium.com/coinmonks/defi-swap-exchange-script-20bffff18af3?source=rss----721b17443fd5---4"/>
+        <updated>2023-03-24T11:55:51.000Z</updated>
+        <summary type="html"><![CDATA[this blog will provide valuable insights into the future of DeFi swap exchanges.]]></summary>
+        <author>
+            <name>Cathrine Williams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Comprehensive Review of the Best Centralised Exchange Script in the Market]]></title>
         <id>https://medium.com/p/83ddc61f3303</id>
@@ -23,91 +103,6 @@
         <summary type="html"><![CDATA[One of the most important aspects of blogging is funneling traffic, and good traffic to your site because you can also have bad traffic…]]></summary>
         <author>
             <name>Amit Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Prediction: yPredict algo predicts bitcoin to touch $35k by July]]></title>
-        <id>https://medium.com/p/b702b638fd7c</id>
-        <link href="https://medium.com/coinmonks/crypto-prediction-ypredict-algo-predicts-bitcoin-to-touch-35k-by-july-b702b638fd7c?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-24T08:19:04.000Z</updated>
-        <summary type="html"><![CDATA[BTC is currently testing support around its 100-week moving average and is facing significant downward pressure, with technical indicators…]]></summary>
-        <author>
-            <name>36Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 NFT Coins To Explode Soon!]]></title>
-        <id>https://medium.com/p/ec429cf803a2</id>
-        <link href="https://medium.com/coinmonks/3-nft-coins-to-explode-soon-ec429cf803a2?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-24T08:17:25.000Z</updated>
-        <summary type="html"><![CDATA[I am cryptoinspector. My purpose is to make people rich and financially independent with the use internet and technology.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>cryptoinspector</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Centralised vs Decentralised Ledgers: Understanding the Key Differences]]></title>
-        <id>https://medium.com/p/f5527d87c330</id>
-        <link href="https://medium.com/coinmonks/centralised-vs-decentralised-ledgers-understanding-the-key-differences-f5527d87c330?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-24T08:17:18.000Z</updated>
-        <summary type="html"><![CDATA[Explore the differences between centralised and decentralised ledgers, their history, and risk profiles to make informed decisions.]]></summary>
-        <author>
-            <name>Oliver J. Freeman FRSA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRE8R DAO — My $CRE8R tokens are singing on Beethoven-X]]></title>
-        <id>https://medium.com/p/41445c4ee55e</id>
-        <link href="https://medium.com/coinmonks/cre8r-dao-my-cre8r-tokens-are-singing-on-beethoven-x-41445c4ee55e?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-24T08:17:14.000Z</updated>
-        <summary type="html"><![CDATA[I hate idle crypto and I will always be a strong advocate of passive income. This is why I keep my $CRE8R tokens staked on Beethoven X…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>PVMihalache</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Business Growth: Insights from Jerry Macnamara]]></title>
-        <id>https://medium.com/p/c5b83eb85050</id>
-        <link href="https://medium.com/coinmonks/mastering-business-growth-insights-from-jerry-macnamara-c5b83eb85050?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-24T08:17:04.000Z</updated>
-        <summary type="html"><![CDATA[Jerry Macnamara (Proven Chaos)
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Christopher H. Loo, MD-PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pioneering Progress: A Deep Dive into Mike Kaeding’s Quest to Reshape Real Estate]]></title>
-        <id>https://medium.com/p/d20c5d0c46f0</id>
-        <link href="https://medium.com/coinmonks/pioneering-progress-a-deep-dive-into-mike-kaedings-quest-to-reshape-real-estate-d20c5d0c46f0?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-24T08:16:57.000Z</updated>
-        <summary type="html"><![CDATA[Mike Kaeding (Norhart)
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Christopher H. Loo, MD-PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Going Green: How Small Businesses Can Take Action Against Climate Change and Become Carbon Neutral]]></title>
-        <id>https://medium.com/p/ed83a6e70e5f</id>
-        <link href="https://medium.com/coinmonks/going-green-how-small-businesses-can-take-action-against-climate-change-and-become-carbon-neutral-ed83a6e70e5f?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-24T08:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Mike Smith (Aclymate)
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Christopher H. Loo, MD-PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transparent Upgradable Smart Contracts: A Guide with Code Explanation]]></title>
-        <id>https://medium.com/p/465a486ca1df</id>
-        <link href="https://medium.com/coinmonks/transparent-upgradable-smart-contracts-a-guide-with-code-explanation-465a486ca1df?source=rss----721b17443fd5---4"/>
-        <updated>2023-03-24T08:16:44.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts have revolutionized the way transactions occur on a blockchain. They are self-executing contracts with the terms of the…]]></summary>
-        <author>
-            <name>Galien Dev</name>
         </author>
     </entry>
     <entry>
