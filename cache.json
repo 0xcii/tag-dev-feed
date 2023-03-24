@@ -11,7 +11,7 @@
           "description": "There are a few different ways you could use AI on the Bitcoin blockchain. One can use a machine learning…\nThe post AI on the Bitcoin blockchain with Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/ai-on-the-bitcoin-blockchain-with-python/",
           "publishedOn": "2023-03-04T10:26:38.000Z",
-          "wordCount": 4273,
+          "wordCount": 4282,
           "title": "AI on the Bitcoin blockchain with Python",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "In this article we will discuss Gnosis Safes with Python. Gnosis Safes is a powerful smart contract wallet on the…\nThe post Interact with Gnosis Safes with Python appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/interact-with-gnosis-safes-with-python/",
           "publishedOn": "2023-02-25T05:45:30.000Z",
-          "wordCount": 3698,
+          "wordCount": 3707,
           "title": "Interact with Gnosis Safes with Python",
           "imageUrl": null
         }
@@ -38,6 +38,26 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/95363d907a83",
+          "author": "SmartState.tech",
+          "description": "Security is one of the main (if not the main) things, which users seek, coming into blockchain, especially when assets and data are…",
+          "link": "https://coinsbench.com/how-to-secure-crypto-wallets-95363d907a83?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-24T15:07:59.000Z",
+          "wordCount": 3021,
+          "title": "How to secure crypto wallets?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*pWrL94O691oD7dI8F-JBsQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3c123d775dd5",
+          "author": "Darlington Gospel",
+          "description": "By using this technique, you can have a plentiful supply of ethers available for use in testing and development.",
+          "link": "https://coinsbench.com/how-to-load-unlimited-free-ethers-to-metamask-wallet-3c123d775dd5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-24T15:07:45.000Z",
+          "wordCount": 3570,
+          "title": "How to Load Unlimited Free Ethers to Metamask Wallet",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*DXOSRBoQGtiBJbAN.png"
+        },
         {
           "id": "https://medium.com/p/5f76c1a057cc",
           "author": "Shlok Kumar",
@@ -117,26 +137,6 @@
           "wordCount": 1947,
           "title": "Packed Encoding of ABI in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NPba7ZnS-Y360ULvk7lnpg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/33ee93511386",
-          "author": "Aitor Zaldua",
-          "description": "“The blockchain is inmutable. Until is not”. Old Klingon proverb.",
-          "link": "https://coinsbench.com/ethernaut-16-proxies-libraries-and-the-upgradeable-contracts-33ee93511386?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-22T12:03:16.000Z",
-          "wordCount": 2314,
-          "title": "Ethernaut 16: Proxies, libraries and the upgradeable contracts.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*afqFC2bYyzMkBXtM3n7ykQ.png"
-        },
-        {
-          "id": "https://medium.com/p/e24fe0a7c933",
-          "author": "Leo G.",
-          "description": "Are you ready to dive into the world of decentralized applications (DApps) and blockchain technology? In this tutorial, I’ll guide you…",
-          "link": "https://coinsbench.com/create-and-deploy-your-first-next-js-blockchain-dapp-with-solidity-in-minutes-e24fe0a7c933?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-22T12:03:15.000Z",
-          "wordCount": 2283,
-          "title": "Create and Deploy Your First Next.js Blockchain DApp with Solidity in Minutes!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:619/1*pfvcqfmcxnMQOAq8hinbWA.png"
         }
       ]
     },

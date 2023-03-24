@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T14:11:40.489Z</id>
+    <id>urn:2023-03-24T15:13:20.018Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-24T14:11:40.489Z</updated>
+    <updated>2023-03-24T15:13:20.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to secure crypto wallets?]]></title>
+        <id>https://medium.com/p/95363d907a83</id>
+        <link href="https://coinsbench.com/how-to-secure-crypto-wallets-95363d907a83?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-24T15:07:59.000Z</updated>
+        <summary type="html"><![CDATA[Security is one of the main (if not the main) things, which users seek, coming into blockchain, especially when assets and data are…]]></summary>
+        <author>
+            <name>SmartState.tech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Load Unlimited Free Ethers to Metamask Wallet]]></title>
+        <id>https://medium.com/p/3c123d775dd5</id>
+        <link href="https://coinsbench.com/how-to-load-unlimited-free-ethers-to-metamask-wallet-3c123d775dd5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-03-24T15:07:45.000Z</updated>
+        <summary type="html"><![CDATA[By using this technique, you can have a plentiful supply of ethers available for use in testing and development.]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Bitcoin bulls short run: What does it mean?]]></title>
         <id>https://medium.com/p/6aa2b81c0c9a</id>
@@ -185,26 +205,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[ABI.encodePacked compresses the contract data into a one-byte array thereby reducing its size]]></summary>
         <author>
             <name>Shlok Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethernaut 16: Proxies, libraries and the upgradeable contracts.]]></title>
-        <id>https://medium.com/p/33ee93511386</id>
-        <link href="https://coinsbench.com/ethernaut-16-proxies-libraries-and-the-upgradeable-contracts-33ee93511386?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-22T12:03:16.000Z</updated>
-        <summary type="html"><![CDATA[“The blockchain is inmutable. Until is not”. Old Klingon proverb.]]></summary>
-        <author>
-            <name>Aitor Zaldua</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create and Deploy Your First Next.js Blockchain DApp with Solidity in Minutes!]]></title>
-        <id>https://medium.com/p/e24fe0a7c933</id>
-        <link href="https://coinsbench.com/create-and-deploy-your-first-next-js-blockchain-dapp-with-solidity-in-minutes-e24fe0a7c933?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-22T12:03:15.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to dive into the world of decentralized applications (DApps) and blockchain technology? In this tutorial, I’ll guide you…]]></summary>
-        <author>
-            <name>Leo G.</name>
         </author>
     </entry>
     <entry>
