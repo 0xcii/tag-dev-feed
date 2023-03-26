@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-26T18:13:59.036Z</id>
+    <id>urn:2023-03-26T19:09:14.897Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-26T18:13:59.036Z</updated>
+    <updated>2023-03-26T19:09:14.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -433,30 +433,6 @@ Yaniv had a vision in 2017 when he co-founded The Graph to be an indexing servic
 When we consider the types of data currently on The Graph, we realize we are dealing with a relatively small dataset. The crypto world focuses on DeFi, NFTs, DAOs, and, more…]]></summary>
         <author>
             <name>Ahmed Abdelmalek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevNTell - Onchain SVG smart contracts]]></title>
-        <id>https://blog.developerdao.com/devntell-onchain-svg-smart-contracts</id>
-        <link href="https://blog.developerdao.com/devntell-onchain-svg-smart-contracts"/>
-        <updated>2023-02-25T06:52:28.000Z</updated>
-        <summary type="html"><![CDATA[In this week's episode of DevNTell, DAO member Nicholas gave us a demo of his smart contracts rendering live Juicebox treasury data to onchain SVG NFTs
-🌟 Developer Spotlight
-Nicholas is a Solidity developer focused on NFTs and DAOs. Nicholas is a full time contributor at JuiceboxDAO, where he works on governance operations, internal/external communication, and dev rel experiments with partners like Austin Griffith, Gabriel Haines, and Krause Haus.
-Nicholas is host of web3galaxybrain, a Twitter Spaces Podcast where Web3 builders meet every Friday at 5PM ET to talk about what they're building right now. He also co-hosts NFT Tokenomics Office Hours, a place to workshop NFT and DAO tokenomics on Twitter Spaces every Wednesday at 4:20PM EST
-Useful Resouces:
-Smart Contract: https://github.com/jbx-protocol/juice-token-resolver/tree/Migrating-from-old-repo
-SVG template repo: https://github.com/jbx-protocol/juice-svg-template
-More detailed SVG template: https://github.com/nnnnicholas/svg-template
-Juicebox docs: https://docs.juicebox.money/
-Nicholas' twitter: https://twitter.com/nnnnicholas
-🎥 Presentation
-
-
-
-https://www.youtube.com/watch?v=0mAyoA_KwUM]]></summary>
-        <author>
-            <name>Narbeh Shahnazarian</name>
         </author>
     </entry>
 </feed>
