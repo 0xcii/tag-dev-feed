@@ -29,6 +29,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/2e83c0ddffea",
+          "author": "Beach Crypto",
+          "description": "Dig into ERC721Consecutive and EIP-2309",
+          "link": "https://coinsbench.com/minting-large-batches-of-digital-collectables-when-you-deploy-a-solidity-nft-contract-with-2e83c0ddffea?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-27T14:33:05.000Z",
+          "wordCount": 1724,
+          "title": "Minting large batches of digital collectables when you deploy a Solidity NFT contract with…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*XSRVwTr2dyMx8NzRlg_-oA.png"
+        },
+        {
+          "id": "https://medium.com/p/5a02fa1d6d75",
+          "author": "Beach Crypto",
+          "description": "ERC-2309: ERC-721 Consecutive Transfer Extension",
+          "link": "https://coinsbench.com/mint-consecutive-nfts-on-contract-creation-using-erc-2309-5a02fa1d6d75?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-27T14:33:04.000Z",
+          "wordCount": 4240,
+          "title": "Mint Consecutive NFTs on contract creation using ERC-2309",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*b3wBxvGb79OwxY1uUO2m-Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/21a24b92c11",
+          "author": "Evangelos Pappas",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/building-a-decentralized-data-management-platform-dmp-for-interactive-ad-campaigns-21a24b92c11?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-27T14:33:04.000Z",
+          "wordCount": 6025,
+          "title": "Building a Decentralized Data Management Platform (DMP) for Interactive Ad Campaigns",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*KilQl_xvRHARNU_0"
+        },
+        {
+          "id": "https://medium.com/p/22516ea5d436",
+          "author": "Madhur Shrimal",
+          "description": "Are you trying to build and launch a decentralized application (DApp)? This guide will give you basic step-by-step instructions on how to…",
+          "link": "https://coinsbench.com/building-a-new-dapp-appreciation-portal-22516ea5d436?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-27T14:33:01.000Z",
+          "wordCount": 2943,
+          "title": "Building a new DApp: Appreciation portal",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/0*YBBlunDTahj1vqZp"
+        },
+        {
+          "id": "https://medium.com/p/9d1d0748f8f9",
+          "author": "Anas Ghareib",
+          "description": "First thing first, To integrate a smart contract into a React Native project, you will need to use the web3.js library.",
+          "link": "https://coinsbench.com/how-to-integrate-a-smart-contract-into-a-react-native-project-in-5-easy-steps-9d1d0748f8f9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-27T14:32:59.000Z",
+          "wordCount": 1423,
+          "title": "How to integrate a smart contract into a react-native project in 5 easy steps",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/95363d907a83",
           "author": "SmartState.tech",
           "description": "Security is one of the main (if not the main) things, which users seek, coming into blockchain, especially when assets and data are…",
@@ -77,56 +127,6 @@
           "wordCount": 2338,
           "title": "Master the Art of Ethereum Gas: Boost Your Blockchain Skills and Save Money on Transactions!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:636/1*3UHaqC2kQDUcqyEr3ghMbQ.png"
-        },
-        {
-          "id": "https://medium.com/p/b2ddac7dc0ad",
-          "author": "Madhur Shrimal",
-          "description": "Tired of verifying your email and other social media on every website and also share your personal details all the time? On-chain…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/on-chain-credentials-b2ddac7dc0ad?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-23T13:29:22.000Z",
-          "wordCount": 1672,
-          "title": "On-chain credentials",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/0*5NxMQBRzfBSNto_x"
-        },
-        {
-          "id": "https://medium.com/p/e32c77d9ed72",
-          "author": "Web3verse Academy",
-          "description": "This blog post is a lab manual for the Web3LabsForAll project. Web3LabsForAll is an open-source project to help new students or…",
-          "link": "https://coinsbench.com/lab-5-developing-react-webapp-for-interaction-with-smart-contract-using-ether-js-e32c77d9ed72?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-23T13:29:20.000Z",
-          "wordCount": 3821,
-          "title": "Lab 5: Developing React WebApp for Interaction with Smart Contract using ether.js",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*fqjdXi96rQrN8CjD"
-        },
-        {
-          "id": "https://medium.com/p/e39e3d69ccf8",
-          "author": "Madhur Shrimal",
-          "description": "What does SoulBound mean?",
-          "link": "https://coinsbench.com/tutorial-building-an-erc1155-souldbound-token-e39e3d69ccf8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-22T12:03:29.000Z",
-          "wordCount": 2044,
-          "title": "Tutorial: Building an ERC1155 SoulBound Token",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/0*2RNgTQ28iz0_K6cJ"
-        },
-        {
-          "id": "https://medium.com/p/40580fbceac8",
-          "author": "Leo G.",
-          "description": "A few weeks ago, I talked about the PoW algorithm and I ended my article by briefly describing the PoS. Today, I’d like to take a moment to…",
-          "link": "https://coinsbench.com/what-is-the-proof-of-stake-pos-40580fbceac8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-22T12:03:16.000Z",
-          "wordCount": 2946,
-          "title": "What is the Proof of Stake (PoS)?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:636/1*HhyYXR-B1poX8uvPETmzKw.png"
-        },
-        {
-          "id": "https://medium.com/p/db234d4b003c",
-          "author": "Shlok Kumar",
-          "description": "ABI.encodePacked compresses the contract data into a one-byte array thereby reducing its size",
-          "link": "https://coinsbench.com/packed-encoding-of-abi-in-solidity-db234d4b003c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-22T12:03:16.000Z",
-          "wordCount": 1947,
-          "title": "Packed Encoding of ABI in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NPba7ZnS-Y360ULvk7lnpg.jpeg"
         }
       ]
     },
@@ -135,6 +135,36 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/ec2cc1213f9e",
+          "author": "Vremaroiu Alin",
+          "description": "What is Ethereum (ETH)?\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/ethereum-eth-price-prediction-2023-2025-update-27th-of-march-ec2cc1213f9e?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-27T14:50:18.000Z",
+          "wordCount": 1052,
+          "title": "Ethereum (ETH) Price Prediction 2023–2025, update 27th of March",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*l56VdSlO1uF6nOpqa0yOpw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/15cb2f4a98dd",
+          "author": "Vremaroiu Alin",
+          "description": "What is Polkadot (DOT)?\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/polkadot-dot-price-prediction-2023-2025-update-27th-of-march-15cb2f4a98dd?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-27T14:50:12.000Z",
+          "wordCount": 1059,
+          "title": "Polkadot (DOT) Price Prediction 2023–2025, update 27th of March",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*5OGDGXrRcMAI9FoyxRlTdw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/1433e8e1bee7",
+          "author": "Linus Martel",
+          "description": "Let’s have a conversation about Bitcoin. It would be John Deaton. You all are familiar with John Deaton, right? I have a crush on John…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/bitcoin-will-50k-1433e8e1bee7?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-27T14:50:06.000Z",
+          "wordCount": 1104,
+          "title": "Bitcoin Will 50K!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*7ccUJTZ_dBvOKJEi"
+        },
         {
           "id": "https://medium.com/p/fda57b2031a",
           "author": "Thomsonrichard",
@@ -204,36 +234,6 @@
           "wordCount": 2221,
           "title": "Three ways digital innovation is already impacting rail travel",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*cHBCMnpcMoQCdyehhNCVTg.png"
-        },
-        {
-          "id": "https://medium.com/p/3c96150b27e1",
-          "author": "Sophia Grace",
-          "description": "Metaverse casino games are a blend of online casino games and virtual reality technology.",
-          "link": "https://medium.com/coinmonks/metaverse-casino-game-development-3c96150b27e1?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-27T13:18:10.000Z",
-          "wordCount": 2671,
-          "title": "Metaverse Casino Game Development: A New Frontier in Gaming",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6m_LWsJFtoidyUQNQXqkkQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ef1f2bc48e7a",
-          "author": "Graham Brooks",
-          "description": "The One Meme Coin to Rule Them All?\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/can-shibu-inu-reach-1-00-0-10-or-0-01-ef1f2bc48e7a?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-27T13:18:00.000Z",
-          "wordCount": 1040,
-          "title": "Can Shibu-Inu Reach $1.00, $0.10, or $0.01 ?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*N7gGsSCPhUsBhCSP.jpg"
-        },
-        {
-          "id": "https://medium.com/p/4f71442708d5",
-          "author": "Cathrine Williams",
-          "description": "In this blog, we will discuss everything you need to know about the Bitvavo Clone Script and how it can help you build a crypto exchange.",
-          "link": "https://medium.com/coinmonks/bitvavo-clone-script-4f71442708d5?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-27T13:17:55.000Z",
-          "wordCount": 2530,
-          "title": "Building a Crypto Exchange Platform with Bitvavo Clone Script: Everything You Need to Know",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*FmIZD7fsQwKH426y5mREZQ.jpeg"
         }
       ]
     },
