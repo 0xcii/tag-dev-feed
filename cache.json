@@ -29,6 +29,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e38dcaed7070",
+          "author": "Sofien Kaabar, CFA",
+          "description": "How to Code and Use the Premier Stochastic Oscillator\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/the-premier-stochastic-oscillator-e38dcaed7070?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-29T11:54:49.000Z",
+          "wordCount": 3343,
+          "title": "The Premier Stochastic Oscillator",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3hG0Eya-ESjgcyy_iAuoCw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/7c6d40e3f1af",
+          "author": "Srinivas Joshi",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/a-comprehensive-guide-to-the-create2-opcode-in-solidity-7c6d40e3f1af?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-29T11:54:48.000Z",
+          "wordCount": 2475,
+          "title": "A Comprehensive Guide to the CREATE2 Opcode in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*nmGsThc4PpIxmdzK"
+        },
+        {
+          "id": "https://medium.com/p/e1463725a300",
+          "author": "Farasat Ali",
+          "description": "Ethereum has been the leading smart contract platform for several years, but it has struggled with issues such as slow transaction…",
+          "link": "https://coinsbench.com/an-analytical-look-at-eip-1559-and-eip-3529-e1463725a300?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-29T11:54:46.000Z",
+          "wordCount": 1893,
+          "title": "An Analytical Look at EIP-1559 and EIP-3529",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*WESpfXxb0jEQ5SfAg05b4A.png"
+        },
+        {
+          "id": "https://medium.com/p/4bafcc6bf321",
+          "author": "Sheys",
+          "description": "Computational processes on the Ethereum blockchain are very expensive. The gas usage in executing a transaction depends on the complexity…",
+          "link": "https://coinsbench.com/maximizing-efficiency-how-gas-optimization-can-streamline-your-smart-contracts-4bafcc6bf321?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-03-29T11:54:44.000Z",
+          "wordCount": 6098,
+          "title": "Maximizing Efficiency: How Gas Optimization Can Streamline Your Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*2fN64MVTXV_u6MKk"
+        },
+        {
           "id": "https://medium.com/p/bd56f9840dca",
           "author": "AndromedaSwap",
           "description": "For some years now, the DeFi ecosystem has been posed with some challenges significantly encompassing security risks and skyrocketed…",
@@ -87,46 +127,6 @@
           "wordCount": 4240,
           "title": "Mint Consecutive NFTs on contract creation using ERC-2309",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*b3wBxvGb79OwxY1uUO2m-Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/21a24b92c11",
-          "author": "Evangelos Pappas",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/building-a-decentralized-data-management-platform-dmp-for-interactive-ad-campaigns-21a24b92c11?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-27T14:33:04.000Z",
-          "wordCount": 6025,
-          "title": "Building a Decentralized Data Management Platform (DMP) for Interactive Ad Campaigns",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*KilQl_xvRHARNU_0"
-        },
-        {
-          "id": "https://medium.com/p/9d1d0748f8f9",
-          "author": "Anas Ghareib",
-          "description": "First thing first, To integrate a smart contract into a React Native project, you will need to use the web3.js library.",
-          "link": "https://coinsbench.com/how-to-integrate-a-smart-contract-into-a-react-native-project-in-5-easy-steps-9d1d0748f8f9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-27T14:32:59.000Z",
-          "wordCount": 1423,
-          "title": "How to integrate a smart contract into a react-native project in 5 easy steps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/95363d907a83",
-          "author": "SmartState.tech",
-          "description": "Security is one of the main (if not the main) things, which users seek, coming into blockchain, especially when assets and data are…",
-          "link": "https://coinsbench.com/how-to-secure-crypto-wallets-95363d907a83?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-24T15:07:59.000Z",
-          "wordCount": 3021,
-          "title": "How to secure crypto wallets?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*pWrL94O691oD7dI8F-JBsQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3c123d775dd5",
-          "author": "Darlington Gospel",
-          "description": "By using this technique, you can have a plentiful supply of ethers available for use in testing and development.",
-          "link": "https://coinsbench.com/how-to-load-unlimited-free-ethers-to-metamask-wallet-3c123d775dd5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-24T15:07:45.000Z",
-          "wordCount": 3570,
-          "title": "How to Load Unlimited Free Ethers to Metamask Wallet",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*DXOSRBoQGtiBJbAN.png"
         }
       ]
     },
@@ -136,12 +136,32 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/87934d26f0e8",
+          "author": "Monroe Mayfield",
+          "description": "There’s a meeting being held this year in Kingston, Jamaica, from 21 March to 1 April about the prospects of deep-sea mining in the…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/a-meeting-in-kingston-to-be-held-about-deep-sea-mining-in-the-pacific-87934d26f0e8?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-29T11:34:11.000Z",
+          "wordCount": 1107,
+          "title": "A Meeting in Kingston To Be Held About Deep-Sea Mining in the Pacific",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*L6LhBPsvXScW-Fna"
+        },
+        {
+          "id": "https://medium.com/p/ff3d496966b8",
+          "author": "Ronwriter",
+          "description": "There is an Old Testament story in the Bible of an evil king who saw a hand appear out of thin air and write a warning on the wall. The…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/is-this-the-handwriting-on-the-wall-ff3d496966b8?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-03-29T11:34:05.000Z",
+          "wordCount": 1114,
+          "title": "Is this the handwriting on the wall?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:787/0*Y7c0ouFY0J5kp3q0"
+        },
+        {
           "id": "https://medium.com/p/cab6255736dc",
           "author": "StealthEX.io",
           "description": "Even though the crypto industry is full of fascinating startups as well as established projects, new promising cryptocurrencies keep…",
           "link": "https://medium.com/coinmonks/discover-promising-cryptocurrencies-top-projects-to-watch-cab6255736dc?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-29T10:48:08.000Z",
-          "wordCount": 5404,
+          "wordCount": 5105,
           "title": "Discover Promising Cryptocurrencies: Top Projects to Watch",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*d4zU0CMXsZB0lVlOz6ilaA.png"
         },
@@ -151,7 +171,7 @@
           "description": "Blockchain technology has revolutionized the way we look at financial transactions. It has made the financial system more transparent…",
           "link": "https://medium.com/coinmonks/exploring-the-future-of-blockchain-how-coinbases-base-network-is-paving-the-way-for-49662e85314c?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-29T10:48:00.000Z",
-          "wordCount": 3095,
+          "wordCount": 2870,
           "title": "Exploring the Future of Blockchain: How Coinbase’s ‘Base’ Network is Paving the Way for…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7VKvmeYaaevTdtCndXKdbg.png"
         },
@@ -161,7 +181,7 @@
           "description": "tl;dr",
           "link": "https://medium.com/coinmonks/curious-cryptos-commentary-27th-march-2023-operation-choke-point-2-0-4ab34f238335?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-29T09:27:49.000Z",
-          "wordCount": 2310,
+          "wordCount": 2643,
           "title": "Curious Cryptos’ Commentary 27th March 2023 — Operation Choke Point 2.0",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:799/1*ztAdOL73uFuzUcK93Es9Jw.png"
         },
@@ -171,7 +191,7 @@
           "description": "Imagine that I was given an elegant chocolate cake with milk droplets all over it and lovely sky-blue icing. I had to divide this cake in…",
           "link": "https://medium.com/coinmonks/what-is-bitcoin-halving-and-its-impact-in-the-blockchain-network-d5f283712447?source=rss----721b17443fd5---4",
           "publishedOn": "2023-03-29T09:25:58.000Z",
-          "wordCount": 2423,
+          "wordCount": 2757,
           "title": "What Is Bitcoin Halving And Its Impact In The Blockchain Network?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:989/1*y4cMVfUSfJi1BMY5dw9o9g.jpeg"
         },
@@ -214,26 +234,6 @@
           "wordCount": 2151,
           "title": "Blockchain FairyTales: The Magical Merkle Tree",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f2427f318a45",
-          "author": "Levente",
-          "description": "Exploring the Contributions of Nick Szabo to the World of Cryptocurrencies and the Mystery Surrounding the Identity of Satoshi Nakamoto\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/separating-fact-from-fiction-f2427f318a45?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-29T08:02:07.000Z",
-          "wordCount": 999,
-          "title": "Separating Fact from Fiction",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:626/0*j1C9SGXoDhtJxfI8"
-        },
-        {
-          "id": "https://medium.com/p/811efd5fd70c",
-          "author": "Levente",
-          "description": "Immutable and Polygon Collaborate to Solve Scalability Challenges\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/revolutionizing-web3-gaming-811efd5fd70c?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-03-29T08:01:56.000Z",
-          "wordCount": 1006,
-          "title": "Revolutionizing Web3 Gaming",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*0govgWFK1PWo2vVU"
         }
       ]
     },
