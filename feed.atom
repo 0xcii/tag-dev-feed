@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-29T01:08:55.350Z</id>
+    <id>urn:2023-03-29T02:39:42.048Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-29T01:08:55.350Z</updated>
+    <updated>2023-03-29T02:39:42.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -431,20 +431,6 @@ The post AI on the Bitcoin blockchain with Python appeared first on Crypto Marke
 Continue reading on Block Magnates »]]></summary>
         <author>
             <name>Kristaps Grinbergs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explorer  of GEO Genesis]]></title>
-        <id>https://blog.developerdao.com/explorer-of-geo-genesis</id>
-        <link href="https://blog.developerdao.com/explorer-of-geo-genesis"/>
-        <updated>2023-02-27T13:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Yaniv Tal, CEO of Edge & Node, announced and launched Geo at The Graph Day. Everyone can register at https://edgeandnode.com/geo/ to get on the waitlist for the beta, or go to https://www.geobrowser.io/.
-But first, lets learn about Geo and how it fits into The Graphs ecosystem and history.
-The Graph: Indexes for Querying Blockchain Networks and IPFS
-Yaniv had a vision in 2017 when he co-founded The Graph to be an indexing service for the blockchain and the worlds knowledge, which needs a complex set of infrastructures to index data in a decentralized way, with different roles such as indexers, delegators, and curators.
-When we consider the types of data currently on The Graph, we realize we are dealing with a relatively small dataset. The crypto world focuses on DeFi, NFTs, DAOs, and, more…]]></summary>
-        <author>
-            <name>Ahmed Abdelmalek</name>
         </author>
     </entry>
 </feed>
