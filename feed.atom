@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-30T05:12:03.279Z</id>
+    <id>urn:2023-03-30T06:16:11.468Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-30T05:12:03.279Z</updated>
+    <updated>2023-03-30T06:16:11.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -425,17 +425,6 @@ The post AI on the Bitcoin blockchain with Python appeared first on Crypto Marke
         <summary type="html"><![CDATA[Welcome back, today we’ll be going over level 13, Gatekeeper One. This level will test your knowledge in manipulating bytes and calculating…]]></summary>
         <author>
             <name>Zouvier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Signing Process of Solidity Transactions with Ethers.js]]></title>
-        <id>https://medium.com/p/cec0f9693cb4</id>
-        <link href="https://blog.blockmagnates.com/understanding-the-signing-process-of-solidity-transactions-with-ethers-js-cec0f9693cb4?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-02-28T17:52:21.000Z</updated>
-        <summary type="html"><![CDATA[In the previous post, we discussed meta transactions and the EIP-712 standard.
-Continue reading on Block Magnates »]]></summary>
-        <author>
-            <name>Kristaps Grinbergs</name>
         </author>
     </entry>
 </feed>
