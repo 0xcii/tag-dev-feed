@@ -1,111 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-03T09:12:59.510Z</id>
+    <id>urn:2023-04-03T10:13:05.256Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-03T09:12:59.511Z</updated>
+    <updated>2023-04-03T10:13:05.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Solidity Security Practices Part IX: Differential Fuzzing]]></title>
-        <id>https://medium.com/p/f4bea56eeb54</id>
-        <link href="https://medium.com/coinmonks/solidity-security-practices-part-ix-differential-fuzzing-f4bea56eeb54?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-03T09:06:53.000Z</updated>
-        <summary type="html"><![CDATA[Differential fuzzing is a testing technique that involves running multiple inputs through two different implementations of a program and…]]></summary>
+        <title type="html"><![CDATA[March Overview]]></title>
+        <id>https://medium.com/p/823236a74d9b</id>
+        <link href="https://medium.com/coinmonks/march-overview-823236a74d9b?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-03T09:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Your Monthly Brief into the World of Digital Assets]]></summary>
         <author>
-            <name>Kaan Kaçar</name>
+            <name>JKL Group</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unveiling the Future of Ethereum: Will it Break $10.000 Barrier by 2025?]]></title>
-        <id>https://medium.com/p/27be01e6ed3c</id>
-        <link href="https://medium.com/coinmonks/unveiling-the-future-of-ethereum-will-it-break-10-000-barrier-by-2025-27be01e6ed3c?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-03T09:06:46.000Z</updated>
-        <summary type="html"><![CDATA[ETH had to take a beating last year. At the turn of the year, the price was still above 3,800 USD and just 12 months later, ETH is at just…
+        <title type="html"><![CDATA[Decoding SafeMoon Protocol’s $8.9 million Exploit | QuillAudits]]></title>
+        <id>https://medium.com/p/a5b11417f0b9</id>
+        <link href="https://medium.com/coinmonks/decoding-safemoon-protocols-8-9-million-exploit-quillaudits-a5b11417f0b9?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-03T09:13:19.000Z</updated>
+        <summary type="html"><![CDATA[On March 28, 2023, a hacker used a Safemoon smart contract’s access control flaw to steal about $8.9 M of users’ funds.]]></summary>
+        <author>
+            <name>QuillAudits - Web3 Security ️</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Fear And Greed Index Today — April 03, 2023]]></title>
+        <id>https://medium.com/p/ada16da0832d</id>
+        <link href="https://medium.com/coinmonks/bitcoin-fear-and-greed-index-today-april-03-2023-ada16da0832d?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-03T09:13:06.000Z</updated>
+        <summary type="html"><![CDATA[The Fear and Greed Index is a tool that helps investors and traders understand the sentiment of the crypto market. Stay up to date.
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>TheLuWizz</name>
+            <name>Crypto Beat</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Week 8: Digital Identity Management]]></title>
-        <id>https://medium.com/p/7c90bff7ed0a</id>
-        <link href="https://medium.com/coinmonks/week-8-digital-identity-management-7c90bff7ed0a?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-03T09:06:38.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this week’s Web3 Weekly Challenge! In this week’s challenge, we will be exploring the exciting world of decentralized identity…]]></summary>
-        <author>
-            <name>Ibrahim Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ethereum Shanghai Upgrade: What It Is & What It Means For Ethereum]]></title>
-        <id>https://medium.com/p/e3527ea25ca0</id>
-        <link href="https://medium.com/coinmonks/the-ethereum-shanghai-upgrade-what-it-is-what-it-means-for-ethereum-e3527ea25ca0?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-03T09:06:32.000Z</updated>
-        <summary type="html"><![CDATA[It will be business as usual but a step in the right direction.
+        <title type="html"><![CDATA[Crypto News Today — April 03, 2023]]></title>
+        <id>https://medium.com/p/645e47175550</id>
+        <link href="https://medium.com/coinmonks/crypto-news-today-april-03-2023-645e47175550?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-03T09:13:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re interested in keeping upwith the crypto world, then you’ve come to the right place to receive crypto news.
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Langa Ntuli</name>
+            <name>Crypto Beat</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Does Luno Work in Cameroon?]]></title>
-        <id>https://medium.com/p/648e258e30ed</id>
-        <link href="https://medium.com/coinmonks/does-luno-work-in-cameroon-648e258e30ed?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-03T09:06:23.000Z</updated>
-        <summary type="html"><![CDATA[Luno is a popular cryptocurrency exchange that allows users to buy, sell, and store cryptocurrencies such as Bitcoin, Ethereum, and…]]></summary>
-        <author>
-            <name>Cryptozone Africa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The attempted assassination of crypto]]></title>
-        <id>https://medium.com/p/169a8dca72b</id>
-        <link href="https://medium.com/coinmonks/the-attempted-assassination-of-crypto-169a8dca72b?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-03T09:06:09.000Z</updated>
-        <summary type="html"><![CDATA[While the tech world’s attention was focused on the remarkable and surprisingly contentious goings-on in the world of AI, and while the…]]></summary>
-        <author>
-            <name>Steven Boykey Sidley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top IT Solutions Providers To Trust]]></title>
-        <id>https://medium.com/p/a69beaa94d3d</id>
-        <link href="https://medium.com/coinmonks/top-it-solutions-providers-to-trust-a69beaa94d3d?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-03T09:04:39.000Z</updated>
-        <summary type="html"><![CDATA[Discover the top IT solutions providers you can trust for all your business needs. Read our latest blog and choose the right partner.]]></summary>
-        <author>
-            <name>Clinton Flores</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT Tickets aren’t as complicated as you think…]]></title>
-        <id>https://medium.com/p/39b1ccfd1111</id>
-        <link href="https://medium.com/coinmonks/nft-tickets-arent-as-complicated-as-you-think-39b1ccfd1111?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-03T09:04:31.000Z</updated>
-        <summary type="html"><![CDATA[Do you want to avoid the same old paper tickets for your concerts? Do you want to give your fans something unique and exclusive? Look no…]]></summary>
-        <author>
-            <name>Jeffrey Boopathy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send Money Through a Bitcoin Machine: A Step-by-Step Guide]]></title>
-        <id>https://medium.com/p/28e005d10735</id>
-        <link href="https://medium.com/coinmonks/how-to-send-money-through-a-bitcoin-machine-a-step-by-step-guide-28e005d10735?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-03T09:04:09.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin machines, also known as Bitcoin ATMs or BTMs, have become increasingly popular in recent years as a convenient way to buy and sell…]]></summary>
-        <author>
-            <name>Cryptozone Africa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does Warren G & Nate Dogg’s Hip Hop Classic Have To Do With BHP’s Coal Mines?]]></title>
-        <id>https://medium.com/p/951c26bede02</id>
-        <link href="https://medium.com/coinmonks/what-does-warren-g-nate-doggs-hip-hop-classic-have-to-do-with-bhp-s-coal-mines-951c26bede02?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-03T09:00:21.000Z</updated>
-        <summary type="html"><![CDATA[The Weekend Brief (TWB) is inspired by Regulate, the classic ’90s rap song by Warren G & Nate Dogg. REGULATORS…Mount up…
+        <title type="html"><![CDATA[How Bitcoin Could Prevent Wars]]></title>
+        <id>https://medium.com/p/a2078d9ab8be</id>
+        <link href="https://medium.com/coinmonks/how-bitcoin-could-prevent-wars-a2078d9ab8be?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-03T09:12:50.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin has become a flashpoint in U.S. politics, and its impact on global politics and warfare is a topic of much debate and discussion.
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Monroe Mayfield</name>
+            <name>Crypto Beat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Winner And Looser Today — April 03, 2023]]></title>
+        <id>https://medium.com/p/1c331926a847</id>
+        <link href="https://medium.com/coinmonks/crypto-winner-and-looser-today-april-03-2023-1c331926a847?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-03T09:12:43.000Z</updated>
+        <summary type="html"><![CDATA[The following overview shows the top 5 winner and looser in the last 24 hours. Keep up to date.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Beat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Memes Today — April 03, 2023]]></title>
+        <id>https://medium.com/p/5b3c3149739f</id>
+        <link href="https://medium.com/coinmonks/crypto-memes-today-april-03-2023-5b3c3149739f?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-03T09:12:22.000Z</updated>
+        <summary type="html"><![CDATA[What are crypto memes? They are funny pictures or videos that feature characters. Here are the best crypto memes of the last 24 hours.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Beat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Current Crypto Prices — April 03, 2023]]></title>
+        <id>https://medium.com/p/bcfd95e1b871</id>
+        <link href="https://medium.com/coinmonks/current-crypto-prices-april-03-2023-bcfd95e1b871?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-03T09:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrencies are a volatile market, with prices rapidly changing. Here are the top 10 cryptocurrencies by market capitalization.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Beat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Successful NFT Marketplace with NiftyGateway Clone]]></title>
+        <id>https://medium.com/p/89080a652406</id>
+        <link href="https://medium.com/coinmonks/how-to-build-a-successful-nft-marketplace-with-niftygateway-clone-89080a652406?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-03T09:12:09.000Z</updated>
+        <summary type="html"><![CDATA[🔥Introduction to Niftgateway Clone]]></summary>
+        <author>
+            <name>Jennifer Kate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Active Cryptocurrency — April 03, 2023]]></title>
+        <id>https://medium.com/p/69c32d26c84f</id>
+        <link href="https://medium.com/coinmonks/most-active-cryptocurrency-april-03-2023-69c32d26c84f?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-03T09:11:41.000Z</updated>
+        <summary type="html"><![CDATA[The cryptocurrency markets are constantly in flux. Here is a list of the top 10 most active cryptocurrencies, based on 24-hour volume.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Beat</name>
         </author>
     </entry>
     <entry>
