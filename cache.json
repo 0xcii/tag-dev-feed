@@ -18,6 +18,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/f3fc01530276",
+          "author": "Srinivas Joshi",
+          "description": "In this blog post, I’ll be sharing my tips on how to ace your Solidity interviews. When I myself searched for “Solidity interview…",
+          "link": "https://coinsbench.com/solidity-smackdown-can-you-answer-these-7-tricky-interview-questions-f3fc01530276?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-03T16:33:36.000Z",
+          "wordCount": 4743,
+          "title": "Solidity Smackdown: Can You Answer These 7 Tricky Interview Questions?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*vuMqroBQiDp-Z7mG"
+        },
+        {
+          "id": "https://medium.com/p/338730519213",
+          "author": "Joel Machado",
+          "description": "Smart contracts often handle sensitive data and transactions, which require high level of security and privacy. Cryptography is a critical…",
+          "link": "https://coinsbench.com/soidity-cryptographic-functions-338730519213?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-03T16:33:21.000Z",
+          "wordCount": 2633,
+          "title": "Soidity cryptographic functions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9093f447b295",
+          "author": "Joel Machado",
+          "description": "In 2017 a WHO report was published claiming 10.5 percent of medicines sold in developing countries including India are fake. In 2020 counterfeit medications were the seventh most commonly seized…",
+          "link": "https://coinsbench.com/blockchain-and-counterfeit-drugs-9093f447b295?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-03T16:33:20.000Z",
+          "wordCount": 1338,
+          "title": "Blockchain and counterfeit drugs .",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*x4dN0VxKoctac9U1eidy4w.png"
+        },
+        {
+          "id": "https://medium.com/p/c054dbc65018",
+          "author": "Brian",
+          "description": "My objective is to create a smart contract that represents a piece of land, containing the owner’s address, location, cost, land ID, and a…",
+          "link": "https://coinsbench.com/integrating-ethereum-smart-contracts-with-react-applications-a-tutorial-on-building-and-deploying-c054dbc65018?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-03T16:33:19.000Z",
+          "wordCount": 4142,
+          "title": "Integrating Ethereum Smart Contracts with React Applications: A Tutorial on Building and Deploying…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f0eb1d9915c7",
+          "author": "Rajan Gupta",
+          "description": "Cloud and blockchain will be combined for Web3 via Cudos’ Blockchain Compute. Cudos lays the groundwork for its mission to give everyone…",
+          "link": "https://coinsbench.com/uniting-cloud-computing-blockchain-f0eb1d9915c7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-03T16:33:17.000Z",
+          "wordCount": 2138,
+          "title": "Uniting Cloud Computing & Blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:673/1*-z4mDJyL8cSFGjD6qM2hzQ.png"
+        },
+        {
+          "id": "https://medium.com/p/3ae7c9654c34",
+          "author": "Aitor Zaldua",
+          "description": "In 1979 Douglas Adams published The Hitchhiker’s Guide to the Galaxy and suddenly everything made sense. We no longer had to answer where…",
+          "link": "https://coinsbench.com/ethernaut-18-the-meaning-of-life-3ae7c9654c34?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-03T16:33:16.000Z",
+          "wordCount": 2449,
+          "title": "Ethernaut 18: The meaning of life",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*nphYdY9SNtIrsq50DJ-hag.png"
+        },
+        {
           "id": "https://medium.com/p/f3991048b46f",
           "author": "AdefeyiTimi Adeyeloja",
           "description": "Exploring the Real-World Use Cases of Web3: Why it’s Not Just Another Tech Bubble",
@@ -56,66 +116,6 @@
           "wordCount": 4458,
           "title": "Distributed Denial-of-Service (DDoS) attacks on blockchain networks and how to defend against them",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*x4QAQnwJw948Cjs1Tud3FA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/2663d5f37285",
-          "author": "Brian",
-          "description": "I would like to demonstrate a simple betting smart contract for educational purposes.",
-          "link": "https://coinsbench.com/decentralized-betting-smart-contract-using-solidity-2663d5f37285?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-31T12:16:25.000Z",
-          "wordCount": 3622,
-          "title": "Decentralized Betting Smart Contract Using Solidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e38dcaed7070",
-          "author": "Sofien Kaabar, CFA",
-          "description": "How to Code and Use the Premier Stochastic Oscillator\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/the-premier-stochastic-oscillator-e38dcaed7070?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-29T11:54:49.000Z",
-          "wordCount": 3347,
-          "title": "The Premier Stochastic Oscillator",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3hG0Eya-ESjgcyy_iAuoCw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/7c6d40e3f1af",
-          "author": "Srinivas Joshi",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/a-comprehensive-guide-to-the-create2-opcode-in-solidity-7c6d40e3f1af?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-29T11:54:48.000Z",
-          "wordCount": 2479,
-          "title": "A Comprehensive Guide to the CREATE2 Opcode in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*nmGsThc4PpIxmdzK"
-        },
-        {
-          "id": "https://medium.com/p/e1463725a300",
-          "author": "Farasat Ali",
-          "description": "Ethereum has been the leading smart contract platform for several years, but it has struggled with issues such as slow transaction…",
-          "link": "https://coinsbench.com/an-analytical-look-at-eip-1559-and-eip-3529-e1463725a300?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-29T11:54:46.000Z",
-          "wordCount": 1962,
-          "title": "An Analytical Look at EIP-1559 and EIP-3529",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*WESpfXxb0jEQ5SfAg05b4A.png"
-        },
-        {
-          "id": "https://medium.com/p/4bafcc6bf321",
-          "author": "Sheys",
-          "description": "Computational processes on the Ethereum blockchain are very expensive. The gas usage in executing a transaction depends on the complexity…",
-          "link": "https://coinsbench.com/maximizing-efficiency-how-gas-optimization-can-streamline-your-smart-contracts-4bafcc6bf321?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-29T11:54:44.000Z",
-          "wordCount": 6102,
-          "title": "Maximizing Efficiency: How Gas Optimization Can Streamline Your Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*2fN64MVTXV_u6MKk"
-        },
-        {
-          "id": "https://medium.com/p/bd56f9840dca",
-          "author": "AndromedaSwap",
-          "description": "For some years now, the DeFi ecosystem has been posed with some challenges significantly encompassing security risks and skyrocketed…",
-          "link": "https://coinsbench.com/low-cost-trading-secure-defi-on-aleph-zero-heres-why-you-need-andromedaswap-bd56f9840dca?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-28T13:49:55.000Z",
-          "wordCount": 2668,
-          "title": "Low-cost trading + Secure DeFi on Aleph Zero? Here’s why you need AndromedaSwap",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*sNIHsvNzC5l0rwgY61H6Kw.png"
         }
       ]
     },

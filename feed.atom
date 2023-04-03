@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-03T16:15:58.168Z</id>
+    <id>urn:2023-04-03T17:10:46.855Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-03T16:15:58.168Z</updated>
+    <updated>2023-04-03T17:10:46.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Smackdown: Can You Answer These 7 Tricky Interview Questions?]]></title>
+        <id>https://medium.com/p/f3fc01530276</id>
+        <link href="https://coinsbench.com/solidity-smackdown-can-you-answer-these-7-tricky-interview-questions-f3fc01530276?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-03T16:33:36.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, I’ll be sharing my tips on how to ace your Solidity interviews. When I myself searched for “Solidity interview…]]></summary>
+        <author>
+            <name>Srinivas Joshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soidity cryptographic functions]]></title>
+        <id>https://medium.com/p/338730519213</id>
+        <link href="https://coinsbench.com/soidity-cryptographic-functions-338730519213?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-03T16:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts often handle sensitive data and transactions, which require high level of security and privacy. Cryptography is a critical…]]></summary>
+        <author>
+            <name>Joel Machado</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain and counterfeit drugs .]]></title>
+        <id>https://medium.com/p/9093f447b295</id>
+        <link href="https://coinsbench.com/blockchain-and-counterfeit-drugs-9093f447b295?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-03T16:33:20.000Z</updated>
+        <summary type="html"><![CDATA[In 2017 a WHO report was published claiming 10.5 percent of medicines sold in developing countries including India are fake. In 2020 counterfeit medications were the seventh most commonly seized…]]></summary>
+        <author>
+            <name>Joel Machado</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Ethereum Smart Contracts with React Applications: A Tutorial on Building and Deploying…]]></title>
+        <id>https://medium.com/p/c054dbc65018</id>
+        <link href="https://coinsbench.com/integrating-ethereum-smart-contracts-with-react-applications-a-tutorial-on-building-and-deploying-c054dbc65018?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-03T16:33:19.000Z</updated>
+        <summary type="html"><![CDATA[My objective is to create a smart contract that represents a piece of land, containing the owner’s address, location, cost, land ID, and a…]]></summary>
+        <author>
+            <name>Brian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniting Cloud Computing & Blockchain]]></title>
+        <id>https://medium.com/p/f0eb1d9915c7</id>
+        <link href="https://coinsbench.com/uniting-cloud-computing-blockchain-f0eb1d9915c7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-03T16:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Cloud and blockchain will be combined for Web3 via Cudos’ Blockchain Compute. Cudos lays the groundwork for its mission to give everyone…]]></summary>
+        <author>
+            <name>Rajan Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethernaut 18: The meaning of life]]></title>
+        <id>https://medium.com/p/3ae7c9654c34</id>
+        <link href="https://coinsbench.com/ethernaut-18-the-meaning-of-life-3ae7c9654c34?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-03T16:33:16.000Z</updated>
+        <summary type="html"><![CDATA[In 1979 Douglas Adams published The Hitchhiker’s Guide to the Galaxy and suddenly everything made sense. We no longer had to answer where…]]></summary>
+        <author>
+            <name>Aitor Zaldua</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cryptocurrency: Making a Fortune or Losing Your Shirt?]]></title>
         <id>https://medium.com/p/297f075fb094</id>
@@ -173,67 +233,6 @@ https://www.youtube.com/watch?v=Dg3yKC4L0zo]]></summary>
         <summary type="html"><![CDATA[DDoS (Distributed Denial of Service) attacks are very common and can happen anywhere. They aim at making various network parts to stop…]]></summary>
         <author>
             <name>SmartState.tech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decentralized Betting Smart Contract Using Solidity]]></title>
-        <id>https://medium.com/p/2663d5f37285</id>
-        <link href="https://coinsbench.com/decentralized-betting-smart-contract-using-solidity-2663d5f37285?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-31T12:16:25.000Z</updated>
-        <summary type="html"><![CDATA[I would like to demonstrate a simple betting smart contract for educational purposes.]]></summary>
-        <author>
-            <name>Brian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Premier Stochastic Oscillator]]></title>
-        <id>https://medium.com/p/e38dcaed7070</id>
-        <link href="https://coinsbench.com/the-premier-stochastic-oscillator-e38dcaed7070?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-29T11:54:49.000Z</updated>
-        <summary type="html"><![CDATA[How to Code and Use the Premier Stochastic Oscillator
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Sofien Kaabar, CFA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Comprehensive Guide to the CREATE2 Opcode in Solidity]]></title>
-        <id>https://medium.com/p/7c6d40e3f1af</id>
-        <link href="https://coinsbench.com/a-comprehensive-guide-to-the-create2-opcode-in-solidity-7c6d40e3f1af?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-29T11:54:48.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Srinivas Joshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Analytical Look at EIP-1559 and EIP-3529]]></title>
-        <id>https://medium.com/p/e1463725a300</id>
-        <link href="https://coinsbench.com/an-analytical-look-at-eip-1559-and-eip-3529-e1463725a300?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-29T11:54:46.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum has been the leading smart contract platform for several years, but it has struggled with issues such as slow transaction…]]></summary>
-        <author>
-            <name>Farasat Ali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maximizing Efficiency: How Gas Optimization Can Streamline Your Smart Contracts]]></title>
-        <id>https://medium.com/p/4bafcc6bf321</id>
-        <link href="https://coinsbench.com/maximizing-efficiency-how-gas-optimization-can-streamline-your-smart-contracts-4bafcc6bf321?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-29T11:54:44.000Z</updated>
-        <summary type="html"><![CDATA[Computational processes on the Ethereum blockchain are very expensive. The gas usage in executing a transaction depends on the complexity…]]></summary>
-        <author>
-            <name>Sheys</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low-cost trading + Secure DeFi on Aleph Zero? Here’s why you need AndromedaSwap]]></title>
-        <id>https://medium.com/p/bd56f9840dca</id>
-        <link href="https://coinsbench.com/low-cost-trading-secure-defi-on-aleph-zero-heres-why-you-need-andromedaswap-bd56f9840dca?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-28T13:49:55.000Z</updated>
-        <summary type="html"><![CDATA[For some years now, the DeFi ecosystem has been posed with some challenges significantly encompassing security risks and skyrocketed…]]></summary>
-        <author>
-            <name>AndromedaSwap</name>
         </author>
     </entry>
     <entry>
