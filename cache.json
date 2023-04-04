@@ -18,6 +18,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/242577cf5b11",
+          "author": "Jae Lee",
+          "description": "Ethereum is planned to go through a major upgrade on April 12th, 2003. This upgrade dubbed “Shapella” comes with many changes but the most…",
+          "link": "https://coinsbench.com/ethereums-shapella-upgrade-and-why-its-matters-to-you-242577cf5b11?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-04T11:56:55.000Z",
+          "wordCount": 2638,
+          "title": "Ethereum’s “Shapella” upgrade and why it matters to you",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*EU2zEKPNsqoHP6d246TA5g.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/5438006e90a0",
+          "author": "Bashorun Dolapo",
+          "description": "I was reading up on a few interesting topics the other day, and I found something that fascinated me: Reentrancy Attacks.",
+          "link": "https://coinsbench.com/the-correct-way-to-write-tests-for-your-smart-contracts-using-hardhat-and-ethers-js-reentrancy-5438006e90a0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-04T11:56:54.000Z",
+          "wordCount": 5062,
+          "title": "The Correct Way To Write Tests For Your Smart Contracts, Using HardHat And Ethers-JS: Reentrancy…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tHQE_aYARgrbTYNEFE5etQ.png"
+        },
+        {
+          "id": "https://medium.com/p/ccbef85f4063",
+          "author": "Etimfon Ikpong",
+          "description": "As a layer-1 offering solution blockchain, Etheruem set in for the development of problem solving in order to help complete transactions…",
+          "link": "https://coinsbench.com/token-standard-erc-20-vs-erc-721-vs-erc-1155-ccbef85f4063?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-04T11:56:52.000Z",
+          "wordCount": 2240,
+          "title": "Token Standard: ERC-20 vs ERC-721 vs ERC-1155",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:717/1*UHuD-6PHc0OxreYN--fZEg.png"
+        },
+        {
+          "id": "https://medium.com/p/69aabb4622ca",
+          "author": "Bloqarl",
+          "description": "I gathered some useful information about how to best write your Gas Optimization report on your Auditing contests.",
+          "link": "https://coinsbench.com/not-all-gas-optimization-audit-reports-get-accepted-in-code4rena-follow-this-tips-to-make-sure-69aabb4622ca?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-04T11:56:50.000Z",
+          "wordCount": 1818,
+          "title": "Not all Gas Optimization audit reports get accepted in Code4rena. Follow these tips to make sure.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*2MQ1bo0OC9sRLcObCfSt_g.jpeg"
+        },
+        {
           "id": "https://medium.com/p/f3fc01530276",
           "author": "Srinivas Joshi",
           "description": "In this blog post, I’ll be sharing my tips on how to ace your Solidity interviews. When I myself searched for “Solidity interview…",
@@ -76,46 +116,6 @@
           "wordCount": 2449,
           "title": "Ethernaut 18: The meaning of life",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*nphYdY9SNtIrsq50DJ-hag.png"
-        },
-        {
-          "id": "https://medium.com/p/f3991048b46f",
-          "author": "AdefeyiTimi Adeyeloja",
-          "description": "Exploring the Real-World Use Cases of Web3: Why it’s Not Just Another Tech Bubble",
-          "link": "https://coinsbench.com/the-web3-bubble-f3991048b46f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-31T12:16:39.000Z",
-          "wordCount": 2841,
-          "title": "The Web3 Bubble",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QxhlVwTgmpLTWKaVONjn2w.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/96a9bc6127ec",
-          "author": "Farasat Ali",
-          "description": "Gas is the fee required to successfully conduct a transaction or execute a contract on the Ethereum blockchain platform. This fee is to…",
-          "link": "https://coinsbench.com/exploring-ethereum-transaction-fees-an-in-depth-analysis-of-eip-1559-and-costing-96a9bc6127ec?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-31T12:16:33.000Z",
-          "wordCount": 3966,
-          "title": "Exploring Ethereum Transaction Fees: An In-Depth Analysis of EIP-1559 and Costing",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*CjJXCly6dzW2rlFSWRQIzg.png"
-        },
-        {
-          "id": "https://medium.com/p/8a0dfa71ce35",
-          "author": "SmartState.tech",
-          "description": "Tokenomics is the interdisciplinary study of the design, distribution and economic principles behind the creation and use of tokens in a…",
-          "link": "https://coinsbench.com/speaking-of-tokenomics-8a0dfa71ce35?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-31T12:16:30.000Z",
-          "wordCount": 4512,
-          "title": "Speaking of tokenomics",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*YghndZxQm2cAWZEaQUcX8Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/5cf7d8292576",
-          "author": "SmartState.tech",
-          "description": "DDoS (Distributed Denial of Service) attacks are very common and can happen anywhere. They aim at making various network parts to stop…",
-          "link": "https://coinsbench.com/distributed-denial-of-service-ddos-attacks-on-blockchain-networks-and-how-to-defend-against-them-5cf7d8292576?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-03-31T12:16:27.000Z",
-          "wordCount": 4458,
-          "title": "Distributed Denial-of-Service (DDoS) attacks on blockchain networks and how to defend against them",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*x4QAQnwJw948Cjs1Tud3FA.jpeg"
         }
       ]
     },
@@ -268,6 +268,16 @@
       "feedUrl": "https://blog.developerdao.com/rss.xml",
       "siteUrl": "https://blog.developerdao.com",
       "articles": [
+        {
+          "id": "https://blog.developerdao.com/scaling-your-dapp-with-quicknode-tips-and-strategies-for-high-performance-applications",
+          "author": "Osikhena Oshomah",
+          "description": "Achieving scalability for your DApp involves a delicate balance between security, decentralization, and performance, which requires careful trade-offs. To begin the process, you must decide which blockchain to build on and how to connect your smart contract to the frontend application. QuickNode provides support for various chains and offers a rapid connection between your DApp and the blockchain.\nThis blog post explores ways to enhance your DApps using QuickNode services. We'll demonstrate how to create a straightforward ERC20 token information tracker that displays essential token details. Then, we'll utilize QuickNode services to scale up the tracker for maximum efficiency.\nRegister for a free account if you haven't already on QuickNode.\nFunctionalities\nIn this post, we'll develop small…",
+          "link": "https://blog.developerdao.com/scaling-your-dapp-with-quicknode-tips-and-strategies-for-high-performance-applications",
+          "publishedOn": "2023-04-04T11:22:42.000Z",
+          "wordCount": 17767,
+          "title": "Scaling Your DApp with QuickNode: Tips and Strategies for High-Performance Applications",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1678193821871%2F0655d775-b28f-4841-87df-fc6b21f9c551.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
         {
           "id": "https://blog.developerdao.com/devntell-sepanaio",
           "author": "Narbeh Shahnazarian",

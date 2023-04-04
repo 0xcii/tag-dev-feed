@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T11:09:48.547Z</id>
+    <id>urn:2023-04-04T12:22:57.507Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-04T11:09:48.547Z</updated>
+    <updated>2023-04-04T12:22:57.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum’s “Shapella” upgrade and why it matters to you]]></title>
+        <id>https://medium.com/p/242577cf5b11</id>
+        <link href="https://coinsbench.com/ethereums-shapella-upgrade-and-why-its-matters-to-you-242577cf5b11?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-04T11:56:55.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum is planned to go through a major upgrade on April 12th, 2003. This upgrade dubbed “Shapella” comes with many changes but the most…]]></summary>
+        <author>
+            <name>Jae Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Correct Way To Write Tests For Your Smart Contracts, Using HardHat And Ethers-JS: Reentrancy…]]></title>
+        <id>https://medium.com/p/5438006e90a0</id>
+        <link href="https://coinsbench.com/the-correct-way-to-write-tests-for-your-smart-contracts-using-hardhat-and-ethers-js-reentrancy-5438006e90a0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-04T11:56:54.000Z</updated>
+        <summary type="html"><![CDATA[I was reading up on a few interesting topics the other day, and I found something that fascinated me: Reentrancy Attacks.]]></summary>
+        <author>
+            <name>Bashorun Dolapo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Token Standard: ERC-20 vs ERC-721 vs ERC-1155]]></title>
+        <id>https://medium.com/p/ccbef85f4063</id>
+        <link href="https://coinsbench.com/token-standard-erc-20-vs-erc-721-vs-erc-1155-ccbef85f4063?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-04T11:56:52.000Z</updated>
+        <summary type="html"><![CDATA[As a layer-1 offering solution blockchain, Etheruem set in for the development of problem solving in order to help complete transactions…]]></summary>
+        <author>
+            <name>Etimfon Ikpong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not all Gas Optimization audit reports get accepted in Code4rena. Follow these tips to make sure.]]></title>
+        <id>https://medium.com/p/69aabb4622ca</id>
+        <link href="https://coinsbench.com/not-all-gas-optimization-audit-reports-get-accepted-in-code4rena-follow-this-tips-to-make-sure-69aabb4622ca?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-04T11:56:50.000Z</updated>
+        <summary type="html"><![CDATA[I gathered some useful information about how to best write your Gas Optimization report on your Auditing contests.]]></summary>
+        <author>
+            <name>Bloqarl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Your DApp with QuickNode: Tips and Strategies for High-Performance Applications]]></title>
+        <id>https://blog.developerdao.com/scaling-your-dapp-with-quicknode-tips-and-strategies-for-high-performance-applications</id>
+        <link href="https://blog.developerdao.com/scaling-your-dapp-with-quicknode-tips-and-strategies-for-high-performance-applications"/>
+        <updated>2023-04-04T11:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Achieving scalability for your DApp involves a delicate balance between security, decentralization, and performance, which requires careful trade-offs. To begin the process, you must decide which blockchain to build on and how to connect your smart contract to the frontend application. QuickNode provides support for various chains and offers a rapid connection between your DApp and the blockchain.
+This blog post explores ways to enhance your DApps using QuickNode services. We'll demonstrate how to create a straightforward ERC20 token information tracker that displays essential token details. Then, we'll utilize QuickNode services to scale up the tracker for maximum efficiency.
+Register for a free account if you haven't already on QuickNode.
+Functionalities
+In this post, we'll develop small…]]></summary>
+        <author>
+            <name>Osikhena Oshomah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond Collectibles: NFTs Real-World Use Cases You Shouldn’t Ignore]]></title>
         <id>https://medium.com/p/75ce775d4968</id>
@@ -198,46 +252,6 @@ Hector's Twitter: https://twitter.com/byhectord
 https://www.youtube.com/watch?v=Dg3yKC4L0zo]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Web3 Bubble]]></title>
-        <id>https://medium.com/p/f3991048b46f</id>
-        <link href="https://coinsbench.com/the-web3-bubble-f3991048b46f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-31T12:16:39.000Z</updated>
-        <summary type="html"><![CDATA[Exploring the Real-World Use Cases of Web3: Why it’s Not Just Another Tech Bubble]]></summary>
-        <author>
-            <name>AdefeyiTimi Adeyeloja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Ethereum Transaction Fees: An In-Depth Analysis of EIP-1559 and Costing]]></title>
-        <id>https://medium.com/p/96a9bc6127ec</id>
-        <link href="https://coinsbench.com/exploring-ethereum-transaction-fees-an-in-depth-analysis-of-eip-1559-and-costing-96a9bc6127ec?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-31T12:16:33.000Z</updated>
-        <summary type="html"><![CDATA[Gas is the fee required to successfully conduct a transaction or execute a contract on the Ethereum blockchain platform. This fee is to…]]></summary>
-        <author>
-            <name>Farasat Ali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speaking of tokenomics]]></title>
-        <id>https://medium.com/p/8a0dfa71ce35</id>
-        <link href="https://coinsbench.com/speaking-of-tokenomics-8a0dfa71ce35?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-31T12:16:30.000Z</updated>
-        <summary type="html"><![CDATA[Tokenomics is the interdisciplinary study of the design, distribution and economic principles behind the creation and use of tokens in a…]]></summary>
-        <author>
-            <name>SmartState.tech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distributed Denial-of-Service (DDoS) attacks on blockchain networks and how to defend against them]]></title>
-        <id>https://medium.com/p/5cf7d8292576</id>
-        <link href="https://coinsbench.com/distributed-denial-of-service-ddos-attacks-on-blockchain-networks-and-how-to-defend-against-them-5cf7d8292576?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-03-31T12:16:27.000Z</updated>
-        <summary type="html"><![CDATA[DDoS (Distributed Denial of Service) attacks are very common and can happen anywhere. They aim at making various network parts to stop…]]></summary>
-        <author>
-            <name>SmartState.tech</name>
         </author>
     </entry>
     <entry>
