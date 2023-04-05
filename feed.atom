@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T09:13:24.741Z</id>
+    <id>urn:2023-04-05T10:14:35.887Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-05T09:13:24.741Z</updated>
+    <updated>2023-04-05T10:14:35.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NFT Wallet Development — Developing Your Own NFT Wallet]]></title>
+        <id>https://medium.com/p/982e5d78c742</id>
+        <link href="https://medium.com/coinmonks/nft-wallet-development-developing-your-own-nft-wallet-982e5d78c742?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-05T09:56:26.000Z</updated>
+        <summary type="html"><![CDATA[NFTs have taken the world by storm, revolutionizing the way we own and trade digital assets. From art and music to virtual real estate and…]]></summary>
+        <author>
+            <name>William Hill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mystery of Twitter’s Dogecoin Logo: Elon Musk’s Takeover?]]></title>
+        <id>https://medium.com/p/6b2a4b849afe</id>
+        <link href="https://medium.com/coinmonks/the-mystery-of-twitters-dogecoin-logo-elon-musk-s-takeover-6b2a4b849afe?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-05T09:55:29.000Z</updated>
+        <summary type="html"><![CDATA[🐕🐦🚀🤔🤯
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Alin Stan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Conversions]]></title>
+        <id>https://medium.com/p/19806611b15a</id>
+        <link href="https://medium.com/coinmonks/solidity-conversions-19806611b15a?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-05T09:55:17.000Z</updated>
+        <summary type="html"><![CDATA[We are discussing Solidity Conversions, believing that it would help the learners. Solidity is a high-level programming language used for…]]></summary>
+        <author>
+            <name>Mrexamples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upbit vs Bithumb Comparison — FY22]]></title>
+        <id>https://medium.com/p/baf1dc9e9b0c</id>
+        <link href="https://medium.com/coinmonks/upbit-vs-bithumb-comparison-fy22-baf1dc9e9b0c?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-05T09:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Looking like Goliath vs Davids]]></summary>
+        <author>
+            <name>Trinito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADP Non-Farm Employment Change: How to Interpret the Data]]></title>
+        <id>https://medium.com/p/ba019137cdbe</id>
+        <link href="https://medium.com/coinmonks/adp-non-farm-employment-change-how-to-interpret-the-data-ba019137cdbe?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-05T09:54:51.000Z</updated>
+        <summary type="html"><![CDATA[The United States of America ADP Non-Farm Employment Change is a monthly economic release that provides insights into the labor market. The…]]></summary>
+        <author>
+            <name>André Cardoso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nostr. One of the few paths to freedom.]]></title>
+        <id>https://medium.com/p/2bdc4f292a27</id>
+        <link href="https://medium.com/coinmonks/nostr-one-of-the-few-paths-to-freedom-2bdc4f292a27?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-05T09:54:44.000Z</updated>
+        <summary type="html"><![CDATA[Disclaimer: This article was written with minimal editing due to lack of tools I mnormally have in my disposal, also for abbreviation…]]></summary>
+        <author>
+            <name>George Tzortzakis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Price Could Surge Above 10% Soon — Crypto Analyst]]></title>
+        <id>https://medium.com/p/692f7d0fcbf</id>
+        <link href="https://medium.com/coinmonks/bitcoin-price-could-surge-above-10-soon-crypto-analyst-692f7d0fcbf?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-05T09:10:40.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin price surge — The news of a possible recession due to the muted US jobs data seem to have posed well than harm to the crypto…]]></summary>
+        <author>
+            <name>36Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TOP 4 SAVING TIPS ON INVESTING FOR BEGINNERS]]></title>
         <id>https://medium.com/p/e13d5c9370ed</id>
@@ -33,82 +104,6 @@ Continue reading on Coinmonks »]]></summary>
         <link href="https://medium.com/coinmonks/maximizing-your-options-trading-potential-with-options-spreads-examples-and-strategies-2273cb4d59a4?source=rss----721b17443fd5---4"/>
         <updated>2023-04-05T09:07:31.000Z</updated>
         <summary type="html"><![CDATA[Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Nomad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Strike Price Selector Bot: How to Automate Option Trading with Python]]></title>
-        <id>https://medium.com/p/f7220fff9af9</id>
-        <link href="https://medium.com/coinmonks/building-a-strike-price-selector-bot-how-to-automate-option-trading-with-python-f7220fff9af9?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-05T09:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Trading options can be a profitable investment strategy, but it requires a lot of time and effort to analyze and select the right options…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Nomad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate Statistical Arbitrage Using Python: A Step-by-Step Guide with Examples]]></title>
-        <id>https://medium.com/p/654c488cb0d7</id>
-        <link href="https://medium.com/coinmonks/automate-statistical-arbitrage-using-python-a-step-by-step-guide-with-examples-654c488cb0d7?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-05T09:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Statistical arbitrage is a popular trading strategy that seeks to profit from pricing discrepancies in the market. By using advanced…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Nomad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Statistical Arbitrage: Strategies, Examples, and Risks]]></title>
-        <id>https://medium.com/p/a537b1c581fd</id>
-        <link href="https://medium.com/coinmonks/understanding-statistical-arbitrage-strategies-examples-and-risks-a537b1c581fd?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-05T09:06:49.000Z</updated>
-        <summary type="html"><![CDATA[Statistical arbitrage is a trading strategy that involves exploiting the statistical mispricing of securities.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Nomad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Signals model updates]]></title>
-        <id>https://medium.com/p/b56960fe7d4a</id>
-        <link href="https://medium.com/coinmonks/crypto-signals-model-updates-b56960fe7d4a?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-05T09:06:39.000Z</updated>
-        <summary type="html"><![CDATA[Over the last few months, we’ve looked to improve the crypto signals model we built over a year ago. The updates to the model and the…]]></summary>
-        <author>
-            <name>Louis Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Futures Trading for Beginners: Tips, Tricks, and Example Trades]]></title>
-        <id>https://medium.com/p/b3dbe8b30581</id>
-        <link href="https://medium.com/coinmonks/futures-trading-for-beginners-tips-tricks-and-example-trades-b3dbe8b30581?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-05T09:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Are you interested in trading futures but don’t know where to start? Futures trading can be a lucrative investment opportunity for those…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Nomad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Institutional Investors Buy Futures and Options: A Comprehensive Guide with Practical Examples]]></title>
-        <id>https://medium.com/p/4eb2ea18b6c0</id>
-        <link href="https://medium.com/coinmonks/how-institutional-investors-buy-futures-and-options-a-comprehensive-guide-with-practical-examples-4eb2ea18b6c0?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-05T09:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Institutional investors are a crucial part of the financial market. These investors are typically large financial organizations such as…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Nomad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Do Institutional Investors Increase Exposure in a Specific Security and How to Know as a…]]></title>
-        <id>https://medium.com/p/4916dcfd4de4</id>
-        <link href="https://medium.com/coinmonks/when-do-institutional-investors-increase-exposure-in-a-specific-security-and-how-to-know-as-a-4916dcfd4de4?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-05T09:05:59.000Z</updated>
-        <summary type="html"><![CDATA[Institutional investors, such as pension funds, hedge funds, and mutual funds, are some of the largest participants in the stock market…
-Continue reading on Coinmonks »]]></summary>
         <author>
             <name>Nomad</name>
         </author>
