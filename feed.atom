@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T13:14:43.940Z</id>
+    <id>urn:2023-04-06T14:10:51.694Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-06T13:14:43.940Z</updated>
+    <updated>2023-04-06T14:10:51.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Access Control Vulnerability and Solution in A Solidity Smart Contract]]></title>
+        <id>https://medium.com/p/e4e06b0df2ee</id>
+        <link href="https://coinsbench.com/access-control-vulnerability-and-solution-in-a-solidity-smart-contract-e4e06b0df2ee?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-06T13:38:48.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts are a crucial component of many blockchain-based systems, but they can also be vulnerable to attack. In this post, we will…]]></summary>
+        <author>
+            <name>Hala Naz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring the Intersection of the Identity & Social Relationship and Culture Crypto Industries]]></title>
         <id>https://medium.com/p/854049017356</id>
@@ -222,16 +232,6 @@ In this post, we'll develop small…]]></summary>
         <summary type="html"><![CDATA[My objective is to create a smart contract that represents a piece of land, containing the owner’s address, location, cost, land ID, and a…]]></summary>
         <author>
             <name>Brian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniting Cloud Computing & Blockchain]]></title>
-        <id>https://medium.com/p/f0eb1d9915c7</id>
-        <link href="https://coinsbench.com/uniting-cloud-computing-blockchain-f0eb1d9915c7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-03T16:33:17.000Z</updated>
-        <summary type="html"><![CDATA[Cloud and blockchain will be combined for Web3 via Cudos’ Blockchain Compute. Cudos lays the groundwork for its mission to give everyone…]]></summary>
-        <author>
-            <name>Rajan Gupta</name>
         </author>
     </entry>
     <entry>
