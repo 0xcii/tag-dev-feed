@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T20:12:13.250Z</id>
+    <id>urn:2023-04-06T21:09:39.294Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-06T20:12:13.250Z</updated>
+    <updated>2023-04-06T21:09:39.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -379,20 +379,6 @@ Imagine a chain with good security and one with widespread decentralization comi
         <summary type="html"><![CDATA[🎉 Discover the fascinating world of Non-Fungible Tokens (NFTs) and learn how to implement them in Solidity! 💻]]></summary>
         <author>
             <name>Ssali Benjamin T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to Debugging Smart Contracts: Tips and Tools for Web3 Developers]]></title>
-        <id>https://blog.developerdao.com/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers</id>
-        <link href="https://blog.developerdao.com/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers"/>
-        <updated>2023-03-08T08:40:34.000Z</updated>
-        <summary type="html"><![CDATA[Smart contract development is vital to building decentralized applications on the blockchain. However, as with any software development, debugging smart contracts can be challenging but can quickly determine the cause of a single transaction or contract execution failure with an advanced tool for debugging Solidity smart contracts.
-We can implement a suitable solution once we identify the error that led to a specific issue and learn in-depth details about the error's nature.
-This guide will provide tips and tools for debugging smart contracts to help Web3 developers ensure their contracts work as intended.
-Debugging Smart Contracts
-Smart contract debugging is identifying and fixing errors in smart contracts. It is essential in developing any decentralized application as it ensures the cont…]]></summary>
-        <author>
-            <name>Olubisi Idris Ayinde</name>
         </author>
     </entry>
 </feed>
