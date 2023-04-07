@@ -249,6 +249,16 @@
       "siteUrl": "https://blog.developerdao.com",
       "articles": [
         {
+          "id": "https://blog.developerdao.com/devntell-node-guardians",
+          "author": "Narbeh Shahnazarian",
+          "description": "In this week's episode of DevNTell, we were joined by Sam (co-founder and CEO) who gave us an overview of Node Guardians\n🌟 Developer Spotlight\nSam is building Node Guardians, a platform tailored for seasoned Solidity developers, offering an extensive array of programming challenges designed as engaging RPG quests. He's also passionate about DevOps & Crusader Kings\n🔥 About Node Guardians\nFrom the About page on nodeguardians.io:\nNode Guardians is a platform for builders, thinkers, and stakers. Their mission is to bolster innovative and promising crypto ecosystems and contribute to the future of a decentralized internet through education and infrastructure.\nResources\nWebsite: https://nodeguardians.io/\nTwitter: https://twitter.com/nodeguardians\nSam's Twitter: https://twitter.com/samnode_\n🎥 Presentation\n\n\n\nhttps://www.youtube.com/watch?v=9NzXBKE2j4o",
+          "link": "https://blog.developerdao.com/devntell-node-guardians",
+          "publishedOn": "2023-04-07T18:05:37.000Z",
+          "wordCount": 2645,
+          "title": "DevNTell - Node Guardians",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1680890566801%2F790978c5-a89c-47ad-8216-418407370574.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
           "id": "https://blog.developerdao.com/getting-started-with-streamr",
           "author": "Osikhena Oshomah",
           "description": "Streamr is a decentralized, real-time data network that operates on a peer-to-peer (P2P) computer network where each node connects with other nodes without a central server. Streamr uses a publish-subscribe system where one peer writes data to the network, and others read the data. This continuous flow of data allows for efficient and effective real-time data transport and communication.\n\nThis tutorial will walk you through the Streamr network and how to get started. We will create a simple Next.js application that will consume data from a public stream and create and write to one. We will plot and visualize this data using a line chart and become acquainted with the Streamr network.\nThe Functionalities\nStreamr's network consists of both off-chain and on-chain segments. The network serves …",
