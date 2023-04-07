@@ -18,6 +18,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/fbd7937001f1",
+          "author": "SkillovuU",
+          "description": "The technology behind Monad: optimized store, parallel execution, and heuristics",
+          "link": "https://coinsbench.com/developments-and-potential-of-monad-fbd7937001f1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-07T13:40:44.000Z",
+          "wordCount": 4922,
+          "title": "Developments and potential of Monad",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zFJdAvo9i4k1MISVhPT-sg.png"
+        },
+        {
+          "id": "https://medium.com/p/6be46768b5ff",
+          "author": "Alexander Obregon",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/understanding-nfts-how-they-work-under-the-hood-6be46768b5ff?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-07T13:40:41.000Z",
+          "wordCount": 1759,
+          "title": "Understanding NFTs: How They Work Under the Hood",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*sodkzGlwmcWG-E335moVQg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/6aeaa19366fb",
+          "author": "Ashwin Yardi",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/things-you-need-to-know-about-solidity-libraries-bits-by-blocks-6aeaa19366fb?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-07T13:40:40.000Z",
+          "wordCount": 2731,
+          "title": "Things You Need to Know About Solidity Libraries — Bits By Blocks",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*DwbMHyetOWEU05SA"
+        },
+        {
+          "id": "https://medium.com/p/5380db734404",
+          "author": "Farasat Ali",
+          "description": "Gas is a crucial component of the Ethereum blockchain platform, as it determines the cost of executing transactions and contracts. The more…",
+          "link": "https://coinsbench.com/comprehensive-guide-tips-and-tricks-for-gas-optimization-in-solidity-5380db734404?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-07T13:40:38.000Z",
+          "wordCount": 6836,
+          "title": "Comprehensive Guide: Tips and Tricks for Gas Optimization in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-YpkxDgFb7KbwNiz031KOg.png"
+        },
+        {
+          "id": "https://medium.com/p/52e62d4ce57d",
+          "author": "Adarshswaminath",
+          "description": "This article is going to give you a couple of tips to reduce gas consumption in your smart contracts.",
+          "link": "https://coinsbench.com/solidity-gas-optimization-tips-52e62d4ce57d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-07T13:40:35.000Z",
+          "wordCount": 1777,
+          "title": "Solidity Gas Optimization Tips",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ErvwwJ0lHnfZiryB7EpNnA.jpeg"
+        },
+        {
           "id": "https://medium.com/p/e4e06b0df2ee",
           "author": "Hala Naz",
           "description": "Smart contracts are a crucial component of many blockchain-based systems, but they can also be vulnerable to attack. In this post, we will…",
@@ -66,56 +116,6 @@
           "wordCount": 2240,
           "title": "Token Standard: ERC-20 vs ERC-721 vs ERC-1155",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:717/1*UHuD-6PHc0OxreYN--fZEg.png"
-        },
-        {
-          "id": "https://medium.com/p/69aabb4622ca",
-          "author": "Bloqarl",
-          "description": "I gathered some useful information about how to best write your Gas Optimization report on your Auditing contests.",
-          "link": "https://coinsbench.com/not-all-gas-optimization-audit-reports-get-accepted-in-code4rena-follow-this-tips-to-make-sure-69aabb4622ca?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-04T11:56:50.000Z",
-          "wordCount": 1834,
-          "title": "Not all Gas Optimization audit reports get accepted in Code4rena. Follow these tips to make sure.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*2MQ1bo0OC9sRLcObCfSt_g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f3fc01530276",
-          "author": "Srinivas Joshi",
-          "description": "In this blog post, I’ll be sharing my tips on how to ace your Solidity interviews. When I myself searched for “Solidity interview…",
-          "link": "https://coinsbench.com/solidity-smackdown-can-you-answer-these-7-tricky-interview-questions-f3fc01530276?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-03T16:33:36.000Z",
-          "wordCount": 4743,
-          "title": "Solidity Smackdown: Can You Answer These 7 Tricky Interview Questions?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*vuMqroBQiDp-Z7mG"
-        },
-        {
-          "id": "https://medium.com/p/338730519213",
-          "author": "Joel Machado",
-          "description": "Smart contracts often handle sensitive data and transactions, which require high level of security and privacy. Cryptography is a critical…",
-          "link": "https://coinsbench.com/soidity-cryptographic-functions-338730519213?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-03T16:33:21.000Z",
-          "wordCount": 2633,
-          "title": "Soidity cryptographic functions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9093f447b295",
-          "author": "Joel Machado",
-          "description": "In 2017 a WHO report was published claiming 10.5 percent of medicines sold in developing countries including India are fake. In 2020 counterfeit medications were the seventh most commonly seized…",
-          "link": "https://coinsbench.com/blockchain-and-counterfeit-drugs-9093f447b295?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-03T16:33:20.000Z",
-          "wordCount": 1338,
-          "title": "Blockchain and counterfeit drugs .",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*x4dN0VxKoctac9U1eidy4w.png"
-        },
-        {
-          "id": "https://medium.com/p/c054dbc65018",
-          "author": "Brian",
-          "description": "My objective is to create a smart contract that represents a piece of land, containing the owner’s address, location, cost, land ID, and a…",
-          "link": "https://coinsbench.com/integrating-ethereum-smart-contracts-with-react-applications-a-tutorial-on-building-and-deploying-c054dbc65018?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-03T16:33:19.000Z",
-          "wordCount": 4138,
-          "title": "Integrating Ethereum Smart Contracts with React Applications: A Tutorial on Building and Deploying…",
-          "imageUrl": null
         }
       ]
     },
@@ -125,104 +125,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/4888afd3e967",
-          "author": "Nomad",
-          "description": "Options trading offers a wide range of strategies for traders to capitalize on various market conditions.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/iron-butterfly-strategy-guide-for-advanced-options-traders-4888afd3e967?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-07T09:43:47.000Z",
-          "wordCount": 1032,
-          "title": "Iron Butterfly Strategy Guide for Advanced Options Traders",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1029/1*MxMkYcphlimpxoNLs83T5g.png"
+          "id": "https://medium.com/p/56588b93a059",
+          "author": "Paul Phoenix",
+          "description": "Users gain control over digital assets and NFTs with Microsoft’s new Web3 wallet, now in testing phase.",
+          "link": "https://medium.com/coinmonks/microsoft-edge-browser-to-launch-web3-wallet-for-ethereum-56588b93a059?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-07T13:42:10.000Z",
+          "wordCount": 1909,
+          "title": "Microsoft Edge browser to launch Web3 wallet for Ethereum",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*s_qBGQZdeF4dPtvL"
         },
         {
-          "id": "https://medium.com/p/e76ce6ddf8ed",
-          "author": "Messin' with Crypto's",
-          "description": "Hey folks, its been a while since I’ve done one of these articles, but it looks like the promos are coming back as we’re starting Q2. Once…",
-          "link": "https://medium.com/coinmonks/triple-threat-3-deals-to-earn-you-445-e76ce6ddf8ed?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-07T09:43:35.000Z",
-          "wordCount": 2778,
-          "title": "Triple Threat — 3 deals to earn you $445",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:964/1*FCsTk8qVg3JF6P_hL_u05w.png"
+          "id": "https://medium.com/p/d7594e064423",
+          "author": "Amit Singh",
+          "description": "If you want to become an entrepreneur, you may want to understand what it really takes to become one. There is no shortcut to success in…",
+          "link": "https://medium.com/coinmonks/5-simple-rules-to-become-a-successful-entrepreneur-d7594e064423?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-07T13:41:57.000Z",
+          "wordCount": 2592,
+          "title": "5 Simple Rules To Become A Successful Entrepreneur",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WkilHl-QEx2kNwcAQyOY2A.jpeg"
         },
         {
-          "id": "https://medium.com/p/4b10fe9c1d7",
-          "author": "Fozle rabbi chowdhury",
-          "description": "Has Cryptocurrency Lost Its Purpose? Exploring the Shift from Decentralization to Investment and the Future of Digital Currency.",
-          "link": "https://medium.com/coinmonks/is-crypto-losing-its-purpose-4b10fe9c1d7?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-07T09:43:27.000Z",
-          "wordCount": 1728,
-          "title": "Is Crypto Losing its Purpose?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*45VdtP2GFdOPRanGKhAofA.jpeg"
+          "id": "https://medium.com/p/b8c86e55b7b0",
+          "author": "PinaDeFi",
+          "description": "Bitcoin is here to stay.",
+          "link": "https://medium.com/coinmonks/bitcoin-will-win-b8c86e55b7b0?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-07T13:41:57.000Z",
+          "wordCount": 2558,
+          "title": "Bitcoin will win.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:940/1*eqnTLBmOA1oyzDJ_lVCnMw.png"
         },
         {
-          "id": "https://medium.com/p/7d9176e65965",
-          "author": "Andre Costa",
-          "description": "Yes, you read that right… Decentralized Finance is a myth.",
-          "link": "https://medium.com/coinmonks/1-myth-in-web3-defi-is-decentralized-7d9176e65965?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-07T09:43:17.000Z",
-          "wordCount": 2320,
-          "title": "#1 Myth in Web3 — DeFi is Decentralized",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*S__7np-TUt8zVh0I"
+          "id": "https://medium.com/p/da0aa882469c",
+          "author": "Patrick Collins",
+          "description": "A smart contract audit is a time-boxed security-based code review on your smart contract/web3 system. An auditor’s goal is to find as many…",
+          "link": "https://medium.com/coinmonks/smart-contract-audit-what-it-is-and-what-to-expect-da0aa882469c?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-07T13:38:38.000Z",
+          "wordCount": 3449,
+          "title": "Smart Contract Audit | What it is, and what to expect",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OhpO9AobrvX4b5nT8KPpxg.png"
         },
         {
-          "id": "https://medium.com/p/abaec4913574",
-          "author": "Richard Scionti",
-          "description": "The Rise of Audius and Decentralized Music",
-          "link": "https://medium.com/coinmonks/revolutionizing-the-music-industry-abaec4913574?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-07T09:43:03.000Z",
-          "wordCount": 2073,
-          "title": "Revolutionizing the Music Industry",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Gey1AcMz4RMxvoSh"
+          "id": "https://medium.com/p/645453281b72",
+          "author": "Crypto Knowledge",
+          "description": "Are you looking to make money through crypto trading? With the rise of cryptocurrencies, more and more people are getting interested in…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-ultimate-guide-to-crypto-trading-5-tips-you-cant-afford-to-ignore-645453281b72?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-07T13:38:36.000Z",
+          "wordCount": 1091,
+          "title": "The Ultimate Guide to Crypto Trading: 5 Tips You Can’t Afford to Ignore",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*8oO02kkjCLGMm6uj"
         },
         {
-          "id": "https://medium.com/p/ce5ab90d7141",
-          "author": "Ankita Bardiyar",
-          "description": "The Story Behind the Logo Change and Cryptocurrency Craze",
-          "link": "https://medium.com/coinmonks/elon-musks-love-affair-with-dogecoin-and-twitter-s-sense-of-humor-ce5ab90d7141?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-07T09:42:47.000Z",
-          "wordCount": 1802,
-          "title": "Elon Musk’s Love Affair with Dogecoin and Twitter’s Sense of Humor:",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:474/0*HT6Z9ZBo0usGF3op"
+          "id": "https://medium.com/p/fa27d5e81a25",
+          "author": "Balla Adorjan",
+          "description": "In recent years, non-fungible tokens (NFTs) have emerged as a revolutionary new way to sell and collect digital art. These unique digital…",
+          "link": "https://medium.com/coinmonks/ai-generated-nfts-exploring-the-intersection-of-technology-and-art-fa27d5e81a25?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-07T13:38:35.000Z",
+          "wordCount": 2638,
+          "title": "AI-Generated NFTs: Exploring the Intersection of Technology and Art",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*buE0wFuHFd3bMfwi.jpg"
         },
         {
-          "id": "https://medium.com/p/cfb5d1e90b5",
-          "author": "Ricky Marrero",
-          "description": "Satoshi Nakamoto came up with the Nakamoto Consensus in 2008. It is a decentralized system for verifying and recording transactions on the…",
-          "link": "https://medium.com/coinmonks/the-rise-of-cic-chain-a-new-player-in-the-blockchain-industry-with-unique-features-and-a-built-in-cfb5d1e90b5?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-07T09:42:38.000Z",
-          "wordCount": 2518,
-          "title": "The Rise of CIC Chain: A New Player in the Blockchain Industry with Unique Features and a Built-In…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cE9aNDi6eTEC_gEOX7a8fQ.png"
+          "id": "https://medium.com/p/50eba6f9ea47",
+          "author": "Vremaroiu Alin",
+          "description": "What is Shiba Inu (SHIB)?\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/shiba-inu-shib-price-prediction-2023-2025-update-6th-of-april-50eba6f9ea47?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-07T13:38:33.000Z",
+          "wordCount": 1062,
+          "title": "Shiba Inu (SHIB) Price Prediction 2023–2025, update 6th of April",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ym66wsQSNrnxH4_HJZUavw.jpeg"
         },
         {
-          "id": "https://medium.com/p/bf9761cc0abf",
-          "author": "Mia G",
-          "description": "Without tying yourself to a specific class or income bracket, it’s important to appreciate where you are now and already how far you’ve…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/why-the-middle-class-is-evolving-where-its-headed-bf9761cc0abf?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-07T09:42:30.000Z",
-          "wordCount": 1094,
-          "title": "Why The Middle Class Is Evolving & Where It’s Headed",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:900/1*ahYoW1Nza2hOhFTv1Vp2Vg.jpeg"
+          "id": "https://medium.com/p/2e1d50a62c00",
+          "author": "Vremaroiu Alin",
+          "description": "What is Cardano (ADA)?\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/cardano-ada-price-prediction-2023-2025-update-6th-of-april-2e1d50a62c00?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-07T13:38:11.000Z",
+          "wordCount": 1060,
+          "title": "Cardano (ADA) Price Prediction 2023–2025, update 6th of April",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QorDQ8i6fYRUyYYmzoyw_g.jpeg"
         },
         {
-          "id": "https://medium.com/p/2a4cf9ce65ae",
-          "author": "Jude Abara",
-          "description": "As smart contracts become more prevalent in various industries, the need for robust security measures to prevent vulnerabilities and…",
-          "link": "https://medium.com/coinmonks/review-of-6-prominent-smart-contract-audit-automation-tools-2a4cf9ce65ae?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-07T09:42:24.000Z",
-          "wordCount": 2393,
-          "title": "Review of 6 Prominent Smart Contract Audit Automation Tools",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*oJ2OMHUhAwfD8Zc0OXH5pg.png"
+          "id": "https://medium.com/p/a0308acb6dd9",
+          "author": "Vremaroiu Alin",
+          "description": "Bitcoin (BTC)\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/best-3-cryptocurrencies-to-buy-right-now-a0308acb6dd9?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-07T13:37:50.000Z",
+          "wordCount": 1043,
+          "title": "Best 3 Cryptocurrencies to Buy Right Now",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9CLl1cUF5KJkEpr8z27ltg.jpeg"
         },
         {
-          "id": "https://medium.com/p/acd98758957b",
-          "author": "Jude Abara",
-          "description": "Reentrancy vulnerabilities are one of the most common types of vulnerabilities in smart contracts. In a reentrancy attack, an attacker can…",
-          "link": "https://medium.com/coinmonks/reentrancy-vulnerabilities-and-recommended-mitigation-strategies-acd98758957b?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-07T09:42:17.000Z",
-          "wordCount": 1862,
-          "title": "Reentrancy Vulnerabilities and Recommended Mitigation Strategies",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*elwo2gBN8lohiabaup4fgA.jpeg"
+          "id": "https://medium.com/p/8812ab1e1105",
+          "author": "Xtreamly",
+          "description": "The extraction of Miner Extractable Value (MEV) has become a significant topic of discussion in the blockchain community, as it can have…",
+          "link": "https://medium.com/coinmonks/unlocking-the-value-of-captured-mev-for-positive-ecosystem-impact-8812ab1e1105?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-07T13:37:45.000Z",
+          "wordCount": 4131,
+          "title": "“Unlocking the Value of Captured MEV for Positive Ecosystem Impact”",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*enqHF_pjNMUTBkYq"
         }
       ]
     },

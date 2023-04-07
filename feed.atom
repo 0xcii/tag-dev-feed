@@ -1,110 +1,162 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T13:14:17.754Z</id>
+    <id>urn:2023-04-07T14:10:38.378Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-07T13:14:17.754Z</updated>
+    <updated>2023-04-07T14:10:38.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Iron Butterfly Strategy Guide for Advanced Options Traders]]></title>
-        <id>https://medium.com/p/4888afd3e967</id>
-        <link href="https://medium.com/coinmonks/iron-butterfly-strategy-guide-for-advanced-options-traders-4888afd3e967?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-07T09:43:47.000Z</updated>
-        <summary type="html"><![CDATA[Options trading offers a wide range of strategies for traders to capitalize on various market conditions.
+        <title type="html"><![CDATA[Microsoft Edge browser to launch Web3 wallet for Ethereum]]></title>
+        <id>https://medium.com/p/56588b93a059</id>
+        <link href="https://medium.com/coinmonks/microsoft-edge-browser-to-launch-web3-wallet-for-ethereum-56588b93a059?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-07T13:42:10.000Z</updated>
+        <summary type="html"><![CDATA[Users gain control over digital assets and NFTs with Microsoft’s new Web3 wallet, now in testing phase.]]></summary>
+        <author>
+            <name>Paul Phoenix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Simple Rules To Become A Successful Entrepreneur]]></title>
+        <id>https://medium.com/p/d7594e064423</id>
+        <link href="https://medium.com/coinmonks/5-simple-rules-to-become-a-successful-entrepreneur-d7594e064423?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-07T13:41:57.000Z</updated>
+        <summary type="html"><![CDATA[If you want to become an entrepreneur, you may want to understand what it really takes to become one. There is no shortcut to success in…]]></summary>
+        <author>
+            <name>Amit Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin will win.]]></title>
+        <id>https://medium.com/p/b8c86e55b7b0</id>
+        <link href="https://medium.com/coinmonks/bitcoin-will-win-b8c86e55b7b0?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-07T13:41:57.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin is here to stay.]]></summary>
+        <author>
+            <name>PinaDeFi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developments and potential of Monad]]></title>
+        <id>https://medium.com/p/fbd7937001f1</id>
+        <link href="https://coinsbench.com/developments-and-potential-of-monad-fbd7937001f1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-07T13:40:44.000Z</updated>
+        <summary type="html"><![CDATA[The technology behind Monad: optimized store, parallel execution, and heuristics]]></summary>
+        <author>
+            <name>SkillovuU</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding NFTs: How They Work Under the Hood]]></title>
+        <id>https://medium.com/p/6be46768b5ff</id>
+        <link href="https://coinsbench.com/understanding-nfts-how-they-work-under-the-hood-6be46768b5ff?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-07T13:40:41.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Alexander Obregon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things You Need to Know About Solidity Libraries — Bits By Blocks]]></title>
+        <id>https://medium.com/p/6aeaa19366fb</id>
+        <link href="https://coinsbench.com/things-you-need-to-know-about-solidity-libraries-bits-by-blocks-6aeaa19366fb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-07T13:40:40.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Ashwin Yardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comprehensive Guide: Tips and Tricks for Gas Optimization in Solidity]]></title>
+        <id>https://medium.com/p/5380db734404</id>
+        <link href="https://coinsbench.com/comprehensive-guide-tips-and-tricks-for-gas-optimization-in-solidity-5380db734404?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-07T13:40:38.000Z</updated>
+        <summary type="html"><![CDATA[Gas is a crucial component of the Ethereum blockchain platform, as it determines the cost of executing transactions and contracts. The more…]]></summary>
+        <author>
+            <name>Farasat Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Gas Optimization Tips]]></title>
+        <id>https://medium.com/p/52e62d4ce57d</id>
+        <link href="https://coinsbench.com/solidity-gas-optimization-tips-52e62d4ce57d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-07T13:40:35.000Z</updated>
+        <summary type="html"><![CDATA[This article is going to give you a couple of tips to reduce gas consumption in your smart contracts.]]></summary>
+        <author>
+            <name>Adarshswaminath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Audit | What it is, and what to expect]]></title>
+        <id>https://medium.com/p/da0aa882469c</id>
+        <link href="https://medium.com/coinmonks/smart-contract-audit-what-it-is-and-what-to-expect-da0aa882469c?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-07T13:38:38.000Z</updated>
+        <summary type="html"><![CDATA[A smart contract audit is a time-boxed security-based code review on your smart contract/web3 system. An auditor’s goal is to find as many…]]></summary>
+        <author>
+            <name>Patrick Collins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Guide to Crypto Trading: 5 Tips You Can’t Afford to Ignore]]></title>
+        <id>https://medium.com/p/645453281b72</id>
+        <link href="https://medium.com/coinmonks/the-ultimate-guide-to-crypto-trading-5-tips-you-cant-afford-to-ignore-645453281b72?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-07T13:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking to make money through crypto trading? With the rise of cryptocurrencies, more and more people are getting interested in…
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Nomad</name>
+            <name>Crypto Knowledge</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Triple Threat — 3 deals to earn you $445]]></title>
-        <id>https://medium.com/p/e76ce6ddf8ed</id>
-        <link href="https://medium.com/coinmonks/triple-threat-3-deals-to-earn-you-445-e76ce6ddf8ed?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-07T09:43:35.000Z</updated>
-        <summary type="html"><![CDATA[Hey folks, its been a while since I’ve done one of these articles, but it looks like the promos are coming back as we’re starting Q2. Once…]]></summary>
+        <title type="html"><![CDATA[AI-Generated NFTs: Exploring the Intersection of Technology and Art]]></title>
+        <id>https://medium.com/p/fa27d5e81a25</id>
+        <link href="https://medium.com/coinmonks/ai-generated-nfts-exploring-the-intersection-of-technology-and-art-fa27d5e81a25?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-07T13:38:35.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, non-fungible tokens (NFTs) have emerged as a revolutionary new way to sell and collect digital art. These unique digital…]]></summary>
         <author>
-            <name>Messin' with Crypto's</name>
+            <name>Balla Adorjan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is Crypto Losing its Purpose?]]></title>
-        <id>https://medium.com/p/4b10fe9c1d7</id>
-        <link href="https://medium.com/coinmonks/is-crypto-losing-its-purpose-4b10fe9c1d7?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-07T09:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Has Cryptocurrency Lost Its Purpose? Exploring the Shift from Decentralization to Investment and the Future of Digital Currency.]]></summary>
-        <author>
-            <name>Fozle rabbi chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#1 Myth in Web3 — DeFi is Decentralized]]></title>
-        <id>https://medium.com/p/7d9176e65965</id>
-        <link href="https://medium.com/coinmonks/1-myth-in-web3-defi-is-decentralized-7d9176e65965?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-07T09:43:17.000Z</updated>
-        <summary type="html"><![CDATA[Yes, you read that right… Decentralized Finance is a myth.]]></summary>
-        <author>
-            <name>Andre Costa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolutionizing the Music Industry]]></title>
-        <id>https://medium.com/p/abaec4913574</id>
-        <link href="https://medium.com/coinmonks/revolutionizing-the-music-industry-abaec4913574?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-07T09:43:03.000Z</updated>
-        <summary type="html"><![CDATA[The Rise of Audius and Decentralized Music]]></summary>
-        <author>
-            <name>Richard Scionti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk’s Love Affair with Dogecoin and Twitter’s Sense of Humor:]]></title>
-        <id>https://medium.com/p/ce5ab90d7141</id>
-        <link href="https://medium.com/coinmonks/elon-musks-love-affair-with-dogecoin-and-twitter-s-sense-of-humor-ce5ab90d7141?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-07T09:42:47.000Z</updated>
-        <summary type="html"><![CDATA[The Story Behind the Logo Change and Cryptocurrency Craze]]></summary>
-        <author>
-            <name>Ankita Bardiyar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise of CIC Chain: A New Player in the Blockchain Industry with Unique Features and a Built-In…]]></title>
-        <id>https://medium.com/p/cfb5d1e90b5</id>
-        <link href="https://medium.com/coinmonks/the-rise-of-cic-chain-a-new-player-in-the-blockchain-industry-with-unique-features-and-a-built-in-cfb5d1e90b5?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-07T09:42:38.000Z</updated>
-        <summary type="html"><![CDATA[Satoshi Nakamoto came up with the Nakamoto Consensus in 2008. It is a decentralized system for verifying and recording transactions on the…]]></summary>
-        <author>
-            <name>Ricky Marrero</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why The Middle Class Is Evolving & Where It’s Headed]]></title>
-        <id>https://medium.com/p/bf9761cc0abf</id>
-        <link href="https://medium.com/coinmonks/why-the-middle-class-is-evolving-where-its-headed-bf9761cc0abf?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-07T09:42:30.000Z</updated>
-        <summary type="html"><![CDATA[Without tying yourself to a specific class or income bracket, it’s important to appreciate where you are now and already how far you’ve…
+        <title type="html"><![CDATA[Shiba Inu (SHIB) Price Prediction 2023–2025, update 6th of April]]></title>
+        <id>https://medium.com/p/50eba6f9ea47</id>
+        <link href="https://medium.com/coinmonks/shiba-inu-shib-price-prediction-2023-2025-update-6th-of-april-50eba6f9ea47?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-07T13:38:33.000Z</updated>
+        <summary type="html"><![CDATA[What is Shiba Inu (SHIB)?
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Mia G</name>
+            <name>Vremaroiu Alin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review of 6 Prominent Smart Contract Audit Automation Tools]]></title>
-        <id>https://medium.com/p/2a4cf9ce65ae</id>
-        <link href="https://medium.com/coinmonks/review-of-6-prominent-smart-contract-audit-automation-tools-2a4cf9ce65ae?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-07T09:42:24.000Z</updated>
-        <summary type="html"><![CDATA[As smart contracts become more prevalent in various industries, the need for robust security measures to prevent vulnerabilities and…]]></summary>
+        <title type="html"><![CDATA[Cardano (ADA) Price Prediction 2023–2025, update 6th of April]]></title>
+        <id>https://medium.com/p/2e1d50a62c00</id>
+        <link href="https://medium.com/coinmonks/cardano-ada-price-prediction-2023-2025-update-6th-of-april-2e1d50a62c00?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-07T13:38:11.000Z</updated>
+        <summary type="html"><![CDATA[What is Cardano (ADA)?
+Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Jude Abara</name>
+            <name>Vremaroiu Alin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reentrancy Vulnerabilities and Recommended Mitigation Strategies]]></title>
-        <id>https://medium.com/p/acd98758957b</id>
-        <link href="https://medium.com/coinmonks/reentrancy-vulnerabilities-and-recommended-mitigation-strategies-acd98758957b?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-07T09:42:17.000Z</updated>
-        <summary type="html"><![CDATA[Reentrancy vulnerabilities are one of the most common types of vulnerabilities in smart contracts. In a reentrancy attack, an attacker can…]]></summary>
+        <title type="html"><![CDATA[Best 3 Cryptocurrencies to Buy Right Now]]></title>
+        <id>https://medium.com/p/a0308acb6dd9</id>
+        <link href="https://medium.com/coinmonks/best-3-cryptocurrencies-to-buy-right-now-a0308acb6dd9?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-07T13:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin (BTC)
+Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Jude Abara</name>
+            <name>Vremaroiu Alin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Unlocking the Value of Captured MEV for Positive Ecosystem Impact”]]></title>
+        <id>https://medium.com/p/8812ab1e1105</id>
+        <link href="https://medium.com/coinmonks/unlocking-the-value-of-captured-mev-for-positive-ecosystem-impact-8812ab1e1105?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-07T13:37:45.000Z</updated>
+        <summary type="html"><![CDATA[The extraction of Miner Extractable Value (MEV) has become a significant topic of discussion in the blockchain community, as it can have…]]></summary>
+        <author>
+            <name>Xtreamly</name>
         </author>
     </entry>
     <entry>
@@ -172,16 +224,6 @@ Streamr's network consists of both off-chain and on-chain segments. The network 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Not all Gas Optimization audit reports get accepted in Code4rena. Follow these tips to make sure.]]></title>
-        <id>https://medium.com/p/69aabb4622ca</id>
-        <link href="https://coinsbench.com/not-all-gas-optimization-audit-reports-get-accepted-in-code4rena-follow-this-tips-to-make-sure-69aabb4622ca?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-04T11:56:50.000Z</updated>
-        <summary type="html"><![CDATA[I gathered some useful information about how to best write your Gas Optimization report on your Auditing contests.]]></summary>
-        <author>
-            <name>Bloqarl</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scaling Your DApp with QuickNode: Tips and Strategies for High-Performance Applications]]></title>
         <id>https://blog.developerdao.com/scaling-your-dapp-with-quicknode-tips-and-strategies-for-high-performance-applications</id>
         <link href="https://blog.developerdao.com/scaling-your-dapp-with-quicknode-tips-and-strategies-for-high-performance-applications"/>
@@ -193,46 +235,6 @@ Functionalities
 In this post, we'll develop small…]]></summary>
         <author>
             <name>Osikhena Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Smackdown: Can You Answer These 7 Tricky Interview Questions?]]></title>
-        <id>https://medium.com/p/f3fc01530276</id>
-        <link href="https://coinsbench.com/solidity-smackdown-can-you-answer-these-7-tricky-interview-questions-f3fc01530276?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-03T16:33:36.000Z</updated>
-        <summary type="html"><![CDATA[In this blog post, I’ll be sharing my tips on how to ace your Solidity interviews. When I myself searched for “Solidity interview…]]></summary>
-        <author>
-            <name>Srinivas Joshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soidity cryptographic functions]]></title>
-        <id>https://medium.com/p/338730519213</id>
-        <link href="https://coinsbench.com/soidity-cryptographic-functions-338730519213?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-03T16:33:21.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts often handle sensitive data and transactions, which require high level of security and privacy. Cryptography is a critical…]]></summary>
-        <author>
-            <name>Joel Machado</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain and counterfeit drugs .]]></title>
-        <id>https://medium.com/p/9093f447b295</id>
-        <link href="https://coinsbench.com/blockchain-and-counterfeit-drugs-9093f447b295?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-03T16:33:20.000Z</updated>
-        <summary type="html"><![CDATA[In 2017 a WHO report was published claiming 10.5 percent of medicines sold in developing countries including India are fake. In 2020 counterfeit medications were the seventh most commonly seized…]]></summary>
-        <author>
-            <name>Joel Machado</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Ethereum Smart Contracts with React Applications: A Tutorial on Building and Deploying…]]></title>
-        <id>https://medium.com/p/c054dbc65018</id>
-        <link href="https://coinsbench.com/integrating-ethereum-smart-contracts-with-react-applications-a-tutorial-on-building-and-deploying-c054dbc65018?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-03T16:33:19.000Z</updated>
-        <summary type="html"><![CDATA[My objective is to create a smart contract that represents a piece of land, containing the owner’s address, location, cost, land ID, and a…]]></summary>
-        <author>
-            <name>Brian</name>
         </author>
     </entry>
     <entry>
