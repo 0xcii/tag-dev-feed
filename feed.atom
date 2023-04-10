@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T10:12:35.421Z</id>
+    <id>urn:2023-04-10T11:09:41.184Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-10T10:12:35.421Z</updated>
+    <updated>2023-04-10T11:09:41.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gas Golfing #2]]></title>
+        <id>https://medium.com/p/45b570cbb96f</id>
+        <link href="https://blog.blockmagnates.com/gas-golfing-2-45b570cbb96f?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-04-10T10:32:07.000Z</updated>
+        <summary type="html"><![CDATA[Gas Golfing #2: Packing Variables]]></summary>
+        <author>
+            <name>Sudeep Sagar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETH Denver 2023: a BUIDL year]]></title>
+        <id>https://medium.com/p/7e92ef276dfa</id>
+        <link href="https://coinsbench.com/eth-denver-2023-a-buidl-year-7e92ef276dfa?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-10T10:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Last week I attended ETH Denver 2023. For folks who don’t know what that is, ETH Denver is one of the most famous Crypto conferences in…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Madhur Shrimal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aṇuha : solidity gas golfing #1]]></title>
+        <id>https://medium.com/p/6e53269b03e4</id>
+        <link href="https://coinsbench.com/an%CC%A3uha-solidity-gas-golfing-1-6e53269b03e4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-10T10:21:43.000Z</updated>
+        <summary type="html"><![CDATA[Gas Golfing #1: uint8 vs uint256]]></summary>
+        <author>
+            <name>Sudeep Sagar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FastlyBot: The Future of Frontrunning Bots]]></title>
+        <id>https://medium.com/p/248a0a12340e</id>
+        <link href="https://coinsbench.com/fastlybot-the-future-of-frontrunning-bots-248a0a12340e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-10T10:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Do you wish there was an easier way to trade, you’ve come to the right place. Fastlybot’s frontrunning bot service is revolutionizing…]]></summary>
+        <author>
+            <name>OUBADI Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity SmartContract Starter: Test and Deploy with Foundry]]></title>
+        <id>https://medium.com/p/1a0bc8f4f916</id>
+        <link href="https://coinsbench.com/solidity-smartcontract-starter-create-test-and-deploy-with-foundry-1a0bc8f4f916?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-10T10:21:39.000Z</updated>
+        <summary type="html"><![CDATA[With Foundry, you can easily create, test, and deploy Solidity smart contracts on the Ethereum blockchain. Say goodbye to complex setups…]]></summary>
+        <author>
+            <name>Adarshswaminath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#35 — Dean’s List: The Future Of Work]]></title>
         <id>https://medium.com/p/4ab3f6058740</id>
@@ -13,37 +64,6 @@
         <summary type="html"><![CDATA[How You Could Make Serious Money Doing What You Love In Web3]]></summary>
         <author>
             <name>The Web3 Investor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Art World Goes Digital: The Rise of NFTs and the Future of Collecting ️]]></title>
-        <id>https://medium.com/p/3d5160fb6d18</id>
-        <link href="https://medium.com/coinmonks/the-art-world-goes-digital-the-rise-of-nfts-and-the-future-of-collecting-%EF%B8%8F-3d5160fb6d18?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-09T10:15:52.000Z</updated>
-        <summary type="html"><![CDATA[🖼️🔍 How Non-Fungible Tokens Are Disrupting the Traditional Art Market and Redefining Collecting for a Digital Age 💻💡
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Alin Stan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto DebitUsing the new SPRITZ Spending Card for Crypto — GAME CHANGING]]></title>
-        <id>https://medium.com/p/df6338b9cfab</id>
-        <link href="https://medium.com/coinmonks/crypto-debitusing-the-new-spritz-spending-card-for-crypto-game-changing-df6338b9cfab?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-09T10:15:42.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been using Spritz Finance for a few months now, using it to pay bills, mostly credit card bills. I had been using a normal credit…]]></summary>
-        <author>
-            <name>CryptoTechJester a.k.a MarcB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Marketing Agency: What They Do and Why You Need One]]></title>
-        <id>https://medium.com/p/63a61643aa74</id>
-        <link href="https://medium.com/coinmonks/digital-marketing-agency-what-they-do-and-why-you-need-one-63a61643aa74?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-09T10:15:35.000Z</updated>
-        <summary type="html"><![CDATA[A digital marketing agency is a business that provides services related to the marketing of products or services through digital channels…]]></summary>
-        <author>
-            <name>Abdul Hanan</name>
         </author>
     </entry>
     <entry>
@@ -89,16 +109,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FireFUND Expanding to Arbitrum! New contracts on THREE new chains.]]></title>
-        <id>https://medium.com/p/403b380fff74</id>
-        <link href="https://medium.com/coinmonks/firefund-expanding-to-arbitrum-new-contracts-on-three-new-chains-403b380fff74?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-09T10:13:34.000Z</updated>
-        <summary type="html"><![CDATA[FireFUND has a PLAN. They announced a while ago that when they reached $500K in BUSD on Binance Smart Chain, they would open new contracts…]]></summary>
-        <author>
-            <name>CryptoTechJester a.k.a MarcB</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SVET Markets Weekly Update (April 03–07, 2023)]]></title>
         <id>https://medium.com/p/aa9c4e5b2e90</id>
         <link href="https://medium.com/coinmonks/svet-markets-weekly-update-april-03-07-2023-aa9c4e5b2e90?source=rss----721b17443fd5---4"/>
@@ -106,6 +116,47 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[During the shorter week of Good Friday, corporate traders were primarily focused on technical analysis and used the market uncertainties…]]></summary>
         <author>
             <name>SVET</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dedollarisation in full swing: An Insight to Recent Events]]></title>
+        <id>https://medium.com/p/f4762f5646b6</id>
+        <link href="https://medium.com/coinmonks/dedollarisation-in-full-swing-an-insight-to-recent-events-f4762f5646b6?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-09T10:13:16.000Z</updated>
+        <summary type="html"><![CDATA[The dedollarisation trend has continued to gain momentum with more countries shifting away from the US dollar in their international…]]></summary>
+        <author>
+            <name>Dollar Island</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Congressman calls SEC Chief Gary Gensler a “Bad Faith Regulator”]]></title>
+        <id>https://medium.com/p/278c676e69bf</id>
+        <link href="https://medium.com/coinmonks/u-s-congressman-calls-sec-chief-gary-gensler-a-bad-faith-regulator-278c676e69bf?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-09T10:13:04.000Z</updated>
+        <summary type="html"><![CDATA[Congress is Losing Faith in the SEC]]></summary>
+        <author>
+            <name>ZeroRequiem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto News Today — April 09, 2023]]></title>
+        <id>https://medium.com/p/ba213ab49fa7</id>
+        <link href="https://medium.com/coinmonks/crypto-news-today-april-09-2023-ba213ab49fa7?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-09T10:12:55.000Z</updated>
+        <summary type="html"><![CDATA[If you’re interested in keeping upwith the crypto world, then you’ve come to the right place to receive crypto news.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Beat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curious Cryptos’ Commentary 9th April 2023 — Thailand]]></title>
+        <id>https://medium.com/p/77f700098ae3</id>
+        <link href="https://medium.com/coinmonks/curious-cryptos-commentary-9th-april-2023-thailand-77f700098ae3?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-09T10:12:46.000Z</updated>
+        <summary type="html"><![CDATA[tl;dr]]></summary>
+        <author>
+            <name>Mark Timmis</name>
         </author>
     </entry>
     <entry>
@@ -193,16 +244,6 @@ https://www.youtube.com/watch?v=9NzXBKE2j4o]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Access Control Vulnerability and Solution in A Solidity Smart Contract]]></title>
-        <id>https://medium.com/p/e4e06b0df2ee</id>
-        <link href="https://coinsbench.com/access-control-vulnerability-and-solution-in-a-solidity-smart-contract-e4e06b0df2ee?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-06T13:38:48.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts are a crucial component of many blockchain-based systems, but they can also be vulnerable to attack. In this post, we will…]]></summary>
-        <author>
-            <name>Hala Naz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Getting Started with Streamr]]></title>
         <id>https://blog.developerdao.com/getting-started-with-streamr</id>
         <link href="https://blog.developerdao.com/getting-started-with-streamr"/>
@@ -214,36 +255,6 @@ The Functionalities
 Streamr's network consists of both off-chain and on-chain segments. The network serves …]]></summary>
         <author>
             <name>Osikhena Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Evolution: Navigating the Difference Between Web3 and Web 3.0!]]></title>
-        <id>https://medium.com/p/982b26c4a891</id>
-        <link href="https://coinsbench.com/web-evolution-navigating-the-difference-between-web3-and-web-3-0-982b26c4a891?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-05T15:28:59.000Z</updated>
-        <summary type="html"><![CDATA[Ever wondered how the internet will change in the future? Web3 and Web 3.0 are the answers you’re looking for. Decentralization and Machine…]]></summary>
-        <author>
-            <name>Farasat Ali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum’s “Shapella” upgrade and why it matters to you]]></title>
-        <id>https://medium.com/p/242577cf5b11</id>
-        <link href="https://coinsbench.com/ethereums-shapella-upgrade-and-why-its-matters-to-you-242577cf5b11?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-04T11:56:55.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum is planned to go through a major upgrade on April 12th, 2003. This upgrade dubbed “Shapella” comes with many changes but the most…]]></summary>
-        <author>
-            <name>Jae Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Correct Way To Write Tests For Your Smart Contracts, Using HardHat And Ethers-JS: Reentrancy…]]></title>
-        <id>https://medium.com/p/5438006e90a0</id>
-        <link href="https://coinsbench.com/the-correct-way-to-write-tests-for-your-smart-contracts-using-hardhat-and-ethers-js-reentrancy-5438006e90a0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-04T11:56:54.000Z</updated>
-        <summary type="html"><![CDATA[I was reading up on a few interesting topics the other day, and I found something that fascinated me: Reentrancy Attacks.]]></summary>
-        <author>
-            <name>Bashorun Dolapo</name>
         </author>
     </entry>
     <entry>
