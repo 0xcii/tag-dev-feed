@@ -18,6 +18,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/20929aeab8df",
+          "author": "Dave Costenaro",
+          "description": "Can it be done while the network is in motion?",
+          "link": "https://coinsbench.com/live-fine-tuning-of-crypto-economic-parameters-using-a-smart-contract-20929aeab8df?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-11T11:27:27.000Z",
+          "wordCount": 3782,
+          "title": "Live Fine-Tuning of Crypto-Economic Parameters Using a Smart Contract.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*5LUaiFzR-ypmrr1TM0Dt4Q.png"
+        },
+        {
+          "id": "https://medium.com/p/9f2e86a9cda",
+          "author": "Alexander Koval",
+          "description": "The context",
+          "link": "https://coinsbench.com/will-you-take-a-bet-using-smart-contract-and-how-to-make-if-safe-9f2e86a9cda?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-11T11:27:25.000Z",
+          "wordCount": 5623,
+          "title": "Will you take a bet using smart-contract and how to make if safe?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1156/1*odH9mmUk1hP4TdoEbu7nZQ.png"
+        },
+        {
+          "id": "https://medium.com/p/188d795265f9",
+          "author": "Ghazi Khan",
+          "description": "Solidity is a programming language used to write smart contracts on the Ethereum blockchain. When writing smart contracts in Solidity, one…",
+          "link": "https://coinsbench.com/understanding-solidity-gas-essential-concepts-for-efficient-smart-contract-development-188d795265f9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-11T11:27:23.000Z",
+          "wordCount": 2069,
+          "title": "Understanding Solidity Gas: Essential Concepts for Efficient Smart Contract Development",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8UhjfaY8WwD1IF2gEnnolw.png"
+        },
+        {
+          "id": "https://medium.com/p/7d26434392d3",
+          "author": "Ghazi Khan",
+          "description": "I have been learning blockchain and solidity for some months and I wanted to share my knowledge on the same. Today I want to talk about…",
+          "link": "https://coinsbench.com/whats-the-difference-between-int-and-uint-in-solidity-7d26434392d3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-11T11:27:21.000Z",
+          "wordCount": 1595,
+          "title": "What's the difference between int and uint in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jrNJfiymnZR8UhbgYMqATQ.png"
+        },
+        {
           "id": "https://medium.com/p/7e92ef276dfa",
           "author": "Madhur Shrimal",
           "description": "Last week I attended ETH Denver 2023. For folks who don’t know what that is, ETH Denver is one of the most famous Crypto conferences in…\nContinue reading on CoinsBench »",
@@ -76,46 +116,6 @@
           "wordCount": 4918,
           "title": "Developments and potential of Monad",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zFJdAvo9i4k1MISVhPT-sg.png"
-        },
-        {
-          "id": "https://medium.com/p/6be46768b5ff",
-          "author": "Alexander Obregon",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/understanding-nfts-how-they-work-under-the-hood-6be46768b5ff?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-07T13:40:41.000Z",
-          "wordCount": 1755,
-          "title": "Understanding NFTs: How They Work Under the Hood",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*sodkzGlwmcWG-E335moVQg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/6aeaa19366fb",
-          "author": "Ashwin Yardi",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/things-you-need-to-know-about-solidity-libraries-bits-by-blocks-6aeaa19366fb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-07T13:40:40.000Z",
-          "wordCount": 2727,
-          "title": "Things You Need to Know About Solidity Libraries — Bits By Blocks",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*DwbMHyetOWEU05SA"
-        },
-        {
-          "id": "https://medium.com/p/5380db734404",
-          "author": "Farasat Ali",
-          "description": "Gas is a crucial component of the Ethereum blockchain platform, as it determines the cost of executing transactions and contracts. The more…",
-          "link": "https://coinsbench.com/comprehensive-guide-tips-and-tricks-for-gas-optimization-in-solidity-5380db734404?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-07T13:40:38.000Z",
-          "wordCount": 6832,
-          "title": "Comprehensive Guide: Tips and Tricks for Gas Optimization in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-YpkxDgFb7KbwNiz031KOg.png"
-        },
-        {
-          "id": "https://medium.com/p/52e62d4ce57d",
-          "author": "Adarshswaminath",
-          "description": "This article is going to give you a couple of tips to reduce gas consumption in your smart contracts.",
-          "link": "https://coinsbench.com/solidity-gas-optimization-tips-52e62d4ce57d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-07T13:40:35.000Z",
-          "wordCount": 1774,
-          "title": "Solidity Gas Optimization Tips",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ErvwwJ0lHnfZiryB7EpNnA.jpeg"
         }
       ]
     },
@@ -125,104 +125,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/9cc6f425c0b0",
-          "author": "Amit Singh",
-          "description": "According to data from WordPress, more than 409 million people view over 20 billion WordPress pages per month. While this is staggering…",
-          "link": "https://medium.com/coinmonks/6-amazing-benefits-of-blogging-for-your-business-marketing-strategy-9cc6f425c0b0?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-10T14:07:53.000Z",
-          "wordCount": 3630,
-          "title": "6 Amazing Benefits Of Blogging For Your Business Marketing Strategy",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9rLXTXFLyh214HUaJmDMCQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/4ab3f6058740",
-          "author": "The Web3 Investor",
-          "description": "How You Could Make Serious Money Doing What You Love In Web3",
-          "link": "https://medium.com/coinmonks/35-deans-list-the-future-of-work-4ab3f6058740?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-09T10:16:01.000Z",
-          "wordCount": 3376,
-          "title": "#35 — Dean’s List: The Future Of Work",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vEujvOVmvlcB8ILjkW_PEQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/21401e96a102",
-          "author": "Johnwege",
-          "description": "There are many reasons to like Bitcoin and you probably already are aware of many of them. That there will only ever be 21 million Bitcoin…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-is-the-only-asset-you-can-truly-own-21401e96a102?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-09T10:15:24.000Z",
-          "wordCount": 967,
-          "title": "Bitcoin is the Only Asset You Can Truly Own",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*gAFNVkp_QpXZTJ-YKJMiXQ.png"
-        },
-        {
-          "id": "https://medium.com/p/9ab507f0a087",
-          "author": "AdetolaO.",
-          "description": "In 2021, the DeFi industry witnessed a groundbreaking innovation with the emergence of Solidly, an invention by Andre Cronje.",
-          "link": "https://medium.com/coinmonks/a-comprehensive-analysis-of-solidly-revolutionizing-the-defi-landscape-part-1-9ab507f0a087?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-09T10:15:14.000Z",
-          "wordCount": 2186,
-          "title": "A Comprehensive Analysis of Solidly ve (3,3): Revolutionizing the DeFi Landscape Part 1",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*uYiBFscI5vVmlahP"
-        },
-        {
-          "id": "https://medium.com/p/5546cc8093e4",
-          "author": "Mia G",
-          "description": "No matter what the haters say, cash will forever be king. Although there’s a bull market somewhere, it might feel impossible to spot so…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/why-adopting-a-cash-diet-is-essential-5546cc8093e4?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-09T10:15:06.000Z",
-          "wordCount": 977,
-          "title": "Why Adopting a Cash Diet Is Essential",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:900/1*Srf95clTdaJHaWB21EQghw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/6ad982e74549",
-          "author": "Keeley Tan",
-          "description": "Find out more about me here (YouTube/Discord/Telegram): https://www.linktr.ee/keeleytan",
-          "link": "https://medium.com/coinmonks/amd-nflx-nio-part-1-good-technical-analysis-this-week-6ad982e74549?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-09T10:14:58.000Z",
-          "wordCount": 1351,
-          "title": "#AMD #NFLX #NIO Part 1 Good Technical Analysis This Week",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*dtFPFpnwFchqvI9c"
-        },
-        {
-          "id": "https://medium.com/p/aa9c4e5b2e90",
-          "author": "SVET",
-          "description": "During the shorter week of Good Friday, corporate traders were primarily focused on technical analysis and used the market uncertainties…",
-          "link": "https://medium.com/coinmonks/svet-markets-weekly-update-april-03-07-2023-aa9c4e5b2e90?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-09T10:13:32.000Z",
-          "wordCount": 2222,
-          "title": "SVET Markets Weekly Update (April 03–07, 2023)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uXy2IxfC2RgNzhIwsL1cPQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f4762f5646b6",
-          "author": "Dollar Island",
-          "description": "The dedollarisation trend has continued to gain momentum with more countries shifting away from the US dollar in their international…",
-          "link": "https://medium.com/coinmonks/dedollarisation-in-full-swing-an-insight-to-recent-events-f4762f5646b6?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-09T10:13:16.000Z",
-          "wordCount": 3060,
-          "title": "Dedollarisation in full swing: An Insight to Recent Events",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*W6I-iM5kA4I476HL47t7bw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/278c676e69bf",
-          "author": "ZeroRequiem",
-          "description": "Congress is Losing Faith in the SEC",
-          "link": "https://medium.com/coinmonks/u-s-congressman-calls-sec-chief-gary-gensler-a-bad-faith-regulator-278c676e69bf?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-09T10:13:04.000Z",
-          "wordCount": 1997,
-          "title": "U.S. Congressman calls SEC Chief Gary Gensler a “Bad Faith Regulator”",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8VFYhLAehIw8FBWpS8icmA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ba213ab49fa7",
+          "id": "https://medium.com/p/6f0b8644331d",
           "author": "Crypto Beat",
-          "description": "If you’re interested in keeping upwith the crypto world, then you’ve come to the right place to receive crypto news.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/crypto-news-today-april-09-2023-ba213ab49fa7?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-09T10:12:55.000Z",
-          "wordCount": 984,
-          "title": "Crypto News Today — April 09, 2023",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*oiskc-MFCiTxtZqO"
+          "description": "Cryptocurrencies are a volatile market, with prices rapidly changing. Here are the top 10 cryptocurrencies by market capitalization.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/current-crypto-prices-april-11-2023-6f0b8644331d?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-11T11:49:37.000Z",
+          "wordCount": 1065,
+          "title": "Current Crypto Prices — April 11, 2023",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*7WJqGEmYfH9Pq_uF"
+        },
+        {
+          "id": "https://medium.com/p/c2b31e926473",
+          "author": "Crypto Beat",
+          "description": "The announcement of the Shanghai battery factory is a significant step forward for renewable energy and energy storage.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/elon-musk-says-tesla-will-build-shanghai-battery-factory-c2b31e926473?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-11T11:49:24.000Z",
+          "wordCount": 1348,
+          "title": "Elon Musk Says Tesla Will Build Shanghai Battery Factory",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Nb8Ok7QhAUkAaAfP"
+        },
+        {
+          "id": "https://medium.com/p/ebb2e262b3d1",
+          "author": "Crypto Beat",
+          "description": "The cryptocurrency markets are constantly in flux. Here is a list of the top 10 most active cryptocurrencies, based on 24-hour volume.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/most-active-cryptocurrency-april-11-2023-ebb2e262b3d1?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-11T11:49:11.000Z",
+          "wordCount": 1381,
+          "title": "Most Active Cryptocurrency — April 11, 2023",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*h6P62Tr1qwZ6ZNLw"
+        },
+        {
+          "id": "https://medium.com/p/36cc9f762221",
+          "author": "tianlu",
+          "description": "On March 23, Terraform Labs founder Do Kwon was arrested in Montenegro, as he is wanted in both the U.S. and South Korea in connection with",
+          "link": "https://medium.com/coinmonks/terraform-labs-founder-do-kwon-arrested-examining-the-collapse-of-terrausd-and-terraform-labs-36cc9f762221?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-11T11:49:06.000Z",
+          "wordCount": 3054,
+          "title": "Terraform Labs Founder Do Kwon Arrested: Examining the Collapse of TerraUSD and Terraform Labs",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*dYryXIj0FmYh-l-5.jpg"
+        },
+        {
+          "id": "https://medium.com/p/7f489a3ac0ca",
+          "author": "Crypto King✔️",
+          "description": "A comprehensive update on the contributions made by each department in Q1 and the latest advancements in CLI Wallet, Firefly, and…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/iota-foundations-quarterly-report-significant-progress-made-in-shimmer-network-and-coordicide-7f489a3ac0ca?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-11T11:42:59.000Z",
+          "wordCount": 1041,
+          "title": "IOTA Foundation’s Quarterly Report: Significant Progress Made in Shimmer Network and Coordicide…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Kpl2uDKpiSetGr4Aw2_xUw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/a4b1823120aa",
+          "author": "Crypto King✔️",
+          "description": "Exploring the World of Cryptocurrency: A Guide to Coinbase and Beyond",
+          "link": "https://medium.com/coinmonks/coinbase-news-tutorial-a4b1823120aa?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-11T11:42:53.000Z",
+          "wordCount": 2540,
+          "title": "Coinbase News & Tutorial",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*0G3ueEUGRZT-scpB"
+        },
+        {
+          "id": "https://medium.com/p/394401fe84ef",
+          "author": "Crypto King✔️",
+          "description": "The lawsuit is being filed on behalf of all natural and legal persons who invested in Gemini Earn. The allegations include fraudulent and…",
+          "link": "https://medium.com/coinmonks/american-law-firm-is-preparing-class-action-lawsuit-against-gemini-394401fe84ef?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-11T11:42:51.000Z",
+          "wordCount": 1681,
+          "title": "American law firm is preparing class action lawsuit against Gemini",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*sHMS6lHiKuYW3FHi"
+        },
+        {
+          "id": "https://medium.com/p/9e712398e4f",
+          "author": "Crypto King✔️",
+          "description": "IT experts create NFTs and digital wearables to raise money.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/ukrainian-crypto-groups-support-civilian-population-9e712398e4f?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-11T11:42:49.000Z",
+          "wordCount": 1051,
+          "title": "Ukrainian crypto groups support civilian population",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*I6xaKzKJ8rNzt7RE"
+        },
+        {
+          "id": "https://medium.com/p/a62610d67c5b",
+          "author": "Herry Berry",
+          "description": "Discover the top 5 altcoins to invest in for potential million-dollar returns, from low-risk to high-risk investments. Don’t miss this…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/top-5-best-coins-to-buy-now-for-potential-million-dolar-returns-a62610d67c5b?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-11T11:42:45.000Z",
+          "wordCount": 1108,
+          "title": "Top 5 Best COINS to Buy Now for Potential MILLION-DOLAR Returns",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:945/1*1rx_c9UhyOosXI2w60ilSw.png"
+        },
+        {
+          "id": "https://medium.com/p/51307778113f",
+          "author": "Graham Brooks",
+          "description": "In spite of the fact that it is currently ranked #14 among the largest cryptocurrencies in the world, the market value of Shiba Inu has…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/missed-the-shiba-inu-rocket-discover-why-2023-might-be-your-last-chance-to-board-51307778113f?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-11T11:42:43.000Z",
+          "wordCount": 1158,
+          "title": "“Missed the Shiba Inu Rocket?  Discover Why 2023 Might Be Your LAST Chance to Board! ”",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:880/1*s6aVe0119QhWl1deeOpn1w.png"
         }
       ]
     },
