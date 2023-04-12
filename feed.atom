@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T17:10:34.800Z</id>
+    <id>urn:2023-04-12T18:14:35.244Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-12T17:10:34.800Z</updated>
+    <updated>2023-04-12T18:14:35.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap V2 — Factory Smart Contract Explained]]></title>
+        <id>https://medium.com/p/9a84776ec71d</id>
+        <link href="https://coinsbench.com/uniswap-v2-factory-smart-contract-explained-9a84776ec71d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-12T17:50:40.000Z</updated>
+        <summary type="html"><![CDATA[I’m going to explain UniswapV2Factory by going through the code and we will learn how the tokens are stored and how the pairs are created
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Bloqarl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with Solidity: An Introduction to Smart Contract Programming]]></title>
+        <id>https://medium.com/p/97ac4b84536b</id>
+        <link href="https://coinsbench.com/getting-started-with-solidity-an-introduction-to-smart-contract-programming-97ac4b84536b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-12T17:50:37.000Z</updated>
+        <summary type="html"><![CDATA[Solidity is a high-level programming language that writes smart contracts on EVM chains like Ethereum. In this article, we'll introduce you…]]></summary>
+        <author>
+            <name>Lem Canady</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing DeFi: A Smart Contract Audit Framework for Decentralized Finance Protocols]]></title>
+        <id>https://medium.com/p/fb53d6b63cae</id>
+        <link href="https://coinsbench.com/securing-defi-a-smart-contract-audit-framework-for-decentralized-finance-protocols-fb53d6b63cae?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-12T17:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Decentralized Finance (DeFi) has emerged as one of the fastest-growing areas of the blockchain industry, offering new financial services…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contracts Made Simple]]></title>
+        <id>https://medium.com/p/f4797e4440eb</id>
+        <link href="https://coinsbench.com/smart-contracts-made-simple-f4797e4440eb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-12T17:50:32.000Z</updated>
+        <summary type="html"><![CDATA[“Smart Contracts Made Simple” — The Ultimate Guide to Solidity Programming]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contracts Made Simple 02: Application]]></title>
+        <id>https://medium.com/p/774df9ebad57</id>
+        <link href="https://coinsbench.com/smart-contracts-made-simple-02-a-practical-guide-to-solidity-programming-774df9ebad57?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-12T17:50:30.000Z</updated>
+        <summary type="html"><![CDATA[Smart Contracts Made Simple 02: A Practical Guide to Solidity Programming]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contracts Made Simple 01: A Practical Guide to Solidity Programming]]></title>
+        <id>https://medium.com/p/3ec38f3e202a</id>
+        <link href="https://coinsbench.com/smart-contracts-made-simple-01-a-practical-guide-to-solidity-programming-3ec38f3e202a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-12T17:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Smart Contracts Made Simple 01: A Practical Guide to Solidity Programming]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CEOs Are Dealing With A Rise In Domestic Crime & Food Inflation]]></title>
         <id>https://medium.com/p/a77616bb082d</id>
@@ -170,57 +231,6 @@ Continue reading on Block Magnates »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ETH Denver 2023: a BUIDL year]]></title>
-        <id>https://medium.com/p/7e92ef276dfa</id>
-        <link href="https://coinsbench.com/eth-denver-2023-a-buidl-year-7e92ef276dfa?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-10T10:21:44.000Z</updated>
-        <summary type="html"><![CDATA[Last week I attended ETH Denver 2023. For folks who don’t know what that is, ETH Denver is one of the most famous Crypto conferences in…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Madhur Shrimal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aṇuha : solidity gas golfing #1]]></title>
-        <id>https://medium.com/p/6e53269b03e4</id>
-        <link href="https://coinsbench.com/an%CC%A3uha-solidity-gas-golfing-1-6e53269b03e4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-10T10:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Gas Golfing #1: uint8 vs uint256]]></summary>
-        <author>
-            <name>Sudeep Sagar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FastlyBot: The Future of Frontrunning Bots]]></title>
-        <id>https://medium.com/p/248a0a12340e</id>
-        <link href="https://coinsbench.com/fastlybot-the-future-of-frontrunning-bots-248a0a12340e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-10T10:21:41.000Z</updated>
-        <summary type="html"><![CDATA[Do you wish there was an easier way to trade, you’ve come to the right place. Fastlybot’s frontrunning bot service is revolutionizing…]]></summary>
-        <author>
-            <name>OUBADI Ahmed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity SmartContract Starter: Test and Deploy with Foundry]]></title>
-        <id>https://medium.com/p/1a0bc8f4f916</id>
-        <link href="https://coinsbench.com/solidity-smartcontract-starter-create-test-and-deploy-with-foundry-1a0bc8f4f916?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-10T10:21:39.000Z</updated>
-        <summary type="html"><![CDATA[With Foundry, you can easily create, test, and deploy Solidity smart contracts on the Ethereum blockchain. Say goodbye to complex setups…]]></summary>
-        <author>
-            <name>Adarshswaminath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Crypto PR Agencies: Boost Your Blockchain Project’s Visibility with Expert PR Services]]></title>
-        <id>https://medium.com/p/c68c2710985a</id>
-        <link href="https://coinsbench.com/top-crypto-pr-agencies-c68c2710985a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-08T12:38:49.000Z</updated>
-        <summary type="html"><![CDATA[Introducing a successful public relations campaign in the dynamic and ever-evolving cryptocurrency industry can be a challenging task. With…]]></summary>
-        <author>
-            <name>Sam</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevNTell - Node Guardians]]></title>
         <id>https://blog.developerdao.com/devntell-node-guardians</id>
         <link href="https://blog.developerdao.com/devntell-node-guardians"/>
@@ -242,16 +252,6 @@ Sam's Twitter: https://twitter.com/samnode_
 https://www.youtube.com/watch?v=9NzXBKE2j4o]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developments and potential of Monad]]></title>
-        <id>https://medium.com/p/fbd7937001f1</id>
-        <link href="https://coinsbench.com/developments-and-potential-of-monad-fbd7937001f1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-07T13:40:44.000Z</updated>
-        <summary type="html"><![CDATA[The technology behind Monad: optimized store, parallel execution, and heuristics]]></summary>
-        <author>
-            <name>SkillovuU</name>
         </author>
     </entry>
     <entry>

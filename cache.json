@@ -18,6 +18,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/9a84776ec71d",
+          "author": "Bloqarl",
+          "description": "I’m going to explain UniswapV2Factory by going through the code and we will learn how the tokens are stored and how the pairs are created\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/uniswap-v2-factory-smart-contract-explained-9a84776ec71d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-12T17:50:40.000Z",
+          "wordCount": 2193,
+          "title": "Uniswap V2 — Factory Smart Contract Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Fism3Om51FutwhX0EtlVDQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/97ac4b84536b",
+          "author": "Lem Canady",
+          "description": "Solidity is a high-level programming language that writes smart contracts on EVM chains like Ethereum. In this article, we'll introduce you…",
+          "link": "https://coinsbench.com/getting-started-with-solidity-an-introduction-to-smart-contract-programming-97ac4b84536b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-12T17:50:37.000Z",
+          "wordCount": 2626,
+          "title": "Getting Started with Solidity: An Introduction to Smart Contract Programming",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*m_GtXPgzRsC3-nFo"
+        },
+        {
+          "id": "https://medium.com/p/fb53d6b63cae",
+          "author": "Solidity Academy",
+          "description": "Decentralized Finance (DeFi) has emerged as one of the fastest-growing areas of the blockchain industry, offering new financial services…",
+          "link": "https://coinsbench.com/securing-defi-a-smart-contract-audit-framework-for-decentralized-finance-protocols-fb53d6b63cae?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-12T17:50:35.000Z",
+          "wordCount": 6090,
+          "title": "Securing DeFi: A Smart Contract Audit Framework for Decentralized Finance Protocols",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*je6AdcuoIo-V1KovWNzGuA.png"
+        },
+        {
+          "id": "https://medium.com/p/f4797e4440eb",
+          "author": "Solidity Academy",
+          "description": "“Smart Contracts Made Simple” — The Ultimate Guide to Solidity Programming",
+          "link": "https://coinsbench.com/smart-contracts-made-simple-f4797e4440eb?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-12T17:50:32.000Z",
+          "wordCount": 1471,
+          "title": "Smart Contracts Made Simple",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bW-JFMq13TLLxbAjovMirg.png"
+        },
+        {
+          "id": "https://medium.com/p/774df9ebad57",
+          "author": "Solidity Academy",
+          "description": "Smart Contracts Made Simple 02: A Practical Guide to Solidity Programming",
+          "link": "https://coinsbench.com/smart-contracts-made-simple-02-a-practical-guide-to-solidity-programming-774df9ebad57?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-12T17:50:30.000Z",
+          "wordCount": 1902,
+          "title": "Smart Contracts Made Simple 02: Application",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*gEc3hFoQKCHd3TR3AlP9SA.png"
+        },
+        {
+          "id": "https://medium.com/p/3ec38f3e202a",
+          "author": "Solidity Academy",
+          "description": "Smart Contracts Made Simple 01: A Practical Guide to Solidity Programming",
+          "link": "https://coinsbench.com/smart-contracts-made-simple-01-a-practical-guide-to-solidity-programming-3ec38f3e202a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-12T17:50:27.000Z",
+          "wordCount": 2151,
+          "title": "Smart Contracts Made Simple 01: A Practical Guide to Solidity Programming",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Eyw3As1ENScBbjZuCnHmBQ.png"
+        },
+        {
           "id": "https://medium.com/p/20929aeab8df",
           "author": "Dave Costenaro",
           "description": "Can it be done while the network is in motion?",
@@ -56,66 +116,6 @@
           "wordCount": 1595,
           "title": "What's the difference between int and uint in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jrNJfiymnZR8UhbgYMqATQ.png"
-        },
-        {
-          "id": "https://medium.com/p/7e92ef276dfa",
-          "author": "Madhur Shrimal",
-          "description": "Last week I attended ETH Denver 2023. For folks who don’t know what that is, ETH Denver is one of the most famous Crypto conferences in…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/eth-denver-2023-a-buidl-year-7e92ef276dfa?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-10T10:21:44.000Z",
-          "wordCount": 2506,
-          "title": "ETH Denver 2023: a BUIDL year",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*-bBwgSwwuUZOEtGW.png"
-        },
-        {
-          "id": "https://medium.com/p/6e53269b03e4",
-          "author": "Sudeep Sagar",
-          "description": "Gas Golfing #1: uint8 vs uint256",
-          "link": "https://coinsbench.com/an%CC%A3uha-solidity-gas-golfing-1-6e53269b03e4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-10T10:21:43.000Z",
-          "wordCount": 2609,
-          "title": "aṇuha : solidity gas golfing #1",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:260/0*aiNxabPc_4xIX40y.jpg"
-        },
-        {
-          "id": "https://medium.com/p/248a0a12340e",
-          "author": "OUBADI Ahmed",
-          "description": "Do you wish there was an easier way to trade, you’ve come to the right place. Fastlybot’s frontrunning bot service is revolutionizing…",
-          "link": "https://coinsbench.com/fastlybot-the-future-of-frontrunning-bots-248a0a12340e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-10T10:21:41.000Z",
-          "wordCount": 1885,
-          "title": "FastlyBot: The Future of Frontrunning Bots",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*OgNzhyAL-Uw-r1eMbUNTvQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/1a0bc8f4f916",
-          "author": "Adarshswaminath",
-          "description": "With Foundry, you can easily create, test, and deploy Solidity smart contracts on the Ethereum blockchain. Say goodbye to complex setups…",
-          "link": "https://coinsbench.com/solidity-smartcontract-starter-create-test-and-deploy-with-foundry-1a0bc8f4f916?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-10T10:21:39.000Z",
-          "wordCount": 3628,
-          "title": "Solidity SmartContract Starter: Test and Deploy with Foundry",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*X5JnJUzf0bkUAxxkB0MZ6g.png"
-        },
-        {
-          "id": "https://medium.com/p/c68c2710985a",
-          "author": "Sam",
-          "description": "Introducing a successful public relations campaign in the dynamic and ever-evolving cryptocurrency industry can be a challenging task. With…",
-          "link": "https://coinsbench.com/top-crypto-pr-agencies-c68c2710985a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-08T12:38:49.000Z",
-          "wordCount": 4352,
-          "title": "Top Crypto PR Agencies: Boost Your Blockchain Project’s Visibility with Expert PR Services",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*noc3rGuyCaMVRkt4"
-        },
-        {
-          "id": "https://medium.com/p/fbd7937001f1",
-          "author": "SkillovuU",
-          "description": "The technology behind Monad: optimized store, parallel execution, and heuristics",
-          "link": "https://coinsbench.com/developments-and-potential-of-monad-fbd7937001f1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-07T13:40:44.000Z",
-          "wordCount": 4918,
-          "title": "Developments and potential of Monad",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zFJdAvo9i4k1MISVhPT-sg.png"
         }
       ]
     },
