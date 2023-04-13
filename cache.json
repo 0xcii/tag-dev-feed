@@ -18,6 +18,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/598e4ad9f39c",
+          "author": "Judith Manyo Ogar",
+          "description": "Do you want to build a Dapp, but don’t know how to write a smart contract? I provided a solution for you in this article.",
+          "link": "https://coinsbench.com/how-to-deploy-smart-contracts-to-the-blockchain-with-bunzz-598e4ad9f39c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-13T10:38:05.000Z",
+          "wordCount": 1749,
+          "title": "How To Deploy Smart Contracts to the blockchain with Bunzz",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*PSN36wFwCAIQp2aKgpq6VA.png"
+        },
+        {
+          "id": "https://medium.com/p/ac04408813d1",
+          "author": "Darlington Gospel",
+          "description": "If you’re looking to build a cutting-edge decentralized application that combines the power of blockchain technology, real-time…",
+          "link": "https://coinsbench.com/how-to-build-a-transparent-and-secure-lottery-dapp-with-nextjs-solidity-and-cometchat-ac04408813d1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-13T10:38:02.000Z",
+          "wordCount": 6086,
+          "title": "How to Build a Transparent and Secure Lottery DApp with NextJs, Solidity, and CometChat",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZtegG5jQ4sc2oJpcjEysbA.png"
+        },
+        {
           "id": "https://medium.com/p/9a84776ec71d",
           "author": "Bloqarl",
           "description": "I’m going to explain UniswapV2Factory by going through the code and we will learn how the tokens are stored and how the pairs are created\nContinue reading on CoinsBench »",
@@ -96,26 +116,6 @@
           "wordCount": 2069,
           "title": "Understanding Solidity Gas: Essential Concepts for Efficient Smart Contract Development",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8UhjfaY8WwD1IF2gEnnolw.png"
-        },
-        {
-          "id": "https://medium.com/p/7d26434392d3",
-          "author": "Ghazi Khan",
-          "description": "I have been learning blockchain and solidity for some months and I wanted to share my knowledge on the same. Today I want to talk about…",
-          "link": "https://coinsbench.com/whats-the-difference-between-int-and-uint-in-solidity-7d26434392d3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-11T11:27:21.000Z",
-          "wordCount": 1595,
-          "title": "What's the difference between int and uint in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jrNJfiymnZR8UhbgYMqATQ.png"
-        },
-        {
-          "id": "https://medium.com/p/7e92ef276dfa",
-          "author": "Madhur Shrimal",
-          "description": "Last week I attended ETH Denver 2023. For folks who don’t know what that is, ETH Denver is one of the most famous Crypto conferences in…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/eth-denver-2023-a-buidl-year-7e92ef276dfa?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-10T10:21:44.000Z",
-          "wordCount": 2506,
-          "title": "ETH Denver 2023: a BUIDL year",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*-bBwgSwwuUZOEtGW.png"
         }
       ]
     },

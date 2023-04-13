@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T10:12:41.687Z</id>
+    <id>urn:2023-04-13T11:10:06.092Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-13T10:12:41.687Z</updated>
+    <updated>2023-04-13T11:10:06.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How To Deploy Smart Contracts to the blockchain with Bunzz]]></title>
+        <id>https://medium.com/p/598e4ad9f39c</id>
+        <link href="https://coinsbench.com/how-to-deploy-smart-contracts-to-the-blockchain-with-bunzz-598e4ad9f39c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-13T10:38:05.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to build a Dapp, but don’t know how to write a smart contract? I provided a solution for you in this article.]]></summary>
+        <author>
+            <name>Judith Manyo Ogar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Transparent and Secure Lottery DApp with NextJs, Solidity, and CometChat]]></title>
+        <id>https://medium.com/p/ac04408813d1</id>
+        <link href="https://coinsbench.com/how-to-build-a-transparent-and-secure-lottery-dapp-with-nextjs-solidity-and-cometchat-ac04408813d1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-13T10:38:02.000Z</updated>
+        <summary type="html"><![CDATA[If you’re looking to build a cutting-edge decentralized application that combines the power of blockchain technology, real-time…]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap V2 — Factory Smart Contract Explained]]></title>
         <id>https://medium.com/p/9a84776ec71d</id>
@@ -190,16 +210,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's the difference between int and uint in Solidity]]></title>
-        <id>https://medium.com/p/7d26434392d3</id>
-        <link href="https://coinsbench.com/whats-the-difference-between-int-and-uint-in-solidity-7d26434392d3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-11T11:27:21.000Z</updated>
-        <summary type="html"><![CDATA[I have been learning blockchain and solidity for some months and I wanted to share my knowledge on the same. Today I want to talk about…]]></summary>
-        <author>
-            <name>Ghazi Khan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Implementing the ERC-2981 NFT royalty standard with Solidity — a game-changer for creators to…]]></title>
         <id>https://medium.com/p/65272f5d29ad</id>
         <link href="https://blog.blockmagnates.com/implementing-the-erc-2981-nft-royalty-standard-with-solidity-a-game-changer-for-creators-to-65272f5d29ad?source=rss----18fa961f1eff--solidity"/>
@@ -218,17 +228,6 @@ Continue reading on Block Magnates »]]></summary>
         <summary type="html"><![CDATA[Gas Golfing #2: Packing Variables]]></summary>
         <author>
             <name>Sudeep Sagar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH Denver 2023: a BUIDL year]]></title>
-        <id>https://medium.com/p/7e92ef276dfa</id>
-        <link href="https://coinsbench.com/eth-denver-2023-a-buidl-year-7e92ef276dfa?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-10T10:21:44.000Z</updated>
-        <summary type="html"><![CDATA[Last week I attended ETH Denver 2023. For folks who don’t know what that is, ETH Denver is one of the most famous Crypto conferences in…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Madhur Shrimal</name>
         </author>
     </entry>
     <entry>
