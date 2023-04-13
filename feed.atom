@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T12:24:13.215Z</id>
+    <id>urn:2023-04-13T13:15:16.342Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-13T12:24:13.215Z</updated>
+    <updated>2023-04-13T13:15:16.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to build Reddit's NFT Marketplace using Polygon and Paper 📄]]></title>
+        <id>https://blog.developerdao.com/nft-marketplace-with-paper</id>
+        <link href="https://blog.developerdao.com/nft-marketplace-with-paper"/>
+        <updated>2023-04-13T13:07:35.000Z</updated>
+        <summary type="html"><![CDATA[gm gm gm!!!
+Indeed, in the current scenario, few NFT marketplaces cater to non-web3 users, primarily due to the poor User Experience (UX) they have to face.
+A significant barrier to entry for these users is the complexity of the Web3 ecosystem, including the need to understand concepts such as wallets, private keys, and gas fees. Moreover, the onboarding process can be tedious and confusing, with users having to set up and manage wallets and acquire cryptocurrency to interact with the marketplace. To address these issues and make NFT marketplaces more accessible to non-web3 users, it's essential to focus on improving UX.
+In this guide, youll learn how to create a marketplace on Polygon and make it easy for non-crypto natives to use the marketplace by allowing them to log in with their emai…]]></summary>
+        <author>
+            <name>Megabyte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Deploy Smart Contracts to the blockchain with Bunzz]]></title>
         <id>https://medium.com/p/598e4ad9f39c</id>
