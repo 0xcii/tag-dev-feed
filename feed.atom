@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-14T17:09:33.686Z</id>
+    <id>urn:2023-04-14T18:14:13.531Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-14T17:09:33.686Z</updated>
+    <updated>2023-04-14T18:14:13.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Don’t Let Bitcoin “Change” You]]></title>
+        <id>https://medium.com/p/e14aa7ce3e6</id>
+        <link href="https://medium.com/@johnwege/dont-let-bitcoin-change-you-e14aa7ce3e6?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-14T14:38:01.000Z</updated>
+        <summary type="html"><![CDATA[Throughout the years I have written countless articles about how Bitcoin will change your life for the better once you’ve begun investing…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Johnwege</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [1/10]]]></title>
         <id>https://medium.com/p/25f86c0b92d1</id>
@@ -43,6 +54,101 @@
         <summary type="html"><![CDATA[Gas is the unit of measure for the computational effort required to execute a smart contract on the Ethereum network. Every operation in a…]]></summary>
         <author>
             <name>Kaan Kaçar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT Art Sold at $69.3 Million (The first 5000 days)]]></title>
+        <id>https://medium.com/p/4f9b9d0076c6</id>
+        <link href="https://medium.com/coinmonks/nft-art-sold-at-69-3-million-the-first-5000-days-4f9b9d0076c6?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-14T05:55:10.000Z</updated>
+        <summary type="html"><![CDATA[In a historic moment that has captivated the art world, the NFT (Non-Fungible Token) of “The First 5000 Days” by digital artist Beeple…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Nomad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Buy Stampunks on Rarestmps.xyz]]></title>
+        <id>https://medium.com/p/f1a5a4c4736e</id>
+        <link href="https://medium.com/coinmonks/how-to-buy-stampunks-on-rarestmps-xyz-f1a5a4c4736e?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-14T05:55:08.000Z</updated>
+        <summary type="html"><![CDATA[How to set up Freewallet and use it to buy Stampunks on the marketplace Rarestamp.xyz. Stamps on Bitcoin. CounterParty.]]></summary>
+        <author>
+            <name>Old School Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Idea to Launch: How to Build a Successful Decentralized Autonomous Organization (DAO)- Part 2]]></title>
+        <id>https://medium.com/p/29175aefa156</id>
+        <link href="https://medium.com/coinmonks/from-idea-to-launch-how-to-build-a-successful-decentralized-autonomous-organization-dao-part-2-29175aefa156?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-14T05:55:05.000Z</updated>
+        <summary type="html"><![CDATA[So you have a brilliant idea and have decided that a Decentralized Autonomous Organization (DAO) is the best way to bring it to life…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Decentralist.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Blocks: An Index Report on the Explosive Growth of Diversified Blockchain Services]]></title>
+        <id>https://medium.com/p/5c662d6872c7</id>
+        <link href="https://medium.com/coinmonks/building-blocks-an-index-report-on-the-explosive-growth-of-diversified-blockchain-services-5c662d6872c7?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-14T05:55:02.000Z</updated>
+        <summary type="html"><![CDATA[A Report that Explains How the DBS9 Index Can Help Investors Diversify Their Portfolio and Capture the Long-Term Trends and Performance.]]></summary>
+        <author>
+            <name>Jessiecat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightning Invoices]]></title>
+        <id>https://medium.com/p/bd7210f25012</id>
+        <link href="https://medium.com/coinmonks/lightning-invoices-bd7210f25012?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-14T05:54:59.000Z</updated>
+        <summary type="html"><![CDATA[A Lightning invoice is a payment request that includes a payment hash and a preimage, which the payer must provide to settle the invoice.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Mabel Oza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightning Network & Delays]]></title>
+        <id>https://medium.com/p/1208a463f9b6</id>
+        <link href="https://medium.com/coinmonks/lightning-network-delays-1208a463f9b6?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-14T05:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Delays in the Lightning Network are security measures that prevent inaccuracies and cheating from being published on the mainnet Bitcoin…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Mabel Oza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edition of series on security audits: Risk of precompiled contracts]]></title>
+        <id>https://medium.com/p/c99b64006cef</id>
+        <link href="https://medium.com/coinmonks/edition-of-series-on-security-audits-risk-of-precompiled-contracts-c99b64006cef?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-14T05:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Moonbeam received a critical vulnerability in precompiled contracts in May 2022 from white hat hacker pwning.eth, which might allow…]]></summary>
+        <author>
+            <name>Harbor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Earning $500/Month By Automating Medium Using WriteSonic. Part-1]]></title>
+        <id>https://medium.com/p/5f60ddbcb064</id>
+        <link href="https://medium.com/coinmonks/earning-500-month-by-automating-medium-using-writesonic-part-1-5f60ddbcb064?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-14T05:54:46.000Z</updated>
+        <summary type="html"><![CDATA[Introduction of ChatSonic API]]></summary>
+        <author>
+            <name>Aman Kushwaha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Priceless Insurance Everyone Needs More Of]]></title>
+        <id>https://medium.com/p/f31326a1866b</id>
+        <link href="https://medium.com/coinmonks/the-ultimate-priceless-insurance-everyone-needs-more-of-f31326a1866b?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-14T05:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Real protective insurance isn’t just sold in a complex package by an agent or provider to protect your belongings and loved ones.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Mia G</name>
         </author>
     </entry>
     <entry>
