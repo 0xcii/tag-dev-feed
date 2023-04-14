@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-14T08:14:51.830Z</id>
+    <id>urn:2023-04-14T09:11:46.714Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-14T08:14:51.830Z</updated>
+    <updated>2023-04-14T09:11:46.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [1/10]]]></title>
+        <id>https://medium.com/p/25f86c0b92d1</id>
+        <link href="https://blog.blockmagnates.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-1-10-25f86c0b92d1?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-04-14T08:46:12.000Z</updated>
+        <summary type="html"><![CDATA[If you are seeking a tutorial-oriented guide for Smart Contract Upgrades and Proxy Patterns, then this is the article that you have been…]]></summary>
+        <author>
+            <name>Amir Doreh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create an Ethereum Wallet, complete with 12 seed phrases and a private key with ethers.js]]></title>
+        <id>https://medium.com/p/49c29a7bc5b3</id>
+        <link href="https://coinsbench.com/create-an-ethereum-wallet-complete-with-12-seed-phrases-and-a-private-key-with-ethers-js-49c29a7bc5b3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-14T08:44:47.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum address is the “public” address that you would need to receive funds from another address through network. We cannot see our…]]></summary>
+        <author>
+            <name>alvin Christianto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rollups Explained in Simple Terms]]></title>
+        <id>https://medium.com/p/c51e1054b0af</id>
+        <link href="https://coinsbench.com/rollups-explained-in-simple-terms-c51e1054b0af?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-14T08:44:43.000Z</updated>
+        <summary type="html"><![CDATA[The growth of decentralized applications and the increasing number of users on the Ethereum network has brought with it an array of…]]></summary>
+        <author>
+            <name>Galien Dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximizing Smart Contract Efficiency with Gas Optimization]]></title>
+        <id>https://medium.com/p/e1b893c64d35</id>
+        <link href="https://coinsbench.com/maximizing-smart-contract-efficiency-with-gas-optimization-e1b893c64d35?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-14T08:44:37.000Z</updated>
+        <summary type="html"><![CDATA[Gas is the unit of measure for the computational effort required to execute a smart contract on the Ethereum network. Every operation in a…]]></summary>
+        <author>
+            <name>Kaan Kaçar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to build Reddit's NFT Marketplace using Polygon and Paper 📄]]></title>
         <id>https://blog.developerdao.com/nft-marketplace-with-paper</id>
@@ -87,36 +127,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Smart Contracts Made Simple 02: A Practical Guide to Solidity Programming]]></summary>
         <author>
             <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contracts Made Simple 01: A Practical Guide to Solidity Programming]]></title>
-        <id>https://medium.com/p/3ec38f3e202a</id>
-        <link href="https://coinsbench.com/smart-contracts-made-simple-01-a-practical-guide-to-solidity-programming-3ec38f3e202a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-12T17:50:27.000Z</updated>
-        <summary type="html"><![CDATA[Smart Contracts Made Simple 01: A Practical Guide to Solidity Programming]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will you take a bet using smart-contract and how to make if safe?]]></title>
-        <id>https://medium.com/p/9f2e86a9cda</id>
-        <link href="https://coinsbench.com/will-you-take-a-bet-using-smart-contract-and-how-to-make-if-safe-9f2e86a9cda?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-11T11:27:25.000Z</updated>
-        <summary type="html"><![CDATA[The context]]></summary>
-        <author>
-            <name>Alexander Koval</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Solidity Gas: Essential Concepts for Efficient Smart Contract Development]]></title>
-        <id>https://medium.com/p/188d795265f9</id>
-        <link href="https://coinsbench.com/understanding-solidity-gas-essential-concepts-for-efficient-smart-contract-development-188d795265f9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-11T11:27:23.000Z</updated>
-        <summary type="html"><![CDATA[Solidity is a programming language used to write smart contracts on the Ethereum blockchain. When writing smart contracts in Solidity, one…]]></summary>
-        <author>
-            <name>Ghazi Khan</name>
         </author>
     </entry>
     <entry>
