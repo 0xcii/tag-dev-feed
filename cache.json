@@ -18,6 +18,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1f91eed939e2",
+          "author": "Maxim Vasilkov",
+          "description": "Hey there, future smart contract explorer! You must be curious about those magical things called smart contracts that power decentralized…",
+          "link": "https://coinsbench.com/summoning-chatgpt-your-trusty-guide-to-understanding-smart-contracts-how-to-1f91eed939e2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-15T10:45:52.000Z",
+          "wordCount": 5131,
+          "title": "Summoning ChatGPT: Your Trusty Guide to Understanding Smart Contracts. How to?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*SvvsNRpaXu6uLaB-HWsHgw.png"
+        },
+        {
+          "id": "https://medium.com/p/6c023fbd5896",
+          "author": "Rohit Goyal",
+          "description": "Do you find yourself struggling with the efficiency of reading data from large arrays in smart contracts? fear not, I have a trick up my",
+          "link": "https://coinsbench.com/how-to-get-array-data-in-solidity-without-using-for-loop-6c023fbd5896?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-15T10:45:14.000Z",
+          "wordCount": 1665,
+          "title": "How To Get Array Data In Solidity Without Using For Loop",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9q3a1yzf5z48C8TI"
+        },
+        {
+          "id": "https://medium.com/p/ecb58f0c8f5d",
+          "author": "Judith Manyo Ogar",
+          "description": "Time to say goodbye to Ethereum scalability problem with polygon zkEVM.",
+          "link": "https://coinsbench.com/beginners-guide-to-understanding-polygon-zkevm-part-1-ecb58f0c8f5d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-15T10:45:12.000Z",
+          "wordCount": 2655,
+          "title": "Beginners guide to understanding Polygon zkEVM (PART 1)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Arf0-afflohmQ5iWbm8ypQ.png"
+        },
+        {
+          "id": "https://medium.com/p/d6b5ab5416cc",
+          "author": "Bloqarl",
+          "description": "It felt like the knowledge I had before I started the course and the knowledge after finishing Part 1 had taken me to a next level.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/smart-contract-hacking-course-how-defi-lessons-changed-everything-d6b5ab5416cc?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-15T10:45:10.000Z",
+          "wordCount": 2453,
+          "title": "Smart Contract Hacking course: How DeFi lessons changed everything",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*86gaR8rPM204zrptm0eEYg.jpeg"
+        },
+        {
           "id": "https://medium.com/p/49c29a7bc5b3",
           "author": "alvin Christianto",
           "description": "The Ethereum address is the “public” address that you would need to receive funds from another address through network. We cannot see our…",
@@ -76,46 +116,6 @@
           "wordCount": 2193,
           "title": "Uniswap V2 — Factory Smart Contract Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Fism3Om51FutwhX0EtlVDQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/97ac4b84536b",
-          "author": "Lem Canady",
-          "description": "Solidity is a high-level programming language that writes smart contracts on EVM chains like Ethereum. In this article, we'll introduce you…",
-          "link": "https://coinsbench.com/getting-started-with-solidity-an-introduction-to-smart-contract-programming-97ac4b84536b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-12T17:50:37.000Z",
-          "wordCount": 2626,
-          "title": "Getting Started with Solidity: An Introduction to Smart Contract Programming",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*m_GtXPgzRsC3-nFo"
-        },
-        {
-          "id": "https://medium.com/p/fb53d6b63cae",
-          "author": "Solidity Academy",
-          "description": "Decentralized Finance (DeFi) has emerged as one of the fastest-growing areas of the blockchain industry, offering new financial services…",
-          "link": "https://coinsbench.com/securing-defi-a-smart-contract-audit-framework-for-decentralized-finance-protocols-fb53d6b63cae?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-12T17:50:35.000Z",
-          "wordCount": 6090,
-          "title": "Securing DeFi: A Smart Contract Audit Framework for Decentralized Finance Protocols",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*je6AdcuoIo-V1KovWNzGuA.png"
-        },
-        {
-          "id": "https://medium.com/p/f4797e4440eb",
-          "author": "Solidity Academy",
-          "description": "“Smart Contracts Made Simple” — The Ultimate Guide to Solidity Programming",
-          "link": "https://coinsbench.com/smart-contracts-made-simple-f4797e4440eb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-12T17:50:32.000Z",
-          "wordCount": 1471,
-          "title": "Smart Contracts Made Simple",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bW-JFMq13TLLxbAjovMirg.png"
-        },
-        {
-          "id": "https://medium.com/p/774df9ebad57",
-          "author": "Solidity Academy",
-          "description": "Smart Contracts Made Simple 02: A Practical Guide to Solidity Programming",
-          "link": "https://coinsbench.com/smart-contracts-made-simple-02-a-practical-guide-to-solidity-programming-774df9ebad57?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-12T17:50:30.000Z",
-          "wordCount": 1902,
-          "title": "Smart Contracts Made Simple 02: Application",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*gEc3hFoQKCHd3TR3AlP9SA.png"
         }
       ]
     },
@@ -150,7 +150,7 @@
           "description": "How to set up Freewallet and use it to buy Stampunks on the marketplace Rarestamp.xyz. Stamps on Bitcoin. CounterParty.",
           "link": "https://medium.com/coinmonks/how-to-buy-stampunks-on-rarestmps-xyz-f1a5a4c4736e?source=rss----721b17443fd5---4",
           "publishedOn": "2023-04-14T05:55:08.000Z",
-          "wordCount": 1586,
+          "wordCount": 1697,
           "title": "How to Buy Stampunks on Rarestmps.xyz",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*MdYMxAHQ_Kez-EKsDKsQFg.png"
         },
@@ -160,7 +160,7 @@
           "description": "So you have a brilliant idea and have decided that a Decentralized Autonomous Organization (DAO) is the best way to bring it to life…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/from-idea-to-launch-how-to-build-a-successful-decentralized-autonomous-organization-dao-part-2-29175aefa156?source=rss----721b17443fd5---4",
           "publishedOn": "2023-04-14T05:55:05.000Z",
-          "wordCount": 1022,
+          "wordCount": 1129,
           "title": "From Idea to Launch: How to Build a Successful Decentralized Autonomous Organization (DAO)- Part 2",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:872/1*xECf6nE8nU3674fJsDwH-Q.jpeg"
         },

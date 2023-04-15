@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T10:11:48.262Z</id>
+    <id>urn:2023-04-15T11:09:26.277Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-15T10:11:48.262Z</updated>
+    <updated>2023-04-15T11:09:26.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Summoning ChatGPT: Your Trusty Guide to Understanding Smart Contracts. How to?]]></title>
+        <id>https://medium.com/p/1f91eed939e2</id>
+        <link href="https://coinsbench.com/summoning-chatgpt-your-trusty-guide-to-understanding-smart-contracts-how-to-1f91eed939e2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-15T10:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Hey there, future smart contract explorer! You must be curious about those magical things called smart contracts that power decentralized…]]></summary>
+        <author>
+            <name>Maxim Vasilkov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Get Array Data In Solidity Without Using For Loop]]></title>
+        <id>https://medium.com/p/6c023fbd5896</id>
+        <link href="https://coinsbench.com/how-to-get-array-data-in-solidity-without-using-for-loop-6c023fbd5896?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-15T10:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Do you find yourself struggling with the efficiency of reading data from large arrays in smart contracts? fear not, I have a trick up my]]></summary>
+        <author>
+            <name>Rohit Goyal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beginners guide to understanding Polygon zkEVM (PART 1)]]></title>
+        <id>https://medium.com/p/ecb58f0c8f5d</id>
+        <link href="https://coinsbench.com/beginners-guide-to-understanding-polygon-zkevm-part-1-ecb58f0c8f5d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-15T10:45:12.000Z</updated>
+        <summary type="html"><![CDATA[Time to say goodbye to Ethereum scalability problem with polygon zkEVM.]]></summary>
+        <author>
+            <name>Judith Manyo Ogar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Hacking course: How DeFi lessons changed everything]]></title>
+        <id>https://medium.com/p/d6b5ab5416cc</id>
+        <link href="https://coinsbench.com/smart-contract-hacking-course-how-defi-lessons-changed-everything-d6b5ab5416cc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-15T10:45:10.000Z</updated>
+        <summary type="html"><![CDATA[It felt like the knowledge I had before I started the course and the knowledge after finishing Part 1 had taken me to a next level.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Bloqarl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevNTell - Spect's Web3 Forms]]></title>
         <id>https://blog.developerdao.com/devntell-spects-web3-forms</id>
@@ -219,46 +260,6 @@ In this guide, youll learn how to create a marketplace on Polygon and make it ea
 Continue reading on CoinsBench »]]></summary>
         <author>
             <name>Bloqarl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with Solidity: An Introduction to Smart Contract Programming]]></title>
-        <id>https://medium.com/p/97ac4b84536b</id>
-        <link href="https://coinsbench.com/getting-started-with-solidity-an-introduction-to-smart-contract-programming-97ac4b84536b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-12T17:50:37.000Z</updated>
-        <summary type="html"><![CDATA[Solidity is a high-level programming language that writes smart contracts on EVM chains like Ethereum. In this article, we'll introduce you…]]></summary>
-        <author>
-            <name>Lem Canady</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing DeFi: A Smart Contract Audit Framework for Decentralized Finance Protocols]]></title>
-        <id>https://medium.com/p/fb53d6b63cae</id>
-        <link href="https://coinsbench.com/securing-defi-a-smart-contract-audit-framework-for-decentralized-finance-protocols-fb53d6b63cae?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-12T17:50:35.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized Finance (DeFi) has emerged as one of the fastest-growing areas of the blockchain industry, offering new financial services…]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contracts Made Simple]]></title>
-        <id>https://medium.com/p/f4797e4440eb</id>
-        <link href="https://coinsbench.com/smart-contracts-made-simple-f4797e4440eb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-12T17:50:32.000Z</updated>
-        <summary type="html"><![CDATA[“Smart Contracts Made Simple” — The Ultimate Guide to Solidity Programming]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contracts Made Simple 02: Application]]></title>
-        <id>https://medium.com/p/774df9ebad57</id>
-        <link href="https://coinsbench.com/smart-contracts-made-simple-02-a-practical-guide-to-solidity-programming-774df9ebad57?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-12T17:50:30.000Z</updated>
-        <summary type="html"><![CDATA[Smart Contracts Made Simple 02: A Practical Guide to Solidity Programming]]></summary>
-        <author>
-            <name>Solidity Academy</name>
         </author>
     </entry>
     <entry>
