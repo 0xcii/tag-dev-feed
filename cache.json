@@ -68,16 +68,6 @@
           "imageUrl": "https://miro.medium.com/v2/resize:fit:620/1*8xWuCNekcx62ktxasXNDtw.png"
         },
         {
-          "id": "https://medium.com/p/c51e1054b0af",
-          "author": "Galien Dev",
-          "description": "The growth of decentralized applications and the increasing number of users on the Ethereum network has brought with it an array of…",
-          "link": "https://coinsbench.com/rollups-explained-in-simple-terms-c51e1054b0af?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-14T08:44:43.000Z",
-          "wordCount": 2296,
-          "title": "Rollups Explained in Simple Terms",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*DF5UA-7KdCDjg8dKi5PyfA.png"
-        },
-        {
           "id": "https://medium.com/p/e1b893c64d35",
           "author": "Kaan Kaçar",
           "description": "Gas is the unit of measure for the computational effort required to execute a smart contract on the Ethereum network. Every operation in a…",
@@ -116,6 +106,16 @@
           "wordCount": 2193,
           "title": "Uniswap V2 — Factory Smart Contract Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Fism3Om51FutwhX0EtlVDQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/97ac4b84536b",
+          "author": "Lem Canady",
+          "description": "Solidity is a high-level programming language that writes smart contracts on EVM chains like Ethereum. In this article, we'll introduce you…",
+          "link": "https://coinsbench.com/getting-started-with-solidity-an-introduction-to-smart-contract-programming-97ac4b84536b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-12T17:50:37.000Z",
+          "wordCount": 2626,
+          "title": "Getting Started with Solidity: An Introduction to Smart Contract Programming",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*m_GtXPgzRsC3-nFo"
         }
       ]
     },
@@ -160,7 +160,7 @@
           "description": "So you have a brilliant idea and have decided that a Decentralized Autonomous Organization (DAO) is the best way to bring it to life…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/from-idea-to-launch-how-to-build-a-successful-decentralized-autonomous-organization-dao-part-2-29175aefa156?source=rss----721b17443fd5---4",
           "publishedOn": "2023-04-14T05:55:05.000Z",
-          "wordCount": 1129,
+          "wordCount": 1022,
           "title": "From Idea to Launch: How to Build a Successful Decentralized Autonomous Organization (DAO)- Part 2",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:872/1*xECf6nE8nU3674fJsDwH-Q.jpeg"
         },
