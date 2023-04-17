@@ -18,6 +18,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/f6db8dc604de",
+          "author": "Bloqarl",
+          "description": "Firstly, I am going to help you understand in a simple way what is a reentrancy attack and how you can prevent it, and then…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-vulnerabilities-1-reentrancy-attacks-lets-understand-them-and-prevent-them-f6db8dc604de?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-17T10:10:59.000Z",
+          "wordCount": 3752,
+          "title": "Solidity vulnerabilities #1: Reentrancy attacks — Let’s understand them and prevent them.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*CFZtCn-ilIlVBs_DW3Bo5g.png"
+        },
+        {
+          "id": "https://medium.com/p/abc73b0768fc",
+          "author": "Chris",
+          "description": "An orderbook is a mechanism used by exchanges to list and match buy and sell orders for assets. In the context of a DEX, it serves as the…",
+          "link": "https://coinsbench.com/orderbook-smart-contract-creating-an-erc20-compatible-dex-on-ethereum-abc73b0768fc?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-17T10:10:58.000Z",
+          "wordCount": 14189,
+          "title": "Orderbook Smart Contract: Creating an ERC20-Compatible DEX on Ethereum",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*cicTqDFXmKqIyikK.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/14c6c82f7f4b",
+          "author": "Amir Doreh",
+          "description": "Previously, we discussed the definitions, fundamentals, and norms related to Proxies in our past articles. We then elaborated on “Eternal…",
+          "link": "https://coinsbench.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-3-10-14c6c82f7f4b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-17T10:10:55.000Z",
+          "wordCount": 2643,
+          "title": "Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [3/10]",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:500/1*i6OnUmnsoJWPwp6AvE3uRw.gif"
+        },
+        {
+          "id": "https://medium.com/p/cf3e67603055",
+          "author": "ChainGPT",
+          "description": "Smart contracts are unstoppable, allowing you full control of the app you build. It WAS not for everyone, until AIs team up with us.",
+          "link": "https://coinsbench.com/revolutionizing-smart-contracts-with-gpt4-and-perplexity-ai-cf3e67603055?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-17T10:10:54.000Z",
+          "wordCount": 2947,
+          "title": "Revolutionizing Smart Contracts with GPT4 and Perplexity AI",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*UZQfflmC_gT9hxucHdoDIQ.png"
+        },
+        {
           "id": "https://medium.com/p/1f91eed939e2",
           "author": "Maxim Vasilkov",
           "description": "Hey there, future smart contract explorer! You must be curious about those magical things called smart contracts that power decentralized…",
@@ -76,46 +116,6 @@
           "wordCount": 2401,
           "title": "Maximizing Smart Contract Efficiency with Gas Optimization",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*enoqGrT3jeJWJw74dAdizQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/598e4ad9f39c",
-          "author": "Judith Manyo Ogar",
-          "description": "Do you want to build a Dapp, but don’t know how to write a smart contract? I provided a solution for you in this article.",
-          "link": "https://coinsbench.com/how-to-deploy-smart-contracts-to-the-blockchain-with-bunzz-598e4ad9f39c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-13T10:38:05.000Z",
-          "wordCount": 1749,
-          "title": "How To Deploy Smart Contracts to the blockchain with Bunzz",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*PSN36wFwCAIQp2aKgpq6VA.png"
-        },
-        {
-          "id": "https://medium.com/p/ac04408813d1",
-          "author": "Darlington Gospel",
-          "description": "If you’re looking to build a cutting-edge decentralized application that combines the power of blockchain technology, real-time…",
-          "link": "https://coinsbench.com/how-to-build-a-transparent-and-secure-lottery-dapp-with-nextjs-solidity-and-cometchat-ac04408813d1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-13T10:38:02.000Z",
-          "wordCount": 6086,
-          "title": "How to Build a Transparent and Secure Lottery DApp with NextJs, Solidity, and CometChat",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZtegG5jQ4sc2oJpcjEysbA.png"
-        },
-        {
-          "id": "https://medium.com/p/9a84776ec71d",
-          "author": "Bloqarl",
-          "description": "I’m going to explain UniswapV2Factory by going through the code and we will learn how the tokens are stored and how the pairs are created\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/uniswap-v2-factory-smart-contract-explained-9a84776ec71d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-12T17:50:40.000Z",
-          "wordCount": 2195,
-          "title": "Uniswap V2 — Factory Smart Contract Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Fism3Om51FutwhX0EtlVDQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/97ac4b84536b",
-          "author": "Lem Canady",
-          "description": "Solidity is a high-level programming language that writes smart contracts on EVM chains like Ethereum. In this article, we'll introduce you…",
-          "link": "https://coinsbench.com/getting-started-with-solidity-an-introduction-to-smart-contract-programming-97ac4b84536b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-12T17:50:37.000Z",
-          "wordCount": 2626,
-          "title": "Getting Started with Solidity: An Introduction to Smart Contract Programming",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*m_GtXPgzRsC3-nFo"
         }
       ]
     },
@@ -124,6 +124,16 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/2fb8bd62db5c",
+          "author": "Divyasshree",
+          "description": "From Blockchain Explorer to Network Analysis: Maximizing the Benefits of Blockchain with the Best Analysis Tools Available",
+          "link": "https://medium.com/coinmonks/12-best-blockchain-analysis-tools-2fb8bd62db5c?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-17T10:41:53.000Z",
+          "wordCount": 5577,
+          "title": "12 Best Blockchain Analysis Tools",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*cOsyFQc6IGwW_Tmr"
+        },
         {
           "id": "https://medium.com/p/86798debb353",
           "author": "PVMihalache",
@@ -213,16 +223,6 @@
           "wordCount": 2174,
           "title": "Is the most influential person in the world too drunk on power?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*N_RVsbmlF9CpeW_S"
-        },
-        {
-          "id": "https://medium.com/p/6a39fbb4b213",
-          "author": "Amit Singh",
-          "description": "Looking to grow your small business?",
-          "link": "https://medium.com/coinmonks/how-to-make-your-small-business-stand-out-6a39fbb4b213?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-17T07:11:41.000Z",
-          "wordCount": 3913,
-          "title": "How To Make Your Small Business Stand Out",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Uyxi4an_LxZl4r9FgrCxjg.jpeg"
         }
       ]
     },

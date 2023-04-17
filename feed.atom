@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-17T10:13:17.938Z</id>
+    <id>urn:2023-04-17T11:10:33.641Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-17T10:13:17.938Z</updated>
+    <updated>2023-04-17T11:10:33.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[12 Best Blockchain Analysis Tools]]></title>
+        <id>https://medium.com/p/2fb8bd62db5c</id>
+        <link href="https://medium.com/coinmonks/12-best-blockchain-analysis-tools-2fb8bd62db5c?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-17T10:41:53.000Z</updated>
+        <summary type="html"><![CDATA[From Blockchain Explorer to Network Analysis: Maximizing the Benefits of Blockchain with the Best Analysis Tools Available]]></summary>
+        <author>
+            <name>Divyasshree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity vulnerabilities #1: Reentrancy attacks — Let’s understand them and prevent them.]]></title>
+        <id>https://medium.com/p/f6db8dc604de</id>
+        <link href="https://coinsbench.com/solidity-vulnerabilities-1-reentrancy-attacks-lets-understand-them-and-prevent-them-f6db8dc604de?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-17T10:10:59.000Z</updated>
+        <summary type="html"><![CDATA[Firstly, I am going to help you understand in a simple way what is a reentrancy attack and how you can prevent it, and then…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Bloqarl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orderbook Smart Contract: Creating an ERC20-Compatible DEX on Ethereum]]></title>
+        <id>https://medium.com/p/abc73b0768fc</id>
+        <link href="https://coinsbench.com/orderbook-smart-contract-creating-an-erc20-compatible-dex-on-ethereum-abc73b0768fc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-17T10:10:58.000Z</updated>
+        <summary type="html"><![CDATA[An orderbook is a mechanism used by exchanges to list and match buy and sell orders for assets. In the context of a DEX, it serves as the…]]></summary>
+        <author>
+            <name>Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [3/10]]]></title>
+        <id>https://medium.com/p/14c6c82f7f4b</id>
+        <link href="https://coinsbench.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-3-10-14c6c82f7f4b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-17T10:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Previously, we discussed the definitions, fundamentals, and norms related to Proxies in our past articles. We then elaborated on “Eternal…]]></summary>
+        <author>
+            <name>Amir Doreh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing Smart Contracts with GPT4 and Perplexity AI]]></title>
+        <id>https://medium.com/p/cf3e67603055</id>
+        <link href="https://coinsbench.com/revolutionizing-smart-contracts-with-gpt4-and-perplexity-ai-cf3e67603055?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-17T10:10:54.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts are unstoppable, allowing you full control of the app you build. It WAS not for everyone, until AIs team up with us.]]></summary>
+        <author>
+            <name>ChainGPT</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deploy contract on Base Goerli]]></title>
         <id>https://medium.com/p/5a559cc5e82a</id>
@@ -109,16 +160,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Elon Musk is the entrepreneur of our generation.]]></summary>
         <author>
             <name>Durwin Ho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Make Your Small Business Stand Out]]></title>
-        <id>https://medium.com/p/6a39fbb4b213</id>
-        <link href="https://medium.com/coinmonks/how-to-make-your-small-business-stand-out-6a39fbb4b213?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-17T07:11:41.000Z</updated>
-        <summary type="html"><![CDATA[Looking to grow your small business?]]></summary>
-        <author>
-            <name>Amit Singh</name>
         </author>
     </entry>
     <entry>
@@ -229,47 +270,6 @@ A significant barrier to entry for these users is the complexity of the Web3 eco
 In this guide, youll learn how to create a marketplace on Polygon and make it easy for non-crypto natives to use the marketplace by allowing them to log in with their emai…]]></summary>
         <author>
             <name>Megabyte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Deploy Smart Contracts to the blockchain with Bunzz]]></title>
-        <id>https://medium.com/p/598e4ad9f39c</id>
-        <link href="https://coinsbench.com/how-to-deploy-smart-contracts-to-the-blockchain-with-bunzz-598e4ad9f39c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-13T10:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Do you want to build a Dapp, but don’t know how to write a smart contract? I provided a solution for you in this article.]]></summary>
-        <author>
-            <name>Judith Manyo Ogar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Transparent and Secure Lottery DApp with NextJs, Solidity, and CometChat]]></title>
-        <id>https://medium.com/p/ac04408813d1</id>
-        <link href="https://coinsbench.com/how-to-build-a-transparent-and-secure-lottery-dapp-with-nextjs-solidity-and-cometchat-ac04408813d1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-13T10:38:02.000Z</updated>
-        <summary type="html"><![CDATA[If you’re looking to build a cutting-edge decentralized application that combines the power of blockchain technology, real-time…]]></summary>
-        <author>
-            <name>Darlington Gospel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap V2 — Factory Smart Contract Explained]]></title>
-        <id>https://medium.com/p/9a84776ec71d</id>
-        <link href="https://coinsbench.com/uniswap-v2-factory-smart-contract-explained-9a84776ec71d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-12T17:50:40.000Z</updated>
-        <summary type="html"><![CDATA[I’m going to explain UniswapV2Factory by going through the code and we will learn how the tokens are stored and how the pairs are created
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Bloqarl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with Solidity: An Introduction to Smart Contract Programming]]></title>
-        <id>https://medium.com/p/97ac4b84536b</id>
-        <link href="https://coinsbench.com/getting-started-with-solidity-an-introduction-to-smart-contract-programming-97ac4b84536b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-12T17:50:37.000Z</updated>
-        <summary type="html"><![CDATA[Solidity is a high-level programming language that writes smart contracts on EVM chains like Ethereum. In this article, we'll introduce you…]]></summary>
-        <author>
-            <name>Lem Canady</name>
         </author>
     </entry>
     <entry>
