@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T11:10:43.039Z</id>
+    <id>urn:2023-04-19T12:23:51.150Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-19T11:10:43.039Z</updated>
+    <updated>2023-04-19T12:23:51.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave-V3 — DeFi Protocol’s code explained. Part 1— Pool.sol]]></title>
+        <id>https://medium.com/p/bfa87ef6bece</id>
+        <link href="https://coinsbench.com/aave-v3-defi-protocols-code-explained-part-1-pool-sol-bfa87ef6bece?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-19T11:55:09.000Z</updated>
+        <summary type="html"><![CDATA[All new protocols forked from Aave will be based in the same code and if you end up auditing one of them, you’ll already be familiar
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Bloqarl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying the SWC Registry, SWC-110]]></title>
+        <id>https://medium.com/p/b7570e51d130</id>
+        <link href="https://coinsbench.com/demystifying-the-swc-registry-swc-110-b7570e51d130?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-19T11:55:07.000Z</updated>
+        <summary type="html"><![CDATA[SWC-110: Assert Violation]]></summary>
+        <author>
+            <name>CryptoStaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating dApps Using Smart Contracts and Blockchain Technology]]></title>
+        <id>https://medium.com/p/af4a33d9700</id>
+        <link href="https://coinsbench.com/creating-dapps-using-smart-contracts-and-blockchain-technology-af4a33d9700?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-19T11:54:51.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered what went into the process of creating a dApp using Smart Contracts and Blockchain Technology? We will lightly cover the…]]></summary>
+        <author>
+            <name>Shawn Chambers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [4/10]]]></title>
+        <id>https://medium.com/p/4e74fa1831a5</id>
+        <link href="https://coinsbench.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-4-10-4e74fa1831a5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-19T11:54:46.000Z</updated>
+        <summary type="html"><![CDATA[In our preceding written piece, we presented the initial instances of both Proxy and Eternal Storage without Proxy, as well as our…]]></summary>
+        <author>
+            <name>Amir Doreh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Step-by-Step Guide on How I Used AI to Predict Crypto Market Trends and Make a Fortune]]></title>
         <id>https://medium.com/p/230acd0bcb04</id>
@@ -190,27 +231,6 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beginners guide to understanding Polygon zkEVM (PART 1)]]></title>
-        <id>https://medium.com/p/ecb58f0c8f5d</id>
-        <link href="https://coinsbench.com/beginners-guide-to-understanding-polygon-zkevm-part-1-ecb58f0c8f5d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-15T10:45:12.000Z</updated>
-        <summary type="html"><![CDATA[Time to say goodbye to Ethereum scalability problem with polygon zkEVM.]]></summary>
-        <author>
-            <name>Judith Manyo Ogar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract Hacking course: How DeFi lessons changed everything]]></title>
-        <id>https://medium.com/p/d6b5ab5416cc</id>
-        <link href="https://coinsbench.com/smart-contract-hacking-course-how-defi-lessons-changed-everything-d6b5ab5416cc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-15T10:45:10.000Z</updated>
-        <summary type="html"><![CDATA[It felt like the knowledge I had before I started the course and the knowledge after finishing Part 1 had taken me to a next level.
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Bloqarl</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevNTell - Spect's Web3 Forms]]></title>
         <id>https://blog.developerdao.com/devntell-spects-web3-forms</id>
         <link href="https://blog.developerdao.com/devntell-spects-web3-forms"/>
@@ -244,26 +264,6 @@ https://www.youtube.com/watch?v=WsADjAvoQjs]]></summary>
         <summary type="html"><![CDATA[If you are seeking a tutorial-oriented guide for Smart Contract Upgrades and Proxy Patterns, then this is the article that you have been…]]></summary>
         <author>
             <name>Amir Doreh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create an Ethereum Wallet, complete with 12 seed phrases and a private key with ethers.js]]></title>
-        <id>https://medium.com/p/49c29a7bc5b3</id>
-        <link href="https://coinsbench.com/create-an-ethereum-wallet-complete-with-12-seed-phrases-and-a-private-key-with-ethers-js-49c29a7bc5b3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-14T08:44:47.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum address is the “public” address that you would need to receive funds from another address through network. We cannot see our…]]></summary>
-        <author>
-            <name>alvin Christianto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maximizing Smart Contract Efficiency with Gas Optimization]]></title>
-        <id>https://medium.com/p/e1b893c64d35</id>
-        <link href="https://coinsbench.com/maximizing-smart-contract-efficiency-with-gas-optimization-e1b893c64d35?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-14T08:44:37.000Z</updated>
-        <summary type="html"><![CDATA[Gas is the unit of measure for the computational effort required to execute a smart contract on the Ethereum network. Every operation in a…]]></summary>
-        <author>
-            <name>Kaan Kaçar</name>
         </author>
     </entry>
     <entry>

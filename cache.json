@@ -18,6 +18,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/bfa87ef6bece",
+          "author": "Bloqarl",
+          "description": "All new protocols forked from Aave will be based in the same code and if you end up auditing one of them, you’ll already be familiar\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/aave-v3-defi-protocols-code-explained-part-1-pool-sol-bfa87ef6bece?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-19T11:55:09.000Z",
+          "wordCount": 3893,
+          "title": "Aave-V3 — DeFi Protocol’s code explained. Part 1— Pool.sol",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*y3bn6hygJaWL9TbcOmnNBg.png"
+        },
+        {
+          "id": "https://medium.com/p/b7570e51d130",
+          "author": "CryptoStaker",
+          "description": "SWC-110: Assert Violation",
+          "link": "https://coinsbench.com/demystifying-the-swc-registry-swc-110-b7570e51d130?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-19T11:55:07.000Z",
+          "wordCount": 1919,
+          "title": "Demystifying the SWC Registry, SWC-110",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1067/0*t3HhF38kXmd7Uk9z.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/af4a33d9700",
+          "author": "Shawn Chambers",
+          "description": "Ever wondered what went into the process of creating a dApp using Smart Contracts and Blockchain Technology? We will lightly cover the…",
+          "link": "https://coinsbench.com/creating-dapps-using-smart-contracts-and-blockchain-technology-af4a33d9700?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-19T11:54:51.000Z",
+          "wordCount": 2066,
+          "title": "Creating dApps Using Smart Contracts and Blockchain Technology",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*k8ccbw6u287nWbtz-icAsw.png"
+        },
+        {
+          "id": "https://medium.com/p/4e74fa1831a5",
+          "author": "Amir Doreh",
+          "description": "In our preceding written piece, we presented the initial instances of both Proxy and Eternal Storage without Proxy, as well as our…",
+          "link": "https://coinsbench.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-4-10-4e74fa1831a5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-19T11:54:46.000Z",
+          "wordCount": 2495,
+          "title": "Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [4/10]",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*sSwMGP8PfSLV50Bf"
+        },
+        {
           "id": "https://medium.com/p/f6db8dc604de",
           "author": "Bloqarl",
           "description": "Firstly, I am going to help you understand in a simple way what is a reentrancy attack and how you can prevent it, and then…\nContinue reading on CoinsBench »",
@@ -76,46 +116,6 @@
           "wordCount": 1664,
           "title": "How To Get Array Data In Solidity Without Using For Loop",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9q3a1yzf5z48C8TI"
-        },
-        {
-          "id": "https://medium.com/p/ecb58f0c8f5d",
-          "author": "Judith Manyo Ogar",
-          "description": "Time to say goodbye to Ethereum scalability problem with polygon zkEVM.",
-          "link": "https://coinsbench.com/beginners-guide-to-understanding-polygon-zkevm-part-1-ecb58f0c8f5d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-15T10:45:12.000Z",
-          "wordCount": 2654,
-          "title": "Beginners guide to understanding Polygon zkEVM (PART 1)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Arf0-afflohmQ5iWbm8ypQ.png"
-        },
-        {
-          "id": "https://medium.com/p/d6b5ab5416cc",
-          "author": "Bloqarl",
-          "description": "It felt like the knowledge I had before I started the course and the knowledge after finishing Part 1 had taken me to a next level.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/smart-contract-hacking-course-how-defi-lessons-changed-everything-d6b5ab5416cc?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-15T10:45:10.000Z",
-          "wordCount": 2452,
-          "title": "Smart Contract Hacking course: How DeFi lessons changed everything",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*86gaR8rPM204zrptm0eEYg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/49c29a7bc5b3",
-          "author": "alvin Christianto",
-          "description": "The Ethereum address is the “public” address that you would need to receive funds from another address through network. We cannot see our…",
-          "link": "https://coinsbench.com/create-an-ethereum-wallet-complete-with-12-seed-phrases-and-a-private-key-with-ethers-js-49c29a7bc5b3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-14T08:44:47.000Z",
-          "wordCount": 1264,
-          "title": "Create an Ethereum Wallet, complete with 12 seed phrases and a private key with ethers.js",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:620/1*8xWuCNekcx62ktxasXNDtw.png"
-        },
-        {
-          "id": "https://medium.com/p/e1b893c64d35",
-          "author": "Kaan Kaçar",
-          "description": "Gas is the unit of measure for the computational effort required to execute a smart contract on the Ethereum network. Every operation in a…",
-          "link": "https://coinsbench.com/maximizing-smart-contract-efficiency-with-gas-optimization-e1b893c64d35?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-14T08:44:37.000Z",
-          "wordCount": 2400,
-          "title": "Maximizing Smart Contract Efficiency with Gas Optimization",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*enoqGrT3jeJWJw74dAdizQ.jpeg"
         }
       ]
     },
@@ -130,7 +130,7 @@
           "description": "Learn how to use AI to predict cryptocurrency market trends and make a fortune with this step-by-step guide. Discover the tools and…",
           "link": "https://medium.com/coinmonks/a-step-by-step-guide-on-how-i-used-ai-to-predict-crypto-market-trends-and-make-a-fortune-230acd0bcb04?source=rss----721b17443fd5---4",
           "publishedOn": "2023-04-19T10:28:52.000Z",
-          "wordCount": 3563,
+          "wordCount": 3230,
           "title": "A Step-by-Step Guide on How I Used AI to Predict Crypto Market Trends and Make a Fortune",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*VOm8OAXlU00yhrZZ"
         },
@@ -140,7 +140,7 @@
           "description": "Shardeum is a blockchain-based ecosystem that aims to create a new generation of decentralized applications (dApps) and services. It is…",
           "link": "https://medium.com/coinmonks/shardeum-a-comprehensive-overview-a514157a3dc7?source=rss----721b17443fd5---4",
           "publishedOn": "2023-04-19T10:23:33.000Z",
-          "wordCount": 2285,
+          "wordCount": 2053,
           "title": "Shardeum: A Comprehensive Overview",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mLUjIKPeueKZVVqCzCLe3Q.jpeg"
         },
@@ -150,7 +150,7 @@
           "description": "Imagine purchasing any real-world asset or digital artwork online and becoming the owner of it with a unique digital token.",
           "link": "https://medium.com/coinmonks/nfts-storming-the-blockchain-world-8645ba39604d?source=rss----721b17443fd5---4",
           "publishedOn": "2023-04-19T10:23:29.000Z",
-          "wordCount": 3100,
+          "wordCount": 2818,
           "title": "NFTs: Storming The Blockchain World",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*AGJXeuY7lK-SxXJAweA4IA.jpeg"
         },
@@ -160,7 +160,7 @@
           "description": "tl:dr; In this tutorial we will discuss three techniques for whitelisting smart contracts. The last one of them is a completely novel…",
           "link": "https://medium.com/coinmonks/whitelisting-techniques-for-smart-contracts-ba3998f5d5ba?source=rss----721b17443fd5---4",
           "publishedOn": "2023-04-19T10:23:27.000Z",
-          "wordCount": 3763,
+          "wordCount": 3476,
           "title": "Whitelisting Techniques for Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:749/0*q5UnHe0qLBfQIay_.png"
         },
@@ -170,7 +170,7 @@
           "description": "Introduction",
           "link": "https://medium.com/coinmonks/the-ultimate-guide-to-a-fair-token-launch-empowering-the-community-and-ensuring-inclusivity-9ff53f59015f?source=rss----721b17443fd5---4",
           "publishedOn": "2023-04-19T10:23:25.000Z",
-          "wordCount": 2124,
+          "wordCount": 1907,
           "title": "The Ultimate Guide to a Fair Token Launch: Empowering the Community and Ensuring Inclusivity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wH33xNmyjRwHXkRP3UdCFA.png"
         },
@@ -180,7 +180,7 @@
           "description": "If the basic principles are broken, the blockchain will be the worst Orwellian instrument of mass surveillance and control ever created.",
           "link": "https://medium.com/coinmonks/blockchain-could-be-a-game-changer-if-its-principles-are-respected-fb9d47ce27a6?source=rss----721b17443fd5---4",
           "publishedOn": "2023-04-19T10:23:22.000Z",
-          "wordCount": 4307,
+          "wordCount": 3998,
           "title": "Blockchain Could Be A Game Changer If Its Principles Are Respected",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:641/0*_77NR_nTm81gh9yn.jpg"
         },
@@ -190,7 +190,7 @@
           "description": "A brief summary of the good, the bad, and the ugly of my time in Web3 and some useful takeaways.",
           "link": "https://medium.com/coinmonks/web3-two-years-in-web3-almost-reflections-f23299391f79?source=rss----721b17443fd5---4",
           "publishedOn": "2023-04-19T10:23:20.000Z",
-          "wordCount": 3280,
+          "wordCount": 2930,
           "title": "Web3 | Two Years In Web3 (almost) — Reflections",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cH8LFEGRBIFW6mXlP6i-Rw.png"
         },
@@ -200,7 +200,7 @@
           "description": "In the modern digital age, security is of the utmost importance. One way to ensure the security of digital documents is through digital…",
           "link": "https://medium.com/coinmonks/cracking-the-code-digital-signatures-and-bitcoin-transactions-9f0b45f429ac?source=rss----721b17443fd5---4",
           "publishedOn": "2023-04-19T10:23:18.000Z",
-          "wordCount": 3467,
+          "wordCount": 3155,
           "title": "Cracking the Code: Digital Signatures and Bitcoin Transactions",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qSqQiCxyj-aqYJzzTjjiDA.jpeg"
         },
@@ -210,7 +210,7 @@
           "description": "In this beginner’s guide, we’ll walk you through the entire process of building a Coinbase clone app from scratch.",
           "link": "https://medium.com/coinmonks/coinbase-clone-app-development-a-beginners-guide-f63d852be48b?source=rss----721b17443fd5---4",
           "publishedOn": "2023-04-19T10:23:17.000Z",
-          "wordCount": 3824,
+          "wordCount": 3502,
           "title": "Coinbase Clone App Development: A Beginner’s Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TB1zDPEo6JCuqAmEDXF4Yg.png"
         },
