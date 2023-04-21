@@ -1,49 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-21T11:09:52.460Z</id>
+    <id>urn:2023-04-21T12:22:26.135Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-21T11:09:52.460Z</updated>
+    <updated>2023-04-21T12:22:26.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Aave-V3 — DeFi Protocol’s code explained. Part 1— Pool.sol]]></title>
-        <id>https://medium.com/p/bfa87ef6bece</id>
-        <link href="https://coinsbench.com/aave-v3-defi-protocols-code-explained-part-1-pool-sol-bfa87ef6bece?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-19T11:55:09.000Z</updated>
-        <summary type="html"><![CDATA[All new protocols forked from Aave will be based in the same code and if you end up auditing one of them, you’ll already be familiar
+        <title type="html"><![CDATA[Uniswap V2 — Router Smart Contract Explained]]></title>
+        <id>https://medium.com/p/555fe278567d</id>
+        <link href="https://coinsbench.com/uniswap-v2-router-smart-contract-explained-555fe278567d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-21T12:04:59.000Z</updated>
+        <summary type="html"><![CDATA[I’m going to explain UniswapV2Router by going through the code and we will learn how adding/removing liquidity and swapping tokens works.
 Continue reading on CoinsBench »]]></summary>
         <author>
             <name>Bloqarl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Demystifying the SWC Registry, SWC-110]]></title>
-        <id>https://medium.com/p/b7570e51d130</id>
-        <link href="https://coinsbench.com/demystifying-the-swc-registry-swc-110-b7570e51d130?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-19T11:55:07.000Z</updated>
-        <summary type="html"><![CDATA[SWC-110: Assert Violation]]></summary>
+        <title type="html"><![CDATA[Smart Contracts Made Simple 05 : Advanced Topics in Solidity]]></title>
+        <id>https://medium.com/p/e6916602063b</id>
+        <link href="https://coinsbench.com/smart-contracts-made-simple-05-advanced-topics-in-solidity-e6916602063b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-21T12:04:56.000Z</updated>
+        <summary type="html"><![CDATA[If you’re looking to take your Solidity programming skills to the next level, look no further than “Smart Contracts Made Simple 05: A…]]></summary>
         <author>
-            <name>CryptoStaker</name>
+            <name>Solidity Academy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating dApps Using Smart Contracts and Blockchain Technology]]></title>
-        <id>https://medium.com/p/af4a33d9700</id>
-        <link href="https://coinsbench.com/creating-dapps-using-smart-contracts-and-blockchain-technology-af4a33d9700?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-19T11:54:51.000Z</updated>
-        <summary type="html"><![CDATA[Ever wondered what went into the process of creating a dApp using Smart Contracts and Blockchain Technology? We will lightly cover the…]]></summary>
+        <title type="html"><![CDATA[Smart Contracts Made Simple 04 : DeFi]]></title>
+        <id>https://medium.com/p/3995a344e493</id>
+        <link href="https://coinsbench.com/smart-contracts-made-simple-04-defi-3995a344e493?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-21T12:04:54.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to take your knowledge of DeFi to the next level? Look no further than “Smart Contracts Made Simple 04: A Practical Guide to…]]></summary>
         <author>
-            <name>Shawn Chambers</name>
+            <name>Solidity Academy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [4/10]]]></title>
-        <id>https://medium.com/p/4e74fa1831a5</id>
-        <link href="https://coinsbench.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-4-10-4e74fa1831a5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-19T11:54:46.000Z</updated>
-        <summary type="html"><![CDATA[In our preceding written piece, we presented the initial instances of both Proxy and Eternal Storage without Proxy, as well as our…]]></summary>
+        <title type="html"><![CDATA[Smart Contracts Made Simple 03: Hacks & Tests]]></title>
+        <id>https://medium.com/p/66415a898e2a</id>
+        <link href="https://coinsbench.com/smart-contracts-made-simple-03-hacks-tests-66415a898e2a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-21T12:04:52.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to take your Solidity programming skills to the next level? Look no further than “Smart Contracts Made Simple 03: A Practical…]]></summary>
         <author>
-            <name>Amir Doreh</name>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payment Guarantee: A Solidity Smart Contract for Secure Two-Party Transactions on Ethereum]]></title>
+        <id>https://medium.com/p/22fc8d6c1745</id>
+        <link href="https://coinsbench.com/payment-guarantee-a-solidity-smart-contract-for-secure-two-party-transactions-on-ethereum-22fc8d6c1745?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-21T12:04:50.000Z</updated>
+        <summary type="html"><![CDATA[The PaymentGuarantee Smart Contract is a Solidity contract that facilitates two-party transactions with payment guarantees.]]></summary>
+        <author>
+            <name>Abdelnasser Hajihashemabad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Basic Messenger Dapp with Blockchain Smart Contracts]]></title>
+        <id>https://medium.com/p/8ef18c9e13c3</id>
+        <link href="https://coinsbench.com/building-messenger-dapp-blockchain-smart-contracts-8ef18c9e13c3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-21T12:04:14.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step guide to building a messenger Dapp on the blockchain smart contracts. And an introduction to Solidity variables using Remix…]]></summary>
+        <author>
+            <name>Essam Aldeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ensuring Security and Reliability in DeFi Protocols: A Smart Contract Audit]]></title>
+        <id>https://medium.com/p/53d3adb44e17</id>
+        <link href="https://coinsbench.com/ensuring-security-and-reliability-in-defi-protocols-53d3adb44e17?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-21T12:04:10.000Z</updated>
+        <summary type="html"><![CDATA[Smart Contracts Made Simple (5 Volume Book)]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different between unit conversion functions in EthersJS: formatEther, parseEther, formatUnits…]]></title>
+        <id>https://medium.com/p/6b62e79184a</id>
+        <link href="https://coinsbench.com/different-between-unit-conversion-functions-in-ethersjs-formatether-parseether-formatunits-6b62e79184a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-21T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Ether and Gwei. The 2 common terms we commonly encounter when dealing with blockchain development are related. We need to master this and…]]></summary>
+        <author>
+            <name>alvin Christianto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Flexible Staking Smart Contract code using Solidity in 10 minutes]]></title>
+        <id>https://medium.com/p/fcb711151caf</id>
+        <link href="https://coinsbench.com/create-flexible-staking-smart-contract-code-using-solidity-in-10-minutes-fcb711151caf?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-21T12:03:58.000Z</updated>
+        <summary type="html"><![CDATA[The contract is designed to allow users to stake their tokens for a flexible amount of time and earn rewards based on the amount of time…]]></summary>
+        <author>
+            <name>Rohit Goyal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analyzing Solidity and Vyper for Smart Contracts Programming]]></title>
+        <id>https://medium.com/p/a6661e7ba10c</id>
+        <link href="https://coinsbench.com/analyzing-solidity-and-vyper-for-smart-contracts-programming-a6661e7ba10c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-21T12:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Which smart contract programming, Solidity vs. Vyper, is superior? The answer will be revealed in this post. After the Ethereum network…]]></summary>
+        <author>
+            <name>Anjali Yadav</name>
         </author>
     </entry>
     <entry>
@@ -60,47 +120,6 @@ Ethereum.org is the community-run technology powering the cryptocurrency Ethereu
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solidity vulnerabilities #1: Reentrancy attacks — Let’s understand them and prevent them.]]></title>
-        <id>https://medium.com/p/f6db8dc604de</id>
-        <link href="https://coinsbench.com/solidity-vulnerabilities-1-reentrancy-attacks-lets-understand-them-and-prevent-them-f6db8dc604de?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-17T10:10:59.000Z</updated>
-        <summary type="html"><![CDATA[Firstly, I am going to help you understand in a simple way what is a reentrancy attack and how you can prevent it, and then…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Bloqarl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orderbook Smart Contract: Creating an ERC20-Compatible DEX on Ethereum]]></title>
-        <id>https://medium.com/p/abc73b0768fc</id>
-        <link href="https://coinsbench.com/orderbook-smart-contract-creating-an-erc20-compatible-dex-on-ethereum-abc73b0768fc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-17T10:10:58.000Z</updated>
-        <summary type="html"><![CDATA[An orderbook is a mechanism used by exchanges to list and match buy and sell orders for assets. In the context of a DEX, it serves as the…]]></summary>
-        <author>
-            <name>Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [3/10]]]></title>
-        <id>https://medium.com/p/14c6c82f7f4b</id>
-        <link href="https://coinsbench.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-3-10-14c6c82f7f4b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-17T10:10:55.000Z</updated>
-        <summary type="html"><![CDATA[Previously, we discussed the definitions, fundamentals, and norms related to Proxies in our past articles. We then elaborated on “Eternal…]]></summary>
-        <author>
-            <name>Amir Doreh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolutionizing Smart Contracts with GPT4 and Perplexity AI]]></title>
-        <id>https://medium.com/p/cf3e67603055</id>
-        <link href="https://coinsbench.com/revolutionizing-smart-contracts-with-gpt4-and-perplexity-ai-cf3e67603055?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-17T10:10:54.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts are unstoppable, allowing you full control of the app you build. It WAS not for everyone, until AIs team up with us.]]></summary>
-        <author>
-            <name>ChainGPT</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Deploy contract on Base Goerli]]></title>
         <id>https://medium.com/p/5a559cc5e82a</id>
         <link href="https://blog.blockmagnates.com/deploy-contract-on-base-goerli-5a559cc5e82a?source=rss----18fa961f1eff--solidity"/>
@@ -108,26 +127,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Before Start]]></summary>
         <author>
             <name>0xDiewland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summoning ChatGPT: Your Trusty Guide to Understanding Smart Contracts. How to?]]></title>
-        <id>https://medium.com/p/1f91eed939e2</id>
-        <link href="https://coinsbench.com/summoning-chatgpt-your-trusty-guide-to-understanding-smart-contracts-how-to-1f91eed939e2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-15T10:45:52.000Z</updated>
-        <summary type="html"><![CDATA[Hey there, future smart contract explorer! You must be curious about those magical things called smart contracts that power decentralized…]]></summary>
-        <author>
-            <name>Maxim Vasilkov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Get Array Data In Solidity Without Using For Loop]]></title>
-        <id>https://medium.com/p/6c023fbd5896</id>
-        <link href="https://coinsbench.com/how-to-get-array-data-in-solidity-without-using-for-loop-6c023fbd5896?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-15T10:45:14.000Z</updated>
-        <summary type="html"><![CDATA[Do you find yourself struggling with the efficiency of reading data from large arrays in smart contracts? fear not, I have a trick up my]]></summary>
-        <author>
-            <name>Rohit Goyal</name>
         </author>
     </entry>
     <entry>
