@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T12:21:15.353Z</id>
+    <id>urn:2023-04-22T13:13:11.388Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-22T12:21:15.353Z</updated>
+    <updated>2023-04-22T13:13:11.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Audit for Blockchain-based Identity Verification Systems]]></title>
+        <id>https://medium.com/p/4abd073b2f9</id>
+        <link href="https://coinsbench.com/smart-contract-audit-4abd073b2f9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-22T12:56:50.000Z</updated>
+        <summary type="html"><![CDATA[The Solidity Blueprint : A 21-Day Journey to Building Decentralized Applications]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevNTell - 0xCord]]></title>
         <id>https://blog.developerdao.com/devntell-0xcord</id>
@@ -118,16 +128,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[The contract is designed to allow users to stake their tokens for a flexible amount of time and earn rewards based on the amount of time…]]></summary>
         <author>
             <name>Rohit Goyal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analyzing Solidity and Vyper for Smart Contracts Programming]]></title>
-        <id>https://medium.com/p/a6661e7ba10c</id>
-        <link href="https://coinsbench.com/analyzing-solidity-and-vyper-for-smart-contracts-programming-a6661e7ba10c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-21T12:03:54.000Z</updated>
-        <summary type="html"><![CDATA[Which smart contract programming, Solidity vs. Vyper, is superior? The answer will be revealed in this post. After the Ethereum network…]]></summary>
-        <author>
-            <name>Anjali Yadav</name>
         </author>
     </entry>
     <entry>
