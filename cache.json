@@ -53,7 +53,7 @@
           "description": "Hello all, I hope you missed me :)",
           "link": "https://coinsbench.com/lets-create-our-own-token-with-brownie-4827423ed562?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-04-25T10:17:14.000Z",
-          "wordCount": 4500,
+          "wordCount": 3354,
           "title": "Let’s Create Our Own Token with Brownie!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:600/0*S2y5Wz_d1zUp9jbK"
         },
@@ -63,7 +63,7 @@
           "description": "Smart contracts revolutionized the blockchain ecosystem by enabling a wide range of decentralized applications (dApps) for various…",
           "link": "https://coinsbench.com/achieving-universal-and-reusable-smart-contracts-via-erc2535-diamond-proxy-standard-ba4c9f5ac5bc?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-04-24T16:27:38.000Z",
-          "wordCount": 4021,
+          "wordCount": 2999,
           "title": "Achieving Universal and Reusable Smart Contracts via ERC2535 Diamond Proxy Standard",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:766/1*ugRV5quaSFfLGBPERhNZAQ.png"
         },
@@ -125,6 +125,26 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/114b3f6c84ef",
+          "author": "Secure Digital Markets",
+          "description": "We’re awaiting two big earnings reports after the bell (i.e., after 4 PM EST) from Microsoft & Alphabet. BTC & LTC is signalling a rebound.",
+          "link": "https://medium.com/coinmonks/will-microsoft-and-alphabet-herald-growth-or-slump-114b3f6c84ef?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-25T15:35:03.000Z",
+          "wordCount": 1634,
+          "title": "Will Microsoft and Alphabet Herald Growth or Slump?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*vIJe2qTfawNvViZk"
+        },
+        {
+          "id": "https://medium.com/p/e389c905f6b8",
+          "author": "CryptoGod-1",
+          "description": "James Zhong managed to steal over 50,000 Bitcoin in 2012 from the Silk Road marketplace. He has since been caught and face a year in…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/silk-road-bitcoin-thief-gets-one-year-prison-sentence-e389c905f6b8?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-25T15:34:59.000Z",
+          "wordCount": 1095,
+          "title": "Silk Road Bitcoin Thief Gets One Year Prison Sentence",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*frBs4T3JtCuK_5D1ixO0IQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/384e307b0d64",
           "author": "Mike Coldman",
           "description": "In this article, we will talk about the Ultra project, created four years ago by two Belgian entrepreneurs whose ambition is to finally…\nContinue reading on Coinmonks »",
@@ -180,7 +200,7 @@
           "description": "Medium is a popular online publishing platform that allows writers and bloggers to share their content with a vast audience. It is a place…",
           "link": "https://medium.com/coinmonks/monetising-your-writing-how-medium-pays-its-writer-c4cb6be40834?source=rss----721b17443fd5---4",
           "publishedOn": "2023-04-25T15:03:55.000Z",
-          "wordCount": 2190,
+          "wordCount": 3343,
           "title": "Monetising your writing : How medium pays its writer .",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*LigmV0V6ZWlxyDZj.png"
         },
@@ -203,26 +223,6 @@
           "wordCount": 1659,
           "title": "Crypto Investors Await Big Tech’s Earnings Reports",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*NjxensMnasfv0Zmz.jpg"
-        },
-        {
-          "id": "https://medium.com/p/c6244de50938",
-          "author": "blockchainbuddy",
-          "description": "The blockchain is essentially a decentralized, distributed ledger that enables secure, transparent, and tamper-proof transactions without the need for intermediaries like banks, governments, or other…",
-          "link": "https://medium.com/coinmonks/neutrinos-blockchain-worlds-first-poai-driven-blockchain-c6244de50938?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-25T15:03:48.000Z",
-          "wordCount": 3199,
-          "title": "NEUTRINOS BLOCKCHAIN: World’s First PoAI Driven Blockchain",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*qK-egm9uOcjmeboRz9_2rQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f437d244091c",
-          "author": "Crypto with Bella",
-          "description": "There are plenty of great crypto trading platforms out there for investors. Whether you’re a beginner or an experienced trader, there’s a…",
-          "link": "https://medium.com/coinmonks/5-best-crypto-trading-platforms-for-investors-f437d244091c?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-25T15:03:46.000Z",
-          "wordCount": 1609,
-          "title": "5 Best Crypto Trading Platforms for Investors",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*Ql1MOahV4jCsKtTH8xeZbw.png"
         }
       ]
     },
@@ -247,7 +247,7 @@
           "description": "If you are seeking a tutorial-oriented guide for Smart Contract Upgrades and Proxy Patterns, then this is the article that you have been…",
           "link": "https://blog.blockmagnates.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-1-10-25f86c0b92d1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-14T08:46:12.000Z",
-          "wordCount": 1871,
+          "wordCount": 2942,
           "title": "Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [1/8]",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9JaNXQ5u_A0YkhMs"
         },
