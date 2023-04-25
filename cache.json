@@ -18,6 +18,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e00cfda4a3b5",
+          "author": "Lea Lobanov",
+          "description": "Smart contract programming has gained immense popularity in the recent past, primarily due to the growing demand for decentralized…",
+          "link": "https://coinsbench.com/a-beginners-guide-to-smart-contract-programming-on-the-flow-blockchain-with-cadence-e00cfda4a3b5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-25T10:17:19.000Z",
+          "wordCount": 3858,
+          "title": "A Beginner’s Guide to Smart Contract Programming on the Flow Blockchain with Cadence",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JN1fzQJJ45LQDDcJ-BZ9gQ.png"
+        },
+        {
+          "id": "https://medium.com/p/aacddc2496af",
+          "author": "Michael Humor",
+          "description": "It takes three steps:",
+          "link": "https://coinsbench.com/how-to-convert-an-existing-hardhat-project-into-foundry-for-solidity-smart-contract-development-aacddc2496af?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-25T10:17:17.000Z",
+          "wordCount": 1118,
+          "title": "How to convert an existing hardhat project into foundry for Solidity smart contract development?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9594a977ed2a",
+          "author": "Solidity Academy",
+          "description": "In this article, we explore the combined use of Solidity, Python, and other blockchain technologies with artificial intelligence algorithms…",
+          "link": "https://coinsbench.com/smart-contract-security-ai-blockchain-9594a977ed2a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-25T10:17:16.000Z",
+          "wordCount": 8148,
+          "title": "Enhancing Smart Contract Security with the Fusion of Artificial Intelligence and Blockchain…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VtnyVt91knQVj5YgYlyNKA.png"
+        },
+        {
+          "id": "https://medium.com/p/4827423ed562",
+          "author": "Fethi Tekyaygil",
+          "description": "Hello all, I hope you missed me :)",
+          "link": "https://coinsbench.com/lets-create-our-own-token-with-brownie-4827423ed562?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-04-25T10:17:14.000Z",
+          "wordCount": 3354,
+          "title": "Let’s Create Our Own Token with Brownie!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:600/0*S2y5Wz_d1zUp9jbK"
+        },
+        {
           "id": "https://medium.com/p/ba4c9f5ac5bc",
           "author": "Alexe Spataru",
           "description": "Smart contracts revolutionized the blockchain ecosystem by enabling a wide range of decentralized applications (dApps) for various…",
@@ -76,46 +116,6 @@
           "wordCount": 2742,
           "title": "Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [5/8]",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:480/1*uL7ZLZd6vHwxFOt9HZIcJw.gif"
-        },
-        {
-          "id": "https://medium.com/p/1381c77ff078",
-          "author": "Bloqarl",
-          "description": "When it comes to writing efficient and cost-effective smart contracts on the Ethereum blockchain, every little bit of gas savings counts…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/solidity-gas-optimization-tips-with-assembly-you-havent-heard-yet-1381c77ff078?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-24T16:24:53.000Z",
-          "wordCount": 2178,
-          "title": "Solidity Gas Optimization tips with assembly you haven’t heard yet!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*boDuumwZKpLwuUD6v1CPvw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d3a0e766cbdd",
-          "author": "Bloqarl",
-          "description": "DEEP DIVE TO UNDERSTAND UNISWAP V2 CODE\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/uniswap-v2-complete-guide-to-understand-the-defi-protocol-d3a0e766cbdd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-24T16:24:51.000Z",
-          "wordCount": 4509,
-          "title": "Uniswap V2 — Complete Guide to understand the DeFi Protocol",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*OO0PAhVVZA4dJqaz-A8OWw.png"
-        },
-        {
-          "id": "https://medium.com/p/65b4a3261a76",
-          "author": "Aitor Zaldua",
-          "description": "For the last 3 months, I have been solving Ethernaut challenges. Currently, you can find the solution for the first 18 challenges in my…",
-          "link": "https://coinsbench.com/keep-calm-and-build-your-own-catch-the-flag-challenge-65b4a3261a76?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-24T16:24:47.000Z",
-          "wordCount": 2923,
-          "title": "Keep Calm and build your own Catch The Flag challenge",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*fF3pT9I28Klx6TCTNldoGw.png"
-        },
-        {
-          "id": "https://medium.com/p/4abd073b2f9",
-          "author": "Solidity Academy",
-          "description": "The Solidity Blueprint : A 21-Day Journey to Building Decentralized Applications",
-          "link": "https://coinsbench.com/smart-contract-audit-4abd073b2f9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-22T12:56:50.000Z",
-          "wordCount": 8463,
-          "title": "Smart Contract Audit for Blockchain-based Identity Verification Systems",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*geiTEVuWEhBr8uMWfLzKAw.png"
         }
       ]
     },
@@ -124,6 +124,76 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/6f141d436c3",
+          "author": "Dr. Rahul Financial Reviews",
+          "description": "Discover the best investment strategies for stocks and crypto to help diversify your portfolio and maximize your returns. Read on for…",
+          "link": "https://medium.com/coinmonks/2023-investment-opportunities-unveiled-from-amazon-to-bitcoin-the-best-picks-for-high-returns-6f141d436c3?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-25T10:25:26.000Z",
+          "wordCount": 2193,
+          "title": "“2023 Investment Opportunities Unveiled: From Amazon to Bitcoin — The Best Picks for High Returns”",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jRvo5Z5y35r0Mfo89EAzqw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/5d60d50ee839",
+          "author": "Metalevel",
+          "description": "Summary: Metalevel is community-developed play-to-earn (P2E) blockchain arcade, has announced the launch of its highly anticipated $MLVL…",
+          "link": "https://medium.com/coinmonks/metalevel-presale-for-web3s-p2e-crypto-arcade-raises-over-100k-in-under-24-hours-5d60d50ee839?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-25T10:24:16.000Z",
+          "wordCount": 2744,
+          "title": "Metalevel Presale for Web3’s P2E Crypto Arcade Raises Over $100k in Under 24 Hours",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Go3JOOExpyS4V2p-GAN1Ew.png"
+        },
+        {
+          "id": "https://medium.com/p/c82c46f96cf3",
+          "author": "FinaryLabs",
+          "description": "Blockchain technology is disrupting a range of industries, but perhaps none more so than finance. The emergence of blockchain-based fintech…",
+          "link": "https://medium.com/coinmonks/blockchain-and-fintech-will-blockchain-change-fintech-c82c46f96cf3?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-25T10:13:44.000Z",
+          "wordCount": 2040,
+          "title": "Blockchain and Fintech: Will Blockchain change Fintech?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*w4teZTijiHAgEdnpoaR6Gw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/4728d3940623",
+          "author": "Ronit Batra",
+          "description": "Cryptocurrency exchange traded funds (ETFs) are having a hard time making their mark as viable investment products, according to…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/why-regulators-are-looking-to-restrict-crypto-after-the-ftx-scandal-4728d3940623?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-25T10:13:42.000Z",
+          "wordCount": 1058,
+          "title": "Why regulators are looking to restrict crypto after the FTX scandal",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:960/0*zfIFDcAHZs9-JlpU.jpg"
+        },
+        {
+          "id": "https://medium.com/p/fbbe4cc2b46",
+          "author": "Scott",
+          "description": "Unveiling the Insider Tips for a Lucrative Launch of Your NFT Marketplace in 2023",
+          "link": "https://medium.com/coinmonks/discover-the-secrets-to-launching-a-profitable-nft-marketplace-in-2023-fbbe4cc2b46?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-25T10:13:39.000Z",
+          "wordCount": 2361,
+          "title": "Discover the Secrets to Launching a Profitable NFT Marketplace in 2023!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*hBx8smCzq2QuKSIVEwW_ZQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/e24fe0a7c933",
+          "author": "Leo G.",
+          "description": "Are you ready to dive into the world of decentralized applications (DApps) and blockchain technology? In this tutorial, I’ll guide you…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/create-and-deploy-your-first-next-js-blockchain-dapp-with-solidity-in-minutes-e24fe0a7c933?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-25T10:13:36.000Z",
+          "wordCount": 1032,
+          "title": "Create and Deploy Your First Next.js Blockchain DApp with Solidity in Minutes!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:619/1*pfvcqfmcxnMQOAq8hinbWA.png"
+        },
+        {
+          "id": "https://medium.com/p/e18770304d49",
+          "author": "Muhammad Yaseen Khan",
+          "description": "With so many options available to make money online, it’s easy to get overwhelmed. But don’t worry! We’re here to help you figure out the…",
+          "link": "https://medium.com/coinmonks/9-best-ways-to-make-money-online-start-working-now-e18770304d49?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-25T10:13:33.000Z",
+          "wordCount": 3659,
+          "title": "9 Best Ways to Make Money Online | Start Working Now",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*YUX2k_jlwqTXObTNqwdzwg.png"
+        },
         {
           "id": "https://medium.com/p/c126f6591ce6",
           "author": "Mark Timmis",
@@ -153,76 +223,6 @@
           "wordCount": 2677,
           "title": "Curious Cryptos’ Commentary 21st April 2023 — TA, Regulation, and ENS",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:386/1*89dZH-wVgwj9pY1UUtdBXQ.png"
-        },
-        {
-          "id": "https://medium.com/p/5ef7953ff388",
-          "author": "Chuxiaolian",
-          "description": "During this period of time, I have done some project interactions sporadically, but there are no results yet.",
-          "link": "https://medium.com/coinmonks/get-an-airdrop-for-free-and-then-the-wallet-is-stolen-492-eth-5ef7953ff388?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-25T09:40:47.000Z",
-          "wordCount": 2669,
-          "title": "Get an airdrop for free, and then the wallet is stolen 492 ETH",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*W6xoOm98bpmfxjdLfj_6vw.png"
-        },
-        {
-          "id": "https://medium.com/p/caea579a17d4",
-          "author": "Ryanzackmiller",
-          "description": "In my first article I started by providing a general introduction into Blockchain Bets and what the token is, which in part touched on the…",
-          "link": "https://medium.com/coinmonks/blockchain-bets-tokenomics-caea579a17d4?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-25T09:40:45.000Z",
-          "wordCount": 3464,
-          "title": "Blockchain Bets — Tokenomics",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:933/1*_jemTjBSfUFZ6T-fAfXCfA.png"
-        },
-        {
-          "id": "https://medium.com/p/ec4af3f5fd50",
-          "author": "Jon",
-          "description": "Today I will show you a neat trick to help you predict take profit targets from breakout of accumulation and distribution stages using…",
-          "link": "https://medium.com/coinmonks/cryptocurrency-market-cycles-explained-accumulation-distribution-take-profit-targets-ec4af3f5fd50?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-25T09:40:41.000Z",
-          "wordCount": 2086,
-          "title": "Cryptocurrency market cycles explained: Accumulation & distribution take profit targets.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*PBOc2NAR6UpGFE-0dA1HVw.png"
-        },
-        {
-          "id": "https://medium.com/p/932554c7dc16",
-          "author": "Secure Digital Markets",
-          "description": "The latest data on UK inflation was released at 2AM ET and it was higher than anticipated. Risk assets were subsequently put under…",
-          "link": "https://medium.com/coinmonks/cryptocurrencies-pressured-by-british-inflation-932554c7dc16?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-25T09:40:39.000Z",
-          "wordCount": 1690,
-          "title": "Cryptocurrencies Pressured By British Inflation?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*NKlnt5Uw_QbLcwdO"
-        },
-        {
-          "id": "https://medium.com/p/35872294e0b4",
-          "author": "Jacob Firek",
-          "description": "Now that we have discussed Defi and DAOs, let’s dive in on how this is going to work.",
-          "link": "https://medium.com/coinmonks/lets-ride-the-crypto-wave-together-35872294e0b4?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-25T09:40:36.000Z",
-          "wordCount": 2016,
-          "title": "Let’s Ride the Crypto Wave Together",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*_buk5Wl3WHRU_yrE7Cj0rw.png"
-        },
-        {
-          "id": "https://medium.com/p/f7c83cef28e2",
-          "author": "Ash",
-          "description": "Blockchain technology is not a new concept. It has been around for more than a decade, and it has been used to power various applications…",
-          "link": "https://medium.com/coinmonks/will-mainstream-gaming-keep-ignoring-blockchain-technology-f7c83cef28e2?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-25T09:40:34.000Z",
-          "wordCount": 2495,
-          "title": "Will mainstream gaming keep ignoring blockchain technology?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*EDbS_rSxohiB-CBf"
-        },
-        {
-          "id": "https://medium.com/p/c465ab65dcef",
-          "author": "Samson Nath",
-          "description": "The rise of Bitcoin in 2009 marked the beginning of a new era for finance, one that was decentralized, secure, and accessible to anyone…",
-          "link": "https://medium.com/coinmonks/beyond-bitcoin-how-shardeum-is-pioneering-the-next-generation-of-cryptocurrencies-c465ab65dcef?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-25T09:40:32.000Z",
-          "wordCount": 2271,
-          "title": "Beyond Bitcoin: How Shardeum is Pioneering the Next Generation of Cryptocurrencies",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UsKKBftf2PEAIdrL1vnHiw.jpeg"
         }
       ]
     },
@@ -247,7 +247,7 @@
           "description": "If you are seeking a tutorial-oriented guide for Smart Contract Upgrades and Proxy Patterns, then this is the article that you have been…",
           "link": "https://blog.blockmagnates.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-1-10-25f86c0b92d1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-14T08:46:12.000Z",
-          "wordCount": 2928,
+          "wordCount": 1871,
           "title": "Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [1/8]",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9JaNXQ5u_A0YkhMs"
         },
