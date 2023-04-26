@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T10:12:44.773Z</id>
+    <id>urn:2023-04-26T11:09:48.086Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-26T10:12:44.773Z</updated>
+    <updated>2023-04-26T11:09:48.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build Tools and Package Manager]]></title>
+        <id>https://medium.com/p/84e857bf26c8</id>
+        <link href="https://medium.com/coinmonks/build-tools-and-package-manager-84e857bf26c8?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-26T10:11:21.000Z</updated>
+        <summary type="html"><![CDATA[What are Build and package managers tools?]]></summary>
+        <author>
+            <name>Gandharv Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 4 Crypto Exchange Clone Development]]></title>
+        <id>https://medium.com/p/f0f171939c8</id>
+        <link href="https://medium.com/coinmonks/top-4-crypto-exchange-clone-development-f0f171939c8?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-26T10:10:51.000Z</updated>
+        <summary type="html"><![CDATA[As the popularity of cryptocurrencies continues to rise, so does the need for efficient and reliable crypto exchanges. Crypto exchange…]]></summary>
+        <author>
+            <name>Allan Jackob</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Developing an App for Online Debates]]></title>
         <id>https://medium.com/p/c18e07d2d93f</id>
@@ -81,26 +101,6 @@
         <link href="https://medium.com/coinmonks/building-a-debate-app-interlude-dd1d4431e8fa?source=rss----721b17443fd5---4"/>
         <updated>2023-04-26T10:08:25.000Z</updated>
         <summary type="html"><![CDATA[Refactoring and what comes next…]]></summary>
-        <author>
-            <name>Jeremy Orme</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Debate App: Part 7]]></title>
-        <id>https://medium.com/p/1be621ad04ec</id>
-        <link href="https://medium.com/coinmonks/building-a-debate-app-part-7-1be621ad04ec?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-26T10:08:23.000Z</updated>
-        <summary type="html"><![CDATA[Limiting the time a debate is active]]></summary>
-        <author>
-            <name>Jeremy Orme</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Debate App: Part 8]]></title>
-        <id>https://medium.com/p/28bc92f3eea5</id>
-        <link href="https://medium.com/coinmonks/building-a-debate-app-part-8-28bc92f3eea5?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-26T10:08:21.000Z</updated>
-        <summary type="html"><![CDATA[Liking debates]]></summary>
         <author>
             <name>Jeremy Orme</name>
         </author>
