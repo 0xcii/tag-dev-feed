@@ -1,111 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T09:12:01.123Z</id>
+    <id>urn:2023-04-26T10:12:44.773Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-26T09:12:01.123Z</updated>
+    <updated>2023-04-26T10:12:44.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Good or bad Euronews for crypto?]]></title>
-        <id>https://medium.com/p/487bb3b8300a</id>
-        <link href="https://medium.com/coinmonks/good-or-bad-euronews-for-crypto-487bb3b8300a?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-26T08:55:28.000Z</updated>
-        <summary type="html"><![CDATA[The European Parliament has generally voted for the new rules to trace crypto-asset transfers within the EU. The approval of the Markets in…]]></summary>
+        <title type="html"><![CDATA[Developing an App for Online Debates]]></title>
+        <id>https://medium.com/p/c18e07d2d93f</id>
+        <link href="https://medium.com/coinmonks/developing-an-app-for-online-debates-c18e07d2d93f?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-26T10:08:44.000Z</updated>
+        <summary type="html"><![CDATA[Some thoughts on the practicalities of building a fair system]]></summary>
         <author>
-            <name>Vladan Lausevic</name>
+            <name>Jeremy Orme</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The future of NFTs starts with an X]]></title>
-        <id>https://medium.com/p/147fb9991220</id>
-        <link href="https://medium.com/coinmonks/the-future-of-nfts-starts-with-an-x-147fb9991220?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-26T08:55:26.000Z</updated>
-        <summary type="html"><![CDATA[Since January the market has been in an uptrend and it seems like this bear market really hasn’t run out of steam yet.]]></summary>
+        <title type="html"><![CDATA[Building a Debate App: Part 3]]></title>
+        <id>https://medium.com/p/241fd046967e</id>
+        <link href="https://medium.com/coinmonks/building-a-debate-app-part-3-241fd046967e?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-26T10:08:44.000Z</updated>
+        <summary type="html"><![CDATA[Adding messaging]]></summary>
         <author>
-            <name>Investor Bren</name>
+            <name>Jeremy Orme</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web3 Marketing Services: Top 10 Must-Haves for Promotion]]></title>
-        <id>https://medium.com/p/dfa8798e9b16</id>
-        <link href="https://medium.com/coinmonks/web3-marketing-services-top-10-must-haves-for-promotion-dfa8798e9b16?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-26T08:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Web3 Marketing services offers businesses a list of essential tools and strategies to succeed in their online marketing efforts]]></summary>
+        <title type="html"><![CDATA[Building a Debate App: Part 1]]></title>
+        <id>https://medium.com/p/bf219bee0738</id>
+        <link href="https://medium.com/coinmonks/building-a-debate-app-part-1-bf219bee0738?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-26T10:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Peer to peer database design]]></summary>
         <author>
-            <name>Jamessmithh</name>
+            <name>Jeremy Orme</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Much Cardano Do You Need to Be Rich by 2025?]]></title>
-        <id>https://medium.com/p/1db08b129899</id>
-        <link href="https://medium.com/coinmonks/how-much-cardano-do-you-need-to-be-rich-by-2025-1db08b129899?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-26T08:52:23.000Z</updated>
-        <summary type="html"><![CDATA[And broken down by country
-Continue reading on Coinmonks »]]></summary>
+        <title type="html"><![CDATA[Building a Debate App: Part 2]]></title>
+        <id>https://medium.com/p/d3d7978249b4</id>
+        <link href="https://medium.com/coinmonks/building-a-debate-app-part-2-d3d7978249b4?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-26T10:08:41.000Z</updated>
+        <summary type="html"><![CDATA[Implementing the debate list]]></summary>
         <author>
-            <name>Pavle Marinkovic</name>
+            <name>Jeremy Orme</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kaspa New Exchange Listing — Uphold]]></title>
-        <id>https://medium.com/p/2cec64b590ab</id>
-        <link href="https://medium.com/coinmonks/kaspa-new-exchange-listing-uphold-2cec64b590ab?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-26T08:36:20.000Z</updated>
-        <summary type="html"><![CDATA[A global multi-asset digital trading platform.]]></summary>
+        <title type="html"><![CDATA[Building a Debate App: Part 4]]></title>
+        <id>https://medium.com/p/86db1fc11bde</id>
+        <link href="https://medium.com/coinmonks/building-a-debate-app-part-4-86db1fc11bde?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-26T10:08:36.000Z</updated>
+        <summary type="html"><![CDATA[Implementing voting]]></summary>
         <author>
-            <name>Nathaniel Crowningshield</name>
+            <name>Jeremy Orme</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mind Body Disputes]]></title>
-        <id>https://medium.com/p/599f732708df</id>
-        <link href="https://medium.com/coinmonks/mind-body-disputes-599f732708df?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-26T08:36:16.000Z</updated>
-        <summary type="html"><![CDATA[Does the mind control the body or the others around?
-Continue reading on Coinmonks »]]></summary>
+        <title type="html"><![CDATA[Building a Debate App: Part 5]]></title>
+        <id>https://medium.com/p/c8397f0ab15a</id>
+        <link href="https://medium.com/coinmonks/building-a-debate-app-part-5-c8397f0ab15a?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-26T10:08:34.000Z</updated>
+        <summary type="html"><![CDATA[Displaying vote counts]]></summary>
         <author>
-            <name>xuanling11</name>
+            <name>Jeremy Orme</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Earning is lower than you expected]]></title>
-        <id>https://medium.com/p/5cc9a7b934a0</id>
-        <link href="https://medium.com/coinmonks/earning-is-lower-than-you-expected-5cc9a7b934a0?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-26T08:36:14.000Z</updated>
-        <summary type="html"><![CDATA[You may dream about making $100,000k, but how much is it worth nowadays?
-Continue reading on Coinmonks »]]></summary>
+        <title type="html"><![CDATA[Building a Debate App: Part 6]]></title>
+        <id>https://medium.com/p/8e1db0a7de1c</id>
+        <link href="https://medium.com/coinmonks/building-a-debate-app-part-6-8e1db0a7de1c?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-26T10:08:31.000Z</updated>
+        <summary type="html"><![CDATA[The presentations page]]></summary>
         <author>
-            <name>xuanling11</name>
+            <name>Jeremy Orme</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NUVO: Revolutionizing Data Ownership and Monetization with Decentralized User Engagement Platform]]></title>
-        <id>https://medium.com/p/7e59ab8d916b</id>
-        <link href="https://medium.com/coinmonks/nuvo-revolutionizing-data-ownership-and-monetization-with-decentralized-user-engagement-platform-7e59ab8d916b?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-26T08:36:12.000Z</updated>
-        <summary type="html"><![CDATA[Data, used by businesses to drive operations and shape the way in which people interact with technologies, are becoming an important asset…]]></summary>
+        <title type="html"><![CDATA[Building a Debate App: Interlude]]></title>
+        <id>https://medium.com/p/dd1d4431e8fa</id>
+        <link href="https://medium.com/coinmonks/building-a-debate-app-interlude-dd1d4431e8fa?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-26T10:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Refactoring and what comes next…]]></summary>
         <author>
-            <name>Ekon Justus</name>
+            <name>Jeremy Orme</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make $100k in Matic by using this excellent dApp.]]></title>
-        <id>https://medium.com/p/b69602edf5f8</id>
-        <link href="https://medium.com/coinmonks/make-100k-in-matic-by-using-this-excellent-dapp-b69602edf5f8?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-26T08:36:09.000Z</updated>
-        <summary type="html"><![CDATA[On Medium, there are numerous similar blogs where you can win Matic Coins. Oyori, a new platform, has been introduced. This is a very…]]></summary>
+        <title type="html"><![CDATA[Building a Debate App: Part 7]]></title>
+        <id>https://medium.com/p/1be621ad04ec</id>
+        <link href="https://medium.com/coinmonks/building-a-debate-app-part-7-1be621ad04ec?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-26T10:08:23.000Z</updated>
+        <summary type="html"><![CDATA[Limiting the time a debate is active]]></summary>
         <author>
-            <name>CryptoMaster</name>
+            <name>Jeremy Orme</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Blockchain Can Revolutionize Cannabis Traceability: Part 4 (The final one!)]]></title>
-        <id>https://medium.com/p/7a25e975793b</id>
-        <link href="https://medium.com/coinmonks/how-blockchain-can-revolutionize-cannabis-traceability-part-4-the-final-one-7a25e975793b?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-26T08:36:07.000Z</updated>
-        <summary type="html"><![CDATA[Cannabis Traceability: Implementing Cantrak Seed-to-Sale and Blockchain Technology using Streamlit.]]></summary>
+        <title type="html"><![CDATA[Building a Debate App: Part 8]]></title>
+        <id>https://medium.com/p/28bc92f3eea5</id>
+        <link href="https://medium.com/coinmonks/building-a-debate-app-part-8-28bc92f3eea5?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-26T10:08:21.000Z</updated>
+        <summary type="html"><![CDATA[Liking debates]]></summary>
         <author>
-            <name>Shivek Sachdev</name>
+            <name>Jeremy Orme</name>
         </author>
     </entry>
     <entry>
