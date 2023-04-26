@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T20:11:26.835Z</id>
+    <id>urn:2023-04-26T21:10:34.206Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-26T20:11:26.835Z</updated>
+    <updated>2023-04-26T21:10:34.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Hardhat Simplifies Smart Contract Verification on Ethereum]]></title>
+        <id>https://medium.com/p/8a6a8f02315b</id>
+        <link href="https://blog.blockmagnates.com/how-hardhat-simplifies-smart-contract-verification-on-ethereum-8a6a8f02315b?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-04-26T20:49:26.000Z</updated>
+        <summary type="html"><![CDATA[Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. Smart contracts…
+Continue reading on Block Magnates »]]></summary>
+        <author>
+            <name>Kristaps Grinbergs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build Tools and Package Manager]]></title>
         <id>https://medium.com/p/84e857bf26c8</id>
