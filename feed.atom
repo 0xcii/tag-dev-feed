@@ -1,113 +1,173 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-28T07:11:07.640Z</id>
+    <id>urn:2023-04-28T08:14:57.260Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-28T07:11:07.640Z</updated>
+    <updated>2023-04-28T08:14:57.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Solana (SOL) — A Case Study]]></title>
-        <id>https://medium.com/p/c3bb4ce12bed</id>
-        <link href="https://medium.com/coinmonks/solana-sol-a-case-study-c3bb4ce12bed?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-27T12:46:28.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the world of Solana, a revolutionary cryptocurrency that has been making waves in the digital finance space. With the…]]></summary>
+        <title type="html"><![CDATA[Layer Up Your Smart Contract Game with Layer VScode Extension — No More Solidi-Tea Breaks!]]></title>
+        <id>https://medium.com/p/fc1e56d967b5</id>
+        <link href="https://coinsbench.com/layer-up-your-smart-contract-game-with-layer-vscode-extension-no-more-solidi-tea-breaks-fc1e56d967b5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-28T07:58:56.000Z</updated>
+        <summary type="html"><![CDATA[Layer is a Visual Studio Code (VScode) extension especially designed to deploy and execute smart contracts directly from the VScode window.]]></summary>
         <author>
-            <name>Suman Garai</name>
+            <name>Aniket Singh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Shocking Truth About the Baby Boomer-Millennial Wealth Gap!]]></title>
-        <id>https://medium.com/p/205bcc6e0f0e</id>
-        <link href="https://medium.com/coinmonks/the-shocking-truth-about-the-baby-boomer-millennial-wealth-gap-205bcc6e0f0e?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-27T12:46:26.000Z</updated>
-        <summary type="html"><![CDATA[Discover the surprising reality of the wealth gap in this eye-opening post.
+        <title type="html"><![CDATA[Best Practices for Developing Smart Contracts That Are Easy to Audit]]></title>
+        <id>https://medium.com/p/d138c5c7213f</id>
+        <link href="https://coinsbench.com/best-practices-for-developing-smart-contracts-that-are-easy-to-audit-d138c5c7213f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-28T07:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts are an essential component of the blockchain ecosystem. They enable developers to build decentralized applications (dApps)…]]></summary>
+        <author>
+            <name>Lea Lobanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Foundry and a Basic Test]]></title>
+        <id>https://medium.com/p/e0cc736ec4ac</id>
+        <link href="https://coinsbench.com/introducing-foundry-and-a-basic-test-e0cc736ec4ac?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-28T07:58:50.000Z</updated>
+        <summary type="html"><![CDATA[Image from https://book.getfoundry.sh/]]></summary>
+        <author>
+            <name>Arjun Bahera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Flow Blockchain: A Next-Generation Platform for Smart Contracts and Digital Assets]]></title>
+        <id>https://medium.com/p/d432ae0352bc</id>
+        <link href="https://coinsbench.com/understanding-flow-blockchain-a-next-generation-platform-for-smart-contracts-and-digital-assets-d432ae0352bc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-28T07:58:48.000Z</updated>
+        <summary type="html"><![CDATA[The emergence of blockchain technology has revolutionized various industries, ranging from finance to supply chain management. Among the…]]></summary>
+        <author>
+            <name>Lea Lobanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s Ai plans, Music is at war with Ai and more…]]></title>
+        <id>https://medium.com/p/2ba9d60a44fc</id>
+        <link href="https://medium.com/coinmonks/apples-ai-plans-music-is-at-war-with-ai-and-more-2ba9d60a44fc?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-28T07:58:46.000Z</updated>
+        <summary type="html"><![CDATA[Greetings, everyone!]]></summary>
+        <author>
+            <name>YAROCELIS.eth - Tech Trends</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Been Crypto — Week 28 April 2023]]></title>
+        <id>https://medium.com/p/b5bc7fe9b49</id>
+        <link href="https://medium.com/coinmonks/all-been-crypto-week-28-april-2023-b5bc7fe9b49?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-28T07:58:43.000Z</updated>
+        <summary type="html"><![CDATA[And we are almost back at 30k again after a week of volatility with sluggish US macro data and a sign that the banking crisis is far from…]]></summary>
+        <author>
+            <name>Bat Tai Chi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Summary of Manta Network’s Latest Developments]]></title>
+        <id>https://medium.com/p/81ebcf9a2e20</id>
+        <link href="https://medium.com/coinmonks/a-summary-of-manta-networks-latest-developments-81ebcf9a2e20?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-28T07:58:42.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, we’ll take a closer look at Manta Network’s recent developments, including their integration of zkBABs, partnerships…]]></summary>
+        <author>
+            <name>Crypto Junkie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honeygain Review 2023: How I Earned a Free $900 Effortlessly!]]></title>
+        <id>https://medium.com/p/c7710c34bba6</id>
+        <link href="https://medium.com/coinmonks/honeygain-review-2023-how-i-earned-a-free-900-effortlessly-c7710c34bba6?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-28T07:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Honeygain converts your internet into cash, generating passive income effortlessly! Here is my take after being with Honeygain for a year.]]></summary>
+        <author>
+            <name>Trader FX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto News Today — April 28, 2023]]></title>
+        <id>https://medium.com/p/a3d67c987433</id>
+        <link href="https://medium.com/coinmonks/crypto-news-today-april-28-2023-a3d67c987433?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-28T07:58:37.000Z</updated>
+        <summary type="html"><![CDATA[If you’re interested in keeping upwith the crypto world, then you’ve come to the right place to receive crypto news.
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>FinanceRock</name>
+            <name>Crypto Beat</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 5 Secret Tips To Make $300 Per Day With Crypto!]]></title>
-        <id>https://medium.com/p/354fbac5f31</id>
-        <link href="https://medium.com/coinmonks/top-5-secret-tips-to-make-300-per-day-with-crypto-354fbac5f31?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-27T12:46:22.000Z</updated>
-        <summary type="html"><![CDATA[How To Make Money Fast With Cryptocurrency in 2023
+        <title type="html"><![CDATA[Coinbase vs. the SEC: A Look at the Battle for Crypto Regulation]]></title>
+        <id>https://medium.com/p/d2dedcf7f7a3</id>
+        <link href="https://medium.com/coinmonks/coinbase-vs-the-sec-a-look-at-the-battle-for-crypto-regulation-d2dedcf7f7a3?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-28T07:58:37.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase Takes a Stand Against the SEC]]></summary>
+        <author>
+            <name>ZeroRequiem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Memes Today — April 28, 2023]]></title>
+        <id>https://medium.com/p/d91e56a59435</id>
+        <link href="https://medium.com/coinmonks/crypto-memes-today-april-28-2023-d91e56a59435?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-28T07:58:09.000Z</updated>
+        <summary type="html"><![CDATA[What are crypto memes? They are funny pictures or videos that feature characters. Here are the best crypto memes of the last 24 hours.
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Ewa Patoka</name>
+            <name>Crypto Beat</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China’s Bitcoin Stash Lost $388 Million in Value]]></title>
-        <id>https://medium.com/p/2f107c2f6421</id>
-        <link href="https://medium.com/coinmonks/chinas-bitcoin-stash-lost-388-million-in-value-2f107c2f6421?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-27T12:46:15.000Z</updated>
-        <summary type="html"><![CDATA[Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Doogie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Stochastic of Moving Average Indicator]]></title>
-        <id>https://medium.com/p/d3e3cd4780bd</id>
-        <link href="https://medium.com/coinmonks/the-stochastic-of-moving-average-indicator-d3e3cd4780bd?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-27T12:46:14.000Z</updated>
-        <summary type="html"><![CDATA[Creating & Coding the Stochastic of Moving Average Indicator in Python
+        <title type="html"><![CDATA[The Potential of Bitcoin as an Alternative Financial System]]></title>
+        <id>https://medium.com/p/75b79abefa0</id>
+        <link href="https://medium.com/coinmonks/the-potential-of-bitcoin-as-an-alternative-financial-system-75b79abefa0?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-28T07:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Bernstein’s prediction that Bitcoin will emerge as an alternative financial system amid bank busts is not far-fetched.
 Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Beat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Fear And Greed Index Today — April 28, 2023]]></title>
+        <id>https://medium.com/p/d3260885a7b3</id>
+        <link href="https://medium.com/coinmonks/bitcoin-fear-and-greed-index-today-april-28-2023-d3260885a7b3?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-28T07:58:09.000Z</updated>
+        <summary type="html"><![CDATA[The Fear and Greed Index is a tool that helps investors and traders understand the sentiment of the crypto market. Stay up to date.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Beat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Current Crypto Prices — April 28, 2023]]></title>
+        <id>https://medium.com/p/3158468aff7a</id>
+        <link href="https://medium.com/coinmonks/current-crypto-prices-april-28-2023-3158468aff7a?source=rss----721b17443fd5---4"/>
+        <updated>2023-04-28T07:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrencies are a volatile market, with prices rapidly changing. Here are the top 10 cryptocurrencies by market capitalization.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Beat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Decentralized Applications with Solana and Rust: A Smart Contract Crash Course for…]]></title>
+        <id>https://medium.com/p/d0453b699021</id>
+        <link href="https://coinsbench.com/building-decentralized-applications-with-solana-and-rust-a-smart-contract-crash-course-for-d0453b699021?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-28T07:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Solana is a high-performance blockchain designed for scalability and efficiency. Its innovative architecture allows for fast transaction…]]></summary>
+        <author>
+            <name>Lea Lobanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fundamental Analysis in Python - The ISM PMI Technique]]></title>
+        <id>https://medium.com/p/bfe39cdefa3e</id>
+        <link href="https://coinsbench.com/fundamental-analysis-in-python-the-ism-pmi-technique-bfe39cdefa3e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-28T07:56:59.000Z</updated>
+        <summary type="html"><![CDATA[Using the ISM PMI as a Predictor of the Currency Market]]></summary>
         <author>
             <name>Sofien Kaabar, CFA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where does the path lead?]]></title>
-        <id>https://medium.com/p/a24b610cac6e</id>
-        <link href="https://medium.com/coinmonks/where-does-the-path-lead-a24b610cac6e?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-27T12:46:11.000Z</updated>
-        <summary type="html"><![CDATA[Today we have a pair of #USDJPY. The monthly chart shows that the pair rose almost vertically last year, but the peak came already in…]]></summary>
-        <author>
-            <name>Paul Mihalev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changshu (China) to Pay Salaries 100% in Digital Yuan]]></title>
-        <id>https://medium.com/p/816890b96d96</id>
-        <link href="https://medium.com/coinmonks/changshu-china-to-pay-salaries-100-in-digital-yuan-816890b96d96?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-27T11:37:03.000Z</updated>
-        <summary type="html"><![CDATA[A region in China is going to pay 100% salaries for state employees in the digital yuan, the CBDC digital currency of China.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>CryptoGod-1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 email marketing — why you should be using email and how to get the most from it]]></title>
-        <id>https://medium.com/p/f4f2db6d1fe2</id>
-        <link href="https://medium.com/coinmonks/web3-email-marketing-why-you-should-be-using-email-and-how-to-get-the-most-from-it-f4f2db6d1fe2?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-27T11:36:37.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been in the marketing game for a while now. Around 10 years.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Pete Boyle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Marketing Strategies to Stay Ahead of the Game]]></title>
-        <id>https://medium.com/p/6341c6766824</id>
-        <link href="https://medium.com/coinmonks/web3-marketing-strategies-to-stay-ahead-of-the-game-6341c6766824?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-27T11:36:31.000Z</updated>
-        <summary type="html"><![CDATA[In this blog, we will discuss the key components of Web3 marketing, and strategies that businesses can use to build their online presence.]]></summary>
-        <author>
-            <name>Sophia Grace</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curious Cryptos’ Commentary 27th April 2023 — Mt. Gox, Silk Road, and memes]]></title>
-        <id>https://medium.com/p/3ae9e1b39c61</id>
-        <link href="https://medium.com/coinmonks/curious-cryptos-commentary-27th-april-2023-mt-gox-silk-road-and-memes-3ae9e1b39c61?source=rss----721b17443fd5---4"/>
-        <updated>2023-04-27T11:25:54.000Z</updated>
-        <summary type="html"><![CDATA[tl;dr]]></summary>
-        <author>
-            <name>Mark Timmis</name>
         </author>
     </entry>
     <entry>
@@ -159,66 +219,6 @@ Continue reading on Block Magnates »]]></summary>
         <summary type="html"><![CDATA[Pre-Installation]]></summary>
         <author>
             <name>Johnaverse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner’s Guide to Smart Contract Programming on the Flow Blockchain with Cadence]]></title>
-        <id>https://medium.com/p/e00cfda4a3b5</id>
-        <link href="https://coinsbench.com/a-beginners-guide-to-smart-contract-programming-on-the-flow-blockchain-with-cadence-e00cfda4a3b5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-25T10:17:19.000Z</updated>
-        <summary type="html"><![CDATA[Smart contract programming has gained immense popularity in the recent past, primarily due to the growing demand for decentralized…]]></summary>
-        <author>
-            <name>Lea Lobanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to convert an existing hardhat project into foundry for Solidity smart contract development?]]></title>
-        <id>https://medium.com/p/aacddc2496af</id>
-        <link href="https://coinsbench.com/how-to-convert-an-existing-hardhat-project-into-foundry-for-solidity-smart-contract-development-aacddc2496af?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-25T10:17:17.000Z</updated>
-        <summary type="html"><![CDATA[It takes three steps:]]></summary>
-        <author>
-            <name>Michael Humor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Smart Contract Security with the Fusion of Artificial Intelligence and Blockchain…]]></title>
-        <id>https://medium.com/p/9594a977ed2a</id>
-        <link href="https://coinsbench.com/smart-contract-security-ai-blockchain-9594a977ed2a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-25T10:17:16.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we explore the combined use of Solidity, Python, and other blockchain technologies with artificial intelligence algorithms…]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Create Our Own Token with Brownie!]]></title>
-        <id>https://medium.com/p/4827423ed562</id>
-        <link href="https://coinsbench.com/lets-create-our-own-token-with-brownie-4827423ed562?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-25T10:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Hello all, I hope you missed me :)]]></summary>
-        <author>
-            <name>Fethi Tekyaygil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achieving Universal and Reusable Smart Contracts via ERC2535 Diamond Proxy Standard]]></title>
-        <id>https://medium.com/p/ba4c9f5ac5bc</id>
-        <link href="https://coinsbench.com/achieving-universal-and-reusable-smart-contracts-via-erc2535-diamond-proxy-standard-ba4c9f5ac5bc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-24T16:27:38.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts revolutionized the blockchain ecosystem by enabling a wide range of decentralized applications (dApps) for various…]]></summary>
-        <author>
-            <name>Alexe Spataru</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conducting a Comprehensive Smart Contract Security Audit: Best Practices and Guidelines]]></title>
-        <id>https://medium.com/p/4150606eda7e</id>
-        <link href="https://coinsbench.com/conducting-a-comprehensive-smart-contract-security-audit-best-practices-and-guidelines-4150606eda7e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-24T16:27:35.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts have gained significant attention in recent years as they power decentralized applications (dApps) on blockchain platforms…]]></summary>
-        <author>
-            <name>Lea Lobanov</name>
         </author>
     </entry>
     <entry>
