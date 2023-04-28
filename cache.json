@@ -63,7 +63,7 @@
           "description": "Solana is a high-performance blockchain designed for scalability and efficiency. Its innovative architecture allows for fast transaction…",
           "link": "https://coinsbench.com/building-decentralized-applications-with-solana-and-rust-a-smart-contract-crash-course-for-d0453b699021?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-04-28T07:57:01.000Z",
-          "wordCount": 4571,
+          "wordCount": 3691,
           "title": "Building Decentralized Applications with Solana and Rust: A Smart Contract Crash Course for…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0HLnf9BmlFnJYkfdGB37Zg.png"
         },
@@ -73,7 +73,7 @@
           "description": "Using the ISM PMI as a Predictor of the Currency Market",
           "link": "https://coinsbench.com/fundamental-analysis-in-python-the-ism-pmi-technique-bfe39cdefa3e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-04-28T07:56:59.000Z",
-          "wordCount": 5268,
+          "wordCount": 4351,
           "title": "Fundamental Analysis in Python - The ISM PMI Technique",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zgBD_HvWK0j58Sqh99_yUA.jpeg"
         },
@@ -113,7 +113,7 @@
           "description": "Pre-Installation",
           "link": "https://coinsbench.com/verify-your-smart-contract-on-etherscan-bscscan-in-1-mins-34b30109124b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-04-26T08:05:46.000Z",
-          "wordCount": 1221,
+          "wordCount": 2157,
           "title": "Verify your smart contract on Etherscan/ Bscscan in 1 mins",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1006/0*7ltWsIxQomDFXmTu.png"
         }
@@ -125,12 +125,82 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e451c36d7561",
+          "author": "Skyline",
+          "description": "This Article will look at Cryptos that have the potential to expand significantly this year.",
+          "link": "https://medium.com/coinmonks/5-next-cryptocurrencies-to-explode-in-2023-e451c36d7561?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-28T10:52:57.000Z",
+          "wordCount": 3154,
+          "title": "5 Next Cryptocurrencies to Explode in 2023.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:626/1*AJEMLBQsty9xjkkdEwpA5A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/aaddfd2c9103",
+          "author": "Oodles Blockchain",
+          "description": "Smart contracts are self-executing programs that perform instructions on top of a blockchain. They eliminate or reduce the involvement of…",
+          "link": "https://medium.com/coinmonks/emerging-smart-contracts-use-cases-oodles-blockchain-aaddfd2c9103?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-28T10:24:37.000Z",
+          "wordCount": 2352,
+          "title": "Emerging Smart Contracts Use Cases | Oodles Blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:450/1*U6AwguiB7Z0wpTHw-WSFyg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/6205008f8615",
+          "author": "Oodles Blockchain",
+          "description": "NFT Renting",
+          "link": "https://medium.com/coinmonks/how-to-create-rentable-nfts-6205008f8615?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-28T10:24:32.000Z",
+          "wordCount": 2828,
+          "title": "How to Create Rentable NFTs",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:558/1*hVvVQgGajVR7xJNwnaMQzQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/a3a169c16ab6",
+          "author": "Mark Timmis",
+          "description": "tl;dr",
+          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-28th-april-2023-robinhood-a3a169c16ab6?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-28T10:24:27.000Z",
+          "wordCount": 2591,
+          "title": "Curious Cryptos’ Commentary 28th April 2023 — Robinhood",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1dfef1ec1730",
+          "author": "Rittik Das",
+          "description": "DeFi, or Decentralized Finance, is a significant component of the Web 3.0 landscape. DeFi projects operate on blockchain networks and are…",
+          "link": "https://medium.com/coinmonks/decentralized-customer-service-how-defi-projects-leverage-web-3-0-communities-for-support-1dfef1ec1730?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-28T10:24:25.000Z",
+          "wordCount": 1536,
+          "title": "Decentralized Customer Service: How DeFi Projects Leverage Web 3.0 Communities for Support",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*hm7nFpLtZVYTDQl7oSJpNQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/74c6597e3989",
+          "author": "Elijah Henry",
+          "description": "Understanding the Buzz Around NFTs — Non-Fungible Tokens",
+          "link": "https://medium.com/coinmonks/how-to-build-your-own-nft-minting-website-a-step-by-step-guide-74c6597e3989?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-28T10:24:23.000Z",
+          "wordCount": 5061,
+          "title": "How to Build Your Own NFT Minting Website: A Step-by-Step Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*olxRKjgefwSaVEaK2Yc5dg.png"
+        },
+        {
+          "id": "https://medium.com/p/6779b220665f",
+          "author": "Treehouse",
+          "description": "Cloud service providers like AWS are focusing on blockchain products and partnerships. Will this bridge the Web2 to Web3 gap?",
+          "link": "https://medium.com/coinmonks/in-the-clouds-bridging-the-web2-to-web3-gap-6779b220665f?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-04-28T10:24:16.000Z",
+          "wordCount": 2283,
+          "title": "In the Clouds: Bridging the Web2 to Web3 Gap",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*e5QyHtYnkV00zSGVdzRoaQ.png"
+        },
+        {
           "id": "https://medium.com/p/21c8c5e30247",
           "author": "Crypto King",
-          "description": "American Lawmakers Show Support for Bitcoin Despite Reports of US Government Liquidating Mt. Gox Bitcoin Holdings",
+          "description": "American Lawmakers Show Support for Bitcoin Despite Reports of US Government Liquidating Mt. Gox Bitcoin Holdings\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/us-governments-bitcoin-holdings-and-the-future-of-btc-price-21c8c5e30247?source=rss----721b17443fd5---4",
           "publishedOn": "2023-04-28T08:15:09.000Z",
-          "wordCount": 2514,
+          "wordCount": 1055,
           "title": "US Government’s Bitcoin Holdings and the Future of BTC Price",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Z2xozzS0JQ5uGgFYkGqyAg.png"
         },
@@ -153,76 +223,6 @@
           "wordCount": 1089,
           "title": "Most Active Cryptocurrency — April 27, 2023",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*JyWm69hKBdf-MmzP"
-        },
-        {
-          "id": "https://medium.com/p/81fa252c80f",
-          "author": "Crypto with Roberto",
-          "description": "Get Ready to Explore the Ultimate Virtual World: Gabby World is Here, and It’s Waiting for You!",
-          "link": "https://medium.com/coinmonks/dont-miss-out-on-gabby-world-earn-your-whitelist-and-get-priority-access-to-nfts-token-airdrops-81fa252c80f?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-28T08:14:51.000Z",
-          "wordCount": 2255,
-          "title": "Don’t Miss Out on Gabby World: Earn Your Whitelist and Get Priority Access to NFTs, Token Airdrops…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*uk0OnoIRuk7lva9BM5mckw.png"
-        },
-        {
-          "id": "https://medium.com/p/de7550cde16a",
-          "author": "Moulay Abdellah Aber",
-          "description": "Cryptocurrencies, especially Bitcoin, have been dominating headlines over the past few years due to their volatile nature and increasing…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/cryptocurrency-and-energy-consumption-is-it-really-a-concern-de7550cde16a?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-28T08:14:48.000Z",
-          "wordCount": 1128,
-          "title": "Cryptocurrency and Energy Consumption: Is It Really a Concern?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*KTN48Mfv-9YFOfnw"
-        },
-        {
-          "id": "https://medium.com/p/35bf96dc5202",
-          "author": "Hungry Cow 4786",
-          "description": "In the first The Moo Point article, I discussed the opposing ideas of Bitcoin Maximalism and Cross-Chain Maximalism. I attempted to…",
-          "link": "https://medium.com/coinmonks/the-moo-point-2-decentralization-and-web-3-gaining-a-sense-of-perspective-35bf96dc5202?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-28T08:14:46.000Z",
-          "wordCount": 5788,
-          "title": "The Moo Point #2 — Decentralization and Web 3: Gaining a Sense of Perspective",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*zUF-MAObLlb8UJHb"
-        },
-        {
-          "id": "https://medium.com/p/72dedbf2f40e",
-          "author": "Hungry Cow 4786",
-          "description": "In The Moo Point #2, I discussed the idea of gaining perspective around the role of centralization and decentralization in the world of…",
-          "link": "https://medium.com/coinmonks/the-moo-point-3-stablecoins-across-the-centralization-decentralization-cline-72dedbf2f40e?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-28T08:14:44.000Z",
-          "wordCount": 5342,
-          "title": "The Moo Point #3 — Stablecoins across the Centralization-Decentralization Cline",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*R4zBqTwZMPhk9_6Z"
-        },
-        {
-          "id": "https://medium.com/p/4e68efbec414",
-          "author": "Moulay Abdellah Aber",
-          "description": "The Role of Cryptocurrency in the Global Economy\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-role-of-cryptocurrency-in-the-global-economy-4e68efbec414?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-28T08:14:42.000Z",
-          "wordCount": 1122,
-          "title": "The Role of Cryptocurrency in the Global Economy",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*ZVB8eGSEwGP9z0ER"
-        },
-        {
-          "id": "https://medium.com/p/4ccd40c925f8",
-          "author": "Vremaroiu Alin",
-          "description": "Investing in Bitcoin might be a smart move for a variety of reasons.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/why-should-you-invest-in-bitcoin-btc-4ccd40c925f8?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-28T08:14:38.000Z",
-          "wordCount": 1071,
-          "title": "Why Should You Invest In Bitcoin (BTC)?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qNPslQGLVqfM_kZxSNiNzA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/32cbc47c4027",
-          "author": "Vremaroiu Alin",
-          "description": "Bitcoin (BTC) Price Prediction 2023\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-btc-price-prediction-2023-2030-32cbc47c4027?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-04-28T08:14:36.000Z",
-          "wordCount": 1022,
-          "title": "Bitcoin (BTC) Price Prediction 2023–2030",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ErQJjGkOjApmo_Kt4LDzQA.jpeg"
         }
       ]
     },
