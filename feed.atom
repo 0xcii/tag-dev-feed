@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T08:13:29.075Z</id>
+    <id>urn:2023-04-30T09:10:31.555Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-30T08:13:29.075Z</updated>
+    <updated>2023-04-30T09:10:31.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Cost of Gas: Understanding Ethereum’s Gas Model]]></title>
+        <id>https://medium.com/p/923601889814</id>
+        <link href="https://coinsbench.com/cost-of-gas-923601889814?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-30T09:07:15.000Z</updated>
+        <summary type="html"><![CDATA[This article would provide a detailed explanation of Ethereum’s gas model, including how gas fees are calculated, how gas is used to…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevNTell - TalentLayer]]></title>
         <id>https://blog.developerdao.com/devntell-talentlayer</id>
@@ -238,16 +248,6 @@ Continue reading on Block Magnates »]]></summary>
         <summary type="html"><![CDATA[Solidity is a powerful programming language for creating smart contracts on the Ethereum blockchain. If you’ve just started learning…]]></summary>
         <author>
             <name>Lem Canady</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pre-Built NFT and Smart Contract Solutions for Quick Launch]]></title>
-        <id>https://medium.com/p/aaa448ae340a</id>
-        <link href="https://coinsbench.com/pre-built-nft-and-smart-contract-solutions-for-quick-launch-aaa448ae340a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-26T08:05:48.000Z</updated>
-        <summary type="html"><![CDATA[Given the fierce competition in the blockchain, crypto, and NFT space, developing NFT and smart contract solutions from scratch might not…]]></summary>
-        <author>
-            <name>Anjali Yadav</name>
         </author>
     </entry>
     <entry>
