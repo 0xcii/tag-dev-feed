@@ -18,6 +18,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/69ed86c834f8",
+          "author": "OUBADI Ahmed",
+          "description": "We’re excited to announce that our team at Fastlybot is currently working on building our next product: a Flashloan Arbitrage Bot. This…",
+          "link": "https://coinsbench.com/this-is-how-were-developing-our-flashloan-arbitrage-bot-69ed86c834f8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-01T13:53:43.000Z",
+          "wordCount": 2730,
+          "title": "This is how we’re developing our Flashloan Arbitrage Bot",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jOi0bD7qfy09eeMnjqf6ig.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/f65c2b1d3c25",
+          "author": "dsysd dev",
+          "description": "Solidity, hardhat and backend development fellas !!",
+          "link": "https://coinsbench.com/how-i-got-multiple-five-and-six-figure-offers-in-web3-with-proof-during-bear-market-f65c2b1d3c25?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-01T13:53:13.000Z",
+          "wordCount": 2531,
+          "title": "How I got multiple five and six figure offers in web3 with proof during bear market",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*FHvjE88n9akjfHxI"
+        },
+        {
+          "id": "https://medium.com/p/f0ff5af352a1",
+          "author": "Galien Dev",
+          "description": "Polygon, previously known as Matic Network, is a layer 2 scaling solution for Ethereum that offers several features for developers and…",
+          "link": "https://coinsbench.com/polygon-scaling-ethereum-with-speed-and-security-f0ff5af352a1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-01T13:53:10.000Z",
+          "wordCount": 2817,
+          "title": "Polygon: Scaling Ethereum with Speed and Security",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3BHz76OhKsRdY83Et2txfQ.png"
+        },
+        {
+          "id": "https://medium.com/p/fd8a452172dc",
+          "author": "ChainGPT",
+          "description": "Do You Want to Master Decentralized Crowdfunding with AI? Learn How to Deploy a Smart Contract and Contribute to a Campaign with Remix’s…",
+          "link": "https://coinsbench.com/power-up-your-crowdfunding-game-how-to-use-ai-to-learn-about-smart-contracts-on-remix-fd8a452172dc?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-01T13:53:08.000Z",
+          "wordCount": 3756,
+          "title": "Power Up Your Crowdfunding Game: How to Use AI to Learn About Smart Contracts on Remix",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:890/1*8aqPtC7HPFdU2SA0v4C0Pw.png"
+        },
+        {
+          "id": "https://medium.com/p/4a4492e5b521",
+          "author": "Cayo Tor",
+          "description": "The Quirks of the Selfdestruct OpCode",
+          "link": "https://coinsbench.com/7-force-ethernaut-explained-4a4492e5b521?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-01T13:53:06.000Z",
+          "wordCount": 1391,
+          "title": "#7 Force— Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*d9anjrWHbgaDUaFw.png"
+        },
+        {
           "id": "https://medium.com/p/c1f25a2a5cdb",
           "author": "Solidity Academy",
           "description": "This article would provide tips and tricks for Ethereum users on how to reduce the amount of gas they pay for transactions, including using…",
@@ -66,56 +116,6 @@
           "wordCount": 2788,
           "title": "Best Practices for Developing Smart Contracts That Are Easy to Audit",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TBAlxfbT59ab2UN178yJMw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e0cc736ec4ac",
-          "author": "Arjun Bahera",
-          "description": "Image from https://book.getfoundry.sh/",
-          "link": "https://coinsbench.com/introducing-foundry-and-a-basic-test-e0cc736ec4ac?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-28T07:58:50.000Z",
-          "wordCount": 1676,
-          "title": "Introducing Foundry and a Basic Test",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*X5JnJUzf0bkUAxxkB0MZ6g.png"
-        },
-        {
-          "id": "https://medium.com/p/d432ae0352bc",
-          "author": "Lea Lobanov",
-          "description": "The emergence of blockchain technology has revolutionized various industries, ranging from finance to supply chain management. Among the…",
-          "link": "https://coinsbench.com/understanding-flow-blockchain-a-next-generation-platform-for-smart-contracts-and-digital-assets-d432ae0352bc?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-28T07:58:48.000Z",
-          "wordCount": 3128,
-          "title": "Understanding Flow Blockchain: A Next-Generation Platform for Smart Contracts and Digital Assets",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JN1fzQJJ45LQDDcJ-BZ9gQ.png"
-        },
-        {
-          "id": "https://medium.com/p/d0453b699021",
-          "author": "Lea Lobanov",
-          "description": "Solana is a high-performance blockchain designed for scalability and efficiency. Its innovative architecture allows for fast transaction…",
-          "link": "https://coinsbench.com/building-decentralized-applications-with-solana-and-rust-a-smart-contract-crash-course-for-d0453b699021?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-28T07:57:01.000Z",
-          "wordCount": 4537,
-          "title": "Building Decentralized Applications with Solana and Rust: A Smart Contract Crash Course for…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0HLnf9BmlFnJYkfdGB37Zg.png"
-        },
-        {
-          "id": "https://medium.com/p/bfe39cdefa3e",
-          "author": "Sofien Kaabar, CFA",
-          "description": "Using the ISM PMI as a Predictor of the Currency Market",
-          "link": "https://coinsbench.com/fundamental-analysis-in-python-the-ism-pmi-technique-bfe39cdefa3e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-28T07:56:59.000Z",
-          "wordCount": 4351,
-          "title": "Fundamental Analysis in Python - The ISM PMI Technique",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zgBD_HvWK0j58Sqh99_yUA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/372b83c6db00",
-          "author": "Fethi Tekyaygil",
-          "description": "Hello everyone, I’m excited to meet you again after a long time! So much has happened in this long period that I changed jobs twice…",
-          "link": "https://coinsbench.com/in-the-name-of-facerecognition-and-brownie-372b83c6db00?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-26T08:06:19.000Z",
-          "wordCount": 12891,
-          "title": "In the Name of FaceRecognition and Brownie!",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:600/1*rX69udKWsBK_1oYXbTjBcQ.gif"
         }
       ]
     },
@@ -125,12 +125,52 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/62d317a74295",
+          "author": "Hamid Akhtar",
+          "description": "How can you tell the difference between good and bad code? In most cases, tests will reveal the solution. Software testing, both during and…",
+          "link": "https://medium.com/coinmonks/how-to-enable-xcode-code-coverage-62d317a74295?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-01T13:33:41.000Z",
+          "wordCount": 5153,
+          "title": "How to enable Xcode Code Coverage?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:327/0*uOllzjiif_c8UiNd.jpg"
+        },
+        {
+          "id": "https://medium.com/p/ed6a0d235c6f",
+          "author": "CryptoGod-1",
+          "description": "New update to the Litd function within the Bitcoin Lightning Network should make it easier for users, and businesses, to access the…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/lightning-labs-makes-upgrade-to-lightning-network-ed6a0d235c6f?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-01T13:33:39.000Z",
+          "wordCount": 1045,
+          "title": "Lightning Labs makes Upgrade to Lightning Network",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JghqBGPWjkmW_jV346-dgw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/d5039eaf21ad",
+          "author": "Paul Mihalev",
+          "description": "Today we have the #EURGBP pair in our review. The order of studying the chart — starting with the largest — remains unchanged. For almost…",
+          "link": "https://medium.com/coinmonks/an-unstable-balance-d5039eaf21ad?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-01T13:33:37.000Z",
+          "wordCount": 2110,
+          "title": "An unstable balance?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3z5byzB5wevu6YIB-t7d1Q.png"
+        },
+        {
+          "id": "https://medium.com/p/a561d2096f92",
+          "author": "Profitable Investing Tips",
+          "description": "Long dreaded regulations have begun to descend on the world of cryptocurrencies. The most recent rules will affect roughly a fifth of all…",
+          "link": "https://medium.com/coinmonks/will-new-eu-rules-help-or-hurt-crypto-a561d2096f92?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-01T13:33:35.000Z",
+          "wordCount": 2429,
+          "title": "Will New EU Rules Help or Hurt Crypto?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*YWFwK43TaLxRor0kmgO-bQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/ef3eff4f09b5",
           "author": "Mark Timmis",
           "description": "tl;dr",
           "link": "https://medium.com/coinmonks/curious-cryptos-commentary-1st-may-2023-venmo-and-operation-choke-point-2-0-ef3eff4f09b5?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-01T12:15:56.000Z",
-          "wordCount": 3128,
+          "wordCount": 2210,
           "title": "Curious Cryptos’ Commentary 1st May 2023 — Venmo and Operation Choke Point 2.0",
           "imageUrl": null
         },
@@ -183,46 +223,6 @@
           "wordCount": 1055,
           "title": "7 Essential Steps to Invest Smarter, Not Harder, and Save Big",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*yuZlB-caGkkInUNP"
-        },
-        {
-          "id": "https://medium.com/p/2c34e1f50b74",
-          "author": "36Crypto",
-          "description": "As the popularity of NFTs continues to rise, more and more investors are starting to take notice of their potential as a new asset class…",
-          "link": "https://medium.com/coinmonks/my-5-best-nfts-to-invest-in-for-may-2023-2c34e1f50b74?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-01T12:15:43.000Z",
-          "wordCount": 2794,
-          "title": "My 5 Best NFTs to Invest in for May (2023)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NgNivPQ-LFcFqZyBNNRKKQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/7b3f9b4cf50e",
-          "author": "Pirichain",
-          "description": "Pirichain is not only blockchain concept also platform and Firms can establish their sub chains. It provides a new platform to allow your…",
-          "link": "https://medium.com/coinmonks/create-more-democtratic-atmospher-in-your-firm-7b3f9b4cf50e?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-01T12:15:41.000Z",
-          "wordCount": 1355,
-          "title": "Create more democtratic atmospher in your firm!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:642/1*psv8ihakStZqKonSSTZUBA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d423b5858314",
-          "author": "Ronwriter",
-          "description": "For the first time since 1948, U.S. bank deposits fell in 2022. The year was marked by steadily increasing inflation, soaring economic…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/recession-fears-banking-woes-and-how-it-impacts-everyday-people-d423b5858314?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-01T12:15:39.000Z",
-          "wordCount": 1074,
-          "title": "Recession fears, banking woes, and how it impacts everyday people",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:509/1*nPlWp433dINBhrUSvMJJSw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3dce5783ac82",
-          "author": "David Iruafeimi",
-          "description": "Discover the exciting world of Web 3 and how it is set to revolutionize the way we interact online. Learn about the key concepts and…",
-          "link": "https://medium.com/coinmonks/demystifying-web-3-the-future-of-the-internet-3dce5783ac82?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-01T08:21:55.000Z",
-          "wordCount": 3523,
-          "title": "Demystifying Web 3: The Future of the Internet",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*V7IS0T09AtjyJ9dkgn7AFA.jpeg"
         }
       ]
     },
@@ -247,7 +247,7 @@
           "description": "Before Start",
           "link": "https://blog.blockmagnates.com/deploy-contract-on-base-goerli-5a559cc5e82a?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-17T09:44:25.000Z",
-          "wordCount": 1811,
+          "wordCount": 960,
           "title": "Deploy contract on Base Goerli",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:624/1*5vZE7nyBNDstx2TkGiFu-w.png"
         },
@@ -257,7 +257,7 @@
           "description": "If you are seeking a tutorial-oriented guide for Smart Contract Upgrades and Proxy Patterns, then this is the article that you have been…",
           "link": "https://blog.blockmagnates.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-1-10-25f86c0b92d1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-14T08:46:12.000Z",
-          "wordCount": 1871,
+          "wordCount": 2786,
           "title": "Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [1/8]",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9JaNXQ5u_A0YkhMs"
         },
