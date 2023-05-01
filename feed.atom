@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T09:12:00.656Z</id>
+    <id>urn:2023-05-01T10:13:14.830Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-01T09:12:00.656Z</updated>
+    <updated>2023-05-01T10:13:14.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mastering Midjourney: Camera Angles]]></title>
+        <id>https://blog.developerdao.com/mastering-midjourney-camera-angles</id>
+        <link href="https://blog.developerdao.com/mastering-midjourney-camera-angles"/>
+        <updated>2023-05-01T09:19:35.000Z</updated>
+        <summary type="html"><![CDATA[As you navigate the world of synthography, as the new format of creating images with artificial intelligence tools has been named, with virtual storytelling tools like Midjourney, DALL.E, and Adobes Firefly, one crucial aspect to consider is how you prompt camera angles.
+Camera angles are a crucial tool in filmmaking, photography, and synthography, that can make or break a scene, setting the tone and creating the desired mood for the audience. 
+In this blog post, well cover the best practices of prompting four standard camera angles in Midjourney: 
+The eye-level angle
+The low angle
+The high angle
+The Dutch angle
+Eye-Level Angle
+
+Prompt: Man is making a walk in a forest near a bright colored sky, in the style of graphic design-inspired illustrations, 32k UHD, colorful cartoon, smokey backgr…]]></summary>
+        <author>
+            <name>Erik Knobl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gas Saving Techniques for Ethereum Users]]></title>
+        <id>https://medium.com/p/c1f25a2a5cdb</id>
+        <link href="https://coinsbench.com/gas-saving-techniques-c1f25a2a5cdb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-01T09:01:51.000Z</updated>
+        <summary type="html"><![CDATA[This article would provide tips and tricks for Ethereum users on how to reduce the amount of gas they pay for transactions, including using…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Demystifying Web 3: The Future of the Internet]]></title>
         <id>https://medium.com/p/3dce5783ac82</id>
@@ -243,16 +272,6 @@ Continue reading on Block Magnates »]]></summary>
         <summary type="html"><![CDATA[Hello everyone, I’m excited to meet you again after a long time! So much has happened in this long period that I changed jobs twice…]]></summary>
         <author>
             <name>Fethi Tekyaygil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Solidity Functions: A Beginner’s Guide to Modifiers, Events, Error Handling, and More]]></title>
-        <id>https://medium.com/p/659dc26006ef</id>
-        <link href="https://coinsbench.com/exploring-solidity-functions-a-beginners-guide-to-modifiers-events-error-handling-and-more-659dc26006ef?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-26T08:05:50.000Z</updated>
-        <summary type="html"><![CDATA[Solidity is a powerful programming language for creating smart contracts on the Ethereum blockchain. If you’ve just started learning…]]></summary>
-        <author>
-            <name>Lem Canady</name>
         </author>
     </entry>
     <entry>
