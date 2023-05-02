@@ -18,6 +18,36 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/8bc220c2cdd0",
+          "author": "Bloqarl",
+          "description": "If you have been trying to learn about potential cases of DoS attacks and end up always with the same examples (as I did), you might be…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/uncovering-real-life-examples-of-denial-of-service-attacks-on-smart-contracts-8bc220c2cdd0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-02T10:09:09.000Z",
+          "wordCount": 5690,
+          "title": "Uncovering Real-Life Examples of Denial of Service Attacks on Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OAQI2JFCtM35sbTiSqdcwQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/dfeca391e023",
+          "author": "Maxwell Onyeka",
+          "description": "Celo is a blockchain platform aimed at making financial systems more accessible and inclusive to all. Because the platform is built on the…",
+          "link": "https://coinsbench.com/celo-composer-tutorial-how-to-build-dapps-on-celo-platform-with-ease-dfeca391e023?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-02T10:08:46.000Z",
+          "wordCount": 2803,
+          "title": "Celo Composer Tutorial: How to Build dApps on Celo Platform with Ease",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lJpJAx0dP4KsZxOb1RVuIw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/14f0f89a7a5e",
+          "author": "ChainGPT",
+          "description": "What if you could use AI to help you deploy smart contracts that it teaches you to create?",
+          "link": "https://coinsbench.com/ai-assisted-smart-contract-deployment-a-step-by-step-revolution-14f0f89a7a5e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-02T10:08:14.000Z",
+          "wordCount": 3698,
+          "title": "How to Deploy Smart Contracts with AI: A Beginner’s Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:880/1*ivIYbgtCL6tnfBK6rkihtw.png"
+        },
+        {
           "id": "https://medium.com/p/a320c1237fbe",
           "author": "Solidity Academy",
           "description": "This article would explore alternative blockchain platforms that offer lower gas fees or more efficient gas models than Ethereum, such as…",
@@ -33,7 +63,7 @@
           "description": "We’re excited to announce that our team at Fastlybot is currently working on building our next product: a Flashloan Arbitrage Bot. This…",
           "link": "https://coinsbench.com/this-is-how-were-developing-our-flashloan-arbitrage-bot-69ed86c834f8?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-01T13:53:43.000Z",
-          "wordCount": 3640,
+          "wordCount": 2733,
           "title": "This is how we’re developing our Flashloan Arbitrage Bot",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jOi0bD7qfy09eeMnjqf6ig.jpeg"
         },
@@ -73,7 +103,7 @@
           "description": "The Quirks of the Selfdestruct OpCode",
           "link": "https://coinsbench.com/7-force-ethernaut-explained-4a4492e5b521?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-01T13:53:06.000Z",
-          "wordCount": 2281,
+          "wordCount": 1394,
           "title": "#7 Force— Ethernaut Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*d9anjrWHbgaDUaFw.png"
         },
@@ -86,36 +116,6 @@
           "wordCount": 1828,
           "title": "Gas Saving Techniques for Ethereum Users",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NaeOrmgmosMyBaVSFAFjlg.png"
-        },
-        {
-          "id": "https://medium.com/p/923601889814",
-          "author": "Solidity Academy",
-          "description": "This article would provide a detailed explanation of Ethereum’s gas model, including how gas fees are calculated, how gas is used to…",
-          "link": "https://coinsbench.com/cost-of-gas-923601889814?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-30T09:07:15.000Z",
-          "wordCount": 2274,
-          "title": "The Cost of Gas: Understanding Ethereum’s Gas Model",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*M-J2Lp3-MXRbKov27dJTVQ.png"
-        },
-        {
-          "id": "https://medium.com/p/5b9442074872",
-          "author": "Solidity Academy",
-          "description": "Maximizing Gas Efficiency",
-          "link": "https://coinsbench.com/maximizing-gas-efficiency-5b9442074872?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-29T09:01:33.000Z",
-          "wordCount": 1966,
-          "title": "Maximizing Gas Efficiency: Tips and Strategies for Blockchain Developers",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*IAN0C_GKWvFwmVLdUxvcJA.png"
-        },
-        {
-          "id": "https://medium.com/p/fc1e56d967b5",
-          "author": "Aniket Singh",
-          "description": "Layer is a Visual Studio Code (VScode) extension especially designed to deploy and execute smart contracts directly from the VScode window.",
-          "link": "https://coinsbench.com/layer-up-your-smart-contract-game-with-layer-vscode-extension-no-more-solidi-tea-breaks-fc1e56d967b5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-04-28T07:58:56.000Z",
-          "wordCount": 2140,
-          "title": "Layer Up Your Smart Contract Game with Layer VScode Extension — No More Solidi-Tea Breaks!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*dRHIziWj6Lg9qT-44PTDSA.jpeg"
         }
       ]
     },
@@ -160,7 +160,7 @@
           "description": "Singapore-based Amber Group, a leading digital asset service provider in crypto-related infrastructure, products and trading, has announced…",
           "link": "https://medium.com/coinmonks/amber-group-targets-trust-in-web3-via-thoughtworks-partnership-ab52e7566d99?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-02T09:50:07.000Z",
-          "wordCount": 1854,
+          "wordCount": 2840,
           "title": "Amber Group Targets Trust in Web3 Via Thoughtworks Partnership",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1125/1*-M6trD0dgwL6MRHPlt-JAg.jpeg"
         },
@@ -170,7 +170,7 @@
           "description": "Introduction",
           "link": "https://medium.com/coinmonks/lightning-network-2018-to-2023-and-beyond-9ea9359ada77?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-02T09:39:41.000Z",
-          "wordCount": 11481,
+          "wordCount": 12386,
           "title": "Lightning Network: 2018 to 2023 and Beyond",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*c37D9vMN0KqxJM4SaTW33w.png"
         },
@@ -180,7 +180,7 @@
           "description": "TRON Takes Center Stage at the World’s Largest Crypto Conference and Builds Connections Across the Blockchain Industry\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/tron-dao-team-dominates-consensus-2023-event-in-austin-tx-611cc42c3c70?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-02T09:38:33.000Z",
-          "wordCount": 2117,
+          "wordCount": 1085,
           "title": "TRON DAO Team Dominates Consensus 2023 Event in Austin, TX",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*VnT4-xiYHwzC_pLJ"
         },
@@ -247,7 +247,7 @@
           "description": "Before Start",
           "link": "https://blog.blockmagnates.com/deploy-contract-on-base-goerli-5a559cc5e82a?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-17T09:44:25.000Z",
-          "wordCount": 1831,
+          "wordCount": 963,
           "title": "Deploy contract on Base Goerli",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:624/1*5vZE7nyBNDstx2TkGiFu-w.png"
         },
@@ -257,7 +257,7 @@
           "description": "If you are seeking a tutorial-oriented guide for Smart Contract Upgrades and Proxy Patterns, then this is the article that you have been…",
           "link": "https://blog.blockmagnates.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-1-10-25f86c0b92d1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-14T08:46:12.000Z",
-          "wordCount": 1874,
+          "wordCount": 2822,
           "title": "Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [1/8]",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9JaNXQ5u_A0YkhMs"
         },
@@ -277,7 +277,7 @@
           "description": "Gas Golfing #2: Packing Variables",
           "link": "https://blog.blockmagnates.com/gas-golfing-2-45b570cbb96f?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-10T10:32:07.000Z",
-          "wordCount": 2996,
+          "wordCount": 2150,
           "title": "Gas Golfing #2",
           "imageUrl": null
         }

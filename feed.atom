@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T10:12:46.624Z</id>
+    <id>urn:2023-05-02T11:10:05.440Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-02T10:12:46.624Z</updated>
+    <updated>2023-05-02T11:10:05.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uncovering Real-Life Examples of Denial of Service Attacks on Smart Contracts]]></title>
+        <id>https://medium.com/p/8bc220c2cdd0</id>
+        <link href="https://coinsbench.com/uncovering-real-life-examples-of-denial-of-service-attacks-on-smart-contracts-8bc220c2cdd0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-02T10:09:09.000Z</updated>
+        <summary type="html"><![CDATA[If you have been trying to learn about potential cases of DoS attacks and end up always with the same examples (as I did), you might be…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Bloqarl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celo Composer Tutorial: How to Build dApps on Celo Platform with Ease]]></title>
+        <id>https://medium.com/p/dfeca391e023</id>
+        <link href="https://coinsbench.com/celo-composer-tutorial-how-to-build-dapps-on-celo-platform-with-ease-dfeca391e023?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-02T10:08:46.000Z</updated>
+        <summary type="html"><![CDATA[Celo is a blockchain platform aimed at making financial systems more accessible and inclusive to all. Because the platform is built on the…]]></summary>
+        <author>
+            <name>Maxwell Onyeka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Smart Contracts with AI: A Beginner’s Guide]]></title>
+        <id>https://medium.com/p/14f0f89a7a5e</id>
+        <link href="https://coinsbench.com/ai-assisted-smart-contract-deployment-a-step-by-step-revolution-14f0f89a7a5e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-02T10:08:14.000Z</updated>
+        <summary type="html"><![CDATA[What if you could use AI to help you deploy smart contracts that it teaches you to create?]]></summary>
+        <author>
+            <name>ChainGPT</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Outsider’s View: The Nordic Blockchain Industry]]></title>
         <id>https://medium.com/p/4c9ccbef68b1</id>
@@ -199,16 +230,6 @@ Prompt: Man is making a walk in a forest near a bright colored sky, in the style
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Cost of Gas: Understanding Ethereum’s Gas Model]]></title>
-        <id>https://medium.com/p/923601889814</id>
-        <link href="https://coinsbench.com/cost-of-gas-923601889814?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-30T09:07:15.000Z</updated>
-        <summary type="html"><![CDATA[This article would provide a detailed explanation of Ethereum’s gas model, including how gas fees are calculated, how gas is used to…]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevNTell - TalentLayer]]></title>
         <id>https://blog.developerdao.com/devntell-talentlayer</id>
         <link href="https://blog.developerdao.com/devntell-talentlayer"/>
@@ -240,26 +261,6 @@ Romain's Twitter: https://twitter.com/Romain__TL
 https://www.youtube.com/watch?v=5r0idv7TTeU]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maximizing Gas Efficiency: Tips and Strategies for Blockchain Developers]]></title>
-        <id>https://medium.com/p/5b9442074872</id>
-        <link href="https://coinsbench.com/maximizing-gas-efficiency-5b9442074872?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-29T09:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Maximizing Gas Efficiency]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer Up Your Smart Contract Game with Layer VScode Extension — No More Solidi-Tea Breaks!]]></title>
-        <id>https://medium.com/p/fc1e56d967b5</id>
-        <link href="https://coinsbench.com/layer-up-your-smart-contract-game-with-layer-vscode-extension-no-more-solidi-tea-breaks-fc1e56d967b5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-28T07:58:56.000Z</updated>
-        <summary type="html"><![CDATA[Layer is a Visual Studio Code (VScode) extension especially designed to deploy and execute smart contracts directly from the VScode window.]]></summary>
-        <author>
-            <name>Aniket Singh</name>
         </author>
     </entry>
     <entry>
