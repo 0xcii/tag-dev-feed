@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T11:10:05.440Z</id>
+    <id>urn:2023-05-02T12:23:34.984Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-02T11:10:05.440Z</updated>
+    <updated>2023-05-02T12:23:34.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -171,16 +171,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Polygon: Scaling Ethereum with Speed and Security]]></title>
-        <id>https://medium.com/p/f0ff5af352a1</id>
-        <link href="https://coinsbench.com/polygon-scaling-ethereum-with-speed-and-security-f0ff5af352a1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-01T13:53:10.000Z</updated>
-        <summary type="html"><![CDATA[Polygon, previously known as Matic Network, is a layer 2 scaling solution for Ethereum that offers several features for developers and…]]></summary>
-        <author>
-            <name>Galien Dev</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Power Up Your Crowdfunding Game: How to Use AI to Learn About Smart Contracts on Remix]]></title>
         <id>https://medium.com/p/fd8a452172dc</id>
         <link href="https://coinsbench.com/power-up-your-crowdfunding-game-how-to-use-ai-to-learn-about-smart-contracts-on-remix-fd8a452172dc?source=rss----f1cfd22cde3e---4"/>
@@ -225,6 +215,16 @@ Prompt: Man is making a walk in a forest near a bright colored sky, in the style
         <link href="https://coinsbench.com/gas-saving-techniques-c1f25a2a5cdb?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-01T09:01:51.000Z</updated>
         <summary type="html"><![CDATA[This article would provide tips and tricks for Ethereum users on how to reduce the amount of gas they pay for transactions, including using…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cost of Gas: Understanding Ethereum’s Gas Model]]></title>
+        <id>https://medium.com/p/923601889814</id>
+        <link href="https://coinsbench.com/cost-of-gas-923601889814?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-04-30T09:07:15.000Z</updated>
+        <summary type="html"><![CDATA[This article would provide a detailed explanation of Ethereum’s gas model, including how gas fees are calculated, how gas is used to…]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
