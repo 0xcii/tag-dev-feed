@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T14:11:11.233Z</id>
+    <id>urn:2023-05-02T15:13:44.842Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-02T14:11:11.233Z</updated>
+    <updated>2023-05-02T15:13:44.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Intersection of Artificial Intelligence, Blockchain, and Decentralized Autonomous…]]></title>
+        <id>https://medium.com/p/ddedbe556708</id>
+        <link href="https://medium.com/coinmonks/the-intersection-of-artificial-intelligence-blockchain-and-decentralized-autonomous-ddedbe556708?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-02T14:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence (AI), blockchain, and Decentralized Autonomous Organizations (DAOs) are three of the most transformative…]]></summary>
+        <author>
+            <name>Future Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Immortal Healthcare: Revolutionizing Access and Equity through DAO, Blockchain, AI…]]></title>
+        <id>https://medium.com/p/e89b79b9efc0</id>
+        <link href="https://medium.com/coinmonks/the-future-of-immortal-healthcare-revolutionizing-access-and-equity-through-dao-blockchain-ai-e89b79b9efc0?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-02T14:48:34.000Z</updated>
+        <summary type="html"><![CDATA[The pursuit of immortality has captivated the human imagination for millennia. In recent years, advances in biotechnology, medicine, and…]]></summary>
+        <author>
+            <name>Future Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Blockchains Will Power Your Future Financial Investments]]></title>
+        <id>https://medium.com/p/2c4c211ca3ee</id>
+        <link href="https://medium.com/coinmonks/why-blockchains-will-power-your-future-financial-investments-2c4c211ca3ee?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-02T14:48:33.000Z</updated>
+        <summary type="html"><![CDATA[The rise of blockchain technology has been compared to the early days of the internet, hence the moniker “Web 3.0”. In the early days of…]]></summary>
+        <author>
+            <name>Joe Robert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [7/8]]]></title>
+        <id>https://medium.com/p/a1d65e9c7958</id>
+        <link href="https://medium.com/coinmonks/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-7-8-a1d65e9c7958?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-02T14:48:29.000Z</updated>
+        <summary type="html"><![CDATA[In previous series of articles, we discussed the fundamentals and various useful basics regarding smart contract proxies. I highly suggest…]]></summary>
+        <author>
+            <name>Amir Doreh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decoding Decentralization]]></title>
+        <id>https://blog.developerdao.com/decoding-decentralization</id>
+        <link href="https://blog.developerdao.com/decoding-decentralization"/>
+        <updated>2023-05-02T14:20:28.000Z</updated>
+        <summary type="html"><![CDATA[In Part I of Decoding Decentralization, we framed Ethereum (and all blockchains really) as a distributed decentralized database.
+We then used the change-data capture design pattern to replay all transfer events of a given smart contract.
+By capturing those events through the log entries they create, we could aggregate them and determine how many Murakami Flower NFTs a given wallet address has, or which holder wallets constitute a whale, etc.
+In Part II, I want to dive deeper into the interaction between blocks, transactions, and the log entries they create, as well as the process of log ABI translation which is critical for any chain-based analytics.
+
+The State of the Chain Address
+If we think of Ethereum as a gigantic database that manages the state, just like all traditional databases, t…]]></summary>
+        <author>
+            <name>Alexander Sack</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Tale of My Stuck Crypto: A Journey Through Blockchain.com]]></title>
         <id>https://medium.com/p/15719231e779</id>
@@ -66,46 +122,6 @@ Continue reading on Coinmonks »]]></summary>
 Continue reading on Coinmonks »]]></summary>
         <author>
             <name>Lonnie McFadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[White-Label Crypto Wallet Development Services: Enabling Innovation and Adoption]]></title>
-        <id>https://medium.com/p/bf5e03e3c9d1</id>
-        <link href="https://medium.com/coinmonks/white-label-crypto-wallet-development-services-enabling-innovation-and-adoption-bf5e03e3c9d1?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-02T13:28:34.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will explore the benefits of white-label crypto wallet development services and how they can help you launch your own.]]></summary>
-        <author>
-            <name>Cathrine Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon: Scaling Ethereum with Speed and Security]]></title>
-        <id>https://medium.com/p/f0ff5af352a1</id>
-        <link href="https://medium.com/coinmonks/polygon-scaling-ethereum-with-speed-and-security-f0ff5af352a1?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-02T13:28:34.000Z</updated>
-        <summary type="html"><![CDATA[Polygon, previously known as Matic Network, is a layer 2 scaling solution for Ethereum that offers several features for developers and…]]></summary>
-        <author>
-            <name>Galien Dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Force of the Source of Money]]></title>
-        <id>https://medium.com/p/d9ed46ef3615</id>
-        <link href="https://medium.com/coinmonks/the-force-of-the-source-of-money-d9ed46ef3615?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-02T13:28:26.000Z</updated>
-        <summary type="html"><![CDATA[We talk about [the love of] Money being the root [of evil] but we seldom talk of the root of the Money. That is where the energy lies, it…]]></summary>
-        <author>
-            <name>The EcoCommercist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise of Blockchain Technology: How It’s Changing the Way We Do Business]]></title>
-        <id>https://medium.com/p/a4ed88cb736e</id>
-        <link href="https://medium.com/coinmonks/the-rise-of-blockchain-technology-how-its-changing-the-way-we-do-business-a4ed88cb736e?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-02T13:28:25.000Z</updated>
-        <summary type="html"><![CDATA[BLockchain technology has been one of the most disruptive and transformative innovations of recent times. Originally developed for the…]]></summary>
-        <author>
-            <name>Dominic G</name>
         </author>
     </entry>
     <entry>
