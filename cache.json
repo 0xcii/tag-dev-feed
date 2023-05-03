@@ -23,7 +23,7 @@
           "description": "Smart Contracts Made Simple (5 book series)",
           "link": "https://coinsbench.com/optimizing-solidity-code-for-gas-efficiency-tips-and-best-practices-c5fce47d079d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-03T09:56:01.000Z",
-          "wordCount": 5648,
+          "wordCount": 6535,
           "title": "Optimizing Solidity Code for Gas Efficiency: Tips and Best Practices",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qH6FK7Qd3VyAJ9VHhzSOUA.png"
         },
@@ -33,7 +33,7 @@
           "description": "The advent of blockchain technology has paved the way for decentralized marketplaces, where users can buy, sell, and trade digital assets…",
           "link": "https://coinsbench.com/building-a-decentralized-marketplace-on-flow-blockchain-an-example-of-a-smart-contract-for-digital-c07cebac8b52?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-03T09:55:59.000Z",
-          "wordCount": 6518,
+          "wordCount": 7482,
           "title": "Building a Decentralized Marketplace on Flow Blockchain: An Example of a Smart Contract for…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*b8Y8gw9-X24BbKQzGXWq8A.png"
         },
@@ -53,7 +53,7 @@
           "description": "Let’s unravel the mystery of the mischievous Ethereum bug: A journey through remix and ChatGPT.",
           "link": "https://coinsbench.com/the-future-of-smart-contract-debugging-for-beginners-69cf9408dab2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-03T09:55:34.000Z",
-          "wordCount": 3339,
+          "wordCount": 4279,
           "title": "The Future of Smart Contract Debugging for Beginners",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1177/1*r0bdbXIrSRFiA22mEqgObg.png"
         },
@@ -73,7 +73,7 @@
           "description": "If you have been trying to learn about potential cases of DoS attacks and end up always with the same examples (as I did), you might be…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/uncovering-real-life-examples-of-denial-of-service-attacks-on-smart-contracts-8bc220c2cdd0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-02T10:09:09.000Z",
-          "wordCount": 4789,
+          "wordCount": 5661,
           "title": "Uncovering Real-Life Examples of Denial of Service Attacks on Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OAQI2JFCtM35sbTiSqdcwQ.jpeg"
         },
@@ -93,7 +93,7 @@
           "description": "What if you could use AI to help you deploy smart contracts that it teaches you to create?",
           "link": "https://coinsbench.com/ai-assisted-smart-contract-deployment-a-step-by-step-revolution-14f0f89a7a5e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-02T10:08:14.000Z",
-          "wordCount": 4613,
+          "wordCount": 3698,
           "title": "How to Deploy Smart Contracts with AI: A Beginner’s Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:880/1*ivIYbgtCL6tnfBK6rkihtw.png"
         },
@@ -125,14 +125,24 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/706d6e40ec59",
-          "author": "Visionary Vortex",
-          "description": "ENTER HERE FOR A CHANCE TO WIN A $500 WALMART GIFT CARD!",
-          "link": "https://medium.com/coinmonks/crypto-taxes-simplified-essential-guide-to-staying-compliant-706d6e40ec59?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-03T18:48:46.000Z",
-          "wordCount": 2756,
-          "title": "Crypto Taxes Simplified: Essential Guide to Staying Compliant",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:992/1*kz9pVaBd_4R-Jr1ovY-4xw.png"
+          "id": "https://medium.com/p/24ab6c287695",
+          "author": "Daniel Jensen",
+          "description": "It is not really a big secret that I am not a huge fan of the current way NFTs are being used. I do however think there are use cases for…",
+          "link": "https://medium.com/coinmonks/this-might-change-how-you-view-nfts-entirely-24ab6c287695?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-03T19:26:34.000Z",
+          "wordCount": 4602,
+          "title": "This might change how you view NFTs entirely",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*KNgroyxnospZjzu6"
+        },
+        {
+          "id": "https://medium.com/p/f6ea45e09694",
+          "author": "Bram Yeh",
+          "description": "Android is a system that allows developers to write code for the virtual machine without knowing the actual machine code. The compiler can…",
+          "link": "https://medium.com/coinmonks/android-advanced-debugging-get-the-machine-code-and-tracing-instructions-f6ea45e09694?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-03T19:10:19.000Z",
+          "wordCount": 4913,
+          "title": "Android Advanced debugging, Get the machine code and tracing instructions",
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/dfc1705c58",
@@ -140,7 +150,7 @@
           "description": "“The Power of Now” by Eckhart Tolle is an extraordinary self-help book that encourages readers to live in the present moment and find inner…",
           "link": "https://medium.com/coinmonks/the-power-of-now-by-eckhart-tolle-book-review-dfc1705c58?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-03T18:39:25.000Z",
-          "wordCount": 2713,
+          "wordCount": 1730,
           "title": "“The Power of Now” by Eckhart Tolle ” Book Review",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*PJxcySBEwqsK66Lz"
         },
@@ -170,19 +180,9 @@
           "description": "I’ve read seven crypto books in the past year and a half, and each of them has a few things in common. One of those aspects is that they…",
           "link": "https://medium.com/coinmonks/bitcoin-billionaires-book-review-ec088f633594?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-03T18:29:03.000Z",
-          "wordCount": 3057,
+          "wordCount": 2102,
           "title": "Bitcoin Billionaires: Book Review",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*U28hm7i4FWhTKHgl_v5TAg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ecf8ba17e479",
-          "author": "Visionary Vortex",
-          "description": "ENTER EMAIL FOR A CHANCE TO WIN A $500 WALMART GIFT CARD!",
-          "link": "https://medium.com/coinmonks/maximize-crypto-profits-top-trading-strategies-tips-insider-secrets-ecf8ba17e479?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-03T17:47:51.000Z",
-          "wordCount": 2014,
-          "title": "Maximize Crypto Profits: Top Trading Strategies, Tips & Insider Secrets",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:992/1*EQKY0N5nQEfN9Vo7_5g4jQ.png"
         },
         {
           "id": "https://medium.com/p/292f5e9d4dc0",
@@ -193,16 +193,6 @@
           "wordCount": 3211,
           "title": "BTC.D andAltcoin Season 2023: Chart Setups You Can’t Miss",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*eY06UmH8wakW6PvWn9i4OA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/cbb4ed6ec0b0",
-          "author": "Visionary Vortex",
-          "description": "Stablecoins are a type of cryptocurrency that is designed to maintain a stable value. Unlike traditional cryptocurrencies like Bitcoin…",
-          "link": "https://medium.com/coinmonks/stablecoins-revolutionizing-cryptocurrency-stability-boosting-adoption-cbb4ed6ec0b0?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-03T17:41:00.000Z",
-          "wordCount": 2948,
-          "title": "Stablecoins: Revolutionizing Cryptocurrency Stability & Boosting Adoption",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:992/1*NQGDs4HahaCUctQDqAA3jQ.png"
         },
         {
           "id": "https://medium.com/p/5e1ba33b230f",
@@ -223,6 +213,16 @@
           "wordCount": 2660,
           "title": "Introduction to the world of Oracle",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*031Bq9toj1Ndi35a.png"
+        },
+        {
+          "id": "https://medium.com/p/c87c519642cb",
+          "author": "Glaicon Peixer",
+          "description": "Introduction",
+          "link": "https://medium.com/coinmonks/lets-explore-cosmos-and-get-started-c87c519642cb?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-03T17:22:17.000Z",
+          "wordCount": 2618,
+          "title": "Let’s explore Cosmos and Get started!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*MPi99X2icibjHmyo5FhN9g.png"
         }
       ]
     },
@@ -237,7 +237,7 @@
           "description": "Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. Smart contracts…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/how-hardhat-simplifies-smart-contract-verification-on-ethereum-8a6a8f02315b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-26T20:49:26.000Z",
-          "wordCount": 2723,
+          "wordCount": 1772,
           "title": "How Hardhat Simplifies Smart Contract Verification on Ethereum",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*41s_xklPCFSZLwRHmUGUDA.jpeg"
         },
@@ -247,7 +247,7 @@
           "description": "Before Start",
           "link": "https://blog.blockmagnates.com/deploy-contract-on-base-goerli-5a559cc5e82a?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-17T09:44:25.000Z",
-          "wordCount": 1835,
+          "wordCount": 963,
           "title": "Deploy contract on Base Goerli",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:624/1*5vZE7nyBNDstx2TkGiFu-w.png"
         },
