@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T08:14:40.288Z</id>
+    <id>urn:2023-05-03T09:11:31.237Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-03T08:14:40.288Z</updated>
+    <updated>2023-05-03T09:11:31.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gas Efficiency and the Future of Blockchain Scaling]]></title>
+        <id>https://medium.com/p/e5d083f4d6e3</id>
+        <link href="https://coinsbench.com/gas-efficiency-blockchain-scaling-e5d083f4d6e3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-03T09:01:37.000Z</updated>
+        <summary type="html"><![CDATA[This article would explore how gas efficiency is becoming an increasingly important factor in the development of blockchain scaling…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blockchain Bets — E-sports and Crypto Gambling: A Perfect Pair]]></title>
         <id>https://medium.com/p/674291286e3f</id>
@@ -230,16 +240,6 @@ Prompt: Man is making a walk in a forest near a bright colored sky, in the style
         <link href="https://coinsbench.com/gas-saving-techniques-c1f25a2a5cdb?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-01T09:01:51.000Z</updated>
         <summary type="html"><![CDATA[This article would provide tips and tricks for Ethereum users on how to reduce the amount of gas they pay for transactions, including using…]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cost of Gas: Understanding Ethereum’s Gas Model]]></title>
-        <id>https://medium.com/p/923601889814</id>
-        <link href="https://coinsbench.com/cost-of-gas-923601889814?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-04-30T09:07:15.000Z</updated>
-        <summary type="html"><![CDATA[This article would provide a detailed explanation of Ethereum’s gas model, including how gas fees are calculated, how gas is used to…]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
