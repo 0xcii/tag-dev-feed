@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T13:14:12.777Z</id>
+    <id>urn:2023-05-03T14:10:57.057Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-03T13:14:12.777Z</updated>
+    <updated>2023-05-03T14:10:57.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Beyond Bitcoin: Discover Top Altcoins You Should Be Watching Now!]]></title>
+        <id>https://medium.com/p/df39a56ff614</id>
+        <link href="https://medium.com/coinmonks/beyond-bitcoin-discover-top-altcoins-you-should-be-watching-now-df39a56ff614?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-03T14:03:42.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin may have been the first cryptocurrency, but it’s certainly not the only one. In fact, there are thousands of alternative…]]></summary>
+        <author>
+            <name>Visionary Vortex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vechain Turns Finals Tennis Trophies Phygital As Official Partner To Internazionali BNL d’Italia]]></title>
+        <id>https://medium.com/p/ecb0cfd0c6a0</id>
+        <link href="https://medium.com/coinmonks/vechain-turns-finals-tennis-trophies-phygital-as-official-partner-to-internazionali-bnl-ditalia-ecb0cfd0c6a0?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-03T13:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Vechain is proud to announce it is the Official Partner of the Internazionali BNL d’Italia (IBI), in extension of a multi-year partnership…]]></summary>
+        <author>
+            <name>vechain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identifying and Avoiding Bitcoin Mining Scams]]></title>
+        <id>https://medium.com/p/5c924ac9db33</id>
+        <link href="https://medium.com/coinmonks/identifying-and-avoiding-bitcoin-mining-scams-5c924ac9db33?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-03T13:43:17.000Z</updated>
+        <summary type="html"><![CDATA[The world of cryptocurrencies is complicated and still mostly unregulated around the world. This combination has resulted in a sort of…]]></summary>
+        <author>
+            <name>Polygon Decipher News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why GameFi Crypto Will Be the Sector That Brings the Masses to the Blockchain]]></title>
+        <id>https://medium.com/p/1f10040a4726</id>
+        <link href="https://medium.com/coinmonks/why-gamefi-crypto-will-be-the-sector-that-brings-the-masses-to-the-blockchain-1f10040a4726?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-03T13:42:22.000Z</updated>
+        <summary type="html"><![CDATA[These Are The 4 Most Promising Gaming Projects To Load Up on Now!
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Anthony J Lynch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATIC: Why everyone talks about this crypto token and how you can buy it!]]></title>
+        <id>https://medium.com/p/da262ce229c7</id>
+        <link href="https://medium.com/coinmonks/matic-why-everyone-talks-about-this-crypto-token-and-how-you-can-buy-it-da262ce229c7?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-03T13:35:36.000Z</updated>
+        <summary type="html"><![CDATA[MATIC has been one of the most-hyped tokens of the last months.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Knowledge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate a DApp from Goerli to Sepolia Using QuickNode]]></title>
+        <id>https://blog.developerdao.com/how-to-migrate-a-dapp-from-goerli-to-sepolia-using-quicknode</id>
+        <link href="https://blog.developerdao.com/how-to-migrate-a-dapp-from-goerli-to-sepolia-using-quicknode"/>
+        <updated>2023-05-03T13:22:28.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to migrate your DApp from Goerli to Sepolia using QuickNode, a fast and reliable RPC node provider. 
+As you may know, the Goerli network has faced several issues recently, from the low availability of test funds to network downtime. Considering this, it makes perfect sense to take your testing from Goerli to Sepolia.
+1. Updating the RPC node
+The first step for migrating your DApp is to get the RPC node of the new test network. For our example, we will use the Sepolia test network and QuickNode as the node provider.
+Go to their RPC Endpoints Service section by clicking on this link and click on the "Create an endpoint" button.
+
+Select the chain. In our case, we will be selecting Ethereum.
+
+Select the network, and click "continue".
+
+Click on the "Create e…]]></summary>
+        <author>
+            <name>Aayush Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What to expect from the Brazilian stock market in the coming months: insights from the Bovespa…]]></title>
         <id>https://medium.com/p/3b6e4f5a9bc9</id>
@@ -16,11 +88,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Коллекция Bitcoin Man NFT: задающий тренд пример цифровой собственности и искусства]]></title>
+        <title type="html"><![CDATA[Bitcoin Man NFT Collection: A Trend-Setting Example of Digital Property and Art]]></title>
         <id>https://medium.com/p/4bc314449ac5</id>
         <link href="https://medium.com/coinmonks/bitcoin-man-nft-collection-a-trendsetting-example-of-digital-ownership-and-art-4bc314449ac5?source=rss----721b17443fd5---4"/>
         <updated>2023-05-03T12:44:20.000Z</updated>
-        <summary type="html"><![CDATA[Биткойн-мэн , загадочный создатель, завоевавший популярность в криптосообществе, недавно создал уникальную коллекцию NFT, в которой…]]></summary>
+        <summary type="html"><![CDATA[Bitcoin Man, an enigmatic creator who has gained popularity in the crypto community, recently created a unique collection of NFTs that…]]></summary>
         <author>
             <name>Crypto News</name>
         </author>
@@ -53,58 +125,6 @@
         <summary type="html"><![CDATA[The notion of regulation often brings to mind government intervention and strict oversight of various industries. However, in our rapidly…]]></summary>
         <author>
             <name>Future Ideas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paypal, a new feature that will allow users to transfer their cryptos outside the app]]></title>
-        <id>https://medium.com/p/3fbeffaf2ea5</id>
-        <link href="https://medium.com/coinmonks/paypal-a-new-feature-that-will-allow-users-to-transfer-their-cryptos-outside-the-app-3fbeffaf2ea5?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-03T12:19:50.000Z</updated>
-        <summary type="html"><![CDATA[Mobile payments giant Venmo (Venmo’s parent company is Paypal) has just announced plans to launch a new feature that will allow the…]]></summary>
-        <author>
-            <name>Laeti Marison (SatoshiBelle)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do ‘Swiss dwarfs’ need an expensive franc?]]></title>
-        <id>https://medium.com/p/4a4e8042dda3</id>
-        <link href="https://medium.com/coinmonks/do-swiss-dwarfs-need-an-expensive-franc-4a4e8042dda3?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-03T12:09:01.000Z</updated>
-        <summary type="html"><![CDATA[As you may have guessed from the name, we are talking about the #USDCHF pair. Let’s take a look at the monthly chart first. For almost 12…]]></summary>
-        <author>
-            <name>Paul Mihalev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job cuts and cybersecurity: are you venerable?]]></title>
-        <id>https://medium.com/p/e9e629f0a27d</id>
-        <link href="https://medium.com/coinmonks/job-cuts-and-cybersecurity-are-you-venerable-e9e629f0a27d?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-03T12:08:59.000Z</updated>
-        <summary type="html"><![CDATA[One of the unfortunate consequences of the global job cuts has been cyber-security.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Ronwriter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is bitcoin divisibility?]]></title>
-        <id>https://medium.com/p/b949642de391</id>
-        <link href="https://medium.com/coinmonks/what-is-bitcoin-divisibility-b949642de391?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-03T11:28:10.000Z</updated>
-        <summary type="html"><![CDATA[The capacity to divide one bitcoin into smaller pieces is referred to as bitcoin divisibility.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>In the bitcoin world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Money and Geopolitics: How Crypto is Changing the Game]]></title>
-        <id>https://medium.com/p/c8b0797fef01</id>
-        <link href="https://medium.com/coinmonks/the-future-of-money-and-geopolitics-how-crypto-is-changing-the-game-c8b0797fef01?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-03T11:28:08.000Z</updated>
-        <summary type="html"><![CDATA[The future of money is changing — China knows it, the US hates it and crypto-natives are simplifying it as a matter of centralization vs…]]></summary>
-        <author>
-            <name>Esther Kim</name>
         </author>
     </entry>
     <entry>
