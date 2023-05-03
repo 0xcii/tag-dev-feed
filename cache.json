@@ -18,12 +18,52 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/c5fce47d079d",
+          "author": "Solidity Academy",
+          "description": "Smart Contracts Made Simple (5 book series)",
+          "link": "https://coinsbench.com/optimizing-solidity-code-for-gas-efficiency-tips-and-best-practices-c5fce47d079d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-03T09:56:01.000Z",
+          "wordCount": 6583,
+          "title": "Optimizing Solidity Code for Gas Efficiency: Tips and Best Practices",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qH6FK7Qd3VyAJ9VHhzSOUA.png"
+        },
+        {
+          "id": "https://medium.com/p/c07cebac8b52",
+          "author": "Lea Lobanov",
+          "description": "The advent of blockchain technology has paved the way for decentralized marketplaces, where users can buy, sell, and trade digital assets…",
+          "link": "https://coinsbench.com/building-a-decentralized-marketplace-on-flow-blockchain-an-example-of-a-smart-contract-for-digital-c07cebac8b52?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-03T09:55:59.000Z",
+          "wordCount": 6518,
+          "title": "Building a Decentralized Marketplace on Flow Blockchain: An Example of a Smart Contract for…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*b8Y8gw9-X24BbKQzGXWq8A.png"
+        },
+        {
+          "id": "https://medium.com/p/142a5c8ccc0",
+          "author": "Lea Lobanov",
+          "description": "Artificial Intelligence (AI) is rapidly transforming various industries, and the cryptocurrency space is no exception. AI has the potential…",
+          "link": "https://coinsbench.com/exploring-the-potential-of-ai-in-revolutionizing-the-cryptocurrency-industry-142a5c8ccc0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-03T09:55:55.000Z",
+          "wordCount": 6275,
+          "title": "Exploring the Potential of AI in Revolutionizing the Cryptocurrency Industry",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OTvsehYx8sg8fxnoFPFYBQ.png"
+        },
+        {
+          "id": "https://medium.com/p/69cf9408dab2",
+          "author": "ChainGPT",
+          "description": "Let’s unravel the mystery of the mischievous Ethereum bug: A journey through remix and ChatGPT.",
+          "link": "https://coinsbench.com/the-future-of-smart-contract-debugging-for-beginners-69cf9408dab2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-03T09:55:34.000Z",
+          "wordCount": 4279,
+          "title": "The Future of Smart Contract Debugging for Beginners",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1177/1*r0bdbXIrSRFiA22mEqgObg.png"
+        },
+        {
           "id": "https://medium.com/p/e5d083f4d6e3",
           "author": "Solidity Academy",
           "description": "This article would explore how gas efficiency is becoming an increasingly important factor in the development of blockchain scaling…",
           "link": "https://coinsbench.com/gas-efficiency-blockchain-scaling-e5d083f4d6e3?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-03T09:01:37.000Z",
-          "wordCount": 2835,
+          "wordCount": 2836,
           "title": "Gas Efficiency and the Future of Blockchain Scaling",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7VSLcYjN3ST8eBcy6NQ8vw.png"
         },
@@ -33,7 +73,7 @@
           "description": "If you have been trying to learn about potential cases of DoS attacks and end up always with the same examples (as I did), you might be…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/uncovering-real-life-examples-of-denial-of-service-attacks-on-smart-contracts-8bc220c2cdd0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-02T10:09:09.000Z",
-          "wordCount": 4787,
+          "wordCount": 4789,
           "title": "Uncovering Real-Life Examples of Denial of Service Attacks on Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OAQI2JFCtM35sbTiSqdcwQ.jpeg"
         },
@@ -53,7 +93,7 @@
           "description": "What if you could use AI to help you deploy smart contracts that it teaches you to create?",
           "link": "https://coinsbench.com/ai-assisted-smart-contract-deployment-a-step-by-step-revolution-14f0f89a7a5e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-02T10:08:14.000Z",
-          "wordCount": 4615,
+          "wordCount": 3698,
           "title": "How to Deploy Smart Contracts with AI: A Beginner’s Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:880/1*ivIYbgtCL6tnfBK6rkihtw.png"
         },
@@ -63,7 +103,7 @@
           "description": "This article would explore alternative blockchain platforms that offer lower gas fees or more efficient gas models than Ethereum, such as…",
           "link": "https://coinsbench.com/gas-efficient-alternatives-a320c1237fbe?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-02T09:01:49.000Z",
-          "wordCount": 1792,
+          "wordCount": 2702,
           "title": "Gas Efficient Alternatives to Ethereum",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-fJqwtVXnouEIRqHoaS_aA.png"
         },
@@ -76,46 +116,6 @@
           "wordCount": 2733,
           "title": "This is how we’re developing our Flashloan Arbitrage Bot",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jOi0bD7qfy09eeMnjqf6ig.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f65c2b1d3c25",
-          "author": "dsysd dev",
-          "description": "Solidity, hardhat and backend development fellas !!",
-          "link": "https://coinsbench.com/how-i-got-multiple-five-and-six-figure-offers-in-web3-with-proof-during-bear-market-f65c2b1d3c25?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-01T13:53:13.000Z",
-          "wordCount": 2536,
-          "title": "How I got multiple five and six figure offers in web3 with proof during bear market",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*FHvjE88n9akjfHxI"
-        },
-        {
-          "id": "https://medium.com/p/fd8a452172dc",
-          "author": "ChainGPT",
-          "description": "Do You Want to Master Decentralized Crowdfunding with AI? Learn How to Deploy a Smart Contract and Contribute to a Campaign with Remix’s…",
-          "link": "https://coinsbench.com/power-up-your-crowdfunding-game-how-to-use-ai-to-learn-about-smart-contracts-on-remix-fd8a452172dc?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-01T13:53:08.000Z",
-          "wordCount": 3759,
-          "title": "Power Up Your Crowdfunding Game: How to Use AI to Learn About Smart Contracts on Remix",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:890/1*8aqPtC7HPFdU2SA0v4C0Pw.png"
-        },
-        {
-          "id": "https://medium.com/p/4a4492e5b521",
-          "author": "Cayo Tor",
-          "description": "The Quirks of the Selfdestruct OpCode",
-          "link": "https://coinsbench.com/7-force-ethernaut-explained-4a4492e5b521?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-01T13:53:06.000Z",
-          "wordCount": 1394,
-          "title": "#7 Force— Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*d9anjrWHbgaDUaFw.png"
-        },
-        {
-          "id": "https://medium.com/p/c1f25a2a5cdb",
-          "author": "Solidity Academy",
-          "description": "This article would provide tips and tricks for Ethereum users on how to reduce the amount of gas they pay for transactions, including using…",
-          "link": "https://coinsbench.com/gas-saving-techniques-c1f25a2a5cdb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-01T09:01:51.000Z",
-          "wordCount": 1828,
-          "title": "Gas Saving Techniques for Ethereum Users",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NaeOrmgmosMyBaVSFAFjlg.png"
         }
       ]
     },
@@ -125,104 +125,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/674291286e3f",
-          "author": "Ryanzackmiller",
+          "id": "https://medium.com/p/768478282413",
+          "author": "Mark Timmis",
+          "description": "tl;dr",
+          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-3rd-may-2023-the-us-and-the-uk-768478282413?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-03T09:46:47.000Z",
+          "wordCount": 3266,
+          "title": "Curious Cryptos’ Commentary 3rd May 2023 — The US and the UK",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e72501b64a4a",
+          "author": "Omer Aziz",
+          "description": "Here are some examples of applications that have implemented the ERC standards:",
+          "link": "https://medium.com/coinmonks/examples-of-applications-implementing-five-erc-standards-for-tokenization-on-ethereum-network-e72501b64a4a?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-03T09:37:51.000Z",
+          "wordCount": 2078,
+          "title": "Examples of Applications Implementing Five ERC Standards for Tokenization on Ethereum Network",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Tav6KOCu2fU-sX51gJylUw.png"
+        },
+        {
+          "id": "https://medium.com/p/56353acefa82",
+          "author": "Scyloq",
+          "description": "Cryptocurrencies have revolutionized the way we think about money and finance. These digital assets, which are decentralized and often run…",
+          "link": "https://medium.com/coinmonks/regulatory-risks-associated-with-crypto-56353acefa82?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-03T09:37:12.000Z",
+          "wordCount": 2920,
+          "title": "Regulatory Risks Associated With Crypto",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jAJyNSxsb31tIRz3-n_uGw.png"
+        },
+        {
+          "id": "https://medium.com/p/22442aa2e4ee",
+          "author": "Ash",
+          "description": "TUSD, or TrueUSD, is a stablecoin that claims to be fully backed by US dollars and redeemable at a 1:1 ratio. However, on May 2nd, 2023…",
+          "link": "https://medium.com/coinmonks/tusds-7-premium-lessons-learned-on-stablecoin-stability-and-market-efficiency-22442aa2e4ee?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-03T09:37:10.000Z",
+          "wordCount": 3009,
+          "title": "TUSD’s 7% Premium: Lessons Learned on Stablecoin Stability and Market Efficiency",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*2hte0xLMrUA2oElC"
+        },
+        {
+          "id": "https://medium.com/p/4614ee137701",
+          "author": "Monroe 4PEACE",
+          "description": "In this fourth part of the CEO content series, I’m going back to look at some of the CEOs whose companies are deeply embedded to…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/black-sea-grain-deal-to-be-discussed-for-global-food-security-4614ee137701?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-03T09:37:09.000Z",
+          "wordCount": 2202,
+          "title": "Black Sea Grain Deal To Be Discussed For Global Food Security",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:945/0*LH52IWtrwPwn339G"
+        },
+        {
+          "id": "https://medium.com/p/e9ffad70e60b",
+          "author": "Fadai Mammadov",
           "description": "Introduction",
-          "link": "https://medium.com/coinmonks/blockchain-bets-e-sports-and-crypto-gambling-a-perfect-pair-674291286e3f?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-02T15:43:52.000Z",
-          "wordCount": 2377,
-          "title": "Blockchain Bets — E-sports and Crypto Gambling: A Perfect Pair",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/0*Nl2UlCW_k1gYpQW-.jpg"
+          "link": "https://medium.com/coinmonks/data-economy-e9ffad70e60b?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-03T09:21:30.000Z",
+          "wordCount": 4812,
+          "title": "Data economy",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/1e0fee2c1c3f",
+          "id": "https://medium.com/p/90ba12fb4617",
           "author": "Vremaroiu Alin",
-          "description": "What is Binance (BNB)?\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/binance-coin-bnb-price-prediction-2023-2025-update-2nd-of-may-1e0fee2c1c3f?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-02T15:38:49.000Z",
-          "wordCount": 1043,
-          "title": "Binance Coin (BNB) Price Prediction 2023–2025, update 2nd of May",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*dlge-wxN9h0PJ0lcBeQh6Q.png"
+          "description": "Bitcoin (BTC)\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/best-5-cryptocurrencies-to-buy-in-may-2023-90ba12fb4617?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-03T09:21:28.000Z",
+          "wordCount": 1063,
+          "title": "Best 5 Cryptocurrencies to Buy in May 2023",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3aXtFvwgentA88DjtgLqOQ.png"
         },
         {
-          "id": "https://medium.com/p/1574d3cef7bf",
-          "author": "Naman Soni",
-          "description": "The trading world captivates many with the promise of financial freedom and independent wealth creation. However, behind every trade is a…",
-          "link": "https://medium.com/coinmonks/are-you-a-reactive-trader-or-a-feedback-trader-trading-psychology-1574d3cef7bf?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-02T15:24:55.000Z",
-          "wordCount": 2722,
-          "title": "Are you a Reactive Trader or a Feedback Trader? — Trading Psychology",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*f61Z9TnNMaBm-s0XKNirxA.jpeg"
+          "id": "https://medium.com/p/2995ac2c5e55",
+          "author": "Vremaroiu Alin",
+          "description": "What is Cronos (CRO)?\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/cronos-cro-price-prediction-2023-2025-update-2nd-of-may-2995ac2c5e55?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-03T09:21:27.000Z",
+          "wordCount": 1058,
+          "title": "Cronos (CRO) Price Prediction 2023–2025, update 2nd of May",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lXcN3a4lVpsn2MPhPijy9Q.jpeg"
         },
         {
-          "id": "https://medium.com/p/ae722c461749",
-          "author": "Decentralist.com",
-          "description": "Common DAO failure points and how to overcome them.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/dao-failure-points-ae722c461749?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-02T15:24:53.000Z",
-          "wordCount": 1994,
-          "title": "DAO Failure Points",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6DhJQhFn0FYhYcCqnmRwiA.jpeg"
+          "id": "https://medium.com/p/305cafa8974f",
+          "author": "Vremaroiu Alin",
+          "description": "Pfizer (PFE)\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/best-5-stocks-to-buy-in-may-2023-305cafa8974f?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-03T09:21:25.000Z",
+          "wordCount": 1039,
+          "title": "Best 5 Stocks to Buy in May 2023",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*AYcbp_Dn8qAfqGckOM8Gww.png"
         },
         {
-          "id": "https://medium.com/p/54dd482dc8d8",
-          "author": "Paul Mihalev",
-          "description": "Today we take a look at the #EURJPY pair. On the monthly chart, the pair rose above the December 2014 level at the very end of April. May…",
-          "link": "https://medium.com/coinmonks/can-we-go-south-now-54dd482dc8d8?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-02T15:24:52.000Z",
-          "wordCount": 1910,
-          "title": "Can we go south now?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qgL7aXZbdcJ6RTHwef_eZw.png"
-        },
-        {
-          "id": "https://medium.com/p/fcf11cd81a55",
-          "author": "cryptoinspector",
-          "description": "I will show you 3 tiny crypto coins set to explode next bull run!\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/3-coins-to-3-million-fcf11cd81a55?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-02T15:24:51.000Z",
-          "wordCount": 1981,
-          "title": "3 Coins To 3 Million!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*SG_SFJYZ1Q96HebptoeJmg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ddedbe556708",
-          "author": "Future Ideas",
-          "description": "Artificial Intelligence (AI), blockchain, and Decentralized Autonomous Organizations (DAOs) are three of the most transformative…",
-          "link": "https://medium.com/coinmonks/the-intersection-of-artificial-intelligence-blockchain-and-decentralized-autonomous-ddedbe556708?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-02T14:48:35.000Z",
-          "wordCount": 3651,
-          "title": "The Intersection of Artificial Intelligence, Blockchain, and Decentralized Autonomous…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e89b79b9efc0",
-          "author": "Future Ideas",
-          "description": "The pursuit of immortality has captivated the human imagination for millennia. In recent years, advances in biotechnology, medicine, and…",
-          "link": "https://medium.com/coinmonks/the-future-of-immortal-healthcare-revolutionizing-access-and-equity-through-dao-blockchain-ai-e89b79b9efc0?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-02T14:48:34.000Z",
-          "wordCount": 3749,
-          "title": "The Future of Immortal Healthcare: Revolutionizing Access and Equity through DAO, Blockchain, AI…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2c4c211ca3ee",
-          "author": "Joe Robert",
-          "description": "The rise of blockchain technology has been compared to the early days of the internet, hence the moniker “Web 3.0”. In the early days of…",
-          "link": "https://medium.com/coinmonks/why-blockchains-will-power-your-future-financial-investments-2c4c211ca3ee?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-02T14:48:33.000Z",
-          "wordCount": 3515,
-          "title": "Why Blockchains Will Power Your Future Financial Investments",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*Me1gBUnoirYfjyf8AOXdCQ.png"
-        },
-        {
-          "id": "https://medium.com/p/a1d65e9c7958",
-          "author": "Amir Doreh",
-          "description": "In previous series of articles, we discussed the fundamentals and various useful basics regarding smart contract proxies. I highly suggest…",
-          "link": "https://medium.com/coinmonks/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-7-8-a1d65e9c7958?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-02T14:48:29.000Z",
-          "wordCount": 4102,
-          "title": "Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [7/8]",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*UMIJjj9E6AqA9W58"
+          "id": "https://medium.com/p/ee9b8584476e",
+          "author": "AIirdano",
+          "description": "Blockchain technology has revolutionized the way we think about transactions and data sharing. With its decentralized structure and…",
+          "link": "https://medium.com/coinmonks/participating-in-the-venom-testnet-a-gateway-to-the-future-of-blockchain-ee9b8584476e?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-03T09:21:23.000Z",
+          "wordCount": 3355,
+          "title": "Participating in the Venom Testnet: A Gateway to the Future of Blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*k6jyXUa3cfF86jYXbonYxA.jpeg"
         }
       ]
     },
@@ -237,7 +237,7 @@
           "description": "Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. Smart contracts…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/how-hardhat-simplifies-smart-contract-verification-on-ethereum-8a6a8f02315b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-26T20:49:26.000Z",
-          "wordCount": 2725,
+          "wordCount": 1772,
           "title": "How Hardhat Simplifies Smart Contract Verification on Ethereum",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*41s_xklPCFSZLwRHmUGUDA.jpeg"
         },
@@ -267,7 +267,7 @@
           "description": "With the rise of NFTs on the Ethereum blockchain, creators can now monetize their digital art, music, videos, and other media in ways…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/implementing-the-erc-2981-nft-royalty-standard-with-solidity-a-game-changer-for-creators-to-65272f5d29ad?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-11T10:46:38.000Z",
-          "wordCount": 2377,
+          "wordCount": 3352,
           "title": "Implementing the ERC-2981 NFT royalty standard with Solidity — a game-changer for creators to…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*FlwyoLI6t8i_xyPQkqsSxg.jpeg"
         },
