@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T23:11:39.605Z</id>
+    <id>urn:2023-05-04T01:00:34.664Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-03T23:11:39.605Z</updated>
+    <updated>2023-05-04T01:00:34.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -458,20 +458,6 @@ https://www.youtube.com/watch?v=9NzXBKE2j4o]]></summary>
 This tutorial will walk you through the Streamr network and how to get started. We will create a simple Next.js application that will consume data from a public stream and create and write to one. We will plot and visualize this data using a line chart and become acquainted with the Streamr network.
 The Functionalities
 Streamr's network consists of both off-chain and on-chain segments. The network serves …]]></summary>
-        <author>
-            <name>Osikhena Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling Your DApp with QuickNode: Tips and Strategies for High-Performance Applications]]></title>
-        <id>https://blog.developerdao.com/scaling-your-dapp-with-quicknode-tips-and-strategies-for-high-performance-applications</id>
-        <link href="https://blog.developerdao.com/scaling-your-dapp-with-quicknode-tips-and-strategies-for-high-performance-applications"/>
-        <updated>2023-04-04T11:22:42.000Z</updated>
-        <summary type="html"><![CDATA[Achieving scalability for your DApp involves a delicate balance between security, decentralization, and performance, which requires careful trade-offs. To begin the process, you must decide which blockchain to build on and how to connect your smart contract to the frontend application. QuickNode provides support for various chains and offers a rapid connection between your DApp and the blockchain.
-This blog post explores ways to enhance your DApps using QuickNode services. We'll demonstrate how to create a straightforward ERC20 token information tracker that displays essential token details. Then, we'll utilize QuickNode services to scale up the tracker for maximum efficiency.
-Register for a free account if you haven't already on QuickNode.
-Functionalities
-In this post, we'll develop small…]]></summary>
         <author>
             <name>Osikhena Oshomah</name>
         </author>
