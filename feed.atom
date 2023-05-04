@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T14:11:25.355Z</id>
+    <id>urn:2023-05-04T15:12:17.965Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-04T14:11:25.355Z</updated>
+    <updated>2023-05-04T15:12:17.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Brc-20 Standard on Bitcoin]]></title>
+        <id>https://medium.com/p/244a24e1465b</id>
+        <link href="https://medium.com/coinmonks/the-brc-20-standard-on-bitcoin-244a24e1465b?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-04T14:41:16.000Z</updated>
+        <summary type="html"><![CDATA[If you are a Bitcoin maximalist the chance is that you are pissed off.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Francesco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Era of Blockchain (Part1)]]></title>
+        <id>https://medium.com/p/4bc7779dd2a2</id>
+        <link href="https://medium.com/coinmonks/era-of-blockchain-part1-4bc7779dd2a2?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-04T14:41:11.000Z</updated>
+        <summary type="html"><![CDATA[History of blockchain]]></summary>
+        <author>
+            <name>Djordje</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fleece Investors With Your Next Crypto Shitcoin]]></title>
+        <id>https://medium.com/p/f434ccc9a4e1</id>
+        <link href="https://medium.com/coinmonks/how-to-fleece-investors-with-your-next-crypto-shitcoin-f434ccc9a4e1?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-04T14:41:07.000Z</updated>
+        <summary type="html"><![CDATA[So you’ve finally started to understand the game. You’ve finally realized that the devs are the ones making the money — not the investors…]]></summary>
+        <author>
+            <name>Lynn Scraggs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximizing Your Chances for the Layer Zero Airdrop: Meeting the Eligibility Criteria and Bridge…]]></title>
+        <id>https://medium.com/p/5a6425f610d3</id>
+        <link href="https://medium.com/coinmonks/maximizing-your-chances-for-the-layer-zero-airdrop-meeting-the-eligibility-criteria-and-bridge-5a6425f610d3?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-04T14:15:10.000Z</updated>
+        <summary type="html"><![CDATA[As we enter the year 2023, the crypto community is buzzing with excitement as airdrop season is upon us. Recent events have shown that…]]></summary>
+        <author>
+            <name>Hari Pandey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Surges After Interest Rate Hike, Demonstrates Resilience Amidst US Financial Crisis]]></title>
         <id>https://medium.com/p/b24e1460864a</id>
@@ -66,46 +107,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Today we will be analysing the #GBPJPY pair. First, the monthly chart. On this chart we are interested in the most recent period — the end…]]></summary>
         <author>
             <name>Paul Mihalev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing Clean Code for Solidity: The Quick Guide to Building Secure and Efficient Smart Contracts]]></title>
-        <id>https://medium.com/p/875fdee5ba88</id>
-        <link href="https://medium.com/coinmonks/writing-clean-code-for-solidity-875fdee5ba88?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-04T13:51:44.000Z</updated>
-        <summary type="html"><![CDATA[How to Write Clean Code for Solidity]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crude Oil Technical Analysis: Potential Bullish Alt-Bat Pattern]]></title>
-        <id>https://medium.com/p/a8fccc7ed1ef</id>
-        <link href="https://medium.com/coinmonks/crude-oil-technical-analysis-potential-bullish-alt-bat-pattern-a8fccc7ed1ef?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-04T13:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Introduction:]]></summary>
-        <author>
-            <name>André Cardoso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [8/8]]]></title>
-        <id>https://medium.com/p/5054bd35a6b2</id>
-        <link href="https://medium.com/coinmonks/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-8-8-5054bd35a6b2?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-04T13:51:40.000Z</updated>
-        <summary type="html"><![CDATA[In previous series of articles, we discussed the fundamentals and various useful basics regarding smart contract proxies. I highly suggest…]]></summary>
-        <author>
-            <name>Amir Doreh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Patterns in Solidity: An Introduction]]></title>
-        <id>https://medium.com/p/fcfb0834e134</id>
-        <link href="https://medium.com/coinmonks/design-patterns-in-solidity-an-introduction-fcfb0834e134?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-04T13:51:34.000Z</updated>
-        <summary type="html"><![CDATA[Design patterns are crucial for the successful development and deployment of smart contracts in Solidity, the programming language for the…]]></summary>
-        <author>
-            <name>Szabolcs Szentes</name>
         </author>
     </entry>
     <entry>

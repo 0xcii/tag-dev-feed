@@ -53,7 +53,7 @@
           "description": "In this article, we will explore how token gating works on Solana with code examples.",
           "link": "https://coinsbench.com/token-gating-on-solana-is-a-mechanism-that-restricts-the-transfer-of-tokens-from-one-account-to-6e6d00f51527?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-04T10:22:31.000Z",
-          "wordCount": 3308,
+          "wordCount": 4204,
           "title": "Token gating on Solana is a mechanism that restricts the transfer of tokens from one account to…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0HLnf9BmlFnJYkfdGB37Zg.png"
         },
@@ -83,7 +83,7 @@
           "description": "Artificial Intelligence (AI) is rapidly transforming various industries, and the cryptocurrency space is no exception. AI has the potential…",
           "link": "https://coinsbench.com/exploring-the-potential-of-ai-in-revolutionizing-the-cryptocurrency-industry-142a5c8ccc0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-03T09:55:55.000Z",
-          "wordCount": 5385,
+          "wordCount": 6343,
           "title": "Exploring the Potential of AI in Revolutionizing the Cryptocurrency Industry",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OTvsehYx8sg8fxnoFPFYBQ.png"
         },
@@ -93,7 +93,7 @@
           "description": "Let’s unravel the mystery of the mischievous Ethereum bug: A journey through remix and ChatGPT.",
           "link": "https://coinsbench.com/the-future-of-smart-contract-debugging-for-beginners-69cf9408dab2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-03T09:55:34.000Z",
-          "wordCount": 3339,
+          "wordCount": 4269,
           "title": "The Future of Smart Contract Debugging for Beginners",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1177/1*r0bdbXIrSRFiA22mEqgObg.png"
         },
@@ -103,7 +103,7 @@
           "description": "This article would explore how gas efficiency is becoming an increasingly important factor in the development of blockchain scaling…",
           "link": "https://coinsbench.com/gas-efficiency-blockchain-scaling-e5d083f4d6e3?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-03T09:01:37.000Z",
-          "wordCount": 2876,
+          "wordCount": 1954,
           "title": "Gas Efficiency and the Future of Blockchain Scaling",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7VSLcYjN3ST8eBcy6NQ8vw.png"
         },
@@ -113,7 +113,7 @@
           "description": "If you have been trying to learn about potential cases of DoS attacks and end up always with the same examples (as I did), you might be…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/uncovering-real-life-examples-of-denial-of-service-attacks-on-smart-contracts-8bc220c2cdd0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-02T10:09:09.000Z",
-          "wordCount": 5737,
+          "wordCount": 4787,
           "title": "Uncovering Real-Life Examples of Denial of Service Attacks on Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OAQI2JFCtM35sbTiSqdcwQ.jpeg"
         }
@@ -124,6 +124,46 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/244a24e1465b",
+          "author": "Francesco",
+          "description": "If you are a Bitcoin maximalist the chance is that you are pissed off.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-brc-20-standard-on-bitcoin-244a24e1465b?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-04T14:41:16.000Z",
+          "wordCount": 1905,
+          "title": "The Brc-20 Standard on Bitcoin",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*VQXlJfOyjR7S5Epb.png"
+        },
+        {
+          "id": "https://medium.com/p/4bc7779dd2a2",
+          "author": "Djordje",
+          "description": "History of blockchain",
+          "link": "https://medium.com/coinmonks/era-of-blockchain-part1-4bc7779dd2a2?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-04T14:41:11.000Z",
+          "wordCount": 3101,
+          "title": "Era of Blockchain (Part1)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*V7IS0T09AtjyJ9dkgn7AFA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/f434ccc9a4e1",
+          "author": "Lynn Scraggs",
+          "description": "So you’ve finally started to understand the game. You’ve finally realized that the devs are the ones making the money — not the investors…",
+          "link": "https://medium.com/coinmonks/how-to-fleece-investors-with-your-next-crypto-shitcoin-f434ccc9a4e1?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-04T14:41:07.000Z",
+          "wordCount": 5225,
+          "title": "How to Fleece Investors With Your Next Crypto Shitcoin",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qWqx66yaIUEdBeGfzGeciQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/5a6425f610d3",
+          "author": "Hari Pandey",
+          "description": "As we enter the year 2023, the crypto community is buzzing with excitement as airdrop season is upon us. Recent events have shown that…",
+          "link": "https://medium.com/coinmonks/maximizing-your-chances-for-the-layer-zero-airdrop-meeting-the-eligibility-criteria-and-bridge-5a6425f610d3?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-04T14:15:10.000Z",
+          "wordCount": 2261,
+          "title": "Maximizing Your Chances for the Layer Zero Airdrop: Meeting the Eligibility Criteria and Bridge…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:598/1*ldzerRlXIJ8CQCZwVG5LWw.jpeg"
+        },
         {
           "id": "https://medium.com/p/b24e1460864a",
           "author": "Crypto King",
@@ -140,7 +180,7 @@
           "description": "Are you looking for a way to earn passive income from your cryptocurrency investments? If so, then you may want to consider investing in…",
           "link": "https://medium.com/coinmonks/3000-in-tron-trx-cryptocurrency-on-a-passive-basis-d5718e922e35?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-04T13:52:02.000Z",
-          "wordCount": 2719,
+          "wordCount": 1761,
           "title": "3000% In Tron [TRX]Cryptocurrency On A Passive Basis",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*MUaC3om6-no3i1n9WuAMRg.png"
         },
@@ -150,7 +190,7 @@
           "description": "The short answer is yes, and this showdown may offer the most far-reaching impact the cryptoverse has seen.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/another-crypto-v-sec-showdown-5924e1f4693e?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-04T13:52:01.000Z",
-          "wordCount": 1989,
+          "wordCount": 1073,
           "title": "Another Crypto v SEC showdown?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:508/0*2dkmqRbLg3KNycXK"
         },
@@ -160,7 +200,7 @@
           "description": "Nine websites that provided cryptocurrency exchange services to online criminals have been taken down by authorities in the US and Ukraine.",
           "link": "https://medium.com/coinmonks/us-and-ukrainian-officials-close-cryptocurrency-exchanges-d0177ac7616a?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-04T13:51:58.000Z",
-          "wordCount": 2418,
+          "wordCount": 1368,
           "title": "US and Ukrainian officials close cryptocurrency exchanges",
           "imageUrl": null
         },
@@ -170,7 +210,7 @@
           "description": "Discover the investment strategies of the ultra-wealthy for your own portfolio.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/how-to-invest-like-the-top-1-and-build-your-way-to-financial-freedom-360f8a3b5758?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-04T13:51:52.000Z",
-          "wordCount": 2116,
+          "wordCount": 1079,
           "title": "How to Invest Like the Top 1% and Build Your Way to Financial Freedom",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*qJfTFYNEM3Sfbl8x"
         },
@@ -180,49 +220,9 @@
           "description": "Today we will be analysing the #GBPJPY pair. First, the monthly chart. On this chart we are interested in the most recent period — the end…",
           "link": "https://medium.com/coinmonks/sometimes-this-trick-can-be-repeated-b2c6e99a30cc?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-04T13:51:48.000Z",
-          "wordCount": 2061,
+          "wordCount": 3063,
           "title": "Sometimes this trick can be repeated …",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*nbz8j7V-cqMC8wzx6SvBlA.png"
-        },
-        {
-          "id": "https://medium.com/p/875fdee5ba88",
-          "author": "Solidity Academy",
-          "description": "How to Write Clean Code for Solidity",
-          "link": "https://medium.com/coinmonks/writing-clean-code-for-solidity-875fdee5ba88?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-04T13:51:44.000Z",
-          "wordCount": 1620,
-          "title": "Writing Clean Code for Solidity: The Quick Guide to Building Secure and Efficient Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*2jzGYTe3IhryQLRYgsJjgg.png"
-        },
-        {
-          "id": "https://medium.com/p/a8fccc7ed1ef",
-          "author": "André Cardoso",
-          "description": "Introduction:",
-          "link": "https://medium.com/coinmonks/crude-oil-technical-analysis-potential-bullish-alt-bat-pattern-a8fccc7ed1ef?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-04T13:51:43.000Z",
-          "wordCount": 1839,
-          "title": "Crude Oil Technical Analysis: Potential Bullish Alt-Bat Pattern",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*U0gOtPA3GCifr5N4kJKipw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/5054bd35a6b2",
-          "author": "Amir Doreh",
-          "description": "In previous series of articles, we discussed the fundamentals and various useful basics regarding smart contract proxies. I highly suggest…",
-          "link": "https://medium.com/coinmonks/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-8-8-5054bd35a6b2?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-04T13:51:40.000Z",
-          "wordCount": 2501,
-          "title": "Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [8/8]",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*-CUknYjammw7mvvk"
-        },
-        {
-          "id": "https://medium.com/p/fcfb0834e134",
-          "author": "Szabolcs Szentes",
-          "description": "Design patterns are crucial for the successful development and deployment of smart contracts in Solidity, the programming language for the…",
-          "link": "https://medium.com/coinmonks/design-patterns-in-solidity-an-introduction-fcfb0834e134?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-04T13:51:34.000Z",
-          "wordCount": 2747,
-          "title": "Design Patterns in Solidity: An Introduction",
-          "imageUrl": null
         }
       ]
     },
@@ -237,7 +237,7 @@
           "description": "Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. Smart contracts…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/how-hardhat-simplifies-smart-contract-verification-on-ethereum-8a6a8f02315b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-26T20:49:26.000Z",
-          "wordCount": 1772,
+          "wordCount": 2683,
           "title": "How Hardhat Simplifies Smart Contract Verification on Ethereum",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*41s_xklPCFSZLwRHmUGUDA.jpeg"
         },
