@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T06:15:20.219Z</id>
+    <id>urn:2023-05-04T07:11:39.236Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-04T06:15:20.219Z</updated>
+    <updated>2023-05-04T07:11:39.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Tokengated Community for Live Concerts with QuickNode: A Step-by-Step Tutorial]]></title>
+        <id>https://blog.developerdao.com/building-a-tokengated-community-for-live-concerts-with-quicknode-a-step-by-step-tutorial</id>
+        <link href="https://blog.developerdao.com/building-a-tokengated-community-for-live-concerts-with-quicknode-a-step-by-step-tutorial"/>
+        <updated>2023-05-04T06:50:24.000Z</updated>
+        <summary type="html"><![CDATA[In this comprehensive tutorial, we'll walk through the process of building a token-gated community for live concerts using QuickNode. We will create a custom token on the Ethereum network, develop a smart contract for the community, and design a frontend interface using QuickNode's API. This platform will allow concert organizers to offer exclusive live concert access to token holders.
+Prerequisites
+Basic understanding of Ethereum, Solidity, and smart contracts
+Familiarity with JavaScript and web development
+Node.js and npm installed on your local machine
+MetaMask or another Ethereum-compatible wallet
+
+Step 1: Setting up the project
+As our first step, we will create a smart contract in Solidity for the token we later use for the gating.
+1.1 Installing dependencies
+To begin, make sure you h…]]></summary>
+        <author>
+            <name>Patrick Skinner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Reef Finance and the REEF token?]]></title>
+        <id>https://medium.com/p/6ba93471168b</id>
+        <link href="https://medium.com/coinmonks/what-is-reef-finance-and-the-reef-token-6ba93471168b?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-04T06:33:48.000Z</updated>
+        <summary type="html"><![CDATA[Reef Finance was introduced to the crypto world through the Binance Launchpool. It was then when I had a quick glance at the project, and…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>PVMihalache</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Winner And Looser Today — May 04, 2023]]></title>
+        <id>https://medium.com/p/d3efdb947ef9</id>
+        <link href="https://medium.com/coinmonks/crypto-winner-and-looser-today-may-04-2023-d3efdb947ef9?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-04T06:33:47.000Z</updated>
+        <summary type="html"><![CDATA[The following overview shows the top 5 winner and looser in the last 24 hours. Keep up to date.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Beat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Memes Today — May 04, 2023]]></title>
+        <id>https://medium.com/p/776eaa75d625</id>
+        <link href="https://medium.com/coinmonks/crypto-memes-today-may-04-2023-776eaa75d625?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-04T06:33:41.000Z</updated>
+        <summary type="html"><![CDATA[What are crypto memes? They are funny pictures or videos that feature characters. Here are the best crypto memes of the last 24 hours.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Beat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Rises Toward $30,000 as Bank Woes Ripple Across Markets]]></title>
+        <id>https://medium.com/p/61de9bc72fe4</id>
+        <link href="https://medium.com/coinmonks/bitcoin-rises-toward-30-000-as-bank-woes-ripple-across-markets-61de9bc72fe4?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-04T06:33:39.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin’s recent rise toward $30,000 is a welcome development for investors who have seen the cryptocurrency’s price fluctuate…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Crypto Beat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Fear And Greed Index Today — May 04, 2023]]></title>
         <id>https://medium.com/p/88c131eed57</id>
@@ -66,48 +130,6 @@ Continue reading on Coinmonks »]]></summary>
 Continue reading on Coinmonks »]]></summary>
         <author>
             <name>cryptoinspector</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is The Only Way to Become Exceptionally Rich]]></title>
-        <id>https://medium.com/p/6306f1541926</id>
-        <link href="https://medium.com/coinmonks/this-is-the-only-way-to-become-exceptionally-rich-6306f1541926?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-04T06:06:33.000Z</updated>
-        <summary type="html"><![CDATA[If you’re someone who dreams of getting exceptionally rich, you’re not alone. Many people aspire to live a life of financial freedom, but…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Nomad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Meme Token Evolution: Are Dog Coins Being Dethroned?]]></title>
-        <id>https://medium.com/p/f873124938d6</id>
-        <link href="https://medium.com/coinmonks/the-meme-token-evolution-are-dog-coins-being-dethroned-f873124938d6?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-04T06:06:31.000Z</updated>
-        <summary type="html"><![CDATA[The Changing Landscape of Meme Tokens and the Potential Future of Crypto’s Meme Economy]]></summary>
-        <author>
-            <name>Crypto Climax</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Crypto Cosmos: Bitcoin & Altcoins Battle for Supremacy]]></title>
-        <id>https://medium.com/p/8a6480542bb1</id>
-        <link href="https://medium.com/coinmonks/the-crypto-cosmos-bitcoin-altcoins-battle-for-supremacy-8a6480542bb1?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-04T06:06:30.000Z</updated>
-        <summary type="html"><![CDATA[A Thrilling Odyssey Through the Cryptocurrency Universe
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Lonnie McFadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Scam of the Banking System: Why Cryptocurrency Could Be the Future of Finance]]></title>
-        <id>https://medium.com/p/6030f7911d5c</id>
-        <link href="https://medium.com/coinmonks/the-scam-of-the-banking-system-why-cryptocurrency-could-be-the-future-of-finance-6030f7911d5c?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-04T06:06:25.000Z</updated>
-        <summary type="html"><![CDATA[The banking system has been a cornerstone of the global financial system for centuries. From providing loans to facilitating transactions, banks have played an essential role in the global economy…]]></summary>
-        <author>
-            <name>Mike</name>
         </author>
     </entry>
     <entry>
