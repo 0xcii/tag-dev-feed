@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T10:12:33.513Z</id>
+    <id>urn:2023-05-04T11:10:33.820Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-04T10:12:33.514Z</updated>
+    <updated>2023-05-04T11:10:33.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#1 Fallback — Ethernaut Walkthrough]]></title>
+        <id>https://medium.com/p/c7ee2eaf3bb0</id>
+        <link href="https://coinsbench.com/1-fallback-ethernaut-walkthrough-c7ee2eaf3bb0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-04T10:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to challenge #1 “Fallback” of Open Zeppelin’s Ethernaut capture-the-flag series. In this challenge, we’re taked with 1) claiming…]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#3 Coin Flip-Ethernaut Explained]]></title>
+        <id>https://medium.com/p/3d4ecd66c0c9</id>
+        <link href="https://coinsbench.com/3-coin-flip-ethernaut-explai-3d4ecd66c0c9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-04T10:22:36.000Z</updated>
+        <summary type="html"><![CDATA[Insecure Randomness and Chainlink Verifiable Random Functions]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#2 Fallout— Ethernaut Explained]]></title>
+        <id>https://medium.com/p/92a696bd4efd</id>
+        <link href="https://coinsbench.com/2-fallout-ethernaut-explained-92a696bd4efd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-04T10:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to challenge #2 “Fallout” of Open Zeppelin’s Ethernaut capture-the-flag series. In this challenge, we’re tasked with claiming…]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Token gating on Solana is a mechanism that restricts the transfer of tokens from one account to…]]></title>
+        <id>https://medium.com/p/6e6d00f51527</id>
+        <link href="https://coinsbench.com/token-gating-on-solana-is-a-mechanism-that-restricts-the-transfer-of-tokens-from-one-account-to-6e6d00f51527?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-04T10:22:31.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will explore how token gating works on Solana with code examples.]]></summary>
+        <author>
+            <name>Lea Lobanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happened To Bitcoin City And The $1 Billion Bitcoin Bond]]></title>
+        <id>https://medium.com/p/6c2f330433f2</id>
+        <link href="https://medium.com/coinmonks/what-happened-to-bitcoin-city-and-the-1-billion-bitcoin-bond-6c2f330433f2?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-04T10:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Is El Salvador Backing Out Of Bitcoin?
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Pantera</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance Dex Clone Script: Revolutionizing Decentralized Exchange]]></title>
         <id>https://medium.com/p/b8a53abccbd</id>
@@ -94,16 +145,6 @@ In the digital age, artificial intelligence (AI) has revolutionized the way we w
         <summary type="html"><![CDATA[Isotopic is a blockchain-enabled software distribution service that hosts games and applications and is offering the gaming industry a…]]></summary>
         <author>
             <name>Isotopic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlock Your PPC Potential: 4 Top Marketing Trends for 2023]]></title>
-        <id>https://medium.com/p/f93ad989e115</id>
-        <link href="https://medium.com/coinmonks/unlock-your-ppc-potential-4-top-marketing-trends-for-2023-f93ad989e115?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-04T09:09:53.000Z</updated>
-        <summary type="html"><![CDATA[Pay-per-click (PPC) advertising has become an integral part of modern-day digital marketing strategies. As technology advances and consumer…]]></summary>
-        <author>
-            <name>Kettywill</name>
         </author>
     </entry>
     <entry>
@@ -221,46 +262,6 @@ If we think of Ethereum as a gigantic database that manages the state, just like
 Continue reading on CoinsBench »]]></summary>
         <author>
             <name>Bloqarl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celo Composer Tutorial: How to Build dApps on Celo Platform with Ease]]></title>
-        <id>https://medium.com/p/dfeca391e023</id>
-        <link href="https://coinsbench.com/celo-composer-tutorial-how-to-build-dapps-on-celo-platform-with-ease-dfeca391e023?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-02T10:08:46.000Z</updated>
-        <summary type="html"><![CDATA[Celo is a blockchain platform aimed at making financial systems more accessible and inclusive to all. Because the platform is built on the…]]></summary>
-        <author>
-            <name>Maxwell Onyeka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Smart Contracts with AI: A Beginner’s Guide]]></title>
-        <id>https://medium.com/p/14f0f89a7a5e</id>
-        <link href="https://coinsbench.com/ai-assisted-smart-contract-deployment-a-step-by-step-revolution-14f0f89a7a5e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-02T10:08:14.000Z</updated>
-        <summary type="html"><![CDATA[What if you could use AI to help you deploy smart contracts that it teaches you to create?]]></summary>
-        <author>
-            <name>ChainGPT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gas Efficient Alternatives to Ethereum]]></title>
-        <id>https://medium.com/p/a320c1237fbe</id>
-        <link href="https://coinsbench.com/gas-efficient-alternatives-a320c1237fbe?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-02T09:01:49.000Z</updated>
-        <summary type="html"><![CDATA[This article would explore alternative blockchain platforms that offer lower gas fees or more efficient gas models than Ethereum, such as…]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is how we’re developing our Flashloan Arbitrage Bot]]></title>
-        <id>https://medium.com/p/69ed86c834f8</id>
-        <link href="https://coinsbench.com/this-is-how-were-developing-our-flashloan-arbitrage-bot-69ed86c834f8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-01T13:53:43.000Z</updated>
-        <summary type="html"><![CDATA[We’re excited to announce that our team at Fastlybot is currently working on building our next product: a Flashloan Arbitrage Bot. This…]]></summary>
-        <author>
-            <name>OUBADI Ahmed</name>
         </author>
     </entry>
     <entry>
