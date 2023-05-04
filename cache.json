@@ -23,7 +23,7 @@
           "description": "Welcome to challenge #1 “Fallback” of Open Zeppelin’s Ethernaut capture-the-flag series. In this challenge, we’re taked with 1) claiming…",
           "link": "https://coinsbench.com/1-fallback-ethernaut-walkthrough-c7ee2eaf3bb0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-04T10:22:39.000Z",
-          "wordCount": 2161,
+          "wordCount": 2992,
           "title": "#1 Fallback — Ethernaut Walkthrough",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*bqjsqm1pv9-m_4dR.png"
         },
@@ -33,7 +33,7 @@
           "description": "Insecure Randomness and Chainlink Verifiable Random Functions",
           "link": "https://coinsbench.com/3-coin-flip-ethernaut-explai-3d4ecd66c0c9?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-04T10:22:36.000Z",
-          "wordCount": 3293,
+          "wordCount": 2427,
           "title": "#3 Coin Flip-Ethernaut Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1026/0*kxJAFymUmk3rDMkX.png"
         },
@@ -83,7 +83,7 @@
           "description": "Artificial Intelligence (AI) is rapidly transforming various industries, and the cryptocurrency space is no exception. AI has the potential…",
           "link": "https://coinsbench.com/exploring-the-potential-of-ai-in-revolutionizing-the-cryptocurrency-industry-142a5c8ccc0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-03T09:55:55.000Z",
-          "wordCount": 6343,
+          "wordCount": 5385,
           "title": "Exploring the Potential of AI in Revolutionizing the Cryptocurrency Industry",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OTvsehYx8sg8fxnoFPFYBQ.png"
         },
@@ -103,7 +103,7 @@
           "description": "This article would explore how gas efficiency is becoming an increasingly important factor in the development of blockchain scaling…",
           "link": "https://coinsbench.com/gas-efficiency-blockchain-scaling-e5d083f4d6e3?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-03T09:01:37.000Z",
-          "wordCount": 1954,
+          "wordCount": 2876,
           "title": "Gas Efficiency and the Future of Blockchain Scaling",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7VSLcYjN3ST8eBcy6NQ8vw.png"
         },
@@ -113,7 +113,7 @@
           "description": "If you have been trying to learn about potential cases of DoS attacks and end up always with the same examples (as I did), you might be…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/uncovering-real-life-examples-of-denial-of-service-attacks-on-smart-contracts-8bc220c2cdd0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-02T10:09:09.000Z",
-          "wordCount": 4787,
+          "wordCount": 4789,
           "title": "Uncovering Real-Life Examples of Denial of Service Attacks on Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OAQI2JFCtM35sbTiSqdcwQ.jpeg"
         }
@@ -125,12 +125,22 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1e3f8effd579",
+          "author": "Coinmonks Team",
+          "description": "Crypto Regulation, DAO Wars, DeFi Sagas, Bitcoin Supremacy, and Digital Avatars, all here with market updates and a meme.",
+          "link": "https://medium.com/coinmonks/binance-allegedly-attacked-by-chatgpts-false-information-curated-coincodecap-3-may-2023-1e3f8effd579?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-04T15:39:57.000Z",
+          "wordCount": 3364,
+          "title": "Binance Allegedly Attacked by ChatGPT’s False Information | Curated CoinCodeCap #3 May 2023",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/1*W1g51yt3b0scMJHvBLglvw.gif"
+        },
+        {
           "id": "https://medium.com/p/244a24e1465b",
           "author": "Francesco",
           "description": "If you are a Bitcoin maximalist the chance is that you are pissed off.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/the-brc-20-standard-on-bitcoin-244a24e1465b?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-04T14:41:16.000Z",
-          "wordCount": 1905,
+          "wordCount": 1023,
           "title": "The Brc-20 Standard on Bitcoin",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*VQXlJfOyjR7S5Epb.png"
         },
@@ -140,7 +150,7 @@
           "description": "History of blockchain",
           "link": "https://medium.com/coinmonks/era-of-blockchain-part1-4bc7779dd2a2?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-04T14:41:11.000Z",
-          "wordCount": 3101,
+          "wordCount": 2185,
           "title": "Era of Blockchain (Part1)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*V7IS0T09AtjyJ9dkgn7AFA.jpeg"
         },
@@ -160,7 +170,7 @@
           "description": "As we enter the year 2023, the crypto community is buzzing with excitement as airdrop season is upon us. Recent events have shown that…",
           "link": "https://medium.com/coinmonks/maximizing-your-chances-for-the-layer-zero-airdrop-meeting-the-eligibility-criteria-and-bridge-5a6425f610d3?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-04T14:15:10.000Z",
-          "wordCount": 2261,
+          "wordCount": 3154,
           "title": "Maximizing Your Chances for the Layer Zero Airdrop: Meeting the Eligibility Criteria and Bridge…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:598/1*ldzerRlXIJ8CQCZwVG5LWw.jpeg"
         },
@@ -170,7 +180,7 @@
           "description": "Correlation with Equities Diminishing as BTC Outperforms Traditional Markets\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/bitcoin-surges-after-interest-rate-hike-demonstrates-resilience-amidst-us-financial-crisis-b24e1460864a?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-04T13:52:05.000Z",
-          "wordCount": 1058,
+          "wordCount": 2057,
           "title": "Bitcoin Surges After Interest Rate Hike, Demonstrates Resilience Amidst US Financial Crisis",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Q2-1aOrFbQdJA1ig"
         },
@@ -190,7 +200,7 @@
           "description": "The short answer is yes, and this showdown may offer the most far-reaching impact the cryptoverse has seen.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/another-crypto-v-sec-showdown-5924e1f4693e?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-04T13:52:01.000Z",
-          "wordCount": 1073,
+          "wordCount": 1989,
           "title": "Another Crypto v SEC showdown?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:508/0*2dkmqRbLg3KNycXK"
         },
@@ -213,16 +223,6 @@
           "wordCount": 1079,
           "title": "How to Invest Like the Top 1% and Build Your Way to Financial Freedom",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*qJfTFYNEM3Sfbl8x"
-        },
-        {
-          "id": "https://medium.com/p/b2c6e99a30cc",
-          "author": "Paul Mihalev",
-          "description": "Today we will be analysing the #GBPJPY pair. First, the monthly chart. On this chart we are interested in the most recent period — the end…",
-          "link": "https://medium.com/coinmonks/sometimes-this-trick-can-be-repeated-b2c6e99a30cc?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-04T13:51:48.000Z",
-          "wordCount": 3063,
-          "title": "Sometimes this trick can be repeated …",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*nbz8j7V-cqMC8wzx6SvBlA.png"
         }
       ]
     },
@@ -237,7 +237,7 @@
           "description": "Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. Smart contracts…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/how-hardhat-simplifies-smart-contract-verification-on-ethereum-8a6a8f02315b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-26T20:49:26.000Z",
-          "wordCount": 2683,
+          "wordCount": 1772,
           "title": "How Hardhat Simplifies Smart Contract Verification on Ethereum",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*41s_xklPCFSZLwRHmUGUDA.jpeg"
         },
@@ -267,7 +267,7 @@
           "description": "With the rise of NFTs on the Ethereum blockchain, creators can now monetize their digital art, music, videos, and other media in ways…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/implementing-the-erc-2981-nft-royalty-standard-with-solidity-a-game-changer-for-creators-to-65272f5d29ad?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-11T10:46:38.000Z",
-          "wordCount": 3279,
+          "wordCount": 2377,
           "title": "Implementing the ERC-2981 NFT royalty standard with Solidity — a game-changer for creators to…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*FlwyoLI6t8i_xyPQkqsSxg.jpeg"
         },
