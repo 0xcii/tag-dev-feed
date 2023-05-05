@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-05T11:10:10.229Z</id>
+    <id>urn:2023-05-05T12:21:48.421Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-05T11:10:10.229Z</updated>
+    <updated>2023-05-05T12:21:48.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#4 Telephone — Ethernaut Explained]]></title>
+        <id>https://medium.com/p/98bd55fb2617</id>
+        <link href="https://coinsbench.com/4-telephone-ethernaut-explained-98bd55fb2617?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-05T11:23:18.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to challenge #4 “Telephone” of Open Zeppelin’s Ethernaut capture-the-flag series. In this challenge, we’re tasked with claiming…]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#5 Token— Ethernaut Explained]]></title>
+        <id>https://medium.com/p/1cf90d6b2a5f</id>
+        <link href="https://coinsbench.com/5-token-ethernaut-explained-1cf90d6b2a5f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-05T11:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Solidity Arithmetic Underflows and Compiler Quirks]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#6 Delegation— Ethernaut Explained]]></title>
+        <id>https://medium.com/p/fbc3dcb88cea</id>
+        <link href="https://coinsbench.com/6-delegation-ethernaut-explained-fbc3dcb88cea?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-05T11:23:05.000Z</updated>
+        <summary type="html"><![CDATA[Delegatecall and Manipulating Context Preservation]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variables and control structures in solidity (100 Days of Solidity (Day 2–3) pt. 2)]]></title>
+        <id>https://medium.com/p/3e13c00044d1</id>
+        <link href="https://coinsbench.com/variables-and-control-structures-in-solidity-100-days-of-solidity-day-2-3-pt-2-3e13c00044d1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-05T11:22:38.000Z</updated>
+        <summary type="html"><![CDATA[Variables and control structures in solidity]]></summary>
+        <author>
+            <name>Favorite_blockchain_lady</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidelines on becoming a Blockchain Developer in 2023 (Solidity)]]></title>
+        <id>https://medium.com/p/2922150f2f84</id>
+        <link href="https://coinsbench.com/guidelines-on-becoming-a-blockchain-developer-in-2023-solidity-2922150f2f84?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-05T11:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Thinking of becoming a solidity developer in 2023 and don’t know how to go about it or where to start?
+Or Have you started your solidity…]]></summary>
+        <author>
+            <name>Favorite_blockchain_lady</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[History Always Rhymes in Crypto]]></title>
         <id>https://medium.com/p/c376f10fdd06</id>
@@ -200,46 +251,6 @@ Click on the "Create e…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Decentralized Marketplace on Flow Blockchain: An Example of a Smart Contract for…]]></title>
-        <id>https://medium.com/p/c07cebac8b52</id>
-        <link href="https://coinsbench.com/building-a-decentralized-marketplace-on-flow-blockchain-an-example-of-a-smart-contract-for-digital-c07cebac8b52?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-03T09:55:59.000Z</updated>
-        <summary type="html"><![CDATA[The advent of blockchain technology has paved the way for decentralized marketplaces, where users can buy, sell, and trade digital assets…]]></summary>
-        <author>
-            <name>Lea Lobanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Potential of AI in Revolutionizing the Cryptocurrency Industry]]></title>
-        <id>https://medium.com/p/142a5c8ccc0</id>
-        <link href="https://coinsbench.com/exploring-the-potential-of-ai-in-revolutionizing-the-cryptocurrency-industry-142a5c8ccc0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-03T09:55:55.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence (AI) is rapidly transforming various industries, and the cryptocurrency space is no exception. AI has the potential…]]></summary>
-        <author>
-            <name>Lea Lobanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Smart Contract Debugging for Beginners]]></title>
-        <id>https://medium.com/p/69cf9408dab2</id>
-        <link href="https://coinsbench.com/the-future-of-smart-contract-debugging-for-beginners-69cf9408dab2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-03T09:55:34.000Z</updated>
-        <summary type="html"><![CDATA[Let’s unravel the mystery of the mischievous Ethereum bug: A journey through remix and ChatGPT.]]></summary>
-        <author>
-            <name>ChainGPT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gas Efficiency and the Future of Blockchain Scaling]]></title>
-        <id>https://medium.com/p/e5d083f4d6e3</id>
-        <link href="https://coinsbench.com/gas-efficiency-blockchain-scaling-e5d083f4d6e3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-03T09:01:37.000Z</updated>
-        <summary type="html"><![CDATA[This article would explore how gas efficiency is becoming an increasingly important factor in the development of blockchain scaling…]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Decoding Decentralization]]></title>
         <id>https://blog.developerdao.com/decoding-decentralization</id>
         <link href="https://blog.developerdao.com/decoding-decentralization"/>
@@ -253,17 +264,6 @@ The State of the Chain Address
 If we think of Ethereum as a gigantic database that manages the state, just like all traditional databases, t…]]></summary>
         <author>
             <name>Alexander Sack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uncovering Real-Life Examples of Denial of Service Attacks on Smart Contracts]]></title>
-        <id>https://medium.com/p/8bc220c2cdd0</id>
-        <link href="https://coinsbench.com/uncovering-real-life-examples-of-denial-of-service-attacks-on-smart-contracts-8bc220c2cdd0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-02T10:09:09.000Z</updated>
-        <summary type="html"><![CDATA[If you have been trying to learn about potential cases of DoS attacks and end up always with the same examples (as I did), you might be…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Bloqarl</name>
         </author>
     </entry>
     <entry>
