@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T11:09:27.490Z</id>
+    <id>urn:2023-05-06T12:20:53.748Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-06T11:09:27.490Z</updated>
+    <updated>2023-05-06T12:20:53.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Promises and callbacks in JavaScript]]></title>
+        <id>https://medium.com/p/d299d5aee670</id>
+        <link href="https://coinsbench.com/promises-and-callbacks-in-javascript-d299d5aee670?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-06T11:27:16.000Z</updated>
+        <summary type="html"><![CDATA[Promises and callbacks are important concepts in JavaScript, used for managing asynchronous code. Let’s take a look at an example program…]]></summary>
+        <author>
+            <name>TK Rose</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevNTell - Blocktorch (beta)]]></title>
         <id>https://blog.developerdao.com/devntell-blocktorch-beta</id>
@@ -263,16 +273,6 @@ Select the network, and click "continue".
 Click on the "Create e…]]></summary>
         <author>
             <name>Aayush Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Solidity Code for Gas Efficiency: Tips and Best Practices]]></title>
-        <id>https://medium.com/p/c5fce47d079d</id>
-        <link href="https://coinsbench.com/optimizing-solidity-code-for-gas-efficiency-tips-and-best-practices-c5fce47d079d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-03T09:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Smart Contracts Made Simple (5 book series)]]></summary>
-        <author>
-            <name>Solidity Academy</name>
         </author>
     </entry>
     <entry>
