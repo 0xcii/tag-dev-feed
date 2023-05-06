@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-05T23:12:00.651Z</id>
+    <id>urn:2023-05-06T00:56:37.413Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-05T23:12:00.651Z</updated>
+    <updated>2023-05-06T00:56:37.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DevNTell - Blocktorch (beta)]]></title>
+        <id>https://blog.developerdao.com/devntell-blocktorch-beta</id>
+        <link href="https://blog.developerdao.com/devntell-blocktorch-beta"/>
+        <updated>2023-05-06T00:37:21.000Z</updated>
+        <summary type="html"><![CDATA[🌈 GM
+In this week's episode of DevNTell, DAO member Gery Pollak gives us an updated look at Blocktorch: an observability platform that helps builders understand the behavior of a decentralized application holistically.
+🌟 Developer Spotlight
+Gery has 6 years of experience working in business development at FAANG and investing in startups in central & eastern Europe as a VC. He is a self-taught developer (CS50) who made his first steps in solidity development end of 2020 going through the likes of CryptoZombies, Ethernaut, DappUnivserity etc. Beginning of 2022 (at the time when he joined D_D 🙂 ) he started to work on Blocktorch together with his co-founder Amine who is a seasoned software engineer.
+🔥 About Blocktorch
+From the About page of Blocktorch:
+The number of decentralized applications, their developers as well as users are growing at rapid speed, yet the tooling around web3 is not evolving fast enough. The underlying decentralized architecture is getting more complex and less understandable. To ensure web3 is mass market ready reliability is key.  The talented engineering teams pushing the frontiers of innovation need the best tools to build the best products.  
+We at Blocktorch are re-imagining how developers build and maintain their decentralized applications. We believe in empowering every software engineering team to gain a deeper understanding of their smart contracts as well as other decentralized components such that they can troubleshoot and resolve anomalies in minutes, not hours.
+Website: blocktorch.xyz
+Twitter: twitter.com/blocktorch
+Gery's Twitter: twitter.com/GeryPollak
+Gery's Discord handle: CapG(blocktorch.xyz)#9916
+🎥 Presentation
+
+
+
+https://www.youtube.com/watch?v=stpQ3_Atfnw]]></summary>
+        <author>
+            <name>Narbeh Shahnazarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Italy’s 26% crypto tax To Affect Individual and Business Investors | Curated CoinCodeCap #5 May…]]></title>
         <id>https://medium.com/p/b8c36803eaf8</id>
@@ -469,20 +495,6 @@ Sam's Twitter: https://twitter.com/samnode_
 https://www.youtube.com/watch?v=9NzXBKE2j4o]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with Streamr]]></title>
-        <id>https://blog.developerdao.com/getting-started-with-streamr</id>
-        <link href="https://blog.developerdao.com/getting-started-with-streamr"/>
-        <updated>2023-04-06T11:47:26.000Z</updated>
-        <summary type="html"><![CDATA[Streamr is a decentralized, real-time data network that operates on a peer-to-peer (P2P) computer network where each node connects with other nodes without a central server. Streamr uses a publish-subscribe system where one peer writes data to the network, and others read the data. This continuous flow of data allows for efficient and effective real-time data transport and communication.
-
-This tutorial will walk you through the Streamr network and how to get started. We will create a simple Next.js application that will consume data from a public stream and create and write to one. We will plot and visualize this data using a line chart and become acquainted with the Streamr network.
-The Functionalities
-Streamr's network consists of both off-chain and on-chain segments. The network serves …]]></summary>
-        <author>
-            <name>Osikhena Oshomah</name>
         </author>
     </entry>
 </feed>
