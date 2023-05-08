@@ -18,12 +18,62 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/c241ab903dc1",
+          "author": "Cayo Tor",
+          "description": "Withdrawal Patterns and Denial of Service",
+          "link": "https://coinsbench.com/9-king-ethernaut-explained-c241ab903dc1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-08T12:54:07.000Z",
+          "wordCount": 2049,
+          "title": "#9 King— Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*by8mw95Zr3BrwmcR.png"
+        },
+        {
+          "id": "https://medium.com/p/1f236ea9dda6",
+          "author": "Cayo Tor",
+          "description": "Contract Storage and Private Data",
+          "link": "https://coinsbench.com/8-vault-ethernaut-explained-1f236ea9dda6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-08T12:54:05.000Z",
+          "wordCount": 1629,
+          "title": "#8 Vault— Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*-A1h6bD48VDRel5Y.png"
+        },
+        {
+          "id": "https://medium.com/p/107cc17dedba",
+          "author": "Cayo Tor",
+          "description": "Detrimental External Calls and Untrusted Logic",
+          "link": "https://coinsbench.com/21-shop-ethernaut-explained-107cc17dedba?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-08T12:54:02.000Z",
+          "wordCount": 2938,
+          "title": "#21 Shop— Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*5btcPI7y5lgxXAZJ.png"
+        },
+        {
+          "id": "https://medium.com/p/3ac7a3320f5e",
+          "author": "Galien Dev",
+          "description": "As decentralized finance (DeFi) continues to grow in popularity, the need for secure and reliable wallet solutions becomes more important…",
+          "link": "https://coinsbench.com/gnosis-safe-multisig-wallet-explained-3ac7a3320f5e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-08T12:53:59.000Z",
+          "wordCount": 3029,
+          "title": "Gnosis Safe Multisig Wallet explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*935KxedJNecmHtHDL1l38w.png"
+        },
+        {
+          "id": "https://medium.com/p/7d9b694ea0b",
+          "author": "ismail",
+          "description": "In Solidity, state variables represent the state of the contract and are accessible from anywhere in the contract. State variable…",
+          "link": "https://coinsbench.com/12-lets-learn-solidity-state-variable-visibility-7d9b694ea0b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-08T12:53:28.000Z",
+          "wordCount": 2651,
+          "title": "12# Let’s learn Solidity ~ State variable visibility",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HwGqBMdsO3QnyyaFjJiYBg.png"
+        },
+        {
           "id": "https://medium.com/p/d299d5aee670",
           "author": "TK Rose",
           "description": "Promises and callbacks are important concepts in JavaScript, used for managing asynchronous code. Let’s take a look at an example program…",
           "link": "https://coinsbench.com/promises-and-callbacks-in-javascript-d299d5aee670?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-06T11:27:16.000Z",
-          "wordCount": 2400,
+          "wordCount": 3328,
           "title": "Promises and callbacks in JavaScript",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*q7cTrESM8Q7yJj5t"
         },
@@ -63,59 +113,9 @@
           "description": "Variables and control structures in solidity",
           "link": "https://coinsbench.com/variables-and-control-structures-in-solidity-100-days-of-solidity-day-2-3-pt-2-3e13c00044d1?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-05T11:22:38.000Z",
-          "wordCount": 1831,
+          "wordCount": 2803,
           "title": "Variables and control structures in solidity (100 Days of Solidity (Day 2–3) pt. 2)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1177/1*7XvlOD1_so1Kjq9aIeb0Rw.png"
-        },
-        {
-          "id": "https://medium.com/p/2922150f2f84",
-          "author": "Favorite_blockchain_lady",
-          "description": "Thinking of becoming a solidity developer in 2023 and don’t know how to go about it or where to start?\nOr Have you started your solidity…",
-          "link": "https://coinsbench.com/guidelines-on-becoming-a-blockchain-developer-in-2023-solidity-2922150f2f84?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-05T11:22:35.000Z",
-          "wordCount": 2282,
-          "title": "Guidelines on becoming a Blockchain Developer in 2023 (Solidity)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HBSw_gqGP8V7x8Ah9YJwCg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/c7ee2eaf3bb0",
-          "author": "Cayo Tor",
-          "description": "Welcome to challenge #1 “Fallback” of Open Zeppelin’s Ethernaut capture-the-flag series. In this challenge, we’re taked with 1) claiming…",
-          "link": "https://coinsbench.com/1-fallback-ethernaut-walkthrough-c7ee2eaf3bb0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-04T10:22:39.000Z",
-          "wordCount": 2903,
-          "title": "#1 Fallback — Ethernaut Walkthrough",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*bqjsqm1pv9-m_4dR.png"
-        },
-        {
-          "id": "https://medium.com/p/3d4ecd66c0c9",
-          "author": "Cayo Tor",
-          "description": "Insecure Randomness and Chainlink Verifiable Random Functions",
-          "link": "https://coinsbench.com/3-coin-flip-ethernaut-explai-3d4ecd66c0c9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-04T10:22:36.000Z",
-          "wordCount": 3259,
-          "title": "#3 Coin Flip-Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1026/0*kxJAFymUmk3rDMkX.png"
-        },
-        {
-          "id": "https://medium.com/p/92a696bd4efd",
-          "author": "Cayo Tor",
-          "description": "Welcome to challenge #2 “Fallout” of Open Zeppelin’s Ethernaut capture-the-flag series. In this challenge, we’re tasked with claiming…",
-          "link": "https://coinsbench.com/2-fallout-ethernaut-explained-92a696bd4efd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-04T10:22:34.000Z",
-          "wordCount": 1517,
-          "title": "#2 Fallout— Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*UOeg2HvMwS5l4u7L.png"
-        },
-        {
-          "id": "https://medium.com/p/6e6d00f51527",
-          "author": "Lea Lobanov",
-          "description": "In this article, we will explore how token gating works on Solana with code examples.",
-          "link": "https://coinsbench.com/token-gating-on-solana-is-a-mechanism-that-restricts-the-transfer-of-tokens-from-one-account-to-6e6d00f51527?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-04T10:22:31.000Z",
-          "wordCount": 4298,
-          "title": "Token gating on Solana is a mechanism that restricts the transfer of tokens from one account to…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0HLnf9BmlFnJYkfdGB37Zg.png"
         }
       ]
     },
@@ -160,7 +160,7 @@
           "description": "Delegate-Call, Inheritance & Upgradable Proxy Patterns in Solidity.",
           "link": "https://medium.com/coinmonks/how-can-ethereums-immutable-smart-contracts-be-upgraded-a4b582893f29?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-08T08:47:40.000Z",
-          "wordCount": 6081,
+          "wordCount": 6795,
           "title": "How Can Ethereum’s Immutable Smart Contracts Be Upgraded?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*ffvO_Ox0lWHX2lKz.jpg"
         },
@@ -170,7 +170,7 @@
           "description": "Solidity Compilers and Contract Initialization → Opcodes and Gas within the Ethereum Virtual Machine.",
           "link": "https://medium.com/coinmonks/talking-to-ethereum-smart-contracts-to-opcodes-3fc53a8de7d1?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-08T08:47:38.000Z",
-          "wordCount": 5533,
+          "wordCount": 6251,
           "title": "Talking to Ethereum: Smart Contracts to Opcodes",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QT9H3lXlqWV55YXNSRkYZQ.png"
         },
@@ -200,7 +200,7 @@
           "description": "The integration of Artificial Intelligence (AI) and Decentralized Finance (DeFi) presents an exciting opportunity to enhance the financial…",
           "link": "https://medium.com/coinmonks/ai-defi-fusion-navigating-opportunities-and-confronting-challenges-d06a2306aead?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-08T08:47:29.000Z",
-          "wordCount": 2993,
+          "wordCount": 2088,
           "title": "AI & DeFi Fusion: Navigating Opportunities and Confronting Challenges",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:886/1*O9EhHSinDAMjcrSe61CMpg.png"
         },
@@ -210,7 +210,7 @@
           "description": "Cryptocurrency wallets are an essential tool for storing and managing digital assets securely. However, traditional wallets can be…",
           "link": "https://medium.com/coinmonks/ai-enhanced-crypto-wallets-revolutionizing-secure-storage-for-the-future-4040fafdc20d?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-08T08:47:21.000Z",
-          "wordCount": 1896,
+          "wordCount": 2789,
           "title": "AI-Enhanced Crypto Wallets: Revolutionizing Secure Storage for the Future",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:886/1*ci3NNHVIfQybmdszK4pfDA.png"
         },
@@ -220,7 +220,7 @@
           "description": "Cryptocurrency has gained a significant following over the years, with a growing number of individuals and businesses recognizing it as a…",
           "link": "https://medium.com/coinmonks/ais-role-in-accelerating-cryptocurrency-adoption-shaping-regulations-37b7dbe08f7?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-08T08:47:11.000Z",
-          "wordCount": 3091,
+          "wordCount": 2206,
           "title": "AI’s Role in Accelerating Cryptocurrency Adoption & Shaping Regulations",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:886/1*QcUa7aEIwlGDkCvbepZgAA.png"
         }
@@ -237,7 +237,7 @@
           "description": "Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. Smart contracts…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/how-hardhat-simplifies-smart-contract-verification-on-ethereum-8a6a8f02315b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-26T20:49:26.000Z",
-          "wordCount": 1772,
+          "wordCount": 2681,
           "title": "How Hardhat Simplifies Smart Contract Verification on Ethereum",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*41s_xklPCFSZLwRHmUGUDA.jpeg"
         },
@@ -257,7 +257,7 @@
           "description": "If you are seeking a tutorial-oriented guide for Smart Contract Upgrades and Proxy Patterns, then this is the article that you have been…",
           "link": "https://blog.blockmagnates.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-1-10-25f86c0b92d1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-14T08:46:12.000Z",
-          "wordCount": 2774,
+          "wordCount": 1874,
           "title": "Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [1/8]",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9JaNXQ5u_A0YkhMs"
         },

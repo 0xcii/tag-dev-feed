@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-08T12:24:04.743Z</id>
+    <id>urn:2023-05-08T13:14:33.728Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-08T12:24:04.743Z</updated>
+    <updated>2023-05-08T13:14:33.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#9 King— Ethernaut Explained]]></title>
+        <id>https://medium.com/p/c241ab903dc1</id>
+        <link href="https://coinsbench.com/9-king-ethernaut-explained-c241ab903dc1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-08T12:54:07.000Z</updated>
+        <summary type="html"><![CDATA[Withdrawal Patterns and Denial of Service]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#8 Vault— Ethernaut Explained]]></title>
+        <id>https://medium.com/p/1f236ea9dda6</id>
+        <link href="https://coinsbench.com/8-vault-ethernaut-explained-1f236ea9dda6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-08T12:54:05.000Z</updated>
+        <summary type="html"><![CDATA[Contract Storage and Private Data]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#21 Shop— Ethernaut Explained]]></title>
+        <id>https://medium.com/p/107cc17dedba</id>
+        <link href="https://coinsbench.com/21-shop-ethernaut-explained-107cc17dedba?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-08T12:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Detrimental External Calls and Untrusted Logic]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gnosis Safe Multisig Wallet explained]]></title>
+        <id>https://medium.com/p/3ac7a3320f5e</id>
+        <link href="https://coinsbench.com/gnosis-safe-multisig-wallet-explained-3ac7a3320f5e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-08T12:53:59.000Z</updated>
+        <summary type="html"><![CDATA[As decentralized finance (DeFi) continues to grow in popularity, the need for secure and reliable wallet solutions becomes more important…]]></summary>
+        <author>
+            <name>Galien Dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12# Let’s learn Solidity ~ State variable visibility]]></title>
+        <id>https://medium.com/p/7d9b694ea0b</id>
+        <link href="https://coinsbench.com/12-lets-learn-solidity-state-variable-visibility-7d9b694ea0b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-08T12:53:28.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, state variables represent the state of the contract and are accessible from anywhere in the contract. State variable…]]></summary>
+        <author>
+            <name>ismail</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30% Climate Change Tax on Crypto]]></title>
         <id>https://medium.com/p/cb19934c8f85</id>
@@ -181,57 +231,6 @@ https://www.youtube.com/watch?v=stpQ3_Atfnw]]></summary>
         <summary type="html"><![CDATA[Variables and control structures in solidity]]></summary>
         <author>
             <name>Favorite_blockchain_lady</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidelines on becoming a Blockchain Developer in 2023 (Solidity)]]></title>
-        <id>https://medium.com/p/2922150f2f84</id>
-        <link href="https://coinsbench.com/guidelines-on-becoming-a-blockchain-developer-in-2023-solidity-2922150f2f84?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-05T11:22:35.000Z</updated>
-        <summary type="html"><![CDATA[Thinking of becoming a solidity developer in 2023 and don’t know how to go about it or where to start?
-Or Have you started your solidity…]]></summary>
-        <author>
-            <name>Favorite_blockchain_lady</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#1 Fallback — Ethernaut Walkthrough]]></title>
-        <id>https://medium.com/p/c7ee2eaf3bb0</id>
-        <link href="https://coinsbench.com/1-fallback-ethernaut-walkthrough-c7ee2eaf3bb0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-04T10:22:39.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to challenge #1 “Fallback” of Open Zeppelin’s Ethernaut capture-the-flag series. In this challenge, we’re taked with 1) claiming…]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#3 Coin Flip-Ethernaut Explained]]></title>
-        <id>https://medium.com/p/3d4ecd66c0c9</id>
-        <link href="https://coinsbench.com/3-coin-flip-ethernaut-explai-3d4ecd66c0c9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-04T10:22:36.000Z</updated>
-        <summary type="html"><![CDATA[Insecure Randomness and Chainlink Verifiable Random Functions]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#2 Fallout— Ethernaut Explained]]></title>
-        <id>https://medium.com/p/92a696bd4efd</id>
-        <link href="https://coinsbench.com/2-fallout-ethernaut-explained-92a696bd4efd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-04T10:22:34.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to challenge #2 “Fallout” of Open Zeppelin’s Ethernaut capture-the-flag series. In this challenge, we’re tasked with claiming…]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Token gating on Solana is a mechanism that restricts the transfer of tokens from one account to…]]></title>
-        <id>https://medium.com/p/6e6d00f51527</id>
-        <link href="https://coinsbench.com/token-gating-on-solana-is-a-mechanism-that-restricts-the-transfer-of-tokens-from-one-account-to-6e6d00f51527?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-04T10:22:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will explore how token gating works on Solana with code examples.]]></summary>
-        <author>
-            <name>Lea Lobanov</name>
         </author>
     </entry>
     <entry>
