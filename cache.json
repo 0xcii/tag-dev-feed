@@ -33,7 +33,7 @@
           "description": "Welcome to challenge #4 “Telephone” of Open Zeppelin’s Ethernaut capture-the-flag series. In this challenge, we’re tasked with claiming…",
           "link": "https://coinsbench.com/4-telephone-ethernaut-explained-98bd55fb2617?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-05T11:23:18.000Z",
-          "wordCount": 2672,
+          "wordCount": 1880,
           "title": "#4 Telephone — Ethernaut Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*McydiDiu_tp7I-HM.png"
         },
@@ -83,7 +83,7 @@
           "description": "Welcome to challenge #1 “Fallback” of Open Zeppelin’s Ethernaut capture-the-flag series. In this challenge, we’re taked with 1) claiming…",
           "link": "https://coinsbench.com/1-fallback-ethernaut-walkthrough-c7ee2eaf3bb0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-04T10:22:39.000Z",
-          "wordCount": 2903,
+          "wordCount": 2161,
           "title": "#1 Fallback — Ethernaut Walkthrough",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*bqjsqm1pv9-m_4dR.png"
         },
@@ -93,7 +93,7 @@
           "description": "Insecure Randomness and Chainlink Verifiable Random Functions",
           "link": "https://coinsbench.com/3-coin-flip-ethernaut-explai-3d4ecd66c0c9?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-04T10:22:36.000Z",
-          "wordCount": 3259,
+          "wordCount": 2427,
           "title": "#3 Coin Flip-Ethernaut Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1026/0*kxJAFymUmk3rDMkX.png"
         },
@@ -113,7 +113,7 @@
           "description": "In this article, we will explore how token gating works on Solana with code examples.",
           "link": "https://coinsbench.com/token-gating-on-solana-is-a-mechanism-that-restricts-the-transfer-of-tokens-from-one-account-to-6e6d00f51527?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-04T10:22:31.000Z",
-          "wordCount": 3308,
+          "wordCount": 4298,
           "title": "Token gating on Solana is a mechanism that restricts the transfer of tokens from one account to…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0HLnf9BmlFnJYkfdGB37Zg.png"
         }
@@ -130,7 +130,7 @@
           "description": "The U.S. are looking at making a 30% tax on the electricity used in cryptocurrency mining in an effort to tackle climate change.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/30-climate-change-tax-on-crypto-cb19934c8f85?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-08T08:47:50.000Z",
-          "wordCount": 2041,
+          "wordCount": 1074,
           "title": "30% Climate Change Tax on Crypto",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*AeRiHs7NyWrKe1ovqHIiGA.jpeg"
         },
@@ -160,7 +160,7 @@
           "description": "Delegate-Call, Inheritance & Upgradable Proxy Patterns in Solidity.",
           "link": "https://medium.com/coinmonks/how-can-ethereums-immutable-smart-contracts-be-upgraded-a4b582893f29?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-08T08:47:40.000Z",
-          "wordCount": 6081,
+          "wordCount": 6795,
           "title": "How Can Ethereum’s Immutable Smart Contracts Be Upgraded?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*ffvO_Ox0lWHX2lKz.jpg"
         },
@@ -170,7 +170,7 @@
           "description": "Solidity Compilers and Contract Initialization → Opcodes and Gas within the Ethereum Virtual Machine.",
           "link": "https://medium.com/coinmonks/talking-to-ethereum-smart-contracts-to-opcodes-3fc53a8de7d1?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-08T08:47:38.000Z",
-          "wordCount": 6251,
+          "wordCount": 5533,
           "title": "Talking to Ethereum: Smart Contracts to Opcodes",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QT9H3lXlqWV55YXNSRkYZQ.png"
         },
@@ -237,7 +237,7 @@
           "description": "Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. Smart contracts…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/how-hardhat-simplifies-smart-contract-verification-on-ethereum-8a6a8f02315b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-26T20:49:26.000Z",
-          "wordCount": 2681,
+          "wordCount": 1772,
           "title": "How Hardhat Simplifies Smart Contract Verification on Ethereum",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*41s_xklPCFSZLwRHmUGUDA.jpeg"
         },
@@ -247,7 +247,7 @@
           "description": "Before Start",
           "link": "https://blog.blockmagnates.com/deploy-contract-on-base-goerli-5a559cc5e82a?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-17T09:44:25.000Z",
-          "wordCount": 963,
+          "wordCount": 1836,
           "title": "Deploy contract on Base Goerli",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:624/1*5vZE7nyBNDstx2TkGiFu-w.png"
         },
@@ -277,7 +277,7 @@
           "description": "Gas Golfing #2: Packing Variables",
           "link": "https://blog.blockmagnates.com/gas-golfing-2-45b570cbb96f?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-10T10:32:07.000Z",
-          "wordCount": 2150,
+          "wordCount": 2964,
           "title": "Gas Golfing #2",
           "imageUrl": null
         }
