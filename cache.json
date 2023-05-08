@@ -33,7 +33,7 @@
           "description": "Contract Storage and Private Data",
           "link": "https://coinsbench.com/8-vault-ethernaut-explained-1f236ea9dda6?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-08T12:54:05.000Z",
-          "wordCount": 1629,
+          "wordCount": 2421,
           "title": "#8 Vault— Ethernaut Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*-A1h6bD48VDRel5Y.png"
         },
@@ -63,7 +63,7 @@
           "description": "In Solidity, state variables represent the state of the contract and are accessible from anywhere in the contract. State variable…",
           "link": "https://coinsbench.com/12-lets-learn-solidity-state-variable-visibility-7d9b694ea0b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-08T12:53:28.000Z",
-          "wordCount": 2651,
+          "wordCount": 1678,
           "title": "12# Let’s learn Solidity ~ State variable visibility",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HwGqBMdsO3QnyyaFjJiYBg.png"
         },
@@ -83,7 +83,7 @@
           "description": "Welcome to challenge #4 “Telephone” of Open Zeppelin’s Ethernaut capture-the-flag series. In this challenge, we’re tasked with claiming…",
           "link": "https://coinsbench.com/4-telephone-ethernaut-explained-98bd55fb2617?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-05T11:23:18.000Z",
-          "wordCount": 1880,
+          "wordCount": 2672,
           "title": "#4 Telephone — Ethernaut Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*McydiDiu_tp7I-HM.png"
         },
@@ -93,7 +93,7 @@
           "description": "Solidity Arithmetic Underflows and Compiler Quirks",
           "link": "https://coinsbench.com/5-token-ethernaut-explained-1cf90d6b2a5f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-05T11:23:07.000Z",
-          "wordCount": 3226,
+          "wordCount": 2491,
           "title": "#5 Token— Ethernaut Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*3krzXYmzLkcfCl1h.png"
         },
@@ -103,7 +103,7 @@
           "description": "Delegatecall and Manipulating Context Preservation",
           "link": "https://coinsbench.com/6-delegation-ethernaut-explained-fbc3dcb88cea?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-05T11:23:05.000Z",
-          "wordCount": 1995,
+          "wordCount": 2737,
           "title": "#6 Delegation— Ethernaut Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*gQcwSA6q0xGB0vVN.png"
         },
@@ -125,12 +125,82 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/23ea38f30c68",
+          "author": "The Crypto Enthusiast",
+          "description": "For as long as money had existed, loans have always been a favored way for individuals and businesses to leverage their actions and…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/sharkyfi-and-citrus-the-rise-of-nft-p2p-lending-23ea38f30c68?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-08T16:57:51.000Z",
+          "wordCount": 2175,
+          "title": "SharkyFi and Citrus, The Rise of NFT P2P Lending",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*el5glE_IJsOhcpNtNrFUgA.png"
+        },
+        {
+          "id": "https://medium.com/p/1043ad529de7",
+          "author": "Secure Digital Markets",
+          "description": "Over the weekend, the Bitcoin network experienced significant congestion. Blockspace demand was driven by BRC-20 tokens. Fee revenue…",
+          "link": "https://medium.com/coinmonks/bitcoin-fees-surge-from-memecoin-trading-1043ad529de7?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-08T16:57:25.000Z",
+          "wordCount": 1623,
+          "title": "Bitcoin Fees Surge From Memecoin Trading",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1G_cgrSPBRQCkhzDpU8Oeg.png"
+        },
+        {
+          "id": "https://medium.com/p/1870d938eb50",
+          "author": "Nathan Simone",
+          "description": "(Not Your Keys, Not Your Coins)",
+          "link": "https://medium.com/coinmonks/the-hidden-dangers-of-paper-bitcoin-and-why-self-custody-matters-1870d938eb50?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-08T16:57:24.000Z",
+          "wordCount": 3621,
+          "title": "The Hidden Dangers of “Paper Bitcoin” and Why Self-Custody Matters",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YwQrwBivILLQ9vjOdjiDQw.png"
+        },
+        {
+          "id": "https://medium.com/p/b6ffc50f91e",
+          "author": "Visionary Vortex",
+          "description": "VeChain is a blockchain platform that is quickly gaining attention in the cryptocurrency industry, and has the potential to be the future…",
+          "link": "https://medium.com/coinmonks/why-vechain-could-be-the-future-of-decentralized-finance-b6ffc50f91e?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-08T16:57:24.000Z",
+          "wordCount": 1896,
+          "title": "Why VeChain Could be the Future of Decentralized Finance",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:992/1*_yzqnd7O5fAnzhhcOnzFQg.png"
+        },
+        {
+          "id": "https://medium.com/p/6591bd66da53",
+          "author": "Minifigures Nft",
+          "description": "Official announcement!",
+          "link": "https://medium.com/coinmonks/announcement-mint-date-06-june-and-blockchain-ethereum-6591bd66da53?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-08T16:56:35.000Z",
+          "wordCount": 2380,
+          "title": "Announcement: Mint date (06 June) and blockchain (Ethereum)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:520/1*muwrQYDsLv_qlpGnqL3qeQ.png"
+        },
+        {
+          "id": "https://medium.com/p/cb8806c0ccd2",
+          "author": "Fadai Mammadov",
+          "description": "To mature as an industry on its own decentralized finance (DeFi) should not be limited to digital assets only. Traditional finance is still…",
+          "link": "https://medium.com/coinmonks/introduction-cb8806c0ccd2?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-08T16:55:38.000Z",
+          "wordCount": 4575,
+          "title": "Synthetic assets",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:975/1*DcKp_9v-3X17JmG49coOfA.png"
+        },
+        {
+          "id": "https://medium.com/p/1db978a6184e",
+          "author": "Visionary Vortex",
+          "description": "As an expert in the cryptocurrency industry with over two decades of experience, I’ve had the opportunity to observe many blockchain…",
+          "link": "https://medium.com/coinmonks/is-nano-the-sleeper-hit-of-the-crypto-world-1db978a6184e?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-08T16:55:36.000Z",
+          "wordCount": 2929,
+          "title": "Is Nano the Sleeper Hit of the Crypto World?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:992/1*MeQ1nZiBMxeqni6-a_XP-g.png"
+        },
+        {
           "id": "https://medium.com/p/6dacf1de4f17",
           "author": "Mike Coldman",
           "description": "In this article, we’ll explore 4 explosive altcoins with massive growth potential that you can afford to take advantage of.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/4-explosive-altcoins-you-cant-afford-to-miss-these-projects-could-make-you-rich-6dacf1de4f17?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-08T15:21:08.000Z",
-          "wordCount": 1000,
+          "wordCount": 1904,
           "title": "4 EXPLOSIVE Altcoins you can’t afford to miss! These projects could make you RICH!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:500/1*CU_yL4hxD3uEXXDoSHzhaQ.png"
         },
@@ -140,7 +210,7 @@
           "description": "Cryptocurrency has become a popular topic in recent years, with Bitcoin and Ethereum being the most well-known names in the market…",
           "link": "https://medium.com/coinmonks/5-promising-altcoins-you-should-know-about-in-2023-8c8a1244049b?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-08T15:21:05.000Z",
-          "wordCount": 3656,
+          "wordCount": 3650,
           "title": "5 Promising Altcoins You Should Know About in 2023",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:992/1*-BD-OOtpWU0xnKUII7tiyA.png"
         },
@@ -153,76 +223,6 @@
           "wordCount": 1906,
           "title": "The Underrated Altcoin That Could be the Next Big Thing in Crypto",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:992/1*6x4UZjwecOkzhhHfbS1LQA.png"
-        },
-        {
-          "id": "https://medium.com/p/274c2650d642",
-          "author": "Amit Singh",
-          "description": "Making money online is a dream for many people who want to escape the rat race, enjoy more freedom and flexibility, and earn passive…",
-          "link": "https://medium.com/coinmonks/the-top-10-secrets-for-making-money-online-274c2650d642?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-08T14:46:07.000Z",
-          "wordCount": 6041,
-          "title": "The Top 10 Secrets For Making Money Online",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YcyvRN8ZAvoOp0uuwWdQpg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/593143c00de9",
-          "author": "cryptoinspector",
-          "description": "In today’s article, I will show you the micro-cap altcoins for 100x gain. Crypto meme coins are insane now.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/micro-cap-altcoins-100x-gain-593143c00de9?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-08T14:44:22.000Z",
-          "wordCount": 1942,
-          "title": "Micro Cap Altcoins! 100x Gain",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yB10d0cCSsYeFaChiltHrg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/b6e06f6be62f",
-          "author": "Profitable Investing Tips",
-          "description": "The fall of FTX sent shockwaves through the crypto realm. Now attention given by regulators to Binance is likewise causing ulcers across…",
-          "link": "https://medium.com/coinmonks/does-trouble-for-binance-spell-trouble-for-crypto-b6e06f6be62f?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-08T14:44:20.000Z",
-          "wordCount": 3430,
-          "title": "Does Trouble for Binance Spell Trouble for Crypto?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/0*SkgKwu_XKO9yPKPZ.jpg"
-        },
-        {
-          "id": "https://medium.com/p/c6cc1a2b45d4",
-          "author": "Crypto News",
-          "description": "The sudden rise of this meme coin has turned a small investment into massive profits for some traders. Let’s explore the fascinating world…",
-          "link": "https://medium.com/coinmonks/pepe-memecoin-nfts-are-the-latest-craze-in-the-world-of-cryptocurrencies-c6cc1a2b45d4?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-08T14:44:17.000Z",
-          "wordCount": 3038,
-          "title": "PEPE memecoin NFTs are the latest craze in the world of cryptocurrencies.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*CpinFvMn06bHYOg-vemQCA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/80a26bde2733",
-          "author": "Meghalya Pant",
-          "description": "CoinFantasy is launching the first ever blockchain league of the year- Chain Wars. Know how to secure rewards up to 3500 USDT.",
-          "link": "https://medium.com/coinmonks/this-invest-gaming-platform-is-all-set-to-launch-the-first-blockchain-league-80a26bde2733?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-08T14:44:15.000Z",
-          "wordCount": 2112,
-          "title": "This Invest-Gaming Platform Is All Set To Launch The First Blockchain League",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wsuuoE1Kb3Tp1qPpyOllBw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/5a571cd81e56",
-          "author": "Cathrine Williams",
-          "description": "In this article, we will cover everything you need to know about shortly BRC20 token development.",
-          "link": "https://medium.com/coinmonks/trending-brc20-token-development-all-you-need-to-know-5a571cd81e56?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-08T14:44:09.000Z",
-          "wordCount": 3841,
-          "title": "Trending “BRC20 Token Development” — All You Need to Know",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*O_b3Lnb7892I3vFYhOBlBQ.png"
-        },
-        {
-          "id": "https://medium.com/p/c07fe5aea6d",
-          "author": "In the bitcoin world",
-          "description": "Unique identifiers known as bitcoin addresses are required to transmit and receive bitcoins. They are a series of characters that are…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/what-are-bitcoin-addresses-c07fe5aea6d?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-08T14:44:03.000Z",
-          "wordCount": 2074,
-          "title": "What are bitcoin addresses?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*RgHGeX7uvyYhBxnx"
         }
       ]
     },
@@ -257,7 +257,7 @@
           "description": "If you are seeking a tutorial-oriented guide for Smart Contract Upgrades and Proxy Patterns, then this is the article that you have been…",
           "link": "https://blog.blockmagnates.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-1-10-25f86c0b92d1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-14T08:46:12.000Z",
-          "wordCount": 2774,
+          "wordCount": 1874,
           "title": "Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [1/8]",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9JaNXQ5u_A0YkhMs"
         },
@@ -277,7 +277,7 @@
           "description": "Gas Golfing #2: Packing Variables",
           "link": "https://blog.blockmagnates.com/gas-golfing-2-45b570cbb96f?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-10T10:32:07.000Z",
-          "wordCount": 2964,
+          "wordCount": 2150,
           "title": "Gas Golfing #2",
           "imageUrl": null
         }
