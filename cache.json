@@ -18,6 +18,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/5d3f6ad8cd66",
+          "author": "joaovwfreire",
+          "description": "This week at Celo Camp was jam-packed with content that I, as a beginner, found very informative. In particular, I learned a lot about…",
+          "link": "https://coinsbench.com/celo-camp-week-2-5d3f6ad8cd66?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-09T11:24:10.000Z",
+          "wordCount": 3328,
+          "title": "Celo Camp —  week 2",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:712/1*kgBDCCpBHIv6XlBj0U7KEg.png"
+        },
+        {
+          "id": "https://medium.com/p/8494e7278504",
+          "author": "Dimitri Rusin",
+          "description": "Smart contracts! They are supposedly the new web apps. Okay, let’s make one.",
+          "link": "https://coinsbench.com/how-to-publish-a-smart-contract-on-an-ethereum-testnet-8494e7278504?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-09T11:24:07.000Z",
+          "wordCount": 4084,
+          "title": "How to publish a smart contract on an Ethereum testnet",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*A-H4MMYP4hEBsTTR48btPQ.png"
+        },
+        {
+          "id": "https://medium.com/p/4592c530f950",
+          "author": "Sankar Srinivasan",
+          "description": "Real estate has always been a popular investment option, but has traditionally been restricted to wealthy individuals and institutions due…",
+          "link": "https://coinsbench.com/guide-to-tokenize-real-estate-4592c530f950?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-09T11:24:01.000Z",
+          "wordCount": 6772,
+          "title": "Guide to Tokenize Real Estate",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Y0K1OipkiZBYr19e"
+        },
+        {
+          "id": "https://medium.com/p/4158774823c7",
+          "author": "Sankar Srinivasan",
+          "description": "How to create Deflationary Token?",
+          "link": "https://coinsbench.com/how-to-create-deflationary-token-4158774823c7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-09T11:23:34.000Z",
+          "wordCount": 5901,
+          "title": "How to create Deflationary Token?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*sGdD5TPgSIGa4ED1"
+        },
+        {
           "id": "https://medium.com/p/c241ab903dc1",
           "author": "Cayo Tor",
           "description": "Withdrawal Patterns and Denial of Service",
@@ -63,7 +103,7 @@
           "description": "In Solidity, state variables represent the state of the contract and are accessible from anywhere in the contract. State variable…",
           "link": "https://coinsbench.com/12-lets-learn-solidity-state-variable-visibility-7d9b694ea0b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-08T12:53:28.000Z",
-          "wordCount": 1675,
+          "wordCount": 2563,
           "title": "12# Let’s learn Solidity ~ State variable visibility",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HwGqBMdsO3QnyyaFjJiYBg.png"
         },
@@ -73,49 +113,9 @@
           "description": "Promises and callbacks are important concepts in JavaScript, used for managing asynchronous code. Let’s take a look at an example program…",
           "link": "https://coinsbench.com/promises-and-callbacks-in-javascript-d299d5aee670?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-06T11:27:16.000Z",
-          "wordCount": 3343,
+          "wordCount": 2397,
           "title": "Promises and callbacks in JavaScript",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*q7cTrESM8Q7yJj5t"
-        },
-        {
-          "id": "https://medium.com/p/98bd55fb2617",
-          "author": "Cayo Tor",
-          "description": "Welcome to challenge #4 “Telephone” of Open Zeppelin’s Ethernaut capture-the-flag series. In this challenge, we’re tasked with claiming…",
-          "link": "https://coinsbench.com/4-telephone-ethernaut-explained-98bd55fb2617?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-05T11:23:18.000Z",
-          "wordCount": 1877,
-          "title": "#4 Telephone — Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*McydiDiu_tp7I-HM.png"
-        },
-        {
-          "id": "https://medium.com/p/1cf90d6b2a5f",
-          "author": "Cayo Tor",
-          "description": "Solidity Arithmetic Underflows and Compiler Quirks",
-          "link": "https://coinsbench.com/5-token-ethernaut-explained-1cf90d6b2a5f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-05T11:23:07.000Z",
-          "wordCount": 2488,
-          "title": "#5 Token— Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*3krzXYmzLkcfCl1h.png"
-        },
-        {
-          "id": "https://medium.com/p/fbc3dcb88cea",
-          "author": "Cayo Tor",
-          "description": "Delegatecall and Manipulating Context Preservation",
-          "link": "https://coinsbench.com/6-delegation-ethernaut-explained-fbc3dcb88cea?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-05T11:23:05.000Z",
-          "wordCount": 1992,
-          "title": "#6 Delegation— Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*gQcwSA6q0xGB0vVN.png"
-        },
-        {
-          "id": "https://medium.com/p/3e13c00044d1",
-          "author": "Favorite_blockchain_lady",
-          "description": "Variables and control structures in solidity",
-          "link": "https://coinsbench.com/variables-and-control-structures-in-solidity-100-days-of-solidity-day-2-3-pt-2-3e13c00044d1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-05T11:22:38.000Z",
-          "wordCount": 1828,
-          "title": "Variables and control structures in solidity (100 Days of Solidity (Day 2–3) pt. 2)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1177/1*7XvlOD1_so1Kjq9aIeb0Rw.png"
         }
       ]
     },
@@ -125,104 +125,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/9e6bb46e7d5",
-          "author": "Ankita Bardiyar",
-          "description": "A Key to Successful Cryptocurrency Trading",
-          "link": "https://medium.com/coinmonks/mastering-crypto-technical-analysis-9e6bb46e7d5?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-09T09:45:45.000Z",
-          "wordCount": 1894,
-          "title": "Mastering Crypto Technical Analysis",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Jej--Cd2yu1IKwpI.jpg"
+          "id": "https://medium.com/p/56b9bc82e1be",
+          "author": "Mike Zillo",
+          "description": "What Market Phase are we entering into has been the introductory question for our last appointments. Are we going to listen to the Bulls or…",
+          "link": "https://medium.com/coinmonks/bittrex-files-for-insolvency-and-bitcoin-trembles-on-the-support-56b9bc82e1be?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-09T12:54:25.000Z",
+          "wordCount": 2090,
+          "title": "Bittrex files for Insolvency and Bitcoin trembles on the support",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*L54jeJaIVQtNd8A4qzLxAQ.png"
         },
         {
-          "id": "https://medium.com/p/35db610c16fe",
-          "author": "Sandeep Banyal",
-          "description": "As marketing students, we must have heard many success stories and how they transformed the industry forever. Let’s look at one such tale…",
-          "link": "https://medium.com/coinmonks/belong-anywhere-to-live-there-experience-localization-35db610c16fe?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-09T09:22:10.000Z",
-          "wordCount": 5049,
-          "title": "“Belong Anywhere” to “Live There”: Experience localization.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:712/1*WtDHb9kckPuCwGvYjTu6tQ.png"
+          "id": "https://medium.com/p/482ee9e50262",
+          "author": "TheLuWizz",
+          "description": "The PEPE token has had an insane couple of weeks. The Memecoin’s market cap has gone from virtually “0” to $1.8 billion in just 21 days…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/meme-magic-decoding-pepes-price-movements-482ee9e50262?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-09T12:54:03.000Z",
+          "wordCount": 2042,
+          "title": "Meme Magic: Decoding Pepe’s Price Movements",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/0*6ieyq2meLPRYRCuG.png"
         },
         {
-          "id": "https://medium.com/p/79cf01092492",
-          "author": "Monroe 4PEACE",
-          "description": "In this final part of the CEO content series I want to draw on insights from the “Woodstock of Capitalists” meeting (aka: 2023 Berkshire…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/warren-buffett-charlie-munger-hold-shares-in-companies-affecting-some-of-the-worlds-biggest-79cf01092492?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-09T09:22:08.000Z",
-          "wordCount": 1146,
-          "title": "Warren Buffett & Charlie Munger hold shares in companies affecting some of the world’s biggest…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*-HxvLZCdelRx_9Tv"
+          "id": "https://medium.com/p/b7d9b245e718",
+          "author": "André Cardoso",
+          "description": "What is the CPI?",
+          "link": "https://medium.com/coinmonks/consumer-price-index-cpi-b7d9b245e718?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-09T12:40:31.000Z",
+          "wordCount": 2445,
+          "title": "Consumer Price Index (CPI)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rHn2g2H2hvlartTpBGnpDQ.png"
         },
         {
-          "id": "https://medium.com/p/4c74e5183296",
-          "author": "36Crypto",
-          "description": "Learn about Shibarium, the upcoming layer-2 (L2) scaling solution for the Shiba Inu network. Discover how it aims to address scalability…",
-          "link": "https://medium.com/coinmonks/what-is-shibarium-network-36crypto-4c74e5183296?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-09T08:08:08.000Z",
-          "wordCount": 2294,
-          "title": "What is Shibarium Network? — 36Crypto",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*j9H34Uj4ejIOOlFwXo3mmw.jpeg"
+          "id": "https://medium.com/p/3d6ac107951d",
+          "author": "Harley beck",
+          "description": "The world of art has undergone a revolutionary change with the advent of NFTs or non-fungible tokens. NFTs are digital assets that are…",
+          "link": "https://medium.com/coinmonks/the-rise-of-nft-platforms-opportunities-and-challenges-for-creators-and-collectors-3d6ac107951d?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-09T12:40:30.000Z",
+          "wordCount": 3155,
+          "title": "The Rise of NFT Platforms: Opportunities and Challenges for Creators and Collectors",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*GaWRqNZN1xBe3bf_UQOMyA.jpeg"
         },
         {
-          "id": "https://medium.com/p/c7af2d1ea5fd",
-          "author": "Venue One",
-          "description": "A traditional concept re-imagined for the blockchain age",
-          "link": "https://medium.com/coinmonks/introducing-speedy-markets-c7af2d1ea5fd?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-09T08:08:07.000Z",
-          "wordCount": 2437,
-          "title": "Introducing Speedy Markets",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*pRTKAj1OLPIwkjsXIGA3bQ.png"
+          "id": "https://medium.com/p/7258255f3fad",
+          "author": "Nathaniel Crowningshield",
+          "description": "Kaspa Trading Now Live",
+          "link": "https://medium.com/coinmonks/new-kaspa-exchange-listing-bitget-7258255f3fad?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-09T12:40:26.000Z",
+          "wordCount": 2416,
+          "title": "New Kaspa Exchange Listing — Bitget",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YVFI2Hi_ihx_QHIdAolswQ.png"
         },
         {
-          "id": "https://medium.com/p/e3257842fcd7",
-          "author": "Crypto Beat",
-          "description": "The cryptocurrency markets are constantly in flux. Here is a list of the top 10 most active cryptocurrencies, based on 24-hour volume.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/most-active-cryptocurrency-may-09-2023-e3257842fcd7?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-09T06:52:56.000Z",
-          "wordCount": 2026,
-          "title": "Most Active Cryptocurrency — May 09, 2023",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*CxVM9iX5wT_HIVra"
+          "id": "https://medium.com/p/961c5b3e3290",
+          "author": "Victor del Pino",
+          "description": "The most significant news at the beginning of May was the bankruptcy of the Bittrex exchange. Let’s investigate the reasons that led to the…",
+          "link": "https://medium.com/coinmonks/crypto-exchange-bittrex-files-for-us-bankruptcy-protection-961c5b3e3290?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-09T12:40:23.000Z",
+          "wordCount": 2986,
+          "title": "Crypto Exchange Bittrex Files for US Bankruptcy Protection",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:972/1*cKDgOU_Axh5p19nklJOdTg.jpeg"
         },
         {
-          "id": "https://medium.com/p/d659e8e08bb1",
-          "author": "PVMihalache",
-          "description": "March came with spring vibes and AI 4 Charity 2.0! The second Humble Tractors Charity event focused on the Turkey & Syria Relief Fund. The…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/superumans-48-humble-tractors-ai-4-charity-helped-turkey-syria-relief-d659e8e08bb1?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-09T06:52:54.000Z",
-          "wordCount": 2104,
-          "title": "SuperUMAns #48 — Humble Tractors AI 4 Charity Helped Turkey & Syria Relief",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:414/1*UbFVYI-VD2jytJmNCOd3Rw.png"
+          "id": "https://medium.com/p/2a9eb55ae058",
+          "author": "Cryptowrit3r.x",
+          "description": "Two coins did a 1000x. One’s price became $1000 the other just a few cents. That’s because they have different market caps or…",
+          "link": "https://medium.com/coinmonks/what-is-market-capitalization-crypto-market-cap-for-beginners-2a9eb55ae058?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-09T12:39:33.000Z",
+          "wordCount": 2903,
+          "title": "What is Market Capitalization? Crypto Market Cap for Beginners",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*m80o25R5_aF-grPkYyB0EA.jpeg"
         },
         {
-          "id": "https://medium.com/p/92b4285a5c87",
-          "author": "Sanjay Makhijani",
-          "description": "By renewing a token created in 2013, World Coin, ChatGPT’s inventor Sam Altman in 2021 won interest from the cryptocurrency community. The…",
-          "link": "https://medium.com/coinmonks/chatgpt-creator-unveils-world-coin-crypto-92b4285a5c87?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-09T06:52:14.000Z",
-          "wordCount": 1886,
-          "title": "ChatGPT Creator Unveils World Coin Crypto",
-          "imageUrl": null
+          "id": "https://medium.com/p/848d2cf3387",
+          "author": "CryptoGod-1",
+          "description": "A review of the last week’s crypto news in the form of Memes. This instalment looks at 1st of May until the 7th of May 2023.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-week-in-memes-1st-may-7th-may-848d2cf3387?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-09T11:19:25.000Z",
+          "wordCount": 1126,
+          "title": "The Week in Memes: 1st May — 7th May",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qhiWboDfZWnH0x3igjDfMQ.png"
         },
         {
-          "id": "https://medium.com/p/9690fb5be30d",
-          "author": "Crypto Beat",
-          "description": "Cryptocurrencies are a volatile market, with prices rapidly changing. Here are the top 10 cryptocurrencies by market capitalization.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/current-crypto-prices-may-09-2023-9690fb5be30d?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-09T06:10:30.000Z",
-          "wordCount": 1990,
-          "title": "Current Crypto Prices — May 09, 2023",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*HgfpnBWxlWyBofn_"
+          "id": "https://medium.com/p/d7ed8987bba6",
+          "author": "Gaurang (GT) Torvekar",
+          "description": "Step-by-Step Guide to Creating a Secure and Scalable File Uploader with IPFS and NextJS\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/building-a-decentralized-ipfs-file-uploader-with-nextjs-and-web3-storage-a-beginners-tutorial-d7ed8987bba6?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-09T11:08:16.000Z",
+          "wordCount": 1048,
+          "title": "Building a Decentralized IPFS File Uploader with NextJS and web3.storage — A Beginner’s Tutorial",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qfJnUs74rUjeco4c8dra2g.png"
         },
         {
-          "id": "https://medium.com/p/75fb7810e865",
-          "author": "Crypto Beat",
-          "description": "Hong Kong’s new cryptocurrency regulations are a major development for the industry.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/hong-kong-crypto-regulations-will-be-tight-what-you-need-to-know-75fb7810e865?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-09T06:08:13.000Z",
-          "wordCount": 1087,
-          "title": "Hong Kong Crypto Regulations Will Be Tight: What You Need to Know",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*SpJq4p9GN1bGnY4Y"
+          "id": "https://medium.com/p/7ec98eee26c",
+          "author": "Luisito Gavara",
+          "description": "Is the conflict between Russia and Ukraine affecting crypto?\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/russia-ukraine-and-bitcoin-7ec98eee26c?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-09T11:07:40.000Z",
+          "wordCount": 1947,
+          "title": "Russia, Ukraine, and Bitcoin",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*aoV4MbfNq8VztsId"
         }
       ]
     },
@@ -247,7 +247,7 @@
           "description": "Before Start",
           "link": "https://blog.blockmagnates.com/deploy-contract-on-base-goerli-5a559cc5e82a?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-17T09:44:25.000Z",
-          "wordCount": 1901,
+          "wordCount": 1900,
           "title": "Deploy contract on Base Goerli",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:624/1*5vZE7nyBNDstx2TkGiFu-w.png"
         },
