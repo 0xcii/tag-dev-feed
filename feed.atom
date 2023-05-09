@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-09T13:38:39.566Z</id>
+    <id>urn:2023-05-09T14:11:36.443Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-09T13:38:39.566Z</updated>
+    <updated>2023-05-09T14:11:36.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Applying Data Science Concepts to Smart Contract Design using Solidity]]></title>
+        <id>https://medium.com/p/2c010c7651fb</id>
+        <link href="https://coinsbench.com/applying-data-science-concepts-to-smart-contract-design-using-solidity-2c010c7651fb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-09T13:57:35.000Z</updated>
+        <summary type="html"><![CDATA[As blockchain technology continues to evolve and become more widely adopted, smart contracts have become an increasingly popular means of…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A closer look at the real supply of the cryptocurrency king]]></title>
         <id>https://medium.com/p/19232f3405dc</id>
@@ -196,16 +206,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[In Solidity, state variables represent the state of the contract and are accessible from anywhere in the contract. State variable…]]></summary>
         <author>
             <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Promises and callbacks in JavaScript]]></title>
-        <id>https://medium.com/p/d299d5aee670</id>
-        <link href="https://coinsbench.com/promises-and-callbacks-in-javascript-d299d5aee670?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-06T11:27:16.000Z</updated>
-        <summary type="html"><![CDATA[Promises and callbacks are important concepts in JavaScript, used for managing asynchronous code. Let’s take a look at an example program…]]></summary>
-        <author>
-            <name>TK Rose</name>
         </author>
     </entry>
     <entry>
