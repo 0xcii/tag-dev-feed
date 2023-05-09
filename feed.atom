@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-09T15:12:34.194Z</id>
+    <id>urn:2023-05-09T16:15:02.779Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-09T15:12:34.194Z</updated>
+    <updated>2023-05-09T16:15:02.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an NFT Gallery Using QuickNode's GraphQL NFT API]]></title>
+        <id>https://blog.developerdao.com/how-to-build-an-nft-gallery-using-quicknodes-graphql-nft-api</id>
+        <link href="https://blog.developerdao.com/how-to-build-an-nft-gallery-using-quicknodes-graphql-nft-api"/>
+        <updated>2023-05-09T15:57:36.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will build an NFT gallery using QuickNode's GraphQL NFT API, Icy.tools, React, JavaScript, Next.js, Vercel, and TailwindCSS. The React web app will provide a user interface displaying a grid view of all the NFTs held by any Ethereum Name Service (ENS). You will fetch NFT data with icy-nft-tools.
+
+What is QuickNode?
+QuickNode is a blockchain platform that provides infrastructure for developers to build and scale decentralized applications (DApps). It offers a suite of tools and services, including a developer API, to make it easier for developers to build, test, and deploy DApps on multiple blockchain networks. QuickNode aims to simplify the building process on blockchain and make it more accessible for developers while providing high-performance infrastructure to supp…]]></summary>
+        <author>
+            <name>Aayush Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Applying Data Science Concepts to Smart Contract Design using Solidity]]></title>
         <id>https://medium.com/p/2c010c7651fb</id>
