@@ -23,7 +23,7 @@
           "description": "This week at Celo Camp was jam-packed with content that I, as a beginner, found very informative. In particular, I learned a lot about…",
           "link": "https://coinsbench.com/celo-camp-week-2-5d3f6ad8cd66?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-09T11:24:10.000Z",
-          "wordCount": 3328,
+          "wordCount": 2310,
           "title": "Celo Camp —  week 2",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:712/1*kgBDCCpBHIv6XlBj0U7KEg.png"
         },
@@ -33,7 +33,7 @@
           "description": "Smart contracts! They are supposedly the new web apps. Okay, let’s make one.",
           "link": "https://coinsbench.com/how-to-publish-a-smart-contract-on-an-ethereum-testnet-8494e7278504?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-09T11:24:07.000Z",
-          "wordCount": 4084,
+          "wordCount": 3107,
           "title": "How to publish a smart contract on an Ethereum testnet",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*A-H4MMYP4hEBsTTR48btPQ.png"
         },
@@ -43,7 +43,7 @@
           "description": "Real estate has always been a popular investment option, but has traditionally been restricted to wealthy individuals and institutions due…",
           "link": "https://coinsbench.com/guide-to-tokenize-real-estate-4592c530f950?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-09T11:24:01.000Z",
-          "wordCount": 6772,
+          "wordCount": 6783,
           "title": "Guide to Tokenize Real Estate",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Y0K1OipkiZBYr19e"
         },
@@ -53,7 +53,7 @@
           "description": "How to create Deflationary Token?",
           "link": "https://coinsbench.com/how-to-create-deflationary-token-4158774823c7?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-09T11:23:34.000Z",
-          "wordCount": 5901,
+          "wordCount": 6865,
           "title": "How to create Deflationary Token?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*sGdD5TPgSIGa4ED1"
         },
@@ -63,7 +63,7 @@
           "description": "Withdrawal Patterns and Denial of Service",
           "link": "https://coinsbench.com/9-king-ethernaut-explained-c241ab903dc1?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-08T12:54:07.000Z",
-          "wordCount": 2046,
+          "wordCount": 2895,
           "title": "#9 King— Ethernaut Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*by8mw95Zr3BrwmcR.png"
         },
@@ -83,7 +83,7 @@
           "description": "Detrimental External Calls and Untrusted Logic",
           "link": "https://coinsbench.com/21-shop-ethernaut-explained-107cc17dedba?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-08T12:54:02.000Z",
-          "wordCount": 2082,
+          "wordCount": 2948,
           "title": "#21 Shop— Ethernaut Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*5btcPI7y5lgxXAZJ.png"
         },
@@ -93,7 +93,7 @@
           "description": "As decentralized finance (DeFi) continues to grow in popularity, the need for secure and reliable wallet solutions becomes more important…",
           "link": "https://coinsbench.com/gnosis-safe-multisig-wallet-explained-3ac7a3320f5e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-08T12:53:59.000Z",
-          "wordCount": 2080,
+          "wordCount": 3068,
           "title": "Gnosis Safe Multisig Wallet explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*935KxedJNecmHtHDL1l38w.png"
         },
@@ -103,7 +103,7 @@
           "description": "In Solidity, state variables represent the state of the contract and are accessible from anywhere in the contract. State variable…",
           "link": "https://coinsbench.com/12-lets-learn-solidity-state-variable-visibility-7d9b694ea0b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-08T12:53:28.000Z",
-          "wordCount": 2563,
+          "wordCount": 1675,
           "title": "12# Let’s learn Solidity ~ State variable visibility",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HwGqBMdsO3QnyyaFjJiYBg.png"
         },
@@ -113,7 +113,7 @@
           "description": "Promises and callbacks are important concepts in JavaScript, used for managing asynchronous code. Let’s take a look at an example program…",
           "link": "https://coinsbench.com/promises-and-callbacks-in-javascript-d299d5aee670?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-06T11:27:16.000Z",
-          "wordCount": 2397,
+          "wordCount": 3343,
           "title": "Promises and callbacks in JavaScript",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*q7cTrESM8Q7yJj5t"
         }
@@ -124,6 +124,16 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/19232f3405dc",
+          "author": "PZ",
+          "description": "In April 2023, the inflation rates — US (5%), GB (10%) and EU (7%) [Source: Bureau of Labor Statistics, Office for National Statistics and…",
+          "link": "https://medium.com/coinmonks/a-closer-look-at-the-real-supply-of-the-cryptocurrency-king-19232f3405dc?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-09T12:56:43.000Z",
+          "wordCount": 2333,
+          "title": "A closer look at the real supply of the cryptocurrency king",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rHNzvCN4OLr484nsb0AUzQ.png"
+        },
         {
           "id": "https://medium.com/p/56b9bc82e1be",
           "author": "Mike Zillo",
@@ -140,7 +150,7 @@
           "description": "The PEPE token has had an insane couple of weeks. The Memecoin’s market cap has gone from virtually “0” to $1.8 billion in just 21 days…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/meme-magic-decoding-pepes-price-movements-482ee9e50262?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-09T12:54:03.000Z",
-          "wordCount": 2042,
+          "wordCount": 1106,
           "title": "Meme Magic: Decoding Pepe’s Price Movements",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/0*6ieyq2meLPRYRCuG.png"
         },
@@ -170,7 +180,7 @@
           "description": "Kaspa Trading Now Live",
           "link": "https://medium.com/coinmonks/new-kaspa-exchange-listing-bitget-7258255f3fad?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-09T12:40:26.000Z",
-          "wordCount": 2416,
+          "wordCount": 1464,
           "title": "New Kaspa Exchange Listing — Bitget",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YVFI2Hi_ihx_QHIdAolswQ.png"
         },
@@ -180,7 +190,7 @@
           "description": "The most significant news at the beginning of May was the bankruptcy of the Bittrex exchange. Let’s investigate the reasons that led to the…",
           "link": "https://medium.com/coinmonks/crypto-exchange-bittrex-files-for-us-bankruptcy-protection-961c5b3e3290?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-09T12:40:23.000Z",
-          "wordCount": 2986,
+          "wordCount": 2026,
           "title": "Crypto Exchange Bittrex Files for US Bankruptcy Protection",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:972/1*cKDgOU_Axh5p19nklJOdTg.jpeg"
         },
@@ -190,7 +200,7 @@
           "description": "Two coins did a 1000x. One’s price became $1000 the other just a few cents. That’s because they have different market caps or…",
           "link": "https://medium.com/coinmonks/what-is-market-capitalization-crypto-market-cap-for-beginners-2a9eb55ae058?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-09T12:39:33.000Z",
-          "wordCount": 2903,
+          "wordCount": 1921,
           "title": "What is Market Capitalization? Crypto Market Cap for Beginners",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*m80o25R5_aF-grPkYyB0EA.jpeg"
         },
@@ -200,7 +210,7 @@
           "description": "A review of the last week’s crypto news in the form of Memes. This instalment looks at 1st of May until the 7th of May 2023.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/the-week-in-memes-1st-may-7th-may-848d2cf3387?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-09T11:19:25.000Z",
-          "wordCount": 1126,
+          "wordCount": 2007,
           "title": "The Week in Memes: 1st May — 7th May",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qhiWboDfZWnH0x3igjDfMQ.png"
         },
@@ -213,16 +223,6 @@
           "wordCount": 1048,
           "title": "Building a Decentralized IPFS File Uploader with NextJS and web3.storage — A Beginner’s Tutorial",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qfJnUs74rUjeco4c8dra2g.png"
-        },
-        {
-          "id": "https://medium.com/p/7ec98eee26c",
-          "author": "Luisito Gavara",
-          "description": "Is the conflict between Russia and Ukraine affecting crypto?\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/russia-ukraine-and-bitcoin-7ec98eee26c?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-09T11:07:40.000Z",
-          "wordCount": 1947,
-          "title": "Russia, Ukraine, and Bitcoin",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*aoV4MbfNq8VztsId"
         }
       ]
     },
@@ -237,7 +237,7 @@
           "description": "Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. Smart contracts…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/how-hardhat-simplifies-smart-contract-verification-on-ethereum-8a6a8f02315b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-26T20:49:26.000Z",
-          "wordCount": 1769,
+          "wordCount": 2629,
           "title": "How Hardhat Simplifies Smart Contract Verification on Ethereum",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*41s_xklPCFSZLwRHmUGUDA.jpeg"
         },
@@ -247,7 +247,7 @@
           "description": "Before Start",
           "link": "https://blog.blockmagnates.com/deploy-contract-on-base-goerli-5a559cc5e82a?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-17T09:44:25.000Z",
-          "wordCount": 1900,
+          "wordCount": 960,
           "title": "Deploy contract on Base Goerli",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:624/1*5vZE7nyBNDstx2TkGiFu-w.png"
         },
@@ -277,7 +277,7 @@
           "description": "Gas Golfing #2: Packing Variables",
           "link": "https://blog.blockmagnates.com/gas-golfing-2-45b570cbb96f?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-10T10:32:07.000Z",
-          "wordCount": 2147,
+          "wordCount": 3019,
           "title": "Gas Golfing #2",
           "imageUrl": null
         }
