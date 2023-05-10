@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T13:20:01.131Z</id>
+    <id>urn:2023-05-10T14:11:43.164Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-10T13:20:01.131Z</updated>
+    <updated>2023-05-10T14:11:43.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Storage Pointers In Solidity]]></title>
+        <id>https://medium.com/p/4a2d7c55a054</id>
+        <link href="https://coinsbench.com/storage-pointers-in-solidity-4a2d7c55a054?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-10T13:57:20.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, storage pointers are used to reference a storage location that contains a specific value or variable. Here is an example…]]></summary>
+        <author>
+            <name>TK Rose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why NFTs are the Next Big Thing: Insights from Turnkeytown]]></title>
+        <id>https://medium.com/p/63bbc1e86540</id>
+        <link href="https://medium.com/coinmonks/why-nfts-are-the-next-big-thing-insights-from-turnkeytown-63bbc1e86540?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-10T13:44:56.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, we will explore the concept of NFTs and discuss why they are being hailed as the next big thing.]]></summary>
+        <author>
+            <name>Sophia Grace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Develop EVM assembly opcode logic for Fibonacci]]></title>
+        <id>https://medium.com/p/107f92dbc9d1</id>
+        <link href="https://medium.com/coinmonks/develop-evm-assembly-opcode-logic-for-fibonacci-107f92dbc9d1?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-10T13:44:48.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough of a capture-the-flag challenge on a Solidity bytecode.]]></summary>
+        <author>
+            <name>Anne Lohmeijer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IS the personal data safe with CryptoGPT?]]></title>
+        <id>https://medium.com/p/f0267e9891f8</id>
+        <link href="https://medium.com/coinmonks/is-the-personal-data-safe-with-cryptogpt-f0267e9891f8?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-10T13:44:47.000Z</updated>
+        <summary type="html"><![CDATA[CryptoGPT, like any other system that involves the collection and processing of data, must ensure the privacy and security of its users’…]]></summary>
+        <author>
+            <name>Akshay Shrivastava</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploy Your First Smart Contract on Ethereum]]></title>
+        <id>https://medium.com/p/ff97c3a8d3a2</id>
+        <link href="https://medium.com/coinmonks/deploy-your-first-smart-contract-on-ethereum-ff97c3a8d3a2?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-10T13:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Guiding Newcomers into the Blockchain Technology]]></summary>
+        <author>
+            <name>Miyoko Shimura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Health data is controlled by the centralized parties]]></title>
+        <id>https://medium.com/p/6fe05818f657</id>
+        <link href="https://medium.com/coinmonks/health-data-is-controlled-by-the-centralized-parties-6fe05818f657?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-10T13:25:34.000Z</updated>
+        <summary type="html"><![CDATA[We don’t know our health information or data is controlled by kind of centralized parties. And we don’t know our data is being sold or…]]></summary>
+        <author>
+            <name>DAO@Patients Help Patients</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionize Carbon Credits with Cutting-Edge Blockchain Software]]></title>
+        <id>https://medium.com/p/273ac9e179a4</id>
+        <link href="https://medium.com/coinmonks/revolutionize-carbon-credits-with-cutting-edge-blockchain-software-273ac9e179a4?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-10T13:22:55.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will explore how cutting-edge blockchain software can revolutionize carbon credits.]]></summary>
+        <author>
+            <name>Cathrine Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What do companies like Jane Street think about crypto regulation]]></title>
+        <id>https://medium.com/p/b05266338ca7</id>
+        <link href="https://medium.com/coinmonks/what-do-companies-like-jane-street-think-about-crypto-regulation-b05266338ca7?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-10T13:22:50.000Z</updated>
+        <summary type="html"><![CDATA[Major market players, such as Jane Street and Jump Trading, are experiencing the impact of increasing regulatory pressures in the crypto…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Ronit Batra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#20 Denial — Ethernaut Explained]]></title>
         <id>https://medium.com/p/92bc3f7562ec</id>
@@ -86,77 +167,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Set Risk Management Guardrails in Crypto Trading! (Trading Academy)]]></title>
-        <id>https://medium.com/p/5c21932a7c14</id>
-        <link href="https://medium.com/coinmonks/set-risk-management-guardrails-in-crypto-trading-trading-academy-5c21932a7c14?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-10T12:31:26.000Z</updated>
-        <summary type="html"><![CDATA[This article is Part 3, Setting Risk Management Guardrails of our Trading Academy series on Risk Management in Crypto Trading.]]></summary>
-        <author>
-            <name>hoc-trade - AI-powered Trading Support</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are your Risk Management Weaknesses in Crypto Trading? (Trading Academy)]]></title>
-        <id>https://medium.com/p/1a345916dcc8</id>
-        <link href="https://medium.com/coinmonks/what-are-your-risk-management-weaknesses-in-crypto-trading-trading-academy-1a345916dcc8?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-10T12:31:24.000Z</updated>
-        <summary type="html"><![CDATA[This article is Part 4, Risk Management Weaknesses of our Trading Academy series on Risk Management in Crypto Trading.]]></summary>
-        <author>
-            <name>hoc-trade - AI-powered Trading Support</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scale-in and Scale-out of Crypto Trades with powerful Risk Management (Trading Academy)]]></title>
-        <id>https://medium.com/p/891e5366d517</id>
-        <link href="https://medium.com/coinmonks/scale-in-and-scale-out-of-crypto-trades-with-powerful-risk-management-trading-academy-891e5366d517?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-10T12:31:21.000Z</updated>
-        <summary type="html"><![CDATA[This article is Part 5, Scaling-in & out of Trades of our Trading Academy series on Risk Management in Crypto Trading.]]></summary>
-        <author>
-            <name>hoc-trade - AI-powered Trading Support</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto-specific Risk Management Factors in Trading (Trading Academy)]]></title>
-        <id>https://medium.com/p/f384619ab152</id>
-        <link href="https://medium.com/coinmonks/crypto-specific-risk-management-factors-in-trading-trading-academy-f384619ab152?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-10T12:31:15.000Z</updated>
-        <summary type="html"><![CDATA[This article is Part 6, Crypto-specific Risk Management Factors of our Trading Academy series on Risk Management in Crypto Trading.]]></summary>
-        <author>
-            <name>hoc-trade - AI-powered Trading Support</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI and Blockchain: The Dynamic Duo of Innovation]]></title>
-        <id>https://medium.com/p/10f51dfbf361</id>
-        <link href="https://medium.com/coinmonks/ai-and-blockchain-the-dynamic-duo-of-innovation-10f51dfbf361?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-10T12:26:42.000Z</updated>
-        <summary type="html"><![CDATA[The recent furor surrounding Artificial Intelligence is strikingly similar to the obsession that underpinned crypto in the past. Similar to…]]></summary>
-        <author>
-            <name>Pavithra Umashankar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IntoTheVerse — Smart Contracts and Web3: A Look at the Potential Impact on Traditional Business…]]></title>
-        <id>https://medium.com/p/36ecc4ad492e</id>
-        <link href="https://medium.com/coinmonks/intotheverse-smart-contracts-and-web3-a-look-at-the-potential-impact-on-traditional-business-36ecc4ad492e?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-10T12:26:36.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to another IntoTheVerse Journal!]]></summary>
-        <author>
-            <name>IntoTheVerse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#NIO #AAPL #TSLA Weekly Stocks Technical Analysis + Fundamental Headline News]]></title>
-        <id>https://medium.com/p/7fae79b7ff33</id>
-        <link href="https://medium.com/coinmonks/nio-aapl-tsla-weekly-stocks-technical-analysis-fundamental-headline-news-7fae79b7ff33?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-10T12:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Find out more about me here (YouTube/Instagram/Telegram): https://www.linktr.ee/kt_fx
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Keeley Tan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Build an NFT Gallery Using QuickNode's GraphQL NFT API]]></title>
         <id>https://blog.developerdao.com/how-to-build-an-nft-gallery-using-quicknodes-graphql-nft-api</id>
         <link href="https://blog.developerdao.com/how-to-build-an-nft-gallery-using-quicknodes-graphql-nft-api"/>
@@ -205,16 +215,6 @@ QuickNode is a blockchain platform that provides infrastructure for developers t
         <link href="https://coinsbench.com/guide-to-tokenize-real-estate-4592c530f950?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-09T11:24:01.000Z</updated>
         <summary type="html"><![CDATA[Real estate has always been a popular investment option, but has traditionally been restricted to wealthy individuals and institutions due…]]></summary>
-        <author>
-            <name>Sankar Srinivasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to create Deflationary Token?]]></title>
-        <id>https://medium.com/p/4158774823c7</id>
-        <link href="https://coinsbench.com/how-to-create-deflationary-token-4158774823c7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-09T11:23:34.000Z</updated>
-        <summary type="html"><![CDATA[How to create Deflationary Token?]]></summary>
         <author>
             <name>Sankar Srinivasan</name>
         </author>
