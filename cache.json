@@ -18,6 +18,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/92bc3f7562ec",
+          "author": "Cayo Tor",
+          "description": "Storage Array Structures and ABI Specification",
+          "link": "https://coinsbench.com/20-denial-ethernaut-explained-92bc3f7562ec?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-10T13:06:15.000Z",
+          "wordCount": 3088,
+          "title": "#20 Denial — Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*B0rcanLU17buDd2j3dd2EQ.png"
+        },
+        {
+          "id": "https://medium.com/p/48a9b3b610f4",
+          "author": "Manoj Vignesh K M",
+          "description": "With simplest setup possible, deploy your first smart contract in the Ethereum’s official test network!",
+          "link": "https://coinsbench.com/deploy-your-first-smart-contract-48a9b3b610f4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-10T13:06:10.000Z",
+          "wordCount": 2981,
+          "title": "Deploy your first smart contract",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cV36ANPqOoj5U90ALOSNlA.png"
+        },
+        {
+          "id": "https://medium.com/p/afa8d874eea1",
+          "author": "ChainGPT",
+          "description": "Let’s Upgrade Our Contract to an ERC20 Contract that accepts ETH and Tokens with AI: Enable Flexible Contributions, Withdrawals, and…",
+          "link": "https://coinsbench.com/s5-elevating-smart-contract-customization-with-ai-unlocking-limitless-possibilities-afa8d874eea1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-10T13:06:08.000Z",
+          "wordCount": 6297,
+          "title": "S5: Elevating Smart Contract Customization with AI: Unlocking Limitless Possibilities",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:866/1*Lnj2ycImg775fDkVNDBrIw.png"
+        },
+        {
+          "id": "https://medium.com/p/b9b1600994ee",
+          "author": "Justin",
+          "description": "Decentralized Talent Marketplaces have the potential to revolutionize the way we find, hire, and work with skilled professionals. By using…",
+          "link": "https://coinsbench.com/building-a-secure-talent-marketplace-on-celo-with-openzeppelin-defender-b9b1600994ee?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-10T13:06:06.000Z",
+          "wordCount": 8039,
+          "title": "Building a Secure Talent Marketplace on Celo with OpenZeppelin Defender",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HuXxa0FvAN431ljfqPYmaw.png"
+        },
+        {
+          "id": "https://medium.com/p/b5606cf84561",
+          "author": "Arjun Bahera",
+          "description": "In the previous chapter of the series, I introduced Foundry and wrote a basic test case for HelloWorld.sol, it can be found at…",
+          "link": "https://coinsbench.com/authentication-testing-of-smart-contracts-using-foundry-b5606cf84561?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-10T13:06:02.000Z",
+          "wordCount": 2830,
+          "title": "Authentication Testing of Smart Contracts Using Foundry",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:866/1*yB8pleSJoQjjAzbcVis3jA.png"
+        },
+        {
           "id": "https://medium.com/p/2c010c7651fb",
           "author": "Solidity Academy",
           "description": "As blockchain technology continues to evolve and become more widely adopted, smart contracts have become an increasingly popular means of…",
@@ -66,56 +116,6 @@
           "wordCount": 6922,
           "title": "How to create Deflationary Token?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*sGdD5TPgSIGa4ED1"
-        },
-        {
-          "id": "https://medium.com/p/c241ab903dc1",
-          "author": "Cayo Tor",
-          "description": "Withdrawal Patterns and Denial of Service",
-          "link": "https://coinsbench.com/9-king-ethernaut-explained-c241ab903dc1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-08T12:54:07.000Z",
-          "wordCount": 2870,
-          "title": "#9 King— Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*by8mw95Zr3BrwmcR.png"
-        },
-        {
-          "id": "https://medium.com/p/1f236ea9dda6",
-          "author": "Cayo Tor",
-          "description": "Contract Storage and Private Data",
-          "link": "https://coinsbench.com/8-vault-ethernaut-explained-1f236ea9dda6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-08T12:54:05.000Z",
-          "wordCount": 2450,
-          "title": "#8 Vault— Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*-A1h6bD48VDRel5Y.png"
-        },
-        {
-          "id": "https://medium.com/p/107cc17dedba",
-          "author": "Cayo Tor",
-          "description": "Detrimental External Calls and Untrusted Logic",
-          "link": "https://coinsbench.com/21-shop-ethernaut-explained-107cc17dedba?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-08T12:54:02.000Z",
-          "wordCount": 2964,
-          "title": "#21 Shop— Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*5btcPI7y5lgxXAZJ.png"
-        },
-        {
-          "id": "https://medium.com/p/3ac7a3320f5e",
-          "author": "Galien Dev",
-          "description": "As decentralized finance (DeFi) continues to grow in popularity, the need for secure and reliable wallet solutions becomes more important…",
-          "link": "https://coinsbench.com/gnosis-safe-multisig-wallet-explained-3ac7a3320f5e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-08T12:53:59.000Z",
-          "wordCount": 3103,
-          "title": "Gnosis Safe Multisig Wallet explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*935KxedJNecmHtHDL1l38w.png"
-        },
-        {
-          "id": "https://medium.com/p/7d9b694ea0b",
-          "author": "ismail",
-          "description": "In Solidity, state variables represent the state of the contract and are accessible from anywhere in the contract. State variable…",
-          "link": "https://coinsbench.com/12-lets-learn-solidity-state-variable-visibility-7d9b694ea0b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-08T12:53:28.000Z",
-          "wordCount": 2649,
-          "title": "12# Let’s learn Solidity ~ State variable visibility",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HwGqBMdsO3QnyyaFjJiYBg.png"
         }
       ]
     },
@@ -125,104 +125,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/cbaa34ba9ced",
-          "author": "Kikctikcy",
-          "description": "Defi keeps evolving and new innovations that improve capital efficiency and yield keep coming. One of such innovations in the Defi field is…",
-          "link": "https://medium.com/coinmonks/stride-has-made-liquid-staking-possible-in-cosmos-cbaa34ba9ced?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-10T09:30:03.000Z",
-          "wordCount": 3253,
-          "title": "Stride has made liquid staking possible in Cosmos",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:950/1*5fGmBoedrogeGbTEQY-JxA.jpeg"
+          "id": "https://medium.com/p/3143a1fd365a",
+          "author": "AffiliCoreMarketing",
+          "description": "PayPal’s major holdings of cryptocurrency are in BTC and ETH, with $499 million and $362 million, respectively, which have both increased…",
+          "link": "https://medium.com/coinmonks/paypals-crypto-assets-grew-by-56-in-q1-2023-to-around-1b-3143a1fd365a?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-10T12:31:31.000Z",
+          "wordCount": 3232,
+          "title": "PayPal’s crypto assets grew by 56% in Q1 2023 to around $1B.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:924/1*SWynWJ_C0AQD87HMw1bGPg.png"
         },
         {
-          "id": "https://medium.com/p/53de8c3178b1",
-          "author": "Kaan Kaçar",
-          "description": "Mining is a fundamental concept in blockchain technology, serving as the backbone for maintaining decentralization, security, and consensus…",
-          "link": "https://medium.com/coinmonks/blockchain-consensus-and-mining-demystified-53de8c3178b1?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-10T09:30:02.000Z",
-          "wordCount": 4743,
-          "title": "Blockchain Consensus and Mining Demystified",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Vqd0sVT8x0EuijmpxC_Z-g.jpeg"
+          "id": "https://medium.com/p/a992246a32d3",
+          "author": "hoc-trade - AI-powered Trading Support",
+          "description": "Having a sound risk management in place and following it is really one of those make or break aspects in crypto trading. It is probably the…",
+          "link": "https://medium.com/coinmonks/risk-management-introduction-for-crypto-traders-trading-academy-a992246a32d3?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-10T12:31:29.000Z",
+          "wordCount": 2794,
+          "title": "Risk Management Introduction for Crypto Traders (Trading Academy)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*m8eHpK4UM1fkm1TTgOWuhQ.png"
         },
         {
-          "id": "https://medium.com/p/cd5fb8774cf",
-          "author": "Dr_jackal",
-          "description": "Who I am\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/tutorial-how-to-install-auto-gpt-quicky-and-simply-for-beginners-cd5fb8774cf?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-10T09:30:00.000Z",
-          "wordCount": 1845,
-          "title": "Tutorial — How to install Auto GPT Quicky and simply for beginners",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*y6CSnxXk-qTvvSuVOKZAeg.png"
+          "id": "https://medium.com/p/babc9c84a480",
+          "author": "hoc-trade - AI-powered Trading Support",
+          "description": "This article is Part 2, risk/ trade as foundation of our Trading Academy series on Risk Management in Crypto Trading.",
+          "link": "https://medium.com/coinmonks/whats-your-risk-per-trade-as-a-crypto-trader-trading-academy-babc9c84a480?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-10T12:31:28.000Z",
+          "wordCount": 4046,
+          "title": "What’s your risk per trade as a Crypto Trader? (Trading Academy)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*J216cCB3vTQJoQqjk9Dv3A.png"
         },
         {
-          "id": "https://medium.com/p/f0730c792b4",
-          "author": "Divyasshree",
-          "description": "The easiest ways to access Litecoin data",
-          "link": "https://medium.com/coinmonks/top-litecoin-blockchain-apis-f0730c792b4?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-10T09:28:19.000Z",
-          "wordCount": 3753,
-          "title": "Top Litecoin Blockchain APIs",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*q5A0nvrc8j1f0JA6ri4xiw.png"
+          "id": "https://medium.com/p/5c21932a7c14",
+          "author": "hoc-trade - AI-powered Trading Support",
+          "description": "This article is Part 3, Setting Risk Management Guardrails of our Trading Academy series on Risk Management in Crypto Trading.",
+          "link": "https://medium.com/coinmonks/set-risk-management-guardrails-in-crypto-trading-trading-academy-5c21932a7c14?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-10T12:31:26.000Z",
+          "wordCount": 3392,
+          "title": "Set Risk Management Guardrails in Crypto Trading! (Trading Academy)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qFpwt8IQiK5dAvZTG6Z_yQ.png"
         },
         {
-          "id": "https://medium.com/p/e88dbe8ab1b5",
-          "author": "Nomad",
-          "description": "Warren Buffett, the legendary investor and chairman of Berkshire Hathaway, has amassed an incredible fortune through his unique investment…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/power-of-floats-decoding-warren-buffetts-extraordinary-fortune-e88dbe8ab1b5?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-10T07:56:52.000Z",
-          "wordCount": 1914,
-          "title": "Power of Floats : Decoding Warren Buffett’s Extraordinary Fortune",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*CbFmtZaqkCTL8aBViSxUnQ.jpeg"
+          "id": "https://medium.com/p/1a345916dcc8",
+          "author": "hoc-trade - AI-powered Trading Support",
+          "description": "This article is Part 4, Risk Management Weaknesses of our Trading Academy series on Risk Management in Crypto Trading.",
+          "link": "https://medium.com/coinmonks/what-are-your-risk-management-weaknesses-in-crypto-trading-trading-academy-1a345916dcc8?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-10T12:31:24.000Z",
+          "wordCount": 3029,
+          "title": "What are your Risk Management Weaknesses in Crypto Trading? (Trading Academy)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6XCalLy3h3TC1xgiINEWag.png"
         },
         {
-          "id": "https://medium.com/p/921e88e98f0",
-          "author": "Jennifer Kate",
-          "description": "Are you interested in getting into the NFT trading market, but don’t know where to start? Look no further than a white-label NFT…",
-          "link": "https://medium.com/coinmonks/enter-the-booming-nft-trading-market-with-white-label-nft-marketplace-921e88e98f0?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-10T07:52:30.000Z",
-          "wordCount": 4965,
-          "title": "Enter the Booming NFT Trading Market with White-Label NFT Marketplace",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zMj8Iox1zikAfR2DG9h2BA.jpeg"
+          "id": "https://medium.com/p/891e5366d517",
+          "author": "hoc-trade - AI-powered Trading Support",
+          "description": "This article is Part 5, Scaling-in & out of Trades of our Trading Academy series on Risk Management in Crypto Trading.",
+          "link": "https://medium.com/coinmonks/scale-in-and-scale-out-of-crypto-trades-with-powerful-risk-management-trading-academy-891e5366d517?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-10T12:31:21.000Z",
+          "wordCount": 3515,
+          "title": "Scale-in and Scale-out of Crypto Trades with powerful Risk Management (Trading Academy)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mj7-KhjuYrbk4q1MQl8biQ.png"
         },
         {
-          "id": "https://medium.com/p/d18133d42d5f",
-          "author": "Crypto Beat",
-          "description": "If you’re interested in keeping upwith the crypto world, then you’ve come to the right place to receive crypto news.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/crypto-news-today-may-10-2023-d18133d42d5f?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-10T07:35:51.000Z",
-          "wordCount": 1934,
-          "title": "Crypto News Today — May 10, 2023",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*bg-RoHl13UUWwHyJ"
+          "id": "https://medium.com/p/f384619ab152",
+          "author": "hoc-trade - AI-powered Trading Support",
+          "description": "This article is Part 6, Crypto-specific Risk Management Factors of our Trading Academy series on Risk Management in Crypto Trading.",
+          "link": "https://medium.com/coinmonks/crypto-specific-risk-management-factors-in-trading-trading-academy-f384619ab152?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-10T12:31:15.000Z",
+          "wordCount": 3404,
+          "title": "Crypto-specific Risk Management Factors in Trading (Trading Academy)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*5xt7mhunHYGYRIZbStGCZw.png"
         },
         {
-          "id": "https://medium.com/p/c4065dc90686",
-          "author": "Crypto Beat",
-          "description": "The Fear and Greed Index is a tool that helps investors and traders understand the sentiment of the crypto market. Stay up to date.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-fear-and-greed-index-today-may-10-2023-c4065dc90686?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-10T07:35:49.000Z",
+          "id": "https://medium.com/p/10f51dfbf361",
+          "author": "Pavithra Umashankar",
+          "description": "The recent furor surrounding Artificial Intelligence is strikingly similar to the obsession that underpinned crypto in the past. Similar to…",
+          "link": "https://medium.com/coinmonks/ai-and-blockchain-the-dynamic-duo-of-innovation-10f51dfbf361?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-10T12:26:42.000Z",
+          "wordCount": 3663,
+          "title": "AI and Blockchain: The Dynamic Duo of Innovation",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*Y1i84DJaZjuTfg5I1-M6mA.png"
+        },
+        {
+          "id": "https://medium.com/p/36ecc4ad492e",
+          "author": "IntoTheVerse",
+          "description": "Welcome to another IntoTheVerse Journal!",
+          "link": "https://medium.com/coinmonks/intotheverse-smart-contracts-and-web3-a-look-at-the-potential-impact-on-traditional-business-36ecc4ad492e?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-10T12:26:36.000Z",
+          "wordCount": 3958,
+          "title": "IntoTheVerse — Smart Contracts and Web3: A Look at the Potential Impact on Traditional Business…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*caC84M8YlUbfcmyZfwNCTA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/7fae79b7ff33",
+          "author": "Keeley Tan",
+          "description": "Find out more about me here (YouTube/Instagram/Telegram): https://www.linktr.ee/kt_fx\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/nio-aapl-tsla-weekly-stocks-technical-analysis-fundamental-headline-news-7fae79b7ff33?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-10T12:26:34.000Z",
           "wordCount": 2040,
-          "title": "Bitcoin Fear And Greed Index Today — May 10, 2023",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/0*8F51S3RgbpS9ET67.png"
-        },
-        {
-          "id": "https://medium.com/p/c2482a77e1b9",
-          "author": "Crypto Beat",
-          "description": "Institutional interest in crypto may be maturing, but this is a positive development for the industry.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/institutional-interest-in-crypto-is-maturing-says-cantor-fitzgerald-c2482a77e1b9?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-10T07:35:47.000Z",
-          "wordCount": 1952,
-          "title": "Institutional Interest in Crypto is ‘Maturing,’ says Cantor Fitzgerald",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*M3VvoVSYMJjq7ipK"
-        },
-        {
-          "id": "https://medium.com/p/ec3ac3ae1a65",
-          "author": "Onthe_billion",
-          "description": "This week, Bitcoin soared due to rumors of a U.S. bank crisis and then plunged.\nFirst of all, the price of Bitcoin surpassed USD 29,000 as…",
-          "link": "https://medium.com/coinmonks/the-bank-of-usa-went-bankrupt-for-the-fourth-time-this-year-the-impact-of-bitcoin-market-is-billion-ec3ac3ae1a65?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-10T07:35:01.000Z",
-          "wordCount": 3508,
-          "title": "The Bank of USA went bankrupt for the fourth time this year…The impact of Bitcoin market is?_Billion",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1192/1*VbwVDb-slHNwD4jmNL5BnA.png"
+          "title": "#NIO #AAPL #TSLA Weekly Stocks Technical Analysis + Fundamental Headline News",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*9PvcFKFXQuyZbrGK"
         }
       ]
     },
