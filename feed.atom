@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T04:13:47.777Z</id>
+    <id>urn:2023-05-11T05:10:55.343Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-11T04:13:47.777Z</updated>
+    <updated>2023-05-11T05:10:55.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The ethics of blockchain-based economic systems.]]></title>
+        <id>https://medium.com/p/a10432dae51e</id>
+        <link href="https://medium.com/coinmonks/the-ethics-of-blockchain-based-economic-systems-a10432dae51e?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-11T04:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Exploring the Complex Ethical Implications of Blockchain-Based Economic Systems: Power, Exclusion, Privacy, Inequality, Environmental…]]></summary>
+        <author>
+            <name>Fahaz Hameed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Velvet.Capital March Update]]></title>
         <id>https://medium.com/p/743018309f70</id>
@@ -20,7 +30,6 @@
         <id>https://medium.com/p/3e1a250a83f8</id>
         <link href="https://medium.com/coinmonks/what-does-a-blockchain-development-company-do-3e1a250a83f8?source=rss----721b17443fd5---4"/>
         <updated>2023-05-11T03:35:15.000Z</updated>
-        <summary type="html"><![CDATA[About 420 million people worldwide currently use cryptocurrency.]]></summary>
         <author>
             <name>Solidity.io</name>
         </author>
@@ -41,7 +50,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/631f1e1e64a2</id>
         <link href="https://medium.com/coinmonks/layer-2-fully-overview-631f1e1e64a2?source=rss----721b17443fd5---4"/>
         <updated>2023-05-11T03:35:12.000Z</updated>
-        <summary type="html"><![CDATA[Layer 2 solutions for blockchain scalability. What changes have occurred in the industry recently, and what solutions are on the market …]]></summary>
         <author>
             <name>Alexandr Kumancev</name>
         </author>
@@ -51,7 +59,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/456094e5b1c0</id>
         <link href="https://medium.com/coinmonks/web3-0-the-paradigm-shift-in-the-digital-landscape-and-its-implications-for-businesses-456094e5b1c0?source=rss----721b17443fd5---4"/>
         <updated>2023-05-11T03:35:10.000Z</updated>
-        <summary type="html"><![CDATA[As we progress towards a more connected digital landscape, the evolution of the internet has introduced new and revolutionary changes. Web…]]></summary>
         <author>
             <name>Solidity.io</name>
         </author>
@@ -61,7 +68,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/450046d6b491</id>
         <link href="https://medium.com/coinmonks/no-crypto-well-tell-you-how-to-buy-450046d6b491?source=rss----721b17443fd5---4"/>
         <updated>2023-05-11T03:35:09.000Z</updated>
-        <summary type="html"><![CDATA[This is a new part of our dive into crypto for beginners within the Crypto Beginners list.]]></summary>
         <author>
             <name>Golden Trades</name>
         </author>
@@ -71,7 +77,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/237aacb76a37</id>
         <link href="https://medium.com/coinmonks/a-selection-of-interesting-nft-projects-237aacb76a37?source=rss----721b17443fd5---4"/>
         <updated>2023-05-11T03:35:07.000Z</updated>
-        <summary type="html"><![CDATA[It’s been a while since we recommended some decent projects, so we’ve decided to make up for lost time! We’ve selected the most intriguing…]]></summary>
         <author>
             <name>Golden Trades</name>
         </author>
@@ -97,21 +102,10 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Cryptocurrency Trading Trumps Savings Accounts]]></title>
-        <id>https://medium.com/p/ffefb818f455</id>
-        <link href="https://medium.com/coinmonks/why-cryptocurrency-trading-trumps-savings-accounts-ffefb818f455?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-11T03:34:59.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, cryptocurrency trading has become increasingly popular due to its potential for substantial returns. Meanwhile…]]></summary>
-        <author>
-            <name>Intelfin Global</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Storage Pointers In Solidity]]></title>
         <id>https://medium.com/p/4a2d7c55a054</id>
         <link href="https://coinsbench.com/storage-pointers-in-solidity-4a2d7c55a054?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-10T13:57:20.000Z</updated>
-        <summary type="html"><![CDATA[In Solidity, storage pointers are used to reference a storage location that contains a specific value or variable. Here is an example…]]></summary>
         <author>
             <name>TK Rose</name>
         </author>
@@ -121,7 +115,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/92bc3f7562ec</id>
         <link href="https://coinsbench.com/20-denial-ethernaut-explained-92bc3f7562ec?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-10T13:06:15.000Z</updated>
-        <summary type="html"><![CDATA[Storage Array Structures and ABI Specification]]></summary>
         <author>
             <name>Cayo Tor</name>
         </author>
@@ -131,7 +124,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/48a9b3b610f4</id>
         <link href="https://coinsbench.com/deploy-your-first-smart-contract-48a9b3b610f4?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-10T13:06:10.000Z</updated>
-        <summary type="html"><![CDATA[With simplest setup possible, deploy your first smart contract in the Ethereum’s official test network!]]></summary>
         <author>
             <name>Manoj Vignesh K M</name>
         </author>
@@ -141,7 +133,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/afa8d874eea1</id>
         <link href="https://coinsbench.com/s5-elevating-smart-contract-customization-with-ai-unlocking-limitless-possibilities-afa8d874eea1?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-10T13:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Let’s Upgrade Our Contract to an ERC20 Contract that accepts ETH and Tokens with AI: Enable Flexible Contributions, Withdrawals, and…]]></summary>
         <author>
             <name>ChainGPT</name>
         </author>
@@ -151,7 +142,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/b9b1600994ee</id>
         <link href="https://coinsbench.com/building-a-secure-talent-marketplace-on-celo-with-openzeppelin-defender-b9b1600994ee?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-10T13:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized Talent Marketplaces have the potential to revolutionize the way we find, hire, and work with skilled professionals. By using…]]></summary>
         <author>
             <name>Justin</name>
         </author>
@@ -161,7 +151,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/b5606cf84561</id>
         <link href="https://coinsbench.com/authentication-testing-of-smart-contracts-using-foundry-b5606cf84561?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-10T13:06:02.000Z</updated>
-        <summary type="html"><![CDATA[In the previous chapter of the series, I introduced Foundry and wrote a basic test case for HelloWorld.sol, it can be found at…]]></summary>
         <author>
             <name>Arjun Bahera</name>
         </author>
@@ -184,7 +173,6 @@ QuickNode is a blockchain platform that provides infrastructure for developers t
         <id>https://medium.com/p/2c010c7651fb</id>
         <link href="https://coinsbench.com/applying-data-science-concepts-to-smart-contract-design-using-solidity-2c010c7651fb?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-09T13:57:35.000Z</updated>
-        <summary type="html"><![CDATA[As blockchain technology continues to evolve and become more widely adopted, smart contracts have become an increasingly popular means of…]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -194,7 +182,6 @@ QuickNode is a blockchain platform that provides infrastructure for developers t
         <id>https://medium.com/p/5d3f6ad8cd66</id>
         <link href="https://coinsbench.com/celo-camp-week-2-5d3f6ad8cd66?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-09T11:24:10.000Z</updated>
-        <summary type="html"><![CDATA[This week at Celo Camp was jam-packed with content that I, as a beginner, found very informative. In particular, I learned a lot about…]]></summary>
         <author>
             <name>joaovwfreire</name>
         </author>
@@ -204,7 +191,6 @@ QuickNode is a blockchain platform that provides infrastructure for developers t
         <id>https://medium.com/p/8494e7278504</id>
         <link href="https://coinsbench.com/how-to-publish-a-smart-contract-on-an-ethereum-testnet-8494e7278504?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-09T11:24:07.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts! They are supposedly the new web apps. Okay, let’s make one.]]></summary>
         <author>
             <name>Dimitri Rusin</name>
         </author>
@@ -214,7 +200,6 @@ QuickNode is a blockchain platform that provides infrastructure for developers t
         <id>https://medium.com/p/4592c530f950</id>
         <link href="https://coinsbench.com/guide-to-tokenize-real-estate-4592c530f950?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-09T11:24:01.000Z</updated>
-        <summary type="html"><![CDATA[Real estate has always been a popular investment option, but has traditionally been restricted to wealthy individuals and institutions due…]]></summary>
         <author>
             <name>Sankar Srinivasan</name>
         </author>
@@ -408,7 +393,6 @@ Ethereum.org is the community-run technology powering the cryptocurrency Ethereu
         <id>https://medium.com/p/5a559cc5e82a</id>
         <link href="https://blog.blockmagnates.com/deploy-contract-on-base-goerli-5a559cc5e82a?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-04-17T09:44:25.000Z</updated>
-        <summary type="html"><![CDATA[Before Start]]></summary>
         <author>
             <name>0xDiewland</name>
         </author>
@@ -444,7 +428,6 @@ https://www.youtube.com/watch?v=WsADjAvoQjs]]></summary>
         <id>https://medium.com/p/25f86c0b92d1</id>
         <link href="https://blog.blockmagnates.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-1-10-25f86c0b92d1?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-04-14T08:46:12.000Z</updated>
-        <summary type="html"><![CDATA[If you are seeking a tutorial-oriented guide for Smart Contract Upgrades and Proxy Patterns, then this is the article that you have been…]]></summary>
         <author>
             <name>Amir Doreh</name>
         </author>
