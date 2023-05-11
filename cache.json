@@ -20,102 +20,102 @@
         {
           "id": "https://medium.com/p/8ee480f303f2",
           "author": "Cayo Tor",
-          "description": "",
+          "description": "Contract Storage, Private Data, and Type Casting",
           "link": "https://coinsbench.com/12-privacy-ethernaut-explained-8ee480f303f2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-11T11:42:24.000Z",
-          "wordCount": null,
+          "wordCount": 3534,
           "title": "#12 Privacy— Ethernaut Explained",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*pRWQy1-cPlT3T5XW.png"
         },
         {
           "id": "https://medium.com/p/b7f1873609d2",
           "author": "Cayo Tor",
-          "description": "",
+          "description": "Solidity Interfaces and Abstract Contracts",
           "link": "https://coinsbench.com/11-elevator-ethernaut-explained-b7f1873609d2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-11T11:42:22.000Z",
-          "wordCount": null,
+          "wordCount": 2800,
           "title": "#11 Elevator— Ethernaut Explained",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*HgOFkyyaCCAWTwag.png"
         },
         {
           "id": "https://medium.com/p/a02c8006a1c0",
           "author": "Cayo Tor",
-          "description": "",
+          "description": "Reentrancy Guard Mutex and Checks-Effects-Interactions",
           "link": "https://coinsbench.com/10-reentrancy-ethernaut-explained-a02c8006a1c0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-11T11:42:20.000Z",
-          "wordCount": null,
+          "wordCount": 3436,
           "title": "#10 Reentrancy- Ethernaut Explained",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*KWXD18_TAQWyEOA4.png"
         },
         {
           "id": "https://medium.com/p/e47e2ca6591c",
           "author": "ismail",
-          "description": "",
+          "description": "State mutability is an important concept in Solidity, which determines whether a function can change the state of a contract or not. In…",
           "link": "https://coinsbench.com/13-lets-learn-solidity-state-mutability-e47e2ca6591c?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-11T11:42:16.000Z",
-          "wordCount": null,
+          "wordCount": 2589,
           "title": "13# Let’s learn Solidity ~ State mutability",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qwVl7UuIdpAs9YIf0HWyxQ.png"
         },
         {
           "id": "https://medium.com/p/d2479cc6b702",
           "author": "Aitor Zaldua",
-          "description": "",
+          "description": "Look, everybody loves money. Ok, maybe everyone except Satoshi Nakamoto, but if you have the opportunity to make an obscene amount of…",
           "link": "https://coinsbench.com/early-prelims-to-become-a-smart-contract-auditor-d2479cc6b702?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-11T11:42:13.000Z",
-          "wordCount": null,
+          "wordCount": 3371,
           "title": "Early prelims to become a smart contract auditor",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mLj4sDYBI1t3Zq-j-D9mZw.png"
         },
         {
           "id": "https://medium.com/p/4a2d7c55a054",
           "author": "TK Rose",
-          "description": "",
+          "description": "In Solidity, storage pointers are used to reference a storage location that contains a specific value or variable. Here is an example…",
           "link": "https://coinsbench.com/storage-pointers-in-solidity-4a2d7c55a054?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-10T13:57:20.000Z",
-          "wordCount": null,
+          "wordCount": 2290,
           "title": "Storage Pointers In Solidity",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*FafCAwEL9kSd6wZ5"
         },
         {
           "id": "https://medium.com/p/92bc3f7562ec",
           "author": "Cayo Tor",
-          "description": "",
+          "description": "Storage Array Structures and ABI Specification",
           "link": "https://coinsbench.com/20-denial-ethernaut-explained-92bc3f7562ec?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-10T13:06:15.000Z",
-          "wordCount": null,
+          "wordCount": 2948,
           "title": "#20 Denial — Ethernaut Explained",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*B0rcanLU17buDd2j3dd2EQ.png"
         },
         {
           "id": "https://medium.com/p/48a9b3b610f4",
           "author": "Manoj Vignesh K M",
-          "description": "",
+          "description": "With simplest setup possible, deploy your first smart contract in the Ethereum’s official test network!",
           "link": "https://coinsbench.com/deploy-your-first-smart-contract-48a9b3b610f4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-10T13:06:10.000Z",
-          "wordCount": null,
+          "wordCount": 2988,
           "title": "Deploy your first smart contract",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cV36ANPqOoj5U90ALOSNlA.png"
         },
         {
           "id": "https://medium.com/p/afa8d874eea1",
           "author": "ChainGPT",
-          "description": "",
+          "description": "Let’s Upgrade Our Contract to an ERC20 Contract that accepts ETH and Tokens with AI: Enable Flexible Contributions, Withdrawals, and…",
           "link": "https://coinsbench.com/s5-elevating-smart-contract-customization-with-ai-unlocking-limitless-possibilities-afa8d874eea1?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-10T13:06:08.000Z",
-          "wordCount": null,
+          "wordCount": 6210,
           "title": "S5: Elevating Smart Contract Customization with AI: Unlocking Limitless Possibilities",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:866/1*Lnj2ycImg775fDkVNDBrIw.png"
         },
         {
           "id": "https://medium.com/p/b9b1600994ee",
           "author": "Justin",
-          "description": "",
+          "description": "Decentralized Talent Marketplaces have the potential to revolutionize the way we find, hire, and work with skilled professionals. By using…",
           "link": "https://coinsbench.com/building-a-secure-talent-marketplace-on-celo-with-openzeppelin-defender-b9b1600994ee?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-10T13:06:06.000Z",
-          "wordCount": null,
+          "wordCount": 7907,
           "title": "Building a Secure Talent Marketplace on Celo with OpenZeppelin Defender",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HuXxa0FvAN431ljfqPYmaw.png"
         }
       ]
     },
@@ -125,104 +125,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/d1686f193823",
+          "author": "Karan Naipal",
+          "description": "Hi there, lately I have spoken a lot about blockchain technology. Now i will finally explain a little bit about this technology. Blockchain…",
+          "link": "https://medium.com/coinmonks/transparency-in-the-digital-age-exploring-the-potential-of-blockchain-technology-d1686f193823?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T13:54:38.000Z",
+          "wordCount": 6185,
+          "title": "“Transparency in the Digital Age: Exploring the Potential of Blockchain Technology”",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*ehBE_o3pUkDsqStFFnnz3Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/7065d559b1ed",
+          "author": "Favorite_blockchain_lady",
+          "description": "So, I made a decision to put this out there as a challenge for anyone who would want to take it up. This is a “100-day solidity”…",
+          "link": "https://medium.com/coinmonks/100-days-of-solidity-7065d559b1ed?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T13:54:10.000Z",
+          "wordCount": 3544,
+          "title": "100 days of solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1075/1*SIUtnewbQSJRBPUQdA3ckg.png"
+        },
+        {
+          "id": "https://medium.com/p/a74fc92a063b",
+          "author": "Sandra.R",
+          "description": "The virtual world is rapidly becoming more tangible with the ability to converse with artificial intelligence and transact using digital…",
+          "link": "https://medium.com/coinmonks/best-crypto-to-buy-now-11-may-a74fc92a063b?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T13:51:14.000Z",
+          "wordCount": 2795,
+          "title": "Best Crypto to Buy Now 11 May",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:900/1*O8l-AtbczrDYmf6fwLLQZA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/be2b3194671",
+          "author": "Nidal K",
+          "description": "Are they worth your time and money? Or are they just a passing fad that will soon fade away?",
+          "link": "https://medium.com/coinmonks/what-are-the-risks-and-challenges-of-memecoins-be2b3194671?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T13:48:23.000Z",
+          "wordCount": 4256,
+          "title": "What are the Risks and Challenges of Memecoins?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*PSVgPAgmYjtDaODC1sq28w@2x.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3d2fcc46b699",
+          "author": "CryptoGod-1",
+          "description": "A Syrian crypto fund manager was kidnapped and held for ransom in Spain, leading to a rescue by the police force within a number of hours.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/crypto-portfolio-manager-saved-by-spanish-police-3d2fcc46b699?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T13:44:08.000Z",
+          "wordCount": 2003,
+          "title": "Crypto Portfolio Manager Saved by Spanish Police",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xk1vgsT0LrDdztbbYrL8XQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/78daf01385a8",
+          "author": "M4tthew, MBA",
+          "description": "In the 1985 Berkshire Hathaway shareholder letter, Warren Buffett wrote:",
+          "link": "https://medium.com/coinmonks/break-the-habit-overcome-excuses-in-your-web3-portfolio-78daf01385a8?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T13:44:06.000Z",
+          "wordCount": 2720,
+          "title": "Break the Habit: Overcome Excuses in Your Web3 Portfolio",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:420/1*7uznJN6EeCBn9WXO2zNmYQ.png"
+        },
+        {
+          "id": "https://medium.com/p/3e1269260702",
+          "author": "Nidal K",
+          "description": "￼",
+          "link": "https://medium.com/coinmonks/algorand-the-scalable-secure-and-decentralized-blockchain-for-the-next-generation-of-financial-3e1269260702?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T13:31:36.000Z",
+          "wordCount": 5892,
+          "title": "Algorand: The Scalable, Secure and Decentralized Blockchain for the Next Generation of Financial…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:828/1*erelWhO_rKjM5yhp2uw7Zg@2x.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/49a682dd4069",
+          "author": "Nidal K",
+          "description": "Exploring the Limitations and Challenges of Web3: What You Need to Know",
+          "link": "https://medium.com/coinmonks/web3-the-exciting-new-internet-frontier-with-limitations-and-challenges-49a682dd4069?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T13:31:35.000Z",
+          "wordCount": 6441,
+          "title": "Web3: The Exciting New Internet Frontier with Limitations and Challenges",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*VBCzxkg5dESd8Kd9cmpIWw@2x.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c6d07b13a08b",
+          "author": "blockchainbuddy",
+          "description": "Blockchain technology has revolutionized various industries, including finance, supply chain, and healthcare. One promising blockchain project that has gained attention in recent years is Kaspa…",
+          "link": "https://medium.com/coinmonks/kaspa-blockchain-empowering-scalable-and-secure-decentralized-applications-c6d07b13a08b?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T13:31:34.000Z",
+          "wordCount": 3691,
+          "title": "Kaspa Blockchain: Empowering Scalable and Secure Decentralized Applications",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*OHsaR_eqf0RkeSur18b1oQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/1d675545be28",
           "author": "Moulay Abdellah Aber",
           "description": "Introduction\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/cryptocurrency-and-international-trade-opportunities-and-challenges-1d675545be28?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-11T13:07:10.000Z",
-          "wordCount": null,
+          "wordCount": 2007,
           "title": "Cryptocurrency and International Trade: Opportunities and Challenges",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e4b08906e04f",
-          "author": "Sophia Grace",
-          "description": "",
-          "link": "https://medium.com/coinmonks/dogecoin-briefly-explained-e4b08906e04f?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T13:01:42.000Z",
-          "wordCount": null,
-          "title": "Dogecoin — Briefly Explained",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4ab7db115c98",
-          "author": "Moulay Abdellah Aber",
-          "description": "Cryptocurrencies are digital assets that use cryptography to secure transactions and control the creation of new units. They have grown…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/cryptocurrency-and-regulations-the-current-state-of-affairs-4ab7db115c98?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T13:01:37.000Z",
-          "wordCount": null,
-          "title": "Cryptocurrency and Regulations: The Current State of Affairs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/41713722a3f6",
-          "author": "Sandeep Banyal",
-          "description": "",
-          "link": "https://medium.com/coinmonks/the-man-your-man-could-smell-like-one-of-the-best-brand-reinvention-campaign-41713722a3f6?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T13:01:36.000Z",
-          "wordCount": null,
-          "title": "“The Man Your Man Could Smell Like” — one of the best brand reinvention campaign",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b8bb2991386a",
-          "author": "Cathrine Williams",
-          "description": "",
-          "link": "https://medium.com/coinmonks/elon-musks-tweet-sends-milady-nft-collection-soaring-on-opensea-b8bb2991386a?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T12:37:40.000Z",
-          "wordCount": null,
-          "title": "Elon Musk’s Tweet Sends Milady NFT Collection Soaring on OpenSea",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9b60dcbcdcd5",
-          "author": "Sai Chandan Kadarla",
-          "description": "",
-          "link": "https://medium.com/coinmonks/from-crypto-wallets-to-smart-contracts-building-your-first-ethereum-contract-9b60dcbcdcd5?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T12:37:35.000Z",
-          "wordCount": null,
-          "title": "From Crypto Wallets to Smart Contracts: Building Your First Ethereum Contract",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7414dede3f4",
-          "author": "Ziva Fajfar",
-          "description": "Memecoins have made millionaires in the past weeks. Learn how to maximize your chances to find the next 1000x gem!\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/spot-high-potential-memecoins-with-this-powerful-5-step-strategy-7414dede3f4?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T12:37:33.000Z",
-          "wordCount": null,
-          "title": "Spot High-Potential Memecoins With This Powerful 5-Step Strategy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/348b1c60dec",
-          "author": "Karan Naipal",
-          "description": "",
-          "link": "https://medium.com/coinmonks/nfts-a-new-era-of-collecting-and-investing-in-the-digital-world-348b1c60dec?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T12:37:31.000Z",
-          "wordCount": null,
-          "title": "“NFTs: A New Era of Collecting and Investing in the Digital World”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/75106972cc64",
-          "author": "Karan Naipal",
-          "description": "",
-          "link": "https://medium.com/coinmonks/the-future-is-here-how-the-metaverse-is-changing-the-way-we-live-75106972cc64?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T12:37:30.000Z",
-          "wordCount": null,
-          "title": "“The Future is Here: How the Metaverse is Changing the Way We Live”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4c93b118b6b3",
-          "author": "Karan Naipal",
-          "description": "",
-          "link": "https://medium.com/coinmonks/decentralizing-finance-the-power-of-cryptocurrency-4c93b118b6b3?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T12:37:28.000Z",
-          "wordCount": null,
-          "title": "“Decentralizing Finance: The Power of Cryptocurrency”",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*6UDleczXdUyYSuY8"
         }
       ]
     },
@@ -237,29 +237,29 @@
           "description": "Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. Smart contracts…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/how-hardhat-simplifies-smart-contract-verification-on-ethereum-8a6a8f02315b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-26T20:49:26.000Z",
-          "wordCount": null,
+          "wordCount": 2632,
           "title": "How Hardhat Simplifies Smart Contract Verification on Ethereum",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*41s_xklPCFSZLwRHmUGUDA.jpeg"
         },
         {
           "id": "https://medium.com/p/5a559cc5e82a",
           "author": "0xDiewland",
-          "description": "",
+          "description": "Before Start",
           "link": "https://blog.blockmagnates.com/deploy-contract-on-base-goerli-5a559cc5e82a?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-17T09:44:25.000Z",
-          "wordCount": null,
+          "wordCount": 1871,
           "title": "Deploy contract on Base Goerli",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:624/1*5vZE7nyBNDstx2TkGiFu-w.png"
         },
         {
           "id": "https://medium.com/p/25f86c0b92d1",
           "author": "Amir Doreh",
-          "description": "",
+          "description": "If you are seeking a tutorial-oriented guide for Smart Contract Upgrades and Proxy Patterns, then this is the article that you have been…",
           "link": "https://blog.blockmagnates.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-1-10-25f86c0b92d1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-14T08:46:12.000Z",
-          "wordCount": null,
+          "wordCount": 2691,
           "title": "Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [1/8]",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9JaNXQ5u_A0YkhMs"
         }
       ]
     },
