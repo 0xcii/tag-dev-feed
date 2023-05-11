@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T11:09:37.200Z</id>
+    <id>urn:2023-05-11T12:23:31.830Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-11T11:09:37.200Z</updated>
+    <updated>2023-05-11T12:23:31.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#12 Privacy— Ethernaut Explained]]></title>
+        <id>https://medium.com/p/8ee480f303f2</id>
+        <link href="https://coinsbench.com/12-privacy-ethernaut-explained-8ee480f303f2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-11T11:42:24.000Z</updated>
+        <summary type="html"><![CDATA[Contract Storage, Private Data, and Type Casting]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#11 Elevator— Ethernaut Explained]]></title>
+        <id>https://medium.com/p/b7f1873609d2</id>
+        <link href="https://coinsbench.com/11-elevator-ethernaut-explained-b7f1873609d2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-11T11:42:22.000Z</updated>
+        <summary type="html"><![CDATA[Solidity Interfaces and Abstract Contracts]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#10 Reentrancy- Ethernaut Explained]]></title>
+        <id>https://medium.com/p/a02c8006a1c0</id>
+        <link href="https://coinsbench.com/10-reentrancy-ethernaut-explained-a02c8006a1c0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-11T11:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Reentrancy Guard Mutex and Checks-Effects-Interactions]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13# Let’s learn Solidity ~ State mutability]]></title>
+        <id>https://medium.com/p/e47e2ca6591c</id>
+        <link href="https://coinsbench.com/13-lets-learn-solidity-state-mutability-e47e2ca6591c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-11T11:42:16.000Z</updated>
+        <summary type="html"><![CDATA[State mutability is an important concept in Solidity, which determines whether a function can change the state of a contract or not. In…]]></summary>
+        <author>
+            <name>ismail</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early prelims to become a smart contract auditor]]></title>
+        <id>https://medium.com/p/d2479cc6b702</id>
+        <link href="https://coinsbench.com/early-prelims-to-become-a-smart-contract-auditor-d2479cc6b702?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-11T11:42:13.000Z</updated>
+        <summary type="html"><![CDATA[Look, everybody loves money. Ok, maybe everyone except Satoshi Nakamoto, but if you have the opportunity to make an obscene amount of…]]></summary>
+        <author>
+            <name>Aitor Zaldua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin and the Future of Intergalactic Trade: A Sci-Fi Perspective]]></title>
+        <id>https://medium.com/p/1bd849856df9</id>
+        <link href="https://medium.com/coinmonks/bitcoin-and-the-future-of-intergalactic-trade-a-sci-fi-perspective-1bd849856df9?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-11T11:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Exploring the Potential of Bitcoin Beyond Our Planet: A Sci-Fi Perspective on Intergalactic Trade]]></summary>
+        <author>
+            <name>Fahaz Hameed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Is Freedom]]></title>
+        <id>https://medium.com/p/53656094a024</id>
+        <link href="https://medium.com/coinmonks/bitcoin-is-freedom-53656094a024?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-11T11:41:30.000Z</updated>
+        <summary type="html"><![CDATA[“Freedom can run a monetary system as superbly as it runs the rest of the economy. Contrary to many writers, there is nothing special about…]]></summary>
+        <author>
+            <name>Kudzai Kutukwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Solidity Bot to Tweet Bitcoin and Ethereum Prices at Specific Times]]></title>
+        <id>https://medium.com/p/97c29f05d9be</id>
+        <link href="https://medium.com/coinmonks/creating-a-solidity-bot-to-tweet-97c29f05d9be?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-11T11:41:29.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrencies like Bitcoin and Ethereum have rapidly grown in popularity, and monitoring their prices is crucial for many traders and…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How easy it is to roll down a hill!]]></title>
+        <id>https://medium.com/p/487b41c658be</id>
+        <link href="https://medium.com/coinmonks/how-easy-it-is-to-roll-down-a-hill-487b41c658be?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-11T11:41:25.000Z</updated>
+        <summary type="html"><![CDATA[Today we will be looking at the #AUDCAD cross. Two ‘commodity’ currencies, but with different main trading partners — Canada has the US…]]></summary>
+        <author>
+            <name>Paul Mihalev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shiba Inu Coin — Why it is so Much Popular Among Other Memecoins?]]></title>
         <id>https://medium.com/p/84663d9d90e9</id>
@@ -66,47 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nautilus Triton Testnet X PoseiSwap Confirmed Next Super airdrop (Early) [Updated : Galxe…]]></title>
-        <id>https://medium.com/p/dd45383d89c7</id>
-        <link href="https://medium.com/coinmonks/nautilus-triton-testnet-x-poseiswap-confirmed-next-super-airdrop-early-updated-galxe-dd45383d89c7?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-11T10:30:11.000Z</updated>
-        <summary type="html"><![CDATA[PoseiSwap Gives 7% of Its Tokens to Zebec Foundation]]></summary>
-        <author>
-            <name>Secret+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enigmas in the Blockchain: Algorithms, Blocks, Rewards]]></title>
-        <id>https://medium.com/p/6f9873b35541</id>
-        <link href="https://medium.com/coinmonks/enigmas-in-the-blockchain-algorithms-blocks-rewards-6f9873b35541?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-11T10:30:09.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving world of blockchain technology, the need for advanced mining techniques has become increasingly apparent. As…]]></summary>
-        <author>
-            <name>Kaan Kaçar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make $10k Every Month With The OYO Token Lifetime Royalty Club.]]></title>
-        <id>https://medium.com/p/ec5ed37ef4ff</id>
-        <link href="https://medium.com/coinmonks/make-10k-every-month-with-the-oyo-token-lifetime-royalty-club-ec5ed37ef4ff?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-11T10:30:08.000Z</updated>
-        <summary type="html"><![CDATA[OYO Token is the best venture of 2023. This token has the best and most distinct characteristics. There are various tokens in the world…]]></summary>
-        <author>
-            <name>CryptoMaster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Jurassic to Modernism: Google vs Presearch]]></title>
-        <id>https://medium.com/p/b200109f84b3</id>
-        <link href="https://medium.com/coinmonks/from-jurassic-to-modernism-google-vs-presearch-b200109f84b3?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-11T10:30:07.000Z</updated>
-        <summary type="html"><![CDATA[The Dawn of Time
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>PVMihalache</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Storage Pointers In Solidity]]></title>
         <id>https://medium.com/p/4a2d7c55a054</id>
         <link href="https://coinsbench.com/storage-pointers-in-solidity-4a2d7c55a054?source=rss----f1cfd22cde3e---4"/>
@@ -157,16 +206,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Authentication Testing of Smart Contracts Using Foundry]]></title>
-        <id>https://medium.com/p/b5606cf84561</id>
-        <link href="https://coinsbench.com/authentication-testing-of-smart-contracts-using-foundry-b5606cf84561?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-10T13:06:02.000Z</updated>
-        <summary type="html"><![CDATA[In the previous chapter of the series, I introduced Foundry and wrote a basic test case for HelloWorld.sol, it can be found at…]]></summary>
-        <author>
-            <name>Arjun Bahera</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Build an NFT Gallery Using QuickNode's GraphQL NFT API]]></title>
         <id>https://blog.developerdao.com/how-to-build-an-nft-gallery-using-quicknodes-graphql-nft-api</id>
         <link href="https://blog.developerdao.com/how-to-build-an-nft-gallery-using-quicknodes-graphql-nft-api"/>
@@ -177,46 +216,6 @@ What is QuickNode?
 QuickNode is a blockchain platform that provides infrastructure for developers to build and scale decentralized applications (DApps). It offers a suite of tools and services, including a developer API, to make it easier for developers to build, test, and deploy DApps on multiple blockchain networks. QuickNode aims to simplify the building process on blockchain and make it more accessible for developers while providing high-performance infrastructure to supp…]]></summary>
         <author>
             <name>Aayush Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applying Data Science Concepts to Smart Contract Design using Solidity]]></title>
-        <id>https://medium.com/p/2c010c7651fb</id>
-        <link href="https://coinsbench.com/applying-data-science-concepts-to-smart-contract-design-using-solidity-2c010c7651fb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-09T13:57:35.000Z</updated>
-        <summary type="html"><![CDATA[As blockchain technology continues to evolve and become more widely adopted, smart contracts have become an increasingly popular means of…]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celo Camp —  week 2]]></title>
-        <id>https://medium.com/p/5d3f6ad8cd66</id>
-        <link href="https://coinsbench.com/celo-camp-week-2-5d3f6ad8cd66?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-09T11:24:10.000Z</updated>
-        <summary type="html"><![CDATA[This week at Celo Camp was jam-packed with content that I, as a beginner, found very informative. In particular, I learned a lot about…]]></summary>
-        <author>
-            <name>joaovwfreire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to publish a smart contract on an Ethereum testnet]]></title>
-        <id>https://medium.com/p/8494e7278504</id>
-        <link href="https://coinsbench.com/how-to-publish-a-smart-contract-on-an-ethereum-testnet-8494e7278504?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-09T11:24:07.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts! They are supposedly the new web apps. Okay, let’s make one.]]></summary>
-        <author>
-            <name>Dimitri Rusin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guide to Tokenize Real Estate]]></title>
-        <id>https://medium.com/p/4592c530f950</id>
-        <link href="https://coinsbench.com/guide-to-tokenize-real-estate-4592c530f950?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-09T11:24:01.000Z</updated>
-        <summary type="html"><![CDATA[Real estate has always been a popular investment option, but has traditionally been restricted to wealthy individuals and institutions due…]]></summary>
-        <author>
-            <name>Sankar Srinivasan</name>
         </author>
     </entry>
     <entry>

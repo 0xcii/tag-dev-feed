@@ -18,6 +18,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/8ee480f303f2",
+          "author": "Cayo Tor",
+          "description": "Contract Storage, Private Data, and Type Casting",
+          "link": "https://coinsbench.com/12-privacy-ethernaut-explained-8ee480f303f2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-11T11:42:24.000Z",
+          "wordCount": 3618,
+          "title": "#12 Privacy— Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*pRWQy1-cPlT3T5XW.png"
+        },
+        {
+          "id": "https://medium.com/p/b7f1873609d2",
+          "author": "Cayo Tor",
+          "description": "Solidity Interfaces and Abstract Contracts",
+          "link": "https://coinsbench.com/11-elevator-ethernaut-explained-b7f1873609d2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-11T11:42:22.000Z",
+          "wordCount": 2875,
+          "title": "#11 Elevator— Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*HgOFkyyaCCAWTwag.png"
+        },
+        {
+          "id": "https://medium.com/p/a02c8006a1c0",
+          "author": "Cayo Tor",
+          "description": "Reentrancy Guard Mutex and Checks-Effects-Interactions",
+          "link": "https://coinsbench.com/10-reentrancy-ethernaut-explained-a02c8006a1c0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-11T11:42:20.000Z",
+          "wordCount": 3436,
+          "title": "#10 Reentrancy- Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*KWXD18_TAQWyEOA4.png"
+        },
+        {
+          "id": "https://medium.com/p/e47e2ca6591c",
+          "author": "ismail",
+          "description": "State mutability is an important concept in Solidity, which determines whether a function can change the state of a contract or not. In…",
+          "link": "https://coinsbench.com/13-lets-learn-solidity-state-mutability-e47e2ca6591c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-11T11:42:16.000Z",
+          "wordCount": 2605,
+          "title": "13# Let’s learn Solidity ~ State mutability",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qwVl7UuIdpAs9YIf0HWyxQ.png"
+        },
+        {
+          "id": "https://medium.com/p/d2479cc6b702",
+          "author": "Aitor Zaldua",
+          "description": "Look, everybody loves money. Ok, maybe everyone except Satoshi Nakamoto, but if you have the opportunity to make an obscene amount of…",
+          "link": "https://coinsbench.com/early-prelims-to-become-a-smart-contract-auditor-d2479cc6b702?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-11T11:42:13.000Z",
+          "wordCount": 3371,
+          "title": "Early prelims to become a smart contract auditor",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mLj4sDYBI1t3Zq-j-D9mZw.png"
+        },
+        {
           "id": "https://medium.com/p/4a2d7c55a054",
           "author": "TK Rose",
           "description": "In Solidity, storage pointers are used to reference a storage location that contains a specific value or variable. Here is an example…",
@@ -66,56 +116,6 @@
           "wordCount": 7963,
           "title": "Building a Secure Talent Marketplace on Celo with OpenZeppelin Defender",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HuXxa0FvAN431ljfqPYmaw.png"
-        },
-        {
-          "id": "https://medium.com/p/b5606cf84561",
-          "author": "Arjun Bahera",
-          "description": "In the previous chapter of the series, I introduced Foundry and wrote a basic test case for HelloWorld.sol, it can be found at…",
-          "link": "https://coinsbench.com/authentication-testing-of-smart-contracts-using-foundry-b5606cf84561?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-10T13:06:02.000Z",
-          "wordCount": 2758,
-          "title": "Authentication Testing of Smart Contracts Using Foundry",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:866/1*yB8pleSJoQjjAzbcVis3jA.png"
-        },
-        {
-          "id": "https://medium.com/p/2c010c7651fb",
-          "author": "Solidity Academy",
-          "description": "As blockchain technology continues to evolve and become more widely adopted, smart contracts have become an increasingly popular means of…",
-          "link": "https://coinsbench.com/applying-data-science-concepts-to-smart-contract-design-using-solidity-2c010c7651fb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-09T13:57:35.000Z",
-          "wordCount": 2803,
-          "title": "Applying Data Science Concepts to Smart Contract Design using Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7RWfBgR2LBBiBGlmLlcB9Q.png"
-        },
-        {
-          "id": "https://medium.com/p/5d3f6ad8cd66",
-          "author": "joaovwfreire",
-          "description": "This week at Celo Camp was jam-packed with content that I, as a beginner, found very informative. In particular, I learned a lot about…",
-          "link": "https://coinsbench.com/celo-camp-week-2-5d3f6ad8cd66?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-09T11:24:10.000Z",
-          "wordCount": 3277,
-          "title": "Celo Camp —  week 2",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:712/1*kgBDCCpBHIv6XlBj0U7KEg.png"
-        },
-        {
-          "id": "https://medium.com/p/8494e7278504",
-          "author": "Dimitri Rusin",
-          "description": "Smart contracts! They are supposedly the new web apps. Okay, let’s make one.",
-          "link": "https://coinsbench.com/how-to-publish-a-smart-contract-on-an-ethereum-testnet-8494e7278504?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-09T11:24:07.000Z",
-          "wordCount": 3965,
-          "title": "How to publish a smart contract on an Ethereum testnet",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*A-H4MMYP4hEBsTTR48btPQ.png"
-        },
-        {
-          "id": "https://medium.com/p/4592c530f950",
-          "author": "Sankar Srinivasan",
-          "description": "Real estate has always been a popular investment option, but has traditionally been restricted to wealthy individuals and institutions due…",
-          "link": "https://coinsbench.com/guide-to-tokenize-real-estate-4592c530f950?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-09T11:24:01.000Z",
-          "wordCount": 7596,
-          "title": "Guide to Tokenize Real Estate",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Y0K1OipkiZBYr19e"
         }
       ]
     },
@@ -125,12 +125,52 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1bd849856df9",
+          "author": "Fahaz Hameed",
+          "description": "Exploring the Potential of Bitcoin Beyond Our Planet: A Sci-Fi Perspective on Intergalactic Trade",
+          "link": "https://medium.com/coinmonks/bitcoin-and-the-future-of-intergalactic-trade-a-sci-fi-perspective-1bd849856df9?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T11:41:33.000Z",
+          "wordCount": 2848,
+          "title": "Bitcoin and the Future of Intergalactic Trade: A Sci-Fi Perspective",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1018/1*8kbqtLIAXEUQOVM4jftf4g.png"
+        },
+        {
+          "id": "https://medium.com/p/53656094a024",
+          "author": "Kudzai Kutukwa",
+          "description": "“Freedom can run a monetary system as superbly as it runs the rest of the economy. Contrary to many writers, there is nothing special about…",
+          "link": "https://medium.com/coinmonks/bitcoin-is-freedom-53656094a024?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T11:41:30.000Z",
+          "wordCount": 6587,
+          "title": "Bitcoin Is Freedom",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:599/1*vZTKGfkyJXBMDmOMkW470w.png"
+        },
+        {
+          "id": "https://medium.com/p/97c29f05d9be",
+          "author": "Solidity Academy",
+          "description": "Cryptocurrencies like Bitcoin and Ethereum have rapidly grown in popularity, and monitoring their prices is crucial for many traders and…",
+          "link": "https://medium.com/coinmonks/creating-a-solidity-bot-to-tweet-97c29f05d9be?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T11:41:29.000Z",
+          "wordCount": 6607,
+          "title": "Creating a Solidity Bot to Tweet Bitcoin and Ethereum Prices at Specific Times",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*N8SG56S-NEpQwQWojr4glA.png"
+        },
+        {
+          "id": "https://medium.com/p/487b41c658be",
+          "author": "Paul Mihalev",
+          "description": "Today we will be looking at the #AUDCAD cross. Two ‘commodity’ currencies, but with different main trading partners — Canada has the US…",
+          "link": "https://medium.com/coinmonks/how-easy-it-is-to-roll-down-a-hill-487b41c658be?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T11:41:25.000Z",
+          "wordCount": 2617,
+          "title": "How easy it is to roll down a hill!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*SO-Ed8hwhTORFW4QBffzvg.png"
+        },
+        {
           "id": "https://medium.com/p/84663d9d90e9",
           "author": "Sophia Grace",
           "description": "This article aims to explore the reason behind the massive popularity of the Shiba Inu coin among memecoins.",
           "link": "https://medium.com/coinmonks/shiba-inu-coin-why-it-is-so-much-popular-among-other-memecoins-84663d9d90e9?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-11T10:39:24.000Z",
-          "wordCount": 4127,
+          "wordCount": 4132,
           "title": "Shiba Inu Coin — Why it is so Much Popular Among Other Memecoins?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cgL0bjgUE3gHzJIIJ4BmfQ.png"
         },
@@ -140,7 +180,7 @@
           "description": "The relevance of economic data to traders and investors varies based on their unique tactics and aims. However, one crucial signal that…",
           "link": "https://medium.com/coinmonks/the-impact-of-boes-interest-rate-decisions-on-gbp-forex-trading-673ed176e871?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-11T10:33:34.000Z",
-          "wordCount": 3245,
+          "wordCount": 3246,
           "title": "The Impact of BOE’s Interest Rate Decisions on GBP Forex Trading",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mQ1_8-Bm9eexQvlXkqK0Ew.jpeg"
         },
@@ -183,46 +223,6 @@
           "wordCount": 3242,
           "title": "How to Be the Winner in the Airdrop Battles Against Witch Addresses",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:554/0*idppGTpc8R0DF6Ab"
-        },
-        {
-          "id": "https://medium.com/p/dd45383d89c7",
-          "author": "Secret+",
-          "description": "PoseiSwap Gives 7% of Its Tokens to Zebec Foundation",
-          "link": "https://medium.com/coinmonks/nautilus-triton-testnet-x-poseiswap-confirmed-next-super-airdrop-early-updated-galxe-dd45383d89c7?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T10:30:11.000Z",
-          "wordCount": 3398,
-          "title": "Nautilus Triton Testnet X PoseiSwap Confirmed Next Super airdrop (Early) [Updated : Galxe…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:680/0*4PkRaQt_Zl34f4Q3.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/6f9873b35541",
-          "author": "Kaan Kaçar",
-          "description": "In the ever-evolving world of blockchain technology, the need for advanced mining techniques has become increasingly apparent. As…",
-          "link": "https://medium.com/coinmonks/enigmas-in-the-blockchain-algorithms-blocks-rewards-6f9873b35541?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T10:30:09.000Z",
-          "wordCount": 5971,
-          "title": "Enigmas in the Blockchain: Algorithms, Blocks, Rewards",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*R3XLwA3uXpgTTLLbM5CoYA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ec5ed37ef4ff",
-          "author": "CryptoMaster",
-          "description": "OYO Token is the best venture of 2023. This token has the best and most distinct characteristics. There are various tokens in the world…",
-          "link": "https://medium.com/coinmonks/make-10k-every-month-with-the-oyo-token-lifetime-royalty-club-ec5ed37ef4ff?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T10:30:08.000Z",
-          "wordCount": 3419,
-          "title": "Make $10k Every Month With The OYO Token Lifetime Royalty Club.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*7ceWCK2WKnhm6guafGvIgw.png"
-        },
-        {
-          "id": "https://medium.com/p/b200109f84b3",
-          "author": "PVMihalache",
-          "description": "The Dawn of Time\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/from-jurassic-to-modernism-google-vs-presearch-b200109f84b3?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T10:30:07.000Z",
-          "wordCount": 2087,
-          "title": "From Jurassic to Modernism: Google vs Presearch",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:618/1*xbIAHsvvGlH3lVZrKIH2zw.png"
         }
       ]
     },
