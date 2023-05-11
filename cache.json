@@ -83,7 +83,7 @@
           "description": "In Solidity, storage pointers are used to reference a storage location that contains a specific value or variable. Here is an example…",
           "link": "https://coinsbench.com/storage-pointers-in-solidity-4a2d7c55a054?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-10T13:57:20.000Z",
-          "wordCount": 2290,
+          "wordCount": 2178,
           "title": "Storage Pointers In Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*FafCAwEL9kSd6wZ5"
         },
@@ -103,7 +103,7 @@
           "description": "With simplest setup possible, deploy your first smart contract in the Ethereum’s official test network!",
           "link": "https://coinsbench.com/deploy-your-first-smart-contract-48a9b3b610f4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-10T13:06:10.000Z",
-          "wordCount": 2918,
+          "wordCount": 2988,
           "title": "Deploy your first smart contract",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cV36ANPqOoj5U90ALOSNlA.png"
         },
@@ -125,6 +125,36 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e27cd57d8299",
+          "author": "Secure Digital Markets",
+          "description": "Despite US CPI figures boosting risk assets, stocks and crypto declined in value since inflation is still higher than the Fed’s 2% target.",
+          "link": "https://medium.com/coinmonks/inflation-concerns-overshadow-cpi-boost-e27cd57d8299?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T15:32:32.000Z",
+          "wordCount": 2657,
+          "title": "Inflation Concerns Overshadow CPI Boost?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*NL8ZvH6cxz-hSJEF"
+        },
+        {
+          "id": "https://medium.com/p/96f08bd86fee",
+          "author": "Old School Crypto",
+          "description": "Litecoin. LTC20, Ordinals, Litecoin Halving, Litecoin and an underdog",
+          "link": "https://medium.com/coinmonks/is-it-litecoins-time-to-shine-96f08bd86fee?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T15:18:48.000Z",
+          "wordCount": 3226,
+          "title": "Is it Litecoins Time to Shine?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:998/1*xcJ30kpUqZityj6draebCg.png"
+        },
+        {
+          "id": "https://medium.com/p/66f410efa9c6",
+          "author": "Scaro",
+          "description": "Many people didn’t buy the token at all, and many got scammed, and a small percentage got lucky and made 100 x, but in the long run, they…",
+          "link": "https://medium.com/coinmonks/how-to-analyze-coins-66f410efa9c6?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-11T15:18:47.000Z",
+          "wordCount": 2760,
+          "title": "How to analyze coins",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*eWSq8UaZL8kNq5i1BZLx_g.jpeg"
+        },
+        {
           "id": "https://medium.com/p/3278e2716496",
           "author": "Manoj Vignesh K M",
           "description": "Learn how to travel and stroll around a web application built in the web3 world!",
@@ -140,7 +170,7 @@
           "description": "Variables and control structures in solidity",
           "link": "https://medium.com/coinmonks/variables-and-control-structures-in-solidity-100-days-of-solidity-day-2-3-pt-2-3e13c00044d1?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-11T14:12:56.000Z",
-          "wordCount": 2810,
+          "wordCount": 2749,
           "title": "Variables and control structures in solidity (100 Days of Solidity (Day 2–3) pt. 2)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1177/1*7XvlOD1_so1Kjq9aIeb0Rw.png"
         },
@@ -150,7 +180,7 @@
           "description": "Cryptocurrencies have taken the world by storm in recent years, with new coins popping up every day. However, not all cryptocurrencies are…",
           "link": "https://medium.com/coinmonks/pepecoin-and-the-danger-of-investing-in-meme-shit-coins-the-hype-vs-reality-c805000ebac0?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-11T14:07:43.000Z",
-          "wordCount": 2853,
+          "wordCount": 2863,
           "title": "PepeCoin and the Danger of Investing in Meme/Shit Coins: The Hype vs. Reality",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1040/1*D_N1_P34beIPW7ukYfvAzA.jpeg"
         },
@@ -160,7 +190,7 @@
           "description": "Cryptocurrencies have been making headlines in recent years, with their popularity and use expanding at an unprecedented pace. However, the…",
           "link": "https://medium.com/coinmonks/regulatory-divide-the-contrasting-approaches-to-crypto-in-the-us-and-uk-3ff2acd282f7?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-11T14:07:42.000Z",
-          "wordCount": 2939,
+          "wordCount": 2807,
           "title": "Regulatory Divide: The Contrasting Approaches to Crypto in the US and UK",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UJT5DpFWFs4WJyZ89HYr0A.png"
         },
@@ -170,7 +200,7 @@
           "description": "In the 1985 Berkshire Hathaway shareholder letter, Warren Buffett wrote:",
           "link": "https://medium.com/coinmonks/the-secret-to-successful-investing-knowing-when-to-sell-ead71a9a3105?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-11T14:07:41.000Z",
-          "wordCount": 2833,
+          "wordCount": 2971,
           "title": "The Secret to Successful Investing: Knowing When to Sell",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:447/1*CgPlhVUsrLSBkc7ET9JpBQ.png"
         },
@@ -180,7 +210,7 @@
           "description": "In recent years, Initial Coin Offerings (ICOs) have become a popular fundraising method for many startups, raising billions of dollars…",
           "link": "https://medium.com/coinmonks/ico-consulting-services-everything-you-need-to-know-18c984ddabcf?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-11T14:07:40.000Z",
-          "wordCount": 5350,
+          "wordCount": 5154,
           "title": "ICO Consulting Services: Everything You Need to Know",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:648/1*UO6uOPvvtboQqzHFWW2N3w.jpeg"
         },
@@ -193,36 +223,6 @@
           "wordCount": 2011,
           "title": "Bitcoin — The Rebirth of Light",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xEhrTWkNrFPFVF52YaFSmg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d1686f193823",
-          "author": "Karan Naipal",
-          "description": "Hi there, lately I have spoken a lot about blockchain technology. Now i will finally explain a little bit about this technology. Blockchain…",
-          "link": "https://medium.com/coinmonks/transparency-in-the-digital-age-exploring-the-potential-of-blockchain-technology-d1686f193823?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T13:54:38.000Z",
-          "wordCount": 6059,
-          "title": "“Transparency in the Digital Age: Exploring the Potential of Blockchain Technology”",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*ehBE_o3pUkDsqStFFnnz3Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/7065d559b1ed",
-          "author": "Favorite_blockchain_lady",
-          "description": "So, I made a decision to put this out there as a challenge for anyone who would want to take it up. This is a “100-day solidity”…",
-          "link": "https://medium.com/coinmonks/100-days-of-solidity-7065d559b1ed?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T13:54:10.000Z",
-          "wordCount": 3544,
-          "title": "100 days of solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1075/1*SIUtnewbQSJRBPUQdA3ckg.png"
-        },
-        {
-          "id": "https://medium.com/p/a74fc92a063b",
-          "author": "Sandra.R",
-          "description": "The virtual world is rapidly becoming more tangible with the ability to converse with artificial intelligence and transact using digital…",
-          "link": "https://medium.com/coinmonks/best-crypto-to-buy-now-11-may-a74fc92a063b?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-11T13:51:14.000Z",
-          "wordCount": 2795,
-          "title": "Best Crypto to Buy Now 11 May",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:900/1*O8l-AtbczrDYmf6fwLLQZA.jpeg"
         }
       ]
     },
