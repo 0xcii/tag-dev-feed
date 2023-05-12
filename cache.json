@@ -103,7 +103,7 @@
           "description": "With simplest setup possible, deploy your first smart contract in the Ethereum’s official test network!",
           "link": "https://coinsbench.com/deploy-your-first-smart-contract-48a9b3b610f4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-10T13:06:10.000Z",
-          "wordCount": 2983,
+          "wordCount": 2973,
           "title": "Deploy your first smart contract",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cV36ANPqOoj5U90ALOSNlA.png"
         },
@@ -170,7 +170,7 @@
           "description": "Smart contracts are a relatively new technology that has emerged as a result of the blockchain revolution. Smart contracts are…",
           "link": "https://medium.com/coinmonks/smarts-contracts-blockchain-7416cf0c6213?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-12T04:46:08.000Z",
-          "wordCount": 4255,
+          "wordCount": 4223,
           "title": "“Revolutionizing Transactions: Exploring the Power of Smart Contracts and Blockchain Technology”",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:848/0*S9-6vebU5Pb6hZAB.jpg"
         },
@@ -257,7 +257,7 @@
           "description": "If you are seeking a tutorial-oriented guide for Smart Contract Upgrades and Proxy Patterns, then this is the article that you have been…",
           "link": "https://blog.blockmagnates.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-1-10-25f86c0b92d1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-14T08:46:12.000Z",
-          "wordCount": 2691,
+          "wordCount": 2698,
           "title": "Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [1/8]",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9JaNXQ5u_A0YkhMs"
         }
@@ -268,6 +268,16 @@
       "feedUrl": "https://blog.developerdao.com/rss.xml",
       "siteUrl": "https://blog.developerdao.com",
       "articles": [
+        {
+          "id": "https://blog.developerdao.com/maximizing-your-ai-experience-how-to-prompt-effectively-in-midjourney",
+          "author": "Erik Knobl",
+          "description": "If you are starting writing prompts for Midjourney and want to learn how to structure them, Additive Prompting is a simple way to do it.\nEditorial style photo of 1970 Dodge Charger, low angle camera shot, flames in the background, dramatic light\n\nMidjourney is just one of many AI image generators that have sprung up recently. But unlike its competitors, Midjourney has a more dream-like and artsy style. It's not just about churning out photos - it's more like a painting tool that can help you create something truly unique. If you're into science-fiction or gothic artwork, then Midjourney is perfect.\nAdditive Prompting\nOne of the best ways to use Midjourney is with a technique known as additive prompting. Its a simple way of writing a structured prompt, and it involves creating specific sect…",
+          "link": "https://blog.developerdao.com/maximizing-your-ai-experience-how-to-prompt-effectively-in-midjourney",
+          "publishedOn": "2023-05-12T06:39:26.000Z",
+          "wordCount": 6549,
+          "title": "Maximizing Your AI Experience: How to Prompt Effectively in Midjourney",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1683649453944%2Fefc8785b-52d7-49b7-954a-1df0a974b3cf.jpeg%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
         {
           "id": "https://blog.developerdao.com/how-to-build-an-nft-gallery-using-quicknodes-graphql-nft-api",
           "author": "Aayush Gupta",
