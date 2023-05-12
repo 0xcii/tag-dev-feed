@@ -23,7 +23,7 @@
           "description": "Function modifiers are used to add extra behavior to functions without having to rewrite the function code. In this article, we will…",
           "link": "https://coinsbench.com/14-lets-learn-solidity-function-modifiers-5c650e854b12?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-12T11:08:09.000Z",
-          "wordCount": 2288,
+          "wordCount": 2350,
           "title": "14# Let’s learn Solidity ~ Function modifiers",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*L_TyJ1v93qHIs4TPpGiEMA.png"
         },
@@ -33,7 +33,7 @@
           "description": "Solidity Functions",
           "link": "https://coinsbench.com/solidity-functions-100-days-of-solidity-day-4-7-e325c652b42c?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-12T11:08:07.000Z",
-          "wordCount": 3461,
+          "wordCount": 3495,
           "title": "Solidity Functions (100 days of solidity (Day 4–7))",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1182/1*TkNm8OSG3W_bqcnSf0G1AA.png"
         },
@@ -43,7 +43,7 @@
           "description": "This is a continuation of the previous two articles on gas optimization. While it does not matter and one can start from here. There are…",
           "link": "https://coinsbench.com/gas-golfing-3-zero-vs-nonzero-storage-values-30a5e9697972?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-12T11:07:51.000Z",
-          "wordCount": 4054,
+          "wordCount": 4088,
           "title": "Solidity Gas Golfing #3: Zero vs NonZero Storage Values",
           "imageUrl": null
         },
@@ -53,7 +53,7 @@
           "description": "Concern over how artificial intelligence (AI) will affect different industries, including software engineering, has grown in recent years…",
           "link": "https://coinsbench.com/will-software-engineers-find-chatgpt-to-be-particularly-terrifying-c13cce36c7cc?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-11T13:57:18.000Z",
-          "wordCount": 2699,
+          "wordCount": 2753,
           "title": "Will software engineers find chatGPT to be particularly terrifying?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*gd6on_HUUAJTACpM"
         },
@@ -63,7 +63,7 @@
           "description": "Contract Storage, Private Data, and Type Casting",
           "link": "https://coinsbench.com/12-privacy-ethernaut-explained-8ee480f303f2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-11T11:42:24.000Z",
-          "wordCount": 3515,
+          "wordCount": 3549,
           "title": "#12 Privacy— Ethernaut Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*pRWQy1-cPlT3T5XW.png"
         },
@@ -73,7 +73,7 @@
           "description": "Solidity Interfaces and Abstract Contracts",
           "link": "https://coinsbench.com/11-elevator-ethernaut-explained-b7f1873609d2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-11T11:42:22.000Z",
-          "wordCount": 2797,
+          "wordCount": 2831,
           "title": "#11 Elevator— Ethernaut Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*HgOFkyyaCCAWTwag.png"
         },
@@ -83,7 +83,7 @@
           "description": "Reentrancy Guard Mutex and Checks-Effects-Interactions",
           "link": "https://coinsbench.com/10-reentrancy-ethernaut-explained-a02c8006a1c0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-11T11:42:20.000Z",
-          "wordCount": 3289,
+          "wordCount": 3323,
           "title": "#10 Reentrancy- Ethernaut Explained",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*KWXD18_TAQWyEOA4.png"
         },
@@ -93,7 +93,7 @@
           "description": "State mutability is an important concept in Solidity, which determines whether a function can change the state of a contract or not. In…",
           "link": "https://coinsbench.com/13-lets-learn-solidity-state-mutability-e47e2ca6591c?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-11T11:42:16.000Z",
-          "wordCount": 2581,
+          "wordCount": 2643,
           "title": "13# Let’s learn Solidity ~ State mutability",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qwVl7UuIdpAs9YIf0HWyxQ.png"
         },
@@ -103,7 +103,7 @@
           "description": "Look, everybody loves money. Ok, maybe everyone except Satoshi Nakamoto, but if you have the opportunity to make an obscene amount of…",
           "link": "https://coinsbench.com/early-prelims-to-become-a-smart-contract-auditor-d2479cc6b702?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-11T11:42:13.000Z",
-          "wordCount": 3331,
+          "wordCount": 3393,
           "title": "Early prelims to become a smart contract auditor",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mLj4sDYBI1t3Zq-j-D9mZw.png"
         },
@@ -113,7 +113,7 @@
           "description": "In Solidity, storage pointers are used to reference a storage location that contains a specific value or variable. Here is an example…",
           "link": "https://coinsbench.com/storage-pointers-in-solidity-4a2d7c55a054?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-10T13:57:20.000Z",
-          "wordCount": 2271,
+          "wordCount": 2363,
           "title": "Storage Pointers In Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*FafCAwEL9kSd6wZ5"
         }
@@ -150,7 +150,7 @@
           "description": "Major players in the travel industry are moving towards a Web3 future with the advent of the Camino Network travel-focused blockchain…",
           "link": "https://medium.com/coinmonks/legacy-travel-companies-look-to-integrate-web3-a8c1c08d2a98?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-12T11:47:56.000Z",
-          "wordCount": 2127,
+          "wordCount": 2139,
           "title": "Legacy Travel Companies Look to Integrate Web3",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*_5RehMCbr-Qp7YX234uq3w.png"
         },
@@ -160,7 +160,7 @@
           "description": "You have been studying the charts, watching YouTube and courses videos, and reading the content from BabyPips for a few weeks or even…",
           "link": "https://medium.com/coinmonks/choosing-the-right-strategy-to-trade-and-invest-7d293d4d1d49?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-12T11:08:47.000Z",
-          "wordCount": 5620,
+          "wordCount": 5641,
           "title": "Choosing The Right Strategy To Trade And Invest",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*doBJ85Pdpscgaw74"
         },
@@ -180,7 +180,7 @@
           "description": "Forex gave a lot of new information in today’s AMA. He covered the new Fiat Onramp, launch window for DRIP UI and Piggy Plinko, and…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/drip-af-news-may-11-6591307c8602?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-12T11:04:03.000Z",
-          "wordCount": 2117,
+          "wordCount": 2206,
           "title": "DRIP/AF News May 11",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*5b-bTaQUTWYxS3Dhffv6fg.png"
         },
@@ -200,7 +200,7 @@
           "description": "Boss Beauties and Mattel’s Barbie doll have partnered to create a line of on-chain virtual collectibles, marking Barbie’s entry into the world of Web3. The NFTs in the collection, named “Boss…",
           "link": "https://medium.com/coinmonks/mattels-barbies-meets-boss-beauties-in-unique-nft-collaboration-f2bc736764d0?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-12T11:03:59.000Z",
-          "wordCount": 2361,
+          "wordCount": 2382,
           "title": "Mattel’s Barbies Meets Boss Beauties in Unique NFT Collaboration",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*Qn_6jUwyLE5oy4_cVKD1Qg.png"
         },
@@ -220,7 +220,7 @@
           "description": "Famed NFT artist Beeple has created a buzz in the NFT community by teasing a goat-themed airdrop raffle for his NFT holders. To participate, holders must ensure that their Beeple NFT is stored in a…",
           "link": "https://medium.com/coinmonks/beeple-announces-goat-themed-nft-airdrop-for-holders-e0cc23600bd6?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-12T11:03:55.000Z",
-          "wordCount": 2204,
+          "wordCount": 2346,
           "title": "Beeple Announces Goat-Themed NFT Airdrop for Holders",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*nJDbDS4GPMum5I1UsRtEVg.png"
         }
@@ -237,7 +237,7 @@
           "description": "In a previous blog post, we discussed the importance of verifying Solidity smart contracts before deploying them onto the blockchain…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/programmatically-verifying-solidity-smart-contract-code-with-hardhat-40cc9f0b16bc?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-12T10:43:49.000Z",
-          "wordCount": 2430,
+          "wordCount": 2492,
           "title": "Programmatically Verifying Solidity Smart Contract Code with Hardhat",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*j2hHpi0VXFqiY1PPGhNCeA.jpeg"
         },
@@ -247,7 +247,7 @@
           "description": "Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. Smart contracts…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/how-hardhat-simplifies-smart-contract-verification-on-ethereum-8a6a8f02315b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-26T20:49:26.000Z",
-          "wordCount": 2610,
+          "wordCount": 2672,
           "title": "How Hardhat Simplifies Smart Contract Verification on Ethereum",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*41s_xklPCFSZLwRHmUGUDA.jpeg"
         },
@@ -257,7 +257,7 @@
           "description": "Before Start",
           "link": "https://blog.blockmagnates.com/deploy-contract-on-base-goerli-5a559cc5e82a?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-17T09:44:25.000Z",
-          "wordCount": 1798,
+          "wordCount": 1860,
           "title": "Deploy contract on Base Goerli",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:624/1*5vZE7nyBNDstx2TkGiFu-w.png"
         },
@@ -267,7 +267,7 @@
           "description": "If you are seeking a tutorial-oriented guide for Smart Contract Upgrades and Proxy Patterns, then this is the article that you have been…",
           "link": "https://blog.blockmagnates.com/revamping-the-foundation-enhancing-smart-contract-and-proxies-for-future-proof-performance-1-10-25f86c0b92d1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-14T08:46:12.000Z",
-          "wordCount": 2740,
+          "wordCount": 2802,
           "title": "Revamping the Foundation: Enhancing Smart Contract and Proxies for Future-proof Performance [1/8]",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9JaNXQ5u_A0YkhMs"
         }
