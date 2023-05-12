@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T11:09:35.971Z</id>
+    <id>urn:2023-05-12T12:21:43.859Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-12T11:09:35.971Z</updated>
+    <updated>2023-05-12T12:21:43.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nonces in Web3 Development]]></title>
+        <id>https://medium.com/p/6b88ac068bb6</id>
+        <link href="https://medium.com/coinmonks/nonces-in-web3-development-6b88ac068bb6?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-12T11:55:15.000Z</updated>
+        <summary type="html"><![CDATA[As a junior developer entering the exciting world of blockchain and Web3 development, there are numerous concepts and terminologies that…]]></summary>
+        <author>
+            <name>Kaan Kaçar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is $HERA? More about Hera Finance — DEX Aggregator]]></title>
+        <id>https://medium.com/p/d2f57ad26b67</id>
+        <link href="https://medium.com/coinmonks/what-is-hera-more-about-hera-finance-dex-aggregator-d2f57ad26b67?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-12T11:47:57.000Z</updated>
+        <summary type="html"><![CDATA[You want to buy a coin from a DEX, where 100 coins should cost $100. (1 coin = $1) Then you find out there’s 1–10% (maybe even more) price…]]></summary>
+        <author>
+            <name>Cryptowrit3r.x</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Legacy Travel Companies Look to Integrate Web3]]></title>
+        <id>https://medium.com/p/a8c1c08d2a98</id>
+        <link href="https://medium.com/coinmonks/legacy-travel-companies-look-to-integrate-web3-a8c1c08d2a98?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-12T11:47:56.000Z</updated>
+        <summary type="html"><![CDATA[Major players in the travel industry are moving towards a Web3 future with the advent of the Camino Network travel-focused blockchain…]]></summary>
+        <author>
+            <name>Crypto Navigator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing The Right Strategy To Trade And Invest]]></title>
+        <id>https://medium.com/p/7d293d4d1d49</id>
+        <link href="https://medium.com/coinmonks/choosing-the-right-strategy-to-trade-and-invest-7d293d4d1d49?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-12T11:08:47.000Z</updated>
+        <summary type="html"><![CDATA[You have been studying the charts, watching YouTube and courses videos, and reading the content from BabyPips for a few weeks or even…]]></summary>
+        <author>
+            <name>Keeley Tan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14# Let’s learn Solidity ~ Function modifiers]]></title>
         <id>https://medium.com/p/5c650e854b12</id>
@@ -26,6 +66,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meet Inscriber — the Bitcoin NFT minting tool from BlockyDevs!]]></title>
+        <id>https://medium.com/p/31076fbd21b1</id>
+        <link href="https://medium.com/coinmonks/meet-inscriber-the-bitcoin-nft-minting-tool-from-blockydevs-31076fbd21b1?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-12T11:08:04.000Z</updated>
+        <summary type="html"><![CDATA[From the previous article, you had the opportunity to learn what the process of NFT creation looks like on networks other than Bitcoin…]]></summary>
+        <author>
+            <name>BlockyDevs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Solidity Gas Golfing #3: Zero vs NonZero Storage Values]]></title>
         <id>https://medium.com/p/30a5e9697972</id>
         <link href="https://coinsbench.com/gas-golfing-3-zero-vs-nonzero-storage-values-30a5e9697972?source=rss----f1cfd22cde3e---4"/>
@@ -33,6 +83,58 @@
         <summary type="html"><![CDATA[This is a continuation of the previous two articles on gas optimization. While it does not matter and one can start from here. There are…]]></summary>
         <author>
             <name>Sudeep Sagar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRIP/AF News May 11]]></title>
+        <id>https://medium.com/p/6591307c8602</id>
+        <link href="https://medium.com/coinmonks/drip-af-news-may-11-6591307c8602?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-12T11:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Forex gave a lot of new information in today’s AMA. He covered the new Fiat Onramp, launch window for DRIP UI and Piggy Plinko, and…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>CryptoTechJester a.k.a MarcB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drip Garden and Piggy Bank: DONE]]></title>
+        <id>https://medium.com/p/ba5cbc12a482</id>
+        <link href="https://medium.com/coinmonks/drip-garden-and-piggy-bank-done-ba5cbc12a482?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-12T11:04:01.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been in Drip Garden and Piggy Bank since their respective launches. And, I had high hopes that they would be different than every…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>CryptoTechJester a.k.a MarcB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mattel’s Barbies Meets Boss Beauties in Unique NFT Collaboration]]></title>
+        <id>https://medium.com/p/f2bc736764d0</id>
+        <link href="https://medium.com/coinmonks/mattels-barbies-meets-boss-beauties-in-unique-nft-collaboration-f2bc736764d0?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-12T11:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Boss Beauties and Mattel’s Barbie doll have partnered to create a line of on-chain virtual collectibles, marking Barbie’s entry into the world of Web3. The NFTs in the collection, named “Boss…]]></summary>
+        <author>
+            <name>Crypto Navigator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games CEO Declines That Metaverse is Dead]]></title>
+        <id>https://medium.com/p/37208ea64cfd</id>
+        <link href="https://medium.com/coinmonks/epic-games-ceo-declines-that-metaverse-is-dead-37208ea64cfd?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-12T11:03:58.000Z</updated>
+        <summary type="html"><![CDATA[Epic Games CEO, Tim Sweeney, has disputed the claim made by Business Insider that the Metaverse is “dead.” In a recent tweet, Sweeney pointed out that there are 600 million users across virtual world…]]></summary>
+        <author>
+            <name>Crypto Navigator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beeple Announces Goat-Themed NFT Airdrop for Holders]]></title>
+        <id>https://medium.com/p/e0cc23600bd6</id>
+        <link href="https://medium.com/coinmonks/beeple-announces-goat-themed-nft-airdrop-for-holders-e0cc23600bd6?source=rss----721b17443fd5---4"/>
+        <updated>2023-05-12T11:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Famed NFT artist Beeple has created a buzz in the NFT community by teasing a goat-themed airdrop raffle for his NFT holders. To participate, holders must ensure that their Beeple NFT is stored in a…]]></summary>
+        <author>
+            <name>Crypto Navigator</name>
         </author>
     </entry>
     <entry>
@@ -44,111 +146,6 @@
 Continue reading on Block Magnates »]]></summary>
         <author>
             <name>Kristaps Grinbergs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Romanian Taekwon-do ITF Federation Wins at 2023 European Championship]]></title>
-        <id>https://medium.com/p/807d807fe348</id>
-        <link href="https://medium.com/coinmonks/romanian-taekwon-do-itf-federation-wins-at-2023-european-championship-807d807fe348?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-12T10:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Romania emerged victorious at the 2023 European Championship Taekwon-do ITF held in Cluj-Napoca’s BT Arena, after a week-long competition…]]></summary>
-        <author>
-            <name>Crypto Navigator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Big Money In Memecoins Is Made On The Way Down]]></title>
-        <id>https://medium.com/p/629ee8f7e788</id>
-        <link href="https://medium.com/coinmonks/the-big-money-in-memecoins-is-made-on-the-way-down-629ee8f7e788?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-12T10:24:47.000Z</updated>
-        <summary type="html"><![CDATA[Spoiler: You can become a millionaire during the pump AND the dump.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Ziva Fajfar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why People Don’t Talk About Algorand as Much as Ethereum or Bitcoin]]></title>
-        <id>https://medium.com/p/65e2b4649ba4</id>
-        <link href="https://medium.com/coinmonks/why-people-dont-talk-about-algorand-as-much-as-ethereum-or-bitcoin-65e2b4649ba4?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-12T10:21:22.000Z</updated>
-        <summary type="html"><![CDATA[￼]]></summary>
-        <author>
-            <name>Nidal K</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3: The Future of the Internet]]></title>
-        <id>https://medium.com/p/55d46ac8d565</id>
-        <link href="https://medium.com/coinmonks/what-is-web3-55d46ac8d565?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-12T10:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Hey there, Have you heard of Web3? If you haven't, don't worry, you're not alone.]]></summary>
-        <author>
-            <name>Nidal K</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise and Fall of Charlie Javice: How a Young Entrepreneur Lied Her Way into a Deal with JP…]]></title>
-        <id>https://medium.com/p/2f0f75af11a4</id>
-        <link href="https://medium.com/coinmonks/the-rise-and-fall-of-charlie-javice-how-a-young-entrepreneur-lied-her-way-into-a-deal-with-jp-2f0f75af11a4?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-12T10:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Charlie Javice dreamed of making college financial aid easier and more accessible for millions of students. She founded Frank, a start-up…]]></summary>
-        <author>
-            <name>Ash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEA brings real-world social contributions to the P2E ecosystem]]></title>
-        <id>https://medium.com/p/b0b2f06fb11a</id>
-        <link href="https://medium.com/coinmonks/dea-brings-real-world-social-contributions-to-the-p2e-ecosystem-b0b2f06fb11a?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-12T10:21:17.000Z</updated>
-        <summary type="html"><![CDATA[Key takeaways]]></summary>
-        <author>
-            <name>yourPRstrategist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto News Today — May 12, 2023]]></title>
-        <id>https://medium.com/p/e81923786d57</id>
-        <link href="https://medium.com/coinmonks/crypto-news-today-may-12-2023-e81923786d57?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-12T10:21:15.000Z</updated>
-        <summary type="html"><![CDATA[If you’re interested in keeping upwith the crypto world, then you’ve come to the right place to receive crypto news.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Crypto Beat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Fear And Greed Index Today — May 12, 2023]]></title>
-        <id>https://medium.com/p/a0fc27814b78</id>
-        <link href="https://medium.com/coinmonks/bitcoin-fear-and-greed-index-today-may-12-2023-a0fc27814b78?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-12T10:21:13.000Z</updated>
-        <summary type="html"><![CDATA[The Fear and Greed Index is a tool that helps investors and traders understand the sentiment of the crypto market. Stay up to date.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Crypto Beat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Falls Below $27,000 as U.S. Regulatory Crackdown Pressures Crypto’s Biggest Market Makers]]></title>
-        <id>https://medium.com/p/78ac6c7b07d8</id>
-        <link href="https://medium.com/coinmonks/bitcoin-falls-below-27-000-as-u-s-regulatory-crackdown-pressures-cryptos-biggest-market-makers-78ac6c7b07d8?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-12T10:21:12.000Z</updated>
-        <summary type="html"><![CDATA[The recent news about the decision of Jane Street and Jump Crypto to dial back their crypto-trading businesses in the U.S. has sent shocks.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Crypto Beat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe’s Crypto Strategy: A Focus on Useful Applications]]></title>
-        <id>https://medium.com/p/9eb0264b37cf</id>
-        <link href="https://medium.com/coinmonks/stripes-crypto-strategy-a-focus-on-useful-applications-9eb0264b37cf?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-12T10:21:11.000Z</updated>
-        <summary type="html"><![CDATA[Stripe’s cautious approach to crypto reflects the company’s commitment to finding useful applications of blockchain technology.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Crypto Beat</name>
         </author>
     </entry>
     <entry>
