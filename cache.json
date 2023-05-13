@@ -18,6 +18,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/806451979b8a",
+          "author": "Solidity Academy",
+          "description": "Solidity is a programming language used to write smart contracts on the Ethereum blockchain. As a data scientist, it can be a powerful tool…",
+          "link": "https://coinsbench.com/solidity-development-for-data-scientists-806451979b8a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-13T12:46:15.000Z",
+          "wordCount": 3001,
+          "title": "Solidity Development for Data Scientists: Unlocking the Potential of Blockchain Technology",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JW4UT5XrVpFEDHjPJCvHSA.png"
+        },
+        {
           "id": "https://medium.com/p/5c650e854b12",
           "author": "ismail",
           "description": "Function modifiers are used to add extra behavior to functions without having to rewrite the function code. In this article, we will…",
@@ -106,16 +116,6 @@
           "wordCount": 3486,
           "title": "Early prelims to become a smart contract auditor",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mLj4sDYBI1t3Zq-j-D9mZw.png"
-        },
-        {
-          "id": "https://medium.com/p/4a2d7c55a054",
-          "author": "TK Rose",
-          "description": "In Solidity, storage pointers are used to reference a storage location that contains a specific value or variable. Here is an example…",
-          "link": "https://coinsbench.com/storage-pointers-in-solidity-4a2d7c55a054?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-10T13:57:20.000Z",
-          "wordCount": 2400,
-          "title": "Storage Pointers In Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*FafCAwEL9kSd6wZ5"
         }
       ]
     },
@@ -160,7 +160,7 @@
           "description": "Binance’s decision to pull out of Canada highlights the challenges facing the cryptocurrency industry as it seeks to gain wider acceptance.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/binance-pulls-out-of-canada-amid-new-crypto-regulations-47cc1f742bad?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-13T07:09:12.000Z",
-          "wordCount": 2192,
+          "wordCount": 2120,
           "title": "Binance pulls out of Canada amid new crypto regulations",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*T7h8mCqzkC4t54eI"
         },
@@ -220,7 +220,7 @@
           "description": "Introduction",
           "link": "https://medium.com/coinmonks/mining-your-way-to-wealth-an-in-depth-look-at-the-profitability-of-crypto-mining-investments-6e892ebace23?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-13T06:26:38.000Z",
-          "wordCount": 4337,
+          "wordCount": 4340,
           "title": "“Mining Your Way to Wealth: An In-Depth Look at the Profitability of Crypto Mining Investments”",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*G5YgmieGlKdZI8efEYSYgQ.jpeg"
         }

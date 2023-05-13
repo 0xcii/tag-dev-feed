@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T12:20:34.799Z</id>
+    <id>urn:2023-05-13T13:12:23.788Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-13T12:20:34.799Z</updated>
+    <updated>2023-05-13T13:12:23.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Development for Data Scientists: Unlocking the Potential of Blockchain Technology]]></title>
+        <id>https://medium.com/p/806451979b8a</id>
+        <link href="https://coinsbench.com/solidity-development-for-data-scientists-806451979b8a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-13T12:46:15.000Z</updated>
+        <summary type="html"><![CDATA[Solidity is a programming language used to write smart contracts on the Ethereum blockchain. As a data scientist, it can be a powerful tool…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto News Today — May 13, 2023]]></title>
         <id>https://medium.com/p/c2e079c8db97</id>
@@ -250,16 +260,6 @@ One of the best ways to use Midjourney is with a technique known as additive pro
         <summary type="html"><![CDATA[Look, everybody loves money. Ok, maybe everyone except Satoshi Nakamoto, but if you have the opportunity to make an obscene amount of…]]></summary>
         <author>
             <name>Aitor Zaldua</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storage Pointers In Solidity]]></title>
-        <id>https://medium.com/p/4a2d7c55a054</id>
-        <link href="https://coinsbench.com/storage-pointers-in-solidity-4a2d7c55a054?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-10T13:57:20.000Z</updated>
-        <summary type="html"><![CDATA[In Solidity, storage pointers are used to reference a storage location that contains a specific value or variable. Here is an example…]]></summary>
-        <author>
-            <name>TK Rose</name>
         </author>
     </entry>
     <entry>
