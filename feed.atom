@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T00:59:00.827Z</id>
+    <id>urn:2023-05-13T02:03:30.437Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-13T00:59:00.827Z</updated>
+    <updated>2023-05-13T02:03:30.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -499,19 +499,6 @@ https://www.youtube.com/watch?v=WsADjAvoQjs]]></summary>
         <summary type="html"><![CDATA[If you are seeking a tutorial-oriented guide for Smart Contract Upgrades and Proxy Patterns, then this is the article that you have been…]]></summary>
         <author>
             <name>Amir Doreh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to build Reddit's NFT Marketplace using Polygon and Paper 📄]]></title>
-        <id>https://blog.developerdao.com/nft-marketplace-with-paper</id>
-        <link href="https://blog.developerdao.com/nft-marketplace-with-paper"/>
-        <updated>2023-04-13T13:07:35.000Z</updated>
-        <summary type="html"><![CDATA[gm gm gm!!!
-Indeed, in the current scenario, few NFT marketplaces cater to non-web3 users, primarily due to the poor User Experience (UX) they have to face.
-A significant barrier to entry for these users is the complexity of the Web3 ecosystem, including the need to understand concepts such as wallets, private keys, and gas fees. Moreover, the onboarding process can be tedious and confusing, with users having to set up and manage wallets and acquire cryptocurrency to interact with the marketplace. To address these issues and make NFT marketplaces more accessible to non-web3 users, it's essential to focus on improving UX.
-In this guide, youll learn how to create a marketplace on Polygon and make it easy for non-crypto natives to use the marketplace by allowing them to log in with their emai…]]></summary>
-        <author>
-            <name>Megabyte</name>
         </author>
     </entry>
 </feed>
