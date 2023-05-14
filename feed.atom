@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-14T11:08:45.833Z</id>
+    <id>urn:2023-05-14T12:20:49.764Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-14T11:08:45.833Z</updated>
+    <updated>2023-05-14T12:20:49.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Enhancing the Triple Bottom Line: Technical Strategies for Optimizing Blockchain’s…]]></title>
+        <id>https://medium.com/p/29167ac77791</id>
+        <link href="https://coinsbench.com/enhancing-the-triple-bottom-line-technical-strategies-for-optimizing-blockchains-29167ac77791?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-14T12:11:39.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, blockchain technology has emerged as a transformative force, disrupting traditional industries and revolutionizing various…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solidity Development for Data Scientists: Unlocking the Potential of Blockchain Technology]]></title>
         <id>https://medium.com/p/806451979b8a</id>
@@ -250,16 +260,6 @@ One of the best ways to use Midjourney is with a technique known as additive pro
         <summary type="html"><![CDATA[State mutability is an important concept in Solidity, which determines whether a function can change the state of a contract or not. In…]]></summary>
         <author>
             <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Early prelims to become a smart contract auditor]]></title>
-        <id>https://medium.com/p/d2479cc6b702</id>
-        <link href="https://coinsbench.com/early-prelims-to-become-a-smart-contract-auditor-d2479cc6b702?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-11T11:42:13.000Z</updated>
-        <summary type="html"><![CDATA[Look, everybody loves money. Ok, maybe everyone except Satoshi Nakamoto, but if you have the opportunity to make an obscene amount of…]]></summary>
-        <author>
-            <name>Aitor Zaldua</name>
         </author>
     </entry>
     <entry>
