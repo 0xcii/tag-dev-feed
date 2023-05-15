@@ -18,6 +18,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/3790f6160947",
+          "author": "Cayo Tor",
+          "description": "Ethereum Virtual Machine, Bytecode and Opcodes",
+          "link": "https://coinsbench.com/18-magic-number-ethernaut-explained-3790f6160947?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-15T12:29:07.000Z",
+          "wordCount": 4108,
+          "title": "#18 Magic Number —  Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*GDq96ab4beZ-NXzG.png"
+        },
+        {
+          "id": "https://medium.com/p/351506490493",
+          "author": "Cayo Tor",
+          "description": "Deterministic Address Calculation and Selfdestruct",
+          "link": "https://coinsbench.com/17-recovery-ethernaut-explained-351506490493?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-15T12:29:06.000Z",
+          "wordCount": 3137,
+          "title": "#17 Recovery-Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*PbiU8zgCGiw61XYt.png"
+        },
+        {
+          "id": "https://medium.com/p/dc76f8f2b0e3",
+          "author": "Cayo Tor",
+          "description": "Libraries, Delegatecall and Context",
+          "link": "https://coinsbench.com/16-preservation-ethernaut-explained-dc76f8f2b0e3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-15T12:29:02.000Z",
+          "wordCount": 3141,
+          "title": "#16 Preservation-Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*vb4oXIsVH-j-wdCe.png"
+        },
+        {
+          "id": "https://medium.com/p/f63a15f2d440",
+          "author": "Anjali Yadav",
+          "description": "Businesses from various sectors are realizing the potential of combining AI (artificial intelligence) and blockchain. They are seeking AI…",
+          "link": "https://coinsbench.com/blockchain-and-ai-a-guide-for-decision-makers-f63a15f2d440?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-15T12:29:00.000Z",
+          "wordCount": 3977,
+          "title": "Blockchain and AI | A Guide for Decision-Makers",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:558/1*BVhUuSv-pOtJ06E-EA77Uw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/51d8deb957a5",
+          "author": "ChainGPT",
+          "description": "How I Used an AI-Powered Chatbot to Upgrade My Solidity Smart Contract",
+          "link": "https://coinsbench.com/s6-upgrade-your-solidity-skills-with-chatgpt-an-ai-powered-assistant-51d8deb957a5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-15T12:21:27.000Z",
+          "wordCount": 7615,
+          "title": "S6: Upgrade Your Solidity Skills with ChatGPT: An AI-Powered Assistant",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:886/1*ywXxNVWSpcJr3Ltc749y2g.png"
+        },
+        {
           "id": "https://medium.com/p/29167ac77791",
           "author": "Solidity Academy",
           "description": "In recent years, blockchain technology has emerged as a transformative force, disrupting traditional industries and revolutionizing various…",
@@ -66,56 +116,6 @@
           "wordCount": 4236,
           "title": "Solidity Gas Golfing #3: Zero vs NonZero Storage Values",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c13cce36c7cc",
-          "author": "TK Rose",
-          "description": "Concern over how artificial intelligence (AI) will affect different industries, including software engineering, has grown in recent years…",
-          "link": "https://coinsbench.com/will-software-engineers-find-chatgpt-to-be-particularly-terrifying-c13cce36c7cc?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-11T13:57:18.000Z",
-          "wordCount": 2836,
-          "title": "Will software engineers find chatGPT to be particularly terrifying?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*gd6on_HUUAJTACpM"
-        },
-        {
-          "id": "https://medium.com/p/8ee480f303f2",
-          "author": "Cayo Tor",
-          "description": "Contract Storage, Private Data, and Type Casting",
-          "link": "https://coinsbench.com/12-privacy-ethernaut-explained-8ee480f303f2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-11T11:42:24.000Z",
-          "wordCount": 3695,
-          "title": "#12 Privacy— Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*pRWQy1-cPlT3T5XW.png"
-        },
-        {
-          "id": "https://medium.com/p/b7f1873609d2",
-          "author": "Cayo Tor",
-          "description": "Solidity Interfaces and Abstract Contracts",
-          "link": "https://coinsbench.com/11-elevator-ethernaut-explained-b7f1873609d2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-11T11:42:22.000Z",
-          "wordCount": 3012,
-          "title": "#11 Elevator— Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*HgOFkyyaCCAWTwag.png"
-        },
-        {
-          "id": "https://medium.com/p/a02c8006a1c0",
-          "author": "Cayo Tor",
-          "description": "Reentrancy Guard Mutex and Checks-Effects-Interactions",
-          "link": "https://coinsbench.com/10-reentrancy-ethernaut-explained-a02c8006a1c0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-11T11:42:20.000Z",
-          "wordCount": 3639,
-          "title": "#10 Reentrancy- Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*KWXD18_TAQWyEOA4.png"
-        },
-        {
-          "id": "https://medium.com/p/e47e2ca6591c",
-          "author": "ismail",
-          "description": "State mutability is an important concept in Solidity, which determines whether a function can change the state of a contract or not. In…",
-          "link": "https://coinsbench.com/13-lets-learn-solidity-state-mutability-e47e2ca6591c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-11T11:42:16.000Z",
-          "wordCount": 2683,
-          "title": "13# Let’s learn Solidity ~ State mutability",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qwVl7UuIdpAs9YIf0HWyxQ.png"
         }
       ]
     },

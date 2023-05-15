@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-15T12:24:37.416Z</id>
+    <id>urn:2023-05-15T13:15:13.138Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-15T12:24:37.416Z</updated>
+    <updated>2023-05-15T13:15:13.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#18 Magic Number —  Ethernaut Explained]]></title>
+        <id>https://medium.com/p/3790f6160947</id>
+        <link href="https://coinsbench.com/18-magic-number-ethernaut-explained-3790f6160947?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-15T12:29:07.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Virtual Machine, Bytecode and Opcodes]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#17 Recovery-Ethernaut Explained]]></title>
+        <id>https://medium.com/p/351506490493</id>
+        <link href="https://coinsbench.com/17-recovery-ethernaut-explained-351506490493?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-15T12:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Deterministic Address Calculation and Selfdestruct]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#16 Preservation-Ethernaut Explained]]></title>
+        <id>https://medium.com/p/dc76f8f2b0e3</id>
+        <link href="https://coinsbench.com/16-preservation-ethernaut-explained-dc76f8f2b0e3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-15T12:29:02.000Z</updated>
+        <summary type="html"><![CDATA[Libraries, Delegatecall and Context]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain and AI | A Guide for Decision-Makers]]></title>
+        <id>https://medium.com/p/f63a15f2d440</id>
+        <link href="https://coinsbench.com/blockchain-and-ai-a-guide-for-decision-makers-f63a15f2d440?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-15T12:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Businesses from various sectors are realizing the potential of combining AI (artificial intelligence) and blockchain. They are seeking AI…]]></summary>
+        <author>
+            <name>Anjali Yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[S6: Upgrade Your Solidity Skills with ChatGPT: An AI-Powered Assistant]]></title>
+        <id>https://medium.com/p/51d8deb957a5</id>
+        <link href="https://coinsbench.com/s6-upgrade-your-solidity-skills-with-chatgpt-an-ai-powered-assistant-51d8deb957a5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-15T12:21:27.000Z</updated>
+        <summary type="html"><![CDATA[How I Used an AI-Powered Chatbot to Upgrade My Solidity Smart Contract]]></summary>
+        <author>
+            <name>ChainGPT</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to create a DAO?]]></title>
         <id>https://medium.com/p/7383326b1a31</id>
@@ -218,56 +268,6 @@ Additive Prompting
 One of the best ways to use Midjourney is with a technique known as additive prompting. Its a simple way of writing a structured prompt, and it involves creating specific sect…]]></summary>
         <author>
             <name>Erik Knobl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will software engineers find chatGPT to be particularly terrifying?]]></title>
-        <id>https://medium.com/p/c13cce36c7cc</id>
-        <link href="https://coinsbench.com/will-software-engineers-find-chatgpt-to-be-particularly-terrifying-c13cce36c7cc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-11T13:57:18.000Z</updated>
-        <summary type="html"><![CDATA[Concern over how artificial intelligence (AI) will affect different industries, including software engineering, has grown in recent years…]]></summary>
-        <author>
-            <name>TK Rose</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#12 Privacy— Ethernaut Explained]]></title>
-        <id>https://medium.com/p/8ee480f303f2</id>
-        <link href="https://coinsbench.com/12-privacy-ethernaut-explained-8ee480f303f2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-11T11:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Contract Storage, Private Data, and Type Casting]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#11 Elevator— Ethernaut Explained]]></title>
-        <id>https://medium.com/p/b7f1873609d2</id>
-        <link href="https://coinsbench.com/11-elevator-ethernaut-explained-b7f1873609d2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-11T11:42:22.000Z</updated>
-        <summary type="html"><![CDATA[Solidity Interfaces and Abstract Contracts]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#10 Reentrancy- Ethernaut Explained]]></title>
-        <id>https://medium.com/p/a02c8006a1c0</id>
-        <link href="https://coinsbench.com/10-reentrancy-ethernaut-explained-a02c8006a1c0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-11T11:42:20.000Z</updated>
-        <summary type="html"><![CDATA[Reentrancy Guard Mutex and Checks-Effects-Interactions]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13# Let’s learn Solidity ~ State mutability]]></title>
-        <id>https://medium.com/p/e47e2ca6591c</id>
-        <link href="https://coinsbench.com/13-lets-learn-solidity-state-mutability-e47e2ca6591c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-11T11:42:16.000Z</updated>
-        <summary type="html"><![CDATA[State mutability is an important concept in Solidity, which determines whether a function can change the state of a contract or not. In…]]></summary>
-        <author>
-            <name>ismail</name>
         </author>
     </entry>
     <entry>
