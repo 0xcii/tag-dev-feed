@@ -18,6 +18,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/937e2262def5",
+          "author": "Cayo Tor",
+          "description": "Contract Hacking with XOR Bitwise Operators and Zero Code-Size",
+          "link": "https://coinsbench.com/14-gatekeeper-two-ethernaut-explained-937e2262def5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-16T10:01:49.000Z",
+          "wordCount": 2961,
+          "title": "#14 Gatekeeper Two — Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*uDcaE41suWRhRNEc.png"
+        },
+        {
+          "id": "https://medium.com/p/8aae21c09842",
+          "author": "Cayo Tor",
+          "description": "Type Casting, Implicit and Explicit Conversions",
+          "link": "https://coinsbench.com/13-gatekeeper-one-ethernaut-explained-8aae21c09842?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-16T10:01:47.000Z",
+          "wordCount": 3250,
+          "title": "#13 Gatekeeper One— Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*4yRzYokY8kxc96s0.png"
+        },
+        {
+          "id": "https://medium.com/p/7af7024b09e5",
+          "author": "ismail",
+          "description": "In Ethereum, ether is used as a native cryptocurrency for transactions. In Solidity, developers can create functions that can accept ether…",
+          "link": "https://coinsbench.com/15-lets-learn-solidity-payable-7af7024b09e5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-16T10:01:41.000Z",
+          "wordCount": 2717,
+          "title": "15# Let’s learn Solidity ~ Payable",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xKBgjnhYjRWKklbWAaateg.png"
+        },
+        {
+          "id": "https://medium.com/p/3ac2c73f5949",
+          "author": "Henry",
+          "description": "This article is part two of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in Solidity…",
+          "link": "https://coinsbench.com/building-a-coin-flip-app-in-solidity-3ac2c73f5949?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-16T10:01:39.000Z",
+          "wordCount": 4853,
+          "title": "Building a Coin Flip App in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1179/1*kDNKG5u22omt-IupinGYmw.png"
+        },
+        {
+          "id": "https://medium.com/p/d7c7f96b6fb0",
+          "author": "Henry",
+          "description": "This article is part one of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in Solidity…",
+          "link": "https://coinsbench.com/building-a-solidity-development-environment-d7c7f96b6fb0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-16T10:01:37.000Z",
+          "wordCount": 3850,
+          "title": "Building a Solidity Development Environment",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:763/1*ZaubWjWNW1WL-T_GhitIIw.png"
+        },
+        {
           "id": "https://medium.com/p/3790f6160947",
           "author": "Cayo Tor",
           "description": "Ethereum Virtual Machine, Bytecode and Opcodes",
@@ -66,56 +116,6 @@
           "wordCount": 7684,
           "title": "S6: Upgrade Your Solidity Skills with ChatGPT: An AI-Powered Assistant",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:886/1*ywXxNVWSpcJr3Ltc749y2g.png"
-        },
-        {
-          "id": "https://medium.com/p/29167ac77791",
-          "author": "Solidity Academy",
-          "description": "In recent years, blockchain technology has emerged as a transformative force, disrupting traditional industries and revolutionizing various…",
-          "link": "https://coinsbench.com/enhancing-the-triple-bottom-line-technical-strategies-for-optimizing-blockchains-29167ac77791?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-14T12:11:39.000Z",
-          "wordCount": 2964,
-          "title": "Enhancing the Triple Bottom Line: Technical Strategies for Optimizing Blockchain’s…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*SdgTz_V6eR9eGCeSegYNfw.png"
-        },
-        {
-          "id": "https://medium.com/p/806451979b8a",
-          "author": "Solidity Academy",
-          "description": "Solidity is a programming language used to write smart contracts on the Ethereum blockchain. As a data scientist, it can be a powerful tool…",
-          "link": "https://coinsbench.com/solidity-development-for-data-scientists-806451979b8a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-13T12:46:15.000Z",
-          "wordCount": 3086,
-          "title": "Solidity Development for Data Scientists: Unlocking the Potential of Blockchain Technology",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JW4UT5XrVpFEDHjPJCvHSA.png"
-        },
-        {
-          "id": "https://medium.com/p/5c650e854b12",
-          "author": "ismail",
-          "description": "Function modifiers are used to add extra behavior to functions without having to rewrite the function code. In this article, we will…",
-          "link": "https://coinsbench.com/14-lets-learn-solidity-function-modifiers-5c650e854b12?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-12T11:08:09.000Z",
-          "wordCount": 2394,
-          "title": "14# Let’s learn Solidity ~ Function modifiers",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*L_TyJ1v93qHIs4TPpGiEMA.png"
-        },
-        {
-          "id": "https://medium.com/p/e325c652b42c",
-          "author": "Favorite_blockchain_lady",
-          "description": "Solidity Functions",
-          "link": "https://coinsbench.com/solidity-functions-100-days-of-solidity-day-4-7-e325c652b42c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-12T11:08:07.000Z",
-          "wordCount": 3542,
-          "title": "Solidity Functions (100 days of solidity (Day 4–7))",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1182/1*TkNm8OSG3W_bqcnSf0G1AA.png"
-        },
-        {
-          "id": "https://medium.com/p/30a5e9697972",
-          "author": "Sudeep Sagar",
-          "description": "This is a continuation of the previous two articles on gas optimization. While it does not matter and one can start from here. There are…",
-          "link": "https://coinsbench.com/gas-golfing-3-zero-vs-nonzero-storage-values-30a5e9697972?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-12T11:07:51.000Z",
-          "wordCount": 4164,
-          "title": "Solidity Gas Golfing #3: Zero vs NonZero Storage Values",
-          "imageUrl": null
         }
       ]
     },
