@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T12:23:09.711Z</id>
+    <id>urn:2023-05-17T13:14:27.428Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-17T12:23:09.711Z</updated>
+    <updated>2023-05-17T13:14:27.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Rust Front-end for a Smart Contract Application]]></title>
+        <id>https://medium.com/p/1d0783727e6b</id>
+        <link href="https://coinsbench.com/building-a-rust-front-end-for-a-smart-contract-application-1d0783727e6b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-17T12:50:24.000Z</updated>
+        <summary type="html"><![CDATA[This article is the final part of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in…]]></summary>
+        <author>
+            <name>Henry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Smart About Smart Contracts: Automating Trust and Transparency in Transactions]]></title>
+        <id>https://medium.com/p/cbef3be40693</id>
+        <link href="https://coinsbench.com/getting-smart-about-smart-contracts-automating-trust-and-transparency-in-transactions-cbef3be40693?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-17T12:50:12.000Z</updated>
+        <summary type="html"><![CDATA[“Everything will be tokenized and connected by a blockchain one day. “
+— Fred Ehrsam, Cofounder Coinbase]]></summary>
+        <author>
+            <name>GigaStar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#15 Naught Coin— Ethernaut Explained]]></title>
+        <id>https://medium.com/p/afac57c4a9cd</id>
+        <link href="https://coinsbench.com/15-naught-coin-ethernaut-explained-afac57c4a9cd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-17T12:50:10.000Z</updated>
+        <summary type="html"><![CDATA[ERC-20 Token Standard and Libary Inheritance]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a smart contract?]]></title>
+        <id>https://medium.com/p/6895da46c46a</id>
+        <link href="https://coinsbench.com/what-is-a-smart-contract-6895da46c46a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-17T12:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Understand what a web3.0’s smart contract is with respect to a web2.0 technology]]></summary>
+        <author>
+            <name>Manoj Vignesh K M</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing A Useful Smart Contract]]></title>
+        <id>https://medium.com/p/7a36c72ea130</id>
+        <link href="https://coinsbench.com/writing-a-useful-smart-contract-7a36c72ea130?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-17T12:50:06.000Z</updated>
+        <summary type="html"><![CDATA[In this article,we will discuss about how we can hide and use sensitive information in a smart contract. How can we test it and which way…]]></summary>
+        <author>
+            <name>Taner Açıkgöz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interacting with Smart Contracts Using Rust]]></title>
+        <id>https://medium.com/p/3878c6e3287d</id>
+        <link href="https://coinsbench.com/interacting-with-smart-contracts-using-rust-3878c6e3287d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-17T12:50:04.000Z</updated>
+        <summary type="html"><![CDATA[This article is part three of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in…]]></summary>
+        <author>
+            <name>Henry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing Governance and DAOs on the Solana Network: The ULTIMATE Guide]]></title>
+        <id>https://medium.com/p/c3d9afb5f7ec</id>
+        <link href="https://coinsbench.com/implementing-governance-and-daos-on-the-solana-network-the-ultimate-guide-c3d9afb5f7ec?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-17T12:49:59.000Z</updated>
+        <summary type="html"><![CDATA[The Solana network has emerged as a high-performance blockchain platform that offers scalability and low transaction fees. With its…]]></summary>
+        <author>
+            <name>Lea Lobanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Yellow Paper Illustrated #1]]></title>
+        <id>https://medium.com/p/b2ce6bc6366d</id>
+        <link href="https://coinsbench.com/ethereum-yellow-paper-illustrated-1-b2ce6bc6366d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-17T12:49:54.000Z</updated>
+        <summary type="html"><![CDATA[As against BITCOIN, Ethereum clients can be coded in any language and many already exist. This is so because of the Yellow Paper. It is a…]]></summary>
+        <author>
+            <name>Sudeep Sagar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chia Network: The Eco-Friendly and Accessible Cryptocurrency of the Future]]></title>
+        <id>https://medium.com/p/7d18c0f2d7a4</id>
+        <link href="https://coinsbench.com/chia-network-the-eco-friendly-and-accessible-cryptocurrency-of-the-future-7d18c0f2d7a4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-17T12:49:50.000Z</updated>
+        <summary type="html"><![CDATA[Chia Network is a new type of cryptocurrency that was founded in 2017 by Bram Cohen, the creator of the BitTorrent protocol. Unlike other cryptocurrencies like Bitcoin and Ethereum, which rely on…]]></summary>
+        <author>
+            <name>Micah Ogugua</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moving Average Zone Strategy]]></title>
         <id>https://medium.com/p/28a0ec8734cb</id>
@@ -116,96 +207,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[The fetch() method in JavaScript is a modern way of making network requests, such as fetching data from an API or a server, and is a…]]></summary>
         <author>
             <name>TK Rose</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#14 Gatekeeper Two — Ethernaut Explained]]></title>
-        <id>https://medium.com/p/937e2262def5</id>
-        <link href="https://coinsbench.com/14-gatekeeper-two-ethernaut-explained-937e2262def5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-16T10:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Contract Hacking with XOR Bitwise Operators and Zero Code-Size]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#13 Gatekeeper One— Ethernaut Explained]]></title>
-        <id>https://medium.com/p/8aae21c09842</id>
-        <link href="https://coinsbench.com/13-gatekeeper-one-ethernaut-explained-8aae21c09842?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-16T10:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Type Casting, Implicit and Explicit Conversions]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15# Let’s learn Solidity ~ Payable]]></title>
-        <id>https://medium.com/p/7af7024b09e5</id>
-        <link href="https://coinsbench.com/15-lets-learn-solidity-payable-7af7024b09e5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-16T10:01:41.000Z</updated>
-        <summary type="html"><![CDATA[In Ethereum, ether is used as a native cryptocurrency for transactions. In Solidity, developers can create functions that can accept ether…]]></summary>
-        <author>
-            <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Coin Flip App in Solidity]]></title>
-        <id>https://medium.com/p/3ac2c73f5949</id>
-        <link href="https://coinsbench.com/building-a-coin-flip-app-in-solidity-3ac2c73f5949?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-16T10:01:39.000Z</updated>
-        <summary type="html"><![CDATA[This article is part two of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in Solidity…]]></summary>
-        <author>
-            <name>Henry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Solidity Development Environment]]></title>
-        <id>https://medium.com/p/d7c7f96b6fb0</id>
-        <link href="https://coinsbench.com/building-a-solidity-development-environment-d7c7f96b6fb0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-16T10:01:37.000Z</updated>
-        <summary type="html"><![CDATA[This article is part one of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in Solidity…]]></summary>
-        <author>
-            <name>Henry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#18 Magic Number —  Ethernaut Explained]]></title>
-        <id>https://medium.com/p/3790f6160947</id>
-        <link href="https://coinsbench.com/18-magic-number-ethernaut-explained-3790f6160947?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-15T12:29:07.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Virtual Machine, Bytecode and Opcodes]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#17 Recovery-Ethernaut Explained]]></title>
-        <id>https://medium.com/p/351506490493</id>
-        <link href="https://coinsbench.com/17-recovery-ethernaut-explained-351506490493?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-15T12:29:06.000Z</updated>
-        <summary type="html"><![CDATA[Deterministic Address Calculation and Selfdestruct]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#16 Preservation-Ethernaut Explained]]></title>
-        <id>https://medium.com/p/dc76f8f2b0e3</id>
-        <link href="https://coinsbench.com/16-preservation-ethernaut-explained-dc76f8f2b0e3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-15T12:29:02.000Z</updated>
-        <summary type="html"><![CDATA[Libraries, Delegatecall and Context]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain and AI | A Guide for Decision-Makers]]></title>
-        <id>https://medium.com/p/f63a15f2d440</id>
-        <link href="https://coinsbench.com/blockchain-and-ai-a-guide-for-decision-makers-f63a15f2d440?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-15T12:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Businesses from various sectors are realizing the potential of combining AI (artificial intelligence) and blockchain. They are seeking AI…]]></summary>
-        <author>
-            <name>Anjali Yadav</name>
         </author>
     </entry>
     <entry>

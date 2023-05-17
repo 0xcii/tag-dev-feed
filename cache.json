@@ -18,6 +18,96 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1d0783727e6b",
+          "author": "Henry",
+          "description": "This article is the final part of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in…",
+          "link": "https://coinsbench.com/building-a-rust-front-end-for-a-smart-contract-application-1d0783727e6b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-17T12:50:24.000Z",
+          "wordCount": 2999,
+          "title": "Building a Rust Front-end for a Smart Contract Application",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:314/1*gxVAl-_6Zb-aBKnKWPBfPw.png"
+        },
+        {
+          "id": "https://medium.com/p/cbef3be40693",
+          "author": "GigaStar",
+          "description": "“Everything will be tokenized and connected by a blockchain one day. “\n— Fred Ehrsam, Cofounder Coinbase",
+          "link": "https://coinsbench.com/getting-smart-about-smart-contracts-automating-trust-and-transparency-in-transactions-cbef3be40693?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-17T12:50:12.000Z",
+          "wordCount": 3971,
+          "title": "Getting Smart About Smart Contracts: Automating Trust and Transparency in Transactions",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:964/1*P0y6Oj3d9UBVazd__SFqUA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/afac57c4a9cd",
+          "author": "Cayo Tor",
+          "description": "ERC-20 Token Standard and Libary Inheritance",
+          "link": "https://coinsbench.com/15-naught-coin-ethernaut-explained-afac57c4a9cd?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-17T12:50:10.000Z",
+          "wordCount": 3402,
+          "title": "#15 Naught Coin— Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*qykfXKL_-AjdXxDD.png"
+        },
+        {
+          "id": "https://medium.com/p/6895da46c46a",
+          "author": "Manoj Vignesh K M",
+          "description": "Understand what a web3.0’s smart contract is with respect to a web2.0 technology",
+          "link": "https://coinsbench.com/what-is-a-smart-contract-6895da46c46a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-17T12:50:08.000Z",
+          "wordCount": 2674,
+          "title": "What is a smart contract?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*3jEBrZMQY6ujRTUj"
+        },
+        {
+          "id": "https://medium.com/p/7a36c72ea130",
+          "author": "Taner Açıkgöz",
+          "description": "In this article,we will discuss about how we can hide and use sensitive information in a smart contract. How can we test it and which way…",
+          "link": "https://coinsbench.com/writing-a-useful-smart-contract-7a36c72ea130?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-17T12:50:06.000Z",
+          "wordCount": 5023,
+          "title": "Writing A Useful Smart Contract",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:710/1*GixZp2QHvmbc4rhARYRm-A.png"
+        },
+        {
+          "id": "https://medium.com/p/3878c6e3287d",
+          "author": "Henry",
+          "description": "This article is part three of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in…",
+          "link": "https://coinsbench.com/interacting-with-smart-contracts-using-rust-3878c6e3287d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-17T12:50:04.000Z",
+          "wordCount": 6328,
+          "title": "Interacting with Smart Contracts Using Rust",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c3d9afb5f7ec",
+          "author": "Lea Lobanov",
+          "description": "The Solana network has emerged as a high-performance blockchain platform that offers scalability and low transaction fees. With its…",
+          "link": "https://coinsbench.com/implementing-governance-and-daos-on-the-solana-network-the-ultimate-guide-c3d9afb5f7ec?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-17T12:49:59.000Z",
+          "wordCount": 10461,
+          "title": "Implementing Governance and DAOs on the Solana Network: The ULTIMATE Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:877/1*MiAX52go6vYNpk0ZSjOHTg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/b2ce6bc6366d",
+          "author": "Sudeep Sagar",
+          "description": "As against BITCOIN, Ethereum clients can be coded in any language and many already exist. This is so because of the Yellow Paper. It is a…",
+          "link": "https://coinsbench.com/ethereum-yellow-paper-illustrated-1-b2ce6bc6366d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-17T12:49:54.000Z",
+          "wordCount": 1966,
+          "title": "Ethereum Yellow Paper Illustrated #1",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6xI_laPwTRPSRjfQq7C5uQ.png"
+        },
+        {
+          "id": "https://medium.com/p/7d18c0f2d7a4",
+          "author": "Micah Ogugua",
+          "description": "Chia Network is a new type of cryptocurrency that was founded in 2017 by Bram Cohen, the creator of the BitTorrent protocol. Unlike other cryptocurrencies like Bitcoin and Ethereum, which rely on…",
+          "link": "https://coinsbench.com/chia-network-the-eco-friendly-and-accessible-cryptocurrency-of-the-future-7d18c0f2d7a4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-17T12:49:50.000Z",
+          "wordCount": 3164,
+          "title": "Chia Network: The Eco-Friendly and Accessible Cryptocurrency of the Future",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:766/1*04zBGBK7wPtdLUVxTkERdw.png"
+        },
+        {
           "id": "https://medium.com/p/14311c26873d",
           "author": "TK Rose",
           "description": "The fetch() method in JavaScript is a modern way of making network requests, such as fetching data from an API or a server, and is a…",
@@ -26,96 +116,6 @@
           "wordCount": 2579,
           "title": "The `Fetch() `method in JavaScript",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*sda9mZ17LRusM-mh"
-        },
-        {
-          "id": "https://medium.com/p/937e2262def5",
-          "author": "Cayo Tor",
-          "description": "Contract Hacking with XOR Bitwise Operators and Zero Code-Size",
-          "link": "https://coinsbench.com/14-gatekeeper-two-ethernaut-explained-937e2262def5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-16T10:01:49.000Z",
-          "wordCount": 2930,
-          "title": "#14 Gatekeeper Two — Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*uDcaE41suWRhRNEc.png"
-        },
-        {
-          "id": "https://medium.com/p/8aae21c09842",
-          "author": "Cayo Tor",
-          "description": "Type Casting, Implicit and Explicit Conversions",
-          "link": "https://coinsbench.com/13-gatekeeper-one-ethernaut-explained-8aae21c09842?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-16T10:01:47.000Z",
-          "wordCount": 3164,
-          "title": "#13 Gatekeeper One— Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*4yRzYokY8kxc96s0.png"
-        },
-        {
-          "id": "https://medium.com/p/7af7024b09e5",
-          "author": "ismail",
-          "description": "In Ethereum, ether is used as a native cryptocurrency for transactions. In Solidity, developers can create functions that can accept ether…",
-          "link": "https://coinsbench.com/15-lets-learn-solidity-payable-7af7024b09e5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-16T10:01:41.000Z",
-          "wordCount": 2694,
-          "title": "15# Let’s learn Solidity ~ Payable",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xKBgjnhYjRWKklbWAaateg.png"
-        },
-        {
-          "id": "https://medium.com/p/3ac2c73f5949",
-          "author": "Henry",
-          "description": "This article is part two of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in Solidity…",
-          "link": "https://coinsbench.com/building-a-coin-flip-app-in-solidity-3ac2c73f5949?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-16T10:01:39.000Z",
-          "wordCount": 4704,
-          "title": "Building a Coin Flip App in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1179/1*kDNKG5u22omt-IupinGYmw.png"
-        },
-        {
-          "id": "https://medium.com/p/d7c7f96b6fb0",
-          "author": "Henry",
-          "description": "This article is part one of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in Solidity…",
-          "link": "https://coinsbench.com/building-a-solidity-development-environment-d7c7f96b6fb0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-16T10:01:37.000Z",
-          "wordCount": 3730,
-          "title": "Building a Solidity Development Environment",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:763/1*ZaubWjWNW1WL-T_GhitIIw.png"
-        },
-        {
-          "id": "https://medium.com/p/3790f6160947",
-          "author": "Cayo Tor",
-          "description": "Ethereum Virtual Machine, Bytecode and Opcodes",
-          "link": "https://coinsbench.com/18-magic-number-ethernaut-explained-3790f6160947?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-15T12:29:07.000Z",
-          "wordCount": 4063,
-          "title": "#18 Magic Number —  Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*GDq96ab4beZ-NXzG.png"
-        },
-        {
-          "id": "https://medium.com/p/351506490493",
-          "author": "Cayo Tor",
-          "description": "Deterministic Address Calculation and Selfdestruct",
-          "link": "https://coinsbench.com/17-recovery-ethernaut-explained-351506490493?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-15T12:29:06.000Z",
-          "wordCount": 3068,
-          "title": "#17 Recovery-Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*PbiU8zgCGiw61XYt.png"
-        },
-        {
-          "id": "https://medium.com/p/dc76f8f2b0e3",
-          "author": "Cayo Tor",
-          "description": "Libraries, Delegatecall and Context",
-          "link": "https://coinsbench.com/16-preservation-ethernaut-explained-dc76f8f2b0e3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-15T12:29:02.000Z",
-          "wordCount": 3067,
-          "title": "#16 Preservation-Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*vb4oXIsVH-j-wdCe.png"
-        },
-        {
-          "id": "https://medium.com/p/f63a15f2d440",
-          "author": "Anjali Yadav",
-          "description": "Businesses from various sectors are realizing the potential of combining AI (artificial intelligence) and blockchain. They are seeking AI…",
-          "link": "https://coinsbench.com/blockchain-and-ai-a-guide-for-decision-makers-f63a15f2d440?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-15T12:29:00.000Z",
-          "wordCount": 3833,
-          "title": "Blockchain and AI | A Guide for Decision-Makers",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:558/1*BVhUuSv-pOtJ06E-EA77Uw.jpeg"
         }
       ]
     },
@@ -237,7 +237,7 @@
           "description": "Rectangle DAO repository",
           "link": "https://blog.blockmagnates.com/how-to-create-a-dao-7383326b1a31?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-15T12:02:07.000Z",
-          "wordCount": 11465,
+          "wordCount": 11466,
           "title": "How to create a DAO?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BoATWaUmHd7PtfLd5zggDw.png"
         },
@@ -257,7 +257,7 @@
           "description": "Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. Smart contracts…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/how-hardhat-simplifies-smart-contract-verification-on-ethereum-8a6a8f02315b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-26T20:49:26.000Z",
-          "wordCount": 2757,
+          "wordCount": 2758,
           "title": "How Hardhat Simplifies Smart Contract Verification on Ethereum",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*41s_xklPCFSZLwRHmUGUDA.jpeg"
         }
