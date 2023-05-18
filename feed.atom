@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-18T08:14:27.452Z</id>
+    <id>urn:2023-05-18T09:11:35.897Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-18T08:14:27.452Z</updated>
+    <updated>2023-05-18T09:11:35.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Decode transaction payload for any cross-dex arbitrage bot]]></title>
+        <id>https://medium.com/p/525c0d44ea11</id>
+        <link href="https://coinsbench.com/decode-transaction-payload-for-any-cross-dex-arbitrage-bot-525c0d44ea11?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-18T08:32:05.000Z</updated>
+        <summary type="html"><![CDATA[If you are building your own bot or trying to reverse engineer other bots you definitely need a tool or knowledge to decode the transaction…]]></summary>
+        <author>
+            <name>NonBinaryDeveloper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compressed NFTs]]></title>
+        <id>https://medium.com/p/c7dfba6672cf</id>
+        <link href="https://coinsbench.com/compressed-nfts-c7dfba6672cf?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-18T08:32:03.000Z</updated>
+        <summary type="html"><![CDATA[What’s the excitement about?]]></summary>
+        <author>
+            <name>Brett Hornung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#27 Good Samaritan— Ethernaut Explained]]></title>
+        <id>https://medium.com/p/78084d07e0e6</id>
+        <link href="https://coinsbench.com/27-good-samaritan-ethernaut-explained-78084d07e0e6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-18T08:32:01.000Z</updated>
+        <summary type="html"><![CDATA[Custom Errors, Interfaces and Unsafe Control Flows]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Make Money While You Sleep With Oyori: The Revolutionary DApp Powering Automated Income"]]></title>
         <id>https://medium.com/p/9288d222d874</id>
@@ -187,36 +217,6 @@ The post ERC-5573 multi-asset token contracts appeared first on Crypto Market Po
         <summary type="html"><![CDATA[This article is part three of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in…]]></summary>
         <author>
             <name>Henry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing Governance and DAOs on the Solana Network: The ULTIMATE Guide]]></title>
-        <id>https://medium.com/p/c3d9afb5f7ec</id>
-        <link href="https://coinsbench.com/implementing-governance-and-daos-on-the-solana-network-the-ultimate-guide-c3d9afb5f7ec?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-17T12:49:59.000Z</updated>
-        <summary type="html"><![CDATA[The Solana network has emerged as a high-performance blockchain platform that offers scalability and low transaction fees. With its…]]></summary>
-        <author>
-            <name>Lea Lobanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Yellow Paper Illustrated #1]]></title>
-        <id>https://medium.com/p/b2ce6bc6366d</id>
-        <link href="https://coinsbench.com/ethereum-yellow-paper-illustrated-1-b2ce6bc6366d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-17T12:49:54.000Z</updated>
-        <summary type="html"><![CDATA[As against BITCOIN, Ethereum clients can be coded in any language and many already exist. This is so because of the Yellow Paper. It is a…]]></summary>
-        <author>
-            <name>Sudeep Sagar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chia Network: The Eco-Friendly and Accessible Cryptocurrency of the Future]]></title>
-        <id>https://medium.com/p/7d18c0f2d7a4</id>
-        <link href="https://coinsbench.com/chia-network-the-eco-friendly-and-accessible-cryptocurrency-of-the-future-7d18c0f2d7a4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-17T12:49:50.000Z</updated>
-        <summary type="html"><![CDATA[Chia Network is a new type of cryptocurrency that was founded in 2017 by Bram Cohen, the creator of the BitTorrent protocol. Unlike other cryptocurrencies like Bitcoin and Ethereum, which rely on…]]></summary>
-        <author>
-            <name>Micah Ogugua</name>
         </author>
     </entry>
     <entry>
