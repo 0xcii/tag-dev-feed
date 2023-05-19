@@ -29,6 +29,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/ca1ca70a0f0a",
+          "author": "Waweru",
+          "description": "A smart contract is a self-replicating piece of code, normally built on blockchains that enforce the terms of an agreement, using…",
+          "link": "https://coinsbench.com/smart-contracts-ca1ca70a0f0a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-19T17:56:20.000Z",
+          "wordCount": 4040,
+          "title": "Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:432/1*yRdfott-8ozUIaK76GJRDQ.png"
+        },
+        {
+          "id": "https://medium.com/p/2c794643b19e",
+          "author": "Cayo Tor",
+          "description": "Tx.origin and msg.sender, Function Modifiers, Block.timestamp",
+          "link": "https://coinsbench.com/28-gatekeeper-three-ethernaut-explained-2c794643b19e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-19T17:55:37.000Z",
+          "wordCount": 3610,
+          "title": "#28 Gatekeeper Three— Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*QpsRR0r8xY7dJYM4.png"
+        },
+        {
+          "id": "https://medium.com/p/afa1429e83da",
+          "author": "Anuj Agarwal",
+          "description": "Valuing cryptocurrencies and digital tokens can be challenging, as they are often not backed by tangible assets and their prices can be…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/valuation-of-cyptocurriencies-using-gpt3-afa1429e83da?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-19T17:55:33.000Z",
+          "wordCount": 3151,
+          "title": "Valuation of CyptoCurriencies using GPT3",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HclIUVB5AnVhdTffyclApA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/2ee090c89997",
+          "author": "Cayo Tor",
+          "description": "Storage Array Structures and ABI Specification",
+          "link": "https://coinsbench.com/19-alien-codex-ethernaut-explained-2ee090c89997?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-19T17:55:29.000Z",
+          "wordCount": 3847,
+          "title": "#19 Alien Codex-Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*omqGfapPgfjswNg21IuZgw.png"
+        },
+        {
+          "id": "https://medium.com/p/9b010c277199",
+          "author": "Lea Lobanov",
+          "description": "Ethereum is the second-largest blockchain network in the world, with a market capitalization of over $200 billion as of April 2023. The…",
+          "link": "https://coinsbench.com/exploring-the-top-layer-2-blockchain-networks-on-ethereum-pros-cons-and-use-cases-for-developers-9b010c277199?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-19T17:55:27.000Z",
+          "wordCount": 4726,
+          "title": "Exploring the Top Layer 2 Blockchain Networks on Ethereum: Pros, Cons, and Use Cases for Developers",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1078/1*G5aA4zf6PgIhVM1K57IOHA.png"
+        },
+        {
           "id": "https://medium.com/p/525c0d44ea11",
           "author": "NonBinaryDeveloper",
           "description": "If you are building your own bot or trying to reverse engineer other bots you definitely need a tool or knowledge to decode the transaction…",
@@ -77,56 +127,6 @@
           "wordCount": 3060,
           "title": "Building a Rust Front-end for a Smart Contract Application",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:314/1*gxVAl-_6Zb-aBKnKWPBfPw.png"
-        },
-        {
-          "id": "https://medium.com/p/cbef3be40693",
-          "author": "GigaStar",
-          "description": "“Everything will be tokenized and connected by a blockchain one day. “\n— Fred Ehrsam, Cofounder Coinbase",
-          "link": "https://coinsbench.com/getting-smart-about-smart-contracts-automating-trust-and-transparency-in-transactions-cbef3be40693?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-17T12:50:12.000Z",
-          "wordCount": 3847,
-          "title": "Getting Smart About Smart Contracts: Automating Trust and Transparency in Transactions",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:964/1*P0y6Oj3d9UBVazd__SFqUA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/afac57c4a9cd",
-          "author": "Cayo Tor",
-          "description": "ERC-20 Token Standard and Libary Inheritance",
-          "link": "https://coinsbench.com/15-naught-coin-ethernaut-explained-afac57c4a9cd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-17T12:50:10.000Z",
-          "wordCount": 3475,
-          "title": "#15 Naught Coin— Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*qykfXKL_-AjdXxDD.png"
-        },
-        {
-          "id": "https://medium.com/p/6895da46c46a",
-          "author": "Manoj Vignesh K M",
-          "description": "Understand what a web3.0’s smart contract is with respect to a web2.0 technology",
-          "link": "https://coinsbench.com/what-is-a-smart-contract-6895da46c46a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-17T12:50:08.000Z",
-          "wordCount": 2623,
-          "title": "What is a smart contract?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*3jEBrZMQY6ujRTUj"
-        },
-        {
-          "id": "https://medium.com/p/7a36c72ea130",
-          "author": "Taner Açıkgöz",
-          "description": "In this article,we will discuss about how we can hide and use sensitive information in a smart contract. How can we test it and which way…",
-          "link": "https://coinsbench.com/writing-a-useful-smart-contract-7a36c72ea130?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-17T12:50:06.000Z",
-          "wordCount": 4888,
-          "title": "Writing A Useful Smart Contract",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:710/1*GixZp2QHvmbc4rhARYRm-A.png"
-        },
-        {
-          "id": "https://medium.com/p/3878c6e3287d",
-          "author": "Henry",
-          "description": "This article is part three of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in…",
-          "link": "https://coinsbench.com/interacting-with-smart-contracts-using-rust-3878c6e3287d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-17T12:50:04.000Z",
-          "wordCount": 6289,
-          "title": "Interacting with Smart Contracts Using Rust",
-          "imageUrl": null
         }
       ]
     },
@@ -141,7 +141,7 @@
           "description": "Kujira network is the network that is designed to turn you from a crypto beginner to a crypto expert to a whale! Kujira has stolen the…",
           "link": "https://medium.com/coinmonks/what-is-kuji-kujira-the-blockchain-for-real-yield-5fc1d560540e?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-19T16:42:40.000Z",
-          "wordCount": 3570,
+          "wordCount": 3603,
           "title": "What is $KUJI? Kujira — the Blockchain for Real Yield",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YWRhaPstpDyjISHAk60ung.jpeg"
         },

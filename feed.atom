@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-19T17:10:28.134Z</id>
+    <id>urn:2023-05-19T18:14:03.254Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-19T17:10:28.134Z</updated>
+    <updated>2023-05-19T18:14:03.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smart Contracts]]></title>
+        <id>https://medium.com/p/ca1ca70a0f0a</id>
+        <link href="https://coinsbench.com/smart-contracts-ca1ca70a0f0a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-19T17:56:20.000Z</updated>
+        <summary type="html"><![CDATA[A smart contract is a self-replicating piece of code, normally built on blockchains that enforce the terms of an agreement, using…]]></summary>
+        <author>
+            <name>Waweru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#28 Gatekeeper Three— Ethernaut Explained]]></title>
+        <id>https://medium.com/p/2c794643b19e</id>
+        <link href="https://coinsbench.com/28-gatekeeper-three-ethernaut-explained-2c794643b19e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-19T17:55:37.000Z</updated>
+        <summary type="html"><![CDATA[Tx.origin and msg.sender, Function Modifiers, Block.timestamp]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valuation of CyptoCurriencies using GPT3]]></title>
+        <id>https://medium.com/p/afa1429e83da</id>
+        <link href="https://coinsbench.com/valuation-of-cyptocurriencies-using-gpt3-afa1429e83da?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-19T17:55:33.000Z</updated>
+        <summary type="html"><![CDATA[Valuing cryptocurrencies and digital tokens can be challenging, as they are often not backed by tangible assets and their prices can be…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Anuj Agarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#19 Alien Codex-Ethernaut Explained]]></title>
+        <id>https://medium.com/p/2ee090c89997</id>
+        <link href="https://coinsbench.com/19-alien-codex-ethernaut-explained-2ee090c89997?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-19T17:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Storage Array Structures and ABI Specification]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Top Layer 2 Blockchain Networks on Ethereum: Pros, Cons, and Use Cases for Developers]]></title>
+        <id>https://medium.com/p/9b010c277199</id>
+        <link href="https://coinsbench.com/exploring-the-top-layer-2-blockchain-networks-on-ethereum-pros-cons-and-use-cases-for-developers-9b010c277199?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-19T17:55:27.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum is the second-largest blockchain network in the world, with a market capitalization of over $200 billion as of April 2023. The…]]></summary>
+        <author>
+            <name>Lea Lobanov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is $KUJI? Kujira — the Blockchain for Real Yield]]></title>
         <id>https://medium.com/p/5fc1d560540e</id>
@@ -179,57 +230,6 @@ The post ERC-5573 multi-asset token contracts appeared first on Crypto Market Po
         <link href="https://coinsbench.com/building-a-rust-front-end-for-a-smart-contract-application-1d0783727e6b?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-17T12:50:24.000Z</updated>
         <summary type="html"><![CDATA[This article is the final part of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in…]]></summary>
-        <author>
-            <name>Henry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Smart About Smart Contracts: Automating Trust and Transparency in Transactions]]></title>
-        <id>https://medium.com/p/cbef3be40693</id>
-        <link href="https://coinsbench.com/getting-smart-about-smart-contracts-automating-trust-and-transparency-in-transactions-cbef3be40693?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-17T12:50:12.000Z</updated>
-        <summary type="html"><![CDATA[“Everything will be tokenized and connected by a blockchain one day. “
-— Fred Ehrsam, Cofounder Coinbase]]></summary>
-        <author>
-            <name>GigaStar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#15 Naught Coin— Ethernaut Explained]]></title>
-        <id>https://medium.com/p/afac57c4a9cd</id>
-        <link href="https://coinsbench.com/15-naught-coin-ethernaut-explained-afac57c4a9cd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-17T12:50:10.000Z</updated>
-        <summary type="html"><![CDATA[ERC-20 Token Standard and Libary Inheritance]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a smart contract?]]></title>
-        <id>https://medium.com/p/6895da46c46a</id>
-        <link href="https://coinsbench.com/what-is-a-smart-contract-6895da46c46a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-17T12:50:08.000Z</updated>
-        <summary type="html"><![CDATA[Understand what a web3.0’s smart contract is with respect to a web2.0 technology]]></summary>
-        <author>
-            <name>Manoj Vignesh K M</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing A Useful Smart Contract]]></title>
-        <id>https://medium.com/p/7a36c72ea130</id>
-        <link href="https://coinsbench.com/writing-a-useful-smart-contract-7a36c72ea130?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-17T12:50:06.000Z</updated>
-        <summary type="html"><![CDATA[In this article,we will discuss about how we can hide and use sensitive information in a smart contract. How can we test it and which way…]]></summary>
-        <author>
-            <name>Taner Açıkgöz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interacting with Smart Contracts Using Rust]]></title>
-        <id>https://medium.com/p/3878c6e3287d</id>
-        <link href="https://coinsbench.com/interacting-with-smart-contracts-using-rust-3878c6e3287d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-17T12:50:04.000Z</updated>
-        <summary type="html"><![CDATA[This article is part three of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in…]]></summary>
         <author>
             <name>Henry</name>
         </author>
