@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-20T09:10:19.487Z</id>
+    <id>urn:2023-05-20T10:11:24.696Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-20T09:10:19.487Z</updated>
+    <updated>2023-05-20T10:11:24.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Programming for Blockchain based Healthcare Solutions]]></title>
+        <id>https://medium.com/p/7f8092dc3787</id>
+        <link href="https://coinsbench.com/solidity-programming-for-blockchain-based-healthcare-solutions-7f8092dc3787?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-20T09:57:45.000Z</updated>
+        <summary type="html"><![CDATA[This article is aimed at experienced developers in Solidity and Python who are interested in building blockchain-based solutions for the…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Recursion” is a challenging JavaScript]]></title>
+        <id>https://medium.com/p/aaaa10756f92</id>
+        <link href="https://coinsbench.com/recursion-is-a-challenging-javascript-aaaa10756f92?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-20T09:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Recursion is a powerful programming technique in which a function calls itself to solve a problem. In JavaScript, recursion can be used to…]]></summary>
+        <author>
+            <name>TK Rose</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Payments App Strike Expands to Over 65 Countries from Three]]></title>
         <id>https://medium.com/p/6728d9f0fa1</id>
@@ -239,26 +259,6 @@ Security best practices ad…]]></summary>
 The post ERC-5573 multi-asset token contracts appeared first on Crypto Market Pool.]]></summary>
         <author>
             <name>Crypto Market Pool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Struct in solidity]]></title>
-        <id>https://medium.com/p/ec56d2434e5c</id>
-        <link href="https://coinsbench.com/struct-in-solidity-ec56d2434e5c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-17T13:31:56.000Z</updated>
-        <summary type="html"><![CDATA[In Solidity, a `struct` is a user-defined data type that allows you to define a custom data structure consisting of multiple variables of…]]></summary>
-        <author>
-            <name>TK Rose</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Rust Front-end for a Smart Contract Application]]></title>
-        <id>https://medium.com/p/1d0783727e6b</id>
-        <link href="https://coinsbench.com/building-a-rust-front-end-for-a-smart-contract-application-1d0783727e6b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-17T12:50:24.000Z</updated>
-        <summary type="html"><![CDATA[This article is the final part of a 4 part series on creating, building, deploying, and creating a UI for smart contract applications in…]]></summary>
-        <author>
-            <name>Henry</name>
         </author>
     </entry>
     <entry>
