@@ -29,6 +29,76 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/eb008bc2a103",
+          "author": "Cayo Tor",
+          "description": "ERC20 Standards, Approve() and Unsafe Swaps",
+          "link": "https://coinsbench.com/23-dex-two-ethernaut-explained-eb008bc2a103?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-22T21:15:32.000Z",
+          "wordCount": 4248,
+          "title": "#23 Dex Two— Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*7i47YGf96ereZrd4.png"
+        },
+        {
+          "id": "https://medium.com/p/980d8dae3c8",
+          "author": "Cayo Tor",
+          "description": "ERC20 Standards, Approve() and Unsafe Swaps",
+          "link": "https://coinsbench.com/22-dex-ethernaut-explained-980d8dae3c8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-22T21:15:30.000Z",
+          "wordCount": 5109,
+          "title": "#22 Dex— Ethernaut Explained",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8bKog7ENryWJUxNHYO2EPw.png"
+        },
+        {
+          "id": "https://medium.com/p/1157a0562580",
+          "author": "Judith Manyo Ogar",
+          "description": "contract account will be able to send transactions to the blockchain",
+          "link": "https://coinsbench.com/eip-4337-account-abstraction-for-beginners-1157a0562580?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-22T21:15:28.000Z",
+          "wordCount": 3073,
+          "title": "EIP 4337 Account Abstraction -For beginners",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*iVpgqc45JeUldNH5n6fRxg.png"
+        },
+        {
+          "id": "https://medium.com/p/a552d2ca0fb1",
+          "author": "Favorite_blockchain_lady",
+          "description": "100 days of solidity (Day 4–7)",
+          "link": "https://coinsbench.com/solidity-fallback-function-and-function-overloading-a552d2ca0fb1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-22T21:14:58.000Z",
+          "wordCount": 3450,
+          "title": "Solidity fallback function and function overloading",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1179/1*D3DY12Jp6GpRLQDvA2dlCw.png"
+        },
+        {
+          "id": "https://medium.com/p/5a94f098e24f",
+          "author": "Web3verse Academy",
+          "description": "Smart contracts are codes deployed on a blockchain network that can self-execute and enforce the terms of the contract. These contracts are…",
+          "link": "https://coinsbench.com/web3-security-wizardry-exploring-solidity-code-audits-for-smart-contracts-5a94f098e24f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-22T21:14:56.000Z",
+          "wordCount": 3079,
+          "title": "Web3 Security Wizardry: Exploring Solidity Code Audits for Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*yEPn4u4022DxFA9N.png"
+        },
+        {
+          "id": "https://medium.com/p/ed40913d643e",
+          "author": "Shubham Yadav",
+          "description": "Introduction: Smart contracts are self-executing agreements with predefined conditions and terms. They run on blockchain networks and…",
+          "link": "https://coinsbench.com/verify-smart-contract-on-etherscan-using-hardhat-ed40913d643e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-22T21:14:44.000Z",
+          "wordCount": 2781,
+          "title": "Verify Smart Contract On Etherscan Using Hardhat",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZrawI2S22ED5hJYL_Vv38g.png"
+        },
+        {
+          "id": "https://medium.com/p/bafb87a45566",
+          "author": "Aitor Zaldua",
+          "description": "“Dear Sr,",
+          "link": "https://coinsbench.com/first-look-at-the-smart-contract-hacking-course-bafb87a45566?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-22T21:14:42.000Z",
+          "wordCount": 3832,
+          "title": "First look at the Smart Contract Hacking Course",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*PH94GTnbN7M7aIxIwPdqYQ.png"
+        },
+        {
           "id": "https://medium.com/p/2065f894af3",
           "author": "Web3verse Academy",
           "description": "Blockchain technology is a decentralized, distributed database that can store any kind of transactional data in a secure and transparent way. Originally invented for Bitcoin, the technology has…",
@@ -57,76 +127,6 @@
           "wordCount": 2321,
           "title": "“Recursion” is a challenging JavaScript",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*EoqeFbnLZ_KaC7Pl"
-        },
-        {
-          "id": "https://medium.com/p/ca1ca70a0f0a",
-          "author": "Waweru",
-          "description": "A smart contract is a self-replicating piece of code, normally built on blockchains that enforce the terms of an agreement, using…",
-          "link": "https://coinsbench.com/smart-contracts-ca1ca70a0f0a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-19T17:56:20.000Z",
-          "wordCount": 3995,
-          "title": "Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:432/1*yRdfott-8ozUIaK76GJRDQ.png"
-        },
-        {
-          "id": "https://medium.com/p/2c794643b19e",
-          "author": "Cayo Tor",
-          "description": "Tx.origin and msg.sender, Function Modifiers, Block.timestamp",
-          "link": "https://coinsbench.com/28-gatekeeper-three-ethernaut-explained-2c794643b19e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-19T17:55:37.000Z",
-          "wordCount": 3735,
-          "title": "#28 Gatekeeper Three— Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*QpsRR0r8xY7dJYM4.png"
-        },
-        {
-          "id": "https://medium.com/p/afa1429e83da",
-          "author": "Anuj Agarwal",
-          "description": "Valuing cryptocurrencies and digital tokens can be challenging, as they are often not backed by tangible assets and their prices can be…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/valuation-of-cyptocurriencies-using-gpt3-afa1429e83da?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-19T17:55:33.000Z",
-          "wordCount": 3166,
-          "title": "Valuation of CyptoCurriencies using GPT3",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HclIUVB5AnVhdTffyclApA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/2ee090c89997",
-          "author": "Cayo Tor",
-          "description": "Storage Array Structures and ABI Specification",
-          "link": "https://coinsbench.com/19-alien-codex-ethernaut-explained-2ee090c89997?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-19T17:55:29.000Z",
-          "wordCount": 3975,
-          "title": "#19 Alien Codex-Ethernaut Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*omqGfapPgfjswNg21IuZgw.png"
-        },
-        {
-          "id": "https://medium.com/p/9b010c277199",
-          "author": "Lea Lobanov",
-          "description": "Ethereum is the second-largest blockchain network in the world, with a market capitalization of over $200 billion as of April 2023. The…",
-          "link": "https://coinsbench.com/exploring-the-top-layer-2-blockchain-networks-on-ethereum-pros-cons-and-use-cases-for-developers-9b010c277199?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-19T17:55:27.000Z",
-          "wordCount": 4650,
-          "title": "Exploring the Top Layer 2 Blockchain Networks on Ethereum: Pros, Cons, and Use Cases for Developers",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1078/1*G5aA4zf6PgIhVM1K57IOHA.png"
-        },
-        {
-          "id": "https://medium.com/p/525c0d44ea11",
-          "author": "NonBinaryDeveloper",
-          "description": "If you are building your own bot or trying to reverse engineer other bots you definitely need a tool or knowledge to decode the transaction…",
-          "link": "https://coinsbench.com/decode-transaction-payload-for-any-cross-dex-arbitrage-bot-525c0d44ea11?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-18T08:32:05.000Z",
-          "wordCount": 2282,
-          "title": "Decode transaction payload for any cross-dex arbitrage bot",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1172/1*ZEH9m2xkL5hmg7SbPl0Krg.png"
-        },
-        {
-          "id": "https://medium.com/p/c7dfba6672cf",
-          "author": "Brett Hornung",
-          "description": "What’s the excitement about?",
-          "link": "https://coinsbench.com/compressed-nfts-c7dfba6672cf?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-18T08:32:03.000Z",
-          "wordCount": 2600,
-          "title": "Compressed NFTs",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*EU5rluU6W0RQ0jWYamS0SQ.jpeg"
         }
       ]
     },
@@ -151,7 +151,7 @@
           "description": "Greetings, ladies and gentlemen! The era of zkSync on the mainnet has finally arrived, and it is now welcoming builders and developers by…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/altcoins-could-realistically-go-100x-612f73136128?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-22T13:41:53.000Z",
-          "wordCount": 2027,
+          "wordCount": 2014,
           "title": "Altcoins Could REALISTICALLY Go 100X",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1109/1*M7zfCi5IesTQK5-ACmCDGw.png"
         },
@@ -242,6 +242,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/1d81569a7833",
+          "author": "Luis Soares",
+          "description": "The design patterns in programming are proven solutions to common problems, and the state machine is one such design pattern, particularly…",
+          "link": "https://blog.blockmagnates.com/state-machine-design-pattern-in-solidity-1d81569a7833?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-05-22T21:03:30.000Z",
+          "wordCount": 3448,
+          "title": "State Machine Design Pattern in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1CGswhmgbNd4o7GHY9wqsA.jpeg"
+        },
         {
           "id": "https://medium.com/p/7383326b1a31",
           "author": "Boom",

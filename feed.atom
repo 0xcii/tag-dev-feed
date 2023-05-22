@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-22T21:10:09.531Z</id>
+    <id>urn:2023-05-22T22:10:48.195Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-22T21:10:09.531Z</updated>
+    <updated>2023-05-22T22:10:48.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#23 Dex Two— Ethernaut Explained]]></title>
+        <id>https://medium.com/p/eb008bc2a103</id>
+        <link href="https://coinsbench.com/23-dex-two-ethernaut-explained-eb008bc2a103?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-22T21:15:32.000Z</updated>
+        <summary type="html"><![CDATA[ERC20 Standards, Approve() and Unsafe Swaps]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#22 Dex— Ethernaut Explained]]></title>
+        <id>https://medium.com/p/980d8dae3c8</id>
+        <link href="https://coinsbench.com/22-dex-ethernaut-explained-980d8dae3c8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-22T21:15:30.000Z</updated>
+        <summary type="html"><![CDATA[ERC20 Standards, Approve() and Unsafe Swaps]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIP 4337 Account Abstraction -For beginners]]></title>
+        <id>https://medium.com/p/1157a0562580</id>
+        <link href="https://coinsbench.com/eip-4337-account-abstraction-for-beginners-1157a0562580?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-22T21:15:28.000Z</updated>
+        <summary type="html"><![CDATA[contract account will be able to send transactions to the blockchain]]></summary>
+        <author>
+            <name>Judith Manyo Ogar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity fallback function and function overloading]]></title>
+        <id>https://medium.com/p/a552d2ca0fb1</id>
+        <link href="https://coinsbench.com/solidity-fallback-function-and-function-overloading-a552d2ca0fb1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-22T21:14:58.000Z</updated>
+        <summary type="html"><![CDATA[100 days of solidity (Day 4–7)]]></summary>
+        <author>
+            <name>Favorite_blockchain_lady</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Security Wizardry: Exploring Solidity Code Audits for Smart Contracts]]></title>
+        <id>https://medium.com/p/5a94f098e24f</id>
+        <link href="https://coinsbench.com/web3-security-wizardry-exploring-solidity-code-audits-for-smart-contracts-5a94f098e24f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-22T21:14:56.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts are codes deployed on a blockchain network that can self-execute and enforce the terms of the contract. These contracts are…]]></summary>
+        <author>
+            <name>Web3verse Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verify Smart Contract On Etherscan Using Hardhat]]></title>
+        <id>https://medium.com/p/ed40913d643e</id>
+        <link href="https://coinsbench.com/verify-smart-contract-on-etherscan-using-hardhat-ed40913d643e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-22T21:14:44.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: Smart contracts are self-executing agreements with predefined conditions and terms. They run on blockchain networks and…]]></summary>
+        <author>
+            <name>Shubham Yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First look at the Smart Contract Hacking Course]]></title>
+        <id>https://medium.com/p/bafb87a45566</id>
+        <link href="https://coinsbench.com/first-look-at-the-smart-contract-hacking-course-bafb87a45566?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-22T21:14:42.000Z</updated>
+        <summary type="html"><![CDATA[“Dear Sr,]]></summary>
+        <author>
+            <name>Aitor Zaldua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State Machine Design Pattern in Solidity]]></title>
+        <id>https://medium.com/p/1d81569a7833</id>
+        <link href="https://blog.blockmagnates.com/state-machine-design-pattern-in-solidity-1d81569a7833?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-05-22T21:03:30.000Z</updated>
+        <summary type="html"><![CDATA[The design patterns in programming are proven solutions to common problems, and the state machine is one such design pattern, particularly…]]></summary>
+        <author>
+            <name>Luis Soares</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Impact of Bitcoin on the Real Estate Market]]></title>
         <id>https://medium.com/p/b2afe41ed39f</id>
@@ -164,57 +244,6 @@ https://www.youtube.com/watch?v=qq4DV71Thjw]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smart Contracts]]></title>
-        <id>https://medium.com/p/ca1ca70a0f0a</id>
-        <link href="https://coinsbench.com/smart-contracts-ca1ca70a0f0a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-19T17:56:20.000Z</updated>
-        <summary type="html"><![CDATA[A smart contract is a self-replicating piece of code, normally built on blockchains that enforce the terms of an agreement, using…]]></summary>
-        <author>
-            <name>Waweru</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#28 Gatekeeper Three— Ethernaut Explained]]></title>
-        <id>https://medium.com/p/2c794643b19e</id>
-        <link href="https://coinsbench.com/28-gatekeeper-three-ethernaut-explained-2c794643b19e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-19T17:55:37.000Z</updated>
-        <summary type="html"><![CDATA[Tx.origin and msg.sender, Function Modifiers, Block.timestamp]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valuation of CyptoCurriencies using GPT3]]></title>
-        <id>https://medium.com/p/afa1429e83da</id>
-        <link href="https://coinsbench.com/valuation-of-cyptocurriencies-using-gpt3-afa1429e83da?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-19T17:55:33.000Z</updated>
-        <summary type="html"><![CDATA[Valuing cryptocurrencies and digital tokens can be challenging, as they are often not backed by tangible assets and their prices can be…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Anuj Agarwal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#19 Alien Codex-Ethernaut Explained]]></title>
-        <id>https://medium.com/p/2ee090c89997</id>
-        <link href="https://coinsbench.com/19-alien-codex-ethernaut-explained-2ee090c89997?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-19T17:55:29.000Z</updated>
-        <summary type="html"><![CDATA[Storage Array Structures and ABI Specification]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Top Layer 2 Blockchain Networks on Ethereum: Pros, Cons, and Use Cases for Developers]]></title>
-        <id>https://medium.com/p/9b010c277199</id>
-        <link href="https://coinsbench.com/exploring-the-top-layer-2-blockchain-networks-on-ethereum-pros-cons-and-use-cases-for-developers-9b010c277199?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-19T17:55:27.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum is the second-largest blockchain network in the world, with a market capitalization of over $200 billion as of April 2023. The…]]></summary>
-        <author>
-            <name>Lea Lobanov</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Secure Your Smart Contract with Diligence Fuzzing]]></title>
         <id>https://blog.developerdao.com/secure-your-smart-contract-with-diligence-fuzzing</id>
         <link href="https://blog.developerdao.com/secure-your-smart-contract-with-diligence-fuzzing"/>
@@ -224,26 +253,6 @@ On top of that, the human eye is not perfect and might still miss critical bugs;
 Security best practices ad…]]></summary>
         <author>
             <name>Tobias Vogel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decode transaction payload for any cross-dex arbitrage bot]]></title>
-        <id>https://medium.com/p/525c0d44ea11</id>
-        <link href="https://coinsbench.com/decode-transaction-payload-for-any-cross-dex-arbitrage-bot-525c0d44ea11?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-18T08:32:05.000Z</updated>
-        <summary type="html"><![CDATA[If you are building your own bot or trying to reverse engineer other bots you definitely need a tool or knowledge to decode the transaction…]]></summary>
-        <author>
-            <name>NonBinaryDeveloper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compressed NFTs]]></title>
-        <id>https://medium.com/p/c7dfba6672cf</id>
-        <link href="https://coinsbench.com/compressed-nfts-c7dfba6672cf?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-18T08:32:03.000Z</updated>
-        <summary type="html"><![CDATA[What’s the excitement about?]]></summary>
-        <author>
-            <name>Brett Hornung</name>
         </author>
     </entry>
     <entry>
