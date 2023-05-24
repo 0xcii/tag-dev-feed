@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-24T08:14:49.961Z</id>
+    <id>urn:2023-05-24T09:11:36.901Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-24T08:14:49.961Z</updated>
+    <updated>2023-05-24T09:11:36.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Picking Up Pennies from Uninitialised Implementation Contracts]]></title>
+        <id>https://medium.com/p/ecfa5592d58</id>
+        <link href="https://coinsbench.com/picking-up-pennies-from-uninitialised-implementation-contracts-ecfa5592d58?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-24T08:55:26.000Z</updated>
+        <summary type="html"><![CDATA[NB: article was written in Feb 2023, albeit published in May 2023]]></summary>
+        <author>
+            <name>crewmateJ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#25 Motorbike— Ethernaut Explained]]></title>
+        <id>https://medium.com/p/bcec27ae306</id>
+        <link href="https://coinsbench.com/25-motorbike-ethernaut-explained-bcec27ae306?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-24T08:55:23.000Z</updated>
+        <summary type="html"><![CDATA[Delegatecall, Proxy Patterns and Upgradable Contracts]]></summary>
+        <author>
+            <name>Cayo Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celo Camp — Weeks 3 and 4]]></title>
+        <id>https://medium.com/p/449533b4e73c</id>
+        <link href="https://coinsbench.com/celo-camp-weeks-3-and-4-449533b4e73c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-24T08:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Ecoland’s Celo Camp update! In this series, I share the progress Kevo and I have been doing, the learnings we’ve had, and how…]]></summary>
+        <author>
+            <name>joaovwfreire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing the Power of Solidity: Events and Their Wide Range of Use Cases]]></title>
+        <id>https://medium.com/p/caff4fd3579</id>
+        <link href="https://coinsbench.com/unleashing-the-power-of-solidity-events-and-their-wide-range-of-use-cases-caff4fd3579?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-24T08:55:04.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, the programming language of choice for developing smart contracts on the Etherem blockchain, offers a multitude of features that…]]></summary>
+        <author>
+            <name>Jeffery Oke-Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pioneering Blockchain: Unveiling the Journey of ETH]]></title>
+        <id>https://medium.com/p/e58cbfabcdfa</id>
+        <link href="https://coinsbench.com/the-pioneering-blockchain-unveiling-the-journey-of-eth-e58cbfabcdfa?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-24T08:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: In the ever-evolving realm of blockchain technology, a significant platform named Ethereum (ETH) emerged in 2015, captivating…]]></summary>
+        <author>
+            <name>Navajyoth Krishnan D</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whitelisting Using Merkle Tree In Solidity]]></title>
+        <id>https://medium.com/p/2328b713d99b</id>
+        <link href="https://coinsbench.com/whitelisting-using-merkle-tree-in-solidity-2328b713d99b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-24T08:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: A Merkle tree, also known as a hash tree, is a data structure that is commonly used in cryptography and computer science. It…]]></summary>
+        <author>
+            <name>Shubham Yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Strings Format]]></title>
+        <id>https://medium.com/p/ab941cbfca73</id>
+        <link href="https://coinsbench.com/python-strings-format-ab941cbfca73?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-24T08:53:49.000Z</updated>
+        <summary type="html"><![CDATA[Python Strings Format Methods And Types]]></summary>
+        <author>
+            <name>Mrexamples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter and Blockchain — Flutter Dapp [2023]]]></title>
+        <id>https://medium.com/p/eb265aac0487</id>
+        <link href="https://coinsbench.com/flutter-and-blockchain-flutter-dapp-2023-eb265aac0487?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-24T08:53:43.000Z</updated>
+        <summary type="html"><![CDATA[So if you are facing RPCError: got code -32700 with msg “Invalid signature v value”, this tutorial is for you Lets see how can we fix it.]]></summary>
+        <author>
+            <name>Krutik Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana: A Revolutionary Blockchain Platform Pioneering Scalability and Speed]]></title>
+        <id>https://medium.com/p/ec5810143ffb</id>
+        <link href="https://coinsbench.com/solana-a-revolutionary-blockchain-platform-pioneering-scalability-and-speed-ec5810143ffb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-24T08:53:31.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-evolving landscape of blockchain technology, Solana has emerged as a leading platform with its cutting-edge approach to…]]></summary>
+        <author>
+            <name>Navajyoth Krishnan D</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Fixed-Term Staking Smart Contract with Solidity]]></title>
+        <id>https://medium.com/p/5fe913377e8d</id>
+        <link href="https://coinsbench.com/building-a-fixed-term-staking-smart-contract-with-solidity-5fe913377e8d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-24T08:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts have revolutionized the world of decentralized finance (DeFi) by enabling trustless and transparent interactions on the…]]></summary>
+        <author>
+            <name>Burgossrodrigo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best NFT Trading Signals]]></title>
         <id>https://medium.com/p/9f7e4791ba0d</id>
@@ -107,76 +207,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#23 Dex Two— Ethernaut Explained]]></title>
-        <id>https://medium.com/p/eb008bc2a103</id>
-        <link href="https://coinsbench.com/23-dex-two-ethernaut-explained-eb008bc2a103?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-22T21:15:32.000Z</updated>
-        <summary type="html"><![CDATA[ERC20 Standards, Approve() and Unsafe Swaps]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#22 Dex— Ethernaut Explained]]></title>
-        <id>https://medium.com/p/980d8dae3c8</id>
-        <link href="https://coinsbench.com/22-dex-ethernaut-explained-980d8dae3c8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-22T21:15:30.000Z</updated>
-        <summary type="html"><![CDATA[ERC20 Standards, Approve() and Unsafe Swaps]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EIP 4337 Account Abstraction -For beginners]]></title>
-        <id>https://medium.com/p/1157a0562580</id>
-        <link href="https://coinsbench.com/eip-4337-account-abstraction-for-beginners-1157a0562580?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-22T21:15:28.000Z</updated>
-        <summary type="html"><![CDATA[contract account will be able to send transactions to the blockchain]]></summary>
-        <author>
-            <name>Judith Manyo Ogar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity fallback function and function overloading]]></title>
-        <id>https://medium.com/p/a552d2ca0fb1</id>
-        <link href="https://coinsbench.com/solidity-fallback-function-and-function-overloading-a552d2ca0fb1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-22T21:14:58.000Z</updated>
-        <summary type="html"><![CDATA[100 days of solidity (Day 4–7)]]></summary>
-        <author>
-            <name>Favorite_blockchain_lady</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Security Wizardry: Exploring Solidity Code Audits for Smart Contracts]]></title>
-        <id>https://medium.com/p/5a94f098e24f</id>
-        <link href="https://coinsbench.com/web3-security-wizardry-exploring-solidity-code-audits-for-smart-contracts-5a94f098e24f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-22T21:14:56.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts are codes deployed on a blockchain network that can self-execute and enforce the terms of the contract. These contracts are…]]></summary>
-        <author>
-            <name>Web3verse Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verify Smart Contract On Etherscan Using Hardhat]]></title>
-        <id>https://medium.com/p/ed40913d643e</id>
-        <link href="https://coinsbench.com/verify-smart-contract-on-etherscan-using-hardhat-ed40913d643e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-22T21:14:44.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: Smart contracts are self-executing agreements with predefined conditions and terms. They run on blockchain networks and…]]></summary>
-        <author>
-            <name>Shubham Yadav</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First look at the Smart Contract Hacking Course]]></title>
-        <id>https://medium.com/p/bafb87a45566</id>
-        <link href="https://coinsbench.com/first-look-at-the-smart-contract-hacking-course-bafb87a45566?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-22T21:14:42.000Z</updated>
-        <summary type="html"><![CDATA[“Dear Sr,]]></summary>
-        <author>
-            <name>Aitor Zaldua</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[State Machine Design Pattern in Solidity]]></title>
         <id>https://medium.com/p/1d81569a7833</id>
         <link href="https://blog.blockmagnates.com/state-machine-design-pattern-in-solidity-1d81569a7833?source=rss----18fa961f1eff--solidity"/>
@@ -184,36 +214,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[The design patterns in programming are proven solutions to common problems, and the state machine is one such design pattern, particularly…]]></summary>
         <author>
             <name>Luis Soares</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Revolutionizing Industries: The Power of Blockchain Technology”]]></title>
-        <id>https://medium.com/p/2065f894af3</id>
-        <link href="https://coinsbench.com/revolutionizing-industries-the-power-of-blockchain-technology-2065f894af3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-21T09:57:48.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology is a decentralized, distributed database that can store any kind of transactional data in a secure and transparent way. Originally invented for Bitcoin, the technology has…]]></summary>
-        <author>
-            <name>Web3verse Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Programming for Blockchain based Healthcare Solutions]]></title>
-        <id>https://medium.com/p/7f8092dc3787</id>
-        <link href="https://coinsbench.com/solidity-programming-for-blockchain-based-healthcare-solutions-7f8092dc3787?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-20T09:57:45.000Z</updated>
-        <summary type="html"><![CDATA[This article is aimed at experienced developers in Solidity and Python who are interested in building blockchain-based solutions for the…]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Recursion” is a challenging JavaScript]]></title>
-        <id>https://medium.com/p/aaaa10756f92</id>
-        <link href="https://coinsbench.com/recursion-is-a-challenging-javascript-aaaa10756f92?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-20T09:32:37.000Z</updated>
-        <summary type="html"><![CDATA[Recursion is a powerful programming technique in which a function calls itself to solve a problem. In JavaScript, recursion can be used to…]]></summary>
-        <author>
-            <name>TK Rose</name>
         </author>
     </entry>
     <entry>
