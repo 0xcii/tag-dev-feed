@@ -29,14 +29,24 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a6b3acacb749",
+          "author": "Solidity Academy",
+          "description": "",
+          "link": "https://coinsbench.com/building-a-pinterest-like-application-with-solidity-a6b3acacb749?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-25T09:57:23.000Z",
+          "wordCount": null,
+          "title": "Building a Pinterest-Like Application with Solidity: Storing Each PIN Image as an NFT",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/23bd15b2bb0",
           "author": "Soumyadeep Mandal",
-          "description": "Blockchain technology has brought about a new era of decentralized applications, but with the increasing traffic on the blockchain…",
+          "description": "",
           "link": "https://coinsbench.com/scaling-applications-on-polygon-network-with-smart-contract-technology-23bd15b2bb0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-24T09:35:49.000Z",
-          "wordCount": 4678,
+          "wordCount": null,
           "title": "Scaling Applications on Polygon Network with Smart Contract Technology",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Yaw9499OEnd_wX43t7r8bQ.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/9cf783afdf81",
@@ -44,17 +54,17 @@
           "description": "Greetings, developers and blockchain enthusiasts! In the following article, I’m going to explain a piece of code for a simple ERC20 token…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/devsnippets-2-smart-contract-erc20-solidity-9cf783afdf81?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-24T09:35:35.000Z",
-          "wordCount": 3155,
+          "wordCount": null,
           "title": "DevSnippets #2: Smart Contract ERC20 — Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1014/1*OIJjBcdaDJ_GMPC9JZQNqg.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/bfa3798754",
           "author": "Rahul Sharma",
-          "description": "The ERC1271 standard is a proposal for a smart contract interface that allows contracts to verify the authenticity of a message signed by…",
+          "description": "",
           "link": "https://coinsbench.com/erc1271-implementation-bfa3798754?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-24T09:35:29.000Z",
-          "wordCount": 3905,
+          "wordCount": null,
           "title": "ERC1271 Example",
           "imageUrl": null
         },
@@ -64,7 +74,7 @@
           "description": "Difficulty level: Medium, requires some bridging across multiple networks",
           "link": "https://coinsbench.com/ultimate-guide-to-layerzero-airdrop-f382be62ea63?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-24T09:35:23.000Z",
-          "wordCount": 8829,
+          "wordCount": 8806,
           "title": "Ultimate guide to LayerZero Airdrop",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*O0cA2JvnoUmHahC4r7I_rA.png"
         },
@@ -74,19 +84,19 @@
           "description": "The Master of the Rainbow Collection\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/a-super-technical-indicator-the-rainbow-323a8867ca53?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-24T09:34:57.000Z",
-          "wordCount": 4392,
+          "wordCount": null,
           "title": "A Super Technical Indicator- The Rainbow",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jdruBpMcXkStRQ85DpQl3g.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/d4073b6671ea",
           "author": "Alexe Spataru",
-          "description": "Hello dear reader, if you clicked on this article, it means you want to build something for the decentralized world. But for it to have an…",
+          "description": "",
           "link": "https://coinsbench.com/diamond-foundry-a-unified-toolset-for-web3-builders-d4073b6671ea?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-24T09:34:13.000Z",
-          "wordCount": 5912,
+          "wordCount": null,
           "title": "Diamond Foundry — A Unified Toolset for Web3 Builders",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZKnNH5mKn5n_fBQdgooLBw.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/b7bd77237ec2",
@@ -94,9 +104,9 @@
           "description": "As part of my DeFi protocol by code articles and newsletter I am going to open a section about how do I prepare for the audits.\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/struggling-to-prepare-for-a-smart-contract-audit-b7bd77237ec2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-24T09:33:20.000Z",
-          "wordCount": 6208,
+          "wordCount": null,
           "title": "Struggling to prepare for a Smart Contract audit? Check how I prepared for Gravita protocol audit",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:951/1*aOcbtq4Fi-jfxjnSrokvUQ.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/6d0c7d623160",
@@ -104,7 +114,7 @@
           "description": "Damn Vulnerable DeFi (DVDeFi) is a platform that provides a series of challenges designed to assess the security and reliability of…",
           "link": "https://coinsbench.com/damn-vulnerable-defi-unstoppable-6d0c7d623160?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-24T09:32:52.000Z",
-          "wordCount": 4284,
+          "wordCount": 4299,
           "title": "Damn Vulnerable DeFi “Unstoppable”",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1061/1*3cu_f0Oz4dQgGPbAi67KQA.png"
         },
@@ -114,19 +124,9 @@
           "description": "First time you audit a project from Code4rena and it doesn’t compile? Learn to troubleshoot it.\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/auditing-a-project-in-code4rena-find-out-how-the-very-first-steps-look-like-694ed907564e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-24T09:31:31.000Z",
-          "wordCount": 3562,
+          "wordCount": 3500,
           "title": "Auditing a project in Code4rena: Find out how the very first steps look like.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NWdH2E5h-YAvNXUOFTzv5g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e83a58cef1be",
-          "author": "Michael Humor",
-          "description": "The LLaMA models released by Meta AI were trained with different transformer architectures. For example, the 7B model has 6.7B parameters…",
-          "link": "https://coinsbench.com/what-are-the-llama-model-weights-e83a58cef1be?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-24T09:30:36.000Z",
-          "wordCount": 3419,
-          "title": "What are the LLaMA model weights?",
-          "imageUrl": null
         }
       ]
     },
@@ -136,104 +136,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/215ba5fe56ac",
-          "author": "Trader ₿",
-          "description": "Cryptocurrency Prices Rise as Hong Kong Seeks to Become a Global Crypto Hub and Allows Retail Investors to Trade Certain Crypto Assets…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/hong-kongs-securities-regulator-greenlights-retail-crypto-trading-boosting-bitcoin-above-27-000-215ba5fe56ac?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-25T08:53:10.000Z",
-          "wordCount": 2079,
-          "title": "Hong Kong’s Securities Regulator Greenlights Retail Crypto Trading, Boosting Bitcoin Above $27,000",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*KXbpRuqUnSYYsCKA"
+          "id": "https://medium.com/p/bb5242d85187",
+          "author": "Christopher H. Loo, MD-PhD",
+          "description": "Nicole Bellisle (Living Leaders)\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/reimagining-leadership-and-business-a-deep-dive-with-nicole-bellisle-bb5242d85187?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-25T09:19:01.000Z",
+          "wordCount": 2029,
+          "title": "Reimagining Leadership and Business: A Deep Dive with Nicole Bellisle",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8-Su0L-LNYDMIGjA7GjU6w.jpeg"
         },
         {
-          "id": "https://medium.com/p/769311bfa693",
-          "author": "Michael Macaulay",
-          "description": "Pioneering Decentralized Blockchain Indexing to Build a Better Internet\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-graph-reading-data-the-web3-way-769311bfa693?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-25T08:53:03.000Z",
-          "wordCount": 1933,
-          "title": "The Graph: Reading Data, The Web3 Way",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rfgZEhhbS-thCDciKyTesQ.jpeg"
+          "id": "https://medium.com/p/8c1c779cd5a8",
+          "author": "Anton Chigurh",
+          "description": "Decentralized Finance (DeFi) has emerged as a disruptive force in the financial industry, leveraging blockchain technology and smart…",
+          "link": "https://medium.com/coinmonks/unlock-your-financial-potential-with-defi-a-guide-to-profiting-from-the-future-of-finance-8c1c779cd5a8?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-25T09:16:35.000Z",
+          "wordCount": 4078,
+          "title": "Unlock Your Financial Potential with DeFi: A Guide to Profiting from the Future of Finance.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:710/1*Yq4tiz8QqSfKF27hlg-q9w.png"
         },
         {
-          "id": "https://medium.com/p/bb2f197882dd",
-          "author": "PVMihalache",
-          "description": "UK Crypto FUD\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-binance-market-limited-ban-in-the-uk-made-me-sell-my-coin-tokens-bb2f197882dd?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-25T08:52:36.000Z",
-          "wordCount": 2240,
-          "title": "The Binance Market Limited ban in the UK made me sell my $COIN tokens!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:474/0*060Se0t77b5FdPvS"
+          "id": "https://medium.com/p/cba6bfbead64",
+          "author": "cryptoinspector",
+          "description": "I go over the best investments to buy now in 2023 and that goes with crypto as an asset class today.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/best-cryptos-to-buy-now-you-have-a-chance-to-be-a-millionaire-cba6bfbead64?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-25T09:16:27.000Z",
+          "wordCount": 1906,
+          "title": "Best Cryptos To Buy Now! You Have A Chance To Be A Millionaire!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KUI3g6Ya77rjcfDtLxSufw.png"
         },
         {
-          "id": "https://medium.com/p/ee967d5606b1",
-          "author": "Johnwege",
-          "description": "Bitcoin is the future. We have only begun to see a small glimpse of its true potential. It has the ability to not only change your life…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-reasons-to-be-bearish-ee967d5606b1?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-25T08:52:28.000Z",
-          "wordCount": 2156,
-          "title": "Bitcoin: Reasons to be Bearish",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mO9plGog9Xu8pFaQ1zSW6Q.jpeg"
+          "id": "https://medium.com/p/4c586ba6d96c",
+          "author": "Randall Campbell",
+          "description": "Wading in the water, the curious bear stumbled upon a strange object floating in the river. It was a glowing orb, pulsating with a…",
+          "link": "https://medium.com/coinmonks/blockchain-fairytales-token-gravity-4c586ba6d96c?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-25T09:15:19.000Z",
+          "wordCount": 2629,
+          "title": "Blockchain FairyTales: Token Gravity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*b2Y3_hqtvaOk2LvY"
         },
         {
-          "id": "https://medium.com/p/a6053378ea69",
-          "author": "Durwin Ho",
-          "description": "Heard of the Doomsday clock?",
-          "link": "https://medium.com/coinmonks/we-are-just-90-seconds-away-from-midnight-on-the-doomsday-clock-a6053378ea69?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-25T08:52:23.000Z",
-          "wordCount": 3083,
-          "title": "We are just 90 seconds away from midnight on the Doomsday clock!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*4Gtwbd6OkYXgi-qE.jpg"
+          "id": "https://medium.com/p/9474f7fdbe38",
+          "author": "Zahir black",
+          "description": "Dark pool trading has gained popularity in the financial industry for its ability to provide enhanced privacy, reduced market impact, and…",
+          "link": "https://medium.com/coinmonks/8-ways-to-overcome-the-challenges-and-limitations-of-dark-pool-trading-9474f7fdbe38?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-25T09:15:01.000Z",
+          "wordCount": 4239,
+          "title": "8 Ways to Overcome the Challenges and Limitations of Dark Pool Trading",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*RhcgEpMhyCES4Kmk.jpg"
         },
         {
-          "id": "https://medium.com/p/13801086bb4a",
-          "author": "Karan Naipal",
-          "description": "Hi there, today we will be talking about Bitcoin. This is something you need to know, because this will be the future currency. We have…",
-          "link": "https://medium.com/coinmonks/bitcoin-unleashing-the-future-of-digital-finance-13801086bb4a?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-25T08:49:04.000Z",
-          "wordCount": 4865,
-          "title": "“Bitcoin: Unleashing the Future of Digital Finance”",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*fvj0qou_r0pbU2OIe1dFNw.jpeg"
+          "id": "https://medium.com/p/dbb776b17c77",
+          "author": "Solidity.io",
+          "description": "The decentralized finance ( DeFi) sector has experienced explosive growth in recent years, prompting many businesses to consider entering…",
+          "link": "https://medium.com/coinmonks/hiring-a-defi-development-company-vs-in-house-team-a-comparative-study-dbb776b17c77?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-25T09:08:17.000Z",
+          "wordCount": 5195,
+          "title": "Hiring a DeFi Development Company vs. In-House Team: A Comparative Study",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*6ro9WkdStg_7Imi2.jpg"
         },
         {
-          "id": "https://medium.com/p/ccf92df223d6",
-          "author": "Keeley Tan",
-          "description": "Find out more about me here (YouTube/Instagram/Telegram): https://www.linktr.ee/kt_fx\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/amc-amzn-se-weekly-stocks-technical-analysis-fundamental-headline-news-ccf92df223d6?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-25T08:48:55.000Z",
-          "wordCount": 2183,
-          "title": "#AMC #AMZN #SE Weekly Stocks Technical Analysis + Fundamental Headline News",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*hMu-uTUUEilHq8M8"
+          "id": "https://medium.com/p/154c56045832",
+          "author": "Cryptowrit3r.x",
+          "description": "Carbify is a project that combines an upcoming macro narrative (carbon offsetting or carbon neutrality) and the Regenerative Finance…",
+          "link": "https://medium.com/coinmonks/new-crypto-narrative-ahead-carbify-leading-refi-154c56045832?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-25T09:08:11.000Z",
+          "wordCount": 3913,
+          "title": "New Crypto Narrative Ahead — Carbify leading ReFi",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9JuvOJggJNXbF7C-JHaI7w.jpeg"
         },
         {
-          "id": "https://medium.com/p/9e2d0450db1",
-          "author": "Luis Carlos Morgado",
-          "description": "Discover the future of business: dive into the universe of the Brazilian Cryptographic Industry and unveil its perspectives for the next…",
-          "link": "https://medium.com/coinmonks/the-brazilian-crypto-industry-perspectives-and-expectations-for-the-next-decade-in-the-global-9e2d0450db1?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-25T08:48:46.000Z",
-          "wordCount": 6252,
-          "title": "The Brazilian Crypto Industry: Perspectives and Expectations for the Next Decade in the Global…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:500/0*0r_o5YdzUGOwH4IS.JPG"
+          "id": "https://medium.com/p/ef0d18f5d5d2",
+          "author": "Christian Jensen",
+          "description": "A beginner’s guide to the hottest new trend in crypto and NFTs\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/nfts-on-bitcoin-the-no-tech-introduction-to-ordinals-ef0d18f5d5d2?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-25T09:08:02.000Z",
+          "wordCount": 1979,
+          "title": "NFTs on Bitcoin: The No-Tech Introduction to Ordinals",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*bCT5Di4Nf-UXTNEw"
         },
         {
-          "id": "https://medium.com/p/6015d114fd63",
-          "author": "Crypto Beat",
-          "description": "Governor Ron DeSantis’ endorsement of Bitcoin and digital currencies represents a significant development in both the political and crypto.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/us-presidential-candidate-desantis-embraces-bitcoin-and-digital-currencies-6015d114fd63?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-25T08:48:36.000Z",
-          "wordCount": 2168,
-          "title": "US Presidential Candidate DeSantis Embraces Bitcoin and Digital Currencies",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*yre5GW3PUcg_Oor7"
+          "id": "https://medium.com/p/72b8f3de29ce",
+          "author": "Velvet.Capital",
+          "description": "Learn & earn today! Start Your Velvet.Capital x Zealy Adventure: https://zealy.io/c/velvetcapital/questboard",
+          "link": "https://medium.com/coinmonks/velvet-capital-x-zealy-campaign-now-live-earn-rewards-airdrop-bonuses-today-72b8f3de29ce?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-25T09:07:58.000Z",
+          "wordCount": 3258,
+          "title": "Velvet.Capital x Zealy Campaign Now Live — Earn Rewards & Airdrop Bonuses Today",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1075/1*uE5nHMnLZW2qzXpd_3ofqA.jpeg"
         },
         {
-          "id": "https://medium.com/p/aac3335f0c4b",
-          "author": "Jimhalpert",
-          "description": "The NFT revolution is in full swing, propelling the market cap to new heights, nearing a staggering $600 billion. This surge is driven by…",
-          "link": "https://medium.com/coinmonks/developing-nft-marketplaces-in-different-niches-aac3335f0c4b?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-05-25T08:48:35.000Z",
-          "wordCount": 6791,
-          "title": "Developing NFT Marketplaces in Different Niches in 2023",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lSBQxuQUHLlgEmpeUn7drA.jpeg"
+          "id": "https://medium.com/p/3ca0b652cdeb",
+          "author": "Solidity.io",
+          "description": "The demand for blockchain technology and smart contracts has skyrocketed in recent years, leading to a growing need for skilled Solidity…",
+          "link": "https://medium.com/coinmonks/5-crucial-questions-to-ask-when-hiring-a-solidity-development-company-3ca0b652cdeb?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-05-25T09:07:42.000Z",
+          "wordCount": 4116,
+          "title": "5 Crucial Questions to Ask When Hiring a Solidity Development Company",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*GSU8e5UrHPq5t8Ef.jpg"
         }
       ]
     },
@@ -248,19 +248,19 @@
           "description": "The design patterns in programming are proven solutions to common problems, and the state machine is one such design pattern, particularly…",
           "link": "https://blog.blockmagnates.com/state-machine-design-pattern-in-solidity-1d81569a7833?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-22T21:03:30.000Z",
-          "wordCount": 3529,
+          "wordCount": 3574,
           "title": "State Machine Design Pattern in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1CGswhmgbNd4o7GHY9wqsA.jpeg"
         },
         {
           "id": "https://medium.com/p/7383326b1a31",
           "author": "Boom",
-          "description": "Rectangle DAO repository",
+          "description": "",
           "link": "https://blog.blockmagnates.com/how-to-create-a-dao-7383326b1a31?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-15T12:02:07.000Z",
-          "wordCount": 11381,
+          "wordCount": null,
           "title": "How to create a DAO?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BoATWaUmHd7PtfLd5zggDw.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/40cc9f0b16bc",
@@ -268,9 +268,9 @@
           "description": "In a previous blog post, we discussed the importance of verifying Solidity smart contracts before deploying them onto the blockchain…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/programmatically-verifying-solidity-smart-contract-code-with-hardhat-40cc9f0b16bc?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-12T10:43:49.000Z",
-          "wordCount": 2579,
+          "wordCount": null,
           "title": "Programmatically Verifying Solidity Smart Contract Code with Hardhat",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*j2hHpi0VXFqiY1PPGhNCeA.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/8a6a8f02315b",
@@ -278,9 +278,9 @@
           "description": "Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. Smart contracts…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/how-hardhat-simplifies-smart-contract-verification-on-ethereum-8a6a8f02315b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-04-26T20:49:26.000Z",
-          "wordCount": 2756,
+          "wordCount": null,
           "title": "How Hardhat Simplifies Smart Contract Verification on Ethereum",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*41s_xklPCFSZLwRHmUGUDA.jpeg"
+          "imageUrl": null
         }
       ]
     },
