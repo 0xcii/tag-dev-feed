@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-26T12:22:06.303Z</id>
+    <id>urn:2023-05-26T13:13:59.174Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-26T12:22:06.303Z</updated>
+    <updated>2023-05-26T13:13:59.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Upgradable Smart Contracts with Hardhat: A Comprehensive Guide]]></title>
+        <id>https://medium.com/p/1ef53b9decf2</id>
+        <link href="https://coinsbench.com/building-upgradable-smart-contracts-with-hardhat-a-comprehensive-guide-1ef53b9decf2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-26T12:18:19.000Z</updated>
+        <author>
+            <name>Chek Zida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Your Own Ethereum Wallet Using Elliptic Curve]]></title>
+        <id>https://medium.com/p/50f5f2b5cbf1</id>
+        <link href="https://coinsbench.com/create-your-own-ethereum-wallet-using-elliptic-curve-50f5f2b5cbf1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-26T12:18:17.000Z</updated>
+        <author>
+            <name>Shubham Yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Gas Golfing #2: Packing Variables]]></title>
+        <id>https://medium.com/p/45b570cbb96f</id>
+        <link href="https://coinsbench.com/gas-golfing-2-45b570cbb96f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-26T12:18:15.000Z</updated>
+        <author>
+            <name>Sudeep Sagar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Decoding MiCA: EU’s Newly Adopted Crypto Regulations]]></title>
         <id>https://medium.com/p/f8b52704fdc6</id>
@@ -30,6 +57,7 @@
         <id>https://medium.com/p/6fd0c76f1cf1</id>
         <link href="https://medium.com/coinmonks/pepe-rockets-to-the-moon-dogecoin-challenger-surges-27x-since-april-anticipating-a-jaw-dropping-6fd0c76f1cf1?source=rss----721b17443fd5---4"/>
         <updated>2023-05-26T11:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Jamshed Khan</name>
         </author>
@@ -59,6 +87,7 @@
         <id>https://medium.com/p/c16dcbf1f2dc</id>
         <link href="https://medium.com/coinmonks/the-synergy-between-crypto-and-ai-for-enhanced-security-c16dcbf1f2dc?source=rss----721b17443fd5---4"/>
         <updated>2023-05-26T10:38:26.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, both the crypto and AI fields have experienced significant advancements. Crypto witnessed the rise of DeFi and DeSci…]]></summary>
         <author>
             <name>Wild-West.Trade</name>
         </author>
@@ -68,6 +97,7 @@
         <id>https://medium.com/p/bdfa60b75a44</id>
         <link href="https://medium.com/coinmonks/binance-dex-clone-script-building-your-own-decentralized-exchange-bdfa60b75a44?source=rss----721b17443fd5---4"/>
         <updated>2023-05-26T10:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Building a decentralized exchange using Binance DEX clone script provides convenient and efficient for entering the world of decentralized.]]></summary>
         <author>
             <name>Cathrine Williams</name>
         </author>
@@ -77,6 +107,7 @@
         <id>https://medium.com/p/a9fe2bf481a9</id>
         <link href="https://medium.com/coinmonks/curious-cryptos-commentary-26th-may-2023-exodus-a9fe2bf481a9?source=rss----721b17443fd5---4"/>
         <updated>2023-05-26T10:38:22.000Z</updated>
+        <summary type="html"><![CDATA[tl;dr]]></summary>
         <author>
             <name>Mark Timmis</name>
         </author>
@@ -86,6 +117,7 @@
         <id>https://medium.com/p/e16364fe9405</id>
         <link href="https://medium.com/coinmonks/stealthex-has-been-integrated-into-cross-chain-swap-aggregator-chainzap-by-ysl-io-e16364fe9405?source=rss----721b17443fd5---4"/>
         <updated>2023-05-26T10:38:17.000Z</updated>
+        <summary type="html"><![CDATA[StealthEX, an instant crypto exchange, is glad to announce its strategic partnership with YSL.IO, a DeFi 3.0 protocol and a cross-chain…]]></summary>
         <author>
             <name>StealthEX.io</name>
         </author>
@@ -161,35 +193,6 @@
         <updated>2023-05-24T09:35:49.000Z</updated>
         <author>
             <name>Soumyadeep Mandal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevSnippets #2: Smart Contract ERC20 — Solidity]]></title>
-        <id>https://medium.com/p/9cf783afdf81</id>
-        <link href="https://coinsbench.com/devsnippets-2-smart-contract-erc20-solidity-9cf783afdf81?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-24T09:35:35.000Z</updated>
-        <summary type="html"><![CDATA[Greetings, developers and blockchain enthusiasts! In the following article, I’m going to explain a piece of code for a simple ERC20 token…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Wellyington</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERC1271 Example]]></title>
-        <id>https://medium.com/p/bfa3798754</id>
-        <link href="https://coinsbench.com/erc1271-implementation-bfa3798754?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-24T09:35:29.000Z</updated>
-        <author>
-            <name>Rahul Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate guide to LayerZero Airdrop]]></title>
-        <id>https://medium.com/p/f382be62ea63</id>
-        <link href="https://coinsbench.com/ultimate-guide-to-layerzero-airdrop-f382be62ea63?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-24T09:35:23.000Z</updated>
-        <author>
-            <name>TrialsInCrypto</name>
         </author>
     </entry>
     <entry>
