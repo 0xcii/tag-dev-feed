@@ -29,24 +29,44 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/deb7938562c9",
+          "author": "Navajyoth Krishnan D",
+          "description": "Imagine a world where you can send money to anyone, anywhere in the world, without the need for a middleman like a bank. Imagine a world…",
+          "link": "https://coinsbench.com/how-blockchain-became-the-no-nonsense-bookkeeper-of-the-digital-world-deb7938562c9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-27T09:57:08.000Z",
+          "wordCount": 3817,
+          "title": "How Blockchain Became the No-Nonsense Bookkeeper of the Digital World",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*wwu7i-qtoH_x5XM8"
+        },
+        {
+          "id": "https://medium.com/p/98fd9073636b",
+          "author": "TK Rose",
+          "description": "A key idea in JavaScript called the Event Loop is essential for managing asynchronous actions and preserving the responsiveness of online…",
+          "link": "https://coinsbench.com/how-to-use-event-loop-in-javascript-98fd9073636b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-05-27T09:57:08.000Z",
+          "wordCount": 2335,
+          "title": "How to use Event Loop in JavaScript",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*WUZjczoHXmB8GQEM"
+        },
+        {
           "id": "https://medium.com/p/1ef53b9decf2",
           "author": "Chek Zida",
           "description": "Introduction",
           "link": "https://coinsbench.com/building-upgradable-smart-contracts-with-hardhat-a-comprehensive-guide-1ef53b9decf2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-26T12:18:19.000Z",
-          "wordCount": 4071,
+          "wordCount": 3979,
           "title": "Building Upgradable Smart Contracts with Hardhat: A Comprehensive Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*O_AUwPW0faP1eaC1uhuQpw.jpeg"
         },
         {
           "id": "https://medium.com/p/50f5f2b5cbf1",
           "author": "Shubham Yadav",
-          "description": "Introduction: In the world of cryptocurrencies, Ethereum is a prominent blockchain platform that enables the creation of decentralized…",
+          "description": "",
           "link": "https://coinsbench.com/create-your-own-ethereum-wallet-using-elliptic-curve-50f5f2b5cbf1?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-26T12:18:17.000Z",
-          "wordCount": 3569,
+          "wordCount": null,
           "title": "Create Your Own Ethereum Wallet Using Elliptic Curve",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*-Fx8Jk90JCmClsheG8EfFg.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/45b570cbb96f",
@@ -54,79 +74,59 @@
           "description": "Solidity Gas Golfing #2: Packing Variables",
           "link": "https://coinsbench.com/gas-golfing-2-45b570cbb96f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-26T12:18:15.000Z",
-          "wordCount": 3068,
+          "wordCount": 3044,
           "title": "Solidity Gas Golfing #2: Packing Variables",
           "imageUrl": null
         },
         {
           "id": "https://medium.com/p/bb7d31ed2e76",
           "author": "Vishnu Sivan",
-          "description": "The rise of Large Language Models (LLMs) has brought about a significant shift in technology, empowering developers to create applications…",
+          "description": "",
           "link": "https://coinsbench.com/chat-with-your-databases-using-langchain-bb7d31ed2e76?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-25T11:42:19.000Z",
-          "wordCount": 5701,
+          "wordCount": null,
           "title": "Chat with your databases using LangChain",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*z9LK7Yuahbb5U64rEbIDqg.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/f66fe435b6ca",
           "author": "Soroosh Jaberi",
-          "description": "Have you ever come across a new technology or concept that seems too complex to understand? I certainly have. One such technology for me…",
+          "description": "",
           "link": "https://coinsbench.com/what-is-the-ethereum-gas-station-network-and-how-does-it-work-f66fe435b6ca?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-25T11:42:14.000Z",
-          "wordCount": 3862,
+          "wordCount": null,
           "title": "What is the Ethereum Gas Station Network and How Does it Work?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lrr4sf5APK4j6WZGuuI2Ow.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/80a96d8b5572",
           "author": "Bailey Spraggins",
-          "description": "Gnosis Chain is an advanced scaling solution designed to address Ethereum’s scalability limitations. By leveraging the Ethereum Virtual…",
+          "description": "",
           "link": "https://coinsbench.com/a-complete-guide-to-validating-on-gnosis-chain-part-1-setting-up-a-validator-80a96d8b5572?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-25T11:42:10.000Z",
-          "wordCount": 4867,
+          "wordCount": null,
           "title": "A Complete Guide to Validating on Gnosis Chain — Part 1: Setting up a Validator",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:735/1*usarofgurpMTM1OpmZ950Q.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/66c9bc6788b1",
           "author": "Vigneshwar Krishnamoorthy",
-          "description": "Inspirations through Introspections",
+          "description": "",
           "link": "https://coinsbench.com/open-metaverse-a-monopoly-66c9bc6788b1?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-25T11:42:04.000Z",
-          "wordCount": 4655,
+          "wordCount": null,
           "title": "Open Metaverse — “A Monopoly”",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TWKPdWGLqG4bynfIbPgCYA.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/f60b7b77bee3",
           "author": "TK Rose",
-          "description": "In JavaScript, the this keyword refers to the current execution context or the object that a function is being called on. The value of this…",
+          "description": "",
           "link": "https://coinsbench.com/how-to-use-this-keyword-in-javascript-f60b7b77bee3?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-25T10:17:22.000Z",
-          "wordCount": 2476,
+          "wordCount": null,
           "title": "How to use “this ” keyword in JavaScript",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*AwfsRJ2P8fYY8hu8"
-        },
-        {
-          "id": "https://medium.com/p/a6b3acacb749",
-          "author": "Solidity Academy",
-          "description": "Hello there! In this article, we will explore developing a Pinterest-like application using Solidity programming language and the concept…",
-          "link": "https://coinsbench.com/building-a-pinterest-like-application-with-solidity-a6b3acacb749?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-25T09:57:23.000Z",
-          "wordCount": 3101,
-          "title": "Building a Pinterest-Like Application with Solidity: Storing Each PIN Image as an NFT",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Bwa8R5JmbJ9OzZkv8o4oHQ.png"
-        },
-        {
-          "id": "https://medium.com/p/23bd15b2bb0",
-          "author": "Soumyadeep Mandal",
-          "description": "Blockchain technology has brought about a new era of decentralized applications, but with the increasing traffic on the blockchain…",
-          "link": "https://coinsbench.com/scaling-applications-on-polygon-network-with-smart-contract-technology-23bd15b2bb0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-05-24T09:35:49.000Z",
-          "wordCount": 4703,
-          "title": "Scaling Applications on Polygon Network with Smart Contract Technology",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Yaw9499OEnd_wX43t7r8bQ.jpeg"
+          "imageUrl": null
         }
       ]
     },
@@ -151,7 +151,7 @@
           "description": "Participating in cryptocurrencies' thrilling yet frenetic world is like riding an exhilarating roller coaster. While the highs can be…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/finding-balance-in-chaos-mental-health-in-the-crypto-space-257be4631cb2?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-26T15:18:08.000Z",
-          "wordCount": 2152,
+          "wordCount": 2156,
           "title": "Finding Balance in Chaos: Mental Health in the Crypto Space",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*UFdtxg8com5--NuN"
         },
@@ -191,7 +191,7 @@
           "description": "A Major Technical Pruning Upgrade",
           "link": "https://medium.com/coinmonks/kaspa-on-rust-alpha-update-e55c7fb7d577?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-26T15:16:41.000Z",
-          "wordCount": 2911,
+          "wordCount": 2948,
           "title": "Kaspa on Rust: Alpha Update",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:700/0*3GVvFLPp1vsvwS67.png"
         },
@@ -201,7 +201,7 @@
           "description": "Bitcoin stablecoin #Stably, Euro pegged stablecoin expands to Avalanche, Binance halted Multichain bridges, international news, nft news…",
           "link": "https://medium.com/coinmonks/new-stablecoins-and-links-to-traditional-finance-zentanews-5-26-2023-a1cb68e8c8ac?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-26T14:27:49.000Z",
-          "wordCount": 3419,
+          "wordCount": 3462,
           "title": "New Stablecoins and Links to Traditional Finance — ZentaNews 5–26–2023",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*ZS1fwoMmgJm6TmvU.jpg"
         },
@@ -221,7 +221,7 @@
           "description": "In today’s world, cryptocurrencies have become a popular investment option for many people. With the rise of cryptocurrencies, the demand…",
           "link": "https://medium.com/coinmonks/p2p-cryptocurrency-exchange-with-remitano-clone-script-5dcd5526aa5d?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-26T14:15:48.000Z",
-          "wordCount": 4176,
+          "wordCount": 4174,
           "title": "Build Your Own P2P Cryptocurrency Exchange with Remitano Clone Script",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*EBfZHKmkDG0zj3fw9k4mqw.png"
         },
@@ -245,22 +245,22 @@
         {
           "id": "https://medium.com/p/1d81569a7833",
           "author": "Luis Soares",
-          "description": "The design patterns in programming are proven solutions to common problems, and the state machine is one such design pattern, particularly…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/state-machine-design-pattern-in-solidity-1d81569a7833?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-22T21:03:30.000Z",
-          "wordCount": 3548,
+          "wordCount": null,
           "title": "State Machine Design Pattern in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1CGswhmgbNd4o7GHY9wqsA.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/7383326b1a31",
           "author": "Boom",
-          "description": "Rectangle DAO repository",
+          "description": "",
           "link": "https://blog.blockmagnates.com/how-to-create-a-dao-7383326b1a31?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-15T12:02:07.000Z",
-          "wordCount": 11394,
+          "wordCount": null,
           "title": "How to create a DAO?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BoATWaUmHd7PtfLd5zggDw.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/40cc9f0b16bc",
@@ -268,9 +268,9 @@
           "description": "In a previous blog post, we discussed the importance of verifying Solidity smart contracts before deploying them onto the blockchain…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/programmatically-verifying-solidity-smart-contract-code-with-hardhat-40cc9f0b16bc?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-12T10:43:49.000Z",
-          "wordCount": 2546,
+          "wordCount": null,
           "title": "Programmatically Verifying Solidity Smart Contract Code with Hardhat",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*j2hHpi0VXFqiY1PPGhNCeA.jpeg"
+          "imageUrl": null
         }
       ]
     },
