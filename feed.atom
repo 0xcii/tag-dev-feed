@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-27T10:11:10.749Z</id>
+    <id>urn:2023-05-27T11:09:05.824Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-27T10:11:10.749Z</updated>
+    <updated>2023-05-27T11:09:05.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Slip-ups: Mastering Blockchain Security by Evading the Top 10 Contract Coding Pitfalls]]></title>
+        <id>https://medium.com/p/7c59731fea13</id>
+        <link href="https://coinsbench.com/solidity-slip-ups-mastering-blockchain-security-by-evading-the-top-10-contract-coding-pitfalls-7c59731fea13?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-27T10:17:08.000Z</updated>
+        <author>
+            <name>Web3verse Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Blockchain Became the No-Nonsense Bookkeeper of the Digital World]]></title>
         <id>https://medium.com/p/deb7938562c9</id>
         <link href="https://coinsbench.com/how-blockchain-became-the-no-nonsense-bookkeeper-of-the-digital-world-deb7938562c9?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-27T09:57:08.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a world where you can send money to anyone, anywhere in the world, without the need for a middleman like a bank. Imagine a world…]]></summary>
         <author>
             <name>Navajyoth Krishnan D</name>
         </author>
@@ -20,7 +28,6 @@
         <id>https://medium.com/p/98fd9073636b</id>
         <link href="https://coinsbench.com/how-to-use-event-loop-in-javascript-98fd9073636b?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-27T09:57:08.000Z</updated>
-        <summary type="html"><![CDATA[A key idea in JavaScript called the Event Loop is essential for managing asynchronous actions and preserving the responsiveness of online…]]></summary>
         <author>
             <name>TK Rose</name>
         </author>
@@ -51,113 +58,10 @@ https://www.youtube.com/watch?v=nucX0pLY9JA]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Retrodrops. Do they feed or have they fed?]]></title>
-        <id>https://medium.com/p/f6f8cfb62f58</id>
-        <link href="https://medium.com/coinmonks/retrodrops-do-they-feed-or-have-they-fed-f6f8cfb62f58?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-26T16:07:55.000Z</updated>
-        <summary type="html"><![CDATA[This post is about how retrodrops came to us, why they feed, and why they will continue to feed? Let’s begin!]]></summary>
-        <author>
-            <name>Golden Trades</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding Balance in Chaos: Mental Health in the Crypto Space]]></title>
-        <id>https://medium.com/p/257be4631cb2</id>
-        <link href="https://medium.com/coinmonks/finding-balance-in-chaos-mental-health-in-the-crypto-space-257be4631cb2?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-26T15:18:08.000Z</updated>
-        <summary type="html"><![CDATA[Participating in cryptocurrencies' thrilling yet frenetic world is like riding an exhilarating roller coaster. While the highs can be…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>TheLuWizz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tornado Cash: Caught in the Eye of a DeFi Governance Attack]]></title>
-        <id>https://medium.com/p/89dd8eb6dc73</id>
-        <link href="https://medium.com/coinmonks/tornado-cash-caught-in-the-eye-of-a-defi-governance-attack-89dd8eb6dc73?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-26T15:18:05.000Z</updated>
-        <summary type="html"><![CDATA[DeFi and hacking attempts are intrinsically linked due to the nature of the former. It’s a jungle where every vulnerability is sought out…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>TheLuWizz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding DeFi: Drawing Parallels with Traditional Financial Systems]]></title>
-        <id>https://medium.com/p/616b44e3af36</id>
-        <link href="https://medium.com/coinmonks/decoding-defi-drawing-parallels-with-traditional-financial-systems-616b44e3af36?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-26T15:17:59.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized Finance, or DeFi, is a term that has created ripples in the financial world, promising to revolutionize the sector by…]]></summary>
-        <author>
-            <name>Noama Samreen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding DeFi: An In-depth Look at Decentralized Finance]]></title>
-        <id>https://medium.com/p/e51a992f503d</id>
-        <link href="https://medium.com/coinmonks/decoding-defi-an-in-depth-look-at-decentralized-finance-e51a992f503d?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-26T15:17:29.000Z</updated>
-        <summary type="html"><![CDATA[The world of finance is being reimagined with blockchain technology, and at the forefront of this revolution is Decentralized Finance, or…]]></summary>
-        <author>
-            <name>Noama Samreen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaspa on Rust: Alpha Update]]></title>
-        <id>https://medium.com/p/e55c7fb7d577</id>
-        <link href="https://medium.com/coinmonks/kaspa-on-rust-alpha-update-e55c7fb7d577?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-26T15:16:41.000Z</updated>
-        <summary type="html"><![CDATA[A Major Technical Pruning Upgrade]]></summary>
-        <author>
-            <name>Nathaniel Crowningshield</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Stablecoins and Links to Traditional Finance — ZentaNews 5–26–2023]]></title>
-        <id>https://medium.com/p/a1cb68e8c8ac</id>
-        <link href="https://medium.com/coinmonks/new-stablecoins-and-links-to-traditional-finance-zentanews-5-26-2023-a1cb68e8c8ac?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-26T14:27:49.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin stablecoin #Stably, Euro pegged stablecoin expands to Avalanche, Binance halted Multichain bridges, international news, nft news…]]></summary>
-        <author>
-            <name>Zentaurios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Solution to Your Liquid Staking — Cross-chain Staking with Bifrost]]></title>
-        <id>https://medium.com/p/12c6bb38e199</id>
-        <link href="https://medium.com/coinmonks/a-solution-to-your-liquid-staking-cross-chain-staking-with-bifrost-12c6bb38e199?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-26T14:15:49.000Z</updated>
-        <summary type="html"><![CDATA[The best feature about liquid staking derivatives (LSDs) is that it fulfills that part of our brains that wants more money with no-to-low…]]></summary>
-        <author>
-            <name>Cryptowrit3r.x</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your Own P2P Cryptocurrency Exchange with Remitano Clone Script]]></title>
-        <id>https://medium.com/p/5dcd5526aa5d</id>
-        <link href="https://medium.com/coinmonks/p2p-cryptocurrency-exchange-with-remitano-clone-script-5dcd5526aa5d?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-26T14:15:48.000Z</updated>
-        <summary type="html"><![CDATA[In today’s world, cryptocurrencies have become a popular investment option for many people. With the rise of cryptocurrencies, the demand…]]></summary>
-        <author>
-            <name>Thomsonrichard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Thriving Communities: Discord Marketing for NFTs and Cryptos]]></title>
-        <id>https://medium.com/p/f84499f53bbf</id>
-        <link href="https://medium.com/coinmonks/building-thriving-communities-discord-marketing-for-nfts-and-cryptos-f84499f53bbf?source=rss----721b17443fd5---4"/>
-        <updated>2023-05-26T14:15:44.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrencies and Non-Fungible Tokens (NFTs) have gained significant popularity in recent years, and marketers are constantly seeking…]]></summary>
-        <author>
-            <name>Henrywilliam</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building Upgradable Smart Contracts with Hardhat: A Comprehensive Guide]]></title>
         <id>https://medium.com/p/1ef53b9decf2</id>
         <link href="https://coinsbench.com/building-upgradable-smart-contracts-with-hardhat-a-comprehensive-guide-1ef53b9decf2?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-26T12:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Chek Zida</name>
         </author>
@@ -176,7 +80,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/45b570cbb96f</id>
         <link href="https://coinsbench.com/gas-golfing-2-45b570cbb96f?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-26T12:18:15.000Z</updated>
-        <summary type="html"><![CDATA[Solidity Gas Golfing #2: Packing Variables]]></summary>
         <author>
             <name>Sudeep Sagar</name>
         </author>
@@ -215,24 +118,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2023-05-25T11:42:04.000Z</updated>
         <author>
             <name>Vigneshwar Krishnamoorthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use “this ” keyword in JavaScript]]></title>
-        <id>https://medium.com/p/f60b7b77bee3</id>
-        <link href="https://coinsbench.com/how-to-use-this-keyword-in-javascript-f60b7b77bee3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-25T10:17:22.000Z</updated>
-        <author>
-            <name>TK Rose</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State Machine Design Pattern in Solidity]]></title>
-        <id>https://medium.com/p/1d81569a7833</id>
-        <link href="https://blog.blockmagnates.com/state-machine-design-pattern-in-solidity-1d81569a7833?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-05-22T21:03:30.000Z</updated>
-        <author>
-            <name>Luis Soares</name>
         </author>
     </entry>
     <entry>
@@ -285,15 +170,6 @@ The post ERC-5573 multi-asset token contracts appeared first on Crypto Market Po
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to create a DAO?]]></title>
-        <id>https://medium.com/p/7383326b1a31</id>
-        <link href="https://blog.blockmagnates.com/how-to-create-a-dao-7383326b1a31?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-05-15T12:02:07.000Z</updated>
-        <author>
-            <name>Boom</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevNTell - Hashleap]]></title>
         <id>https://blog.developerdao.com/devntell-hashleap</id>
         <link href="https://blog.developerdao.com/devntell-hashleap"/>
@@ -316,17 +192,6 @@ Nasir's Twitter: https://twitter.com/hashleap
 https://www.youtube.com/watch?v=-Z8q40POKiY]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programmatically Verifying Solidity Smart Contract Code with Hardhat]]></title>
-        <id>https://medium.com/p/40cc9f0b16bc</id>
-        <link href="https://blog.blockmagnates.com/programmatically-verifying-solidity-smart-contract-code-with-hardhat-40cc9f0b16bc?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-05-12T10:43:49.000Z</updated>
-        <summary type="html"><![CDATA[In a previous blog post, we discussed the importance of verifying Solidity smart contracts before deploying them onto the blockchain…
-Continue reading on Block Magnates »]]></summary>
-        <author>
-            <name>Kristaps Grinbergs</name>
         </author>
     </entry>
     <entry>
