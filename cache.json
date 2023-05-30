@@ -285,7 +285,7 @@
           "description": "I wrote this article as a technical introduction to the Scroll zkEVM for smart contract developers who want to try out the network.\nIn this article, we will:\nLearn about Scroll zkEVM and how to start with its' Alpha testnet.\nSet up a dev environment with Foundry and write a smart contract that dispenses ETH on the Alpha testnet based on a pseudo-random number-generating function.\nTweak the smart contract to fit in with the exact specifications required for the Alpha testnet\nDeploy our smart contract with the help of a Solidity script.\nVerify our smart contract on the Alpha testnet straight out of Foundry's command line.\nBy the end of this article, you will learn how to deploy your smart contracts to Scroll's Alpha testnet with Foundry.\nWhat is the Scroll zkEVM?\n\nScroll zkEVM is a soon-to-l…",
           "link": "https://blog.developerdao.com/a-complete-intro-to-smart-contract-development-on-the-scroll-zkevm",
           "publishedOn": "2023-05-29T14:28:28.000Z",
-          "wordCount": 15118,
+          "wordCount": 15178,
           "title": "A Complete Intro to Smart Contract Development on the Scroll zkEVM",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1685370451624%2Fcce61e77-fcc6-4945-9063-eb0f9c97d44e.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
