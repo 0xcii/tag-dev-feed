@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-30T11:09:39.956Z</id>
+    <id>urn:2023-05-30T12:25:21.404Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-30T11:09:39.956Z</updated>
+    <updated>2023-05-30T12:25:21.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Exploring Create and Create2 for Contract Address Generation and Insights from the Tornado Cash…]]></title>
+        <id>https://medium.com/p/b2cf24ad5d84</id>
+        <link href="https://coinsbench.com/exploring-create-and-create2-for-contract-address-generation-and-insights-from-the-tornado-cash-b2cf24ad5d84?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-30T11:49:42.000Z</updated>
+        <summary type="html"><![CDATA[This article explores the use of create and create2 opcodes in smart contract development, and their application in Tornado cash Dao hack]]></summary>
+        <author>
+            <name>Idogwu Chinonso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jumpstart Your Web3 Career with Solana 101: The Ultimate Guide to Building Fast and Scalable…]]></title>
+        <id>https://medium.com/p/b38c6d617250</id>
+        <link href="https://coinsbench.com/jumpstart-your-web3-career-with-solana-101-the-ultimate-guide-to-building-fast-and-scalable-b38c6d617250?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-05-30T11:49:37.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain is no longer limited to cryptocurrencies and has ushered in a new era of decentralized applications (dApps). With scalability…]]></summary>
+        <author>
+            <name>Web3verse Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Story of the Big Bad CBDC]]></title>
         <id>https://medium.com/p/4440fdc0afd5</id>
@@ -215,16 +235,6 @@ Scroll zkEVM is a soon-to-l…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to use Event Loop in JavaScript]]></title>
-        <id>https://medium.com/p/98fd9073636b</id>
-        <link href="https://coinsbench.com/how-to-use-event-loop-in-javascript-98fd9073636b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-27T09:57:08.000Z</updated>
-        <summary type="html"><![CDATA[A key idea in JavaScript called the Event Loop is essential for managing asynchronous actions and preserving the responsiveness of online…]]></summary>
-        <author>
-            <name>TK Rose</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevNTell - Modular Blockchains]]></title>
         <id>https://blog.developerdao.com/devntell-modular-blockchains</id>
         <link href="https://blog.developerdao.com/devntell-modular-blockchains"/>
@@ -247,16 +257,6 @@ Celesita's website: https://celestia.org/
 https://www.youtube.com/watch?v=nucX0pLY9JA]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Upgradable Smart Contracts with Hardhat: A Comprehensive Guide]]></title>
-        <id>https://medium.com/p/1ef53b9decf2</id>
-        <link href="https://coinsbench.com/building-upgradable-smart-contracts-with-hardhat-a-comprehensive-guide-1ef53b9decf2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-05-26T12:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Chek Zida</name>
         </author>
     </entry>
     <entry>
