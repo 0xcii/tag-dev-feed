@@ -11,7 +11,7 @@
           "description": "ERC-5573 multi-asset token contracts. In the realm of blockchain and cryptocurrency, token contracts serve as the backbone of decentralized applications…\nThe post ERC-5573 multi-asset token contracts appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/erc-5573-multi-asset-token-contracts/",
           "publishedOn": "2023-05-17T15:15:03.000Z",
-          "wordCount": 4366,
+          "wordCount": 4376,
           "title": "ERC-5573 multi-asset token contracts",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         }
@@ -161,7 +161,7 @@
           "description": "Carolyn Mahboubi\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/mastering-the-game-of-life-a-conversation-with-renowned-coach-carolyn-mahboubi-dfc1b64eaded?source=rss----721b17443fd5---4",
           "publishedOn": "2023-05-31T18:11:47.000Z",
-          "wordCount": 2060,
+          "wordCount": 2108,
           "title": "Mastering the Game of Life: A Conversation with Renowned Coach, Carolyn Mahboubi",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*RG3P2Gi2Z6BZ3WZQaZ13dw.jpeg"
         },
@@ -398,16 +398,6 @@
           "wordCount": 4409,
           "title": "How to Migrate a DApp from Goerli to Sepolia Using QuickNode",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1683118441007%2F6dec2a70-8d32-4403-b6c4-b6a012aaac1a.jpeg%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        },
-        {
-          "id": "https://blog.developerdao.com/decoding-decentralization",
-          "author": "Alexander Sack",
-          "description": "In Part I of Decoding Decentralization, we framed Ethereum (and all blockchains really) as a distributed decentralized database.\nWe then used the change-data capture design pattern to replay all transfer events of a given smart contract.\nBy capturing those events through the log entries they create, we could aggregate them and determine how many Murakami Flower NFTs a given wallet address has, or which holder wallets constitute a whale, etc.\nIn Part II, I want to dive deeper into the interaction between blocks, transactions, and the log entries they create, as well as the process of log ABI translation which is critical for any chain-based analytics.\n\nThe State of the Chain Address\nIf we think of Ethereum as a gigantic database that manages the state, just like all traditional databases, t…",
-          "link": "https://blog.developerdao.com/decoding-decentralization",
-          "publishedOn": "2023-05-02T14:20:28.000Z",
-          "wordCount": 9808,
-          "title": "Decoding Decentralization",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1683111715646%2F879b3a80-d059-4a7f-ba27-53e35a92a0e5.png%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         }
       ]
     }

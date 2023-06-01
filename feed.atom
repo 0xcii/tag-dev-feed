@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-01T01:24:28.857Z</id>
+    <id>urn:2023-06-01T03:08:35.325Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-01T01:24:28.857Z</updated>
+    <updated>2023-06-01T03:08:35.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -469,22 +469,6 @@ Select the network, and click "continue".
 Click on the "Create e…]]></summary>
         <author>
             <name>Aayush Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding Decentralization]]></title>
-        <id>https://blog.developerdao.com/decoding-decentralization</id>
-        <link href="https://blog.developerdao.com/decoding-decentralization"/>
-        <updated>2023-05-02T14:20:28.000Z</updated>
-        <summary type="html"><![CDATA[In Part I of Decoding Decentralization, we framed Ethereum (and all blockchains really) as a distributed decentralized database.
-We then used the change-data capture design pattern to replay all transfer events of a given smart contract.
-By capturing those events through the log entries they create, we could aggregate them and determine how many Murakami Flower NFTs a given wallet address has, or which holder wallets constitute a whale, etc.
-In Part II, I want to dive deeper into the interaction between blocks, transactions, and the log entries they create, as well as the process of log ABI translation which is critical for any chain-based analytics.
-
-The State of the Chain Address
-If we think of Ethereum as a gigantic database that manages the state, just like all traditional databases, t…]]></summary>
-        <author>
-            <name>Alexander Sack</name>
         </author>
     </entry>
 </feed>
