@@ -44,7 +44,7 @@
           "description": "Universal V3 Staker UI and Incentive Explorer for easier incentive creation, position management, and staking.",
           "link": "https://coinsbench.com/universal-v3-staker-ui-or-how-to-stake-in-uniswap-v3-part-iii-9debe241ec11?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-31T12:48:50.000Z",
-          "wordCount": 3316,
+          "wordCount": 2988,
           "title": "Universal V3 Staker UI (or How to Stake in Uniswap V3. Part III)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*e5a7YsCAb3bO5EBC2-AzoA.jpeg"
         },
@@ -84,7 +84,7 @@
           "description": "Week 2— My Journey to Becoming a Smart Contract Auditor",
           "link": "https://coinsbench.com/my-review-of-part-1-of-johnnytimes-smart-contract-hacking-course-6d5e2432b49a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-29T16:23:02.000Z",
-          "wordCount": 3878,
+          "wordCount": 3481,
           "title": "My Review of Part 1 of JohnnyTime’s Smart Contract Hacking Course",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*ltBv73aqYMgF2ZOU"
         },
@@ -94,7 +94,7 @@
           "description": "Requirements for EIP712",
           "link": "https://coinsbench.com/signing-and-verifying-eip712-messages-off-chain-and-on-chain-4d0f8254efea?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-29T16:22:58.000Z",
-          "wordCount": 4278,
+          "wordCount": 3906,
           "title": "Signing and Verifying EIP712 Messages Off-chain and On-chain",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*IKrcaxzvSUA0TIgHaIDH6w.jpeg"
         },
@@ -104,7 +104,7 @@
           "description": "In the Beninging…",
           "link": "https://coinsbench.com/week-1-my-journey-to-becoming-a-smart-contract-auditor-7d5f7ceb5ce6?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-29T16:22:56.000Z",
-          "wordCount": 3278,
+          "wordCount": 3365,
           "title": "Week 1 — My Journey to Becoming a Smart Contract Auditor",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*qxZzM_jF1zG7-p0X"
         },
@@ -114,7 +114,7 @@
           "description": "Hello there :-) In this article, I’ll be going through my solutions to Challenges 1–7 of Damn Vulnerable DeFi, a CTF style series of…",
           "link": "https://coinsbench.com/damn-vulnerable-defi-challenge-1-7-solutions-2d0b51395d9?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-29T16:22:52.000Z",
-          "wordCount": 8073,
+          "wordCount": 7645,
           "title": "Damn Vulnerable DeFi Challenge 1–7 Solutions",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:620/1*gir6EWNTGAFsiREMayfEdw.jpeg"
         },
@@ -124,7 +124,7 @@
           "description": "Week 3 — My Journey to Becoming a Smart Contract Auditor",
           "link": "https://coinsbench.com/uniswap-v2-explained-in-5-minutes-2b7eb8279302?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-29T16:22:33.000Z",
-          "wordCount": 4189,
+          "wordCount": 3776,
           "title": "Uniswap V2 Explained in 5 Minutes",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:780/1*4moVnpXEb449QZCL0JR6YQ.jpeg"
         }
@@ -136,12 +136,62 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e7706d094f19",
+          "author": "Cathrine Williams",
+          "description": "In this blog, we will delve into the world of ICO development services, exploring their significance, the services they provide.",
+          "link": "https://medium.com/coinmonks/launching-the-future-of-fundraising-unveiling-the-power-of-ico-development-services-e7706d094f19?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-06-01T12:52:45.000Z",
+          "wordCount": 3381,
+          "title": "Launching the Future of Fundraising: Unveiling the Power of ICO Development Services",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zd117eGNE0KsV2XRup6DGQ.png"
+        },
+        {
+          "id": "https://medium.com/p/f26870e5fde9",
+          "author": "Cathrine Williams",
+          "description": "In this blog, we will delve into the realm of cryptocurrency application development companies, exploring their significance, the services.",
+          "link": "https://medium.com/coinmonks/unleashing-the-power-of-digital-assets-exploring-cryptocurrency-application-development-companies-f26870e5fde9?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-06-01T12:38:32.000Z",
+          "wordCount": 3234,
+          "title": "Unleashing the Power of Digital Assets: Exploring Cryptocurrency Application Development Companies",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TWHnnJBYYGCMOpu8EqEjTA.png"
+        },
+        {
+          "id": "https://medium.com/p/4b2ead81d398",
+          "author": "JohnVictor",
+          "description": "DeFi Exchange Development",
+          "link": "https://medium.com/coinmonks/defi-exchange-development-building-a-secure-and-scalable-decentralized-exchange-4b2ead81d398?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-06-01T12:38:29.000Z",
+          "wordCount": 5547,
+          "title": "Defi Exchange Development: Building a Secure and Scalable Decentralized Exchange",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*C--Fag7r38CMkAanv49HDw.png"
+        },
+        {
+          "id": "https://medium.com/p/de76e6baa29e",
+          "author": "Emerald King",
+          "description": "In this post I’m going to walk you through the steps on how you go about transferring cryptocurrency to crypto.com from coinbase.",
+          "link": "https://medium.com/coinmonks/how-to-transfer-crypto-from-coinbase-to-crypto-com-de76e6baa29e?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-06-01T12:36:19.000Z",
+          "wordCount": 3053,
+          "title": "How to Transfer Crypto from Coinbase to Crypto.com",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:875/0*BZbHk1PeTqh9uH5P"
+        },
+        {
+          "id": "https://medium.com/p/6f2c878dc4cf",
+          "author": "Zentaurios",
+          "description": "What is BRC-721E? T-Mobile parent company becomes validator on Polygon and centralized exchanges continue to struggle with regulations…",
+          "link": "https://medium.com/coinmonks/brc-721e-and-changes-for-crypto-exchanges-zentanews-6-1-2023-6f2c878dc4cf?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-06-01T12:36:16.000Z",
+          "wordCount": 3284,
+          "title": "BRC-721E and Changes for Crypto Exchanges — ZentaNews 6–1–2023",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*oRRzoR2JKxQGujRF.jpg"
+        },
+        {
           "id": "https://medium.com/p/8830a8c03d94",
           "author": "James",
           "description": "In recent years, cryptocurrencies have emerged as a revolutionary form of digital currency. Led by Bitcoin, these decentralized digital…",
           "link": "https://medium.com/coinmonks/the-rise-of-cryptocurrencies-why-more-cities-should-embrace-them-as-a-payment-method-8830a8c03d94?source=rss----721b17443fd5---4",
           "publishedOn": "2023-06-01T11:51:33.000Z",
-          "wordCount": 3010,
+          "wordCount": 3053,
           "title": "The Rise of Cryptocurrencies: Why More Cities Should Embrace Them as a Payment Method",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*gDxAGJ0KOvI_h5ha"
         },
@@ -161,7 +211,7 @@
           "description": "Discover the essential aspects of BRC-20 token development, including its features, benefits, and the process involved. Learn how BRC-20…",
           "link": "https://medium.com/coinmonks/everything-you-should-know-about-brc-20-token-development-in-2023-7eb7b3c8528a?source=rss----721b17443fd5---4",
           "publishedOn": "2023-06-01T11:33:47.000Z",
-          "wordCount": 2674,
+          "wordCount": 2675,
           "title": "Everything You Should Know about BRC-20 Token Development In 2023",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:821/1*RHA4Rntd5nBJCVX2ZkHZlA.png"
         },
@@ -171,7 +221,7 @@
           "description": "Cryptocurrencies have emerged as a revolutionary force in the global economy, reshaping the way we think about finance, commerce, and…",
           "link": "https://medium.com/coinmonks/cryptocurrencies-revolutionizing-finance-commerce-and-inclusion-3f90f39144cd?source=rss----721b17443fd5---4",
           "publishedOn": "2023-06-01T11:33:43.000Z",
-          "wordCount": 4922,
+          "wordCount": 5334,
           "title": "Cryptocurrencies Revolutionizing Finance, Commerce, and Inclusion.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lY_Z-LjbfDlBt39_CR5f4A.png"
         },
@@ -184,56 +234,6 @@
           "wordCount": 3420,
           "title": "TOP 3 Altcoins Buy In June",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*if8F4c1rMBwuSgDzMKu84w.png"
-        },
-        {
-          "id": "https://medium.com/p/7bb0c4aec0a5",
-          "author": "The Crypto Professor",
-          "description": "Introduction",
-          "link": "https://medium.com/coinmonks/the-mexc-effect-token-listings-capitulating-7bb0c4aec0a5?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-06-01T11:33:39.000Z",
-          "wordCount": 3039,
-          "title": "The MEXC Effect — Token Listings Capitulating",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*T0KmMIoz5baJvq5TP3UUPg.png"
-        },
-        {
-          "id": "https://medium.com/p/7715545ddd35",
-          "author": "Golden Trades",
-          "description": "Hello everyone, welcome to a new part of our Crypto Beginners list.",
-          "link": "https://medium.com/coinmonks/portfolio-creation-and-diversification-part-7-7715545ddd35?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-06-01T11:06:58.000Z",
-          "wordCount": 2060,
-          "title": "Portfolio Creation and Diversification [Part 7]",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*PP1Kj783RUHxOCSO"
-        },
-        {
-          "id": "https://medium.com/p/4f4f73159534",
-          "author": "Marko Vidrih",
-          "description": "The Revolutionary Concept of ERC-6551",
-          "link": "https://medium.com/coinmonks/erc-6551-the-future-of-non-fungible-tokens-nfts-4f4f73159534?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-06-01T11:06:57.000Z",
-          "wordCount": 2916,
-          "title": "ERC-6551: The Future of Non-Fungible Tokens (NFTs)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Vp-V2_FZZ20IPCIo1EwS1w.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/301a2b34c080",
-          "author": "Kikctikcy",
-          "description": "Existing features of Crescent Dex that set it apart from other Dexs",
-          "link": "https://medium.com/coinmonks/user-friendly-capital-efficient-crescent-dex-is-upgrading-to-evolve-into-a-more-enhanced-protocol-301a2b34c080?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-06-01T11:06:55.000Z",
-          "wordCount": 4037,
-          "title": "User friendly Capital Efficient Crescent Dex is upgrading to evolve into a more enhanced Protocol!!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*5bbuROj8h4CAXeMfzH4wyw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/df6df1a28253",
-          "author": "William John",
-          "description": "In the rapidly evolving world of cryptocurrencies, building a strong and engaged community is essential for success. A crypto community is…",
-          "link": "https://medium.com/coinmonks/ultimate-guide-to-creating-strong-crypto-community-df6df1a28253?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-06-01T11:06:54.000Z",
-          "wordCount": 5333,
-          "title": "The Ultimate Guide To Creating a Strong Crypto Community",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:950/1*SHm4x-_QeP3rf5MimSME9g.jpeg"
         }
       ]
     },
@@ -248,7 +248,7 @@
           "description": "Smart contracts are a core part of Dapp development. Many times a Dapp’s functionality is divided between a set of smart contracts…",
           "link": "https://blog.blockmagnates.com/smart-contract-communication-f37cae97ecda?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-31T12:26:46.000Z",
-          "wordCount": 4370,
+          "wordCount": 4741,
           "title": "Smart Contract Communication",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1OX3C6BK3DtsMjlV_4sDZQ.jpeg"
         },
@@ -258,7 +258,7 @@
           "description": "Recently, I have been learning about Smart contracts. I believe that smart contracts will be an important thing in the future. This…",
           "link": "https://blog.blockmagnates.com/simple-collective-decision-making-system-on-ethereum-part-1-d45f9a27fe7d?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-31T12:26:41.000Z",
-          "wordCount": 2298,
+          "wordCount": 2685,
           "title": "Simple collective decision-making system on Ethereum —  Part 1",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:531/1*Ge51BrD_lIoq3gIy9J4XTw.png"
         },
@@ -278,7 +278,7 @@
           "description": "Rectangle DAO repository",
           "link": "https://blog.blockmagnates.com/how-to-create-a-dao-7383326b1a31?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-15T12:02:07.000Z",
-          "wordCount": 11310,
+          "wordCount": 10922,
           "title": "How to create a DAO?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BoATWaUmHd7PtfLd5zggDw.png"
         },
@@ -288,7 +288,7 @@
           "description": "In a previous blog post, we discussed the importance of verifying Solidity smart contracts before deploying them onto the blockchain…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/programmatically-verifying-solidity-smart-contract-code-with-hardhat-40cc9f0b16bc?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-12T10:43:49.000Z",
-          "wordCount": 2456,
+          "wordCount": 2101,
           "title": "Programmatically Verifying Solidity Smart Contract Code with Hardhat",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*j2hHpi0VXFqiY1PPGhNCeA.jpeg"
         }
