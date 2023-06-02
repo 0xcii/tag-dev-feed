@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-02T01:12:01.312Z</id>
+    <id>urn:2023-06-02T02:45:58.332Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-02T01:12:01.312Z</updated>
+    <updated>2023-06-02T02:45:58.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -174,6 +174,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/6d5e2432b49a</id>
         <link href="https://coinsbench.com/my-review-of-part-1-of-johnnytimes-smart-contract-hacking-course-6d5e2432b49a?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-05-29T16:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Week 2— My Journey to Becoming a Smart Contract Auditor]]></summary>
         <author>
             <name>James Lim</name>
         </author>
@@ -322,6 +323,7 @@ The post ERC-5573 multi-asset token contracts appeared first on Crypto Market Po
         <id>https://medium.com/p/7383326b1a31</id>
         <link href="https://blog.blockmagnates.com/how-to-create-a-dao-7383326b1a31?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-05-15T12:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Rectangle DAO repository]]></summary>
         <author>
             <name>Boom</name>
         </author>
@@ -434,26 +436,6 @@ As our first step, we will create a smart contract in Solidity for the token we 
 To begin, make sure you h…]]></summary>
         <author>
             <name>Patrick Skinner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate a DApp from Goerli to Sepolia Using QuickNode]]></title>
-        <id>https://blog.developerdao.com/how-to-migrate-a-dapp-from-goerli-to-sepolia-using-quicknode</id>
-        <link href="https://blog.developerdao.com/how-to-migrate-a-dapp-from-goerli-to-sepolia-using-quicknode"/>
-        <updated>2023-05-03T13:22:28.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn how to migrate your DApp from Goerli to Sepolia using QuickNode, a fast and reliable RPC node provider. 
-As you may know, the Goerli network has faced several issues recently, from the low availability of test funds to network downtime. Considering this, it makes perfect sense to take your testing from Goerli to Sepolia.
-1. Updating the RPC node
-The first step for migrating your DApp is to get the RPC node of the new test network. For our example, we will use the Sepolia test network and QuickNode as the node provider.
-Go to their RPC Endpoints Service section by clicking on this link and click on the "Create an endpoint" button.
-
-Select the chain. In our case, we will be selecting Ethereum.
-
-Select the network, and click "continue".
-
-Click on the "Create e…]]></summary>
-        <author>
-            <name>Aayush Gupta</name>
         </author>
     </entry>
 </feed>

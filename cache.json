@@ -11,7 +11,7 @@
           "description": "ERC-5573 multi-asset token contracts. In the realm of blockchain and cryptocurrency, token contracts serve as the backbone of decentralized applications…\nThe post ERC-5573 multi-asset token contracts appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/erc-5573-multi-asset-token-contracts/",
           "publishedOn": "2023-05-17T15:15:03.000Z",
-          "wordCount": 4361,
+          "wordCount": 4373,
           "title": "ERC-5573 multi-asset token contracts",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         }
@@ -81,12 +81,12 @@
         {
           "id": "https://medium.com/p/6d5e2432b49a",
           "author": "James Lim",
-          "description": "",
+          "description": "Week 2— My Journey to Becoming a Smart Contract Auditor",
           "link": "https://coinsbench.com/my-review-of-part-1-of-johnnytimes-smart-contract-hacking-course-6d5e2432b49a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-05-29T16:23:02.000Z",
-          "wordCount": null,
+          "wordCount": 3112,
           "title": "My Review of Part 1 of JohnnyTime’s Smart Contract Hacking Course",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*ltBv73aqYMgF2ZOU"
         },
         {
           "id": "https://medium.com/p/4d0f8254efea",
@@ -275,12 +275,12 @@
         {
           "id": "https://medium.com/p/7383326b1a31",
           "author": "Boom",
-          "description": "",
+          "description": "Rectangle DAO repository",
           "link": "https://blog.blockmagnates.com/how-to-create-a-dao-7383326b1a31?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-15T12:02:07.000Z",
-          "wordCount": null,
+          "wordCount": 10516,
           "title": "How to create a DAO?",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BoATWaUmHd7PtfLd5zggDw.png"
         },
         {
           "id": "https://medium.com/p/40cc9f0b16bc",
@@ -388,16 +388,6 @@
           "wordCount": 11243,
           "title": "Building a Tokengated Community for Live Concerts with QuickNode: A Step-by-Step Tutorial",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1683182850250%2F0a39fb38-b2b4-4118-9fe6-af1c3233e15e.avif%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        },
-        {
-          "id": "https://blog.developerdao.com/how-to-migrate-a-dapp-from-goerli-to-sepolia-using-quicknode",
-          "author": "Aayush Gupta",
-          "description": "In this tutorial, you will learn how to migrate your DApp from Goerli to Sepolia using QuickNode, a fast and reliable RPC node provider. \nAs you may know, the Goerli network has faced several issues recently, from the low availability of test funds to network downtime. Considering this, it makes perfect sense to take your testing from Goerli to Sepolia.\n1. Updating the RPC node\nThe first step for migrating your DApp is to get the RPC node of the new test network. For our example, we will use the Sepolia test network and QuickNode as the node provider.\nGo to their RPC Endpoints Service section by clicking on this link and click on the \"Create an endpoint\" button.\n\nSelect the chain. In our case, we will be selecting Ethereum.\n\nSelect the network, and click \"continue\".\n\nClick on the \"Create e…",
-          "link": "https://blog.developerdao.com/how-to-migrate-a-dapp-from-goerli-to-sepolia-using-quicknode",
-          "publishedOn": "2023-05-03T13:22:28.000Z",
-          "wordCount": 4409,
-          "title": "How to Migrate a DApp from Goerli to Sepolia Using QuickNode",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1683118441007%2F6dec2a70-8d32-4403-b6c4-b6a012aaac1a.jpeg%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         }
       ]
     }
