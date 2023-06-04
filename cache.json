@@ -29,6 +29,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/ae1eaebf5a31",
+          "author": "TK Rose",
+          "description": "A feature called optional chaining was added to JavaScript to make it easier to access an object’s properties or invoke its methods when…",
+          "link": "https://coinsbench.com/optional-chaining-in-javascript-ae1eaebf5a31?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-04T08:51:45.000Z",
+          "wordCount": 1466,
+          "title": "‘Optional Chaining’ in JavaScript",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*6yjHnngJNGLymefH"
+        },
+        {
           "id": "https://medium.com/p/7b95167ab069",
           "author": "Solidity Academy",
           "description": "In this technical article, we will embark on a journey to create a decentralized version of an instant messaging application similar to…",
@@ -117,16 +127,6 @@
           "wordCount": 1980,
           "title": "Unlocking the Potential of Ethereum 2.0: Understanding the Significance of Proof of Stake (PoS)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*VeQOgNro5qr8ov3k"
-        },
-        {
-          "id": "https://medium.com/p/eb357ff90b03",
-          "author": "Bloqarl",
-          "description": "This is a roadmap based on my personal path and improved by my experience. So that you can get to learn faster than I did.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/learn-about-smart-contract-auditing-from-zero-eb357ff90b03?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-02T12:49:10.000Z",
-          "wordCount": 2601,
-          "title": "Learn about Smart Contract Auditing from zero!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*XJCxwcHm6iVhsI3dCHq57A.jpeg"
         }
       ]
     },
@@ -288,9 +288,9 @@
           "description": "In a previous blog post, we discussed the importance of verifying Solidity smart contracts before deploying them onto the blockchain…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/programmatically-verifying-solidity-smart-contract-code-with-hardhat-40cc9f0b16bc?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-12T10:43:49.000Z",
-          "wordCount": null,
+          "wordCount": 1655,
           "title": "Programmatically Verifying Solidity Smart Contract Code with Hardhat",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*j2hHpi0VXFqiY1PPGhNCeA.jpeg"
         }
       ]
     },

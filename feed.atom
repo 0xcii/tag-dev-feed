@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-04T08:13:17.416Z</id>
+    <id>urn:2023-06-04T09:11:41.103Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-04T08:13:17.416Z</updated>
+    <updated>2023-06-04T09:11:41.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[‘Optional Chaining’ in JavaScript]]></title>
+        <id>https://medium.com/p/ae1eaebf5a31</id>
+        <link href="https://coinsbench.com/optional-chaining-in-javascript-ae1eaebf5a31?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-04T08:51:45.000Z</updated>
+        <summary type="html"><![CDATA[A feature called optional chaining was added to JavaScript to make it easier to access an object’s properties or invoke its methods when…]]></summary>
+        <author>
+            <name>TK Rose</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The high-low risk scenarios to consider going forward for energy production investments around the…]]></title>
         <id>https://medium.com/p/19c9c4262a4f</id>
@@ -223,17 +233,6 @@ https://www.youtube.com/watch?v=Q_Sf08UvxeA]]></summary>
         <summary type="html"><![CDATA[Proof of Stake (PoS) is a revolutionary consensus mechanism that is transforming the Ethereum blockchain through its latest upgrade…]]></summary>
         <author>
             <name>Crypto Truster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn about Smart Contract Auditing from zero!]]></title>
-        <id>https://medium.com/p/eb357ff90b03</id>
-        <link href="https://coinsbench.com/learn-about-smart-contract-auditing-from-zero-eb357ff90b03?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-02T12:49:10.000Z</updated>
-        <summary type="html"><![CDATA[This is a roadmap based on my personal path and improved by my experience. So that you can get to learn faster than I did.
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Bloqarl</name>
         </author>
     </entry>
     <entry>
