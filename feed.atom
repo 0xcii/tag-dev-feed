@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-06T21:12:09.976Z</id>
+    <id>urn:2023-06-06T22:11:14.436Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-06T21:12:09.976Z</updated>
+    <updated>2023-06-06T22:11:14.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -362,6 +362,17 @@ On top of that, the human eye is not perfect and might still miss critical bugs;
 Security best practices ad…]]></summary>
         <author>
             <name>Tobias Vogel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERC-5573 multi-asset token contracts]]></title>
+        <id>https://cryptomarketpool.com/?p=22212</id>
+        <link href="https://cryptomarketpool.com/erc-5573-multi-asset-token-contracts/"/>
+        <updated>2023-05-17T15:15:03.000Z</updated>
+        <summary type="html"><![CDATA[ERC-5573 multi-asset token contracts. In the realm of blockchain and cryptocurrency, token contracts serve as the backbone of decentralized applications…
+The post ERC-5573 multi-asset token contracts appeared first on Crypto Market Pool.]]></summary>
+        <author>
+            <name>Crypto Market Pool</name>
         </author>
     </entry>
     <entry>

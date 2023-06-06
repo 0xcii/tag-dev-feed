@@ -1,6 +1,23 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": [
+        {
+          "id": "https://cryptomarketpool.com/?p=22212",
+          "author": null,
+          "description": "ERC-5573 multi-asset token contracts. In the realm of blockchain and cryptocurrency, token contracts serve as the backbone of decentralized applications…\nThe post ERC-5573 multi-asset token contracts appeared first on Crypto Market Pool.",
+          "link": "https://cryptomarketpool.com/erc-5573-multi-asset-token-contracts/",
+          "publishedOn": "2023-05-17T15:15:03.000Z",
+          "wordCount": 4340,
+          "title": "ERC-5573 multi-asset token contracts",
+          "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
+        }
+      ]
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org",
