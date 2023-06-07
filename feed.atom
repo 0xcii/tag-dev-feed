@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-07T15:12:28.785Z</id>
+    <id>urn:2023-06-07T16:15:38.789Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-07T15:12:28.785Z</updated>
+    <updated>2023-06-07T16:15:38.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unleashing Solidity’s Hidden Gems: Exploring Memory Caching and Garbage Collection]]></title>
+        <id>https://medium.com/p/b5b10b4a114a</id>
+        <link href="https://blog.blockmagnates.com/unleashing-soliditys-hidden-gems-exploring-memory-caching-and-garbage-collection-b5b10b4a114a?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-06-07T16:10:40.000Z</updated>
+        <author>
+            <name>ADHRIT</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Everything you need to know about Algorithmic Trading]]></title>
         <id>https://medium.com/p/83da74d166c1</id>
@@ -111,7 +120,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/e2d56828f05c</id>
         <link href="https://coinsbench.com/dpos-a-scalable-and-efficient-consensus-algorithm-e2d56828f05c?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-05T18:02:32.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology has revolutionized various industries, offering secure and decentralized solutions. One popular consensus algorithm…]]></summary>
         <author>
             <name>ADHRIT</name>
         </author>
@@ -121,7 +129,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/39b600f56d37</id>
         <link href="https://coinsbench.com/the-future-of-ethereum-2-0-impact-on-decentralized-applications-dapps-and-smart-contracts-39b600f56d37?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-05T18:02:11.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum 2.0 represents a major upgrade to the Ethereum blockchain, introducing significant improvements in scalability, security, and…]]></summary>
         <author>
             <name>Crypto Truster</name>
         </author>
@@ -131,7 +138,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/6c0b1918469d</id>
         <link href="https://coinsbench.com/solidity-inheritance-6c0b1918469d?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-05T18:02:01.000Z</updated>
-        <summary type="html"><![CDATA[100 days of solidity (Day 8–12)]]></summary>
         <author>
             <name>Favorite_blockchain_lady</name>
         </author>
@@ -141,7 +147,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/3e8070ba7548</id>
         <link href="https://coinsbench.com/application-binary-interfaces-in-3-minutes-3e8070ba7548?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-05T18:01:52.000Z</updated>
-        <summary type="html"><![CDATA[Smart Contracts are build upon the use of ABIs or Application Binary Interfaces. But how do these work for transactions such as liquidity…]]></summary>
         <author>
             <name>Aziz Budiman</name>
         </author>
@@ -151,7 +156,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/76b0836f5b92</id>
         <link href="https://coinsbench.com/mastering-solidity-hidden-gems-76b0836f5b92?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-05T18:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Learn Web3.0 Development Series]]></summary>
         <author>
             <name>ADHRIT</name>
         </author>
@@ -161,7 +165,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/9769f3369282</id>
         <link href="https://coinsbench.com/getting-started-with-types-in-solidity-9769f3369282?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-05T18:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Learn the different data types that is used in solidity language]]></summary>
         <author>
             <name>Judith Manyo Ogar</name>
         </author>
@@ -171,7 +174,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/30549e31ecd</id>
         <link href="https://coinsbench.com/local-environment-for-learning-web3-js-and-ethereum-2023-30549e31ecd?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-05T18:01:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article I will show you how to set up local environment for studying web3.js and Ethereum blockchain on your local computer.]]></summary>
         <author>
             <name>Denis</name>
         </author>
@@ -194,7 +196,6 @@ It wasn't until really the rise of the NFT in 2021, when the number of unique bu
         <id>https://medium.com/p/ae1eaebf5a31</id>
         <link href="https://coinsbench.com/optional-chaining-in-javascript-ae1eaebf5a31?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-04T08:51:45.000Z</updated>
-        <summary type="html"><![CDATA[A feature called optional chaining was added to JavaScript to make it easier to access an object’s properties or invoke its methods when…]]></summary>
         <author>
             <name>TK Rose</name>
         </author>
@@ -236,7 +237,6 @@ https://devdao.to/blog-newsletter]]></summary>
         <id>https://medium.com/p/7b95167ab069</id>
         <link href="https://coinsbench.com/building-a-web3-instant-messaging-application-7b95167ab069?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-03T08:51:42.000Z</updated>
-        <summary type="html"><![CDATA[In this technical article, we will embark on a journey to create a decentralized version of an instant messaging application similar to…]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -246,7 +246,6 @@ https://devdao.to/blog-newsletter]]></summary>
         <id>https://medium.com/p/eb7ed680521b</id>
         <link href="https://coinsbench.com/from-equations-to-code-eb7ed680521b?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-03T07:27:12.000Z</updated>
-        <summary type="html"><![CDATA[Mathematics: The Key to Trust and Security in Web3 and Decentralized Systems]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -256,7 +255,6 @@ https://devdao.to/blog-newsletter]]></summary>
         <id>https://medium.com/p/f37cae97ecda</id>
         <link href="https://blog.blockmagnates.com/smart-contract-communication-f37cae97ecda?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-05-31T12:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts are a core part of Dapp development. Many times a Dapp’s functionality is divided between a set of smart contracts…]]></summary>
         <author>
             <name>Boom</name>
         </author>
@@ -321,7 +319,6 @@ https://www.youtube.com/watch?v=nucX0pLY9JA]]></summary>
         <id>https://medium.com/p/1d81569a7833</id>
         <link href="https://blog.blockmagnates.com/state-machine-design-pattern-in-solidity-1d81569a7833?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-05-22T21:03:30.000Z</updated>
-        <summary type="html"><![CDATA[The design patterns in programming are proven solutions to common problems, and the state machine is one such design pattern, particularly…]]></summary>
         <author>
             <name>Luis Soares</name>
         </author>
@@ -380,7 +377,6 @@ The post ERC-5573 multi-asset token contracts appeared first on Crypto Market Po
         <id>https://medium.com/p/7383326b1a31</id>
         <link href="https://blog.blockmagnates.com/how-to-create-a-dao-7383326b1a31?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-05-15T12:02:07.000Z</updated>
-        <summary type="html"><![CDATA[Rectangle DAO repository]]></summary>
         <author>
             <name>Boom</name>
         </author>
