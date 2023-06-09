@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-09T13:14:22.484Z</id>
+    <id>urn:2023-06-09T14:10:59.152Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-09T13:14:22.484Z</updated>
+    <updated>2023-06-09T14:10:59.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Explanation about “scope” in C++ programming language]]></title>
+        <id>https://medium.com/p/33099beabeff</id>
+        <link href="https://coinsbench.com/explanation-about-scope-in-c-programming-language-33099beabeff?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-09T14:01:40.000Z</updated>
+        <summary type="html"><![CDATA[The term “scope” in the C++ programming language describes the area or context in which a variable, function, or other named thing may be…]]></summary>
+        <author>
+            <name>TK Rose</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Decentralized Applications (DApps): Building the Future of Software]]></title>
         <id>https://medium.com/p/d9845e413536</id>
@@ -205,16 +215,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[100 days of solidity (Day 8–12)]]></summary>
         <author>
             <name>Favorite_blockchain_lady</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABIs in Liquidity Swaps for Smart Contracts Development]]></title>
-        <id>https://medium.com/p/3e8070ba7548</id>
-        <link href="https://coinsbench.com/application-binary-interfaces-in-3-minutes-3e8070ba7548?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-05T18:01:52.000Z</updated>
-        <summary type="html"><![CDATA[Smart Contracts are build upon the use of ABIs or Application Binary Interfaces. But how do these work for transactions such as liquidity…]]></summary>
-        <author>
-            <name>Aziz Budiman</name>
         </author>
     </entry>
     <entry>
