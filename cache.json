@@ -238,6 +238,73 @@
       ]
     },
     {
+      "title": "Solidity in Block Magnates on Medium",
+      "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
+      "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
+      "articles": [
+        {
+          "id": "https://medium.com/p/b5b10b4a114a",
+          "author": "ADHRIT",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/unleashing-soliditys-hidden-gems-exploring-memory-caching-and-garbage-collection-b5b10b4a114a?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-06-07T16:10:40.000Z",
+          "wordCount": null,
+          "title": "Unleashing Solidity’s Hidden Gems: Exploring Memory Caching and Garbage Collection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f37cae97ecda",
+          "author": "Boom",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/smart-contract-communication-f37cae97ecda?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-05-31T12:26:46.000Z",
+          "wordCount": null,
+          "title": "Smart Contract Communication",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d45f9a27fe7d",
+          "author": "Isidro Martínez",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/simple-collective-decision-making-system-on-ethereum-part-1-d45f9a27fe7d?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-05-31T12:26:41.000Z",
+          "wordCount": null,
+          "title": "Simple collective decision-making system on Ethereum —  Part 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1d81569a7833",
+          "author": "Luis Soares",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/state-machine-design-pattern-in-solidity-1d81569a7833?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-05-22T21:03:30.000Z",
+          "wordCount": null,
+          "title": "State Machine Design Pattern in Solidity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7383326b1a31",
+          "author": "Boom",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/how-to-create-a-dao-7383326b1a31?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-05-15T12:02:07.000Z",
+          "wordCount": null,
+          "title": "How to create a DAO?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/40cc9f0b16bc",
+          "author": "Kristaps Grinbergs",
+          "description": "In a previous blog post, we discussed the importance of verifying Solidity smart contracts before deploying them onto the blockchain…\nContinue reading on Block Magnates »",
+          "link": "https://blog.blockmagnates.com/programmatically-verifying-solidity-smart-contract-code-with-hardhat-40cc9f0b16bc?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-05-12T10:43:49.000Z",
+          "wordCount": null,
+          "title": "Programmatically Verifying Solidity Smart Contract Code with Hardhat",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Developer DAO",
       "feedUrl": "https://blog.developerdao.com/rss.xml",
       "siteUrl": "https://blog.developerdao.com",

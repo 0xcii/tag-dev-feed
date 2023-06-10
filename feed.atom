@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-10T14:09:34.475Z</id>
+    <id>urn:2023-06-10T15:10:59.677Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-10T14:09:34.475Z</updated>
+    <updated>2023-06-10T15:10:59.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -165,6 +165,15 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Unleashing Solidity’s Hidden Gems: Exploring Memory Caching and Garbage Collection]]></title>
+        <id>https://medium.com/p/b5b10b4a114a</id>
+        <link href="https://blog.blockmagnates.com/unleashing-soliditys-hidden-gems-exploring-memory-caching-and-garbage-collection-b5b10b4a114a?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-06-07T16:10:40.000Z</updated>
+        <author>
+            <name>ADHRIT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DPoS: A Scalable and Efficient Consensus Algorithm]]></title>
         <id>https://medium.com/p/e2d56828f05c</id>
         <link href="https://coinsbench.com/dpos-a-scalable-and-efficient-consensus-algorithm-e2d56828f05c?source=rss----f1cfd22cde3e---4"/>
@@ -237,6 +246,24 @@ https://devdao.to/blog-newsletter]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Smart Contract Communication]]></title>
+        <id>https://medium.com/p/f37cae97ecda</id>
+        <link href="https://blog.blockmagnates.com/smart-contract-communication-f37cae97ecda?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-05-31T12:26:46.000Z</updated>
+        <author>
+            <name>Boom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple collective decision-making system on Ethereum —  Part 1]]></title>
+        <id>https://medium.com/p/d45f9a27fe7d</id>
+        <link href="https://blog.blockmagnates.com/simple-collective-decision-making-system-on-ethereum-part-1-d45f9a27fe7d?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-05-31T12:26:41.000Z</updated>
+        <author>
+            <name>Isidro Martínez</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Complete Intro to Smart Contract Development on the Scroll zkEVM]]></title>
         <id>https://blog.developerdao.com/a-complete-intro-to-smart-contract-development-on-the-scroll-zkevm</id>
         <link href="https://blog.developerdao.com/a-complete-intro-to-smart-contract-development-on-the-scroll-zkevm"/>
@@ -279,6 +306,15 @@ Celesita's website: https://celestia.org/
 https://www.youtube.com/watch?v=nucX0pLY9JA]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State Machine Design Pattern in Solidity]]></title>
+        <id>https://medium.com/p/1d81569a7833</id>
+        <link href="https://blog.blockmagnates.com/state-machine-design-pattern-in-solidity-1d81569a7833?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-05-22T21:03:30.000Z</updated>
+        <author>
+            <name>Luis Soares</name>
         </author>
     </entry>
     <entry>
@@ -331,6 +367,15 @@ The post ERC-5573 multi-asset token contracts appeared first on Crypto Market Po
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to create a DAO?]]></title>
+        <id>https://medium.com/p/7383326b1a31</id>
+        <link href="https://blog.blockmagnates.com/how-to-create-a-dao-7383326b1a31?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-05-15T12:02:07.000Z</updated>
+        <author>
+            <name>Boom</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DevNTell - Hashleap]]></title>
         <id>https://blog.developerdao.com/devntell-hashleap</id>
         <link href="https://blog.developerdao.com/devntell-hashleap"/>
@@ -353,6 +398,17 @@ Nasir's Twitter: https://twitter.com/hashleap
 https://www.youtube.com/watch?v=-Z8q40POKiY]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programmatically Verifying Solidity Smart Contract Code with Hardhat]]></title>
+        <id>https://medium.com/p/40cc9f0b16bc</id>
+        <link href="https://blog.blockmagnates.com/programmatically-verifying-solidity-smart-contract-code-with-hardhat-40cc9f0b16bc?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-05-12T10:43:49.000Z</updated>
+        <summary type="html"><![CDATA[In a previous blog post, we discussed the importance of verifying Solidity smart contracts before deploying them onto the blockchain…
+Continue reading on Block Magnates »]]></summary>
+        <author>
+            <name>Kristaps Grinbergs</name>
         </author>
     </entry>
     <entry>
