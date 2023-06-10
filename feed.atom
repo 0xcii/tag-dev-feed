@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-10T22:10:19.006Z</id>
+    <id>urn:2023-06-10T23:10:58.023Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-10T22:10:19.006Z</updated>
+    <updated>2023-06-10T23:10:58.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -450,17 +450,6 @@ Nasir's Twitter: https://twitter.com/hashleap
 https://www.youtube.com/watch?v=-Z8q40POKiY]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programmatically Verifying Solidity Smart Contract Code with Hardhat]]></title>
-        <id>https://medium.com/p/40cc9f0b16bc</id>
-        <link href="https://blog.blockmagnates.com/programmatically-verifying-solidity-smart-contract-code-with-hardhat-40cc9f0b16bc?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-05-12T10:43:49.000Z</updated>
-        <summary type="html"><![CDATA[In a previous blog post, we discussed the importance of verifying Solidity smart contracts before deploying them onto the blockchain…
-Continue reading on Block Magnates »]]></summary>
-        <author>
-            <name>Kristaps Grinbergs</name>
         </author>
     </entry>
 </feed>
