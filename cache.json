@@ -310,6 +310,16 @@
       "siteUrl": "https://blog.developerdao.com",
       "articles": [
         {
+          "id": "https://blog.developerdao.com/devntell-auth-with-lit-protocol",
+          "author": "Narbeh Shahnazarian",
+          "description": "🌈 GM\nIn this week's episode of DevNTell, Josh Long gave us an overview of Authentication with Lit Protocol\n🌟 Developer Spotlight\nJosh is an engineer in the web3 space with a focus on developer tooling. Having worked for web3 and IoT companies, Josh loves creating developer tooling, and helping others understand complex topics in order to achieve their development goals.\n🔥 About Lit Protocol\nFrom the Lit Protocol Docs:\nLit Protocol lets you create and manage distributed cryptographic key-pairs for condition-based encryption and programmatic signing. A decentralized key management network, Lit can be used in place of centralized key custodians and other key management solutions.\nResources:\nWebsite: https://litprotocol.com/\nGitHub: https://github.com/LIT-Protocol/js-sdk\nJosh's Twitter: https://twitter.com/beanpole1456\nLit Protocol Discord link: https://discord.gg/WMmpaujw\nDeveloper docs: https://developer.litprotocol.com/\nLit protocol SDK: https://github.com/LIT-Protocol/js-sdk\nAuthentication SDK: https://www.npmjs.com/package/@lit-protocol/lit-auth-client\nEmail/SMS-authentication and signup demo: https://demo-email-sms-auth.vercel.app/\n🎥 Presentation\n\n\n\nhttps://www.youtube.com/watch?v=nVXKNEHItQs",
+          "link": "https://blog.developerdao.com/devntell-auth-with-lit-protocol",
+          "publishedOn": "2023-06-10T19:55:20.000Z",
+          "wordCount": 2766,
+          "title": "DevNTell - Auth with Lit Protocol",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1686426427760%2F71a86b8a-d820-471d-8e4e-88b01ab1ece4.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
           "id": "https://blog.developerdao.com/there-is-no-web3",
           "author": "Alexander Sack",
           "description": "Believe it or not, the term Web3 was first used in a 2014 blog post by Dr. Gavin Wood, the co-founder of Ethereum and creator of the Polkadot network, where he reimagined the Web as a \"Secure Social Operating System\".\nIn that post, Dr. Wood defines Web3 as a trustless Internet that replaces IP addresses with hashes, accomplishes network connectivity through incentivized peers competing to forward cryptographically signed messages, and lets users interact pseudonymously through a worldwide consensus engine.\nDespite being a fascinating read in its own right, his concept of a Web3 didn't take the industry by storm and, for the most part, was all but forgotten.\nIt wasn't until really the rise of the NFT in 2021, when the number of unique buyers and sellers rose from around 8,000 to over 1.15 m…",
