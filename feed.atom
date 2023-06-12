@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-12T07:11:42.067Z</id>
+    <id>urn:2023-06-12T08:15:21.449Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-12T07:11:42.067Z</updated>
+    <updated>2023-06-12T08:15:21.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Best Method for Bulk Fetching ERC20 Token Balances]]></title>
+        <id>https://medium.com/p/99da12f4d839</id>
+        <link href="https://medium.com/coinmonks/the-best-method-for-bulk-fetching-erc20-token-balances-99da12f4d839?source=rss----721b17443fd5---4"/>
+        <updated>2023-06-12T07:25:49.000Z</updated>
+        <summary type="html"><![CDATA[Fetching token balances for one or more addresses (at a specific point in time) is a super common task, regardless of what it is that you’re building. Despite being such a common task, when I first…]]></summary>
+        <author>
+            <name>Martin Kirov | Syve</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solidity program that illustrates different methods for gas optimization]]></title>
         <id>https://medium.com/p/d28516e4a242</id>
@@ -104,16 +114,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[As the crypto market continues to evolve and DeFi (Decentralized Finance) gains momentum, staying informed about the latest trends…]]></summary>
         <author>
             <name>Alex Starr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood To Remove ADA, Matic, and SOL After SEC Labels them as Securities]]></title>
-        <id>https://medium.com/p/c07485129c8a</id>
-        <link href="https://medium.com/coinmonks/robinhood-to-remove-ada-matic-and-sol-after-sec-labels-them-as-securities-c07485129c8a?source=rss----721b17443fd5---4"/>
-        <updated>2023-06-11T07:08:51.000Z</updated>
-        <summary type="html"><![CDATA[After the recent lawsuits against Binance and Coinbase by the SEC, Robinhood have moved to delist three cryptos now they are securities.]]></summary>
-        <author>
-            <name>CryptoGod-1</name>
         </author>
     </entry>
     <entry>
