@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-12T05:11:38.910Z</id>
+    <id>urn:2023-06-12T06:15:42.877Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-12T05:11:38.910Z</updated>
+    <updated>2023-06-12T06:15:42.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity program that illustrates different methods for gas optimization]]></title>
+        <id>https://medium.com/p/d28516e4a242</id>
+        <link href="https://coinsbench.com/solidity-program-that-illustrates-different-methods-for-gas-optimization-d28516e4a242?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-12T05:26:18.000Z</updated>
+        <summary type="html"><![CDATA[Gas fees, also known as transaction fees, are a crucial aspect of the Ethereum blockchain network. When you perform operations or execute…]]></summary>
+        <author>
+            <name>TK Rose</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CoinLoan Alerts Users of Unauthorized Emails Offering Aggressive Legal Services | Curated…]]></title>
         <id>https://medium.com/p/298ab63ccf5d</id>
@@ -235,16 +245,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Ethereum 2.0 represents a major upgrade to the Ethereum blockchain, introducing significant improvements in scalability, security, and…]]></summary>
         <author>
             <name>Crypto Truster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity inheritance]]></title>
-        <id>https://medium.com/p/6c0b1918469d</id>
-        <link href="https://coinsbench.com/solidity-inheritance-6c0b1918469d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-05T18:02:01.000Z</updated>
-        <summary type="html"><![CDATA[100 days of solidity (Day 8–12)]]></summary>
-        <author>
-            <name>Favorite_blockchain_lady</name>
         </author>
     </entry>
     <entry>

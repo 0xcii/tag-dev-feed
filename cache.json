@@ -29,6 +29,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/d28516e4a242",
+          "author": "TK Rose",
+          "description": "Gas fees, also known as transaction fees, are a crucial aspect of the Ethereum blockchain network. When you perform operations or execute…",
+          "link": "https://coinsbench.com/solidity-program-that-illustrates-different-methods-for-gas-optimization-d28516e4a242?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-12T05:26:18.000Z",
+          "wordCount": 1599,
+          "title": "Solidity program that illustrates different methods for gas optimization",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*jqCcyuF794gERp9K"
+        },
+        {
           "id": "https://medium.com/p/33099beabeff",
           "author": "TK Rose",
           "description": "The term “scope” in the C++ programming language describes the area or context in which a variable, function, or other named thing may be…",
@@ -104,7 +114,7 @@
           "description": "Blockchain technology has revolutionized various industries, offering secure and decentralized solutions. One popular consensus algorithm…",
           "link": "https://coinsbench.com/dpos-a-scalable-and-efficient-consensus-algorithm-e2d56828f05c?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-06-05T18:02:32.000Z",
-          "wordCount": 1623,
+          "wordCount": 1635,
           "title": "DPoS: A Scalable and Efficient Consensus Algorithm",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:726/1*30a-NoBg62wS_waHGw6vBw.png"
         },
@@ -117,16 +127,6 @@
           "wordCount": 1998,
           "title": "The Future of Ethereum 2.0: Impact on Decentralized Applications (dApps) and Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*DxUY94EokHV4PTP0"
-        },
-        {
-          "id": "https://medium.com/p/6c0b1918469d",
-          "author": "Favorite_blockchain_lady",
-          "description": "100 days of solidity (Day 8–12)",
-          "link": "https://coinsbench.com/solidity-inheritance-6c0b1918469d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-05T18:02:01.000Z",
-          "wordCount": 4276,
-          "title": "Solidity inheritance",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*rMj9Hsr7YkMvNCTy"
         }
       ]
     },
@@ -248,7 +248,7 @@
           "description": "Welcome to our in-depth exploration of two essential features in Solidity: memory caching and garbage collection. These powerful mechanisms…",
           "link": "https://blog.blockmagnates.com/unleashing-soliditys-hidden-gems-exploring-memory-caching-and-garbage-collection-b5b10b4a114a?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-06-07T16:10:40.000Z",
-          "wordCount": 1880,
+          "wordCount": 1892,
           "title": "Unleashing Solidity’s Hidden Gems: Exploring Memory Caching and Garbage Collection",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:700/0*8xhCS4NXzB-0ZsBH.png"
         },
