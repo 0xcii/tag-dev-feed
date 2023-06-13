@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-13T22:11:16.261Z</id>
+    <id>urn:2023-06-13T23:10:20.863Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-13T22:11:16.261Z</updated>
+    <updated>2023-06-13T23:10:20.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -241,6 +241,7 @@ https://www.youtube.com/watch?v=nVXKNEHItQs]]></summary>
         <id>https://medium.com/p/b5b10b4a114a</id>
         <link href="https://blog.blockmagnates.com/unleashing-soliditys-hidden-gems-exploring-memory-caching-and-garbage-collection-b5b10b4a114a?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-06-07T16:10:40.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to our in-depth exploration of two essential features in Solidity: memory caching and garbage collection. These powerful mechanisms…]]></summary>
         <author>
             <name>ADHRIT</name>
         </author>
@@ -295,6 +296,7 @@ https://devdao.to/blog-newsletter]]></summary>
         <id>https://medium.com/p/f37cae97ecda</id>
         <link href="https://blog.blockmagnates.com/smart-contract-communication-f37cae97ecda?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-05-31T12:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts are a core part of Dapp development. Many times a Dapp’s functionality is divided between a set of smart contracts…]]></summary>
         <author>
             <name>Boom</name>
         </author>
@@ -304,6 +306,7 @@ https://devdao.to/blog-newsletter]]></summary>
         <id>https://medium.com/p/d45f9a27fe7d</id>
         <link href="https://blog.blockmagnates.com/simple-collective-decision-making-system-on-ethereum-part-1-d45f9a27fe7d?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-05-31T12:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I have been learning about Smart contracts. I believe that smart contracts will be an important thing in the future. This…]]></summary>
         <author>
             <name>Isidro Martínez</name>
         </author>
@@ -417,6 +420,7 @@ The post ERC-5573 multi-asset token contracts appeared first on Crypto Market Po
         <id>https://medium.com/p/7383326b1a31</id>
         <link href="https://blog.blockmagnates.com/how-to-create-a-dao-7383326b1a31?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-05-15T12:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Rectangle DAO repository]]></summary>
         <author>
             <name>Boom</name>
         </author>
