@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-14T20:12:01.815Z</id>
+    <id>urn:2023-06-14T21:10:14.887Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-14T20:12:01.815Z</updated>
+    <updated>2023-06-14T21:10:14.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Developer's Guide to Chainlink VRF: Foundry Edition]]></title>
+        <id>https://blog.developerdao.com/the-developers-guide-to-chainlink-vrf-foundry-edition</id>
+        <link href="https://blog.developerdao.com/the-developers-guide-to-chainlink-vrf-foundry-edition"/>
+        <updated>2023-06-14T20:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Generating truly random numbers on a computer is a complex mathematical problem. However, most programming languages today have either native support for generating random numbers or come with supporting libraries that generate random numbers with an acceptable level of determinism mixed in.
+While generating acceptably-random numbers is a mostly solved problem in traditional computing, it is nigh impossible to do so on blockchains.
+Yes, you could hash together a bunch of block and transaction data with a keccak256 function, but that is ad-hoc at best and is definitely not production-worthy code today.
+If you've been in Web3 for any reasonable amount of time, you have undoubtedly heard of Chainlink.
+Chainlink is a decentralized oracle network that feeds a variety of data to blockchains in r…]]></summary>
+        <author>
+            <name>Priyank Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Empowering Individuals: An Introduction to Self-Sovereign Identity]]></title>
         <id>https://medium.com/p/dd9489344ad9</id>
