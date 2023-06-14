@@ -1,16 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-14T17:10:16.972Z</id>
+    <id>urn:2023-06-14T18:14:12.761Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-14T17:10:16.972Z</updated>
+    <updated>2023-06-14T18:14:12.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Addresses in Ethereum]]></title>
+        <id>https://medium.com/p/78f4d3882acd</id>
+        <link href="https://coinsbench.com/addresses-in-ethereum-78f4d3882acd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-14T17:49:04.000Z</updated>
+        <author>
+            <name>Denis Avtsin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building products on the open metaverse]]></title>
+        <id>https://medium.com/p/5df1e2769a98</id>
+        <link href="https://coinsbench.com/building-products-on-the-open-metaverse-5df1e2769a98?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-14T17:48:31.000Z</updated>
+        <author>
+            <name>Waweru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain: Solidity]]></title>
+        <id>https://medium.com/p/3af66ae70c54</id>
+        <link href="https://coinsbench.com/blockchain-solidity-3af66ae70c54?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-14T17:48:26.000Z</updated>
+        <author>
+            <name>Priyansh saxena</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web 3.0: A Simple Explanation]]></title>
+        <id>https://medium.com/p/649231afdb02</id>
+        <link href="https://coinsbench.com/web-3-0-a-simple-explanation-649231afdb02?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-14T17:47:55.000Z</updated>
+        <author>
+            <name>Sankar Srinivasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Fund Management?]]></title>
         <id>https://medium.com/p/5162a2a07047</id>
         <link href="https://medium.com/coinmonks/what-is-fund-management-5162a2a07047?source=rss----721b17443fd5---4"/>
         <updated>2023-06-14T15:23:11.000Z</updated>
-        <summary type="html"><![CDATA[Fund management in cryptocurrency is the process of overseeing and making investment decisions on behalf of entities who want exposure to…]]></summary>
         <author>
             <name>Cryptozone Africa</name>
         </author>
@@ -20,7 +55,6 @@
         <id>https://medium.com/p/40bb3976ed63</id>
         <link href="https://medium.com/coinmonks/enhancing-metis-builders-a-powerful-partnership-with-parsiq-integration-40bb3976ed63?source=rss----721b17443fd5---4"/>
         <updated>2023-06-14T15:23:10.000Z</updated>
-        <summary type="html"><![CDATA[As a leading blockchain platform, Metis has always sought to empower developers and entrepreneurs through providing them with an adequate…]]></summary>
         <author>
             <name>Ekon Justus</name>
         </author>
@@ -30,7 +64,6 @@
         <id>https://medium.com/p/d4f984c351d4</id>
         <link href="https://medium.com/coinmonks/hong-kongs-evolving-cryptocurrency-policy-navigating-innovation-and-regulation-d4f984c351d4?source=rss----721b17443fd5---4"/>
         <updated>2023-06-14T15:23:08.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Cryptophia</name>
         </author>
@@ -158,42 +191,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2023-06-12T10:16:57.000Z</updated>
         <author>
             <name>0xJimbo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power of Proof of Stake in Blockchain]]></title>
-        <id>https://medium.com/p/5b2ec5eeeb7f</id>
-        <link href="https://coinsbench.com/unlocking-efficiency-and-sustainability-the-power-of-proof-of-stake-in-blockchain-5b2ec5eeeb7f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-12T10:16:55.000Z</updated>
-        <author>
-            <name>Kishan Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consensus Algorithms in Blockchain]]></title>
-        <id>https://medium.com/p/619a80f7d13f</id>
-        <link href="https://coinsbench.com/consensus-algorithms-in-blockchain-619a80f7d13f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-12T10:16:46.000Z</updated>
-        <author>
-            <name>Sankar Srinivasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to create Deflationary Token?]]></title>
-        <id>https://medium.com/p/89927bec1985</id>
-        <link href="https://coinsbench.com/how-to-create-deflationary-token-89927bec1985?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-12T10:16:32.000Z</updated>
-        <author>
-            <name>Sankar Srinivasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guide to Tokenize Real Estate]]></title>
-        <id>https://medium.com/p/5536bd87fdd9</id>
-        <link href="https://coinsbench.com/guide-to-tokenize-real-estate-5536bd87fdd9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-12T10:16:23.000Z</updated>
-        <author>
-            <name>Sankar Srinivasan</name>
         </author>
     </entry>
     <entry>
