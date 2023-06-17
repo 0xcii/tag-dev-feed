@@ -279,6 +279,16 @@
       "siteUrl": "https://blog.developerdao.com",
       "articles": [
         {
+          "id": "https://blog.developerdao.com/devntell-streamr-network",
+          "author": "Narbeh Shahnazarian",
+          "description": "🌈 GM\nIn this week's episode of DevNTell, Nico Burkart gave us an overview of Streamr Network\n🌟 Developer Spotlight\nNico is a DevRel Engineer at Streamr and Data Union DAO. Nico, as with many other Developer DAO members, has a very inspiring story behind his journey into web3. Having sold all his possessions, Nico moved to Madeira to live the digital nomad life in pursuit of a career in web3. After some ups and downs, a brief stint as a web2 dishwasher API engineer and experiencing the wholesome community that is Developer DAO, Nico found his calling in web3 with Streamr Network.\n🔥 About Streamr Network\nFrom the Streamr Network documentation:\nThe Streamr Network is a peer-to-peer network for publishing and subscribing to data in real time. Applications use it for decentralized messaging, for example, sharing data across applications or broadcasting real-time state changes to large audiences. The decentralized nature of the system makes the data transport scalable, robust, secure, tamper proof, and censorship-resistant.\nResources:\nWebsite: https://streamr.network/\nDocumentation: https://docs.streamr.network/\nStreamr Developer Ambassador Program: https://share.hsforms.com/14jLAXgBLTBSaJBpqZMcV3A2lyqc\nGitHub: https://github.com/streamr-dev/network\nNico's Twitter: https://twitter.com/nicoburkart\nStreamr's Twitter: https://twitter.com/streamr\n🎥 Presentation\n\n\n\nhttps://www.youtube.com/watch?v=TWzcd6z8uaM",
+          "link": "https://blog.developerdao.com/devntell-streamr-network",
+          "publishedOn": "2023-06-17T04:58:55.000Z",
+          "wordCount": 3013,
+          "title": "DevNTell - Streamr Network",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1686977785197%2F2eb48240-83ac-4f5d-bdcd-d845209186bd.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
           "id": "https://blog.developerdao.com/the-developers-guide-to-chainlink-vrf-foundry-edition",
           "author": "Priyank Gupta",
           "description": "Generating truly random numbers on a computer is a complex mathematical problem. However, most programming languages today have either native support for generating random numbers or come with supporting libraries that generate random numbers with an acceptable level of determinism mixed in.\nWhile generating acceptably-random numbers is a mostly solved problem in traditional computing, it is nigh impossible to do so on blockchains.\nYes, you could hash together a bunch of block and transaction data with a keccak256 function, but that is ad-hoc at best and is definitely not production-worthy code today.\nIf you've been in Web3 for any reasonable amount of time, you have undoubtedly heard of Chainlink.\nChainlink is a decentralized oracle network that feeds a variety of data to blockchains in r…",
