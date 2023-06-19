@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-19T17:10:05.594Z</id>
+    <id>urn:2023-06-19T18:14:48.926Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-19T17:10:05.594Z</updated>
+    <updated>2023-06-19T18:14:48.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk Denies Dogecoin Insider Trading Allegations | Curated CoinCodeCap #19 June 2023]]></title>
+        <id>https://medium.com/p/48f98c27efac</id>
+        <link href="https://medium.com/coinmonks/elon-musk-denies-dogecoin-insider-trading-allegations-curated-coincodecap-19-june-2023-48f98c27efac?source=rss----721b17443fd5---4"/>
+        <updated>2023-06-19T18:10:38.000Z</updated>
+        <summary type="html"><![CDATA[Crypto Regulation, DAO Wars, DeFi Sagas, Bitcoin Supremacy, and Digital Avatars, all here with market updates and a meme.]]></summary>
+        <author>
+            <name>Coinmonks Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Robinhood” Shares The Decision Of SEC, Binance Present Situation]]></title>
         <id>https://medium.com/p/863e258a1ecf</id>
@@ -97,16 +107,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Trust: The Importance of Secure Token Development]]></title>
-        <id>https://medium.com/p/1e465a156595</id>
-        <link href="https://medium.com/coinmonks/building-trust-the-importance-of-secure-token-development-1e465a156595?source=rss----721b17443fd5---4"/>
-        <updated>2023-06-19T14:24:42.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced world of digital transactions and online interactions, building trust has become a paramount objective for businesses…]]></summary>
-        <author>
-            <name>Jennifer lewis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevNTell - Streamr Network]]></title>
         <id>https://blog.developerdao.com/devntell-streamr-network</id>
         <link href="https://blog.developerdao.com/devntell-streamr-network"/>
@@ -183,7 +183,6 @@ Chainlink is a decentralized oracle network that feeds a variety of data to bloc
         <id>https://medium.com/p/649231afdb02</id>
         <link href="https://coinsbench.com/web-3-0-a-simple-explanation-649231afdb02?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-14T17:47:55.000Z</updated>
-        <summary type="html"><![CDATA[The evolution of the internet has been a fascinating journey, from the early days of static web pages to the dynamic and interactive websites of Web 2.0. Now, we stand at the cusp of another…]]></summary>
         <author>
             <name>Sankar Srinivasan</name>
         </author>
@@ -243,7 +242,6 @@ Chainlink is a decentralized oracle network that feeds a variety of data to bloc
         <id>https://medium.com/p/fd9892e55ab1</id>
         <link href="https://coinsbench.com/ethernaut-puzzlewallet-solution-fd9892e55ab1?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-12T10:16:57.000Z</updated>
-        <summary type="html"><![CDATA[Level 24 of the Ethernaut CTFs introduced a new study area for me — proxy patterns.]]></summary>
         <author>
             <name>0xJimbo</name>
         </author>
@@ -283,7 +281,6 @@ https://www.youtube.com/watch?v=nVXKNEHItQs]]></summary>
         <id>https://medium.com/p/b5b10b4a114a</id>
         <link href="https://blog.blockmagnates.com/unleashing-soliditys-hidden-gems-exploring-memory-caching-and-garbage-collection-b5b10b4a114a?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-06-07T16:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to our in-depth exploration of two essential features in Solidity: memory caching and garbage collection. These powerful mechanisms…]]></summary>
         <author>
             <name>ADHRIT</name>
         </author>
@@ -348,7 +345,6 @@ https://devdao.to/blog-newsletter]]></summary>
         <id>https://medium.com/p/d45f9a27fe7d</id>
         <link href="https://blog.blockmagnates.com/simple-collective-decision-making-system-on-ethereum-part-1-d45f9a27fe7d?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-05-31T12:26:41.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I have been learning about Smart contracts. I believe that smart contracts will be an important thing in the future. This…]]></summary>
         <author>
             <name>Isidro Martínez</name>
         </author>
@@ -403,7 +399,6 @@ https://www.youtube.com/watch?v=nucX0pLY9JA]]></summary>
         <id>https://medium.com/p/1d81569a7833</id>
         <link href="https://blog.blockmagnates.com/state-machine-design-pattern-in-solidity-1d81569a7833?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-05-22T21:03:30.000Z</updated>
-        <summary type="html"><![CDATA[The design patterns in programming are proven solutions to common problems, and the state machine is one such design pattern, particularly…]]></summary>
         <author>
             <name>Luis Soares</name>
         </author>
