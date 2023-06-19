@@ -18,6 +18,96 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/cd25f2494375",
+          "author": "Crypto Truster",
+          "description": "Proof of Stake (PoS) is a consensus mechanism that plays a pivotal role in Ethereum 2.0, the next evolution of the Ethereum blockchain…",
+          "link": "https://coinsbench.com/understanding-proof-of-stake-pos-and-its-significance-in-ethereum-2-0-cd25f2494375?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-19T20:18:34.000Z",
+          "wordCount": 1893,
+          "title": "Understanding Proof of Stake (PoS) and Its Significance in Ethereum 2.0",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*TOizXmARh1LQE--t"
+        },
+        {
+          "id": "https://medium.com/p/6ce8deefad7",
+          "author": "Sankar Srinivasan",
+          "description": "Discover the essential steps and strategies for successful crypto mining with my comprehensive guide. Learn about hardware requirements…",
+          "link": "https://coinsbench.com/the-ultimate-crypto-mining-guide-6ce8deefad7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-19T20:18:30.000Z",
+          "wordCount": 8648,
+          "title": "The Ultimate Crypto Mining Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:820/0*3ed9aJ6iLVovGoVu"
+        },
+        {
+          "id": "https://medium.com/p/f1a061349eba",
+          "author": "lopotras",
+          "description": "Preparing for Solady’s collaborative review I decided to kickstart my learning process by solving Yul puzzles provided by one of the chads…",
+          "link": "https://coinsbench.com/yul-puzzles-1-counter-in-yul-function-selector-f1a061349eba?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-19T20:18:27.000Z",
+          "wordCount": 3094,
+          "title": "Yul Puzzles #1 — Counter in Yul: Function Selector",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WnSmynre2CrL1ftH1hLzlQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/a69fd440089e",
+          "author": "Vishnu Sivan",
+          "description": "In the realm of Natural Language Processing (NLP), summarizing extensive or multiple documents presents a formidable challenge. The sheer…",
+          "link": "https://coinsbench.com/revolutionizing-nlp-summarization-with-langchain-overcoming-challenges-of-large-document-a69fd440089e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-19T20:18:23.000Z",
+          "wordCount": 3863,
+          "title": "Revolutionizing NLP Summarization with LangChain: Overcoming Challenges of Large Document…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*C2vNMBhEO6WgR-FNvVK0dQ.png"
+        },
+        {
+          "id": "https://medium.com/p/f0775d5e001a",
+          "author": "James Lim",
+          "description": "Week 5— My Journey to Becoming a Smart Contract Auditor",
+          "link": "https://coinsbench.com/aave-v3-simple-flash-loan-tutorial-f0775d5e001a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-19T20:18:19.000Z",
+          "wordCount": 3552,
+          "title": "Aave V3 Simple Flash Loan Tutorial",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*PcJ_vfJyCpsZbtpm"
+        },
+        {
+          "id": "https://medium.com/p/21fd958f2556",
+          "author": "Burgossrodrigo",
+          "description": "Triangular arbitrage is a trading strategy that takes advantage of price differences between three different assets to generate profits. In…",
+          "link": "https://coinsbench.com/triangular-arbitrage-using-solidity-and-javascript-a-brief-explanation-21fd958f2556?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-19T20:18:14.000Z",
+          "wordCount": 2627,
+          "title": "Triangular Arbitrage using Solidity and JavaScript: A Brief Explanation",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*fdqhEB1GQOEqzpm3"
+        },
+        {
+          "id": "https://medium.com/p/5b7082354cd3",
+          "author": "Javier Calderon",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/leveraging-pycryptobot-for-optimal-cryptocurrency-trading-5b7082354cd3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-19T20:18:10.000Z",
+          "wordCount": 1748,
+          "title": "Leveraging PyCryptoBot for Optimal Cryptocurrency Trading",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*7k7Dzhso_EP2Mf8qMc7fdw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3de3fec969e5",
+          "author": "Cayo Tor",
+          "description": "Token Fungibility, Flash Loans and Tokenized Vaults",
+          "link": "https://coinsbench.com/essential-erc-standards-every-developer-should-know-3de3fec969e5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-19T20:18:06.000Z",
+          "wordCount": 6347,
+          "title": "Essential ERC Standards Every Developer Should Know",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*cHSgBOc0rMYMUAbA"
+        },
+        {
+          "id": "https://medium.com/p/f81ae5fdfc8f",
+          "author": "Denis Avtsin",
+          "description": "In this article, we will learn how to deploy a very simple smart contract on the local blockchain Ganache and how to interact with it.",
+          "link": "https://coinsbench.com/smart-contract-solidity-ganache-f81ae5fdfc8f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-19T20:17:46.000Z",
+          "wordCount": 5481,
+          "title": "Smart contract. Solidity + Ganache",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*l8X8PbhVg-9jtWa6OgXnZw.png"
+        },
+        {
           "id": "https://medium.com/p/78f4d3882acd",
           "author": "Denis Avtsin",
           "description": "This article will focus on addresses on the Ethereum network, private and public keys, hash functions, accounts, and special addresses.",
@@ -26,96 +116,6 @@
           "wordCount": 5187,
           "title": "Addresses in Ethereum",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*g1BcqQ4C9xV6ghSAr6gtTQ.png"
-        },
-        {
-          "id": "https://medium.com/p/5df1e2769a98",
-          "author": "Waweru",
-          "description": "If you were asked to describe the Metaverse with one word? What would it be? I’d describe it as an experience. Simply put as a shared virtual space with enhanced physical reality and persistent…",
-          "link": "https://coinsbench.com/building-products-on-the-open-metaverse-5df1e2769a98?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-14T17:48:31.000Z",
-          "wordCount": 2882,
-          "title": "Building products on the open metaverse",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TFvRqiUZkTNaP4mzGr0c7Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3af66ae70c54",
-          "author": "Priyansh saxena",
-          "description": "Here, I want to give a brief introduction to solidity that touches on several fundamental issues.",
-          "link": "https://coinsbench.com/blockchain-solidity-3af66ae70c54?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-14T17:48:26.000Z",
-          "wordCount": 2317,
-          "title": "Blockchain: Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:750/0*dU_yqlz4jKXHbLx-.jpg"
-        },
-        {
-          "id": "https://medium.com/p/649231afdb02",
-          "author": "Sankar Srinivasan",
-          "description": "The evolution of the internet has been a fascinating journey, from the early days of static web pages to the dynamic and interactive websites of Web 2.0. Now, we stand at the cusp of another…",
-          "link": "https://coinsbench.com/web-3-0-a-simple-explanation-649231afdb02?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-14T17:47:55.000Z",
-          "wordCount": 2373,
-          "title": "Web 3.0: A Simple Explanation",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*HvU9tDClCyeujYDPJuHxxg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/b710c64627bb",
-          "author": "Crypto Truster",
-          "description": "Proof of Stake (PoS) has gained traction as a consensus mechanism in the blockchain space due to its energy efficiency, scalability, and…",
-          "link": "https://coinsbench.com/real-world-examples-of-pos-implementations-b710c64627bb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-12T10:17:24.000Z",
-          "wordCount": 1935,
-          "title": "Real-World Examples of PoS Implementations",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*LEsMr2CyJfeZ_Z-8"
-        },
-        {
-          "id": "https://medium.com/p/314784657f7e",
-          "author": "Crypto Truster",
-          "description": "Proof of Stake (PoS) is a consensus algorithm that offers several advantages over traditional Proof of Work (PoW) systems. In this article…",
-          "link": "https://coinsbench.com/advantages-of-proof-of-stake-pos-314784657f7e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-12T10:17:20.000Z",
-          "wordCount": 1815,
-          "title": "Advantages of Proof of Stake (PoS):",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*tU7--UbmdoYigSKR"
-        },
-        {
-          "id": "https://medium.com/p/16a1575fc71f",
-          "author": "James Lim",
-          "description": "Week 4 — My Journey to Becoming a Smart Contract Auditor",
-          "link": "https://coinsbench.com/aave-v3-explained-in-5-minutes-16a1575fc71f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-12T10:17:16.000Z",
-          "wordCount": 4792,
-          "title": "Aave V3 Explained in 5 Minutes",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*aCxluVJrrs7XgQozY0pvaw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/cffe0273b184",
-          "author": "Denis Avtsin",
-          "description": "In this article, I’ll show you how to interact with a public Ethereum test blockchain using just the web3.js library and a terminal.",
-          "link": "https://coinsbench.com/connecting-to-the-ethereum-testnet-using-only-web3-js-and-the-console-cffe0273b184?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-12T10:17:09.000Z",
-          "wordCount": 3849,
-          "title": "Connecting to the Ethereum Testnet using only web3.js and the console",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3d9LjtMQMy1PRZdCAh_bBg.png"
-        },
-        {
-          "id": "https://medium.com/p/6d7b726070f9",
-          "author": "Maxwell Onyeka",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/comprehensive-tutorial-deploying-and-interacting-with-the-openauction-smart-contract-6d7b726070f9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-12T10:17:01.000Z",
-          "wordCount": 2062,
-          "title": "Comprehensive Tutorial: Deploying and Interacting with the OpenAuction Smart Contract",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*dhrWW1OJ4Njt0QT_"
-        },
-        {
-          "id": "https://medium.com/p/fd9892e55ab1",
-          "author": "0xJimbo",
-          "description": "Level 24 of the Ethernaut CTFs introduced a new study area for me — proxy patterns.",
-          "link": "https://coinsbench.com/ethernaut-puzzlewallet-solution-fd9892e55ab1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-12T10:16:57.000Z",
-          "wordCount": 2430,
-          "title": "Ethernaut Puzzlewallet — Solution",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*nV_IOgi8J0zHCu-gLukp0A.png"
         }
       ]
     },
