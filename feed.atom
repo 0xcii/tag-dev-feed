@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-20T05:11:42.365Z</id>
+    <id>urn:2023-06-20T06:15:44.323Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-20T05:11:42.365Z</updated>
+    <updated>2023-06-20T06:15:44.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -30,7 +30,6 @@
         <id>https://medium.com/p/f1a061349eba</id>
         <link href="https://coinsbench.com/yul-puzzles-1-counter-in-yul-function-selector-f1a061349eba?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-19T20:18:27.000Z</updated>
-        <summary type="html"><![CDATA[Preparing for Solady’s collaborative review I decided to kickstart my learning process by solving Yul puzzles provided by one of the chads…]]></summary>
         <author>
             <name>lopotras</name>
         </author>
@@ -243,7 +242,6 @@ Chainlink is a decentralized oracle network that feeds a variety of data to bloc
         <id>https://medium.com/p/78f4d3882acd</id>
         <link href="https://coinsbench.com/addresses-in-ethereum-78f4d3882acd?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-14T17:49:04.000Z</updated>
-        <summary type="html"><![CDATA[This article will focus on addresses on the Ethereum network, private and public keys, hash functions, accounts, and special addresses.]]></summary>
         <author>
             <name>Denis Avtsin</name>
         </author>
@@ -283,7 +281,6 @@ https://www.youtube.com/watch?v=nVXKNEHItQs]]></summary>
         <id>https://medium.com/p/b5b10b4a114a</id>
         <link href="https://blog.blockmagnates.com/unleashing-soliditys-hidden-gems-exploring-memory-caching-and-garbage-collection-b5b10b4a114a?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-06-07T16:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to our in-depth exploration of two essential features in Solidity: memory caching and garbage collection. These powerful mechanisms…]]></summary>
         <author>
             <name>ADHRIT</name>
         </author>
@@ -338,7 +335,6 @@ https://devdao.to/blog-newsletter]]></summary>
         <id>https://medium.com/p/f37cae97ecda</id>
         <link href="https://blog.blockmagnates.com/smart-contract-communication-f37cae97ecda?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-05-31T12:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts are a core part of Dapp development. Many times a Dapp’s functionality is divided between a set of smart contracts…]]></summary>
         <author>
             <name>Boom</name>
         </author>
@@ -348,7 +344,6 @@ https://devdao.to/blog-newsletter]]></summary>
         <id>https://medium.com/p/d45f9a27fe7d</id>
         <link href="https://blog.blockmagnates.com/simple-collective-decision-making-system-on-ethereum-part-1-d45f9a27fe7d?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-05-31T12:26:41.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I have been learning about Smart contracts. I believe that smart contracts will be an important thing in the future. This…]]></summary>
         <author>
             <name>Isidro Martínez</name>
         </author>
@@ -403,7 +398,6 @@ https://www.youtube.com/watch?v=nucX0pLY9JA]]></summary>
         <id>https://medium.com/p/1d81569a7833</id>
         <link href="https://blog.blockmagnates.com/state-machine-design-pattern-in-solidity-1d81569a7833?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-05-22T21:03:30.000Z</updated>
-        <summary type="html"><![CDATA[The design patterns in programming are proven solutions to common problems, and the state machine is one such design pattern, particularly…]]></summary>
         <author>
             <name>Luis Soares</name>
         </author>
