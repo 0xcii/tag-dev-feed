@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-21T08:14:56.261Z</id>
+    <id>urn:2023-06-21T09:11:38.299Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-21T08:14:56.261Z</updated>
+    <updated>2023-06-21T09:11:38.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pandas AI: Supercharging data analysis with generative AI]]></title>
+        <id>https://medium.com/p/f64c95352607</id>
+        <link href="https://coinsbench.com/pandas-ai-supercharging-data-analysis-with-generative-ai-f64c95352607?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-21T08:28:33.000Z</updated>
+        <summary type="html"><![CDATA[Data analysis has become the cornerstone of decision-making across industries, driving organizations to explore innovative approaches that…]]></summary>
+        <author>
+            <name>Vishnu Sivan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#1. Unstoppable — Damn Vulnerable DeFi]]></title>
+        <id>https://medium.com/p/7651c96f35d2</id>
+        <link href="https://coinsbench.com/1-unstoppable-damn-vulnerable-defi-7651c96f35d2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-21T08:28:29.000Z</updated>
+        <summary type="html"><![CDATA[To pass the challenge make the Vault stop offering flash loans.]]></summary>
+        <author>
+            <name>Kundan Kumar Kushwaha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The on-chain Assets (NFTs) will be a new Golden Ticket for Brands  — Part 1/3]]></title>
+        <id>https://medium.com/p/125302b27ec3</id>
+        <link href="https://coinsbench.com/the-on-chain-assets-nfts-will-be-a-new-golden-ticket-for-brands-part-1-3-125302b27ec3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-21T08:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Charlie and the Chocolate Factory film tells the story of a poor child named Charlie Bucket who, after finding a Golden Ticket in a…]]></summary>
+        <author>
+            <name>Alex Fuentes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Smart Contract Hacking Course and The Multiverse]]></title>
+        <id>https://medium.com/p/136fd5e9312d</id>
+        <link href="https://coinsbench.com/the-smart-contract-hacking-course-and-the-multiverse-136fd5e9312d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-21T08:28:21.000Z</updated>
+        <summary type="html"><![CDATA[My first memory of the Multiverse is Crisis on the Infinite Earths (1985). In this gigantic comic book saga, all the Multiverses are about…]]></summary>
+        <author>
+            <name>Aitor Zaldua</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin is Actually a Store of Energy, and That Changes Everything]]></title>
         <id>https://medium.com/p/89106b66d40a</id>
@@ -171,36 +211,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leveraging PyCryptoBot for Optimal Cryptocurrency Trading]]></title>
-        <id>https://medium.com/p/5b7082354cd3</id>
-        <link href="https://coinsbench.com/leveraging-pycryptobot-for-optimal-cryptocurrency-trading-5b7082354cd3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-19T20:18:10.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Javier Calderon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Essential ERC Standards Every Developer Should Know]]></title>
-        <id>https://medium.com/p/3de3fec969e5</id>
-        <link href="https://coinsbench.com/essential-erc-standards-every-developer-should-know-3de3fec969e5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-19T20:18:06.000Z</updated>
-        <summary type="html"><![CDATA[Token Fungibility, Flash Loans and Tokenized Vaults]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart contract. Solidity + Ganache]]></title>
-        <id>https://medium.com/p/f81ae5fdfc8f</id>
-        <link href="https://coinsbench.com/smart-contract-solidity-ganache-f81ae5fdfc8f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-19T20:17:46.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will learn how to deploy a very simple smart contract on the local blockchain Ganache and how to interact with it.]]></summary>
-        <author>
-            <name>Denis Avtsin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevNTell - Streamr Network]]></title>
         <id>https://blog.developerdao.com/devntell-streamr-network</id>
         <link href="https://blog.developerdao.com/devntell-streamr-network"/>
@@ -240,16 +250,6 @@ If you've been in Web3 for any reasonable amount of time, you have undoubtedly h
 Chainlink is a decentralized oracle network that feeds a variety of data to blockchains in r…]]></summary>
         <author>
             <name>Priyank Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addresses in Ethereum]]></title>
-        <id>https://medium.com/p/78f4d3882acd</id>
-        <link href="https://coinsbench.com/addresses-in-ethereum-78f4d3882acd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-14T17:49:04.000Z</updated>
-        <summary type="html"><![CDATA[This article will focus on addresses on the Ethereum network, private and public keys, hash functions, accounts, and special addresses.]]></summary>
-        <author>
-            <name>Denis Avtsin</name>
         </author>
     </entry>
     <entry>
@@ -400,16 +400,6 @@ Celesita's website: https://celestia.org/
 https://www.youtube.com/watch?v=nucX0pLY9JA]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State Machine Design Pattern in Solidity]]></title>
-        <id>https://medium.com/p/1d81569a7833</id>
-        <link href="https://blog.blockmagnates.com/state-machine-design-pattern-in-solidity-1d81569a7833?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-05-22T21:03:30.000Z</updated>
-        <summary type="html"><![CDATA[The design patterns in programming are proven solutions to common problems, and the state machine is one such design pattern, particularly…]]></summary>
-        <author>
-            <name>Luis Soares</name>
         </author>
     </entry>
 </feed>
