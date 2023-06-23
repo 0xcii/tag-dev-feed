@@ -100,12 +100,12 @@
         {
           "id": "https://medium.com/p/7651c96f35d2",
           "author": "Kundan Kumar Kushwaha",
-          "description": "To pass the challenge make the Vault stop offering flash loans.",
+          "description": "",
           "link": "https://coinsbench.com/1-unstoppable-damn-vulnerable-defi-7651c96f35d2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-06-21T08:28:29.000Z",
-          "wordCount": 3773,
+          "wordCount": null,
           "title": "#1. Unstoppable — Damn Vulnerable DeFi",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:574/1*9WtRjrHTuoaFFKK2K5hiuw.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/125302b27ec3",
@@ -234,32 +234,32 @@
         {
           "id": "https://medium.com/p/b5b10b4a114a",
           "author": "ADHRIT",
-          "description": "Welcome to our in-depth exploration of two essential features in Solidity: memory caching and garbage collection. These powerful mechanisms…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/unleashing-soliditys-hidden-gems-exploring-memory-caching-and-garbage-collection-b5b10b4a114a?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-06-07T16:10:40.000Z",
-          "wordCount": 2755,
+          "wordCount": null,
           "title": "Unleashing Solidity’s Hidden Gems: Exploring Memory Caching and Garbage Collection",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/0*8xhCS4NXzB-0ZsBH.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/f37cae97ecda",
           "author": "Boom",
-          "description": "Smart contracts are a core part of Dapp development. Many times a Dapp’s functionality is divided between a set of smart contracts…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/smart-contract-communication-f37cae97ecda?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-31T12:26:46.000Z",
-          "wordCount": 4894,
+          "wordCount": null,
           "title": "Smart Contract Communication",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1OX3C6BK3DtsMjlV_4sDZQ.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/d45f9a27fe7d",
           "author": "Isidro Martínez",
-          "description": "Recently, I have been learning about Smart contracts. I believe that smart contracts will be an important thing in the future. This…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/simple-collective-decision-making-system-on-ethereum-part-1-d45f9a27fe7d?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-05-31T12:26:41.000Z",
-          "wordCount": 2737,
+          "wordCount": null,
           "title": "Simple collective decision-making system on Ethereum —  Part 1",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:531/1*Ge51BrD_lIoq3gIy9J4XTw.png"
+          "imageUrl": null
         }
       ]
     },
@@ -294,7 +294,7 @@
           "description": "Generating truly random numbers on a computer is a complex mathematical problem. However, most programming languages today have either native support for generating random numbers or come with supporting libraries that generate random numbers with an acceptable level of determinism mixed in.\nWhile generating acceptably-random numbers is a mostly solved problem in traditional computing, it is nigh impossible to do so on blockchains.\nYes, you could hash together a bunch of block and transaction data with a keccak256 function, but that is ad-hoc at best and is definitely not production-worthy code today.\nIf you've been in Web3 for any reasonable amount of time, you have undoubtedly heard of Chainlink.\nChainlink is a decentralized oracle network that feeds a variety of data to blockchains in r…",
           "link": "https://blog.developerdao.com/the-developers-guide-to-chainlink-vrf-foundry-edition",
           "publishedOn": "2023-06-14T20:09:25.000Z",
-          "wordCount": 27088,
+          "wordCount": 27116,
           "title": "The Developer's Guide to Chainlink VRF: Foundry Edition",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1686773358218%2F4d6d7d33-7c25-467b-94c1-8f9df87f6c1c.jpeg%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -334,7 +334,7 @@
           "description": "I wrote this article as a technical introduction to the Scroll zkEVM for smart contract developers who want to try out the network.\nIn this article, we will:\nLearn about Scroll zkEVM and how to start with its' Alpha testnet.\nSet up a dev environment with Foundry and write a smart contract that dispenses ETH on the Alpha testnet based on a pseudo-random number-generating function.\nTweak the smart contract to fit in with the exact specifications required for the Alpha testnet\nDeploy our smart contract with the help of a Solidity script.\nVerify our smart contract on the Alpha testnet straight out of Foundry's command line.\nBy the end of this article, you will learn how to deploy your smart contracts to Scroll's Alpha testnet with Foundry.\nWhat is the Scroll zkEVM?\n\nScroll zkEVM is a soon-to-l…",
           "link": "https://blog.developerdao.com/a-complete-intro-to-smart-contract-development-on-the-scroll-zkevm",
           "publishedOn": "2023-05-29T14:28:28.000Z",
-          "wordCount": 15129,
+          "wordCount": 15157,
           "title": "A Complete Intro to Smart Contract Development on the Scroll zkEVM",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1685370451624%2Fcce61e77-fcc6-4945-9063-eb0f9c97d44e.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
