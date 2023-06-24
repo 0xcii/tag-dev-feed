@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-24T06:16:22.584Z</id>
+    <id>urn:2023-06-24T07:11:52.032Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-24T06:16:22.584Z</updated>
+    <updated>2023-06-24T07:11:52.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -30,6 +30,7 @@
         <id>https://medium.com/p/5640be8e529</id>
         <link href="https://coinsbench.com/is-this-address-a-contract-5640be8e529?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-23T14:40:11.000Z</updated>
+        <summary type="html"><![CDATA[There are two types of accounts in Ethereum:]]></summary>
         <author>
             <name>Ethan Rouimi</name>
         </author>
@@ -69,6 +70,7 @@
         <id>https://medium.com/p/5970ac42e353</id>
         <link href="https://coinsbench.com/2-naive-receiver-damn-vulnerable-defi-5970ac42e353?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-06-23T14:39:43.000Z</updated>
+        <summary type="html"><![CDATA[It was an easy challenge when you compare these contracts with the contracts in Unstoppable challenge. You can figure out where the…]]></summary>
         <author>
             <name>Kundan Kumar Kushwaha</name>
         </author>
@@ -365,6 +367,7 @@ https://devdao.to/blog-newsletter]]></summary>
         <id>https://medium.com/p/d45f9a27fe7d</id>
         <link href="https://blog.blockmagnates.com/simple-collective-decision-making-system-on-ethereum-part-1-d45f9a27fe7d?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-05-31T12:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I have been learning about Smart contracts. I believe that smart contracts will be an important thing in the future. This…]]></summary>
         <author>
             <name>Isidro Martínez</name>
         </author>
