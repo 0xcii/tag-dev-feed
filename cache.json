@@ -269,6 +269,16 @@
       "siteUrl": "https://blog.developerdao.com",
       "articles": [
         {
+          "id": "https://blog.developerdao.com/devntell-webstudio",
+          "author": "Narbeh Shahnazarian",
+          "description": "🌈 GM\nIn this week's episode of DevNTell, Giancarlo gave us an overview of Webstudio: a drag-and-drop website 3.0 builder\n🌟 Developer Spotlight\nGiancarlo is a software engineer from Venezuela and founder of Webstudio, a no-code decentralized website builder. Giancarlo is passionate about bringing the benefits of Web 3.0 to the masses. Before Webstudio, he worked as a manager and engineer at Amazon, where he gained valuable experience in tech and leadership and had the privilege of working with outstanding folks. Before that, he was a founding engineer at Glofox, a fitness software company in Ireland. Giancarlo is excited to be a part of the Web3 space so that he can contribute to building a more decentralized and democratized Internet where people have more control over their data, finances, and ultimately their lives.\n🔥 About Webstudio\nWebstudio is a drag-and-drop website 3.0 builder featuring 250+ UI blocks and 10+ pre-built templates powered by TailwindCSS. Sites are deployed in the Interplanetary File System for resilient and tamper-proof, peer-to-peer sharing even in areas with slow or limited connectivity. Web3 native blocks make it easy to build applications that interact with EVM networks such as Ethereum or Polygon.\nResources:\nWebsite: https://www.webstudio.so/\nGitHub: https://github.com/webstudioso\nTwitter: https://twitter.com/webstudioso\nGiancarlo's Twitter: https://twitter.com/gianksp\nSlides from the presentation: https://docs.google.com/presentation/d/13YiBvNtvRABi9BkSf9lNjCfD-EGdrd7QbBvkYXp8kgI/edit?usp=sharing\n\n🎥 Presentation\n\n\n\nhttps://www.youtube.com/watch?v=GSEFCVsWSxM",
+          "link": "https://blog.developerdao.com/devntell-webstudio",
+          "publishedOn": "2023-06-24T18:44:31.000Z",
+          "wordCount": 3135,
+          "title": "DevNTell - Webstudio",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1687631455253%2F95c467d0-9264-4f5b-a0f1-255a2da1319c.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
+        {
           "id": "https://blog.developerdao.com/how-to-integrate-biconomy-into-your-dapp",
           "author": "Naman Garg",
           "description": "Do you want to provide easy Web2-like onboarding to your Web3 app? Imagine if users don't need any wallets or funds to pay for gas fees and deal with complex transaction pop-ups to use your Web3 app 🤯\nBiconomy's robust SDK uses account abstraction (EIP 4337) to provide various features. Be it by allowing users to make smart wallets with their Gmail account or by sending transactions with no pop-ups. It has helped countless DApps increase their users by 10x and existing \"Web2\" apps to provide Web3 features to their users. If you wish to do the same, follow this guide to learn the basics by building a demo DApp!\nIn this guide, I'll show you how to integrate Biconomy in your Web3 app to simplify UX by creating a simple message board decentralized application (DApp) where people can post anon…",
