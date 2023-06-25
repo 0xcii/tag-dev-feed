@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-25T10:13:30.532Z</id>
+    <id>urn:2023-06-25T11:11:39.521Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-25T10:13:30.532Z</updated>
+    <updated>2023-06-25T11:11:39.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -418,32 +418,6 @@ What is the Scroll zkEVM?
 Scroll zkEVM is a soon-to-…]]></summary>
         <author>
             <name>Priyank Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevNTell - Modular Blockchains]]></title>
-        <id>https://blog.developerdao.com/devntell-modular-blockchains</id>
-        <link href="https://blog.developerdao.com/devntell-modular-blockchains"/>
-        <updated>2023-05-26T22:44:45.000Z</updated>
-        <summary type="html"><![CDATA[🌈 GM
-In this week's episode of DevNTell, Developer DAO legend Josh Stein gave us an overview of Modular Blockchains with Celestia
-🌟 Developer Spotlight
-Josh is a tech enthusiast who likes building with and playing with the latest gadgets and software. Hes on the DevRel team at Celestia Labs and will be sharing more about modular blockchains. When hes not at the computer, he likes biking, swimming, and bouldering.
-📖 Resources to get started with Modular Blockchains
-Presentation: https://ipfs.io/ipfs/bafybeifq7plwhhaqjwcflb244lgtjnbhd4jf36xql7r4nf5rwqq2ryjnbe/DevNTell_%20Intro%20to%20Modular%20Blockchains.pdf
-Run a light node from the source: https://docs.celestia.org/nodes/light-node/
-Run a light node with Docker: https://docs.celestia.org/nodes/docker/
-Once your node is synced, try this tutorial: https://based64.xyz/
-Josh's Twitter: https://twitter.com/JoshCStein
-Celesita's website: https://celestia.org/
-
-🎥 Presentation
-
-
-
-https://www.youtube.com/watch?v=nucX0pLY9JA]]></summary>
-        <author>
-            <name>Narbeh Shahnazarian</name>
         </author>
     </entry>
 </feed>
