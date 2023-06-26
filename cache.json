@@ -18,104 +18,104 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
-          "id": "https://medium.com/p/5595627e9399",
-          "author": "Crypto Truster",
-          "description": "Blockchain technology has evolved rapidly since the introduction of Bitcoin, and one of the significant advancements in consensus…",
-          "link": "https://coinsbench.com/the-evolution-of-blockchain-consensus-exploring-proof-of-stake-pos-and-its-advantages-5595627e9399?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-23T14:40:37.000Z",
-          "wordCount": 2890,
-          "title": "The Evolution of Blockchain Consensus: Exploring Proof of Stake (PoS) and Its Advantages",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*mW4kpUcc3Bc-n6Ad"
+          "id": "https://medium.com/p/b9d2b89bbc0c",
+          "author": "Okoli Evans",
+          "description": "Pre-script: This article is not intended for newbies, knowledge of Ethereum and/or solidity is presumed.",
+          "link": "https://coinsbench.com/understanding-digital-signatures-the-role-of-v-r-s-in-cryptographic-security-and-signature-b9d2b89bbc0c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-26T16:21:27.000Z",
+          "wordCount": 5661,
+          "title": "Understanding Digital Signatures: The Role of v, r, s in Cryptographic Security and Signature…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*vRTTn8kwv-Nza_pw4Hlwlg.jpeg"
         },
         {
-          "id": "https://medium.com/p/5640be8e529",
-          "author": "Ethan Rouimi",
-          "description": "There are two types of accounts in Ethereum:",
-          "link": "https://coinsbench.com/is-this-address-a-contract-5640be8e529?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-23T14:40:11.000Z",
-          "wordCount": 2382,
-          "title": "Is this Address a contract??",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/0*KqkRvqJkvp8T-_Mb"
+          "id": "https://medium.com/p/8a9dbf760fa4",
+          "author": "Solidity Academy",
+          "description": "The world of blockchain technology and Web3 development is built on a foundation of mathematical concepts and algorithms. Solidity, the…",
+          "link": "https://coinsbench.com/the-math-you-need-to-know-as-a-solidity-developer-8a9dbf760fa4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-26T16:21:20.000Z",
+          "wordCount": 8521,
+          "title": "The Math You Need to Know as a Solidity Developer",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*_Ovu4NmY5sDH4Sl2qGhmqw.png"
         },
         {
-          "id": "https://medium.com/p/aac3f92d19e7",
-          "author": "Ethan Rouimi",
-          "description": "These are the 5 lines of code that a Hacker used to get out of “The DAO” contract of nearly 50 million dollars of Ether and resulted in…",
-          "link": "https://coinsbench.com/re-entrancy-attack-a-50-million-dollar-exploit-aac3f92d19e7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-23T14:40:02.000Z",
-          "wordCount": 3611,
-          "title": "Re-entrancy Attack a 50+ million dollar exploit",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*GayMjErEPwFQ5UZQ"
-        },
-        {
-          "id": "https://medium.com/p/cd8f45896173",
-          "author": "Ethan Rouimi",
-          "description": "In the Ethereum Virtual Machine (EVM), there are different types of storage available for smart contracts. These storage options determine…",
-          "link": "https://coinsbench.com/types-of-data-storage-in-the-evm-cd8f45896173?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-23T14:39:56.000Z",
-          "wordCount": 2381,
-          "title": "Types of data storage in the EVM",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Fj6Q5DmNuPsTytDldbe-Aw@2x.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/180de71ab2af",
-          "author": "Ethan Rouimi",
-          "description": "Which contract you think will consume less gas?",
-          "link": "https://coinsbench.com/constants-in-solidity-180de71ab2af?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-23T14:39:52.000Z",
-          "wordCount": 2348,
-          "title": "Constants in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:704/1*QD-QHJliwqDKAjnOM_6k7w.png"
-        },
-        {
-          "id": "https://medium.com/p/5970ac42e353",
+          "id": "https://medium.com/p/120e7d025248",
           "author": "Kundan Kumar Kushwaha",
-          "description": "It was an easy challenge when you compare these contracts with the contracts in Unstoppable challenge. You can figure out where the…",
-          "link": "https://coinsbench.com/2-naive-receiver-damn-vulnerable-defi-5970ac42e353?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-23T14:39:43.000Z",
-          "wordCount": 2668,
-          "title": "#2. Naive Receiver — Damn Vulnerable DeFi",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:818/1*c28QXJuHEU-Xiy9j1iuD3A.png"
+          "description": "A few months ago I started learning Solidity and jumped into learning Smart Contract Auditing. I solved all Ethernaut Challenges from there…",
+          "link": "https://coinsbench.com/introducing-damn-vulnerable-defi-challenge-120e7d025248?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-26T16:21:18.000Z",
+          "wordCount": 2530,
+          "title": "Introducing Damn Vulnerable DeFi Challenge.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*X2plCg0FC0tT2P1Y-jW8AQ.png"
         },
         {
-          "id": "https://medium.com/p/987c8b68310",
-          "author": "Rohit Goyal",
-          "description": "Title: Staking Contract: Earn Passive Income with Smart Contracts",
-          "link": "https://coinsbench.com/multiple-staking-in-multiple-plan-flexible-staking-987c8b68310?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-23T14:39:38.000Z",
-          "wordCount": 5449,
-          "title": "Multiple Staking in Multiple Plans | Flexible Staking Smart Contract",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*T4KFLjg8G4p9F2Aw"
+          "id": "https://medium.com/p/f05778ec9576",
+          "author": "Kien Duong",
+          "description": "In this post, we’re going to build the logic for the client side. First of all, we need to create the mockup design for the donation web…",
+          "link": "https://coinsbench.com/donation-smart-contract-with-ethereum-part-3-f05778ec9576?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-26T16:20:58.000Z",
+          "wordCount": 6265,
+          "title": "Donation Smart Contract with Ethereum (Part 3)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*Ax2_6YkBXELL0-fUp3IOZg.png"
         },
         {
-          "id": "https://medium.com/p/f64c95352607",
-          "author": "Vishnu Sivan",
-          "description": "Data analysis has become the cornerstone of decision-making across industries, driving organizations to explore innovative approaches that…",
-          "link": "https://coinsbench.com/pandas-ai-supercharging-data-analysis-with-generative-ai-f64c95352607?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-21T08:28:33.000Z",
-          "wordCount": 4364,
-          "title": "Pandas AI: Supercharging data analysis with generative AI",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*aIFVnbbRsjjwxcBvtA0krw.png"
+          "id": "https://medium.com/p/246d23f4b383",
+          "author": "Andrew Prasaath",
+          "description": "Decentralized Finance (DeFi) has revolutionized the financial landscape by offering open, transparent, and inclusive alternatives to…",
+          "link": "https://coinsbench.com/defi-series-1-understanding-automated-market-makers-amms-intuitively-246d23f4b383?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-26T16:20:52.000Z",
+          "wordCount": 6544,
+          "title": "DeFi Series #1: Understanding Automated Market Makers (AMMs) Intuitively",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*I5o8B6eJI6V4JX38.jpeg"
         },
         {
-          "id": "https://medium.com/p/7651c96f35d2",
-          "author": "Kundan Kumar Kushwaha",
-          "description": "To pass the challenge make the Vault stop offering flash loans.",
-          "link": "https://coinsbench.com/1-unstoppable-damn-vulnerable-defi-7651c96f35d2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-21T08:28:29.000Z",
-          "wordCount": 3818,
-          "title": "#1. Unstoppable — Damn Vulnerable DeFi",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:574/1*9WtRjrHTuoaFFKK2K5hiuw.png"
-        },
-        {
-          "id": "https://medium.com/p/125302b27ec3",
+          "id": "https://medium.com/p/21001b0f3a9c",
           "author": "Alex Fuentes",
-          "description": "Charlie and the Chocolate Factory film tells the story of a poor child named Charlie Bucket who, after finding a Golden Ticket in a…",
-          "link": "https://coinsbench.com/the-on-chain-assets-nfts-will-be-a-new-golden-ticket-for-brands-part-1-3-125302b27ec3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-06-21T08:28:24.000Z",
-          "wordCount": 2893,
-          "title": "The on-chain Assets (NFTs) will be a new Golden Ticket for Brands  — Part 1/3",
+          "description": "In the world of physical reality, ownership of the Golden Ticket is bestowed upon the individual who discovers and holds it. This concept…",
+          "link": "https://coinsbench.com/willy-wonkas-marketing-strategy-on-web3-part-2-3-21001b0f3a9c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-26T16:20:46.000Z",
+          "wordCount": 3210,
+          "title": "The on-chain Assets (NFTs) will be a new Golden Ticket for Brands — Part 2/3",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:720/1*p_PrpF6ylQUZP5AHxJdsfQ.png"
+        },
+        {
+          "id": "https://medium.com/p/1ae81568669f",
+          "author": "Kishan Kumar",
+          "description": "Fantom is a blockchain platform designed to provide fast and scalable transactions, making it a promising platform for the future of…",
+          "link": "https://coinsbench.com/a-simple-guide-to-understanding-fantoms-lachesis-protocol-and-dag-structure-1ae81568669f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-26T16:20:39.000Z",
+          "wordCount": 3837,
+          "title": "A Simple Guide to Understanding Fantom’s Lachesis Protocol and DAG Structure",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*4G3QsYittWC7QvFfox9JiQ.png"
+        },
+        {
+          "id": "https://medium.com/p/d753b5f55ca8",
+          "author": "Jared Nugros",
+          "description": "Generating passive as token founder with Honeypot Token Smart Contract. Hope you like it and don’t forget to say thanks me later.",
+          "link": "https://coinsbench.com/honeypot-token-smartcontract-factory-with-uniswap-v2-using-fake-liquidity-providers-d753b5f55ca8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-26T16:20:26.000Z",
+          "wordCount": 3065,
+          "title": "Honeypot Token Smartcontract Factory with Uniswap V2 using Fake liquidity Providers",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1021/1*Mc1v59i1MgY9oOhM3o6B1A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/9f9a6579d489",
+          "author": "henryzhu.eth",
+          "description": "An open-source library, designed for 0x integrators, is used to parse 0x transactions and logs into a user-friendly, human-readable format.",
+          "link": "https://coinsbench.com/0x-parser-parsing-dex-transactions-9f9a6579d489?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-26T16:20:14.000Z",
+          "wordCount": 3407,
+          "title": "0x-parser: Parsing DEX Transactions",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*U6B3poVh3QwPlXdQEfOsKA.png"
+        },
+        {
+          "id": "https://medium.com/p/8ece8bcda06",
+          "author": "Javier Calderon",
+          "description": "Build your Crypto Trading Bot for Alt Coin Season",
+          "link": "https://coinsbench.com/navigating-the-crypto-seas-with-profitable-trading-with-altcoin-bots-8ece8bcda06?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-06-26T16:20:10.000Z",
+          "wordCount": 3207,
+          "title": "Navigating the Crypto Seas with Profitable Trading with Altcoin Bots",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ONb0XCYxofc93ibj-8Ehzw.jpeg"
         }
       ]
     },
@@ -190,7 +190,7 @@
           "description": "Bitcoin has rallied on the back of exciting news, paving the way for a new altcoin season. Which upcoming tokens have the highest…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/top-7-unreleased-crypto-tokens-with-100x-potential-in-upcoming-bull-run-7f3810a972f6?source=rss----721b17443fd5---4",
           "publishedOn": "2023-06-26T13:33:27.000Z",
-          "wordCount": 2028,
+          "wordCount": 1882,
           "title": "Top 7 Unreleased Crypto Tokens With 100x Potential In Upcoming Bull Run",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qFvoOkg3KjWY4EPgTHbtAg.png"
         },

@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-26T16:17:17.665Z</id>
+    <id>urn:2023-06-26T17:12:01.688Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-26T16:17:17.665Z</updated>
+    <updated>2023-06-26T17:12:01.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Digital Signatures: The Role of v, r, s in Cryptographic Security and Signature…]]></title>
+        <id>https://medium.com/p/b9d2b89bbc0c</id>
+        <link href="https://coinsbench.com/understanding-digital-signatures-the-role-of-v-r-s-in-cryptographic-security-and-signature-b9d2b89bbc0c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-26T16:21:27.000Z</updated>
+        <summary type="html"><![CDATA[Pre-script: This article is not intended for newbies, knowledge of Ethereum and/or solidity is presumed.]]></summary>
+        <author>
+            <name>Okoli Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Math You Need to Know as a Solidity Developer]]></title>
+        <id>https://medium.com/p/8a9dbf760fa4</id>
+        <link href="https://coinsbench.com/the-math-you-need-to-know-as-a-solidity-developer-8a9dbf760fa4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-26T16:21:20.000Z</updated>
+        <summary type="html"><![CDATA[The world of blockchain technology and Web3 development is built on a foundation of mathematical concepts and algorithms. Solidity, the…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Damn Vulnerable DeFi Challenge.]]></title>
+        <id>https://medium.com/p/120e7d025248</id>
+        <link href="https://coinsbench.com/introducing-damn-vulnerable-defi-challenge-120e7d025248?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-26T16:21:18.000Z</updated>
+        <summary type="html"><![CDATA[A few months ago I started learning Solidity and jumped into learning Smart Contract Auditing. I solved all Ethernaut Challenges from there…]]></summary>
+        <author>
+            <name>Kundan Kumar Kushwaha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Donation Smart Contract with Ethereum (Part 3)]]></title>
+        <id>https://medium.com/p/f05778ec9576</id>
+        <link href="https://coinsbench.com/donation-smart-contract-with-ethereum-part-3-f05778ec9576?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-26T16:20:58.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we’re going to build the logic for the client side. First of all, we need to create the mockup design for the donation web…]]></summary>
+        <author>
+            <name>Kien Duong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Series #1: Understanding Automated Market Makers (AMMs) Intuitively]]></title>
+        <id>https://medium.com/p/246d23f4b383</id>
+        <link href="https://coinsbench.com/defi-series-1-understanding-automated-market-makers-amms-intuitively-246d23f4b383?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-26T16:20:52.000Z</updated>
+        <summary type="html"><![CDATA[Decentralized Finance (DeFi) has revolutionized the financial landscape by offering open, transparent, and inclusive alternatives to…]]></summary>
+        <author>
+            <name>Andrew Prasaath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The on-chain Assets (NFTs) will be a new Golden Ticket for Brands — Part 2/3]]></title>
+        <id>https://medium.com/p/21001b0f3a9c</id>
+        <link href="https://coinsbench.com/willy-wonkas-marketing-strategy-on-web3-part-2-3-21001b0f3a9c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-26T16:20:46.000Z</updated>
+        <summary type="html"><![CDATA[In the world of physical reality, ownership of the Golden Ticket is bestowed upon the individual who discovers and holds it. This concept…]]></summary>
+        <author>
+            <name>Alex Fuentes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Simple Guide to Understanding Fantom’s Lachesis Protocol and DAG Structure]]></title>
+        <id>https://medium.com/p/1ae81568669f</id>
+        <link href="https://coinsbench.com/a-simple-guide-to-understanding-fantoms-lachesis-protocol-and-dag-structure-1ae81568669f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-26T16:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Fantom is a blockchain platform designed to provide fast and scalable transactions, making it a promising platform for the future of…]]></summary>
+        <author>
+            <name>Kishan Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honeypot Token Smartcontract Factory with Uniswap V2 using Fake liquidity Providers]]></title>
+        <id>https://medium.com/p/d753b5f55ca8</id>
+        <link href="https://coinsbench.com/honeypot-token-smartcontract-factory-with-uniswap-v2-using-fake-liquidity-providers-d753b5f55ca8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-26T16:20:26.000Z</updated>
+        <summary type="html"><![CDATA[Generating passive as token founder with Honeypot Token Smart Contract. Hope you like it and don’t forget to say thanks me later.]]></summary>
+        <author>
+            <name>Jared Nugros</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0x-parser: Parsing DEX Transactions]]></title>
+        <id>https://medium.com/p/9f9a6579d489</id>
+        <link href="https://coinsbench.com/0x-parser-parsing-dex-transactions-9f9a6579d489?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-26T16:20:14.000Z</updated>
+        <summary type="html"><![CDATA[An open-source library, designed for 0x integrators, is used to parse 0x transactions and logs into a user-friendly, human-readable format.]]></summary>
+        <author>
+            <name>henryzhu.eth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating the Crypto Seas with Profitable Trading with Altcoin Bots]]></title>
+        <id>https://medium.com/p/8ece8bcda06</id>
+        <link href="https://coinsbench.com/navigating-the-crypto-seas-with-profitable-trading-with-altcoin-bots-8ece8bcda06?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-26T16:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Build your Crypto Trading Bot for Alt Coin Season]]></summary>
+        <author>
+            <name>Javier Calderon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Cryptos To Buy on Coinbase (while you still can!)]]></title>
         <id>https://medium.com/p/912aba607114</id>
@@ -135,76 +235,6 @@ https://www.youtube.com/watch?v=GSEFCVsWSxM]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Evolution of Blockchain Consensus: Exploring Proof of Stake (PoS) and Its Advantages]]></title>
-        <id>https://medium.com/p/5595627e9399</id>
-        <link href="https://coinsbench.com/the-evolution-of-blockchain-consensus-exploring-proof-of-stake-pos-and-its-advantages-5595627e9399?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-23T14:40:37.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology has evolved rapidly since the introduction of Bitcoin, and one of the significant advancements in consensus…]]></summary>
-        <author>
-            <name>Crypto Truster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is this Address a contract??]]></title>
-        <id>https://medium.com/p/5640be8e529</id>
-        <link href="https://coinsbench.com/is-this-address-a-contract-5640be8e529?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-23T14:40:11.000Z</updated>
-        <summary type="html"><![CDATA[There are two types of accounts in Ethereum:]]></summary>
-        <author>
-            <name>Ethan Rouimi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re-entrancy Attack a 50+ million dollar exploit]]></title>
-        <id>https://medium.com/p/aac3f92d19e7</id>
-        <link href="https://coinsbench.com/re-entrancy-attack-a-50-million-dollar-exploit-aac3f92d19e7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-23T14:40:02.000Z</updated>
-        <summary type="html"><![CDATA[These are the 5 lines of code that a Hacker used to get out of “The DAO” contract of nearly 50 million dollars of Ether and resulted in…]]></summary>
-        <author>
-            <name>Ethan Rouimi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Types of data storage in the EVM]]></title>
-        <id>https://medium.com/p/cd8f45896173</id>
-        <link href="https://coinsbench.com/types-of-data-storage-in-the-evm-cd8f45896173?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-23T14:39:56.000Z</updated>
-        <summary type="html"><![CDATA[In the Ethereum Virtual Machine (EVM), there are different types of storage available for smart contracts. These storage options determine…]]></summary>
-        <author>
-            <name>Ethan Rouimi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Constants in Solidity]]></title>
-        <id>https://medium.com/p/180de71ab2af</id>
-        <link href="https://coinsbench.com/constants-in-solidity-180de71ab2af?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-23T14:39:52.000Z</updated>
-        <summary type="html"><![CDATA[Which contract you think will consume less gas?]]></summary>
-        <author>
-            <name>Ethan Rouimi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#2. Naive Receiver — Damn Vulnerable DeFi]]></title>
-        <id>https://medium.com/p/5970ac42e353</id>
-        <link href="https://coinsbench.com/2-naive-receiver-damn-vulnerable-defi-5970ac42e353?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-23T14:39:43.000Z</updated>
-        <summary type="html"><![CDATA[It was an easy challenge when you compare these contracts with the contracts in Unstoppable challenge. You can figure out where the…]]></summary>
-        <author>
-            <name>Kundan Kumar Kushwaha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple Staking in Multiple Plans | Flexible Staking Smart Contract]]></title>
-        <id>https://medium.com/p/987c8b68310</id>
-        <link href="https://coinsbench.com/multiple-staking-in-multiple-plan-flexible-staking-987c8b68310?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-23T14:39:38.000Z</updated>
-        <summary type="html"><![CDATA[Title: Staking Contract: Earn Passive Income with Smart Contracts]]></summary>
-        <author>
-            <name>Rohit Goyal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Integrate Biconomy Into Your DApp]]></title>
         <id>https://blog.developerdao.com/how-to-integrate-biconomy-into-your-dapp</id>
         <link href="https://blog.developerdao.com/how-to-integrate-biconomy-into-your-dapp"/>
@@ -214,36 +244,6 @@ Biconomy's robust SDK uses account abstraction (EIP 4337) to provide various fea
 In this guide, I'll show you how to integrate Biconomy in your Web3 app to simplify UX by creating a simple message board decentralized application (DApp) where people can post anon…]]></summary>
         <author>
             <name>Naman Garg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandas AI: Supercharging data analysis with generative AI]]></title>
-        <id>https://medium.com/p/f64c95352607</id>
-        <link href="https://coinsbench.com/pandas-ai-supercharging-data-analysis-with-generative-ai-f64c95352607?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-21T08:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Data analysis has become the cornerstone of decision-making across industries, driving organizations to explore innovative approaches that…]]></summary>
-        <author>
-            <name>Vishnu Sivan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#1. Unstoppable — Damn Vulnerable DeFi]]></title>
-        <id>https://medium.com/p/7651c96f35d2</id>
-        <link href="https://coinsbench.com/1-unstoppable-damn-vulnerable-defi-7651c96f35d2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-21T08:28:29.000Z</updated>
-        <summary type="html"><![CDATA[To pass the challenge make the Vault stop offering flash loans.]]></summary>
-        <author>
-            <name>Kundan Kumar Kushwaha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The on-chain Assets (NFTs) will be a new Golden Ticket for Brands  — Part 1/3]]></title>
-        <id>https://medium.com/p/125302b27ec3</id>
-        <link href="https://coinsbench.com/the-on-chain-assets-nfts-will-be-a-new-golden-ticket-for-brands-part-1-3-125302b27ec3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-21T08:28:24.000Z</updated>
-        <summary type="html"><![CDATA[Charlie and the Chocolate Factory film tells the story of a poor child named Charlie Bucket who, after finding a Golden Ticket in a…]]></summary>
-        <author>
-            <name>Alex Fuentes</name>
         </author>
     </entry>
     <entry>
