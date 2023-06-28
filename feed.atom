@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-28T01:18:33.613Z</id>
+    <id>urn:2023-06-28T02:55:11.968Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-28T01:18:33.613Z</updated>
+    <updated>2023-06-28T02:55:11.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -396,27 +396,6 @@ https://devdao.to/blog-newsletter]]></summary>
         <summary type="html"><![CDATA[Recently, I have been learning about Smart contracts. I believe that smart contracts will be an important thing in the future. This…]]></summary>
         <author>
             <name>Isidro Martínez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Intro to Smart Contract Development on the Scroll zkEVM]]></title>
-        <id>https://blog.developerdao.com/a-complete-intro-to-smart-contract-development-on-the-scroll-zkevm</id>
-        <link href="https://blog.developerdao.com/a-complete-intro-to-smart-contract-development-on-the-scroll-zkevm"/>
-        <updated>2023-05-29T14:28:28.000Z</updated>
-        <summary type="html"><![CDATA[I wrote this article as a technical introduction to the Scroll zkEVM for smart contract developers who want to try out the network.
-In this article, we will:
-Learn about Scroll zkEVM and how to start with its' Alpha testnet.
-Set up a dev environment with Foundry and write a smart contract that dispenses ETH on the Alpha testnet based on a pseudo-random number-generating function.
-Tweak the smart contract to fit in with the exact specifications required for the Alpha testnet
-Deploy our smart contract with the help of a Solidity script.
-Verify our smart contract on the Alpha testnet straight out of Foundry's command line.
-By the end of this article, you will learn how to deploy your smart contracts to Scroll's Alpha testnet with Foundry.
-
-What is the Scroll zkEVM?
-
-Scroll zkEVM is a soon-to-…]]></summary>
-        <author>
-            <name>Priyank Gupta</name>
         </author>
     </entry>
 </feed>
