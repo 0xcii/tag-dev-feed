@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-30T11:10:42.247Z</id>
+    <id>urn:2023-06-30T12:25:37.896Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-30T11:10:42.247Z</updated>
+    <updated>2023-06-30T12:25:37.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Analyzing the Risks Associated with DeFi and Web3 Wallets: An Academic Perspective]]></title>
+        <id>https://medium.com/p/bcc2acf13674</id>
+        <link href="https://coinsbench.com/analyzing-the-risks-associated-with-defi-and-web3-wallets-an-academic-perspective-bcc2acf13674?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-30T11:29:47.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Sed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#3. Truster — Damn Vulnerable DeFi]]></title>
+        <id>https://medium.com/p/2eacfacd6550</id>
+        <link href="https://coinsbench.com/3-truster-damn-vulnerable-defi-2eacfacd6550?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-30T11:29:38.000Z</updated>
+        <summary type="html"><![CDATA[More and more lending pools are offering flash loans. In this case, a new pool has launched that is offering flash loans of DVT tokens for…]]></summary>
+        <author>
+            <name>Kundan Kumar Kushwaha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralised Digital ID With Solidity and Ethereum]]></title>
+        <id>https://medium.com/p/b935eabc808</id>
+        <link href="https://coinsbench.com/decentralised-digital-id-with-solidity-and-ethereum-b935eabc808?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-30T11:29:35.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Robert McMenemy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Libraries in solidity]]></title>
+        <id>https://medium.com/p/2e8f3d9b4f16</id>
+        <link href="https://coinsbench.com/libraries-in-solidity-2e8f3d9b4f16?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-30T11:29:24.000Z</updated>
+        <summary type="html"><![CDATA[100 days of solidity (Day 8–12)]]></summary>
+        <author>
+            <name>Favorite_blockchain_lady</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abstract contracts and Interfaces in Solidity]]></title>
+        <id>https://medium.com/p/56e42784ee6e</id>
+        <link href="https://coinsbench.com/abstract-contracts-and-interfaces-in-solidity-56e42784ee6e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-06-30T11:29:22.000Z</updated>
+        <summary type="html"><![CDATA[100 days of solidity (Day 8–12)]]></summary>
+        <author>
+            <name>Favorite_blockchain_lady</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UK Recognizes Cryptocurrency as Regulated Financial Activity: New Bill Passed | Curated CoinCodeCap…]]></title>
         <id>https://medium.com/p/2ab3af593138</id>
@@ -160,16 +210,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chainlink: Connecting the Future of Smart Contracts]]></title>
-        <id>https://medium.com/p/a71765caa974</id>
-        <link href="https://coinsbench.com/chainlink-connecting-the-future-of-smart-contracts-a71765caa974?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-28T13:15:15.000Z</updated>
-        <summary type="html"><![CDATA[Introduction:]]></summary>
-        <author>
-            <name>Navajyoth Krishnan D</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building an arbitrage bot: Efficient reading of pool prices (article 2/n)]]></title>
         <id>https://medium.com/p/166c83c17a69</id>
         <link href="https://blog.blockmagnates.com/building-an-arbitrage-bot-efficient-reading-of-pool-prices-article-2-n-166c83c17a69?source=rss----18fa961f1eff--solidity"/>
@@ -177,46 +217,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[This article presents an efficient way to fetch the list of Uniswap V2 pair contracts and retrieve the token reserves in each one.]]></summary>
         <author>
             <name>Emile Amajar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Digital Signatures: The Role of v, r, s in Cryptographic Security and Signature…]]></title>
-        <id>https://medium.com/p/b9d2b89bbc0c</id>
-        <link href="https://coinsbench.com/understanding-digital-signatures-the-role-of-v-r-s-in-cryptographic-security-and-signature-b9d2b89bbc0c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-26T16:21:27.000Z</updated>
-        <summary type="html"><![CDATA[Pre-script: This article is not intended for newbies, knowledge of Ethereum and/or solidity is presumed.]]></summary>
-        <author>
-            <name>Okoli Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Math You Need to Know as a Solidity Developer]]></title>
-        <id>https://medium.com/p/8a9dbf760fa4</id>
-        <link href="https://coinsbench.com/the-math-you-need-to-know-as-a-solidity-developer-8a9dbf760fa4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-26T16:21:20.000Z</updated>
-        <summary type="html"><![CDATA[The world of blockchain technology and Web3 development is built on a foundation of mathematical concepts and algorithms. Solidity, the…]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Damn Vulnerable DeFi Challenge.]]></title>
-        <id>https://medium.com/p/120e7d025248</id>
-        <link href="https://coinsbench.com/introducing-damn-vulnerable-defi-challenge-120e7d025248?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-26T16:21:18.000Z</updated>
-        <summary type="html"><![CDATA[A few months ago I started learning Solidity and jumped into learning Smart Contract Auditing. I solved all Ethernaut Challenges from there…]]></summary>
-        <author>
-            <name>Kundan Kumar Kushwaha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Donation Smart Contract with Ethereum (Part 3)]]></title>
-        <id>https://medium.com/p/f05778ec9576</id>
-        <link href="https://coinsbench.com/donation-smart-contract-with-ethereum-part-3-f05778ec9576?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-26T16:20:58.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we’re going to build the logic for the client side. First of all, we need to create the mockup design for the donation web…]]></summary>
-        <author>
-            <name>Kien Duong</name>
         </author>
     </entry>
     <entry>
