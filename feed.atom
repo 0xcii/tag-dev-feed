@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-01T19:09:37.696Z</id>
+    <id>urn:2023-07-01T20:12:46.628Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-01T19:09:37.696Z</updated>
+    <updated>2023-07-01T20:12:46.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DevNTell - Subscription memberships with Unlock Protocol]]></title>
+        <id>https://blog.developerdao.com/devntell-subscription-memberships-with-unlock-protocol</id>
+        <link href="https://blog.developerdao.com/devntell-subscription-memberships-with-unlock-protocol"/>
+        <updated>2023-07-01T20:04:10.000Z</updated>
+        <summary type="html"><![CDATA[🌈 GM
+In this week's episode of DevNTell, Christopher Carfi (Head of Marketing, Unlock Protocol) gave us an overview of how we can use Unlock Protocol to build subscription memberships as NFTs
+🌟 Developer Spotlight
+Christopher Carfi is a community-builder, marketer & technologist exploring the intersection between creators, community, and business models related to NFTs, DAOs, and web3, and is Head of Marketing at Unlock Protocol. Prior to joining Unlock, Chris was at GoDaddy for nearly six years and headed up content and community efforts globally. During the course of his 20+ year career, Chris has worked in startups and big companies, and has developed marketing, customer community and evangelist programs for a number of brands you've heard of. He currently lives in the Bay Area with his family.
+🔥 About Unlock Protocol
+From the Unlock Protocol GitHub Repo:
+Unlock is a membership protocol, built on a blockchain. It enables creators to monetize their content or software without relying on a middleman. It lets consumers manage all of their subscriptions in a consistent way, as well as earn discounts when they share the best content and applications they use.
+Resources:
+Presentation deck: https://t.co/jX6UGNxdZL
+Unlock Protocol: https://unlock-protocol.com/
+Developer Docs: https://t.co/NwlRWf29dI
+Unlock Protocol video tutorials: https://t.co/I2M1k0DSlG
+Unlock Protocol code examples & tutorials: https://t.co/JcSMAH6Rd8
+GitHub: https://github.com/unlock-protocol/unlock
+Unlock Protocol Blog: https://t.co/L976YXYDEf
+Unlock Protocol Discord: https://t.co/QX1o4NoVve
+Twitter: https://twitter.com/unlockprotocol
+Christophers Twitter: https://twitter.com/ccarfi
+
+🎥 Presentation
+
+
+
+https://www.youtube.com/watch?v=hUkSgOhTsJo]]></summary>
+        <author>
+            <name>Narbeh Shahnazarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMM: The Secret Sauce of DeFi Liquidity]]></title>
         <id>https://medium.com/p/e700a69afbaa</id>
