@@ -210,7 +210,7 @@
           "description": "Crypto Regulation, DAO Wars, DeFi Sagas, Bitcoin Supremacy, and Digital Avatars, all here with market updates and a meme.",
           "link": "https://medium.com/coinmonks/blackrock-refiles-spot-bitcoin-etf-with-coinbase-as-surveillance-partner-curated-coincodecap-4-566165154d66?source=rss----721b17443fd5---4",
           "publishedOn": "2023-07-04T19:31:22.000Z",
-          "wordCount": 3542,
+          "wordCount": 3543,
           "title": "BlackRock Refiles Spot Bitcoin ETF with Coinbase as Surveillance Partner | Curated CoinCodeCap #4…",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/1*W1g51yt3b0scMJHvBLglvw.gif"
         },
@@ -304,7 +304,7 @@
           "description": "Generating truly random numbers on a computer is a complex mathematical problem. However, most programming languages today have either native support for generating random numbers or come with supporting libraries that generate random numbers with an acceptable level of determinism mixed in.\nWhile generating acceptably-random numbers is a mostly solved problem in traditional computing, it is nigh impossible to do so on blockchains.\n\nYes, you could hash together a bunch of block and transaction data with a keccak256 function, but that is ad-hoc at best and is definitely not production-worthy code today.\nIf you've been in Web3 for any reasonable amount of time, you have undoubtedly heard of Chainlink.\nChainlink is a decentralized oracle network that feeds a variety of data to blockchains in …",
           "link": "https://blog.developerdao.com/the-developers-guide-to-chainlink-vrf-foundry-edition",
           "publishedOn": "2023-06-14T20:09:25.000Z",
-          "wordCount": 27199,
+          "wordCount": 27547,
           "title": "The Developer's Guide to Chainlink VRF: Foundry Edition",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1686773358218%2F4d6d7d33-7c25-467b-94c1-8f9df87f6c1c.jpeg%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
