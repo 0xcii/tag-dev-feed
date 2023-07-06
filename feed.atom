@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-06T09:13:45.236Z</id>
+    <id>urn:2023-07-06T10:15:00.554Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-06T09:13:45.236Z</updated>
+    <updated>2023-07-06T10:15:00.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETHERNAUT | PRESERVATION]]></title>
+        <id>https://medium.com/p/d27566624910</id>
+        <link href="https://coinsbench.com/ethernaut-preservation-d27566624910?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-06T09:26:14.000Z</updated>
+        <summary type="html"><![CDATA[The Goal of This level is to claim ownership of the Presavation smart contract.]]></summary>
+        <author>
+            <name>Eliashezron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETHERNAUT | GATEKEEPER TWO]]></title>
+        <id>https://medium.com/p/9b07662c06fe</id>
+        <link href="https://coinsbench.com/ethernaut-gatekeeper-two-9b07662c06fe?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-06T09:26:12.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is to register an entrant into the smart contract, To register an entrant, we need to first pass through the three…]]></summary>
+        <author>
+            <name>Eliashezron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETHERNAUT | NAUGHT COIN]]></title>
+        <id>https://medium.com/p/40b0af446d57</id>
+        <link href="https://coinsbench.com/ethernaut-naught-coin-40b0af446d57?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-06T09:26:11.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is to be able to transfer the coins out of the contract before the lock up period expires.]]></summary>
+        <author>
+            <name>Eliashezron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETHERNAUT | RECOVERY]]></title>
+        <id>https://medium.com/p/86e3b583f87d</id>
+        <link href="https://coinsbench.com/ethernaut-recovery-86e3b583f87d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-06T09:26:09.000Z</updated>
+        <summary type="html"><![CDATA[The Goal of this level is to recover the lost contract adress and be able to drains funds from it.]]></summary>
+        <author>
+            <name>Eliashezron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Multiple Authorities in NFTs: Exploring Two Solidity Approaches]]></title>
+        <id>https://medium.com/p/7aa364d62692</id>
+        <link href="https://coinsbench.com/managing-multiple-authorities-in-nfts-exploring-two-solidity-approaches-7aa364d62692?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-06T09:26:08.000Z</updated>
+        <summary type="html"><![CDATA[Introduction.]]></summary>
+        <author>
+            <name>Janindu Pathirana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reentrancy Attack: Understanding and Mitigating Vulnerabilities in Solidity Smart Contracts]]></title>
+        <id>https://medium.com/p/9782596aefec</id>
+        <link href="https://coinsbench.com/reentrancy-attack-understanding-and-mitigating-vulnerabilities-in-solidity-smart-contracts-9782596aefec?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-06T09:26:06.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts built on the Ethereum blockchain have revolutionized various industries by enabling decentralized and trustless…]]></summary>
+        <author>
+            <name>ismail</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ICOs vs IEOs: Exploring Two Ways to Token Distribution]]></title>
         <id>https://medium.com/p/8c44ee5f8f18</id>
@@ -113,6 +173,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/34f44833dd06</id>
         <link href="https://coinsbench.com/ethernaut-fallout-34f44833dd06?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-05T18:23:58.000Z</updated>
+        <summary type="html"><![CDATA[The Goal of this contract is to claim ownership of the contract]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -122,6 +183,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/1c68d7ec8abe</id>
         <link href="https://coinsbench.com/ethernaut-delegation-1c68d7ec8abe?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-05T18:23:55.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is for you to claim ownership of the instance you are given.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -131,6 +193,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/a1519eb9893e</id>
         <link href="https://coinsbench.com/ethernaut-magic-number-a1519eb9893e?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-05T18:23:53.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is to provide it with a magic number that will magically solve the instance, but our code size should only be 10…]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -140,44 +203,9 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/c94beff48067</id>
         <link href="https://coinsbench.com/ethernaut-denial-c94beff48067?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-05T18:23:51.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is to stop the owner of the contract being able to withdraw funds from the contract.]]></summary>
         <author>
             <name>Eliashezron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHERNAUT | ALIEN CODEX]]></title>
-        <id>https://medium.com/p/f7ad64bbdc5</id>
-        <link href="https://coinsbench.com/ethernaut-alien-codex-f7ad64bbdc5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-05T18:23:49.000Z</updated>
-        <author>
-            <name>Eliashezron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHERNAUT | SHOP]]></title>
-        <id>https://medium.com/p/440d479db820</id>
-        <link href="https://coinsbench.com/ethernaut-shop-440d479db820?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-05T18:23:47.000Z</updated>
-        <author>
-            <name>Eliashezron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding contract ownership in solidity and Access control patterns]]></title>
-        <id>https://medium.com/p/1a04116042ce</id>
-        <link href="https://coinsbench.com/understanding-contract-ownership-in-solidity-and-access-control-patterns-1a04116042ce?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-03T10:04:52.000Z</updated>
-        <author>
-            <name>Favorite_blockchain_lady</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethers: Rust Power or ethers::abigen! rundown]]></title>
-        <id>https://medium.com/p/89ab5e47875d</id>
-        <link href="https://coinsbench.com/ethers-rust-power-or-ethers-abigen-rundown-89ab5e47875d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-03T10:04:37.000Z</updated>
-        <author>
-            <name>Unegare</name>
         </author>
     </entry>
     <entry>
@@ -214,28 +242,11 @@ https://www.youtube.com/watch?v=hUkSgOhTsJo]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Analyzing the Risks Associated with DeFi and Web3 Wallets: An Academic Perspective]]></title>
-        <id>https://medium.com/p/bcc2acf13674</id>
-        <link href="https://coinsbench.com/analyzing-the-risks-associated-with-defi-and-web3-wallets-an-academic-perspective-bcc2acf13674?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-30T11:29:47.000Z</updated>
-        <author>
-            <name>Sed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#3. Truster — Damn Vulnerable DeFi]]></title>
-        <id>https://medium.com/p/2eacfacd6550</id>
-        <link href="https://coinsbench.com/3-truster-damn-vulnerable-defi-2eacfacd6550?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-06-30T11:29:38.000Z</updated>
-        <author>
-            <name>Kundan Kumar Kushwaha</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building an arbitrage bot: Efficient reading of pool prices (article 2/n)]]></title>
         <id>https://medium.com/p/166c83c17a69</id>
         <link href="https://blog.blockmagnates.com/building-an-arbitrage-bot-efficient-reading-of-pool-prices-article-2-n-166c83c17a69?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-06-28T12:52:08.000Z</updated>
+        <summary type="html"><![CDATA[This article presents an efficient way to fetch the list of Uniswap V2 pair contracts and retrieve the token reserves in each one.]]></summary>
         <author>
             <name>Emile Amajar</name>
         </author>
@@ -359,6 +370,7 @@ https://www.youtube.com/watch?v=nVXKNEHItQs]]></summary>
         <id>https://medium.com/p/b5b10b4a114a</id>
         <link href="https://blog.blockmagnates.com/unleashing-soliditys-hidden-gems-exploring-memory-caching-and-garbage-collection-b5b10b4a114a?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-06-07T16:10:40.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to our in-depth exploration of two essential features in Solidity: memory caching and garbage collection. These powerful mechanisms…]]></summary>
         <author>
             <name>ADHRIT</name>
         </author>
