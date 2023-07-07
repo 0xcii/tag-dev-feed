@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-07T03:24:30.813Z</id>
+    <id>urn:2023-07-07T04:15:54.531Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-07T03:24:30.813Z</updated>
+    <updated>2023-07-07T04:15:54.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -363,16 +363,6 @@ Email/SMS-authentication and signup demo: https://demo-email-sms-auth.vercel.app
 https://www.youtube.com/watch?v=nVXKNEHItQs]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleashing Solidity’s Hidden Gems: Exploring Memory Caching and Garbage Collection]]></title>
-        <id>https://medium.com/p/b5b10b4a114a</id>
-        <link href="https://blog.blockmagnates.com/unleashing-soliditys-hidden-gems-exploring-memory-caching-and-garbage-collection-b5b10b4a114a?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-06-07T16:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to our in-depth exploration of two essential features in Solidity: memory caching and garbage collection. These powerful mechanisms…]]></summary>
-        <author>
-            <name>ADHRIT</name>
         </author>
     </entry>
 </feed>
