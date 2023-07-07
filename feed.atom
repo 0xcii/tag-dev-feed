@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-07T18:16:13.920Z</id>
+    <id>urn:2023-07-07T19:09:17.981Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-07T18:16:13.920Z</updated>
+    <updated>2023-07-07T19:09:17.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ledgible Review]]></title>
+        <id>https://medium.com/p/a7d1b96fed01</id>
+        <link href="https://medium.com/coinmonks/ledgible-review-a7d1b96fed01?source=rss----721b17443fd5---4"/>
+        <updated>2023-07-07T18:12:07.000Z</updated>
+        <summary type="html"><![CDATA[Ledgible is a crypto tax and accounting solution developed by Verady specialists for tax professionals, accounting firms, and crypto…]]></summary>
+        <author>
+            <name>Harshita Katiyar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ellipal Wallet Review]]></title>
         <id>https://medium.com/p/ae87c1d102cb</id>
@@ -101,21 +111,10 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Your Solidity Smart Contract Upgradeable]]></title>
-        <id>https://medium.com/p/58c30311c700</id>
-        <link href="https://medium.com/coinmonks/making-your-solidity-smart-contract-upgradeable-58c30311c700?source=rss----721b17443fd5---4"/>
-        <updated>2023-07-07T15:12:03.000Z</updated>
-        <summary type="html"><![CDATA[And the used ChatGPT Prompt]]></summary>
-        <author>
-            <name>TechExplorer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ETHERNAUT | PRESERVATION]]></title>
         <id>https://medium.com/p/d27566624910</id>
         <link href="https://coinsbench.com/ethernaut-preservation-d27566624910?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:14.000Z</updated>
-        <summary type="html"><![CDATA[The Goal of This level is to claim ownership of the Presavation smart contract.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -125,7 +124,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/9b07662c06fe</id>
         <link href="https://coinsbench.com/ethernaut-gatekeeper-two-9b07662c06fe?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:12.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is to register an entrant into the smart contract, To register an entrant, we need to first pass through the three…]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -135,7 +133,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/40b0af446d57</id>
         <link href="https://coinsbench.com/ethernaut-naught-coin-40b0af446d57?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:11.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is to be able to transfer the coins out of the contract before the lock up period expires.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -145,7 +142,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/86e3b583f87d</id>
         <link href="https://coinsbench.com/ethernaut-recovery-86e3b583f87d?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:09.000Z</updated>
-        <summary type="html"><![CDATA[The Goal of this level is to recover the lost contract adress and be able to drains funds from it.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -155,7 +151,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/7aa364d62692</id>
         <link href="https://coinsbench.com/managing-multiple-authorities-in-nfts-exploring-two-solidity-approaches-7aa364d62692?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:08.000Z</updated>
-        <summary type="html"><![CDATA[Introduction.]]></summary>
         <author>
             <name>Janindu Pathirana</name>
         </author>
@@ -165,7 +160,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/9782596aefec</id>
         <link href="https://coinsbench.com/reentrancy-attack-understanding-and-mitigating-vulnerabilities-in-solidity-smart-contracts-9782596aefec?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:06.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts built on the Ethereum blockchain have revolutionized various industries by enabling decentralized and trustless…]]></summary>
         <author>
             <name>ismail</name>
         </author>
@@ -175,7 +169,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/34f44833dd06</id>
         <link href="https://coinsbench.com/ethernaut-fallout-34f44833dd06?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-05T18:23:58.000Z</updated>
-        <summary type="html"><![CDATA[The Goal of this contract is to claim ownership of the contract]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -185,7 +178,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/1c68d7ec8abe</id>
         <link href="https://coinsbench.com/ethernaut-delegation-1c68d7ec8abe?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-05T18:23:55.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is for you to claim ownership of the instance you are given.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -195,7 +187,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/a1519eb9893e</id>
         <link href="https://coinsbench.com/ethernaut-magic-number-a1519eb9893e?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-05T18:23:53.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is to provide it with a magic number that will magically solve the instance, but our code size should only be 10…]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -205,7 +196,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/c94beff48067</id>
         <link href="https://coinsbench.com/ethernaut-denial-c94beff48067?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-05T18:23:51.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is to stop the owner of the contract being able to withdraw funds from the contract.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -248,7 +238,6 @@ https://www.youtube.com/watch?v=hUkSgOhTsJo]]></summary>
         <id>https://medium.com/p/166c83c17a69</id>
         <link href="https://blog.blockmagnates.com/building-an-arbitrage-bot-efficient-reading-of-pool-prices-article-2-n-166c83c17a69?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-06-28T12:52:08.000Z</updated>
-        <summary type="html"><![CDATA[This article presents an efficient way to fetch the list of Uniswap V2 pair contracts and retrieve the token reserves in each one.]]></summary>
         <author>
             <name>Emile Amajar</name>
         </author>
