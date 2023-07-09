@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-09T19:09:56.308Z</id>
+    <id>urn:2023-07-09T20:12:55.010Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-09T19:09:56.308Z</updated>
+    <updated>2023-07-09T20:12:55.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -176,6 +176,7 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/40b0af446d57</id>
         <link href="https://coinsbench.com/ethernaut-naught-coin-40b0af446d57?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:11.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is to be able to transfer the coins out of the contract before the lock up period expires.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -185,6 +186,7 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/86e3b583f87d</id>
         <link href="https://coinsbench.com/ethernaut-recovery-86e3b583f87d?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:09.000Z</updated>
+        <summary type="html"><![CDATA[The Goal of this level is to recover the lost contract adress and be able to drains funds from it.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
