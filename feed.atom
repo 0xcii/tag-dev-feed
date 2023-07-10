@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-10T07:13:00.119Z</id>
+    <id>urn:2023-07-10T08:17:54.273Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-10T07:13:00.119Z</updated>
+    <updated>2023-07-10T08:17:54.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -372,37 +372,6 @@ If you've been in Web3 for any reasonable amount of time, you have undoubtedly h
 Chainlink is a decentralized oracle network that feeds a variety of data to blockchains in …]]></summary>
         <author>
             <name>Priyank Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevNTell - Auth with Lit Protocol]]></title>
-        <id>https://blog.developerdao.com/devntell-auth-with-lit-protocol</id>
-        <link href="https://blog.developerdao.com/devntell-auth-with-lit-protocol"/>
-        <updated>2023-06-10T19:55:20.000Z</updated>
-        <summary type="html"><![CDATA[🌈 GM
-In this week's episode of DevNTell, Josh Long gave us an overview of Authentication with Lit Protocol
-🌟 Developer Spotlight
-Josh is an engineer in the web3 space with a focus on developer tooling. Having worked for web3 and IoT companies, Josh loves creating developer tooling, and helping others understand complex topics in order to achieve their development goals.
-🔥 About Lit Protocol
-From the Lit Protocol Docs:
-Lit Protocol lets you create and manage distributed cryptographic key-pairs for condition-based encryption and programmatic signing. A decentralized key management network, Lit can be used in place of centralized key custodians and other key management solutions.
-Resources:
-Website: https://litprotocol.com/
-GitHub: https://github.com/LIT-Protocol/js-sdk
-Josh's Twitter: https://twitter.com/beanpole1456
-Lit Protocol Discord link: https://discord.gg/WMmpaujw
-Developer docs: https://developer.litprotocol.com/
-Lit protocol SDK: https://github.com/LIT-Protocol/js-sdk
-Authentication SDK: https://www.npmjs.com/package/@lit-protocol/lit-auth-client
-Email/SMS-authentication and signup demo: https://demo-email-sms-auth.vercel.app/
-
-🎥 Presentation
-
-
-
-https://www.youtube.com/watch?v=nVXKNEHItQs]]></summary>
-        <author>
-            <name>Narbeh Shahnazarian</name>
         </author>
     </entry>
 </feed>
