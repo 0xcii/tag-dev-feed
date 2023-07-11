@@ -1,111 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-11T10:14:27.957Z</id>
+    <id>urn:2023-07-11T11:10:52.621Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-11T10:14:27.957Z</updated>
+    <updated>2023-07-11T11:10:52.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Managing Parties and Fetching Off-Chain Data in NFTs using Solidity and Chainlink Oracles]]></title>
+        <id>https://medium.com/p/2397f124591a</id>
+        <link href="https://medium.com/coinmonks/managing-parties-and-fetching-off-chain-data-in-nfts-using-solidity-and-chainlink-oracles-2397f124591a?source=rss----721b17443fd5---4"/>
+        <updated>2023-07-11T10:21:59.000Z</updated>
+        <author>
+            <name>Guillaume Lauzier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokenization of Intellectual Property: A Pathway to Unlocking Value for Stakeholders and…]]></title>
+        <id>https://medium.com/p/a2e5b9c5e9fc</id>
+        <link href="https://medium.com/coinmonks/tokenization-of-intellectual-property-a-pathway-to-unlocking-value-for-stakeholders-and-a2e5b9c5e9fc?source=rss----721b17443fd5---4"/>
+        <updated>2023-07-11T10:21:54.000Z</updated>
+        <author>
+            <name>Guillaume Lauzier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unveiling the Secrets of NFT Gaming: Step-by-Step Guide to Selecting the Ideal Marketplace]]></title>
+        <id>https://medium.com/p/ec1b0ea34bbf</id>
+        <link href="https://medium.com/coinmonks/unveiling-the-secrets-of-nft-gaming-step-by-step-guide-to-selecting-the-ideal-marketplace-ec1b0ea34bbf?source=rss----721b17443fd5---4"/>
+        <updated>2023-07-11T10:08:40.000Z</updated>
+        <summary type="html"><![CDATA[The world of gaming has witnessed a revolutionary concept that has taken the industry by storm: Non-Fungible Tokens, or NFTs. These unique…]]></summary>
+        <author>
+            <name>Mathew Wade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snitches get stitches — Splinterlands Battle Challenge]]></title>
+        <id>https://medium.com/p/4ece6b9ae5e9</id>
+        <link href="https://medium.com/coinmonks/snitches-get-stitches-splinterlands-battle-challenge-4ece6b9ae5e9?source=rss----721b17443fd5---4"/>
+        <updated>2023-07-11T10:08:35.000Z</updated>
+        <summary type="html"><![CDATA[What happens in Splinterlands must stay in Splinterlands, and you know already that snitches get stiches so be careful who you tell about…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>PVMihalache</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Web3 Ticketing System — Revamping the Ticketing Landscape]]></title>
+        <id>https://medium.com/p/80a32575c555</id>
+        <link href="https://medium.com/coinmonks/building-web3-ticketing-system-revamping-ticketing-landscape-80a32575c555?source=rss----721b17443fd5---4"/>
+        <updated>2023-07-11T10:08:29.000Z</updated>
+        <summary type="html"><![CDATA[The traditional ticketing industry has long been plagued by various issues that have frustrated both event organizers and ticket buyers…]]></summary>
+        <author>
+            <name>Markdomain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Patterns for Smart Contracts - Security]]></title>
+        <id>https://medium.com/p/8b0f8dfa247b</id>
+        <link href="https://medium.com/coinmonks/design-patterns-for-smart-contracts-security-8b0f8dfa247b?source=rss----721b17443fd5---4"/>
+        <updated>2023-07-11T10:08:15.000Z</updated>
+        <author>
+            <name>BrianKim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New assault on privacy, your crypto wallet might have a bounty on it]]></title>
+        <id>https://medium.com/p/f4075f4c3385</id>
+        <link href="https://medium.com/coinmonks/new-assault-on-privacy-your-crypto-wallet-might-have-a-bounty-on-it-f4075f4c3385?source=rss----721b17443fd5---4"/>
+        <updated>2023-07-11T10:08:09.000Z</updated>
+        <summary type="html"><![CDATA[In the latest bad, *sigh*, turn of events for the crypto world. We now have a new assault on our privacy. As Arkham Intelligence launched…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Daniel Jensen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is DeFi for a 12-Year-Old? Understanding Decentralized Finance]]></title>
+        <id>https://medium.com/p/21469d74f7b9</id>
+        <link href="https://medium.com/coinmonks/what-is-defi-for-a-12-year-old-understanding-decentralized-finance-21469d74f7b9?source=rss----721b17443fd5---4"/>
+        <updated>2023-07-11T10:07:57.000Z</updated>
+        <author>
+            <name>Babs Ayandayo♟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain technologies for Identity Management.]]></title>
+        <id>https://medium.com/p/e35f48f3833b</id>
+        <link href="https://medium.com/coinmonks/blockchain-technologies-for-identity-management-e35f48f3833b?source=rss----721b17443fd5---4"/>
+        <updated>2023-07-11T10:07:46.000Z</updated>
+        <author>
+            <name>Ilya Mikin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blockchain Bets $BCB — Unveiling the Seismic Growth Potential of GambleFi]]></title>
         <id>https://medium.com/p/1bf00fba8292</id>
         <link href="https://medium.com/coinmonks/blockchain-bets-bcb-unveiling-the-seismic-growth-potential-of-gamblefi-1bf00fba8292?source=rss----721b17443fd5---4"/>
         <updated>2023-07-11T07:50:02.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>The Crypto Professor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Actual Ambassador Programs in July, part 1]]></title>
-        <id>https://medium.com/p/c921840c5b46</id>
-        <link href="https://medium.com/coinmonks/actual-ambassador-programs-in-july-part-1-c921840c5b46?source=rss----721b17443fd5---4"/>
-        <updated>2023-07-11T07:50:00.000Z</updated>
-        <summary type="html"><![CDATA[1. ZkBob Ambassador Program]]></summary>
-        <author>
-            <name>Stip11</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Altcoin Gems for the Next Bull Run]]></title>
-        <id>https://medium.com/p/d22c24df1de9</id>
-        <link href="https://medium.com/coinmonks/3-altcoin-gems-for-the-next-bull-run-d22c24df1de9?source=rss----721b17443fd5---4"/>
-        <updated>2023-07-11T07:49:59.000Z</updated>
-        <summary type="html"><![CDATA[3 Micro Cap Altcoins that could 50–100X in the next Bull Run]]></summary>
-        <author>
-            <name>Sovereign Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Ethereum’s Staking Milestone: 20% of Total Supply Now Securing the Network”]]></title>
-        <id>https://medium.com/p/fbf40816bac</id>
-        <link href="https://medium.com/coinmonks/ethereums-staking-milestone-20-of-total-supply-now-securing-the-network-fbf40816bac?source=rss----721b17443fd5---4"/>
-        <updated>2023-07-11T07:49:57.000Z</updated>
-        <summary type="html"><![CDATA[In the dynamic world of cryptocurrencies, Ethereum has hit a significant milestone. As of Monday, nearly $45 billion, or 20% of Ethereum in…]]></summary>
-        <author>
-            <name>StoryStocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Short-Term Trading is not Worth ?]]></title>
-        <id>https://medium.com/p/f2bd8cd5d5ea</id>
-        <link href="https://medium.com/coinmonks/why-short-term-trading-is-not-worth-f2bd8cd5d5ea?source=rss----721b17443fd5---4"/>
-        <updated>2023-07-11T07:49:55.000Z</updated>
-        <summary type="html"><![CDATA[In the world of investing, the debate between long-term investment and short-term trading has persisted. While short-term trading may…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Nomad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 7 AI Crypto Tokens Poised For Explosive Growth In Next Altcoin Rally]]></title>
-        <id>https://medium.com/p/bb8170b77de2</id>
-        <link href="https://medium.com/coinmonks/top-7-ai-crypto-tokens-poised-for-explosive-growth-in-next-altcoin-rally-bb8170b77de2?source=rss----721b17443fd5---4"/>
-        <updated>2023-07-11T07:49:53.000Z</updated>
-        <summary type="html"><![CDATA[The AI trend is far from over as AI technology will witness massive growth in the coming years. Which tokens are best placed to profit?
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Ziva Fajfar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can the pNetwork (PNT) make money from crypto asset swaps?]]></title>
-        <id>https://medium.com/p/15404dd5f9ed</id>
-        <link href="https://medium.com/coinmonks/can-the-pnetwork-pnt-make-money-from-crypto-asset-swaps-15404dd5f9ed?source=rss----721b17443fd5---4"/>
-        <updated>2023-07-11T07:49:52.000Z</updated>
-        <summary type="html"><![CDATA[Interest in the pNetwork (PNT) is growing. For example, pNetwork was CoinMarketCap’s eighth most trending cryptocurrency on 9 July 2023.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Daniel G. Jennings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Cudos Markets?]]></title>
-        <id>https://medium.com/p/4d43d4ac288a</id>
-        <link href="https://medium.com/coinmonks/what-is-cudos-markets-4d43d4ac288a?source=rss----721b17443fd5---4"/>
-        <updated>2023-07-11T07:49:51.000Z</updated>
-        <summary type="html"><![CDATA[A new NFT marketplace that provides Hashrate Collectibles.]]></summary>
-        <author>
-            <name>CosmosHOSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hedera Network: Empowering Decentralized Innovation and Secure Transactions]]></title>
-        <id>https://medium.com/p/4185f80c9acb</id>
-        <link href="https://medium.com/coinmonks/hedera-network-empowering-decentralized-innovation-and-secure-transactions-4185f80c9acb?source=rss----721b17443fd5---4"/>
-        <updated>2023-07-11T07:48:59.000Z</updated>
-        <summary type="html"><![CDATA[Hedera Hashgraph Logo]]></summary>
-        <author>
-            <name>Mike Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Market Dynamics (11 Jul 2023)]]></title>
-        <id>https://medium.com/p/a48259d4dcf3</id>
-        <link href="https://medium.com/coinmonks/market-dynamics-11-jul-2023-a48259d4dcf3?source=rss----721b17443fd5---4"/>
-        <updated>2023-07-11T07:48:57.000Z</updated>
-        <summary type="html"><![CDATA[Current position:]]></summary>
-        <author>
-            <name>Lazarus Trading</name>
         </author>
     </entry>
     <entry>
@@ -154,7 +147,6 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/d27566624910</id>
         <link href="https://coinsbench.com/ethernaut-preservation-d27566624910?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:14.000Z</updated>
-        <summary type="html"><![CDATA[The Goal of This level is to claim ownership of the Presavation smart contract.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -164,7 +156,6 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/9b07662c06fe</id>
         <link href="https://coinsbench.com/ethernaut-gatekeeper-two-9b07662c06fe?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:12.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is to register an entrant into the smart contract, To register an entrant, we need to first pass through the three…]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -174,7 +165,6 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/40b0af446d57</id>
         <link href="https://coinsbench.com/ethernaut-naught-coin-40b0af446d57?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:11.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is to be able to transfer the coins out of the contract before the lock up period expires.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -184,7 +174,6 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/86e3b583f87d</id>
         <link href="https://coinsbench.com/ethernaut-recovery-86e3b583f87d?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:09.000Z</updated>
-        <summary type="html"><![CDATA[The Goal of this level is to recover the lost contract adress and be able to drains funds from it.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -194,7 +183,6 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/7aa364d62692</id>
         <link href="https://coinsbench.com/managing-multiple-authorities-in-nfts-exploring-two-solidity-approaches-7aa364d62692?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:08.000Z</updated>
-        <summary type="html"><![CDATA[Introduction.]]></summary>
         <author>
             <name>Janindu Pathirana</name>
         </author>
@@ -204,7 +192,6 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/9782596aefec</id>
         <link href="https://coinsbench.com/reentrancy-attack-understanding-and-mitigating-vulnerabilities-in-solidity-smart-contracts-9782596aefec?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:06.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts built on the Ethereum blockchain have revolutionized various industries by enabling decentralized and trustless…]]></summary>
         <author>
             <name>ismail</name>
         </author>
@@ -214,7 +201,6 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/34f44833dd06</id>
         <link href="https://coinsbench.com/ethernaut-fallout-34f44833dd06?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-05T18:23:58.000Z</updated>
-        <summary type="html"><![CDATA[The Goal of this contract is to claim ownership of the contract]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -224,7 +210,6 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/1c68d7ec8abe</id>
         <link href="https://coinsbench.com/ethernaut-delegation-1c68d7ec8abe?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-05T18:23:55.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is for you to claim ownership of the instance you are given.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -234,7 +219,6 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/a1519eb9893e</id>
         <link href="https://coinsbench.com/ethernaut-magic-number-a1519eb9893e?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-05T18:23:53.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is to provide it with a magic number that will magically solve the instance, but our code size should only be 10…]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -244,7 +228,6 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/c94beff48067</id>
         <link href="https://coinsbench.com/ethernaut-denial-c94beff48067?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-05T18:23:51.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is to stop the owner of the contract being able to withdraw funds from the contract.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -287,7 +270,6 @@ https://www.youtube.com/watch?v=hUkSgOhTsJo]]></summary>
         <id>https://medium.com/p/166c83c17a69</id>
         <link href="https://blog.blockmagnates.com/building-an-arbitrage-bot-efficient-reading-of-pool-prices-article-2-n-166c83c17a69?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-06-28T12:52:08.000Z</updated>
-        <summary type="html"><![CDATA[This article presents an efficient way to fetch the list of Uniswap V2 pair contracts and retrieve the token reserves in each one.]]></summary>
         <author>
             <name>Emile Amajar</name>
         </author>
