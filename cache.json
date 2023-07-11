@@ -29,104 +29,104 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/6c1484fc6227",
+          "author": "Eliashezron",
+          "description": "",
+          "link": "https://coinsbench.com/ethernaut-privacy-6c1484fc6227?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-11T17:50:08.000Z",
+          "wordCount": null,
+          "title": "ETHERNAUT | PRIVACY",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f2e95b8e3d9a",
+          "author": "Eliashezron",
+          "description": "",
+          "link": "https://coinsbench.com/ethernaut-gatekeeper-one-f2e95b8e3d9a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-11T17:50:06.000Z",
+          "wordCount": null,
+          "title": "ETHERNAUT | GATEKEEPER ONE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3fc53a8de7d1",
+          "author": "Cayo Tor",
+          "description": "",
+          "link": "https://coinsbench.com/talking-to-ethereum-smart-contracts-to-opcodes-3fc53a8de7d1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-11T17:49:29.000Z",
+          "wordCount": null,
+          "title": "Talking to Ethereum: Smart Contracts to Opcodes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/304cd7870724",
+          "author": "Denis Avtsin",
+          "description": "",
+          "link": "https://coinsbench.com/ethereum-contract-abi-specification-interaction-with-the-contract-304cd7870724?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-11T17:49:22.000Z",
+          "wordCount": null,
+          "title": "Ethereum Contract ABI Specification. Interaction with the contract",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1bad3be73418",
+          "author": "ismail",
+          "description": "",
+          "link": "https://coinsbench.com/integer-overflow-and-underflow-safeguarding-solidity-smart-contracts-against-numeric-1bad3be73418?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-11T17:49:02.000Z",
+          "wordCount": null,
+          "title": "Integer Overflow and Underflow: Safeguarding Solidity Smart Contracts Against Numeric…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3c3f91f81e0b",
+          "author": "Burgossrodrigo",
+          "description": "",
+          "link": "https://coinsbench.com/building-a-uniswapv3-whale-alert-bot-for-discord-3c3f91f81e0b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-11T17:48:52.000Z",
+          "wordCount": null,
+          "title": "Building a UniswapV3 Whale Alert Bot for Discord",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/535410a92703",
+          "author": "Favorite_blockchain_lady",
+          "description": "",
+          "link": "https://coinsbench.com/solidity-arrays-535410a92703?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-11T17:48:47.000Z",
+          "wordCount": null,
+          "title": "Solidity Arrays",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/d27566624910",
           "author": "Eliashezron",
-          "description": "The Goal of This level is to claim ownership of the Presavation smart contract.",
+          "description": "",
           "link": "https://coinsbench.com/ethernaut-preservation-d27566624910?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-06T09:26:14.000Z",
-          "wordCount": 2209,
+          "wordCount": null,
           "title": "ETHERNAUT | PRESERVATION",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*LD5Wa3oxtOXfLrO3tMVT0A.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/9b07662c06fe",
           "author": "Eliashezron",
-          "description": "The goal of this level is to register an entrant into the smart contract, To register an entrant, we need to first pass through the three…",
+          "description": "",
           "link": "https://coinsbench.com/ethernaut-gatekeeper-two-9b07662c06fe?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-06T09:26:12.000Z",
-          "wordCount": 2323,
+          "wordCount": null,
           "title": "ETHERNAUT | GATEKEEPER TWO",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*r6S7MzRUMfUMivyV_xVc5w.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/40b0af446d57",
           "author": "Eliashezron",
-          "description": "The goal of this level is to be able to transfer the coins out of the contract before the lock up period expires.",
+          "description": "",
           "link": "https://coinsbench.com/ethernaut-naught-coin-40b0af446d57?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-06T09:26:11.000Z",
-          "wordCount": 2295,
+          "wordCount": null,
           "title": "ETHERNAUT | NAUGHT COIN",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*PDsjq_kxbgR8BQFB-Jcl4A.png"
-        },
-        {
-          "id": "https://medium.com/p/86e3b583f87d",
-          "author": "Eliashezron",
-          "description": "The Goal of this level is to recover the lost contract adress and be able to drains funds from it.",
-          "link": "https://coinsbench.com/ethernaut-recovery-86e3b583f87d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-06T09:26:09.000Z",
-          "wordCount": 2500,
-          "title": "ETHERNAUT | RECOVERY",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*6DmNv5ysjXial9ALs54tvA.png"
-        },
-        {
-          "id": "https://medium.com/p/7aa364d62692",
-          "author": "Janindu Pathirana",
-          "description": "Introduction.",
-          "link": "https://coinsbench.com/managing-multiple-authorities-in-nfts-exploring-two-solidity-approaches-7aa364d62692?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-06T09:26:08.000Z",
-          "wordCount": 3571,
-          "title": "Managing Multiple Authorities in NFTs: Exploring Two Solidity Approaches",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OVPih_Xk1pvJ6Fm05oEZbg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/9782596aefec",
-          "author": "ismail",
-          "description": "Smart contracts built on the Ethereum blockchain have revolutionized various industries by enabling decentralized and trustless…",
-          "link": "https://coinsbench.com/reentrancy-attack-understanding-and-mitigating-vulnerabilities-in-solidity-smart-contracts-9782596aefec?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-06T09:26:06.000Z",
-          "wordCount": 2921,
-          "title": "Reentrancy Attack: Understanding and Mitigating Vulnerabilities in Solidity Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*v4rA09K5myBTpew9HQDqhA.png"
-        },
-        {
-          "id": "https://medium.com/p/34f44833dd06",
-          "author": "Eliashezron",
-          "description": "The Goal of this contract is to claim ownership of the contract",
-          "link": "https://coinsbench.com/ethernaut-fallout-34f44833dd06?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-05T18:23:58.000Z",
-          "wordCount": 2118,
-          "title": "ETHERNAUT | FALLOUT",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*ygx5nXklsajjjEN1mIaA9g.png"
-        },
-        {
-          "id": "https://medium.com/p/1c68d7ec8abe",
-          "author": "Eliashezron",
-          "description": "The goal of this level is for you to claim ownership of the instance you are given.",
-          "link": "https://coinsbench.com/ethernaut-delegation-1c68d7ec8abe?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-05T18:23:55.000Z",
-          "wordCount": 2213,
-          "title": "ETHERNAUT | DELEGATION",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*vm2BZzD6Bua4aQnlu22J0Q.png"
-        },
-        {
-          "id": "https://medium.com/p/a1519eb9893e",
-          "author": "Eliashezron",
-          "description": "The goal of this level is to provide it with a magic number that will magically solve the instance, but our code size should only be 10…",
-          "link": "https://coinsbench.com/ethernaut-magic-number-a1519eb9893e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-05T18:23:53.000Z",
-          "wordCount": 2959,
-          "title": "ETHERNAUT | MAGIC NUMBER",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*SxguLrHFAk9VbadJlZvDAg.png"
-        },
-        {
-          "id": "https://medium.com/p/c94beff48067",
-          "author": "Eliashezron",
-          "description": "The goal of this level is to stop the owner of the contract being able to withdraw funds from the contract.",
-          "link": "https://coinsbench.com/ethernaut-denial-c94beff48067?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-05T18:23:51.000Z",
-          "wordCount": 2309,
-          "title": "ETHERNAUT | DENIAL",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*ejr6WNELQ6SUv35ue7SsUQ.png"
+          "imageUrl": null
         }
       ]
     },
@@ -136,104 +136,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/e32b8a9205d3",
-          "author": "Joe Robert",
-          "description": "The Rise of Central Bank Digital Currencies (CBDCs)",
-          "link": "https://medium.com/coinmonks/cbdcs-central-banks-towards-blockchain-their-impact-on-the-sector-e32b8a9205d3?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-07-11T15:26:48.000Z",
-          "wordCount": 3118,
-          "title": "CBDCs: Central Banks Towards Blockchain & Their Impact on the Sector",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*98lc6g5pcPPHGyGuTd5A9A.png"
+          "id": "https://medium.com/p/b65501f97036",
+          "author": "Deniz Tutku",
+          "description": "",
+          "link": "https://medium.com/coinmonks/layerzero-potential-zro-token-airdrop-guide-b65501f97036?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-07-11T17:32:31.000Z",
+          "wordCount": null,
+          "title": "LayerZero: Potential ZRO Token Airdrop Guide",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/25a10654f8aa",
-          "author": "Observers.com",
-          "description": "The prize for pea-brained narcissistic philistine of the week must surely go to the tourist caught on video carving his name into the…",
-          "link": "https://medium.com/coinmonks/crypto-world-weekly-overview-02-07-2023-25a10654f8aa?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-07-11T15:26:47.000Z",
-          "wordCount": 2830,
-          "title": "Crypto World Weekly Overview 02/07/2023",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1062/1*kXP6A3DjyR4u9mgZffqQbg.png"
+          "id": "https://medium.com/p/84c4e63e4fbd",
+          "author": "CryptoGod-1",
+          "description": "The number of new start-ups in crypto has dropped dramatically since early 2022, with regulations and a bear market impacting the sector.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/collapse-of-the-crypto-bubble-84c4e63e4fbd?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-07-11T17:32:26.000Z",
+          "wordCount": 1800,
+          "title": "Collapse of the Crypto Bubble",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*sMjHvuiQaHVqjY40AjVOyA.jpeg"
         },
         {
-          "id": "https://medium.com/p/9235812a6893",
-          "author": "Observers.com",
-          "description": "Binance appears to be facing a management crisis as several executives from the legal and compliance units have resigned amid regulatory…",
-          "link": "https://medium.com/coinmonks/legal-executives-exit-binance-amid-regulatory-investigations-9235812a6893?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-07-11T15:26:45.000Z",
-          "wordCount": 2657,
-          "title": "Legal Executives Exit Binance Amid Regulatory Investigations",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:887/0*GqbC7XsDpjCtdVtu.png"
+          "id": "https://medium.com/p/6555023d58af",
+          "author": "Mr. Plan ₿",
+          "description": "What Is Solana?\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/solana-sol-price-prediction-2023-2025-update-11th-of-july-6555023d58af?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-07-11T17:32:25.000Z",
+          "wordCount": 1922,
+          "title": "Solana (SOL) Price Prediction 2023–2025, update 11th of July",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VBozZcNCD1q-V11ys1NN9A.jpeg"
         },
         {
-          "id": "https://medium.com/p/3098aa38b797",
-          "author": "Mike Coldman",
-          "description": "In this article, we’re going to delve into the world of Bitcoin through ten fascinating charts, highlighting the inherent scarcity of this…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-to-398-000-3098aa38b797?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-07-11T15:26:41.000Z",
-          "wordCount": 1792,
-          "title": "Bitcoin to $398,000?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:500/1*7PsihSlGIPPjNZTc1N4fGA.png"
+          "id": "https://medium.com/p/f88b356fd224",
+          "author": "Mr. Plan ₿",
+          "description": "Binance Coin (BNB)\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/what-is-news-today-about-binance-coin-bnb-and-polygon-matic-f88b356fd224?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-07-11T17:32:23.000Z",
+          "wordCount": null,
+          "title": "What is news today about Binance Coin (BNB) and Polygon (MATIC)",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/4051e400e799",
-          "author": "JohnVictor",
-          "description": "In recent years, the world of finance has witnessed a transformative innovation known as tokenized asset offering (TAOs). TAOs leverage…",
-          "link": "https://medium.com/coinmonks/tokenized-asset-offering-a-gateway-to-global-investment-opportunities-4051e400e799?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-07-11T14:41:47.000Z",
-          "wordCount": 3879,
-          "title": "Tokenized Asset Offering: A Gateway to Global Investment Opportunities",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xBWTJmVc06pPLu5G63Ot3g.png"
+          "id": "https://medium.com/p/233b280332e3",
+          "author": "Silver",
+          "description": "Hey there, crypto enthusiasts! I apologize for not posting last week. Things have been quite busy, but let’s catch up on what’s been…",
+          "link": "https://medium.com/coinmonks/crypto-roundup-19-bitcoins-resilient-rise-233b280332e3?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-07-11T17:32:23.000Z",
+          "wordCount": 3711,
+          "title": "Crypto Roundup #19: Bitcoin’s Resilient Rise",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*7KBVp6_o2V7kEaES0Q3V3Q.png"
         },
         {
-          "id": "https://medium.com/p/7670b46c8ebc",
-          "author": "Cathrine Williams",
-          "description": "this comprehensive guide will provide you with insights into the Bitstamp clone script and how it can help you kickstart your venture.",
-          "link": "https://medium.com/coinmonks/bitstamp-clone-script-7670b46c8ebc?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-07-11T14:41:24.000Z",
-          "wordCount": 4326,
-          "title": "Bitstamp Clone Script — A Complete Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Oc-Kaas--LYnriPD5APZVA.png"
+          "id": "https://medium.com/p/8e953faf2b21",
+          "author": "Mr. Plan ₿",
+          "description": "Cardano (ADA)\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/3-cheap-cryptocurrencies-to-buy-in-july-2023-8e953faf2b21?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-07-11T17:32:21.000Z",
+          "wordCount": 1789,
+          "title": "3 Cheap Cryptocurrencies to Buy in July 2023",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QlkpvS-YubPJ4VmA2eU6iA.png"
         },
         {
-          "id": "https://medium.com/p/f4dff0e5426",
-          "author": "Jimena",
-          "description": "Step into the future of video analysis with AI Video Analytics Software Development. Harness the power of artificial intelligence to unlock…",
-          "link": "https://medium.com/coinmonks/ai-video-analytics-software-development-building-the-future-f4dff0e5426?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-07-11T14:41:21.000Z",
-          "wordCount": 3653,
-          "title": "AI Video Analytics Software Development: Building the Future",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zLwq_80joAftlGnwdNb4_g.jpeg"
+          "id": "https://medium.com/p/9445a8471300",
+          "author": "Airdrop Home",
+          "description": "What is Shardeum \nShardeum is a blockchain that supports EVM smart contracts The project has recently launched a new Sphinx Dapp test…",
+          "link": "https://medium.com/coinmonks/shardeum-sphinx-testnet-step-by-step-full-guide-potential-airdrop-9445a8471300?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-07-11T17:32:17.000Z",
+          "wordCount": 2752,
+          "title": "✨ Shardeum Sphinx Testnet Step By Step Full Guide— Potential Airdrop",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cdHEM7omWbYlCl46WDeIyg.png"
         },
         {
-          "id": "https://medium.com/p/bf1162d16bb1",
-          "author": "SmartState.tech",
-          "description": "Ethscriptions are a kind of on-chain digital artifacts (somewhat analogous to BTC Ordinals) created by MiddleMarch in the Ethereum…",
-          "link": "https://medium.com/coinmonks/what-are-ethscriptions-bf1162d16bb1?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-07-11T14:41:17.000Z",
-          "wordCount": 4272,
-          "title": "What are Ethscriptions?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*wDEBWGHhhJt5slASJzZ2sQ.png"
+          "id": "https://medium.com/p/1851a9044a",
+          "author": "36Crypto",
+          "description": "",
+          "link": "https://medium.com/coinmonks/how-to-buy-cryptocurrencies-in-alabama-1851a9044a?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-07-11T17:32:15.000Z",
+          "wordCount": null,
+          "title": "How to Buy Cryptocurrencies in Alabama",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/70e1e089f8a6",
-          "author": "Christopher H. Loo, MD-PhD",
-          "description": "Chris Hood\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/navigating-the-digital-landscape-insights-from-chris-hoods-conversation-70e1e089f8a6?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-07-11T14:41:15.000Z",
-          "wordCount": 1931,
-          "title": "Navigating the Digital Landscape: Insights from Chris Hood’s Conversation",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*O6OwJQdJaoCB_ij1VXcG-Q.jpeg"
+          "id": "https://medium.com/p/cf775dbe71cb",
+          "author": "Airdrop Home",
+          "description": "Zetachain",
+          "link": "https://medium.com/coinmonks/zetachain-potential-airdrop-step-by-step-testnet-guide-cf775dbe71cb?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-07-11T17:32:13.000Z",
+          "wordCount": 2435,
+          "title": "Zetachain Potential Airdrop — Step by Step Testnet Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*pGXrqet2AQBw7dxtH5iXXQ.jpeg"
         },
         {
-          "id": "https://medium.com/p/25652b7e80ad",
-          "author": "Digital Dreamer",
-          "description": "“A GOOD COFFEE IS THE ANSWER FOR THOSE WHO CARES WHATS THE QUESTIONS IS…!”",
-          "link": "https://medium.com/coinmonks/from-bean-to-cup-love-at-first-sip-25652b7e80ad?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-07-11T14:41:13.000Z",
-          "wordCount": 3532,
-          "title": "“From Bean to Cup!:- Love at First Sip…..!”",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Me_4lt9JaaqLaV3pj5FJFA.jpeg"
+          "id": "https://medium.com/p/facf2dcc7a01",
+          "author": "Mr. Plan ₿",
+          "description": "Bitcoin (BTC)\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/these-are-the-cryptocurrencies-i-bought-today-11th-of-july-facf2dcc7a01?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-07-11T17:32:11.000Z",
+          "wordCount": null,
+          "title": "These are the Cryptocurrencies I bought today, 11th of July",
+          "imageUrl": null
         }
       ]
     },
@@ -245,12 +245,12 @@
         {
           "id": "https://medium.com/p/166c83c17a69",
           "author": "Emile Amajar",
-          "description": "This article presents an efficient way to fetch the list of Uniswap V2 pair contracts and retrieve the token reserves in each one.",
+          "description": "",
           "link": "https://blog.blockmagnates.com/building-an-arbitrage-bot-efficient-reading-of-pool-prices-article-2-n-166c83c17a69?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-06-28T12:52:08.000Z",
-          "wordCount": 6980,
+          "wordCount": null,
           "title": "Building an arbitrage bot: Efficient reading of pool prices (article 2/n)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:753/1*XMXjQGubOuQn_uqP6eu-OQ.png"
+          "imageUrl": null
         }
       ]
     },
