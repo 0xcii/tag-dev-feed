@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-11T19:10:16.298Z</id>
+    <id>urn:2023-07-11T20:13:39.814Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-11T19:10:16.298Z</updated>
+    <updated>2023-07-11T20:13:39.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,6 +10,7 @@
         <id>https://medium.com/p/6c1484fc6227</id>
         <link href="https://coinsbench.com/ethernaut-privacy-6c1484fc6227?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:50:08.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is to unlock the contract by accessing the key from the data stored in the Blockchain.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -19,6 +20,7 @@
         <id>https://medium.com/p/f2e95b8e3d9a</id>
         <link href="https://coinsbench.com/ethernaut-gatekeeper-one-f2e95b8e3d9a?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:50:06.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is to pass through the gateKeeper and register an entrant.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -28,6 +30,7 @@
         <id>https://medium.com/p/3fc53a8de7d1</id>
         <link href="https://coinsbench.com/talking-to-ethereum-smart-contracts-to-opcodes-3fc53a8de7d1?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:49:29.000Z</updated>
+        <summary type="html"><![CDATA[Solidity Compilers and Contract Initialization → Opcodes and Gas within the Ethereum Virtual Machine.]]></summary>
         <author>
             <name>Cayo Tor</name>
         </author>
@@ -37,6 +40,7 @@
         <id>https://medium.com/p/304cd7870724</id>
         <link href="https://coinsbench.com/ethereum-contract-abi-specification-interaction-with-the-contract-304cd7870724?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:49:22.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will show the process of encoding data in a transaction to call a contract method.]]></summary>
         <author>
             <name>Denis Avtsin</name>
         </author>
@@ -46,6 +50,7 @@
         <id>https://medium.com/p/1bad3be73418</id>
         <link href="https://coinsbench.com/integer-overflow-and-underflow-safeguarding-solidity-smart-contracts-against-numeric-1bad3be73418?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:49:02.000Z</updated>
+        <summary type="html"><![CDATA[Solidity smart contracts, powered by the Ethereum blockchain, have unlocked endless possibilities for decentralized applications and…]]></summary>
         <author>
             <name>ismail</name>
         </author>
@@ -55,6 +60,7 @@
         <id>https://medium.com/p/3c3f91f81e0b</id>
         <link href="https://coinsbench.com/building-a-uniswapv3-whale-alert-bot-for-discord-3c3f91f81e0b?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:48:52.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will walk through the process of building a whale alert bot for Discord. The bot will monitor token swaps on Uniswap…]]></summary>
         <author>
             <name>Burgossrodrigo</name>
         </author>
@@ -64,6 +70,7 @@
         <id>https://medium.com/p/535410a92703</id>
         <link href="https://coinsbench.com/solidity-arrays-535410a92703?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:48:47.000Z</updated>
+        <summary type="html"><![CDATA[100 days of solidity (Day 12–17)]]></summary>
         <author>
             <name>Favorite_blockchain_lady</name>
         </author>
@@ -73,6 +80,7 @@
         <id>https://medium.com/p/b65501f97036</id>
         <link href="https://medium.com/coinmonks/layerzero-potential-zro-token-airdrop-guide-b65501f97036?source=rss----721b17443fd5---4"/>
         <updated>2023-07-11T17:32:31.000Z</updated>
+        <summary type="html"><![CDATA[LayerZero is an omnichain interaction protocol designed for fast message transmission between chains, and its airdrop seems to be only a…]]></summary>
         <author>
             <name>Deniz Tutku</name>
         </author>
@@ -115,6 +123,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/233b280332e3</id>
         <link href="https://medium.com/coinmonks/crypto-roundup-19-bitcoins-resilient-rise-233b280332e3?source=rss----721b17443fd5---4"/>
         <updated>2023-07-11T17:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Hey there, crypto enthusiasts! I apologize for not posting last week. Things have been quite busy, but let’s catch up on what’s been…]]></summary>
         <author>
             <name>Silver</name>
         </author>
@@ -135,6 +144,8 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/9445a8471300</id>
         <link href="https://medium.com/coinmonks/shardeum-sphinx-testnet-step-by-step-full-guide-potential-airdrop-9445a8471300?source=rss----721b17443fd5---4"/>
         <updated>2023-07-11T17:32:17.000Z</updated>
+        <summary type="html"><![CDATA[What is Shardeum 
+Shardeum is a blockchain that supports EVM smart contracts The project has recently launched a new Sphinx Dapp test…]]></summary>
         <author>
             <name>Airdrop Home</name>
         </author>
@@ -144,6 +155,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/1851a9044a</id>
         <link href="https://medium.com/coinmonks/how-to-buy-cryptocurrencies-in-alabama-1851a9044a?source=rss----721b17443fd5---4"/>
         <updated>2023-07-11T17:32:15.000Z</updated>
+        <summary type="html"><![CDATA[If you have ever wondered, it is quite easy and straightforward to buy cryptocurrencies in Alabama. There are several methods to choose…]]></summary>
         <author>
             <name>36Crypto</name>
         </author>
@@ -153,6 +165,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/cf775dbe71cb</id>
         <link href="https://medium.com/coinmonks/zetachain-potential-airdrop-step-by-step-testnet-guide-cf775dbe71cb?source=rss----721b17443fd5---4"/>
         <updated>2023-07-11T17:32:13.000Z</updated>
+        <summary type="html"><![CDATA[Zetachain]]></summary>
         <author>
             <name>Airdrop Home</name>
         </author>
@@ -214,6 +227,7 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/d27566624910</id>
         <link href="https://coinsbench.com/ethernaut-preservation-d27566624910?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:14.000Z</updated>
+        <summary type="html"><![CDATA[The Goal of This level is to claim ownership of the Presavation smart contract.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -223,6 +237,7 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/9b07662c06fe</id>
         <link href="https://coinsbench.com/ethernaut-gatekeeper-two-9b07662c06fe?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:12.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is to register an entrant into the smart contract, To register an entrant, we need to first pass through the three…]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -232,6 +247,7 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/40b0af446d57</id>
         <link href="https://coinsbench.com/ethernaut-naught-coin-40b0af446d57?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:11.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is to be able to transfer the coins out of the contract before the lock up period expires.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -274,6 +290,7 @@ https://www.youtube.com/watch?v=hUkSgOhTsJo]]></summary>
         <id>https://medium.com/p/166c83c17a69</id>
         <link href="https://blog.blockmagnates.com/building-an-arbitrage-bot-efficient-reading-of-pool-prices-article-2-n-166c83c17a69?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-06-28T12:52:08.000Z</updated>
+        <summary type="html"><![CDATA[This article presents an efficient way to fetch the list of Uniswap V2 pair contracts and retrieve the token reserves in each one.]]></summary>
         <author>
             <name>Emile Amajar</name>
         </author>
