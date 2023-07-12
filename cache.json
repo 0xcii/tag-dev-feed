@@ -34,7 +34,7 @@
           "description": "The goal of this level is to unlock the contract by accessing the key from the data stored in the Blockchain.",
           "link": "https://coinsbench.com/ethernaut-privacy-6c1484fc6227?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-11T17:50:08.000Z",
-          "wordCount": 2408,
+          "wordCount": 2348,
           "title": "ETHERNAUT | PRIVACY",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*ADM3CZvJTCoFQkhfjXWYpg.png"
         },
@@ -44,7 +44,7 @@
           "description": "The goal of this level is to pass through the gateKeeper and register an entrant.",
           "link": "https://coinsbench.com/ethernaut-gatekeeper-one-f2e95b8e3d9a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-11T17:50:06.000Z",
-          "wordCount": 2641,
+          "wordCount": 2558,
           "title": "ETHERNAUT | GATEKEEPER ONE",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*3u5e7hQpv1jNPMbVM9V8RQ.png"
         },
@@ -54,7 +54,7 @@
           "description": "Solidity Compilers and Contract Initialization → Opcodes and Gas within the Ethereum Virtual Machine.",
           "link": "https://coinsbench.com/talking-to-ethereum-smart-contracts-to-opcodes-3fc53a8de7d1?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-11T17:49:29.000Z",
-          "wordCount": 6219,
+          "wordCount": 6127,
           "title": "Talking to Ethereum: Smart Contracts to Opcodes",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QT9H3lXlqWV55YXNSRkYZQ.png"
         },
@@ -64,7 +64,7 @@
           "description": "In this article, I will show the process of encoding data in a transaction to call a contract method.",
           "link": "https://coinsbench.com/ethereum-contract-abi-specification-interaction-with-the-contract-304cd7870724?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-11T17:49:22.000Z",
-          "wordCount": 5775,
+          "wordCount": 5834,
           "title": "Ethereum Contract ABI Specification. Interaction with the contract",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:850/1*8dX3a0IMigGXJa5Ykpn_iQ.png"
         },
@@ -74,7 +74,7 @@
           "description": "Solidity smart contracts, powered by the Ethereum blockchain, have unlocked endless possibilities for decentralized applications and…",
           "link": "https://coinsbench.com/integer-overflow-and-underflow-safeguarding-solidity-smart-contracts-against-numeric-1bad3be73418?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-11T17:49:02.000Z",
-          "wordCount": 2853,
+          "wordCount": 2892,
           "title": "Integer Overflow and Underflow: Safeguarding Solidity Smart Contracts Against Numeric…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*_i0UcfiKrxVPthUQTBb0pQ.png"
         },
@@ -84,7 +84,7 @@
           "description": "In this tutorial, we will walk through the process of building a whale alert bot for Discord. The bot will monitor token swaps on Uniswap…",
           "link": "https://coinsbench.com/building-a-uniswapv3-whale-alert-bot-for-discord-3c3f91f81e0b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-11T17:48:52.000Z",
-          "wordCount": 3335,
+          "wordCount": 3436,
           "title": "Building a UniswapV3 Whale Alert Bot for Discord",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*BOcwSa5YHyt4PV3q"
         },
@@ -94,7 +94,7 @@
           "description": "100 days of solidity (Day 12–17)",
           "link": "https://coinsbench.com/solidity-arrays-535410a92703?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-11T17:48:47.000Z",
-          "wordCount": 3037,
+          "wordCount": 2976,
           "title": "Solidity Arrays",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-gVeFelBh6zbxIn0U_Q-CA.png"
         },
@@ -104,7 +104,7 @@
           "description": "The Goal of This level is to claim ownership of the Presavation smart contract.",
           "link": "https://coinsbench.com/ethernaut-preservation-d27566624910?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-06T09:26:14.000Z",
-          "wordCount": 2209,
+          "wordCount": 2175,
           "title": "ETHERNAUT | PRESERVATION",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*LD5Wa3oxtOXfLrO3tMVT0A.png"
         },
@@ -114,7 +114,7 @@
           "description": "The goal of this level is to register an entrant into the smart contract, To register an entrant, we need to first pass through the three…",
           "link": "https://coinsbench.com/ethernaut-gatekeeper-two-9b07662c06fe?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-06T09:26:12.000Z",
-          "wordCount": 2323,
+          "wordCount": 2297,
           "title": "ETHERNAUT | GATEKEEPER TWO",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*r6S7MzRUMfUMivyV_xVc5w.png"
         },
@@ -124,7 +124,7 @@
           "description": "The goal of this level is to be able to transfer the coins out of the contract before the lock up period expires.",
           "link": "https://coinsbench.com/ethernaut-naught-coin-40b0af446d57?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-06T09:26:11.000Z",
-          "wordCount": 2295,
+          "wordCount": 2279,
           "title": "ETHERNAUT | NAUGHT COIN",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*PDsjq_kxbgR8BQFB-Jcl4A.png"
         }
@@ -211,7 +211,7 @@
           "description": "Well-known YouTube analyst Altcoin Daily highlighted that ethereum (ETH), Optimism (OPI) and Polygon (MATIC) are among the main…",
           "link": "https://medium.com/coinmonks/ethereum-and-altcoins-will-be-fundamental-to-ai-according-altcoin-daily-geek-metaverse-news-992451fa27c4?source=rss----721b17443fd5---4",
           "publishedOn": "2023-07-12T08:36:47.000Z",
-          "wordCount": 3319,
+          "wordCount": 3284,
           "title": "Ethereum and Altcoins will be fundamental to AI, according Altcoin Daily — Geek Metaverse News",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*B2_N2Y3kwjwXV8RL8EjfIg.jpeg"
         },
@@ -221,7 +221,7 @@
           "description": "Unraveling the Impact of AI on the Legal Profession",
           "link": "https://medium.com/coinmonks/ai-lawyers-a-threat-or-an-opportunity-for-legal-attorneys-da65d116274a?source=rss----721b17443fd5---4",
           "publishedOn": "2023-07-12T08:36:45.000Z",
-          "wordCount": 5543,
+          "wordCount": 5435,
           "title": "AI Lawyers: A Threat or an Opportunity for Legal Attorneys?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*cARq1n3pbsA7VgFGDMYVAw.jpeg"
         },
@@ -248,7 +248,7 @@
           "description": "This article presents an efficient way to fetch the list of Uniswap V2 pair contracts and retrieve the token reserves in each one.",
           "link": "https://blog.blockmagnates.com/building-an-arbitrage-bot-efficient-reading-of-pool-prices-article-2-n-166c83c17a69?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-06-28T12:52:08.000Z",
-          "wordCount": 7003,
+          "wordCount": 6920,
           "title": "Building an arbitrage bot: Efficient reading of pool prices (article 2/n)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:753/1*XMXjQGubOuQn_uqP6eu-OQ.png"
         }
