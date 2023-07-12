@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-12T10:13:50.419Z</id>
+    <id>urn:2023-07-12T11:10:53.767Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-12T10:13:50.419Z</updated>
+    <updated>2023-07-12T11:10:53.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BorgNews: Revolutionizing News with AI and Automation]]></title>
+        <id>https://medium.com/p/fd0ec2eb8e77</id>
+        <link href="https://medium.com/coinmonks/borgnews-revolutionizing-news-with-ai-and-automation-fd0ec2eb8e77?source=rss----721b17443fd5---4"/>
+        <updated>2023-07-12T10:43:23.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced digital world, it’s easy to feel swamped by the flood of information coming at us from all directions. That’s where…]]></summary>
+        <author>
+            <name>Berend</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A comprehensive comparison of mainstream stable coins, an article to thoroughly understand stable…]]></title>
+        <id>https://medium.com/p/517b96699497</id>
+        <link href="https://medium.com/coinmonks/a-comprehensive-comparison-of-mainstream-stable-coins-an-article-to-thoroughly-understand-stable-517b96699497?source=rss----721b17443fd5---4"/>
+        <updated>2023-07-12T10:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Since the LUNA explosion, the Silvergate Bank explosion triggered the global decoupling of the second largest crypto stable coin USDC and…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>FaTPay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Bitcoin Advice I Wish I Knew 10 Years Ago]]></title>
         <id>https://medium.com/p/d5bdbcfe0403</id>
@@ -51,7 +72,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/9196532c49fe</id>
         <link href="https://medium.com/coinmonks/marginly-arbitrum-goerli-testnet-step-by-step-guide-galxe-airdrop-confirmed-up-to-9196532c49fe?source=rss----721b17443fd5---4"/>
         <updated>2023-07-12T08:36:51.000Z</updated>
-        <summary type="html"><![CDATA[Marginly is a smart contract-based margin trading & derivatives application that allows users to take up to 20x leveraged long and short…]]></summary>
         <author>
             <name>Airdrop Home ️</name>
         </author>
@@ -87,31 +107,10 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Lawyers: A Threat or an Opportunity for Legal Attorneys?]]></title>
-        <id>https://medium.com/p/da65d116274a</id>
-        <link href="https://medium.com/coinmonks/ai-lawyers-a-threat-or-an-opportunity-for-legal-attorneys-da65d116274a?source=rss----721b17443fd5---4"/>
-        <updated>2023-07-12T08:36:45.000Z</updated>
-        <summary type="html"><![CDATA[Unraveling the Impact of AI on the Legal Profession]]></summary>
-        <author>
-            <name>PECUNIO VC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Arbitrage Opportunities : Exploring Lucrative Comprehensive Guide]]></title>
-        <id>https://medium.com/p/eee7cda05385</id>
-        <link href="https://medium.com/coinmonks/crypto-arbitrage-opportunities-exploring-lucrative-comprehensive-guide-eee7cda05385?source=rss----721b17443fd5---4"/>
-        <updated>2023-07-12T08:36:44.000Z</updated>
-        <summary type="html"><![CDATA[Crypto arbitrage opportunities in the dynamic world of cryptocurrencies, investors are constantly seeking innovative ways to capitalize on…]]></summary>
-        <author>
-            <name>Zahir black</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ETHERNAUT | PRIVACY]]></title>
         <id>https://medium.com/p/6c1484fc6227</id>
         <link href="https://coinsbench.com/ethernaut-privacy-6c1484fc6227?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:50:08.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is to unlock the contract by accessing the key from the data stored in the Blockchain.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -121,7 +120,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/f2e95b8e3d9a</id>
         <link href="https://coinsbench.com/ethernaut-gatekeeper-one-f2e95b8e3d9a?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:50:06.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is to pass through the gateKeeper and register an entrant.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -131,7 +129,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/3fc53a8de7d1</id>
         <link href="https://coinsbench.com/talking-to-ethereum-smart-contracts-to-opcodes-3fc53a8de7d1?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:49:29.000Z</updated>
-        <summary type="html"><![CDATA[Solidity Compilers and Contract Initialization → Opcodes and Gas within the Ethereum Virtual Machine.]]></summary>
         <author>
             <name>Cayo Tor</name>
         </author>
@@ -141,7 +138,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/304cd7870724</id>
         <link href="https://coinsbench.com/ethereum-contract-abi-specification-interaction-with-the-contract-304cd7870724?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:49:22.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will show the process of encoding data in a transaction to call a contract method.]]></summary>
         <author>
             <name>Denis Avtsin</name>
         </author>
@@ -151,7 +147,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/1bad3be73418</id>
         <link href="https://coinsbench.com/integer-overflow-and-underflow-safeguarding-solidity-smart-contracts-against-numeric-1bad3be73418?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:49:02.000Z</updated>
-        <summary type="html"><![CDATA[Solidity smart contracts, powered by the Ethereum blockchain, have unlocked endless possibilities for decentralized applications and…]]></summary>
         <author>
             <name>ismail</name>
         </author>
@@ -161,7 +156,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/3c3f91f81e0b</id>
         <link href="https://coinsbench.com/building-a-uniswapv3-whale-alert-bot-for-discord-3c3f91f81e0b?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:48:52.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will walk through the process of building a whale alert bot for Discord. The bot will monitor token swaps on Uniswap…]]></summary>
         <author>
             <name>Burgossrodrigo</name>
         </author>
@@ -171,7 +165,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/535410a92703</id>
         <link href="https://coinsbench.com/solidity-arrays-535410a92703?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:48:47.000Z</updated>
-        <summary type="html"><![CDATA[100 days of solidity (Day 12–17)]]></summary>
         <author>
             <name>Favorite_blockchain_lady</name>
         </author>
@@ -222,7 +215,6 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/d27566624910</id>
         <link href="https://coinsbench.com/ethernaut-preservation-d27566624910?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:14.000Z</updated>
-        <summary type="html"><![CDATA[The Goal of This level is to claim ownership of the Presavation smart contract.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -232,7 +224,6 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/9b07662c06fe</id>
         <link href="https://coinsbench.com/ethernaut-gatekeeper-two-9b07662c06fe?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:12.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is to register an entrant into the smart contract, To register an entrant, we need to first pass through the three…]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -242,7 +233,6 @@ The post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto 
         <id>https://medium.com/p/40b0af446d57</id>
         <link href="https://coinsbench.com/ethernaut-naught-coin-40b0af446d57?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-06T09:26:11.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is to be able to transfer the coins out of the contract before the lock up period expires.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -285,7 +275,6 @@ https://www.youtube.com/watch?v=hUkSgOhTsJo]]></summary>
         <id>https://medium.com/p/166c83c17a69</id>
         <link href="https://blog.blockmagnates.com/building-an-arbitrage-bot-efficient-reading-of-pool-prices-article-2-n-166c83c17a69?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-06-28T12:52:08.000Z</updated>
-        <summary type="html"><![CDATA[This article presents an efficient way to fetch the list of Uniswap V2 pair contracts and retrieve the token reserves in each one.]]></summary>
         <author>
             <name>Emile Amajar</name>
         </author>
