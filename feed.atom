@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-12T15:13:18.971Z</id>
+    <id>urn:2023-07-12T16:17:23.099Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-12T15:13:18.971Z</updated>
+    <updated>2023-07-12T16:17:23.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -112,6 +112,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/2ceedaf52f32</id>
         <link href="https://coinsbench.com/ethernaut-vault-2ceedaf52f32?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-12T11:13:59.000Z</updated>
+        <summary type="html"><![CDATA[The Goal of this level is to unlock the Vault]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -121,6 +122,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/94a84fe71892</id>
         <link href="https://coinsbench.com/ethernaut-king-94a84fe71892?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-12T11:13:43.000Z</updated>
+        <summary type="html"><![CDATA[The goal is to prevent the current level from reclaiming the kingship after instance is submitted.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -130,6 +132,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/317481c9f5e0</id>
         <link href="https://coinsbench.com/ethernaut-re-entrancy-317481c9f5e0?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-12T11:13:37.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is for you to steal all the funds from the contract.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -139,6 +142,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/a85d221acff5</id>
         <link href="https://coinsbench.com/ethernaut-elevator-a85d221acff5?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-12T11:13:34.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is to get to the top.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -148,6 +152,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/a4b582893f29</id>
         <link href="https://coinsbench.com/how-can-ethereums-immutable-smart-contracts-be-upgraded-a4b582893f29?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-12T11:13:32.000Z</updated>
+        <summary type="html"><![CDATA[Delegate-Call, Inheritance & Upgradable Proxy Patterns in Solidity.]]></summary>
         <author>
             <name>Cayo Tor</name>
         </author>
@@ -157,6 +162,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/48b6656e520c</id>
         <link href="https://coinsbench.com/denial-of-service-dos-attack-safeguarding-solidity-smart-contracts-against-disruption-48b6656e520c?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-12T11:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Solidity smart contracts have revolutionized the way we interact with decentralized applications, enabling secure and transparent…]]></summary>
         <author>
             <name>ismail</name>
         </author>
@@ -166,6 +172,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/6c1484fc6227</id>
         <link href="https://coinsbench.com/ethernaut-privacy-6c1484fc6227?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:50:08.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is to unlock the contract by accessing the key from the data stored in the Blockchain.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -175,6 +182,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/f2e95b8e3d9a</id>
         <link href="https://coinsbench.com/ethernaut-gatekeeper-one-f2e95b8e3d9a?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:50:06.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is to pass through the gateKeeper and register an entrant.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -184,6 +192,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/3fc53a8de7d1</id>
         <link href="https://coinsbench.com/talking-to-ethereum-smart-contracts-to-opcodes-3fc53a8de7d1?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:49:29.000Z</updated>
+        <summary type="html"><![CDATA[Solidity Compilers and Contract Initialization → Opcodes and Gas within the Ethereum Virtual Machine.]]></summary>
         <author>
             <name>Cayo Tor</name>
         </author>
@@ -193,6 +202,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/304cd7870724</id>
         <link href="https://coinsbench.com/ethereum-contract-abi-specification-interaction-with-the-contract-304cd7870724?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:49:22.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will show the process of encoding data in a transaction to call a contract method.]]></summary>
         <author>
             <name>Denis Avtsin</name>
         </author>
@@ -276,6 +286,7 @@ https://www.youtube.com/watch?v=hUkSgOhTsJo]]></summary>
         <id>https://medium.com/p/166c83c17a69</id>
         <link href="https://blog.blockmagnates.com/building-an-arbitrage-bot-efficient-reading-of-pool-prices-article-2-n-166c83c17a69?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-06-28T12:52:08.000Z</updated>
+        <summary type="html"><![CDATA[This article presents an efficient way to fetch the list of Uniswap V2 pair contracts and retrieve the token reserves in each one.]]></summary>
         <author>
             <name>Emile Amajar</name>
         </author>
