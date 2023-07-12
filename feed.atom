@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-12T21:11:18.261Z</id>
+    <id>urn:2023-07-12T22:12:05.990Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-12T21:11:18.261Z</updated>
+    <updated>2023-07-12T22:12:05.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -122,6 +122,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/94a84fe71892</id>
         <link href="https://coinsbench.com/ethernaut-king-94a84fe71892?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-12T11:13:43.000Z</updated>
+        <summary type="html"><![CDATA[The goal is to prevent the current level from reclaiming the kingship after instance is submitted.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
@@ -161,6 +162,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/48b6656e520c</id>
         <link href="https://coinsbench.com/denial-of-service-dos-attack-safeguarding-solidity-smart-contracts-against-disruption-48b6656e520c?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-12T11:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Solidity smart contracts have revolutionized the way we interact with decentralized applications, enabling secure and transparent…]]></summary>
         <author>
             <name>ismail</name>
         </author>
@@ -190,6 +192,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/3fc53a8de7d1</id>
         <link href="https://coinsbench.com/talking-to-ethereum-smart-contracts-to-opcodes-3fc53a8de7d1?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:49:29.000Z</updated>
+        <summary type="html"><![CDATA[Solidity Compilers and Contract Initialization → Opcodes and Gas within the Ethereum Virtual Machine.]]></summary>
         <author>
             <name>Cayo Tor</name>
         </author>
