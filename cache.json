@@ -34,7 +34,7 @@
           "description": "The Goal of this level is to unlock the Vault",
           "link": "https://coinsbench.com/ethernaut-vault-2ceedaf52f32?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-12T11:13:59.000Z",
-          "wordCount": 1925,
+          "wordCount": 1929,
           "title": "ETHERNAUT | VAULT",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*d06ws7thJn02R63DOiXvGQ.png"
         },
@@ -54,7 +54,7 @@
           "description": "The goal of this level is for you to steal all the funds from the contract.",
           "link": "https://coinsbench.com/ethernaut-re-entrancy-317481c9f5e0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-12T11:13:37.000Z",
-          "wordCount": 2341,
+          "wordCount": 2345,
           "title": "ETHERNAUT | RE_ENTRANCY",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*mRi5_7OBFt-9aWmwT7x5mA.png"
         },
@@ -64,7 +64,7 @@
           "description": "The goal of this level is to get to the top.",
           "link": "https://coinsbench.com/ethernaut-elevator-a85d221acff5?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-12T11:13:34.000Z",
-          "wordCount": 1871,
+          "wordCount": 1875,
           "title": "ETHERNAUT | ELEVATOR",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*e0A50A4G5fFPBTeu5MvoyQ.png"
         },
@@ -74,7 +74,7 @@
           "description": "Delegate-Call, Inheritance & Upgradable Proxy Patterns in Solidity.",
           "link": "https://coinsbench.com/how-can-ethereums-immutable-smart-contracts-be-upgraded-a4b582893f29?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-12T11:13:32.000Z",
-          "wordCount": 6627,
+          "wordCount": 6631,
           "title": "How Can Ethereum’s Immutable Smart Contracts Be Upgraded?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*ffvO_Ox0lWHX2lKz.jpg"
         },
@@ -84,7 +84,7 @@
           "description": "Solidity smart contracts have revolutionized the way we interact with decentralized applications, enabling secure and transparent…",
           "link": "https://coinsbench.com/denial-of-service-dos-attack-safeguarding-solidity-smart-contracts-against-disruption-48b6656e520c?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-12T11:13:29.000Z",
-          "wordCount": 2746,
+          "wordCount": 2748,
           "title": "Denial-of-Service (DoS) Attack: Safeguarding Solidity Smart Contracts Against Disruption",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Rkdc31GVfJmzTHChQ2h_0A.png"
         },
@@ -94,7 +94,7 @@
           "description": "The goal of this level is to unlock the contract by accessing the key from the data stored in the Blockchain.",
           "link": "https://coinsbench.com/ethernaut-privacy-6c1484fc6227?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-11T17:50:08.000Z",
-          "wordCount": 2138,
+          "wordCount": 2142,
           "title": "ETHERNAUT | PRIVACY",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*ADM3CZvJTCoFQkhfjXWYpg.png"
         },
@@ -104,7 +104,7 @@
           "description": "The goal of this level is to pass through the gateKeeper and register an entrant.",
           "link": "https://coinsbench.com/ethernaut-gatekeeper-one-f2e95b8e3d9a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-11T17:50:06.000Z",
-          "wordCount": 2405,
+          "wordCount": 2409,
           "title": "ETHERNAUT | GATEKEEPER ONE",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*3u5e7hQpv1jNPMbVM9V8RQ.png"
         },
@@ -114,7 +114,7 @@
           "description": "Solidity Compilers and Contract Initialization → Opcodes and Gas within the Ethereum Virtual Machine.",
           "link": "https://coinsbench.com/talking-to-ethereum-smart-contracts-to-opcodes-3fc53a8de7d1?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-11T17:49:29.000Z",
-          "wordCount": 6086,
+          "wordCount": 6088,
           "title": "Talking to Ethereum: Smart Contracts to Opcodes",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QT9H3lXlqWV55YXNSRkYZQ.png"
         },
@@ -124,7 +124,7 @@
           "description": "In this article, I will show the process of encoding data in a transaction to call a contract method.",
           "link": "https://coinsbench.com/ethereum-contract-abi-specification-interaction-with-the-contract-304cd7870724?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-11T17:49:22.000Z",
-          "wordCount": 5761,
+          "wordCount": 5765,
           "title": "Ethereum Contract ABI Specification. Interaction with the contract",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:850/1*8dX3a0IMigGXJa5Ykpn_iQ.png"
         }
@@ -243,12 +243,22 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/b2c9f20ea113",
+          "author": "Harith  D. Jayawardhane",
+          "description": "In today’s rapidly evolving digital landscape, smart contracts have emerged as a groundbreaking technology that revolutionizes how…",
+          "link": "https://blog.blockmagnates.com/a-beginners-guide-to-smart-contracts-unlocking-the-power-of-decentralized-automation-b2c9f20ea113?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-07-14T15:46:24.000Z",
+          "wordCount": 2859,
+          "title": "A Beginner’s Guide to Smart Contracts: Unlocking the Power of Decentralized Automation",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TPyBKcu0dEjcqxc66PzJHQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/166c83c17a69",
           "author": "Emile Amajar",
           "description": "This article presents an efficient way to fetch the list of Uniswap V2 pair contracts and retrieve the token reserves in each one.",
           "link": "https://blog.blockmagnates.com/building-an-arbitrage-bot-efficient-reading-of-pool-prices-article-2-n-166c83c17a69?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-06-28T12:52:08.000Z",
-          "wordCount": 6731,
+          "wordCount": 6735,
           "title": "Building an arbitrage bot: Efficient reading of pool prices (article 2/n)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:753/1*XMXjQGubOuQn_uqP6eu-OQ.png"
         }
