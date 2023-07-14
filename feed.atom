@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-14T09:12:44.731Z</id>
+    <id>urn:2023-07-14T10:13:35.434Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-14T09:12:44.731Z</updated>
+    <updated>2023-07-14T10:13:35.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -176,6 +176,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/6c1484fc6227</id>
         <link href="https://coinsbench.com/ethernaut-privacy-6c1484fc6227?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-11T17:50:08.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is to unlock the contract by accessing the key from the data stored in the Blockchain.]]></summary>
         <author>
             <name>Eliashezron</name>
         </author>
