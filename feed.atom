@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-17T19:10:15.774Z</id>
+    <id>urn:2023-07-17T20:14:11.982Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-17T19:10:15.774Z</updated>
+    <updated>2023-07-17T20:14:11.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Guide to Writing and Deploying your First Smart Contract — Polygon Guild Ilorin Talk]]></title>
+        <id>https://medium.com/p/291160f19023</id>
+        <link href="https://coinsbench.com/guide-to-writing-and-deploying-your-first-smart-contract-polygon-guild-ilorin-talk-291160f19023?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-17T20:10:29.000Z</updated>
+        <summary type="html"><![CDATA[I was invited to speak at the Polygon Guild Ilorin event. My talk was about writing and deploying your first smart contract.]]></summary>
+        <author>
+            <name>Aransiola Leom Ayodele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Practices for Secure Smart Contract Development]]></title>
+        <id>https://medium.com/p/d5fb44ca427f</id>
+        <link href="https://coinsbench.com/best-practices-for-secure-smart-contract-development-d5fb44ca427f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-17T20:10:27.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts have revolutionized the way we conduct transactions and execute business logic on the blockchain. However, building secure…]]></summary>
+        <author>
+            <name>ismail</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mappings in solidity]]></title>
+        <id>https://medium.com/p/e8d9b276c464</id>
+        <link href="https://coinsbench.com/mappings-in-solidity-e8d9b276c464?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-17T20:10:23.000Z</updated>
+        <summary type="html"><![CDATA[100 days of solidity (Day 13–17)]]></summary>
+        <author>
+            <name>Favorite_blockchain_lady</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a Trading Bot for Beginners]]></title>
+        <id>https://medium.com/p/47ab2f0e5659</id>
+        <link href="https://coinsbench.com/making-a-trading-bot-for-beginners-47ab2f0e5659?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-17T20:10:05.000Z</updated>
+        <summary type="html"><![CDATA[As we journey through the digital age, algorithms have taken a front-row seat in decision-making processes, even in financial trading. In…]]></summary>
+        <author>
+            <name>Javier Calderon Jr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front-Running Attack: Protecting Solidity Smart Contracts from Unfair Exploitation]]></title>
+        <id>https://medium.com/p/9584573622b3</id>
+        <link href="https://coinsbench.com/front-running-attack-protecting-solidity-smart-contracts-from-unfair-exploitation-9584573622b3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-17T20:09:59.000Z</updated>
+        <summary type="html"><![CDATA[Solidity smart contracts have transformed the landscape of decentralized applications by enabling secure and transparent transactions…]]></summary>
+        <author>
+            <name>ismail</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mastering Solidity: A Practical Guide for Expert Developers]]></title>
         <id>https://medium.com/p/784d03c68b49</id>
@@ -197,56 +247,6 @@ https://www.youtube.com/watch?v=emntsJshpkQ]]></summary>
         <summary type="html"><![CDATA[Delegate-Call, Inheritance & Upgradable Proxy Patterns in Solidity.]]></summary>
         <author>
             <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denial-of-Service (DoS) Attack: Safeguarding Solidity Smart Contracts Against Disruption]]></title>
-        <id>https://medium.com/p/48b6656e520c</id>
-        <link href="https://coinsbench.com/denial-of-service-dos-attack-safeguarding-solidity-smart-contracts-against-disruption-48b6656e520c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-12T11:13:29.000Z</updated>
-        <summary type="html"><![CDATA[Solidity smart contracts have revolutionized the way we interact with decentralized applications, enabling secure and transparent…]]></summary>
-        <author>
-            <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHERNAUT | PRIVACY]]></title>
-        <id>https://medium.com/p/6c1484fc6227</id>
-        <link href="https://coinsbench.com/ethernaut-privacy-6c1484fc6227?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-11T17:50:08.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is to unlock the contract by accessing the key from the data stored in the Blockchain.]]></summary>
-        <author>
-            <name>Eliashezron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHERNAUT | GATEKEEPER ONE]]></title>
-        <id>https://medium.com/p/f2e95b8e3d9a</id>
-        <link href="https://coinsbench.com/ethernaut-gatekeeper-one-f2e95b8e3d9a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-11T17:50:06.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this level is to pass through the gateKeeper and register an entrant.]]></summary>
-        <author>
-            <name>Eliashezron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talking to Ethereum: Smart Contracts to Opcodes]]></title>
-        <id>https://medium.com/p/3fc53a8de7d1</id>
-        <link href="https://coinsbench.com/talking-to-ethereum-smart-contracts-to-opcodes-3fc53a8de7d1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-11T17:49:29.000Z</updated>
-        <summary type="html"><![CDATA[Solidity Compilers and Contract Initialization → Opcodes and Gas within the Ethereum Virtual Machine.]]></summary>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Contract ABI Specification. Interaction with the contract]]></title>
-        <id>https://medium.com/p/304cd7870724</id>
-        <link href="https://coinsbench.com/ethereum-contract-abi-specification-interaction-with-the-contract-304cd7870724?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-11T17:49:22.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will show the process of encoding data in a transaction to call a contract method.]]></summary>
-        <author>
-            <name>Denis Avtsin</name>
         </author>
     </entry>
     <entry>

@@ -11,7 +11,7 @@
           "description": "The ERC-1155 contract standard has emerged as a powerful solution for managing multiple types of tokens within a single contract…\nThe post Create an ERC-1155 smart contract on Ethereum appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/create-an-erc-1155-smart-contract-on-ethereum/",
           "publishedOn": "2023-07-07T20:07:08.000Z",
-          "wordCount": 3668,
+          "wordCount": 3658,
           "title": "Create an ERC-1155 smart contract on Ethereum",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2023/07/1155-smart-contract.jpg"
         }
@@ -28,6 +28,56 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/291160f19023",
+          "author": "Aransiola Leom Ayodele",
+          "description": "I was invited to speak at the Polygon Guild Ilorin event. My talk was about writing and deploying your first smart contract.",
+          "link": "https://coinsbench.com/guide-to-writing-and-deploying-your-first-smart-contract-polygon-guild-ilorin-talk-291160f19023?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-17T20:10:29.000Z",
+          "wordCount": 2857,
+          "title": "Guide to Writing and Deploying your First Smart Contract — Polygon Guild Ilorin Talk",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*hv-YDZo_df2uT-DE.png"
+        },
+        {
+          "id": "https://medium.com/p/d5fb44ca427f",
+          "author": "ismail",
+          "description": "Smart contracts have revolutionized the way we conduct transactions and execute business logic on the blockchain. However, building secure…",
+          "link": "https://coinsbench.com/best-practices-for-secure-smart-contract-development-d5fb44ca427f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-17T20:10:27.000Z",
+          "wordCount": 2808,
+          "title": "Best Practices for Secure Smart Contract Development",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*H46OkMMBbMefj9D440u2tA.png"
+        },
+        {
+          "id": "https://medium.com/p/e8d9b276c464",
+          "author": "Favorite_blockchain_lady",
+          "description": "100 days of solidity (Day 13–17)",
+          "link": "https://coinsbench.com/mappings-in-solidity-e8d9b276c464?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-17T20:10:23.000Z",
+          "wordCount": 2711,
+          "title": "Mappings in solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:621/1*oJ1iyM27-ugB_7QP8qPj1Q.png"
+        },
+        {
+          "id": "https://medium.com/p/47ab2f0e5659",
+          "author": "Javier Calderon Jr",
+          "description": "As we journey through the digital age, algorithms have taken a front-row seat in decision-making processes, even in financial trading. In…",
+          "link": "https://coinsbench.com/making-a-trading-bot-for-beginners-47ab2f0e5659?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-17T20:10:05.000Z",
+          "wordCount": 3767,
+          "title": "Making a Trading Bot for Beginners",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*g2-_LX78DeCXcz0ogbRfzQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/9584573622b3",
+          "author": "ismail",
+          "description": "Solidity smart contracts have transformed the landscape of decentralized applications by enabling secure and transparent transactions…",
+          "link": "https://coinsbench.com/front-running-attack-protecting-solidity-smart-contracts-from-unfair-exploitation-9584573622b3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-17T20:09:59.000Z",
+          "wordCount": 2849,
+          "title": "Front-Running Attack: Protecting Solidity Smart Contracts from Unfair Exploitation",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*XTiFf-Rza8uV2farNJh96A.png"
+        },
         {
           "id": "https://medium.com/p/2ceedaf52f32",
           "author": "Eliashezron",
@@ -77,56 +127,6 @@
           "wordCount": 6784,
           "title": "How Can Ethereum’s Immutable Smart Contracts Be Upgraded?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*ffvO_Ox0lWHX2lKz.jpg"
-        },
-        {
-          "id": "https://medium.com/p/48b6656e520c",
-          "author": "ismail",
-          "description": "Solidity smart contracts have revolutionized the way we interact with decentralized applications, enabling secure and transparent…",
-          "link": "https://coinsbench.com/denial-of-service-dos-attack-safeguarding-solidity-smart-contracts-against-disruption-48b6656e520c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-12T11:13:29.000Z",
-          "wordCount": 2872,
-          "title": "Denial-of-Service (DoS) Attack: Safeguarding Solidity Smart Contracts Against Disruption",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Rkdc31GVfJmzTHChQ2h_0A.png"
-        },
-        {
-          "id": "https://medium.com/p/6c1484fc6227",
-          "author": "Eliashezron",
-          "description": "The goal of this level is to unlock the contract by accessing the key from the data stored in the Blockchain.",
-          "link": "https://coinsbench.com/ethernaut-privacy-6c1484fc6227?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-11T17:50:08.000Z",
-          "wordCount": 2306,
-          "title": "ETHERNAUT | PRIVACY",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*ADM3CZvJTCoFQkhfjXWYpg.png"
-        },
-        {
-          "id": "https://medium.com/p/f2e95b8e3d9a",
-          "author": "Eliashezron",
-          "description": "The goal of this level is to pass through the gateKeeper and register an entrant.",
-          "link": "https://coinsbench.com/ethernaut-gatekeeper-one-f2e95b8e3d9a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-11T17:50:06.000Z",
-          "wordCount": 2540,
-          "title": "ETHERNAUT | GATEKEEPER ONE",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*3u5e7hQpv1jNPMbVM9V8RQ.png"
-        },
-        {
-          "id": "https://medium.com/p/3fc53a8de7d1",
-          "author": "Cayo Tor",
-          "description": "Solidity Compilers and Contract Initialization → Opcodes and Gas within the Ethereum Virtual Machine.",
-          "link": "https://coinsbench.com/talking-to-ethereum-smart-contracts-to-opcodes-3fc53a8de7d1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-11T17:49:29.000Z",
-          "wordCount": 6206,
-          "title": "Talking to Ethereum: Smart Contracts to Opcodes",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QT9H3lXlqWV55YXNSRkYZQ.png"
-        },
-        {
-          "id": "https://medium.com/p/304cd7870724",
-          "author": "Denis Avtsin",
-          "description": "In this article, I will show the process of encoding data in a transaction to call a contract method.",
-          "link": "https://coinsbench.com/ethereum-contract-abi-specification-interaction-with-the-contract-304cd7870724?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-11T17:49:22.000Z",
-          "wordCount": 5781,
-          "title": "Ethereum Contract ABI Specification. Interaction with the contract",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:850/1*8dX3a0IMigGXJa5Ykpn_iQ.png"
         }
       ]
     },
@@ -201,7 +201,7 @@
           "description": "The world of digital assets has undergone a revolution with the emergence of Non-Fungible Tokens. These unique tokens, built on blockchain…",
           "link": "https://medium.com/coinmonks/nft-marketplace-development-paving-the-way-for-decentralized-ownership-and-web-3-0-5a3c4244fff6?source=rss----721b17443fd5---4",
           "publishedOn": "2023-07-17T17:36:36.000Z",
-          "wordCount": 5445,
+          "wordCount": 5393,
           "title": "NFT Marketplace Development: Paving the Way for Decentralized Ownership and Web 3.0",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*MgviYzkfKaFPohAJ0WZkXw.png"
         },
