@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-21T22:10:38.521Z</id>
+    <id>urn:2023-07-21T23:11:02.414Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-21T22:10:38.521Z</updated>
+    <updated>2023-07-21T23:11:02.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETHERNAUT | TELEPHONE]]></title>
+        <id>https://medium.com/p/519b7b0a332d</id>
+        <link href="https://coinsbench.com/ethernaut-telephone-519b7b0a332d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-21T22:53:45.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this level is to claim ownership of the smart contract]]></summary>
+        <author>
+            <name>Eliashezron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETHERNAUT | TOKEN]]></title>
+        <id>https://medium.com/p/64199c95ef4d</id>
+        <link href="https://coinsbench.com/ethernaut-token-64199c95ef4d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-21T22:53:42.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this contract is to hack the token supply of the contract to attain a large quantity of the tokens.]]></summary>
+        <author>
+            <name>Eliashezron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETHERNAUT | FORCE]]></title>
+        <id>https://medium.com/p/5f0ea3ce6344</id>
+        <link href="https://coinsbench.com/ethernaut-force-5f0ea3ce6344?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-21T22:53:39.000Z</updated>
+        <summary type="html"><![CDATA[The Goal of this contract is to force the contract to take some money.]]></summary>
+        <author>
+            <name>Eliashezron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Track Previous Owners Using Solidity Events in NFTs]]></title>
+        <id>https://medium.com/p/1f50e48cf74a</id>
+        <link href="https://coinsbench.com/how-to-track-previous-owners-using-solidity-events-in-nfts-1f50e48cf74a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-21T22:53:36.000Z</updated>
+        <summary type="html"><![CDATA[Non-fungible tokens, or NFTs, have been gaining popularity in recent years, particularly in the art and collectables world. NFTs are unique…]]></summary>
+        <author>
+            <name>Janindu Pathirana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Proof of Work: How Blockchain Ensures Security and Trust]]></title>
+        <id>https://medium.com/p/22268432cbb</id>
+        <link href="https://coinsbench.com/understanding-proof-of-work-how-blockchain-ensures-security-and-trust-22268432cbb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-21T22:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how cryptocurrencies like Bitcoin maintain their security and trustworthiness?]]></summary>
+        <author>
+            <name>Crypto Truster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoughts on Ethereum Smart Contract Development Tools]]></title>
+        <id>https://medium.com/p/7502dab1df87</id>
+        <link href="https://coinsbench.com/thoughts-on-ethereum-smart-contract-development-tools-7502dab1df87?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-21T22:53:31.000Z</updated>
+        <summary type="html"><![CDATA[It’s 2023 and there are many different options when it comes to developing smart contracts on the Ethereum blockchain in Solidity. Let’s…]]></summary>
+        <author>
+            <name>TheRealJellyman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safely Manage Smart Contract Ownership]]></title>
+        <id>https://medium.com/p/cc6acbbfcc8f</id>
+        <link href="https://coinsbench.com/how-to-safely-manage-smart-contract-ownership-cc6acbbfcc8f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-21T22:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Photo by John Schnobrich on Unsplash]]></summary>
+        <author>
+            <name>Pran B.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attack Vectors in Solidity: Signature Verification Exploit]]></title>
+        <id>https://medium.com/p/d961cc551863</id>
+        <link href="https://coinsbench.com/attack-vectors-in-solidity-11-signature-verification-exploit-d961cc551863?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-21T22:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Natachi Nnamaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Promising Cryptos in July: Arkham, Launchpad XYZ, and WhiteBIT Token in Focus]]></title>
         <id>https://medium.com/p/c9d5e276d682</id>
@@ -124,86 +204,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Side Entrance Challenge: Test your hacking skills in DVD v3 — Side Entrance! Exploit vulnerabilities and conquer the world of DeFi.]]></summary>
         <author>
             <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an AI Trading Bot on XRP: A Comprehensive Guide]]></title>
-        <id>https://medium.com/p/81ca246f2cc2</id>
-        <link href="https://coinsbench.com/building-an-ai-trading-bot-on-xrp-a-comprehensive-guide-81ca246f2cc2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-19T11:55:33.000Z</updated>
-        <summary type="html"><![CDATA[Alt Coin Season is here get in on XRP]]></summary>
-        <author>
-            <name>Javier Calderon Jr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Access Control and Permissions: Ensuring Secure Solidity Smart Contracts]]></title>
-        <id>https://medium.com/p/be90c4a974c0</id>
-        <link href="https://coinsbench.com/access-control-and-permissions-ensuring-secure-solidity-smart-contracts-be90c4a974c0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-19T11:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Solidity smart contracts play a pivotal role in creating trust and transparency within decentralized applications. However, ensuring proper…]]></summary>
-        <author>
-            <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to be sure that an address is a contract?]]></title>
-        <id>https://medium.com/p/2925533b0ad5</id>
-        <link href="https://coinsbench.com/how-to-be-sure-that-an-address-is-a-contract-2925533b0ad5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-19T11:54:55.000Z</updated>
-        <summary type="html"><![CDATA[There is no definite way to determine an address is a contract, but surely there are ways that may suit your use-case, let’s explore]]></summary>
-        <author>
-            <name>Pran B.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-Function and Cross-Contract Attacks: Safeguarding Solidity Smart Contracts]]></title>
-        <id>https://medium.com/p/660b2a5e0dd2</id>
-        <link href="https://coinsbench.com/cross-function-and-cross-contract-attacks-safeguarding-solidity-smart-contracts-660b2a5e0dd2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-19T11:54:46.000Z</updated>
-        <summary type="html"><![CDATA[Solidity smart contracts are the backbone of decentralized applications, enabling secure and trustless transactions. However, with the…]]></summary>
-        <author>
-            <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Draining Tokens from a DEX in the Movebit CTFMovement-3 Challenge: A Solution Walkthrough]]></title>
-        <id>https://medium.com/p/37d8ed737821</id>
-        <link href="https://coinsbench.com/draining-tokens-from-a-dex-in-the-movebit-ctfmovement-3-challenge-a-solution-walkthrough-37d8ed737821?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-19T11:54:41.000Z</updated>
-        <summary type="html"><![CDATA[Draining a DEX. Join us in exploring the solution to the Movebit’s Aptos Move CTF Challenge 3. #SmartContracts #BlockchainSecurity #CTF]]></summary>
-        <author>
-            <name>Moving Needles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing a Smart Contract]]></title>
-        <id>https://medium.com/p/c3070fad3526</id>
-        <link href="https://coinsbench.com/optimizing-a-smart-contract-c3070fad3526?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-19T11:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Smart Contract POV]]></summary>
-        <author>
-            <name>Frankline Kihiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Web3 NFT Cross-Breeding Dapp with React, Solidity, and CometChat]]></title>
-        <id>https://medium.com/p/e9e886b1b2f4</id>
-        <link href="https://coinsbench.com/how-to-build-a-web3-nft-cross-breeding-dapp-with-react-solidity-and-cometchat-e9e886b1b2f4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-19T11:53:01.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will walk you through the process of building a web3 NFT cross-breeding DApp using React, Solidity, and CometChat…]]></summary>
-        <author>
-            <name>Darlington Gospel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guide to Writing and Deploying your First Smart Contract — Polygon Guild Ilorin Talk]]></title>
-        <id>https://medium.com/p/291160f19023</id>
-        <link href="https://coinsbench.com/guide-to-writing-and-deploying-your-first-smart-contract-polygon-guild-ilorin-talk-291160f19023?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-17T20:10:29.000Z</updated>
-        <summary type="html"><![CDATA[I was invited to speak at the Polygon Guild Ilorin event. My talk was about writing and deploying your first smart contract.]]></summary>
-        <author>
-            <name>Aransiola Leom Ayodele</name>
         </author>
     </entry>
     <entry>
