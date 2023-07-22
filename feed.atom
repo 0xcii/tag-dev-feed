@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-22T18:13:32.914Z</id>
+    <id>urn:2023-07-22T19:08:39.598Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-22T18:13:32.914Z</updated>
+    <updated>2023-07-22T19:08:39.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DevNTell - Bifrost]]></title>
+        <id>https://blog.developerdao.com/devntell-bifrost</id>
+        <link href="https://blog.developerdao.com/devntell-bifrost"/>
+        <updated>2023-07-22T18:33:00.000Z</updated>
+        <summary type="html"><![CDATA[🌈 GM
+In this week's episode of DevNTell, we were given an overview of Bifrost by Co-Founders Kartik (CEO) and Samraaj (CTO).
+🌟 Developer Spotlight
+Kartik and Samraaj are long-time friends who first met at RIT and then eventually became co-founders together. They started their first business in web3 by creating a smart contract based deadman switch which helped land both of them into Y-Combinator. After a while, they realized that the market conditions weren't quite right for that product to take off and turned to another project that Samraaj had been working on a few years ago. That product was the non-AI version of Bifrost which, at the time, didn't scale since machine-generated code was still relatively new; however, with the recent advancements in AI and after its incorporation into Bifrost, they quickly went viral after releasing their first demo video. They're on a mission to remove all the monotonous work of implementing design so that engineers can focus on the fun stuff!
+🔥 About Bifrost
+Bifrost uses AI to turn your Figma designs into clean React code  automatically. It's the first design-to-code product that works!
+Resources:
+Bifrost: https://www.bifrost.so/
+Twitter: https://twitter.com/bifrostcode
+Kartik's Twitter: https://twitter.com/sathaxe
+Samraaj's Twitter: https://twitter.com/samraaj
+
+🎥 Presentation
+
+
+
+https://www.youtube.com/watch?v=v-V_OxKT4yI]]></summary>
+        <author>
+            <name>Narbeh Shahnazarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETHERNAUT | TELEPHONE]]></title>
         <id>https://medium.com/p/519b7b0a332d</id>
@@ -245,6 +271,7 @@ https://www.youtube.com/watch?v=emntsJshpkQ]]></summary>
         <id>https://medium.com/p/b2c9f20ea113</id>
         <link href="https://blog.blockmagnates.com/a-beginners-guide-to-smart-contracts-unlocking-the-power-of-decentralized-automation-b2c9f20ea113?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-07-14T15:46:24.000Z</updated>
+        <summary type="html"><![CDATA[In today’s rapidly evolving digital landscape, smart contracts have emerged as a groundbreaking technology that revolutionizes how…]]></summary>
         <author>
             <name>Harith  D. Jayawardhane</name>
         </author>
