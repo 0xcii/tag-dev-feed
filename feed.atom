@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-23T12:20:48.345Z</id>
+    <id>urn:2023-07-23T13:12:45.697Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-23T12:20:48.346Z</updated>
+    <updated>2023-07-23T13:12:45.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UNDERSTANDING MULTI-SIG WALLET]]></title>
+        <id>https://medium.com/p/757bf09ec517</id>
+        <link href="https://coinsbench.com/understanding-multi-sig-wallet-757bf09ec517?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-23T13:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Multisig wallet requires more than one signature to authorize transactions adding an extra layer of security to stored funds. The…]]></summary>
+        <author>
+            <name>Abusomwan Santos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevNTell - Bifrost]]></title>
         <id>https://blog.developerdao.com/devntell-bifrost</id>
@@ -220,16 +230,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[“The term market maker refers to a firm(mainly brokerage houses that provide trading services for investors in order to keep the financial…]]></summary>
         <author>
             <name>Abusomwan Santos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Side-Entrance v3 | Lvl 4| Damn Vulnerable Defi (Explained)]]></title>
-        <id>https://medium.com/p/3e8d3528243c</id>
-        <link href="https://coinsbench.com/side-entrance-v3-lvl-4-damn-vulnerable-defi-explained-3e8d3528243c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-19T12:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Side Entrance Challenge: Test your hacking skills in DVD v3 — Side Entrance! Exploit vulnerabilities and conquer the world of DeFi.]]></summary>
-        <author>
-            <name>Cayo Tor</name>
         </author>
     </entry>
     <entry>
