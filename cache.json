@@ -29,14 +29,54 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/606d5517d329",
+          "author": "Eliashezron",
+          "description": "The Goal of this level is to claim drain the funds in the wallet and claim ownership of the contract.",
+          "link": "https://coinsbench.com/ethernaut-fallback-606d5517d329?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-24T13:23:41.000Z",
+          "wordCount": 2161,
+          "title": "ETHERNAUT | FALLBACK",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*DLqmyDpDVBFktc7Pu0uYJg.png"
+        },
+        {
+          "id": "https://medium.com/p/e415b211f5da",
+          "author": "Eliashezron",
+          "description": "The goal of this level is to guess the correct outcome of the coinflip10 times in a row",
+          "link": "https://coinsbench.com/ethernaut-coinflip-e415b211f5da?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-24T13:23:37.000Z",
+          "wordCount": 2095,
+          "title": "ETHERNAUT | COINFLIP",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:494/1*IaV2NvLdNnPvsHzE3ij92w.png"
+        },
+        {
+          "id": "https://medium.com/p/37b2ce92355a",
+          "author": "Alex Fuentes",
+          "description": "Why should we consider transforming Browser-as-a-Wallet ?",
+          "link": "https://coinsbench.com/browser-as-a-wallet-on-iphone-using-sui-blockchain-part-1-3-37b2ce92355a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-24T13:23:35.000Z",
+          "wordCount": 3753,
+          "title": "Browser-as-a-Wallet on iPhone using Scan Action  — Part 1/3",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-Y8qO7ZBHZZX1RZ-g2IxMA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/ea708fe7a4f2",
+          "author": "Cayo Tor",
+          "description": "Account / Unspent Transaction Output / Extended-UTXO",
+          "link": "https://coinsbench.com/blockchain-state-models-explained-ea708fe7a4f2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-24T13:23:30.000Z",
+          "wordCount": 5508,
+          "title": "The Intricacies of Blockchain State — Impacting an Ecosystem.",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:800/0*Jrt14OVbDN8sRX-N.gif"
+        },
+        {
           "id": "https://medium.com/p/757bf09ec517",
           "author": "Abusomwan Santos",
-          "description": "",
+          "description": "Multisig wallet requires more than one signature to authorize transactions adding an extra layer of security to stored funds. The…",
           "link": "https://coinsbench.com/understanding-multi-sig-wallet-757bf09ec517?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-23T13:01:57.000Z",
-          "wordCount": null,
+          "wordCount": 4698,
           "title": "UNDERSTANDING MULTI-SIG WALLET",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Av1-LsKZ44cSBcpS"
         },
         {
           "id": "https://medium.com/p/519b7b0a332d",
@@ -61,22 +101,22 @@
         {
           "id": "https://medium.com/p/5f0ea3ce6344",
           "author": "Eliashezron",
-          "description": "",
+          "description": "The Goal of this contract is to force the contract to take some money.",
           "link": "https://coinsbench.com/ethernaut-force-5f0ea3ce6344?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-21T22:53:39.000Z",
-          "wordCount": null,
+          "wordCount": 1914,
           "title": "ETHERNAUT | FORCE",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*um51xxgUfgvKsQBwhGmUYQ.png"
         },
         {
           "id": "https://medium.com/p/1f50e48cf74a",
           "author": "Janindu Pathirana",
-          "description": "",
+          "description": "Non-fungible tokens, or NFTs, have been gaining popularity in recent years, particularly in the art and collectables world. NFTs are unique…",
           "link": "https://coinsbench.com/how-to-track-previous-owners-using-solidity-events-in-nfts-1f50e48cf74a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-21T22:53:36.000Z",
-          "wordCount": null,
+          "wordCount": 2819,
           "title": "How to Track Previous Owners Using Solidity Events in NFTs",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*fWSpK0z-rhwvjeX8CoueMw.jpeg"
         },
         {
           "id": "https://medium.com/p/22268432cbb",
@@ -87,46 +127,6 @@
           "wordCount": 2446,
           "title": "Understanding Proof of Work: How Blockchain Ensures Security and Trust",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*sOxBW4PxXWoOADdE"
-        },
-        {
-          "id": "https://medium.com/p/7502dab1df87",
-          "author": "TheRealJellyman",
-          "description": "",
-          "link": "https://coinsbench.com/thoughts-on-ethereum-smart-contract-development-tools-7502dab1df87?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-21T22:53:31.000Z",
-          "wordCount": null,
-          "title": "Thoughts on Ethereum Smart Contract Development Tools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/cc6acbbfcc8f",
-          "author": "Pran B.",
-          "description": "",
-          "link": "https://coinsbench.com/how-to-safely-manage-smart-contract-ownership-cc6acbbfcc8f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-21T22:53:28.000Z",
-          "wordCount": null,
-          "title": "Safely Manage Smart Contract Ownership",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d961cc551863",
-          "author": "Natachi Nnamaka",
-          "description": "",
-          "link": "https://coinsbench.com/attack-vectors-in-solidity-11-signature-verification-exploit-d961cc551863?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-21T22:53:25.000Z",
-          "wordCount": null,
-          "title": "Attack Vectors in Solidity: Signature Verification Exploit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/41804056a23f",
-          "author": "Abusomwan Santos",
-          "description": "",
-          "link": "https://coinsbench.com/product-automated-market-maker-uniswap-41804056a23f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-19T12:01:09.000Z",
-          "wordCount": null,
-          "title": "PRODUCT AUTOMATED MARKET MAKER (UNISWAP)",
-          "imageUrl": null
         }
       ]
     },
@@ -141,7 +141,7 @@
           "description": "Crescent Dex has plans to become a more User friendly, convenient DEX for users which is highlighted in Crescent’s 2023 Road Map.",
           "link": "https://medium.com/coinmonks/crescent-network-to-renovate-with-new-features-evolving-into-a-dex-with-advanced-functionalities-32c96332f88e?source=rss----721b17443fd5---4",
           "publishedOn": "2023-07-24T10:34:18.000Z",
-          "wordCount": 4380,
+          "wordCount": 4382,
           "title": "Crescent Network to renovate with new features evolving into a Dex with advanced functionalities",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*m00JYma0PFjArUdSwKbr4w.jpeg"
         },
@@ -151,7 +151,7 @@
           "description": "1. Enhanced Security: decentralized approach significantly reduces the risk of a single point of failure or data breach. In contrast…",
           "link": "https://medium.com/coinmonks/decentralized-id-checkout-solution-advantages-over-paypals-checkout-solution-5aec66b0765?source=rss----721b17443fd5---4",
           "publishedOn": "2023-07-24T10:34:17.000Z",
-          "wordCount": 2427,
+          "wordCount": 2445,
           "title": "Decentralized ID checkout solution advantages over Paypal’s checkout solution",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*4LpO68Sz_9J15x-dAfaSQQ.jpeg"
         },
@@ -161,7 +161,7 @@
           "description": "Introduction",
           "link": "https://medium.com/coinmonks/the-path-to-becoming-a-successful-crypto-investor-long-term-strategies-for-financial-prosperity-8b331d4cd09e?source=rss----721b17443fd5---4",
           "publishedOn": "2023-07-24T10:34:15.000Z",
-          "wordCount": 2986,
+          "wordCount": 2924,
           "title": "The Path to Becoming a Successful Crypto Investor: Long-Term Strategies for Financial Prosperity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*faowH0zSDYazHkf3t5gQwA.png"
         },
@@ -201,7 +201,7 @@
           "description": "NFT marketplaces have emerged as a revolutionary concept in the digital world, transforming the way we perceive ownership and value in the…",
           "link": "https://medium.com/coinmonks/navigating-nft-marketplace-development-costs-8811d5def3b6?source=rss----721b17443fd5---4",
           "publishedOn": "2023-07-24T10:00:38.000Z",
-          "wordCount": 4482,
+          "wordCount": 4485,
           "title": "Navigating NFT Marketplace Development Costs: A Comprehensive Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:648/1*UKVHNy67-SYBcVmsmf4z8w.jpeg"
         },
@@ -245,32 +245,32 @@
         {
           "id": "https://medium.com/p/784d03c68b49",
           "author": "Harith  D. Jayawardhane",
-          "description": "",
+          "description": "Solidity, the programming language for Ethereum smart contracts, has emerged as the go-to language for building decentralized applications…",
           "link": "https://blog.blockmagnates.com/mastering-solidity-a-practical-guide-for-expert-developers-784d03c68b49?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-07-17T19:02:21.000Z",
-          "wordCount": null,
+          "wordCount": 6648,
           "title": "Mastering Solidity: A Practical Guide for Expert Developers",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7F1S1tM8hDVJTGuFsVfFzw.png"
         },
         {
           "id": "https://medium.com/p/b2c9f20ea113",
           "author": "Harith  D. Jayawardhane",
-          "description": "",
+          "description": "In today’s rapidly evolving digital landscape, smart contracts have emerged as a groundbreaking technology that revolutionizes how…",
           "link": "https://blog.blockmagnates.com/a-beginners-guide-to-smart-contracts-unlocking-the-power-of-decentralized-automation-b2c9f20ea113?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-07-14T15:46:24.000Z",
-          "wordCount": null,
+          "wordCount": 2855,
           "title": "A Beginner’s Guide to Smart Contracts: Unlocking the Power of Decentralized Automation",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TPyBKcu0dEjcqxc66PzJHQ.jpeg"
         },
         {
           "id": "https://medium.com/p/166c83c17a69",
           "author": "Emile Amajar",
-          "description": "",
+          "description": "This article presents an efficient way to fetch the list of Uniswap V2 pair contracts and retrieve the token reserves in each one.",
           "link": "https://blog.blockmagnates.com/building-an-arbitrage-bot-efficient-reading-of-pool-prices-article-2-n-166c83c17a69?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-06-28T12:52:08.000Z",
-          "wordCount": null,
+          "wordCount": 6862,
           "title": "Building an arbitrage bot: Efficient reading of pool prices (article 2/n)",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:753/1*XMXjQGubOuQn_uqP6eu-OQ.png"
         }
       ]
     },
