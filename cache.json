@@ -34,7 +34,7 @@
           "description": "Multisig wallet requires more than one signature to authorize transactions adding an extra layer of security to stored funds. The…",
           "link": "https://coinsbench.com/understanding-multi-sig-wallet-757bf09ec517?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-23T13:01:57.000Z",
-          "wordCount": 4626,
+          "wordCount": 4251,
           "title": "UNDERSTANDING MULTI-SIG WALLET",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Av1-LsKZ44cSBcpS"
         },
@@ -44,7 +44,7 @@
           "description": "The goal of this level is to claim ownership of the smart contract",
           "link": "https://coinsbench.com/ethernaut-telephone-519b7b0a332d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-21T22:53:45.000Z",
-          "wordCount": 1961,
+          "wordCount": 1501,
           "title": "ETHERNAUT | TELEPHONE",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*IpN_5NpMtPKXTdWCZ0yxWw.png"
         },
@@ -54,7 +54,7 @@
           "description": "The goal of this contract is to hack the token supply of the contract to attain a large quantity of the tokens.",
           "link": "https://coinsbench.com/ethernaut-token-64199c95ef4d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-21T22:53:42.000Z",
-          "wordCount": 1851,
+          "wordCount": 1407,
           "title": "ETHERNAUT | TOKEN",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*Dg6IHCui4fgIDDHjmSFKVg.png"
         },
@@ -114,7 +114,7 @@
           "description": "Introduction",
           "link": "https://coinsbench.com/attack-vectors-in-solidity-11-signature-verification-exploit-d961cc551863?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-21T22:53:25.000Z",
-          "wordCount": 2759,
+          "wordCount": 2341,
           "title": "Attack Vectors in Solidity: Signature Verification Exploit",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*MITCCGy9VWEjPzOxe8M6cA.jpeg"
         },
@@ -124,7 +124,7 @@
           "description": "“The term market maker refers to a firm(mainly brokerage houses that provide trading services for investors in order to keep the financial…",
           "link": "https://coinsbench.com/product-automated-market-maker-uniswap-41804056a23f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-19T12:01:09.000Z",
-          "wordCount": 4932,
+          "wordCount": 4601,
           "title": "PRODUCT AUTOMATED MARKET MAKER (UNISWAP)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:806/1*u3lOhSjBlm4Ok01fG0FB_w.png"
         }
@@ -141,7 +141,7 @@
           "description": "The cost of different assets is constantly changing, and we cannot always predict where the price will go. As of the writing of this…",
           "link": "https://medium.com/coinmonks/promising-cryptos-in-july-arkham-launchpad-xyz-and-whitebit-token-in-focus-c9d5e276d682?source=rss----721b17443fd5---4",
           "publishedOn": "2023-07-21T16:48:11.000Z",
-          "wordCount": 4518,
+          "wordCount": 4767,
           "title": "Promising Cryptos in July: Arkham, Launchpad XYZ, and WhiteBIT Token in Focus",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:720/1*q5_q89JpSCq_kxstkh2lHQ.jpeg"
         },
@@ -151,7 +151,7 @@
           "description": "In the grand theater of the financial world, the S&P 500, a leading actor and a barometer of the U.S. stock market’s health, is currently…",
           "link": "https://medium.com/coinmonks/s-p-500s-earnings-saga-a-tale-of-resilience-amid-economic-turbulence-902cd2547d37?source=rss----721b17443fd5---4",
           "publishedOn": "2023-07-21T16:03:35.000Z",
-          "wordCount": 2724,
+          "wordCount": 2717,
           "title": "“S&P 500’s Earnings Saga: A Tale of Resilience Amid Economic Turbulence”",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*98ruXI_XUKhhJ63zE2BaSQ.png"
         },
@@ -191,7 +191,7 @@
           "description": "HELLO TO MY READERS ! 📰",
           "link": "https://medium.com/coinmonks/the-broke-ape-yacht-crash-lessons-for-justin-bieber-and-other-nft-collectors-1a3786bbcd70?source=rss----721b17443fd5---4",
           "publishedOn": "2023-07-21T08:46:44.000Z",
-          "wordCount": 3708,
+          "wordCount": 3705,
           "title": "The Broke Ape Yacht Crash: Lessons For Justin Bieber And Other NFT Collectors",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xRu2NA9rYs6YNj-NI5Mr-Q.png"
         },
@@ -258,7 +258,7 @@
           "description": "In today’s rapidly evolving digital landscape, smart contracts have emerged as a groundbreaking technology that revolutionizes how…",
           "link": "https://blog.blockmagnates.com/a-beginners-guide-to-smart-contracts-unlocking-the-power-of-decentralized-automation-b2c9f20ea113?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-07-14T15:46:24.000Z",
-          "wordCount": 2812,
+          "wordCount": 2487,
           "title": "A Beginner’s Guide to Smart Contracts: Unlocking the Power of Decentralized Automation",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TPyBKcu0dEjcqxc66PzJHQ.jpeg"
         },
@@ -268,7 +268,7 @@
           "description": "This article presents an efficient way to fetch the list of Uniswap V2 pair contracts and retrieve the token reserves in each one.",
           "link": "https://blog.blockmagnates.com/building-an-arbitrage-bot-efficient-reading-of-pool-prices-article-2-n-166c83c17a69?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-06-28T12:52:08.000Z",
-          "wordCount": 6794,
+          "wordCount": 6396,
           "title": "Building an arbitrage bot: Efficient reading of pool prices (article 2/n)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:753/1*XMXjQGubOuQn_uqP6eu-OQ.png"
         }
