@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-26T17:09:59.577Z</id>
+    <id>urn:2023-07-26T18:14:10.774Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-26T17:09:59.577Z</updated>
+    <updated>2023-07-26T18:14:10.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Events in Solidity: Create Interactive Smart Contracts]]></title>
+        <id>https://medium.com/p/2e2b133a92c6</id>
+        <link href="https://coinsbench.com/eventin-solidity-create-interactive-smart-contracts-2e2b133a92c6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-26T17:26:03.000Z</updated>
+        <summary type="html"><![CDATA[Today we will explore how smart contracts can communicate and interact with the world around them. In this blog post, we’ll dive into the…]]></summary>
+        <author>
+            <name>Joel Machado</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trading Bot on Alpaca using Python]]></title>
+        <id>https://medium.com/p/12ed2feae97e</id>
+        <link href="https://coinsbench.com/trading-bot-on-alpaca-using-python-12ed2feae97e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-26T17:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Using the Alpaca Trading platform and some Python libraries to automate trading while you are sleeping is not a bad idea.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Decentral Farm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Solidity: Building Smart Contracts on the Ethereum Blockchain]]></title>
+        <id>https://medium.com/p/bee6ae3e7bff</id>
+        <link href="https://coinsbench.com/mastering-solidity-building-smart-contracts-on-the-ethereum-blockchain-bee6ae3e7bff?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-26T17:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, the programming language for smart contracts on Ethereum, is at the heart of the decentralized revolution. We’ll explore…]]></summary>
+        <author>
+            <name>Fiona  Githaiga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC Security Series #1 — Smart Contract Attacks: Understanding Security Vulnerabilities in Web3]]></title>
+        <id>https://medium.com/p/c5906b87b216</id>
+        <link href="https://coinsbench.com/sc-security-series-1-smart-contract-attacks-understanding-security-vulnerabilities-in-web3-c5906b87b216?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-26T17:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Introduction:]]></summary>
+        <author>
+            <name>Andrew Prasaath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In the rapidly evolving world of cryptocurrencies and blockchain technology, staying up-to-date…]]></title>
         <id>https://medium.com/p/57e9a0175ea8</id>
@@ -192,46 +233,6 @@ https://www.youtube.com/watch?v=v-V_OxKT4yI]]></summary>
         <summary type="html"><![CDATA[The goal of this level is to claim ownership of the smart contract]]></summary>
         <author>
             <name>Eliashezron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHERNAUT | TOKEN]]></title>
-        <id>https://medium.com/p/64199c95ef4d</id>
-        <link href="https://coinsbench.com/ethernaut-token-64199c95ef4d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-21T22:53:42.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this contract is to hack the token supply of the contract to attain a large quantity of the tokens.]]></summary>
-        <author>
-            <name>Eliashezron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHERNAUT | FORCE]]></title>
-        <id>https://medium.com/p/5f0ea3ce6344</id>
-        <link href="https://coinsbench.com/ethernaut-force-5f0ea3ce6344?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-21T22:53:39.000Z</updated>
-        <summary type="html"><![CDATA[The Goal of this contract is to force the contract to take some money.]]></summary>
-        <author>
-            <name>Eliashezron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Track Previous Owners Using Solidity Events in NFTs]]></title>
-        <id>https://medium.com/p/1f50e48cf74a</id>
-        <link href="https://coinsbench.com/how-to-track-previous-owners-using-solidity-events-in-nfts-1f50e48cf74a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-21T22:53:36.000Z</updated>
-        <summary type="html"><![CDATA[Non-fungible tokens, or NFTs, have been gaining popularity in recent years, particularly in the art and collectables world. NFTs are unique…]]></summary>
-        <author>
-            <name>Janindu Pathirana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Proof of Work: How Blockchain Ensures Security and Trust]]></title>
-        <id>https://medium.com/p/22268432cbb</id>
-        <link href="https://coinsbench.com/understanding-proof-of-work-how-blockchain-ensures-security-and-trust-22268432cbb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-21T22:53:33.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how cryptocurrencies like Bitcoin maintain their security and trustworthiness?]]></summary>
-        <author>
-            <name>Crypto Truster</name>
         </author>
     </entry>
     <entry>

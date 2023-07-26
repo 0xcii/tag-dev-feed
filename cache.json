@@ -29,12 +29,52 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/2e2b133a92c6",
+          "author": "Joel Machado",
+          "description": "Today we will explore how smart contracts can communicate and interact with the world around them. In this blog post, we’ll dive into the…",
+          "link": "https://coinsbench.com/eventin-solidity-create-interactive-smart-contracts-2e2b133a92c6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-26T17:26:03.000Z",
+          "wordCount": 2979,
+          "title": "Events in Solidity: Create Interactive Smart Contracts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/12ed2feae97e",
+          "author": "Decentral Farm",
+          "description": "Using the Alpaca Trading platform and some Python libraries to automate trading while you are sleeping is not a bad idea.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/trading-bot-on-alpaca-using-python-12ed2feae97e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-26T17:26:00.000Z",
+          "wordCount": 2220,
+          "title": "Trading Bot on Alpaca using Python",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*OBFPvYJ0NLao207c"
+        },
+        {
+          "id": "https://medium.com/p/bee6ae3e7bff",
+          "author": "Fiona  Githaiga",
+          "description": "Solidity, the programming language for smart contracts on Ethereum, is at the heart of the decentralized revolution. We’ll explore…",
+          "link": "https://coinsbench.com/mastering-solidity-building-smart-contracts-on-the-ethereum-blockchain-bee6ae3e7bff?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-26T17:25:57.000Z",
+          "wordCount": 3163,
+          "title": "Mastering Solidity: Building Smart Contracts on the Ethereum Blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*l-CvJJbTjUwjHNhj"
+        },
+        {
+          "id": "https://medium.com/p/c5906b87b216",
+          "author": "Andrew Prasaath",
+          "description": "Introduction:",
+          "link": "https://coinsbench.com/sc-security-series-1-smart-contract-attacks-understanding-security-vulnerabilities-in-web3-c5906b87b216?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-07-26T17:25:56.000Z",
+          "wordCount": 10719,
+          "title": "SC Security Series #1 — Smart Contract Attacks: Understanding Security Vulnerabilities in Web3",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:720/0*8ZQb4dtO6UJpSgvZ.jpg"
+        },
+        {
           "id": "https://medium.com/p/606d5517d329",
           "author": "Eliashezron",
           "description": "The Goal of this level is to claim drain the funds in the wallet and claim ownership of the contract.",
           "link": "https://coinsbench.com/ethernaut-fallback-606d5517d329?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-24T13:23:41.000Z",
-          "wordCount": 2220,
+          "wordCount": 2238,
           "title": "ETHERNAUT | FALLBACK",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*DLqmyDpDVBFktc7Pu0uYJg.png"
         },
@@ -44,7 +84,7 @@
           "description": "The goal of this level is to guess the correct outcome of the coinflip10 times in a row",
           "link": "https://coinsbench.com/ethernaut-coinflip-e415b211f5da?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-24T13:23:37.000Z",
-          "wordCount": 2185,
+          "wordCount": 2179,
           "title": "ETHERNAUT | COINFLIP",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:494/1*IaV2NvLdNnPvsHzE3ij92w.png"
         },
@@ -87,46 +127,6 @@
           "wordCount": 1961,
           "title": "ETHERNAUT | TELEPHONE",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*IpN_5NpMtPKXTdWCZ0yxWw.png"
-        },
-        {
-          "id": "https://medium.com/p/64199c95ef4d",
-          "author": "Eliashezron",
-          "description": "The goal of this contract is to hack the token supply of the contract to attain a large quantity of the tokens.",
-          "link": "https://coinsbench.com/ethernaut-token-64199c95ef4d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-21T22:53:42.000Z",
-          "wordCount": 1902,
-          "title": "ETHERNAUT | TOKEN",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*Dg6IHCui4fgIDDHjmSFKVg.png"
-        },
-        {
-          "id": "https://medium.com/p/5f0ea3ce6344",
-          "author": "Eliashezron",
-          "description": "The Goal of this contract is to force the contract to take some money.",
-          "link": "https://coinsbench.com/ethernaut-force-5f0ea3ce6344?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-21T22:53:39.000Z",
-          "wordCount": 2024,
-          "title": "ETHERNAUT | FORCE",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:493/1*um51xxgUfgvKsQBwhGmUYQ.png"
-        },
-        {
-          "id": "https://medium.com/p/1f50e48cf74a",
-          "author": "Janindu Pathirana",
-          "description": "Non-fungible tokens, or NFTs, have been gaining popularity in recent years, particularly in the art and collectables world. NFTs are unique…",
-          "link": "https://coinsbench.com/how-to-track-previous-owners-using-solidity-events-in-nfts-1f50e48cf74a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-21T22:53:36.000Z",
-          "wordCount": 2962,
-          "title": "How to Track Previous Owners Using Solidity Events in NFTs",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*fWSpK0z-rhwvjeX8CoueMw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/22268432cbb",
-          "author": "Crypto Truster",
-          "description": "Have you ever wondered how cryptocurrencies like Bitcoin maintain their security and trustworthiness?",
-          "link": "https://coinsbench.com/understanding-proof-of-work-how-blockchain-ensures-security-and-trust-22268432cbb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-07-21T22:53:33.000Z",
-          "wordCount": 2540,
-          "title": "Understanding Proof of Work: How Blockchain Ensures Security and Trust",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*sOxBW4PxXWoOADdE"
         }
       ]
     },
@@ -161,7 +161,7 @@
           "description": "Table of Content",
           "link": "https://medium.com/coinmonks/how-whitelabel-nft-marketplace-propel-business-success-50f778e8686a?source=rss----721b17443fd5---4",
           "publishedOn": "2023-07-26T15:50:00.000Z",
-          "wordCount": 5164,
+          "wordCount": 5146,
           "title": "Unleashing the Profits: How WhiteLabel NFT Marketplaces Propel Business Success",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*Vbpk_T7zu6RTUVIx1J96CA.jpeg"
         },
@@ -171,7 +171,7 @@
           "description": "For traders in the energy market, the release of the Crude Oil Inventories report is an eagerly awaited event. This report provides crucial…",
           "link": "https://medium.com/coinmonks/crude-oil-inventories-unleashed-1df80aaf6970?source=rss----721b17443fd5---4",
           "publishedOn": "2023-07-26T15:49:59.000Z",
-          "wordCount": 3023,
+          "wordCount": 2969,
           "title": "Crude Oil Inventories Unleashed",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-kMoLaWahh7WUIt3fRF46A.jpeg"
         },
@@ -181,7 +181,7 @@
           "description": "XRP was named altcoin of the year from Kaiko Report. TronLink wallet introduced EVM compatability and Japanese Prime Minister embraced Web3…",
           "link": "https://medium.com/coinmonks/webx-news-from-japan-and-xrp-70f83b8f9135?source=rss----721b17443fd5---4",
           "publishedOn": "2023-07-26T15:49:54.000Z",
-          "wordCount": 2653,
+          "wordCount": 2641,
           "title": "WebX News from Japan and XRP",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/0*tE1XAdIgwYvCULkm.jpg"
         },
