@@ -1,10 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-28T17:10:14.871Z</id>
+    <id>urn:2023-07-28T18:13:03.239Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-28T17:10:14.871Z</updated>
+    <updated>2023-07-28T18:13:03.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap v4, What’s new?]]></title>
+        <id>https://medium.com/p/5e41307c97a2</id>
+        <link href="https://coinsbench.com/uniswap-whats-new-5e41307c97a2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-28T18:05:53.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will delve into the highly anticipated update of Uniswap, the leading decentralized finance (DeFi) protocol on the…]]></summary>
+        <author>
+            <name>Ethan Rouimi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an On-Chain dApp Game with Solidity, React, Typescript & Wagmi/Viem (Commit-reveal…]]></title>
+        <id>https://medium.com/p/8d5a1f8c3230</id>
+        <link href="https://coinsbench.com/rock-paper-scissors-lizard-spock-game-with-solidity-react-typescript-wagmi-viem-commit-reveal-8d5a1f8c3230?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-28T18:05:52.000Z</updated>
+        <summary type="html"><![CDATA[The dApp is an on-chain rock paper scissors lizard spock game built with React, Typescript, Wagmi/Viem, Sepolia & integrated with Solidity…]]></summary>
+        <author>
+            <name>Milaabl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CREATE and CREATE2 Opcodes Simplified:]]></title>
+        <id>https://medium.com/p/40e97f118a1f</id>
+        <link href="https://coinsbench.com/create-and-create2-opcodes-simplified-40e97f118a1f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-28T18:05:48.000Z</updated>
+        <summary type="html"><![CDATA[In the simplest way possible, I’ll first be explaining what CREATE does before diving into CREATE2. As these are very important opcodes in the world of Smart Contracts. Like the name suggests; CREATE…]]></summary>
+        <author>
+            <name>okolicodes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxy Simplified Series.]]></title>
+        <id>https://medium.com/p/80a42ed8219c</id>
+        <link href="https://coinsbench.com/proxy-simplified-series-80a42ed8219c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-28T18:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Proxy:]]></summary>
+        <author>
+            <name>okolicodes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The EVM Simplified Series :]]></title>
+        <id>https://medium.com/p/66c79c452f3b</id>
+        <link href="https://coinsbench.com/the-evm-simplified-series-66c79c452f3b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-28T18:05:42.000Z</updated>
+        <author>
+            <name>okolicodes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The EVM Simplified Series :]]></title>
+        <id>https://medium.com/p/9a1e8c75d3eb</id>
+        <link href="https://coinsbench.com/the-evm-simplified-series-9a1e8c75d3eb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-07-28T18:05:39.000Z</updated>
+        <author>
+            <name>okolicodes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin: The Game Has Changed]]></title>
         <id>https://medium.com/p/fd4ae41de100</id>
@@ -145,51 +203,6 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ETHERNAUT | FALLBACK]]></title>
-        <id>https://medium.com/p/606d5517d329</id>
-        <link href="https://coinsbench.com/ethernaut-fallback-606d5517d329?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-24T13:23:41.000Z</updated>
-        <author>
-            <name>Eliashezron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHERNAUT | COINFLIP]]></title>
-        <id>https://medium.com/p/e415b211f5da</id>
-        <link href="https://coinsbench.com/ethernaut-coinflip-e415b211f5da?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-24T13:23:37.000Z</updated>
-        <author>
-            <name>Eliashezron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Browser-as-a-Wallet on iPhone using Scan Action  — Part 1/3]]></title>
-        <id>https://medium.com/p/37b2ce92355a</id>
-        <link href="https://coinsbench.com/browser-as-a-wallet-on-iphone-using-sui-blockchain-part-1-3-37b2ce92355a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-24T13:23:35.000Z</updated>
-        <author>
-            <name>Alex Fuentes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Intricacies of Blockchain State — Impacting an Ecosystem.]]></title>
-        <id>https://medium.com/p/ea708fe7a4f2</id>
-        <link href="https://coinsbench.com/blockchain-state-models-explained-ea708fe7a4f2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-24T13:23:30.000Z</updated>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNDERSTANDING MULTI-SIG WALLET]]></title>
-        <id>https://medium.com/p/757bf09ec517</id>
-        <link href="https://coinsbench.com/understanding-multi-sig-wallet-757bf09ec517?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-23T13:01:57.000Z</updated>
-        <author>
-            <name>Abusomwan Santos</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevNTell - Bifrost]]></title>
         <id>https://blog.developerdao.com/devntell-bifrost</id>
         <link href="https://blog.developerdao.com/devntell-bifrost"/>
@@ -213,15 +226,6 @@ Samraaj's Twitter: https://twitter.com/samraaj
 https://www.youtube.com/watch?v=v-V_OxKT4yI]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHERNAUT | TELEPHONE]]></title>
-        <id>https://medium.com/p/519b7b0a332d</id>
-        <link href="https://coinsbench.com/ethernaut-telephone-519b7b0a332d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-21T22:53:45.000Z</updated>
-        <author>
-            <name>Eliashezron</name>
         </author>
     </entry>
     <entry>
