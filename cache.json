@@ -21,7 +21,18 @@
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.cryptomaton.org/?p=1501",
+          "author": "Andrei",
+          "description": "I always wanted an AI assistant that can carry out different tasks on my cryptocurrency portfolio and I’m stoked to share with you this awesome tool that I’ve built. CryptoCurrency GPT is open source AI assistant that expands the functionality of OpenAI’s ChatGPT by incorporating additional features. At a glance, CryptocurrencyGPT can manage your portfolio […]\nThe post I built an Open Source CryptocurrencyGPT Assistant appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2023/08/03/i-built-an-open-source-cryptocurrencygpt-assistant/",
+          "publishedOn": "2023-08-03T12:08:08.000Z",
+          "wordCount": 9496,
+          "title": "I built an Open Source CryptocurrencyGPT Assistant",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1050/1*iv9Exol1lBAaL30-gKhiaA.png"
+        }
+      ]
     },
     {
       "title": "CoinsBench - Medium",
@@ -31,102 +42,102 @@
         {
           "id": "https://medium.com/p/3ab968d34d85",
           "author": "okolicodes",
-          "description": "Part 2:",
+          "description": "",
           "link": "https://coinsbench.com/create-and-create2-opcodes-simplified-3ab968d34d85?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-31T15:57:29.000Z",
-          "wordCount": 2187,
+          "wordCount": null,
           "title": "CREATE and CREATE2 Opcodes Simplified:",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6yL3qZ93OTsdMn7EJBiwVw@2x.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/559ccc9cf077",
           "author": "Zouvier",
-          "description": "Welcome to the first of a series where we’ll be going over the different blockchains how they came to be. Designed to help the laymen…",
+          "description": "",
           "link": "https://coinsbench.com/ethereum-revolutionizing-the-world-of-blockchain-559ccc9cf077?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-31T15:57:27.000Z",
-          "wordCount": 2918,
+          "wordCount": null,
           "title": "Ethereum: Revolutionizing the World of Blockchain",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*njHPHybuoll8y1tI"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/c084952ad371",
           "author": "Cayo Tor",
-          "description": "Explore Puppet, the Level 8 of Damn Vulnerable Defi v3, in this comprehensive guide. Gain valuable insights into DefI vulnerbilities!",
+          "description": "",
           "link": "https://coinsbench.com/puppet-lvl-8-damn-vulnerable-defi-v3-explained-c084952ad371?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-31T15:57:24.000Z",
-          "wordCount": 4181,
+          "wordCount": null,
           "title": "Puppet | Lvl 8| Damn Vulnerable Defi v3 (Explained)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mdcRlrmevxNGRKIm2tMjqA.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/59cfe1ad3c7d",
           "author": "Farasat Ali",
-          "description": "In this practical guide, learn how to optimize the size of your Solidity smart contract for Ethereum deployment.",
+          "description": "",
           "link": "https://coinsbench.com/how-i-reduced-my-solidity-smart-contract-size-practical-guide-59cfe1ad3c7d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-31T15:57:22.000Z",
-          "wordCount": 2963,
+          "wordCount": null,
           "title": "How I Reduced My Solidity Smart Contract Size — Practical Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*2SAP1JWLTnQYLIu8XBDH_Q.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/5e41307c97a2",
           "author": "Ethan Rouimi",
-          "description": "In this article, we will delve into the highly anticipated update of Uniswap, the leading decentralized finance (DeFi) protocol on the…",
+          "description": "",
           "link": "https://coinsbench.com/uniswap-whats-new-5e41307c97a2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-28T18:05:53.000Z",
-          "wordCount": 3630,
+          "wordCount": null,
           "title": "Uniswap v4, What’s new?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*YwKmtuNmHrw5FVVU"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/8d5a1f8c3230",
           "author": "Milaabl",
-          "description": "The dApp is an on-chain rock paper scissors lizard spock game built with React, Typescript, Wagmi/Viem, Sepolia & integrated with Solidity…",
+          "description": "",
           "link": "https://coinsbench.com/rock-paper-scissors-lizard-spock-game-with-solidity-react-typescript-wagmi-viem-commit-reveal-8d5a1f8c3230?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-28T18:05:52.000Z",
-          "wordCount": 10498,
+          "wordCount": null,
           "title": "Building an On-Chain dApp Game with Solidity, React, Typescript & Wagmi/Viem (Commit-reveal…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:954/1*ZvrI6c3dJn4pf9_xj8Ht1Q.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/40e97f118a1f",
           "author": "okolicodes",
-          "description": "In the simplest way possible, I’ll first be explaining what CREATE does before diving into CREATE2. As these are very important opcodes in the world of Smart Contracts. Like the name suggests; CREATE…",
+          "description": "",
           "link": "https://coinsbench.com/create-and-create2-opcodes-simplified-40e97f118a1f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-28T18:05:48.000Z",
-          "wordCount": 2009,
+          "wordCount": null,
           "title": "CREATE and CREATE2 Opcodes Simplified:",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HoZ6w3gdWDrbJ_BZJvuGyw@2x.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/80a42ed8219c",
           "author": "okolicodes",
-          "description": "Introduction to Proxy:",
+          "description": "",
           "link": "https://coinsbench.com/proxy-simplified-series-80a42ed8219c?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-28T18:05:45.000Z",
-          "wordCount": 2929,
+          "wordCount": null,
           "title": "Proxy Simplified Series.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-AfdBGnm8dHdLRBbFdWO7g@2x.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/66c79c452f3b",
           "author": "okolicodes",
-          "description": "EVM Simplified Series Part 2:",
+          "description": "",
           "link": "https://coinsbench.com/the-evm-simplified-series-66c79c452f3b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-28T18:05:42.000Z",
-          "wordCount": 2644,
+          "wordCount": null,
           "title": "The EVM Simplified Series :",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*N6pSIkEUsh9YyzXAtK6aHA@2x.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/9a1e8c75d3eb",
           "author": "okolicodes",
-          "description": "EVM Simplified Series Part 1:",
+          "description": "",
           "link": "https://coinsbench.com/the-evm-simplified-series-9a1e8c75d3eb?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-07-28T18:05:39.000Z",
-          "wordCount": 2193,
+          "wordCount": null,
           "title": "The EVM Simplified Series :",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Rz8Uw63MSa5v1Y3oIW0Eww@2x.jpeg"
+          "imageUrl": null
         }
       ]
     },
@@ -136,104 +147,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/7e8ead726670",
-          "author": "Ken Deng",
-          "description": "Cryptocurrencies have become a popular alternative investment option in recent years, and staking is a method that provides a way to earn…",
-          "link": "https://medium.com/coinmonks/staking-cryptocurrencies-for-passive-income-a-guide-7e8ead726670?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-03T07:25:25.000Z",
-          "wordCount": 2571,
-          "title": "Staking Cryptocurrencies for Passive Income: A Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*WkKk6hGLwpu8Hv4W"
+          "id": "https://medium.com/p/c0d52e2d186b",
+          "author": "PVMihalache",
+          "description": "My Splinterlands journey continues, and I find my track again.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/hanging-out-with-the-cool-kids-in-splinterlands-silver-league-c0d52e2d186b?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-03T11:59:58.000Z",
+          "wordCount": 2586,
+          "title": "Hanging out with the cool kids in Splinterlands Silver League",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:474/1*v1ycndh_mUcLgRYUjFomgg.jpeg"
         },
         {
-          "id": "https://medium.com/p/f46201c3a106",
-          "author": "The Metaverse Guy",
-          "description": "Optimal pricing for perps traders and real-yield for token holders\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/mux-protocol-perps-dex-and-aggregator-f46201c3a106?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-03T07:18:29.000Z",
-          "wordCount": 2399,
-          "title": "MUX Protocol — Perps DEX and Aggregator",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:360/1*58TwFqmGdRyzjS2p5oGXgQ.png"
+          "id": "https://medium.com/p/58d063665096",
+          "author": "Shantanu Gupta",
+          "description": "Introduction:\nThe cryptocurrency market is a whirlwind of excitement, and as traders, we all seek that one golden ticket — the next big…",
+          "link": "https://medium.com/coinmonks/unleashing-the-sleeping-giants-7-altcoins-set-to-soar-in-the-upcoming-crypto-frenzy-58d063665096?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-03T11:59:55.000Z",
+          "wordCount": 3441,
+          "title": "Unleashing the Sleeping Giants: 7 Altcoins Set to Soar in the Upcoming Crypto Frenzy",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zVFdA85q8sxWaOmZQgLSzA.jpeg"
         },
         {
-          "id": "https://medium.com/p/efe66f025e49",
-          "author": "Utsav Kumar",
-          "description": "Bear market pressure is crushing startups!",
-          "link": "https://medium.com/coinmonks/bear-2023-a-successful-web3-startup-manager-vs-a-struggling-moaner-which-are-you-efe66f025e49?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-03T07:15:38.000Z",
-          "wordCount": 4320,
-          "title": "Bear 2023: A Successful Web3 Startup Manager vs A Struggling Moaner — Which are you?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*8xH8sJaaxoNByjYF"
+          "id": "https://medium.com/p/d3c6912e405",
+          "author": "Shantanu Gupta",
+          "description": "",
+          "link": "https://medium.com/coinmonks/the-cryptocurrency-crystal-ball-top-5-data-aggregators-that-will-catapult-you-ahead-of-99-of-d3c6912e405?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-03T11:59:52.000Z",
+          "wordCount": null,
+          "title": "The Cryptocurrency Crystal Ball: Top 5 Data Aggregators That Will Catapult You Ahead of 99% of…",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/831986d1b26d",
-          "author": "Aryan",
-          "description": "Unbelievable Secrets Exposed: The Shocking Truth Behind Hollywood’s Darkest Secrets",
-          "link": "https://medium.com/coinmonks/shocking-secrets-of-hollywood-unveiled-831986d1b26d?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-03T07:15:36.000Z",
-          "wordCount": 2690,
-          "title": "Shocking Secrets of Hollywood Unveiled!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*uifWMkDq_RJIFOEV"
+          "id": "https://medium.com/p/df63fba22c9b",
+          "author": "Shashank",
+          "description": "Overview:",
+          "link": "https://medium.com/coinmonks/libertivault-hack-analysis-df63fba22c9b?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-03T11:59:42.000Z",
+          "wordCount": 2483,
+          "title": "LibertiVault Hack Analysis",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*yC_Y6d3Q93BMR1oQ"
         },
         {
-          "id": "https://medium.com/p/50258fb2b9b5",
-          "author": "Ebanks",
-          "description": "Over 100,000 acres burned.",
-          "link": "https://medium.com/coinmonks/massive-wildfire-spreads-across-mojave-desert-threatening-joshua-trees-50258fb2b9b5?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-03T07:15:34.000Z",
-          "wordCount": 2242,
-          "title": "Massive Wildfire Spreads Across Mojave Desert, Threatening Joshua Trees.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*okGeHKu2f5jAmsfywiH8BQ.jpeg"
+          "id": "https://medium.com/p/d5e6ea92cc48",
+          "author": "Ari Saradar",
+          "description": "",
+          "link": "https://medium.com/coinmonks/a-forward-look-for-crypto-in-august-%EF%B8%8F-d5e6ea92cc48?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-03T11:59:38.000Z",
+          "wordCount": null,
+          "title": "A forward look for crypto in August ☀️",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/386e491a610b",
-          "author": "Aryan",
-          "description": "Where Imagination Meets Reality: The Enchanting World of Hollywood Book Adaptations",
-          "link": "https://medium.com/coinmonks/from-screen-to-stage-the-fascinating-journey-of-book-adaptations-in-hollywood-386e491a610b?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-03T07:15:34.000Z",
-          "wordCount": 2896,
-          "title": "From Screen to Stage: The Fascinating Journey of Book Adaptations in Hollywood",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Bhb46VL-j-cwF3DT"
+          "id": "https://medium.com/p/e09992da3ca3",
+          "author": "36Crypto",
+          "description": "",
+          "link": "https://medium.com/coinmonks/bitget-wallet-vs-whitebit-wallet-web3-technologies-in-crypto-e09992da3ca3?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-03T11:58:12.000Z",
+          "wordCount": null,
+          "title": "Bitget Wallet vs WhiteBIT Wallet: Web3 Technologies in Crypto",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/2b5a5fb8eeaa",
-          "author": "Ungureanu Madalin Marin",
-          "description": "Generating earnings without constant effort allows people to explore other interests, spend quality time with loved ones, and achieve a…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/earn-passive-income-of-1000-xrp-per-month-2b5a5fb8eeaa?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-03T07:15:29.000Z",
-          "wordCount": 2481,
-          "title": "Earn Passive Income Of 1000 XRP Per Month",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*-TPP7eZxt8SheeRfFgrpPg.jpeg"
+          "id": "https://medium.com/p/fa810c5bcace",
+          "author": "Dhiraj Dixit",
+          "description": "",
+          "link": "https://medium.com/coinmonks/join-catlys-airdrop-and-be-part-of-the-purrfect-crypto-revolution-fa810c5bcace?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-03T11:58:06.000Z",
+          "wordCount": null,
+          "title": "Join CATLY’s Airdrop and Be Part of the purrfect Crypto Revolution!",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/f18fda2e7b52",
-          "author": "Carlos Ramirez",
-          "description": "Hey friends! Let’s take a trip through time to explore the fascinating history of mortgage rates, how they’ve influenced the housing…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/a-historical-journey-of-mortgage-rates-understanding-their-impact-on-homebuying-and-refinancing-f18fda2e7b52?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-03T07:15:28.000Z",
-          "wordCount": 2466,
-          "title": "A Historical Journey of Mortgage Rates: Understanding Their Impact on Homebuying and Refinancing",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*pKqYl7hyFVwA9Sh5"
+          "id": "https://medium.com/p/f821a0acd638",
+          "author": "SYSTANGO",
+          "description": "Remember CryptoPunk #5822? That blue Alien Punk with the super stylish bandana? Well, brace yourselves because it just made history!",
+          "link": "https://medium.com/coinmonks/cryptopunk-5822-the-record-breaking-nft-that-redefined-rarity-and-value-f821a0acd638?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-03T11:58:05.000Z",
+          "wordCount": 3026,
+          "title": "CryptoPunk #5822: The Record-Breaking NFT That Redefined Rarity and Value",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WW59sTlQFRUqXqKC796FoA.jpeg"
         },
         {
-          "id": "https://medium.com/p/a06fa49a1b35",
-          "author": "CryptoGod-1",
-          "description": "Technical Analysis breakdown of how the Klinger Oscillator works, useful for Day Trading in stocks, crypto, and investing.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/technical-analysis-part-xix-klinger-oscillator-a06fa49a1b35?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-03T07:15:25.000Z",
-          "wordCount": 2390,
-          "title": "Technical Analysis — Part XIX — Klinger Oscillator",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9LS1vYw_qyj3PCVOJOK2Vg.jpeg"
+          "id": "https://medium.com/p/adbd08c9835f",
+          "author": "Hira Siddiqui",
+          "description": "",
+          "link": "https://medium.com/coinmonks/a-critical-analysis-of-worldcoin-adbd08c9835f?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-03T11:58:01.000Z",
+          "wordCount": null,
+          "title": "A critical analysis of Worldcoin",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/ce1d7a29ee70",
-          "author": "Dmitry K",
-          "description": "Cryptocurrency investors follow different strategies. One of them is hold, or holding. At first glance, it is as simple as possible — you…",
-          "link": "https://medium.com/coinmonks/hodl-vs-hold-key-features-of-efficient-cryptocurrency-hodling-ce1d7a29ee70?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-03T07:15:20.000Z",
-          "wordCount": 3753,
-          "title": "HODL vs HOLD: Key Features of Efficient Cryptocurrency Hodling",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:998/1*WlcOm3SX2ZNmDeKBzSKv7g.png"
+          "id": "https://medium.com/p/d0ac5315346c",
+          "author": "Tokenview.io",
+          "description": "",
+          "link": "https://medium.com/coinmonks/how-to-use-the-bsc-block-explorer-d0ac5315346c?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-03T11:57:58.000Z",
+          "wordCount": null,
+          "title": "How to use the BSC block explorer？",
+          "imageUrl": null
         }
       ]
     },
@@ -245,22 +256,22 @@
         {
           "id": "https://medium.com/p/784d03c68b49",
           "author": "Harith  D. Jayawardhane",
-          "description": "Solidity, the programming language for Ethereum smart contracts, has emerged as the go-to language for building decentralized applications…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/mastering-solidity-a-practical-guide-for-expert-developers-784d03c68b49?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-07-17T19:02:21.000Z",
-          "wordCount": 6582,
+          "wordCount": null,
           "title": "Mastering Solidity: A Practical Guide for Expert Developers",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7F1S1tM8hDVJTGuFsVfFzw.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/b2c9f20ea113",
           "author": "Harith  D. Jayawardhane",
-          "description": "In today’s rapidly evolving digital landscape, smart contracts have emerged as a groundbreaking technology that revolutionizes how…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/a-beginners-guide-to-smart-contracts-unlocking-the-power-of-decentralized-automation-b2c9f20ea113?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-07-14T15:46:24.000Z",
-          "wordCount": 2763,
+          "wordCount": null,
           "title": "A Beginner’s Guide to Smart Contracts: Unlocking the Power of Decentralized Automation",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TPyBKcu0dEjcqxc66PzJHQ.jpeg"
+          "imageUrl": null
         }
       ]
     },
