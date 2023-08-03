@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-03T18:14:23.430Z</id>
+    <id>urn:2023-08-03T19:08:56.217Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-03T18:14:23.430Z</updated>
+    <updated>2023-08-03T19:08:56.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Rise of the DAO: How Smart Contracts Are Democratizing Organizations]]></title>
+        <id>https://medium.com/p/9cd15b2d1d34</id>
+        <link href="https://coinsbench.com/the-rise-of-the-dao-how-smart-contracts-are-democratizing-organizations-9cd15b2d1d34?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-03T18:26:17.000Z</updated>
+        <summary type="html"><![CDATA[I was confused when I first heard about DAOs. I had never heard of a business entity owned and controlled by its members, and I needed to…]]></summary>
+        <author>
+            <name>Abang Edwin SA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uses of keccak256 and abi.encodePacked in Solidity]]></title>
+        <id>https://medium.com/p/4f9bdc8d3c9f</id>
+        <link href="https://coinsbench.com/uses-of-keccak256-and-abi-encodepacked-in-solidity-4f9bdc8d3c9f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-03T18:26:03.000Z</updated>
+        <summary type="html"><![CDATA[Generating unique identifiers & comparing strings]]></summary>
+        <author>
+            <name>Muni V K</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Modifiers in Solidity Smart Contracts]]></title>
+        <id>https://medium.com/p/1ac1bac2d77c</id>
+        <link href="https://coinsbench.com/understanding-modifiers-in-solidity-smart-contracts-1ac1bac2d77c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-03T18:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Extend smart contract security using modifiers]]></summary>
+        <author>
+            <name>Muni V K</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT Standards Comparison: ERC-721 vs. ERC-1155]]></title>
+        <id>https://medium.com/p/bfd4dee0b3c3</id>
+        <link href="https://coinsbench.com/nft-standards-comparison-erc-721-vs-erc-1155-bfd4dee0b3c3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-03T18:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Introduction:]]></summary>
+        <author>
+            <name>Andrew Prasaath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Transient Storage Reduces Gas Cost]]></title>
+        <id>https://medium.com/p/c585215f9c7b</id>
+        <link href="https://coinsbench.com/how-transient-storage-reduces-gas-cost-c585215f9c7b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-03T18:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Transient storage will allow the value to persist (like storage) but just for the lifetime of the transaction. Lets learn more..
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Pran B.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Look Inside RankerDAO’s Collection of Rare and Valuable Asset]]></title>
+        <id>https://medium.com/p/c57b254ae514</id>
+        <link href="https://coinsbench.com/a-look-inside-rankerdaos-collection-of-rare-and-valuable-asset-c57b254ae514?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-03T18:25:49.000Z</updated>
+        <summary type="html"><![CDATA[Non-Fungible Tokens (NFTs) have completely changed how players view and interact with virtual assets, revolutionising the industry of…]]></summary>
+        <author>
+            <name>Facilered</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Past, Present, and Future of Blockchain]]></title>
+        <id>https://medium.com/p/b8a818eb2d8e</id>
+        <link href="https://coinsbench.com/past-present-and-future-of-blockchain-b8a818eb2d8e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-03T18:25:46.000Z</updated>
+        <summary type="html"><![CDATA[Over the past decade, blockchain technology has emerged as one of the most transformative innovations, revolutionizing industries and…]]></summary>
+        <author>
+            <name>ismail</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying Solidity: A Comprehensive Guide to Ethereum’s Smart Contract Language]]></title>
+        <id>https://medium.com/p/a24db29ce2e7</id>
+        <link href="https://coinsbench.com/demystifying-solidity-a-comprehensive-guide-to-ethereums-smart-contract-language-a24db29ce2e7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-03T18:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: In the realm of blockchain technology, Ethereum has emerged as a pioneer, enabling the creation of decentralized applications…]]></summary>
+        <author>
+            <name>Rusirurasanjana</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 AI Tools To Sky-Rocket Your Blog’s Audience]]></title>
         <id>https://medium.com/p/d63311ed3cc2</id>
@@ -122,6 +203,7 @@ The post I built an Open Source CryptocurrencyGPT Assistant appeared first on cr
         <id>https://medium.com/p/3ab968d34d85</id>
         <link href="https://coinsbench.com/create-and-create2-opcodes-simplified-3ab968d34d85?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-31T15:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Part 2:]]></summary>
         <author>
             <name>okolicodes</name>
         </author>
@@ -131,26 +213,9 @@ The post I built an Open Source CryptocurrencyGPT Assistant appeared first on cr
         <id>https://medium.com/p/559ccc9cf077</id>
         <link href="https://coinsbench.com/ethereum-revolutionizing-the-world-of-blockchain-559ccc9cf077?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-07-31T15:57:27.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the first of a series where we’ll be going over the different blockchains how they came to be. Designed to help the laymen…]]></summary>
         <author>
             <name>Zouvier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puppet | Lvl 8| Damn Vulnerable Defi v3 (Explained)]]></title>
-        <id>https://medium.com/p/c084952ad371</id>
-        <link href="https://coinsbench.com/puppet-lvl-8-damn-vulnerable-defi-v3-explained-c084952ad371?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-31T15:57:24.000Z</updated>
-        <author>
-            <name>Cayo Tor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Reduced My Solidity Smart Contract Size — Practical Guide]]></title>
-        <id>https://medium.com/p/59cfe1ad3c7d</id>
-        <link href="https://coinsbench.com/how-i-reduced-my-solidity-smart-contract-size-practical-guide-59cfe1ad3c7d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-31T15:57:22.000Z</updated>
-        <author>
-            <name>Farasat Ali</name>
         </author>
     </entry>
     <entry>
@@ -179,60 +244,6 @@ Jane's Twitter: https://twitter.com/janeyang0515
 https://www.youtube.com/watch?v=TnX2YrqMRqU]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap v4, What’s new?]]></title>
-        <id>https://medium.com/p/5e41307c97a2</id>
-        <link href="https://coinsbench.com/uniswap-whats-new-5e41307c97a2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-28T18:05:53.000Z</updated>
-        <author>
-            <name>Ethan Rouimi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an On-Chain dApp Game with Solidity, React, Typescript & Wagmi/Viem (Commit-reveal…]]></title>
-        <id>https://medium.com/p/8d5a1f8c3230</id>
-        <link href="https://coinsbench.com/rock-paper-scissors-lizard-spock-game-with-solidity-react-typescript-wagmi-viem-commit-reveal-8d5a1f8c3230?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-28T18:05:52.000Z</updated>
-        <author>
-            <name>Milaabl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CREATE and CREATE2 Opcodes Simplified:]]></title>
-        <id>https://medium.com/p/40e97f118a1f</id>
-        <link href="https://coinsbench.com/create-and-create2-opcodes-simplified-40e97f118a1f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-28T18:05:48.000Z</updated>
-        <author>
-            <name>okolicodes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxy Simplified Series.]]></title>
-        <id>https://medium.com/p/80a42ed8219c</id>
-        <link href="https://coinsbench.com/proxy-simplified-series-80a42ed8219c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-28T18:05:45.000Z</updated>
-        <author>
-            <name>okolicodes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The EVM Simplified Series :]]></title>
-        <id>https://medium.com/p/66c79c452f3b</id>
-        <link href="https://coinsbench.com/the-evm-simplified-series-66c79c452f3b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-28T18:05:42.000Z</updated>
-        <author>
-            <name>okolicodes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The EVM Simplified Series :]]></title>
-        <id>https://medium.com/p/9a1e8c75d3eb</id>
-        <link href="https://coinsbench.com/the-evm-simplified-series-9a1e8c75d3eb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-28T18:05:39.000Z</updated>
-        <author>
-            <name>okolicodes</name>
         </author>
     </entry>
     <entry>
@@ -266,6 +277,7 @@ https://www.youtube.com/watch?v=v-V_OxKT4yI]]></summary>
         <id>https://medium.com/p/784d03c68b49</id>
         <link href="https://blog.blockmagnates.com/mastering-solidity-a-practical-guide-for-expert-developers-784d03c68b49?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-07-17T19:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, the programming language for Ethereum smart contracts, has emerged as the go-to language for building decentralized applications…]]></summary>
         <author>
             <name>Harith  D. Jayawardhane</name>
         </author>
@@ -299,6 +311,7 @@ https://www.youtube.com/watch?v=emntsJshpkQ]]></summary>
         <id>https://medium.com/p/b2c9f20ea113</id>
         <link href="https://blog.blockmagnates.com/a-beginners-guide-to-smart-contracts-unlocking-the-power-of-decentralized-automation-b2c9f20ea113?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-07-14T15:46:24.000Z</updated>
+        <summary type="html"><![CDATA[In today’s rapidly evolving digital landscape, smart contracts have emerged as a groundbreaking technology that revolutionizes how…]]></summary>
         <author>
             <name>Harith  D. Jayawardhane</name>
         </author>
