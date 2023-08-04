@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-04T15:11:46.494Z</id>
+    <id>urn:2023-08-04T16:14:28.252Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-04T15:11:46.494Z</updated>
+    <updated>2023-08-04T16:14:28.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3 Security Distilled 2.0]]></title>
+        <id>https://medium.com/p/374399a28536</id>
+        <link href="https://coinsbench.com/web3-security-distilled-2-0-374399a28536?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-04T15:32:20.000Z</updated>
+        <author>
+            <name>Officer's Notes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying the “Stack too deep” Error in Solidity: Understanding its Causes and Solutions]]></title>
+        <id>https://medium.com/p/d707ec3bcac9</id>
+        <link href="https://coinsbench.com/demystifying-the-stack-too-deep-error-in-solidity-understanding-its-causes-and-solutions-d707ec3bcac9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-04T15:32:16.000Z</updated>
+        <author>
+            <name>Muni V K</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ResPeer - The Feed App Built on Linera]]></title>
+        <id>https://medium.com/p/dbf122d2b312</id>
+        <link href="https://coinsbench.com/respeer-the-feed-app-built-on-linera-dbf122d2b312?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-04T15:32:12.000Z</updated>
+        <author>
+            <name>Web3 Eye</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin going on vacation as August approaches]]></title>
         <id>https://medium.com/p/6e6f168b3a54</id>
         <link href="https://medium.com/coinmonks/bitcoin-going-on-vacation-as-august-approaches-6e6f168b3a54?source=rss----721b17443fd5---4"/>
         <updated>2023-08-04T15:02:11.000Z</updated>
+        <summary type="html"><![CDATA[What Market Phase are we entering into has been the introductory question for our last appointments. Are we going to listen to the Bulls or…]]></summary>
         <author>
             <name>Mike Zillo</name>
         </author>
@@ -19,6 +47,7 @@
         <id>https://medium.com/p/d6d36a93ba2c</id>
         <link href="https://medium.com/coinmonks/hottest-upcoming-nft-drop-hurley-nft-d6d36a93ba2c?source=rss----721b17443fd5---4"/>
         <updated>2023-08-04T15:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Get ready for the most anticipated NFT release of the season — introducing Hurley NFTs! Unveiling a world of digital collectibles that…]]></summary>
         <author>
             <name>Aaron Abbott</name>
         </author>
@@ -39,6 +68,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/c5f5d1f51cef</id>
         <link href="https://medium.com/coinmonks/uber-will-accept-bitcoin-and-cryptocurrency-payments-c5f5d1f51cef?source=rss----721b17443fd5---4"/>
         <updated>2023-08-04T15:02:05.000Z</updated>
+        <summary type="html"><![CDATA[HELLO TO MY READERS ! 📰]]></summary>
         <author>
             <name>Sandra.R</name>
         </author>
@@ -48,6 +78,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/cb678c40885</id>
         <link href="https://medium.com/coinmonks/hurley-nft-collection-new-era-of-ownership-web3-gaming-cb678c40885?source=rss----721b17443fd5---4"/>
         <updated>2023-08-04T15:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Surfing the Web3 Wave with Hurley]]></summary>
         <author>
             <name>Merlin Lisa</name>
         </author>
@@ -68,6 +99,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/3b86b3032e32</id>
         <link href="https://medium.com/coinmonks/claim-50-dgen-tokens-by-joining-the-knights-of-degen-waitlist-3b86b3032e32?source=rss----721b17443fd5---4"/>
         <updated>2023-08-04T15:01:36.000Z</updated>
+        <summary type="html"><![CDATA[Play-To-Earn NFT game]]></summary>
         <author>
             <name>Dhiraj Dixit</name>
         </author>
@@ -77,6 +109,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/b84e8fabc320</id>
         <link href="https://medium.com/coinmonks/introducing-the-revolutionary-base-layer-2-blockchain-by-coinbase-b84e8fabc320?source=rss----721b17443fd5---4"/>
         <updated>2023-08-04T15:01:27.000Z</updated>
+        <summary type="html"><![CDATA[In the rapidly evolving world of blockchain technology, Coinbase, a leading cryptocurrency exchange, has unveiled its groundbreaking Base…]]></summary>
         <author>
             <name>CryptoCurrents</name>
         </author>
@@ -86,6 +119,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/9aad9e40684d</id>
         <link href="https://medium.com/coinmonks/exploring-toshi-the-key-meme-coin-play-among-traders-on-coinbases-base-blockchain-9aad9e40684d?source=rss----721b17443fd5---4"/>
         <updated>2023-08-04T15:01:25.000Z</updated>
+        <summary type="html"><![CDATA[In the realm of cryptocurrencies, meme coins have garnered significant attention in recent times. These digital assets, inspired by…]]></summary>
         <author>
             <name>CryptoCurrents</name>
         </author>
@@ -95,6 +129,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/a78eba2bfca9</id>
         <link href="https://medium.com/coinmonks/exploring-the-surge-in-cme-crypto-options-trading-volume-in-july-a78eba2bfca9?source=rss----721b17443fd5---4"/>
         <updated>2023-08-04T15:01:23.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-paced world of cryptocurrency trading, the Chicago Mercantile Exchange (CME) has emerged as a key player in offering crypto…]]></summary>
         <author>
             <name>CryptoCurrents</name>
         </author>
@@ -165,15 +200,6 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Demystifying Solidity: A Comprehensive Guide to Ethereum’s Smart Contract Language]]></title>
-        <id>https://medium.com/p/a24db29ce2e7</id>
-        <link href="https://coinsbench.com/demystifying-solidity-a-comprehensive-guide-to-ethereums-smart-contract-language-a24db29ce2e7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-03T18:25:44.000Z</updated>
-        <author>
-            <name>Rusirurasanjana</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I built an Open Source CryptocurrencyGPT Assistant]]></title>
         <id>https://www.cryptomaton.org/?p=1501</id>
         <link href="https://www.cryptomaton.org/2023/08/03/i-built-an-open-source-cryptocurrencygpt-assistant/"/>
@@ -182,24 +208,6 @@ Continue reading on CoinsBench »]]></summary>
 The post I built an Open Source CryptocurrencyGPT Assistant appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CREATE and CREATE2 Opcodes Simplified:]]></title>
-        <id>https://medium.com/p/3ab968d34d85</id>
-        <link href="https://coinsbench.com/create-and-create2-opcodes-simplified-3ab968d34d85?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-31T15:57:29.000Z</updated>
-        <author>
-            <name>okolicodes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum: Revolutionizing the World of Blockchain]]></title>
-        <id>https://medium.com/p/559ccc9cf077</id>
-        <link href="https://coinsbench.com/ethereum-revolutionizing-the-world-of-blockchain-559ccc9cf077?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-07-31T15:57:27.000Z</updated>
-        <author>
-            <name>Zouvier</name>
         </author>
     </entry>
     <entry>
