@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-05T08:13:01.294Z</id>
+    <id>urn:2023-08-05T09:10:02.177Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-05T08:13:01.294Z</updated>
+    <updated>2023-08-05T09:10:02.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Deep Dive into how Curve’s $70 million reentrancy exploit was possible]]></title>
+        <id>https://www.cryptomaton.org/?p=1541</id>
+        <link href="https://www.cryptomaton.org/2023/08/05/a-deep-dive-into-how-curves-70-million-reentrancy-exploit-was-possible/"/>
+        <updated>2023-08-05T09:06:29.000Z</updated>
+        <summary type="html"><![CDATA[The recent Curve Pool Exploit is different from the majority of cryptocurrency hacks that we’ve seen happen in the last few years because unlike many of the previous exploits, this one is not directly related to a vulnerability of the smart contract itself, but rather, the underlying compiler of the language that it was written […]
+The post A Deep Dive into how Curve’s $70 million reentrancy exploit was possible appeared first on cryptomaton.]]></summary>
+        <author>
+            <name>Andrei</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding the Upcoming Basilisk Token Sale]]></title>
         <id>https://medium.com/p/93237159b25e</id>
