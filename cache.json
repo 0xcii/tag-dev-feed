@@ -12,12 +12,22 @@
       "siteUrl": "https://www.cryptomaton.org/",
       "articles": [
         {
+          "id": "https://www.cryptomaton.org/?p=1505",
+          "author": "Andrei",
+          "description": "I would like to start by saying that I’m excited to finally be able to write this article, and share this project with the world. I’m excited to finally be able to share the origin story of Aesir, an algorithmic cryptocurrency trading platform that I built alongside a small team of developers for the past […]\nThe post I spent the last two years building an algorithmic cryptocurrency trading platform – Aesir appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2023/08/09/i-spent-the-last-two-years-building-an-algorithmic-cryptocurrency-trading-platform-aesir/",
+          "publishedOn": "2023-08-09T15:00:28.000Z",
+          "wordCount": 9995,
+          "title": "I spent the last two years building an algorithmic cryptocurrency trading platform – Aesir",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2023/08/Aesir.png"
+        },
+        {
           "id": "https://www.cryptomaton.org/?p=1541",
           "author": "Andrei",
           "description": "The recent Curve Pool Exploit is different from the majority of cryptocurrency hacks that we’ve seen happen in the last few years because unlike many of the previous exploits, this one is not directly related to a vulnerability of the smart contract itself, but rather, the underlying compiler of the language that it was written […]\nThe post A Deep Dive into how Curve’s $70 million reentrancy exploit was possible appeared first on cryptomaton.",
           "link": "https://www.cryptomaton.org/2023/08/05/a-deep-dive-into-how-curves-70-million-reentrancy-exploit-was-possible/",
           "publishedOn": "2023-08-05T09:06:29.000Z",
-          "wordCount": 10233,
+          "wordCount": 10252,
           "title": "A Deep Dive into how Curve’s $70 million reentrancy exploit was possible",
           "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2023/08/curve-finance-reentrancy-hack-vyper.png"
         },
@@ -27,7 +37,7 @@
           "description": "I always wanted an AI assistant that can carry out different tasks on my cryptocurrency portfolio and I’m stoked to share with you this awesome tool that I’ve built. CryptoCurrency GPT is open source AI assistant that expands the functionality of OpenAI’s ChatGPT by incorporating additional features. At a glance, CryptocurrencyGPT can manage your portfolio […]\nThe post I built an Open Source CryptocurrencyGPT Assistant appeared first on cryptomaton.",
           "link": "https://www.cryptomaton.org/2023/08/03/i-built-an-open-source-cryptocurrencygpt-assistant/",
           "publishedOn": "2023-08-03T12:08:08.000Z",
-          "wordCount": 9686,
+          "wordCount": 9688,
           "title": "I built an Open Source CryptocurrencyGPT Assistant",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1050/1*iv9Exol1lBAaL30-gKhiaA.png"
         }
@@ -151,7 +161,7 @@
           "description": "In the rapidly evolving landscape of investments, the emergence of digital asset tokenization has brought about a profound shift. This…",
           "link": "https://medium.com/coinmonks/digital-asset-tokenization-revolutionizing-the-modern-landscape-of-investments-cdc29fd9dee5?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-09T13:28:54.000Z",
-          "wordCount": 3864,
+          "wordCount": 3928,
           "title": "Digital Asset Tokenization: Revolutionizing the Modern Landscape of Investments",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*CX7L8BXPJ2fe0KT1qdwVgw.jpeg"
         },
