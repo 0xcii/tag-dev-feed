@@ -54,7 +54,7 @@
           "description": "I am a blockchain developer at Catalyst Technologies Ltd in Canada, where my role involves spearheading the design and development of an…",
           "link": "https://coinsbench.com/demystifying-the-stack-too-deep-error-in-solidity-understanding-its-causes-and-solutions-d707ec3bcac9?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-04T15:32:16.000Z",
-          "wordCount": 3193,
+          "wordCount": 3182,
           "title": "Demystifying the “Stack too deep” Error in Solidity: Understanding its Causes and Solutions",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*-aTowBf9K1wqqEsWpZtPMA.png"
         },
@@ -74,7 +74,7 @@
           "description": "I was confused when I first heard about DAOs. I had never heard of a business entity owned and controlled by its members, and I needed to…",
           "link": "https://coinsbench.com/the-rise-of-the-dao-how-smart-contracts-are-democratizing-organizations-9cd15b2d1d34?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-03T18:26:17.000Z",
-          "wordCount": 2892,
+          "wordCount": 2881,
           "title": "The Rise of the DAO: How Smart Contracts Are Democratizing Organizations",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*JVbDyplfO1xVFjRp"
         },
@@ -84,7 +84,7 @@
           "description": "Generating unique identifiers & comparing strings",
           "link": "https://coinsbench.com/uses-of-keccak256-and-abi-encodepacked-in-solidity-4f9bdc8d3c9f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-03T18:26:03.000Z",
-          "wordCount": 2956,
+          "wordCount": 2945,
           "title": "Uses of keccak256 and abi.encodePacked in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*MQoHXAeM5IKIaIwBjRqVIw.png"
         },
@@ -94,7 +94,7 @@
           "description": "Extend smart contract security using modifiers",
           "link": "https://coinsbench.com/understanding-modifiers-in-solidity-smart-contracts-1ac1bac2d77c?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-03T18:26:00.000Z",
-          "wordCount": 2798,
+          "wordCount": 2787,
           "title": "Understanding Modifiers in Solidity Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*aN6ZgdVRXLDE8V7R0BvEJw.png"
         },
@@ -114,7 +114,7 @@
           "description": "Transient storage will allow the value to persist (like storage) but just for the lifetime of the transaction. Lets learn more..\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/how-transient-storage-reduces-gas-cost-c585215f9c7b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-03T18:25:53.000Z",
-          "wordCount": 2345,
+          "wordCount": 2334,
           "title": "How Transient Storage Reduces Gas Cost",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Wyf4tQOiXpUEWcDb"
         },
@@ -124,7 +124,7 @@
           "description": "Non-Fungible Tokens (NFTs) have completely changed how players view and interact with virtual assets, revolutionising the industry of…",
           "link": "https://coinsbench.com/a-look-inside-rankerdaos-collection-of-rare-and-valuable-asset-c57b254ae514?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-03T18:25:49.000Z",
-          "wordCount": 2972,
+          "wordCount": 2960,
           "title": "A Look Inside RankerDAO’s Collection of Rare and Valuable Asset",
           "imageUrl": null
         },
@@ -145,6 +145,36 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/1f6088ee3d54",
+          "author": "Christopher H. Loo, MD-PhD",
+          "description": "James Louis\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/shaping-the-future-a-conversation-with-visionary-leader-and-athlete-james-louis-1f6088ee3d54?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-09T12:43:05.000Z",
+          "wordCount": 2514,
+          "title": "Shaping the Future: A Conversation with Visionary Leader and Athlete, James Louis",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*G1Iprd5P5wIrO_t-wngTtw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/96d239ec26b7",
+          "author": "Amit Singh",
+          "description": "Writing is a skill that requires a lot of time, effort, and creativity. Whether you are a blogger, marketer, student, or professional, you…",
+          "link": "https://medium.com/coinmonks/how-ai-writing-tools-can-boost-your-productivity-and-creativity-96d239ec26b7?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-09T12:33:53.000Z",
+          "wordCount": 5040,
+          "title": "How AI Writing Tools Can Boost Your Productivity And Creativity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*eR6cYmfsIVMyhLIavrjpHw@2x.png"
+        },
+        {
+          "id": "https://medium.com/p/8f32595e1bd8",
+          "author": "Coinpedia Daily News",
+          "description": "What’s Next for XRP❓",
+          "link": "https://medium.com/coinmonks/ripple-news-what-lies-ahead-for-ripple-after-a-game-changing-win-8f32595e1bd8?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-09T12:33:51.000Z",
+          "wordCount": 2878,
+          "title": "Ripple News: What Lies Ahead for Ripple After a Game-Changing Win?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*2zWwMUywyhFp5ip_QpzkmA.png"
+        },
         {
           "id": "https://medium.com/p/c4273c242889",
           "author": "Christinapaul",
@@ -171,7 +201,7 @@
           "description": "Conversational search system",
           "link": "https://medium.com/coinmonks/proposing-a-new-function-of-a-conversational-search-system-that-allows-natural-language-d861b59578a1?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-09T11:57:47.000Z",
-          "wordCount": 3591,
+          "wordCount": 3588,
           "title": "Proposing a new function of a conversational search system that allows natural language…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*l777_PhbmwEG-C7g"
         },
@@ -211,39 +241,9 @@
           "description": "Overview of the most remarkable events on crypto market for the last week",
           "link": "https://medium.com/coinmonks/xrp-crashes-while-btc-stands-still-77be3a5dbc32?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-09T11:16:37.000Z",
-          "wordCount": 4033,
+          "wordCount": 4034,
           "title": "$XRP Crashes While $BTC Stands Still",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*FjnVQ1-_ltL8x3rSVwcV2A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3ec53f951b95",
-          "author": "Shantanu Gupta",
-          "description": "In the fast-evolving world of NFTs, a crafty trader has just pulled off a daring move, walking away with a jaw-dropping 800 ETH, valued at…",
-          "link": "https://medium.com/coinmonks/crafty-trader-outsmarts-bot-to-score-800-eth-nft-theft-slows-and-more-3ec53f951b95?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-09T11:16:33.000Z",
-          "wordCount": 2671,
-          "title": "Crafty Trader Outsmarts Bot to Score 800 ETH, NFT Theft Slows, and More",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*okfX40K0EdThSDmrlDFvzQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/875fecf208fb",
-          "author": "Aayushkumark",
-          "description": "Introduction",
-          "link": "https://medium.com/coinmonks/crypto-odyssey-2023-unveiling-the-top-6-gems-for-explosive-growth-875fecf208fb?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-09T11:16:32.000Z",
-          "wordCount": 2695,
-          "title": "Crypto Odyssey 2023: Unveiling the Top 6 Gems for Explosive Growth”",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*u6Iyz7piCUgwXXcYuMAV6A.png"
-        },
-        {
-          "id": "https://medium.com/p/310fee601c89",
-          "author": "Albert Peter",
-          "description": "Explore NFT Development Consulting’s forefront role in crafting digital assets. Unlock the potential of NFTs with expert guidance.",
-          "link": "https://medium.com/coinmonks/nft-development-consulting-at-the-forefront-310fee601c89?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-09T11:16:31.000Z",
-          "wordCount": 6558,
-          "title": "Crafting Digital Assets: NFT Development Consulting at the Forefront",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*2zuj9jx-H1jpQjMbzw2ZPw.jpeg"
         }
       ]
     },
@@ -255,22 +255,22 @@
         {
           "id": "https://medium.com/p/784d03c68b49",
           "author": "Harith  D. Jayawardhane",
-          "description": "Solidity, the programming language for Ethereum smart contracts, has emerged as the go-to language for building decentralized applications…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/mastering-solidity-a-practical-guide-for-expert-developers-784d03c68b49?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-07-17T19:02:21.000Z",
-          "wordCount": 6707,
+          "wordCount": null,
           "title": "Mastering Solidity: A Practical Guide for Expert Developers",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7F1S1tM8hDVJTGuFsVfFzw.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/b2c9f20ea113",
           "author": "Harith  D. Jayawardhane",
-          "description": "In today’s rapidly evolving digital landscape, smart contracts have emerged as a groundbreaking technology that revolutionizes how…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/a-beginners-guide-to-smart-contracts-unlocking-the-power-of-decentralized-automation-b2c9f20ea113?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-07-14T15:46:24.000Z",
-          "wordCount": 2907,
+          "wordCount": null,
           "title": "A Beginner’s Guide to Smart Contracts: Unlocking the Power of Decentralized Automation",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TPyBKcu0dEjcqxc66PzJHQ.jpeg"
+          "imageUrl": null
         }
       ]
     },
