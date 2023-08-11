@@ -49,104 +49,104 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
-          "id": "https://medium.com/p/374399a28536",
-          "author": "Officer's Notes",
-          "description": "",
-          "link": "https://coinsbench.com/web3-security-distilled-2-0-374399a28536?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-04T15:32:20.000Z",
-          "wordCount": null,
-          "title": "Web3 Security Distilled 2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d707ec3bcac9",
-          "author": "Muni V K",
-          "description": "",
-          "link": "https://coinsbench.com/demystifying-the-stack-too-deep-error-in-solidity-understanding-its-causes-and-solutions-d707ec3bcac9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-04T15:32:16.000Z",
-          "wordCount": null,
-          "title": "Demystifying the “Stack too deep” Error in Solidity: Understanding its Causes and Solutions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/dbf122d2b312",
-          "author": "Web3 Eye",
-          "description": "",
-          "link": "https://coinsbench.com/respeer-the-feed-app-built-on-linera-dbf122d2b312?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-04T15:32:12.000Z",
-          "wordCount": null,
-          "title": "ResPeer - The Feed App Built on Linera",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9cd15b2d1d34",
-          "author": "Abang Edwin SA",
-          "description": "",
-          "link": "https://coinsbench.com/the-rise-of-the-dao-how-smart-contracts-are-democratizing-organizations-9cd15b2d1d34?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-03T18:26:17.000Z",
-          "wordCount": null,
-          "title": "The Rise of the DAO: How Smart Contracts Are Democratizing Organizations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4f9bdc8d3c9f",
-          "author": "Muni V K",
-          "description": "",
-          "link": "https://coinsbench.com/uses-of-keccak256-and-abi-encodepacked-in-solidity-4f9bdc8d3c9f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-03T18:26:03.000Z",
-          "wordCount": null,
-          "title": "Uses of keccak256 and abi.encodePacked in Solidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1ac1bac2d77c",
-          "author": "Muni V K",
-          "description": "",
-          "link": "https://coinsbench.com/understanding-modifiers-in-solidity-smart-contracts-1ac1bac2d77c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-03T18:26:00.000Z",
-          "wordCount": null,
-          "title": "Understanding Modifiers in Solidity Smart Contracts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/bfd4dee0b3c3",
+          "id": "https://medium.com/p/597e138d5127",
           "author": "Andrew Prasaath",
-          "description": "",
-          "link": "https://coinsbench.com/nft-standards-comparison-erc-721-vs-erc-1155-bfd4dee0b3c3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-03T18:25:57.000Z",
-          "wordCount": null,
-          "title": "NFT Standards Comparison: ERC-721 vs. ERC-1155",
+          "description": "Introduction:",
+          "link": "https://coinsbench.com/defi-series-2-decentralized-exchanges-dexs-design-architecture-and-security-considerations-597e138d5127?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-11T15:43:26.000Z",
+          "wordCount": 2611,
+          "title": "DeFi Series #2: Decentralized Exchanges (DEXs): Design, Architecture, and Security Considerations",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/c585215f9c7b",
-          "author": "Pran B.",
-          "description": "Transient storage will allow the value to persist (like storage) but just for the lifetime of the transaction. Lets learn more..\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/how-transient-storage-reduces-gas-cost-c585215f9c7b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-03T18:25:53.000Z",
-          "wordCount": null,
-          "title": "How Transient Storage Reduces Gas Cost",
-          "imageUrl": null
+          "id": "https://medium.com/p/4b14eb916d43",
+          "author": "Andrew Prasaath",
+          "description": "Smart contract development on the Ethereum blockchain constantly seeks innovative ways to address challenges such as upgradability, gas…",
+          "link": "https://coinsbench.com/exploring-the-diamond-pattern-eip-2535-in-solidity-smart-contract-development-4b14eb916d43?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-11T15:43:22.000Z",
+          "wordCount": 2982,
+          "title": "Exploring the Diamond Pattern (EIP-2535) in Solidity Smart Contract Development",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/0*RRTk5BwMvm0-0ivf.png"
         },
         {
-          "id": "https://medium.com/p/c57b254ae514",
-          "author": "Facilered",
-          "description": "",
-          "link": "https://coinsbench.com/a-look-inside-rankerdaos-collection-of-rare-and-valuable-asset-c57b254ae514?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-03T18:25:49.000Z",
-          "wordCount": null,
-          "title": "A Look Inside RankerDAO’s Collection of Rare and Valuable Asset",
-          "imageUrl": null
+          "id": "https://medium.com/p/dbe99d16397f",
+          "author": "Crypto Truster",
+          "description": "Lido is a decentralized finance (DeFi) protocol that allows users to stake their ETH and earn rewards while maintaining liquidity. By using…",
+          "link": "https://coinsbench.com/how-to-earn-from-pos-dbe99d16397f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-11T15:33:41.000Z",
+          "wordCount": 2450,
+          "title": "How to Earn from POS?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*tB9euOofuByPdQGG.jpg"
         },
         {
-          "id": "https://medium.com/p/b8a818eb2d8e",
-          "author": "ismail",
-          "description": "",
-          "link": "https://coinsbench.com/past-present-and-future-of-blockchain-b8a818eb2d8e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-03T18:25:46.000Z",
-          "wordCount": null,
-          "title": "Past, Present, and Future of Blockchain",
-          "imageUrl": null
+          "id": "https://medium.com/p/399f3bfa94ac",
+          "author": "Ethan Rouimi",
+          "description": "Developers have always wanted to communicate between chains, but the ways that these blockchains were created, this native implementation…",
+          "link": "https://coinsbench.com/ccip-the-internet-of-blockchains-399f3bfa94ac?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-11T15:33:37.000Z",
+          "wordCount": 3934,
+          "title": "CCIP the Internet of Blockchains",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UupQK1HwWXqQ6jiVhWx2UQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/de8050a32485",
+          "author": "Andrew Prasaath",
+          "description": "Introduction:",
+          "link": "https://coinsbench.com/decentralized-storage-for-nfts-ipfs-and-swarm-de8050a32485?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-11T15:33:35.000Z",
+          "wordCount": 2958,
+          "title": "Decentralized Storage for NFTs: IPFS and Swarm",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*-9F9qA33y0cKL8n2.jpg"
+        },
+        {
+          "id": "https://medium.com/p/bb70e237b190",
+          "author": "Favorite_blockchain_lady",
+          "description": "100 days of solidity (Day 18–22)",
+          "link": "https://coinsbench.com/error-handling-in-solidity-pt-5-bb70e237b190?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-11T15:33:13.000Z",
+          "wordCount": 4610,
+          "title": "The importance and techniques of providing meaningful error messages to users (Error Handling In…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*_95t-5un1zkVuQ14"
+        },
+        {
+          "id": "https://medium.com/p/77ee24ca227e",
+          "author": "Brian",
+          "description": "I would like to share how smart contracts can be implemented in the real estate business for learning and enjoyment purposes. I believe…",
+          "link": "https://coinsbench.com/implementing-real-estate-transactions-with-smart-contracts-in-solidity-77ee24ca227e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-11T15:31:47.000Z",
+          "wordCount": 4709,
+          "title": "Implementing Real Estate Transactions with Smart Contracts in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*I4zA_GUNgBwDuas-y2uTHg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/e6163366c588",
+          "author": "Aitor Zaldua",
+          "description": "Once upon a time, Paypal was one of the companies that contributed most to the Internet ecosystem. A company that promised you could buy…",
+          "link": "https://coinsbench.com/paypal-launch-their-stable-coin-and-we-analyse-the-contract-e6163366c588?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-11T15:31:43.000Z",
+          "wordCount": 3822,
+          "title": "Paypal launch their stable coin and we analyse the contract.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*RhMW-mCk7ohk7L0z5OpJ6A.png"
+        },
+        {
+          "id": "https://medium.com/p/dac731103179",
+          "author": "Rosario Borgesi",
+          "description": "Why Ethereum\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/how-to-deploy-a-smart-contract-to-the-ethereum-blockchain-dac731103179?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-11T15:31:38.000Z",
+          "wordCount": 2075,
+          "title": "How to deploy a smart contract to the Ethereum blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*YeO5kfWvIN1TYDEgl47Gqg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/be0f73f20f01",
+          "author": "Favorite_blockchain_lady",
+          "description": "100 days of solidity (Day 18–22)",
+          "link": "https://coinsbench.com/error-handling-in-solidity-pt-1-be0f73f20f01?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-11T15:31:34.000Z",
+          "wordCount": 3932,
+          "title": "Error handling in Solidity pt.1",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*vjp2LGt80HEQqe6c"
         }
       ]
     },
@@ -158,22 +158,22 @@
         {
           "id": "https://medium.com/p/909cda42541",
           "author": "Joseph Cottrell",
-          "description": "",
+          "description": "Meta Description: Delve into the realm of altcoins—a alternative cryptocurrencies—like Ethereum, Cardano, and Solana. Explore their…",
           "link": "https://medium.com/coinmonks/beyond-bitcoin-unraveling-the-potential-of-alternative-cryptocurrencies-909cda42541?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-11T07:46:42.000Z",
-          "wordCount": null,
+          "wordCount": 2849,
           "title": "Beyond Bitcoin: Unraveling the Potential of Alternative Cryptocurrencies",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*_c9IQ2qEHJw_yJDC"
         },
         {
           "id": "https://medium.com/p/db91a13f53c9",
           "author": "blockchainstats.io",
-          "description": "",
+          "description": "In technical analysis, several indicators help traders understand market behavior and make informed trading decisions. One such tool is the…",
           "link": "https://medium.com/coinmonks/parabolic-sar-psar-a-comprehensive-guide-for-traders-db91a13f53c9?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-11T07:46:40.000Z",
-          "wordCount": null,
+          "wordCount": 3014,
           "title": "Parabolic Sar (PSAR): A Comprehensive Guide for Traders",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*y3OAZRdaxm1Zt44i.png"
         },
         {
           "id": "https://medium.com/p/b3a61e239140",
@@ -181,9 +181,9 @@
           "description": "Analysis of the concerns surrounding Sam Altman’s new crypto-project, Worldcoin\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/story-of-an-old-crypto-trick-in-new-clothing-b3a61e239140?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-11T07:46:39.000Z",
-          "wordCount": null,
+          "wordCount": 2553,
           "title": "Story of an Old Crypto Trick in New Clothing",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*ov_FBaC8gVDYde4e.jpeg"
         },
         {
           "id": "https://medium.com/p/77e04d6c7635",
@@ -191,69 +191,69 @@
           "description": "mightyrocklee (66)in #splinterlands • 14 minutes ago\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/my-rental-adventure-2023-30-weeks-later-hunting-for-more-dec-77e04d6c7635?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-11T07:46:37.000Z",
-          "wordCount": null,
+          "wordCount": 2588,
           "title": "My Rental adventure 2023–30 weeks later, hunting for more DEC",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/0*t-pMOropGCg-CxJL.png"
         },
         {
           "id": "https://medium.com/p/2fc21da70363",
           "author": "Nauris Treigys",
-          "description": "",
+          "description": "The US stock market witnessed a day of mixed economic data on Thursday, as gains from earlier in the session were trimmed down, leaving the…",
           "link": "https://medium.com/coinmonks/us-stocks-experience-volatility-amid-mixed-economic-data-2fc21da70363?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-11T07:46:35.000Z",
-          "wordCount": null,
+          "wordCount": 3486,
           "title": "US Stocks Experience Volatility Amid Mixed Economic Data",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*aUTKM5PT8OLpKSQ9oyE7iA.jpeg"
         },
         {
           "id": "https://medium.com/p/2397fa712af7",
           "author": "CosmosHOSS",
-          "description": "",
+          "description": "Build from nothing to a respectable self image",
           "link": "https://medium.com/coinmonks/growth-hack-tips-to-gain-reputation-in-web3-2397fa712af7?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-11T07:46:33.000Z",
-          "wordCount": null,
+          "wordCount": 4321,
           "title": "Growth Hack Tips to Gain Reputation in Web3",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qqQFuHzoNMy8A0hd7K3SpQ.png"
         },
         {
           "id": "https://medium.com/p/b2b85eb9f7cc",
           "author": "Georgia Bloggs",
-          "description": "",
+          "description": "In the midst of increasing global regulatory scrutiny on cryptocurrencies, the availability of trustworthy cryptocurrency exchanges that…",
           "link": "https://medium.com/coinmonks/top-7-non-kyc-crypto-exchanges-for-privacy-conscious-traders-b2b85eb9f7cc?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-11T07:46:33.000Z",
-          "wordCount": null,
+          "wordCount": 3101,
           "title": "Top 7 Non-KYC Crypto Exchanges for Privacy-Conscious Traders",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:792/1*yXrtBXSnCDbLvAZvE2fk8w.png"
         },
         {
           "id": "https://medium.com/p/78d077e4922e",
           "author": "Georgia Bloggs",
-          "description": "",
+          "description": "In December 2023, Bitcoin shattered all previous records. The value of a single bitcoin, the pioneering and renowned digital currency…",
           "link": "https://medium.com/coinmonks/deciphering-bitcoin-an-in-depth-guide-to-its-mechanisms-and-functionality-78d077e4922e?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-11T07:46:27.000Z",
-          "wordCount": null,
+          "wordCount": 3801,
           "title": "Deciphering Bitcoin: An In-Depth Guide to its Mechanisms and Functionality",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:696/1*ZIB-I0xmqc-TKHU-OH3sqw.png"
         },
         {
           "id": "https://medium.com/p/69df033e6ac2",
           "author": "Georgia Bloggs",
-          "description": "",
+          "description": "Did you know that the world of digital currencies is vast and constantly expanding with new entrants? For those intrigued by the…",
           "link": "https://medium.com/coinmonks/selecting-the-perfect-cryptocurrency-exchange-a-comprehensive-guide-69df033e6ac2?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-11T07:46:26.000Z",
-          "wordCount": null,
+          "wordCount": 3187,
           "title": "Selecting the Perfect Cryptocurrency Exchange: A Comprehensive Guide",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:875/1*UNSVAflVzJBrE1Jbzks8yQ.png"
         },
         {
           "id": "https://medium.com/p/e50544a1bb0c",
           "author": "Georgia Bloggs",
-          "description": "",
+          "description": "For individuals seeking privacy in their cryptocurrency transactions, the ideal solution is a No KYC (Know Your Customer) cryptocurrency…",
           "link": "https://medium.com/coinmonks/comprehensive-guide-to-the-leading-no-kyc-cryptocurrency-exchanges-e50544a1bb0c?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-11T07:46:24.000Z",
-          "wordCount": null,
+          "wordCount": 2557,
           "title": "Comprehensive Guide to the Leading No-KYC Cryptocurrency Exchanges",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:841/1*IAqwfQ1G7NQMhZYSZNJf0w.png"
         }
       ]
     },
@@ -265,22 +265,22 @@
         {
           "id": "https://medium.com/p/784d03c68b49",
           "author": "Harith  D. Jayawardhane",
-          "description": "",
+          "description": "Solidity, the programming language for Ethereum smart contracts, has emerged as the go-to language for building decentralized applications…",
           "link": "https://blog.blockmagnates.com/mastering-solidity-a-practical-guide-for-expert-developers-784d03c68b49?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-07-17T19:02:21.000Z",
-          "wordCount": null,
+          "wordCount": 6560,
           "title": "Mastering Solidity: A Practical Guide for Expert Developers",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7F1S1tM8hDVJTGuFsVfFzw.png"
         },
         {
           "id": "https://medium.com/p/b2c9f20ea113",
           "author": "Harith  D. Jayawardhane",
-          "description": "",
+          "description": "In today’s rapidly evolving digital landscape, smart contracts have emerged as a groundbreaking technology that revolutionizes how…",
           "link": "https://blog.blockmagnates.com/a-beginners-guide-to-smart-contracts-unlocking-the-power-of-decentralized-automation-b2c9f20ea113?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-07-14T15:46:24.000Z",
-          "wordCount": null,
+          "wordCount": 2793,
           "title": "A Beginner’s Guide to Smart Contracts: Unlocking the Power of Decentralized Automation",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TPyBKcu0dEjcqxc66PzJHQ.jpeg"
         }
       ]
     },
