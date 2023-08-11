@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -61,60 +55,60 @@
         {
           "id": "https://medium.com/p/d707ec3bcac9",
           "author": "Muni V K",
-          "description": "I am a blockchain developer at Catalyst Technologies Ltd in Canada, where my role involves spearheading the design and development of an…",
+          "description": "",
           "link": "https://coinsbench.com/demystifying-the-stack-too-deep-error-in-solidity-understanding-its-causes-and-solutions-d707ec3bcac9?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-04T15:32:16.000Z",
-          "wordCount": 3105,
+          "wordCount": null,
           "title": "Demystifying the “Stack too deep” Error in Solidity: Understanding its Causes and Solutions",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*-aTowBf9K1wqqEsWpZtPMA.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/dbf122d2b312",
           "author": "Web3 Eye",
-          "description": "First of all, let me announce that our Feed app, ResPeer, built on Linera, has won first place in the Linera Developer Summer School 2023…",
+          "description": "",
           "link": "https://coinsbench.com/respeer-the-feed-app-built-on-linera-dbf122d2b312?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-04T15:32:12.000Z",
-          "wordCount": 3003,
+          "wordCount": null,
           "title": "ResPeer - The Feed App Built on Linera",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:900/1*kcbS8aTH62Jt2QoqKOfxSw.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/9cd15b2d1d34",
           "author": "Abang Edwin SA",
-          "description": "I was confused when I first heard about DAOs. I had never heard of a business entity owned and controlled by its members, and I needed to…",
+          "description": "",
           "link": "https://coinsbench.com/the-rise-of-the-dao-how-smart-contracts-are-democratizing-organizations-9cd15b2d1d34?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-03T18:26:17.000Z",
-          "wordCount": 2810,
+          "wordCount": null,
           "title": "The Rise of the DAO: How Smart Contracts Are Democratizing Organizations",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*JVbDyplfO1xVFjRp"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/4f9bdc8d3c9f",
           "author": "Muni V K",
-          "description": "Generating unique identifiers & comparing strings",
+          "description": "",
           "link": "https://coinsbench.com/uses-of-keccak256-and-abi-encodepacked-in-solidity-4f9bdc8d3c9f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-03T18:26:03.000Z",
-          "wordCount": 2919,
+          "wordCount": null,
           "title": "Uses of keccak256 and abi.encodePacked in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*MQoHXAeM5IKIaIwBjRqVIw.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/1ac1bac2d77c",
           "author": "Muni V K",
-          "description": "Extend smart contract security using modifiers",
+          "description": "",
           "link": "https://coinsbench.com/understanding-modifiers-in-solidity-smart-contracts-1ac1bac2d77c?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-03T18:26:00.000Z",
-          "wordCount": 2726,
+          "wordCount": null,
           "title": "Understanding Modifiers in Solidity Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*aN6ZgdVRXLDE8V7R0BvEJw.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/bfd4dee0b3c3",
           "author": "Andrew Prasaath",
-          "description": "Introduction:",
+          "description": "",
           "link": "https://coinsbench.com/nft-standards-comparison-erc-721-vs-erc-1155-bfd4dee0b3c3?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-03T18:25:57.000Z",
-          "wordCount": 2712,
+          "wordCount": null,
           "title": "NFT Standards Comparison: ERC-721 vs. ERC-1155",
           "imageUrl": null
         },
@@ -124,29 +118,29 @@
           "description": "Transient storage will allow the value to persist (like storage) but just for the lifetime of the transaction. Lets learn more..\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/how-transient-storage-reduces-gas-cost-c585215f9c7b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-03T18:25:53.000Z",
-          "wordCount": 2255,
+          "wordCount": null,
           "title": "How Transient Storage Reduces Gas Cost",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Wyf4tQOiXpUEWcDb"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/c57b254ae514",
           "author": "Facilered",
-          "description": "Non-Fungible Tokens (NFTs) have completely changed how players view and interact with virtual assets, revolutionising the industry of…",
+          "description": "",
           "link": "https://coinsbench.com/a-look-inside-rankerdaos-collection-of-rare-and-valuable-asset-c57b254ae514?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-03T18:25:49.000Z",
-          "wordCount": 2940,
+          "wordCount": null,
           "title": "A Look Inside RankerDAO’s Collection of Rare and Valuable Asset",
           "imageUrl": null
         },
         {
           "id": "https://medium.com/p/b8a818eb2d8e",
           "author": "ismail",
-          "description": "Over the past decade, blockchain technology has emerged as one of the most transformative innovations, revolutionizing industries and…",
+          "description": "",
           "link": "https://coinsbench.com/past-present-and-future-of-blockchain-b8a818eb2d8e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-03T18:25:46.000Z",
-          "wordCount": 2888,
+          "wordCount": null,
           "title": "Past, Present, and Future of Blockchain",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*06kjf7Sb8JKhOTVqfXGzRw.jpeg"
+          "imageUrl": null
         }
       ]
     },
@@ -171,7 +165,7 @@
           "description": "In technical analysis, several indicators help traders understand market behavior and make informed trading decisions. One such tool is the…",
           "link": "https://medium.com/coinmonks/parabolic-sar-psar-a-comprehensive-guide-for-traders-db91a13f53c9?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-11T07:46:40.000Z",
-          "wordCount": 3014,
+          "wordCount": 3027,
           "title": "Parabolic Sar (PSAR): A Comprehensive Guide for Traders",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*y3OAZRdaxm1Zt44i.png"
         },
@@ -181,7 +175,7 @@
           "description": "Analysis of the concerns surrounding Sam Altman’s new crypto-project, Worldcoin\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/story-of-an-old-crypto-trick-in-new-clothing-b3a61e239140?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-11T07:46:39.000Z",
-          "wordCount": 2553,
+          "wordCount": 2439,
           "title": "Story of an Old Crypto Trick in New Clothing",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*ov_FBaC8gVDYde4e.jpeg"
         },
@@ -265,22 +259,22 @@
         {
           "id": "https://medium.com/p/784d03c68b49",
           "author": "Harith  D. Jayawardhane",
-          "description": "Solidity, the programming language for Ethereum smart contracts, has emerged as the go-to language for building decentralized applications…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/mastering-solidity-a-practical-guide-for-expert-developers-784d03c68b49?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-07-17T19:02:21.000Z",
-          "wordCount": 6560,
+          "wordCount": null,
           "title": "Mastering Solidity: A Practical Guide for Expert Developers",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7F1S1tM8hDVJTGuFsVfFzw.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/b2c9f20ea113",
           "author": "Harith  D. Jayawardhane",
-          "description": "In today’s rapidly evolving digital landscape, smart contracts have emerged as a groundbreaking technology that revolutionizes how…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/a-beginners-guide-to-smart-contracts-unlocking-the-power-of-decentralized-automation-b2c9f20ea113?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-07-14T15:46:24.000Z",
-          "wordCount": 2793,
+          "wordCount": null,
           "title": "A Beginner’s Guide to Smart Contracts: Unlocking the Power of Decentralized Automation",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TPyBKcu0dEjcqxc66PzJHQ.jpeg"
+          "imageUrl": null
         }
       ]
     },
