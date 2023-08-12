@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-12T06:13:14.420Z</id>
+    <id>urn:2023-08-12T07:09:28.152Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-12T06:13:14.420Z</updated>
+    <updated>2023-08-12T07:09:28.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Reentrancy Vulnerabilities in Ethereum Smart Contracts: Risks and Solutions]]></title>
+        <id>https://medium.com/p/7a808c705790</id>
+        <link href="https://coinsbench.com/understanding-reentrancy-vulnerabilities-in-ethereum-smart-contracts-risks-and-solutions-7a808c705790?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-12T06:36:22.000Z</updated>
+        <summary type="html"><![CDATA[A Reentrancy attack is a security vulnerability that occurs in the blockchain, it occurs when a smart contract can call the function in an…]]></summary>
+        <author>
+            <name>Abusomwan Santos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevNTell - Koinos Account Protocol]]></title>
         <id>https://blog.developerdao.com/devntell-koinos-account-protocol</id>
@@ -123,16 +133,6 @@ https://www.youtube.com/watch?v=xJAPbmlxp3c]]></summary>
 Continue reading on CoinsBench »]]></summary>
         <author>
             <name>Rosario Borgesi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Error handling in Solidity pt.1]]></title>
-        <id>https://medium.com/p/be0f73f20f01</id>
-        <link href="https://coinsbench.com/error-handling-in-solidity-pt-1-be0f73f20f01?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-11T15:31:34.000Z</updated>
-        <summary type="html"><![CDATA[100 days of solidity (Day 18–22)]]></summary>
-        <author>
-            <name>Favorite_blockchain_lady</name>
         </author>
     </entry>
     <entry>

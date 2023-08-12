@@ -49,6 +49,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/7a808c705790",
+          "author": "Abusomwan Santos",
+          "description": "A Reentrancy attack is a security vulnerability that occurs in the blockchain, it occurs when a smart contract can call the function in an…",
+          "link": "https://coinsbench.com/understanding-reentrancy-vulnerabilities-in-ethereum-smart-contracts-risks-and-solutions-7a808c705790?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-12T06:36:22.000Z",
+          "wordCount": 3518,
+          "title": "Understanding Reentrancy Vulnerabilities in Ethereum Smart Contracts: Risks and Solutions",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*y_BuIvPS3y2pkiai.jpg"
+        },
+        {
           "id": "https://medium.com/p/597e138d5127",
           "author": "Andrew Prasaath",
           "description": "Introduction:",
@@ -137,16 +147,6 @@
           "wordCount": 2075,
           "title": "How to deploy a smart contract to the Ethereum blockchain",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*YeO5kfWvIN1TYDEgl47Gqg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/be0f73f20f01",
-          "author": "Favorite_blockchain_lady",
-          "description": "100 days of solidity (Day 18–22)",
-          "link": "https://coinsbench.com/error-handling-in-solidity-pt-1-be0f73f20f01?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-11T15:31:34.000Z",
-          "wordCount": 3932,
-          "title": "Error handling in Solidity pt.1",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*vjp2LGt80HEQqe6c"
         }
       ]
     },
@@ -181,7 +181,7 @@
           "description": "mightyrocklee (66)in #splinterlands • 14 minutes ago\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/my-rental-adventure-2023-30-weeks-later-hunting-for-more-dec-77e04d6c7635?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-11T07:46:37.000Z",
-          "wordCount": 2589,
+          "wordCount": 2588,
           "title": "My Rental adventure 2023–30 weeks later, hunting for more DEC",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:700/0*t-pMOropGCg-CxJL.png"
         },
@@ -191,7 +191,7 @@
           "description": "The US stock market witnessed a day of mixed economic data on Thursday, as gains from earlier in the session were trimmed down, leaving the…",
           "link": "https://medium.com/coinmonks/us-stocks-experience-volatility-amid-mixed-economic-data-2fc21da70363?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-11T07:46:35.000Z",
-          "wordCount": 3486,
+          "wordCount": 3485,
           "title": "US Stocks Experience Volatility Amid Mixed Economic Data",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*aUTKM5PT8OLpKSQ9oyE7iA.jpeg"
         },
