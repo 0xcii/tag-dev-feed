@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-14T11:09:24.490Z</id>
+    <id>urn:2023-08-14T12:21:35.302Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-14T11:09:24.490Z</updated>
+    <updated>2023-08-14T12:21:35.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New 0-day vulnerabilities caught up]]></title>
+        <id>https://medium.com/p/29d05e32a413</id>
+        <link href="https://medium.com/coinmonks/new-0-day-vulnerabilities-caught-up-29d05e32a413?source=rss----721b17443fd5---4"/>
+        <updated>2023-08-14T11:13:51.000Z</updated>
+        <summary type="html"><![CDATA[Two 0-day vulnerabilities (Bitforge) have been detected recently. They allow hackers to drain cryptocurrency from popular wallets in mere…]]></summary>
+        <author>
+            <name>SmartState.tech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 10x Crypto Gem You Don’t Want to Miss (August)]]></title>
         <id>https://medium.com/p/d5a8d58eb729</id>
@@ -97,16 +107,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exciting SecondLive Airdrop — Don’t Miss Out!]]></title>
-        <id>https://medium.com/p/f1ee59d75adc</id>
-        <link href="https://medium.com/coinmonks/exciting-secondlive-airdrop-dont-miss-out-f1ee59d75adc?source=rss----721b17443fd5---4"/>
-        <updated>2023-08-14T10:11:19.000Z</updated>
-        <summary type="html"><![CDATA[SecondLive airdrop 2023]]></summary>
-        <author>
-            <name>Dhiraj Dixit</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Understanding Reentrancy Vulnerabilities in Ethereum Smart Contracts: Risks and Solutions]]></title>
         <id>https://medium.com/p/7a808c705790</id>
         <link href="https://coinsbench.com/understanding-reentrancy-vulnerabilities-in-ethereum-smart-contracts-risks-and-solutions-7a808c705790?source=rss----f1cfd22cde3e---4"/>
@@ -160,7 +160,6 @@ https://www.youtube.com/watch?v=xJAPbmlxp3c]]></summary>
         <id>https://medium.com/p/4b14eb916d43</id>
         <link href="https://coinsbench.com/exploring-the-diamond-pattern-eip-2535-in-solidity-smart-contract-development-4b14eb916d43?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-11T15:43:22.000Z</updated>
-        <summary type="html"><![CDATA[Smart contract development on the Ethereum blockchain constantly seeks innovative ways to address challenges such as upgradability, gas…]]></summary>
         <author>
             <name>Andrew Prasaath</name>
         </author>
@@ -180,7 +179,6 @@ https://www.youtube.com/watch?v=xJAPbmlxp3c]]></summary>
         <id>https://medium.com/p/399f3bfa94ac</id>
         <link href="https://coinsbench.com/ccip-the-internet-of-blockchains-399f3bfa94ac?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-11T15:33:37.000Z</updated>
-        <summary type="html"><![CDATA[Developers have always wanted to communicate between chains, but the ways that these blockchains were created, this native implementation…]]></summary>
         <author>
             <name>Ethan Rouimi</name>
         </author>
@@ -190,7 +188,6 @@ https://www.youtube.com/watch?v=xJAPbmlxp3c]]></summary>
         <id>https://medium.com/p/de8050a32485</id>
         <link href="https://coinsbench.com/decentralized-storage-for-nfts-ipfs-and-swarm-de8050a32485?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-11T15:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Introduction:]]></summary>
         <author>
             <name>Andrew Prasaath</name>
         </author>
@@ -210,7 +207,6 @@ https://www.youtube.com/watch?v=xJAPbmlxp3c]]></summary>
         <id>https://medium.com/p/77ee24ca227e</id>
         <link href="https://coinsbench.com/implementing-real-estate-transactions-with-smart-contracts-in-solidity-77ee24ca227e?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-11T15:31:47.000Z</updated>
-        <summary type="html"><![CDATA[I would like to share how smart contracts can be implemented in the real estate business for learning and enjoyment purposes. I believe…]]></summary>
         <author>
             <name>Brian</name>
         </author>
@@ -220,7 +216,6 @@ https://www.youtube.com/watch?v=xJAPbmlxp3c]]></summary>
         <id>https://medium.com/p/e6163366c588</id>
         <link href="https://coinsbench.com/paypal-launch-their-stable-coin-and-we-analyse-the-contract-e6163366c588?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-11T15:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Once upon a time, Paypal was one of the companies that contributed most to the Internet ecosystem. A company that promised you could buy…]]></summary>
         <author>
             <name>Aitor Zaldua</name>
         </author>
@@ -360,7 +355,6 @@ https://www.youtube.com/watch?v=v-V_OxKT4yI]]></summary>
         <id>https://medium.com/p/784d03c68b49</id>
         <link href="https://blog.blockmagnates.com/mastering-solidity-a-practical-guide-for-expert-developers-784d03c68b49?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-07-17T19:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Solidity, the programming language for Ethereum smart contracts, has emerged as the go-to language for building decentralized applications…]]></summary>
         <author>
             <name>Harith  D. Jayawardhane</name>
         </author>
