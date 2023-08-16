@@ -49,6 +49,76 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/b2edc9b6edf4",
+          "author": "Zachchou",
+          "description": "I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…",
+          "link": "https://coinsbench.com/damn-vulnerable-defi-naive-receiver-b2edc9b6edf4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-16T16:30:52.000Z",
+          "wordCount": 2053,
+          "title": "damn-vulnerable-defi | Naive receiver",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*8QosYrSELunCHi_B1NzVTg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3e4e13b7e8b8",
+          "author": "Zachchou",
+          "description": "I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…",
+          "link": "https://coinsbench.com/damn-vulnerable-defi-truster-3e4e13b7e8b8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-16T16:30:31.000Z",
+          "wordCount": 2177,
+          "title": "damn-vulnerable-defi | Truster",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*8QosYrSELunCHi_B1NzVTg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3abda06cd448",
+          "author": "John Lawniczak",
+          "description": "TLDR: MEV bots, flashbots, liquidation bots… it’s time to start building.",
+          "link": "https://coinsbench.com/bot-racing-the-rise-of-web3-bots-3abda06cd448?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-16T16:30:28.000Z",
+          "wordCount": 3063,
+          "title": "Bot Racing: The Rise of Web3 Bots.",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:299/1*dax9daFaYzv9wkUdQo4tvw.gif"
+        },
+        {
+          "id": "https://medium.com/p/c28f2f6f92fd",
+          "author": "JS Queen",
+          "description": "Welcome to 30 Days of Solidity’s Day 1 from CodeDamn. GitHub repo is here: https://github.com/javascript-queen/30DaysOfSolidity/tree/main",
+          "link": "https://coinsbench.com/30-days-of-solidity-day-1-spdx-license-pragma-contracts-c28f2f6f92fd?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-16T16:29:37.000Z",
+          "wordCount": 3018,
+          "title": "30 Days of Solidity. Day 1. SPDX License. Pragma. Contracts.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KCaqpTPHCmnsd2OhHuzyqQ.png"
+        },
+        {
+          "id": "https://medium.com/p/7ec19f5291ba",
+          "author": "IMMANUEL",
+          "description": "In recent years, the rapid development of blockchain technology and cryptocurrencies has influenced the financial industry by creating a…",
+          "link": "https://coinsbench.com/the-impact-of-solidity-in-the-blockchain-industry-7ec19f5291ba?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-16T16:29:35.000Z",
+          "wordCount": 4348,
+          "title": "The Impact of Solidity in the Blockchain Industry.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9Yfuk8mFhBJ7dxCn"
+        },
+        {
+          "id": "https://medium.com/p/6a14c9fa2f6f",
+          "author": "Andrew Prasaath",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/defi-series-3-unraveling-stablecoins-an-essential-guide-for-technophiles-exploring-defi-6a14c9fa2f6f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-16T16:29:34.000Z",
+          "wordCount": 2300,
+          "title": "DeFi Series #3 — Unraveling Stablecoins: An Essential Guide for Technophiles Exploring DeFi",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:600/0*wbZxST9DyM04FSBc"
+        },
+        {
+          "id": "https://medium.com/p/76e2f5c97c5b",
+          "author": "Beach Crypto",
+          "description": "Build a Web3 Dapp with Next.js 13 App Router",
+          "link": "https://coinsbench.com/next-js-app-router-dapp-hosted-on-ifps-with-rainbowkit-wagmi-and-fleek-76e2f5c97c5b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-16T16:29:29.000Z",
+          "wordCount": 3666,
+          "title": "Next.js App Router Dapp Hosted on IFPS with RainbowKit, Wagmi and Fleek",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*iMXbJryvXQ0B0Vad.png"
+        },
+        {
           "id": "https://medium.com/p/c5aa14513c4d",
           "author": "Crypto Truster",
           "description": "Impermanent loss is a concept that applies to liquidity providers in decentralized finance (DeFi) platforms, particularly in automated…",
@@ -77,76 +147,6 @@
           "wordCount": 2146,
           "title": "Unlocking the Potential: Advanced Smart Contract Programming with Ink!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*I6s5Shnn8TvAKNgcJ1SsFQ.png"
-        },
-        {
-          "id": "https://medium.com/p/bb997fa46a3d",
-          "author": "Andrew Prasaath",
-          "description": "Zero Knowledge Proofs (ZKPs) are cryptographic protocols that enable one party to prove to another that a statement is true without…",
-          "link": "https://coinsbench.com/zero-knowledge-proofs-a-comprehensive-technical-guide-bb997fa46a3d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-14T13:43:33.000Z",
-          "wordCount": 3086,
-          "title": "Zero Knowledge Proofs: A Comprehensive Technical Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:860/0*YX_vbkyk_hy8h-CQ"
-        },
-        {
-          "id": "https://medium.com/p/7e6ce3ca6419",
-          "author": "okolicodes",
-          "description": "Part 2:",
-          "link": "https://coinsbench.com/proxy-simplified-series-7e6ce3ca6419?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-14T13:43:26.000Z",
-          "wordCount": 3230,
-          "title": "Proxy Simplified Series.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cqtZ2RTrj0BPooDufxP0Zg@2x.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/7a808c705790",
-          "author": "Abusomwan Santos",
-          "description": "A Reentrancy attack is a security vulnerability that occurs in the blockchain, it occurs when a smart contract can call the function in an…",
-          "link": "https://coinsbench.com/understanding-reentrancy-vulnerabilities-in-ethereum-smart-contracts-risks-and-solutions-7a808c705790?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-12T06:36:22.000Z",
-          "wordCount": 3518,
-          "title": "Understanding Reentrancy Vulnerabilities in Ethereum Smart Contracts: Risks and Solutions",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*y_BuIvPS3y2pkiai.jpg"
-        },
-        {
-          "id": "https://medium.com/p/597e138d5127",
-          "author": "Andrew Prasaath",
-          "description": "Introduction:",
-          "link": "https://coinsbench.com/defi-series-2-decentralized-exchanges-dexs-design-architecture-and-security-considerations-597e138d5127?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-11T15:43:26.000Z",
-          "wordCount": 2608,
-          "title": "DeFi Series #2: Decentralized Exchanges (DEXs): Design, Architecture, and Security Considerations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4b14eb916d43",
-          "author": "Andrew Prasaath",
-          "description": "Smart contract development on the Ethereum blockchain constantly seeks innovative ways to address challenges such as upgradability, gas…",
-          "link": "https://coinsbench.com/exploring-the-diamond-pattern-eip-2535-in-solidity-smart-contract-development-4b14eb916d43?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-11T15:43:22.000Z",
-          "wordCount": 3104,
-          "title": "Exploring the Diamond Pattern (EIP-2535) in Solidity Smart Contract Development",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/0*RRTk5BwMvm0-0ivf.png"
-        },
-        {
-          "id": "https://medium.com/p/dbe99d16397f",
-          "author": "Crypto Truster",
-          "description": "Lido is a decentralized finance (DeFi) protocol that allows users to stake their ETH and earn rewards while maintaining liquidity. By using…",
-          "link": "https://coinsbench.com/how-to-earn-from-pos-dbe99d16397f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-11T15:33:41.000Z",
-          "wordCount": 2461,
-          "title": "How to Earn from POS?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*tB9euOofuByPdQGG.jpg"
-        },
-        {
-          "id": "https://medium.com/p/399f3bfa94ac",
-          "author": "Ethan Rouimi",
-          "description": "Developers have always wanted to communicate between chains, but the ways that these blockchains were created, this native implementation…",
-          "link": "https://coinsbench.com/ccip-the-internet-of-blockchains-399f3bfa94ac?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-11T15:33:37.000Z",
-          "wordCount": 3988,
-          "title": "CCIP the Internet of Blockchains",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UupQK1HwWXqQ6jiVhWx2UQ.jpeg"
         }
       ]
     },

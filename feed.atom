@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-16T16:14:57.438Z</id>
+    <id>urn:2023-08-16T17:10:00.884Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-16T16:14:57.438Z</updated>
+    <updated>2023-08-16T17:10:00.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[damn-vulnerable-defi | Naive receiver]]></title>
+        <id>https://medium.com/p/b2edc9b6edf4</id>
+        <link href="https://coinsbench.com/damn-vulnerable-defi-naive-receiver-b2edc9b6edf4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-16T16:30:52.000Z</updated>
+        <summary type="html"><![CDATA[I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…]]></summary>
+        <author>
+            <name>Zachchou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[damn-vulnerable-defi | Truster]]></title>
+        <id>https://medium.com/p/3e4e13b7e8b8</id>
+        <link href="https://coinsbench.com/damn-vulnerable-defi-truster-3e4e13b7e8b8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-16T16:30:31.000Z</updated>
+        <summary type="html"><![CDATA[I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…]]></summary>
+        <author>
+            <name>Zachchou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bot Racing: The Rise of Web3 Bots.]]></title>
+        <id>https://medium.com/p/3abda06cd448</id>
+        <link href="https://coinsbench.com/bot-racing-the-rise-of-web3-bots-3abda06cd448?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-16T16:30:28.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: MEV bots, flashbots, liquidation bots… it’s time to start building.]]></summary>
+        <author>
+            <name>John Lawniczak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 Days of Solidity. Day 1. SPDX License. Pragma. Contracts.]]></title>
+        <id>https://medium.com/p/c28f2f6f92fd</id>
+        <link href="https://coinsbench.com/30-days-of-solidity-day-1-spdx-license-pragma-contracts-c28f2f6f92fd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-16T16:29:37.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to 30 Days of Solidity’s Day 1 from CodeDamn. GitHub repo is here: https://github.com/javascript-queen/30DaysOfSolidity/tree/main]]></summary>
+        <author>
+            <name>JS Queen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Impact of Solidity in the Blockchain Industry.]]></title>
+        <id>https://medium.com/p/7ec19f5291ba</id>
+        <link href="https://coinsbench.com/the-impact-of-solidity-in-the-blockchain-industry-7ec19f5291ba?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-16T16:29:35.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, the rapid development of blockchain technology and cryptocurrencies has influenced the financial industry by creating a…]]></summary>
+        <author>
+            <name>IMMANUEL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Series #3 — Unraveling Stablecoins: An Essential Guide for Technophiles Exploring DeFi]]></title>
+        <id>https://medium.com/p/6a14c9fa2f6f</id>
+        <link href="https://coinsbench.com/defi-series-3-unraveling-stablecoins-an-essential-guide-for-technophiles-exploring-defi-6a14c9fa2f6f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-16T16:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Andrew Prasaath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js App Router Dapp Hosted on IFPS with RainbowKit, Wagmi and Fleek]]></title>
+        <id>https://medium.com/p/76e2f5c97c5b</id>
+        <link href="https://coinsbench.com/next-js-app-router-dapp-hosted-on-ifps-with-rainbowkit-wagmi-and-fleek-76e2f5c97c5b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-16T16:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Build a Web3 Dapp with Next.js 13 App Router]]></summary>
+        <author>
+            <name>Beach Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Donald Trump’s Crypto Holdings: A Surprising Twist in the Former President’s Financial Portfolio]]></title>
         <id>https://medium.com/p/5d1e30c98c8a</id>
@@ -142,26 +212,6 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zero Knowledge Proofs: A Comprehensive Technical Guide]]></title>
-        <id>https://medium.com/p/bb997fa46a3d</id>
-        <link href="https://coinsbench.com/zero-knowledge-proofs-a-comprehensive-technical-guide-bb997fa46a3d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-14T13:43:33.000Z</updated>
-        <summary type="html"><![CDATA[Zero Knowledge Proofs (ZKPs) are cryptographic protocols that enable one party to prove to another that a statement is true without…]]></summary>
-        <author>
-            <name>Andrew Prasaath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxy Simplified Series.]]></title>
-        <id>https://medium.com/p/7e6ce3ca6419</id>
-        <link href="https://coinsbench.com/proxy-simplified-series-7e6ce3ca6419?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-14T13:43:26.000Z</updated>
-        <summary type="html"><![CDATA[Part 2:]]></summary>
-        <author>
-            <name>okolicodes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beyond Default Messages: Mastering Custom Errors in Solidity]]></title>
         <id>https://medium.com/p/3160f4a2806</id>
         <link href="https://blog.blockmagnates.com/beyond-default-messages-mastering-custom-errors-in-solidity-3160f4a2806?source=rss----18fa961f1eff--solidity"/>
@@ -193,16 +243,6 @@ Continue reading on Block Magnates »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding Reentrancy Vulnerabilities in Ethereum Smart Contracts: Risks and Solutions]]></title>
-        <id>https://medium.com/p/7a808c705790</id>
-        <link href="https://coinsbench.com/understanding-reentrancy-vulnerabilities-in-ethereum-smart-contracts-risks-and-solutions-7a808c705790?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-12T06:36:22.000Z</updated>
-        <summary type="html"><![CDATA[A Reentrancy attack is a security vulnerability that occurs in the blockchain, it occurs when a smart contract can call the function in an…]]></summary>
-        <author>
-            <name>Abusomwan Santos</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevNTell - Koinos Account Protocol]]></title>
         <id>https://blog.developerdao.com/devntell-koinos-account-protocol</id>
         <link href="https://blog.developerdao.com/devntell-koinos-account-protocol"/>
@@ -229,46 +269,6 @@ Kui: https://twitter.com/kuixihe
 https://www.youtube.com/watch?v=xJAPbmlxp3c]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Series #2: Decentralized Exchanges (DEXs): Design, Architecture, and Security Considerations]]></title>
-        <id>https://medium.com/p/597e138d5127</id>
-        <link href="https://coinsbench.com/defi-series-2-decentralized-exchanges-dexs-design-architecture-and-security-considerations-597e138d5127?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-11T15:43:26.000Z</updated>
-        <summary type="html"><![CDATA[Introduction:]]></summary>
-        <author>
-            <name>Andrew Prasaath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Diamond Pattern (EIP-2535) in Solidity Smart Contract Development]]></title>
-        <id>https://medium.com/p/4b14eb916d43</id>
-        <link href="https://coinsbench.com/exploring-the-diamond-pattern-eip-2535-in-solidity-smart-contract-development-4b14eb916d43?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-11T15:43:22.000Z</updated>
-        <summary type="html"><![CDATA[Smart contract development on the Ethereum blockchain constantly seeks innovative ways to address challenges such as upgradability, gas…]]></summary>
-        <author>
-            <name>Andrew Prasaath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Earn from POS?]]></title>
-        <id>https://medium.com/p/dbe99d16397f</id>
-        <link href="https://coinsbench.com/how-to-earn-from-pos-dbe99d16397f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-11T15:33:41.000Z</updated>
-        <summary type="html"><![CDATA[Lido is a decentralized finance (DeFi) protocol that allows users to stake their ETH and earn rewards while maintaining liquidity. By using…]]></summary>
-        <author>
-            <name>Crypto Truster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CCIP the Internet of Blockchains]]></title>
-        <id>https://medium.com/p/399f3bfa94ac</id>
-        <link href="https://coinsbench.com/ccip-the-internet-of-blockchains-399f3bfa94ac?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-11T15:33:37.000Z</updated>
-        <summary type="html"><![CDATA[Developers have always wanted to communicate between chains, but the ways that these blockchains were created, this native implementation…]]></summary>
-        <author>
-            <name>Ethan Rouimi</name>
         </author>
     </entry>
     <entry>
