@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-18T13:13:15.671Z</id>
+    <id>urn:2023-08-18T14:10:03.186Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-18T13:13:15.671Z</updated>
+    <updated>2023-08-18T14:10:03.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -123,6 +123,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/3e4e13b7e8b8</id>
         <link href="https://coinsbench.com/damn-vulnerable-defi-truster-3e4e13b7e8b8?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-16T16:30:31.000Z</updated>
+        <summary type="html"><![CDATA[I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…]]></summary>
         <author>
             <name>Zachchou</name>
         </author>
@@ -132,6 +133,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/3abda06cd448</id>
         <link href="https://coinsbench.com/bot-racing-the-rise-of-web3-bots-3abda06cd448?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-16T16:30:28.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: MEV bots, flashbots, liquidation bots… it’s time to start building.]]></summary>
         <author>
             <name>John Lawniczak</name>
         </author>
@@ -161,6 +163,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/6a14c9fa2f6f</id>
         <link href="https://coinsbench.com/defi-series-3-unraveling-stablecoins-an-essential-guide-for-technophiles-exploring-defi-6a14c9fa2f6f?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-16T16:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Andrew Prasaath</name>
         </author>
@@ -223,6 +226,7 @@ Continue reading on Block Magnates »]]></summary>
         <id>https://medium.com/p/6066cb112603</id>
         <link href="https://blog.blockmagnates.com/building-a-blockchain-application-with-smart-contracts-using-solidity-and-ethereum-6066cb112603?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-14T13:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Step 1: Setting Up the Development Environment]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -232,6 +236,7 @@ Continue reading on Block Magnates »]]></summary>
         <id>https://medium.com/p/ca0b35165788</id>
         <link href="https://blog.blockmagnates.com/create-a-fallback-retry-provider-for-jsonrpcprovider-ca0b35165788?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-14T13:15:11.000Z</updated>
+        <summary type="html"><![CDATA[We’ll create a custom JsonRpcProvider with retry capabilities as well as fallback node URLs.]]></summary>
         <author>
             <name>Jan Cibulka</name>
         </author>
