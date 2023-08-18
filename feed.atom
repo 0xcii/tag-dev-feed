@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-18T15:11:17.645Z</id>
+    <id>urn:2023-08-18T16:14:08.157Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-18T15:11:17.645Z</updated>
+    <updated>2023-08-18T16:14:08.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Exploring Remix Storage Factory: A Deep Dive into Ethereum’s Storage Layout]]></title>
+        <id>https://medium.com/p/8308e9a682d4</id>
+        <link href="https://blog.blockmagnates.com/exploring-remix-storage-factory-a-deep-dive-into-ethereums-storage-layout-8308e9a682d4?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-08-18T16:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s Solidity language and its associated tools have evolved rapidly, providing developers with a wealth of features. One such tool…]]></summary>
+        <author>
+            <name>Bintang Miftaqul Huda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Constructing zk-SNARKs on Ethereum: A Technical Exploration]]></title>
+        <id>https://medium.com/p/2eb6dfc11d85</id>
+        <link href="https://blog.blockmagnates.com/constructing-zk-snarks-on-ethereum-a-technical-exploration-2eb6dfc11d85?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-08-18T16:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Zero-Knowledge Proofs (ZKPs) have garnered significant attention in the blockchain sphere, particularly zk-SNARKs. Standing for…]]></summary>
+        <author>
+            <name>Bintang Miftaqul Huda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Gas Usage in Ethereum Smart Contracts]]></title>
+        <id>https://medium.com/p/3507242ce70b</id>
+        <link href="https://blog.blockmagnates.com/optimizing-gas-usage-in-ethereum-smart-contracts-3507242ce70b?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-08-18T16:11:48.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to the Ethereum blockchain, one of the most discussed topics among developers is gas. Gas is essentially the fee required to…]]></summary>
+        <author>
+            <name>Bintang Miftaqul Huda</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Crashes 8% Falling Below $26k in Less Than 10 Minutes]]></title>
         <id>https://medium.com/p/6bcff2f8a44c</id>
