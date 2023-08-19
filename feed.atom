@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-19T02:12:54.446Z</id>
+    <id>urn:2023-08-19T03:11:43.512Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-19T02:12:54.446Z</updated>
+    <updated>2023-08-19T03:11:43.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,6 +10,7 @@
         <id>https://medium.com/p/8308e9a682d4</id>
         <link href="https://blog.blockmagnates.com/exploring-remix-storage-factory-a-deep-dive-into-ethereums-storage-layout-8308e9a682d4?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s Solidity language and its associated tools have evolved rapidly, providing developers with a wealth of features. One such tool…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -19,6 +20,7 @@
         <id>https://medium.com/p/2eb6dfc11d85</id>
         <link href="https://blog.blockmagnates.com/constructing-zk-snarks-on-ethereum-a-technical-exploration-2eb6dfc11d85?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Zero-Knowledge Proofs (ZKPs) have garnered significant attention in the blockchain sphere, particularly zk-SNARKs. Standing for…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -28,6 +30,7 @@
         <id>https://medium.com/p/3507242ce70b</id>
         <link href="https://blog.blockmagnates.com/optimizing-gas-usage-in-ethereum-smart-contracts-3507242ce70b?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:11:48.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to the Ethereum blockchain, one of the most discussed topics among developers is gas. Gas is essentially the fee required to…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -140,6 +143,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/b2edc9b6edf4</id>
         <link href="https://coinsbench.com/damn-vulnerable-defi-naive-receiver-b2edc9b6edf4?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-16T16:30:52.000Z</updated>
+        <summary type="html"><![CDATA[I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…]]></summary>
         <author>
             <name>Zachchou</name>
         </author>
@@ -159,6 +163,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/3abda06cd448</id>
         <link href="https://coinsbench.com/bot-racing-the-rise-of-web3-bots-3abda06cd448?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-16T16:30:28.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: MEV bots, flashbots, liquidation bots… it’s time to start building.]]></summary>
         <author>
             <name>John Lawniczak</name>
         </author>
@@ -168,6 +173,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/c28f2f6f92fd</id>
         <link href="https://coinsbench.com/30-days-of-solidity-day-1-spdx-license-pragma-contracts-c28f2f6f92fd?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-16T16:29:37.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to 30 Days of Solidity’s Day 1 from CodeDamn. GitHub repo is here: https://github.com/javascript-queen/30DaysOfSolidity/tree/main]]></summary>
         <author>
             <name>JS Queen</name>
         </author>
@@ -177,6 +183,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/7ec19f5291ba</id>
         <link href="https://coinsbench.com/the-impact-of-solidity-in-the-blockchain-industry-7ec19f5291ba?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-16T16:29:35.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, the rapid development of blockchain technology and cryptocurrencies has influenced the financial industry by creating a…]]></summary>
         <author>
             <name>IMMANUEL</name>
         </author>
@@ -186,6 +193,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/6a14c9fa2f6f</id>
         <link href="https://coinsbench.com/defi-series-3-unraveling-stablecoins-an-essential-guide-for-technophiles-exploring-defi-6a14c9fa2f6f?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-16T16:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Andrew Prasaath</name>
         </author>
@@ -195,6 +203,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/76e2f5c97c5b</id>
         <link href="https://coinsbench.com/next-js-app-router-dapp-hosted-on-ifps-with-rainbowkit-wagmi-and-fleek-76e2f5c97c5b?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-16T16:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Build a Web3 Dapp with Next.js 13 App Router]]></summary>
         <author>
             <name>Beach Crypto</name>
         </author>
@@ -204,6 +213,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/c5aa14513c4d</id>
         <link href="https://coinsbench.com/understanding-impermanent-loss-in-defi-c5aa14513c4d?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-14T13:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Impermanent loss is a concept that applies to liquidity providers in decentralized finance (DeFi) platforms, particularly in automated…]]></summary>
         <author>
             <name>Crypto Truster</name>
         </author>
@@ -246,6 +256,7 @@ Continue reading on Block Magnates »]]></summary>
         <id>https://medium.com/p/6066cb112603</id>
         <link href="https://blog.blockmagnates.com/building-a-blockchain-application-with-smart-contracts-using-solidity-and-ethereum-6066cb112603?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-14T13:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Step 1: Setting Up the Development Environment]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -255,6 +266,7 @@ Continue reading on Block Magnates »]]></summary>
         <id>https://medium.com/p/ca0b35165788</id>
         <link href="https://blog.blockmagnates.com/create-a-fallback-retry-provider-for-jsonrpcprovider-ca0b35165788?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-14T13:15:11.000Z</updated>
+        <summary type="html"><![CDATA[We’ll create a custom JsonRpcProvider with retry capabilities as well as fallback node URLs.]]></summary>
         <author>
             <name>Jan Cibulka</name>
         </author>
