@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -55,12 +61,12 @@
         {
           "id": "https://medium.com/p/3e4e13b7e8b8",
           "author": "Zachchou",
-          "description": "",
+          "description": "I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…",
           "link": "https://coinsbench.com/damn-vulnerable-defi-truster-3e4e13b7e8b8?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-16T16:30:31.000Z",
-          "wordCount": null,
+          "wordCount": 2291,
           "title": "damn-vulnerable-defi | Truster",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*8QosYrSELunCHi_B1NzVTg.jpeg"
         },
         {
           "id": "https://medium.com/p/3abda06cd448",
