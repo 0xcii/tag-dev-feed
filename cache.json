@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -74,7 +68,7 @@
           "description": "TLDR: MEV bots, flashbots, liquidation bots… it’s time to start building.",
           "link": "https://coinsbench.com/bot-racing-the-rise-of-web3-bots-3abda06cd448?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-16T16:30:28.000Z",
-          "wordCount": 3107,
+          "wordCount": 3103,
           "title": "Bot Racing: The Rise of Web3 Bots.",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:299/1*dax9daFaYzv9wkUdQo4tvw.gif"
         },
@@ -84,7 +78,7 @@
           "description": "Welcome to 30 Days of Solidity’s Day 1 from CodeDamn. GitHub repo is here: https://github.com/javascript-queen/30DaysOfSolidity/tree/main",
           "link": "https://coinsbench.com/30-days-of-solidity-day-1-spdx-license-pragma-contracts-c28f2f6f92fd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-16T16:29:37.000Z",
-          "wordCount": 3059,
+          "wordCount": 3058,
           "title": "30 Days of Solidity. Day 1. SPDX License. Pragma. Contracts.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KCaqpTPHCmnsd2OhHuzyqQ.png"
         },
@@ -94,7 +88,7 @@
           "description": "In recent years, the rapid development of blockchain technology and cryptocurrencies has influenced the financial industry by creating a…",
           "link": "https://coinsbench.com/the-impact-of-solidity-in-the-blockchain-industry-7ec19f5291ba?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-16T16:29:35.000Z",
-          "wordCount": 4386,
+          "wordCount": 4404,
           "title": "The Impact of Solidity in the Blockchain Industry.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9Yfuk8mFhBJ7dxCn"
         },
@@ -104,7 +98,7 @@
           "description": "Introduction",
           "link": "https://coinsbench.com/defi-series-3-unraveling-stablecoins-an-essential-guide-for-technophiles-exploring-defi-6a14c9fa2f6f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-16T16:29:34.000Z",
-          "wordCount": 2284,
+          "wordCount": 2305,
           "title": "DeFi Series #3 — Unraveling Stablecoins: An Essential Guide for Technophiles Exploring DeFi",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:600/0*wbZxST9DyM04FSBc"
         },
@@ -134,7 +128,7 @@
           "description": "Weeks 5, 6 & 7 — My Journey to Becoming a Smart Contract Auditor\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/two-months-in-my-progress-to-becoming-a-smart-contract-auditor-9fed250529b4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-14T13:44:14.000Z",
-          "wordCount": 2250,
+          "wordCount": 2218,
           "title": "Two Months In: My Progress to Becoming a Smart Contract Auditor",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*PDaawgZwZLdspWdT"
         },
@@ -156,104 +150,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/6bcff2f8a44c",
-          "author": "36Crypto",
-          "description": "Leading cryptocurrency Bitcoin crashed 8% on August 17 with the price falling below $26k for the first time since June. The sharp decline…",
-          "link": "https://medium.com/coinmonks/bitcoin-crashes-8-falling-below-26k-in-less-than-10-minutes-6bcff2f8a44c?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-18T13:06:09.000Z",
-          "wordCount": 2747,
-          "title": "Bitcoin Crashes 8% Falling Below $26k in Less Than 10 Minutes",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*G-W7mA31ghJcGMFo2GGrBA.jpeg"
+          "id": "https://medium.com/p/c493c99d7656",
+          "author": "Dmitry K",
+          "description": "There are different ways to increase profits in the cryptocurrency industry, and the maximum extractable value (MEV) strategy has become…",
+          "link": "https://medium.com/coinmonks/what-is-the-maximum-extractable-value-in-cryptocurrency-c493c99d7656?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-21T12:05:56.000Z",
+          "wordCount": 4703,
+          "title": "What is the maximum extractable value in cryptocurrency",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:961/1*bMiVDm6086gWBTS-YTbMqQ.png"
         },
         {
-          "id": "https://medium.com/p/fc3a8001de33",
+          "id": "https://medium.com/p/94a34fdd966c",
+          "author": "Coin Genetics",
+          "description": "Hey there, future crypto miners and tech-savvy adventurers! 🚀 It’s your crypto-comrade Durgesh, ready to guide you through the epic quest…",
+          "link": "https://medium.com/coinmonks/crypto-mining-from-potato-pc-to-digital-gold-unveiling-the-treasure-hunt-94a34fdd966c?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-21T12:05:55.000Z",
+          "wordCount": 2771,
+          "title": "Crypto Mining: From Potato PC to Digital Gold — Unveiling the Treasure Hunt!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*57dYcDFbxCxmDDGpR_gWeg.png"
+        },
+        {
+          "id": "https://medium.com/p/8a05032a77e0",
+          "author": "Crypto Stop",
+          "description": "Have you ever had a groundbreaking idea that you believed could revolutionize the world? From an innovative gadget to a new software application, turning your vision into a tangible reality requires…",
+          "link": "https://medium.com/coinmonks/unveiling-the-magic-of-proof-of-concept-turning-ideas-into-reality-8a05032a77e0?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-21T12:05:53.000Z",
+          "wordCount": 2905,
+          "title": "Unveiling the Magic of Proof of Concept: Turning Ideas into Reality",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/1*wAR8W7imswirPXTjOVlVNg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/ed4a14ee6f9",
+          "author": "Five Minute Finance",
+          "description": "Sign up for The Tokenist’s free daily newsletter and never miss a breaking development in macro finance.",
+          "link": "https://medium.com/coinmonks/five-minute-finance-the-china-us-treasury-relationship-explaining-burrys-new-bet-more-ed4a14ee6f9?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-21T12:05:51.000Z",
+          "wordCount": 6232,
+          "title": "FIVE MINUTE FINANCE: THE CHINA-US TREASURY RELATIONSHIP, EXPLAINING BURRY’S NEW BET, MORE",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1_8XYSXknvFAisbfvJN_SQ.png"
+        },
+        {
+          "id": "https://medium.com/p/433bba0739ec",
+          "author": "Wolf Society Foundation",
+          "description": "Sunage is a Uruguayan American female artist. She has an unwavering passion for creating one-of-a-kind pieces of art. Her work is often…",
+          "link": "https://medium.com/coinmonks/how-its-made-unraveling-reflection-of-polluted-thoughts-by-sunage-433bba0739ec?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-21T12:05:49.000Z",
+          "wordCount": 4128,
+          "title": "How It’s Made: Unraveling Reflection of Polluted Thoughts by Sunage",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:720/1*xTfg7MSouCrN86lb-z06jg.gif"
+        },
+        {
+          "id": "https://medium.com/p/8fa77925bdf9",
+          "author": "Wikist",
+          "description": "GM, Web3Daily readers!",
+          "link": "https://medium.com/coinmonks/%EF%B8%8F-worldcoin-utopian-or-dystopian-future-8fa77925bdf9?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-21T12:05:48.000Z",
+          "wordCount": 7373,
+          "title": "️ WorldCoin — Utopian or Dystopian Future?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ExbtWXBpxhfxzC3OYv2VVw.png"
+        },
+        {
+          "id": "https://medium.com/p/fea960335408",
+          "author": "Coin Genetics",
+          "description": "Hey there, fellow crypto adventurers! We’ve all been there — the market takes a dive, and panic sets in. But fear not! In this blog, we’ll…",
+          "link": "https://medium.com/coinmonks/surviving-the-crypto-plunge-what-to-do-when-the-market-is-falling-fea960335408?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-21T12:05:42.000Z",
+          "wordCount": 3095,
+          "title": "Surviving the Crypto Plunge: What to Do When the Market is Falling.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*04ZV2Du2xRIW8PO2vXyirA.png"
+        },
+        {
+          "id": "https://medium.com/p/728c39d6e950",
+          "author": "YAROCELIS.eth - Tech Trends",
+          "description": "Hello Everyone 🙏,",
+          "link": "https://medium.com/coinmonks/publishers-vs-ai-stop-using-our-content-%EF%B8%8F-is-getting-paid-hourly-an-outdated-model-728c39d6e950?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-21T12:05:41.000Z",
+          "wordCount": 3537,
+          "title": "Publishers vs. AI: Stop using our content. + ⚰️ Is getting paid hourly an outdated model?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:690/0*FapEFrf6e_WDgxqs.png"
+        },
+        {
+          "id": "https://medium.com/p/57f957c2d904",
           "author": "JS Queen",
-          "description": "Welcome to 30 Days of Solidity’s Day 2 from CodeDamn.",
-          "link": "https://medium.com/coinmonks/30-days-of-solidity-day-2-spdx-license-pragma-contracts-fc3a8001de33?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-18T13:06:07.000Z",
-          "wordCount": 3157,
-          "title": "30 Days of Solidity. Day 2. SPDX License. Pragma. Contracts.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mYuA2txML3AZxHOhYH3XuQ.png"
+          "description": "Hello y’all! Welcome to 30 Days of Solidity’s Day 4 from CodeDamn.",
+          "link": "https://medium.com/coinmonks/30-days-of-solidity-day-4-remix-gas-costs-57f957c2d904?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-21T12:05:39.000Z",
+          "wordCount": 3207,
+          "title": "30 Days of Solidity. Day 4. Remix. Gas Costs.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vyUUA4BsZMO4ENKB72I2ag.png"
         },
         {
-          "id": "https://medium.com/p/6dd9c04fed77",
-          "author": "Crypto with Kieron",
-          "description": "Riding the NFT Wave 🌊:\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/from-buzz-to-boom-why-the-hell-do-we-still-care-about-nfts-6dd9c04fed77?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-18T13:06:05.000Z",
-          "wordCount": 2448,
-          "title": "From Buzz to Boom: Why the Hell Do We Still Care About NFTs?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KX188jX7dXSxOX3nhDzYAg.png"
-        },
-        {
-          "id": "https://medium.com/p/2aa0e3caff97",
-          "author": "PVMihalache",
-          "description": "All the civilizations are talking about dragons, fire-breathing reptilian creatures that ruled the skies. Some folklore may dragonize…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-dragonflight-folklore-and-myths-splinterlands-battle-challenge-with-scales-2aa0e3caff97?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-18T13:06:04.000Z",
-          "wordCount": 2312,
-          "title": "The Dragonflight Folklore and Myths — Splinterlands Battle Challenge with scales",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:768/0*VNVDE96-jDSkCc-V.png"
-        },
-        {
-          "id": "https://medium.com/p/3469193d37fa",
-          "author": "Metcalfe",
-          "description": "Web3 is the next generation of the internet, where users have more control, ownership, and freedom over their data, identity, and assets…",
-          "link": "https://medium.com/coinmonks/how-to-become-a-web3-data-analyst-skills-resources-and-opportunities-3469193d37fa?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-18T13:06:00.000Z",
-          "wordCount": 4079,
-          "title": "How to Become a Web3 Data Analyst: Skills, Resources, and Opportunities",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*7uMaYARjvgPleUte"
-        },
-        {
-          "id": "https://medium.com/p/f58d4a78438b",
-          "author": "Ahmed Sharfi",
-          "description": "In a groundbreaking move that echoes the growing influence of cryptocurrencies in the financial landscape, Amazon and Ripple have embarked…",
-          "link": "https://medium.com/coinmonks/embracing-a-new-partnership-amazon-joins-forces-with-ripple-f58d4a78438b?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-18T13:05:48.000Z",
-          "wordCount": 3362,
-          "title": "Embracing a New Partnership: Amazon Joins Forces with Ripple",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1192/1*pkdEq1uXXqtP5FZhdvX9yA.png"
-        },
-        {
-          "id": "https://medium.com/p/44d9b5f5068f",
-          "author": "Ojone",
-          "description": "One paragraph at a time, I’ll be breaking this piece into smaller pieces. Let me begin by describing Centralized Finance and Decentralized…",
-          "link": "https://medium.com/coinmonks/a-piece-of-web3-defi-44d9b5f5068f?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-18T13:05:46.000Z",
-          "wordCount": 3318,
-          "title": "A PIECE OF WEB3; DEFI",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yawMy9BJmMj19DZ5NmBw2A@2x.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/a950e890e1be",
-          "author": "Knidos.eth",
-          "description": "The proposed Satoshi-Pegged Token Ecosystem seeks to offer more than just a fresh perspective on the cryptocurrency realm. It presents a…",
-          "link": "https://medium.com/coinmonks/introducing-the-satoshi-pegged-token-ecosystem-a-comprehensive-guide-a950e890e1be?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-18T13:05:43.000Z",
-          "wordCount": 2936,
-          "title": "Introducing the Satoshi-Pegged Token Ecosystem: A Comprehensive Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*AdygnbVJ2CSUOUIUo9XO0A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/cabb05cb8a73",
-          "author": "Mr. Plan ₿",
-          "description": "Axie Infinity (AXI)\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/3-game-cryptocurrencies-to-buy-in-august-2023-cabb05cb8a73?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-18T13:05:40.000Z",
-          "wordCount": 2272,
-          "title": "3 Game Cryptocurrencies to Buy In August 2023",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*SA2FokHPDbmVu0VL1KDP5w.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e35aad9aaa83",
-          "author": "Albert Peter",
-          "description": "Explore innovative NFT marketing strategies. Discover insights that redefine brand promotion in the evolving digital landscape.",
-          "link": "https://medium.com/coinmonks/beyond-traditional-tactics-nft-marketing-services-innovation-insights-e35aad9aaa83?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-08-18T13:05:40.000Z",
-          "wordCount": 6544,
-          "title": "Beyond Traditional Tactics: NFT Marketing Service’s Innovation Insights",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BZkgPs63BDeuBnAkVweWVA.jpeg"
+          "id": "https://medium.com/p/5fd37bafa3eb",
+          "author": "Crypto Crumb Snatchers⧦",
+          "description": "Laughing All the Way to the Blockchain: A Lighter Look at Cryptocurrency!\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/crypto-crumb-comedy-top-10-blockchain-jokes-for-a-good-laugh-5fd37bafa3eb?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-08-21T12:05:37.000Z",
+          "wordCount": 2442,
+          "title": "Crypto Crumb Comedy: Top 10 Blockchain Jokes for a Good Laugh!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*g53eWWkHGQibNtcDpLkZXg@2x.jpeg"
         }
       ]
     },
@@ -278,7 +272,7 @@
           "description": "Zero-Knowledge Proofs (ZKPs) have garnered significant attention in the blockchain sphere, particularly zk-SNARKs. Standing for…",
           "link": "https://blog.blockmagnates.com/constructing-zk-snarks-on-ethereum-a-technical-exploration-2eb6dfc11d85?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-18T16:13:05.000Z",
-          "wordCount": 2078,
+          "wordCount": 2099,
           "title": "Constructing zk-SNARKs on Ethereum: A Technical Exploration",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*seVU0rQdIbp3E-MT"
         },
@@ -308,7 +302,7 @@
           "description": "Step 1: Setting Up the Development Environment",
           "link": "https://blog.blockmagnates.com/building-a-blockchain-application-with-smart-contracts-using-solidity-and-ethereum-6066cb112603?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-14T13:15:12.000Z",
-          "wordCount": 2289,
+          "wordCount": 2310,
           "title": "Building a Blockchain Application with Smart Contracts Using Solidity and Ethereum",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*TD296GUN8Fy6xJrI"
         },
