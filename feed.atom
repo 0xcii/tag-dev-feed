@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-21T21:09:41.020Z</id>
+    <id>urn:2023-08-21T22:10:14.980Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-21T21:09:41.020Z</updated>
+    <updated>2023-08-21T22:10:14.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -100,6 +100,7 @@
         <id>https://medium.com/p/3eedd45f3c02</id>
         <link href="https://medium.com/coinmonks/solidity-data-locations-storage-memory-calldata-3eedd45f3c02?source=rss----721b17443fd5---4"/>
         <updated>2023-08-21T12:11:27.000Z</updated>
+        <summary type="html"><![CDATA[Data location is an important topic in programming field, where you need to know where are your variables stored, and how can you access…]]></summary>
         <author>
             <name>Al-Qa'qa'</name>
         </author>
