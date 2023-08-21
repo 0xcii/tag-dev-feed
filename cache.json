@@ -49,14 +49,94 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/d1964eecc0aa",
+          "author": "Darlington Gospel",
+          "description": "In this comprehensive tutorial, consider us your companions on an exhilarating journey to construct an advanced Web3 Play-To-Earn Money…",
+          "link": "https://coinsbench.com/how-to-build-a-web3-play-to-earn-money-dapp-with-react-solidity-and-cometchat-d1964eecc0aa?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-21T14:43:37.000Z",
+          "wordCount": 9885,
+          "title": "How to Build a Web3 Play-To-Earn Money Dapp with React, Solidity, and CometChat",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*DgThnZrvsC4SPKH0kJS_jg.png"
+        },
+        {
+          "id": "https://medium.com/p/1d12315fa011",
+          "author": "Unegare",
+          "description": "It might strike you as a pair of unrelated titles, but, in actual fact, they are the spitting image of each other to some extent, when it…",
+          "link": "https://coinsbench.com/balancer-solana-what-do-they-have-in-common-1d12315fa011?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-21T14:43:28.000Z",
+          "wordCount": 3115,
+          "title": "Balancer & Solana: What do they have in common?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/22517cfc0308",
+          "author": "JS Queen",
+          "description": "Hello lovely people! Welcome to 30 Days of Solidity’s Day 4from CodeDamn.",
+          "link": "https://coinsbench.com/30-days-of-solidity-day-3-getter-setter-uint-int-22517cfc0308?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-21T14:43:25.000Z",
+          "wordCount": 3129,
+          "title": "30 Days of Solidity. Day 3. Getter. Setter. Uint. Int.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*z4uW3d4C20TJvUehWWOJng.png"
+        },
+        {
+          "id": "https://medium.com/p/220ca4989923",
+          "author": "Zachchou",
+          "description": "I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…",
+          "link": "https://coinsbench.com/damn-vulnerable-defi-unstoppable-220ca4989923?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-21T14:43:22.000Z",
+          "wordCount": 2641,
+          "title": "damn-vulnerable-defi | Unstoppable",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*8QosYrSELunCHi_B1NzVTg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/cb75c9645b49",
+          "author": "Mrexamples",
+          "description": "In this article, we’ll explore the key aspects of a Solidity style guide that ensures your smart contracts are not only functional but also…",
+          "link": "https://coinsbench.com/solidity-style-guide-best-practices-for-writing-clean-and-readable-smart-contracts-cb75c9645b49?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-21T14:43:20.000Z",
+          "wordCount": 2940,
+          "title": "Solidity Style Guide: Best Practices for Writing Clean and Readable Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*iv7TONLe7gnWoRCYPhG-aw.png"
+        },
+        {
+          "id": "https://medium.com/p/217f8e5cfde4",
+          "author": "JS Queen",
+          "description": "Hello people! Welcome to 30 Days of Solidity’s Day 7 from CodeDamn.",
+          "link": "https://coinsbench.com/30-days-of-solidity-day-7-solidity-math-pain-217f8e5cfde4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-21T14:43:15.000Z",
+          "wordCount": 2813,
+          "title": "30 Days of Solidity. Day 7. Solidity. Math. Pain.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OFUE4IKUg_o56wMGVh0a_Q.png"
+        },
+        {
+          "id": "https://medium.com/p/f854806de7dd",
+          "author": "Andrew Prasaath",
+          "description": "Scalability has been a persistent challenge for Ethereum, limiting its throughput and driving up transaction costs during periods of high…",
+          "link": "https://coinsbench.com/unleashing-ethereums-full-potential-with-layer-2-scaling-techniques-f854806de7dd?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-21T14:43:11.000Z",
+          "wordCount": 3376,
+          "title": "Unleashing Ethereum’s Full Potential with Layer 2 Scaling Techniques",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*X7-vxpza9OziBm5o.png"
+        },
+        {
+          "id": "https://medium.com/p/7a41539aed9b",
+          "author": "albertwhite",
+          "description": "On August 1st, 2023, LeetSwap experienced a catastrophic breach, resulting in the loss of over 340 ETH. In this article, we delve into the…",
+          "link": "https://coinsbench.com/how-and-why-leetswap-got-exploited-7a41539aed9b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-21T14:43:09.000Z",
+          "wordCount": 2179,
+          "title": "How and why leetswap got exploited",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WyfUKyQXMkw43gKp1QCeKg.png"
+        },
+        {
           "id": "https://medium.com/p/b2edc9b6edf4",
           "author": "Zachchou",
-          "description": "",
+          "description": "I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…",
           "link": "https://coinsbench.com/damn-vulnerable-defi-naive-receiver-b2edc9b6edf4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-16T16:30:52.000Z",
-          "wordCount": null,
+          "wordCount": 2084,
           "title": "damn-vulnerable-defi | Naive receiver",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*8QosYrSELunCHi_B1NzVTg.jpeg"
         },
         {
           "id": "https://medium.com/p/3e4e13b7e8b8",
@@ -67,86 +147,6 @@
           "wordCount": 2291,
           "title": "damn-vulnerable-defi | Truster",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*8QosYrSELunCHi_B1NzVTg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3abda06cd448",
-          "author": "John Lawniczak",
-          "description": "",
-          "link": "https://coinsbench.com/bot-racing-the-rise-of-web3-bots-3abda06cd448?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-16T16:30:28.000Z",
-          "wordCount": null,
-          "title": "Bot Racing: The Rise of Web3 Bots.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c28f2f6f92fd",
-          "author": "JS Queen",
-          "description": "",
-          "link": "https://coinsbench.com/30-days-of-solidity-day-1-spdx-license-pragma-contracts-c28f2f6f92fd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-16T16:29:37.000Z",
-          "wordCount": null,
-          "title": "30 Days of Solidity. Day 1. SPDX License. Pragma. Contracts.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7ec19f5291ba",
-          "author": "IMMANUEL",
-          "description": "",
-          "link": "https://coinsbench.com/the-impact-of-solidity-in-the-blockchain-industry-7ec19f5291ba?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-16T16:29:35.000Z",
-          "wordCount": null,
-          "title": "The Impact of Solidity in the Blockchain Industry.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6a14c9fa2f6f",
-          "author": "Andrew Prasaath",
-          "description": "",
-          "link": "https://coinsbench.com/defi-series-3-unraveling-stablecoins-an-essential-guide-for-technophiles-exploring-defi-6a14c9fa2f6f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-16T16:29:34.000Z",
-          "wordCount": null,
-          "title": "DeFi Series #3 — Unraveling Stablecoins: An Essential Guide for Technophiles Exploring DeFi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/76e2f5c97c5b",
-          "author": "Beach Crypto",
-          "description": "",
-          "link": "https://coinsbench.com/next-js-app-router-dapp-hosted-on-ifps-with-rainbowkit-wagmi-and-fleek-76e2f5c97c5b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-16T16:29:29.000Z",
-          "wordCount": null,
-          "title": "Next.js App Router Dapp Hosted on IFPS with RainbowKit, Wagmi and Fleek",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c5aa14513c4d",
-          "author": "Crypto Truster",
-          "description": "",
-          "link": "https://coinsbench.com/understanding-impermanent-loss-in-defi-c5aa14513c4d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-14T13:44:35.000Z",
-          "wordCount": null,
-          "title": "Understanding Impermanent Loss in Defi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9fed250529b4",
-          "author": "James Lim",
-          "description": "Weeks 5, 6 & 7 — My Journey to Becoming a Smart Contract Auditor\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/two-months-in-my-progress-to-becoming-a-smart-contract-auditor-9fed250529b4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-14T13:44:14.000Z",
-          "wordCount": null,
-          "title": "Two Months In: My Progress to Becoming a Smart Contract Auditor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d8a8d8ceb047",
-          "author": "Lea Lobanov",
-          "description": "As blockchain technology continues to revolutionize various industries, smart contracts have emerged as a cornerstone of decentralized…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/unlocking-the-potential-advanced-smart-contract-programming-with-ink-d8a8d8ceb047?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-14T13:44:08.000Z",
-          "wordCount": null,
-          "title": "Unlocking the Potential: Advanced Smart Contract Programming with Ink!",
-          "imageUrl": null
         }
       ]
     },
@@ -161,7 +161,7 @@
           "description": "Data location is an important topic in programming field, where you need to know where are your variables stored, and how can you access…",
           "link": "https://medium.com/coinmonks/solidity-data-locations-storage-memory-calldata-3eedd45f3c02?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-21T12:11:27.000Z",
-          "wordCount": 2828,
+          "wordCount": 2798,
           "title": "Solidity Data locations | storage — memory — calldata",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Rer2yi26VIpidcds17M3qw.jpeg"
         },
@@ -171,7 +171,7 @@
           "description": "Elevate your NFT project with the perfect NFT marketing service. Expert strategies, community engagement, and blockchain integration…",
           "link": "https://medium.com/coinmonks/10-key-considerations-for-choosing-the-right-nft-marketing-service-9501bf2ef63e?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-21T12:11:27.000Z",
-          "wordCount": 3350,
+          "wordCount": 3380,
           "title": "10 Key Considerations for Choosing the Right NFT Marketing Service",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*sMYtdG_tq_OqQKTsUlyszA.png"
         },
@@ -181,7 +181,7 @@
           "description": "Table of Content",
           "link": "https://medium.com/coinmonks/nft-backed-ico-development-6d8eeb389813?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-21T12:11:23.000Z",
-          "wordCount": 4756,
+          "wordCount": 4672,
           "title": "NFT-Backed ICO Development Services: Transforming the Landscape of Fundraising",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*sJ4adYPbC9wBnBgc6Rv0WQ.png"
         },
@@ -191,7 +191,7 @@
           "description": "Table of Content",
           "link": "https://medium.com/coinmonks/nft-digital-twins-8c59c8f6be23?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-21T12:11:19.000Z",
-          "wordCount": 5334,
+          "wordCount": 5307,
           "title": "NFT Digital Twin: Unleashing the Future of Industries and Markets",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*-5GsGHfVzeuZ0w-GCdkkUg.jpeg"
         },
@@ -221,7 +221,7 @@
           "description": "⚡ The Shiba Inu community has exciting news to share as the Shibarium blockchain takes its big step forward by launching on the mainnet…",
           "link": "https://medium.com/coinmonks/shiba-inus-shibarium-blockchain-goes-live-on-mainnet-a22e004c0c2e?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-21T12:11:11.000Z",
-          "wordCount": 2898,
+          "wordCount": 2854,
           "title": "Shiba Inu’s Shibarium Blockchain Goes Live On Mainnet",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1140/1*YHG5AaTXl-TjtXKQtFgsow.png"
         },
@@ -265,52 +265,52 @@
         {
           "id": "https://medium.com/p/47dbd0d93623",
           "author": "udeshika perera",
-          "description": "",
+          "description": "What exactly is a Solidity event? When I first started learning, it really confused me while I was trying to fix issues in smart contracts…",
           "link": "https://blog.blockmagnates.com/solidity-events-and-logs-47dbd0d93623?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-21T12:30:09.000Z",
-          "wordCount": null,
+          "wordCount": 2592,
           "title": "Solidity Events and Logs",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1040/1*7u8u8AUQ5wldpTAYivcYQQ.png"
         },
         {
           "id": "https://medium.com/p/7f557bb29866",
           "author": "udeshika perera",
-          "description": "",
+          "description": "Fallback Function:",
           "link": "https://blog.blockmagnates.com/mastering-fallback-and-receive-functions-in-solidity-7f557bb29866?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-21T12:30:03.000Z",
-          "wordCount": null,
+          "wordCount": 2215,
           "title": "Fallback and Receive Functions in Solidity",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YnMj72Y-jlbWt1oZb-c7AA.png"
         },
         {
           "id": "https://medium.com/p/8308e9a682d4",
           "author": "Bintang Miftaqul Huda",
-          "description": "",
+          "description": "Ethereum’s Solidity language and its associated tools have evolved rapidly, providing developers with a wealth of features. One such tool…",
           "link": "https://blog.blockmagnates.com/exploring-remix-storage-factory-a-deep-dive-into-ethereums-storage-layout-8308e9a682d4?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-18T16:13:09.000Z",
-          "wordCount": null,
+          "wordCount": 2445,
           "title": "Exploring Remix Storage Factory: A Deep Dive into Ethereum’s Storage Layout",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*l8vv7aOKcKq0EoPG"
         },
         {
           "id": "https://medium.com/p/2eb6dfc11d85",
           "author": "Bintang Miftaqul Huda",
-          "description": "",
+          "description": "Zero-Knowledge Proofs (ZKPs) have garnered significant attention in the blockchain sphere, particularly zk-SNARKs. Standing for…",
           "link": "https://blog.blockmagnates.com/constructing-zk-snarks-on-ethereum-a-technical-exploration-2eb6dfc11d85?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-18T16:13:05.000Z",
-          "wordCount": null,
+          "wordCount": 2069,
           "title": "Constructing zk-SNARKs on Ethereum: A Technical Exploration",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*seVU0rQdIbp3E-MT"
         },
         {
           "id": "https://medium.com/p/3507242ce70b",
           "author": "Bintang Miftaqul Huda",
-          "description": "",
+          "description": "When it comes to the Ethereum blockchain, one of the most discussed topics among developers is gas. Gas is essentially the fee required to…",
           "link": "https://blog.blockmagnates.com/optimizing-gas-usage-in-ethereum-smart-contracts-3507242ce70b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-18T16:11:48.000Z",
-          "wordCount": null,
+          "wordCount": 2862,
           "title": "Optimizing Gas Usage in Ethereum Smart Contracts",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*KidFpulP1WrT-Jlt"
         },
         {
           "id": "https://medium.com/p/3160f4a2806",
@@ -318,29 +318,29 @@
           "description": "Solidity’s custom errors offer significant advantages in blockchain development, enhancing smart contract robustness and clarity. These…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/beyond-default-messages-mastering-custom-errors-in-solidity-3160f4a2806?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-14T13:15:17.000Z",
-          "wordCount": null,
+          "wordCount": 2218,
           "title": "Beyond Default Messages: Mastering Custom Errors in Solidity",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*rFOjl9RMCluH-bxm"
         },
         {
           "id": "https://medium.com/p/6066cb112603",
           "author": "Bintang Miftaqul Huda",
-          "description": "",
+          "description": "Step 1: Setting Up the Development Environment",
           "link": "https://blog.blockmagnates.com/building-a-blockchain-application-with-smart-contracts-using-solidity-and-ethereum-6066cb112603?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-14T13:15:12.000Z",
-          "wordCount": null,
+          "wordCount": 2280,
           "title": "Building a Blockchain Application with Smart Contracts Using Solidity and Ethereum",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*TD296GUN8Fy6xJrI"
         },
         {
           "id": "https://medium.com/p/ca0b35165788",
           "author": "Jan Cibulka",
-          "description": "",
+          "description": "We’ll create a custom JsonRpcProvider with retry capabilities as well as fallback node URLs.",
           "link": "https://blog.blockmagnates.com/create-a-fallback-retry-provider-for-jsonrpcprovider-ca0b35165788?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-14T13:15:11.000Z",
-          "wordCount": null,
+          "wordCount": 2707,
           "title": "Create a fallback Retry-Provider for JsonRpcProvider",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fill:1000:526/g:fp:0.52:0.48/1*a95Ftz4fS-bBJ3oHq_BGPA.png"
         }
       ]
     },

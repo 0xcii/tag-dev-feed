@@ -1,15 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-21T14:10:42.719Z</id>
+    <id>urn:2023-08-21T15:11:35.532Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-21T14:10:42.719Z</updated>
+    <updated>2023-08-21T15:11:35.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Web3 Play-To-Earn Money Dapp with React, Solidity, and CometChat]]></title>
+        <id>https://medium.com/p/d1964eecc0aa</id>
+        <link href="https://coinsbench.com/how-to-build-a-web3-play-to-earn-money-dapp-with-react-solidity-and-cometchat-d1964eecc0aa?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-21T14:43:37.000Z</updated>
+        <summary type="html"><![CDATA[In this comprehensive tutorial, consider us your companions on an exhilarating journey to construct an advanced Web3 Play-To-Earn Money…]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Balancer & Solana: What do they have in common?]]></title>
+        <id>https://medium.com/p/1d12315fa011</id>
+        <link href="https://coinsbench.com/balancer-solana-what-do-they-have-in-common-1d12315fa011?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-21T14:43:28.000Z</updated>
+        <summary type="html"><![CDATA[It might strike you as a pair of unrelated titles, but, in actual fact, they are the spitting image of each other to some extent, when it…]]></summary>
+        <author>
+            <name>Unegare</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 Days of Solidity. Day 3. Getter. Setter. Uint. Int.]]></title>
+        <id>https://medium.com/p/22517cfc0308</id>
+        <link href="https://coinsbench.com/30-days-of-solidity-day-3-getter-setter-uint-int-22517cfc0308?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-21T14:43:25.000Z</updated>
+        <summary type="html"><![CDATA[Hello lovely people! Welcome to 30 Days of Solidity’s Day 4from CodeDamn.]]></summary>
+        <author>
+            <name>JS Queen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[damn-vulnerable-defi | Unstoppable]]></title>
+        <id>https://medium.com/p/220ca4989923</id>
+        <link href="https://coinsbench.com/damn-vulnerable-defi-unstoppable-220ca4989923?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-21T14:43:22.000Z</updated>
+        <summary type="html"><![CDATA[I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…]]></summary>
+        <author>
+            <name>Zachchou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Style Guide: Best Practices for Writing Clean and Readable Smart Contracts]]></title>
+        <id>https://medium.com/p/cb75c9645b49</id>
+        <link href="https://coinsbench.com/solidity-style-guide-best-practices-for-writing-clean-and-readable-smart-contracts-cb75c9645b49?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-21T14:43:20.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll explore the key aspects of a Solidity style guide that ensures your smart contracts are not only functional but also…]]></summary>
+        <author>
+            <name>Mrexamples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 Days of Solidity. Day 7. Solidity. Math. Pain.]]></title>
+        <id>https://medium.com/p/217f8e5cfde4</id>
+        <link href="https://coinsbench.com/30-days-of-solidity-day-7-solidity-math-pain-217f8e5cfde4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-21T14:43:15.000Z</updated>
+        <summary type="html"><![CDATA[Hello people! Welcome to 30 Days of Solidity’s Day 7 from CodeDamn.]]></summary>
+        <author>
+            <name>JS Queen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing Ethereum’s Full Potential with Layer 2 Scaling Techniques]]></title>
+        <id>https://medium.com/p/f854806de7dd</id>
+        <link href="https://coinsbench.com/unleashing-ethereums-full-potential-with-layer-2-scaling-techniques-f854806de7dd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-21T14:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Scalability has been a persistent challenge for Ethereum, limiting its throughput and driving up transaction costs during periods of high…]]></summary>
+        <author>
+            <name>Andrew Prasaath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How and why leetswap got exploited]]></title>
+        <id>https://medium.com/p/7a41539aed9b</id>
+        <link href="https://coinsbench.com/how-and-why-leetswap-got-exploited-7a41539aed9b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-21T14:43:09.000Z</updated>
+        <summary type="html"><![CDATA[On August 1st, 2023, LeetSwap experienced a catastrophic breach, resulting in the loss of over 340 ETH. In this article, we delve into the…]]></summary>
+        <author>
+            <name>albertwhite</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solidity Events and Logs]]></title>
         <id>https://medium.com/p/47dbd0d93623</id>
         <link href="https://blog.blockmagnates.com/solidity-events-and-logs-47dbd0d93623?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-21T12:30:09.000Z</updated>
+        <summary type="html"><![CDATA[What exactly is a Solidity event? When I first started learning, it really confused me while I was trying to fix issues in smart contracts…]]></summary>
         <author>
             <name>udeshika perera</name>
         </author>
@@ -19,6 +100,7 @@
         <id>https://medium.com/p/7f557bb29866</id>
         <link href="https://blog.blockmagnates.com/mastering-fallback-and-receive-functions-in-solidity-7f557bb29866?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-21T12:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Fallback Function:]]></summary>
         <author>
             <name>udeshika perera</name>
         </author>
@@ -157,6 +239,7 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <id>https://medium.com/p/8308e9a682d4</id>
         <link href="https://blog.blockmagnates.com/exploring-remix-storage-factory-a-deep-dive-into-ethereums-storage-layout-8308e9a682d4?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s Solidity language and its associated tools have evolved rapidly, providing developers with a wealth of features. One such tool…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -166,6 +249,7 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <id>https://medium.com/p/2eb6dfc11d85</id>
         <link href="https://blog.blockmagnates.com/constructing-zk-snarks-on-ethereum-a-technical-exploration-2eb6dfc11d85?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Zero-Knowledge Proofs (ZKPs) have garnered significant attention in the blockchain sphere, particularly zk-SNARKs. Standing for…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -175,6 +259,7 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <id>https://medium.com/p/3507242ce70b</id>
         <link href="https://blog.blockmagnates.com/optimizing-gas-usage-in-ethereum-smart-contracts-3507242ce70b?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:11:48.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to the Ethereum blockchain, one of the most discussed topics among developers is gas. Gas is essentially the fee required to…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -184,6 +269,7 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <id>https://medium.com/p/b2edc9b6edf4</id>
         <link href="https://coinsbench.com/damn-vulnerable-defi-naive-receiver-b2edc9b6edf4?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-16T16:30:52.000Z</updated>
+        <summary type="html"><![CDATA[I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…]]></summary>
         <author>
             <name>Zachchou</name>
         </author>
@@ -196,82 +282,6 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <summary type="html"><![CDATA[I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…]]></summary>
         <author>
             <name>Zachchou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bot Racing: The Rise of Web3 Bots.]]></title>
-        <id>https://medium.com/p/3abda06cd448</id>
-        <link href="https://coinsbench.com/bot-racing-the-rise-of-web3-bots-3abda06cd448?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-16T16:30:28.000Z</updated>
-        <author>
-            <name>John Lawniczak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 Days of Solidity. Day 1. SPDX License. Pragma. Contracts.]]></title>
-        <id>https://medium.com/p/c28f2f6f92fd</id>
-        <link href="https://coinsbench.com/30-days-of-solidity-day-1-spdx-license-pragma-contracts-c28f2f6f92fd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-16T16:29:37.000Z</updated>
-        <author>
-            <name>JS Queen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Impact of Solidity in the Blockchain Industry.]]></title>
-        <id>https://medium.com/p/7ec19f5291ba</id>
-        <link href="https://coinsbench.com/the-impact-of-solidity-in-the-blockchain-industry-7ec19f5291ba?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-16T16:29:35.000Z</updated>
-        <author>
-            <name>IMMANUEL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Series #3 — Unraveling Stablecoins: An Essential Guide for Technophiles Exploring DeFi]]></title>
-        <id>https://medium.com/p/6a14c9fa2f6f</id>
-        <link href="https://coinsbench.com/defi-series-3-unraveling-stablecoins-an-essential-guide-for-technophiles-exploring-defi-6a14c9fa2f6f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-16T16:29:34.000Z</updated>
-        <author>
-            <name>Andrew Prasaath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js App Router Dapp Hosted on IFPS with RainbowKit, Wagmi and Fleek]]></title>
-        <id>https://medium.com/p/76e2f5c97c5b</id>
-        <link href="https://coinsbench.com/next-js-app-router-dapp-hosted-on-ifps-with-rainbowkit-wagmi-and-fleek-76e2f5c97c5b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-16T16:29:29.000Z</updated>
-        <author>
-            <name>Beach Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Impermanent Loss in Defi]]></title>
-        <id>https://medium.com/p/c5aa14513c4d</id>
-        <link href="https://coinsbench.com/understanding-impermanent-loss-in-defi-c5aa14513c4d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-14T13:44:35.000Z</updated>
-        <author>
-            <name>Crypto Truster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Months In: My Progress to Becoming a Smart Contract Auditor]]></title>
-        <id>https://medium.com/p/9fed250529b4</id>
-        <link href="https://coinsbench.com/two-months-in-my-progress-to-becoming-a-smart-contract-auditor-9fed250529b4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-14T13:44:14.000Z</updated>
-        <summary type="html"><![CDATA[Weeks 5, 6 & 7 — My Journey to Becoming a Smart Contract Auditor
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>James Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking the Potential: Advanced Smart Contract Programming with Ink!]]></title>
-        <id>https://medium.com/p/d8a8d8ceb047</id>
-        <link href="https://coinsbench.com/unlocking-the-potential-advanced-smart-contract-programming-with-ink-d8a8d8ceb047?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-14T13:44:08.000Z</updated>
-        <summary type="html"><![CDATA[As blockchain technology continues to revolutionize various industries, smart contracts have emerged as a cornerstone of decentralized…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Lea Lobanov</name>
         </author>
     </entry>
     <entry>
@@ -290,6 +300,7 @@ Continue reading on Block Magnates »]]></summary>
         <id>https://medium.com/p/6066cb112603</id>
         <link href="https://blog.blockmagnates.com/building-a-blockchain-application-with-smart-contracts-using-solidity-and-ethereum-6066cb112603?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-14T13:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Step 1: Setting Up the Development Environment]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -299,6 +310,7 @@ Continue reading on Block Magnates »]]></summary>
         <id>https://medium.com/p/ca0b35165788</id>
         <link href="https://blog.blockmagnates.com/create-a-fallback-retry-provider-for-jsonrpcprovider-ca0b35165788?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-14T13:15:11.000Z</updated>
+        <summary type="html"><![CDATA[We’ll create a custom JsonRpcProvider with retry capabilities as well as fallback node URLs.]]></summary>
         <author>
             <name>Jan Cibulka</name>
         </author>
