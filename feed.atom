@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-22T17:10:24.029Z</id>
+    <id>urn:2023-08-22T18:13:50.994Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-22T17:10:24.029Z</updated>
+    <updated>2023-08-22T18:13:50.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The DeFi Circuit Breaker’s Dilemma]]></title>
+        <id>https://medium.com/p/17b8d4ee5d2</id>
+        <link href="https://coinsbench.com/the-defi-circuit-breakers-dilemma-17b8d4ee5d2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-22T17:17:04.000Z</updated>
+        <summary type="html"><![CDATA[Exploring Circuit Breakers in a DeFi Context]]></summary>
+        <author>
+            <name>Diyahir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[damn-vulnerable-defi | Side Entrance]]></title>
+        <id>https://medium.com/p/7d817dd3a3a5</id>
+        <link href="https://coinsbench.com/damn-vulnerable-defi-side-entrance-7d817dd3a3a5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-22T17:17:00.000Z</updated>
+        <summary type="html"><![CDATA[I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…]]></summary>
+        <author>
+            <name>Zachchou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Major Blockchain Consensus Algorithms Explained (Express Summary)]]></title>
+        <id>https://medium.com/p/33ee45217078</id>
+        <link href="https://blog.blockmagnates.com/all-major-blockchain-consensus-algorithms-explained-express-summary-33ee45217078?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-08-22T17:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Understanding the Different Types of Blockchain Consensus Mechanisms]]></summary>
+        <author>
+            <name>Crypto Express</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Consensus Mechanism: A Deep Dive into the World of Blockchain]]></title>
         <id>https://medium.com/p/9c790188d25d</id>
@@ -265,26 +295,6 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <summary type="html"><![CDATA[When it comes to the Ethereum blockchain, one of the most discussed topics among developers is gas. Gas is essentially the fee required to…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[damn-vulnerable-defi | Naive receiver]]></title>
-        <id>https://medium.com/p/b2edc9b6edf4</id>
-        <link href="https://coinsbench.com/damn-vulnerable-defi-naive-receiver-b2edc9b6edf4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-16T16:30:52.000Z</updated>
-        <summary type="html"><![CDATA[I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…]]></summary>
-        <author>
-            <name>Zachchou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[damn-vulnerable-defi | Truster]]></title>
-        <id>https://medium.com/p/3e4e13b7e8b8</id>
-        <link href="https://coinsbench.com/damn-vulnerable-defi-truster-3e4e13b7e8b8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-16T16:30:31.000Z</updated>
-        <summary type="html"><![CDATA[I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…]]></summary>
-        <author>
-            <name>Zachchou</name>
         </author>
     </entry>
     <entry>

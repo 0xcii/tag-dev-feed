@@ -49,6 +49,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/17b8d4ee5d2",
+          "author": "Diyahir",
+          "description": "Exploring Circuit Breakers in a DeFi Context",
+          "link": "https://coinsbench.com/the-defi-circuit-breakers-dilemma-17b8d4ee5d2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-22T17:17:04.000Z",
+          "wordCount": 3804,
+          "title": "The DeFi Circuit Breaker’s Dilemma",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*h5J6CcWhZeBOd7RyviAqMw.png"
+        },
+        {
+          "id": "https://medium.com/p/7d817dd3a3a5",
+          "author": "Zachchou",
+          "description": "I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…",
+          "link": "https://coinsbench.com/damn-vulnerable-defi-side-entrance-7d817dd3a3a5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-22T17:17:00.000Z",
+          "wordCount": 2008,
+          "title": "damn-vulnerable-defi | Side Entrance",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Y3GMVZFkP-OCCm7JOROw7A.png"
+        },
+        {
           "id": "https://medium.com/p/d1964eecc0aa",
           "author": "Darlington Gospel",
           "description": "In this comprehensive tutorial, consider us your companions on an exhilarating journey to construct an advanced Web3 Play-To-Earn Money…",
@@ -127,26 +147,6 @@
           "wordCount": 2131,
           "title": "How and why leetswap got exploited",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WyfUKyQXMkw43gKp1QCeKg.png"
-        },
-        {
-          "id": "https://medium.com/p/b2edc9b6edf4",
-          "author": "Zachchou",
-          "description": "I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…",
-          "link": "https://coinsbench.com/damn-vulnerable-defi-naive-receiver-b2edc9b6edf4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-16T16:30:52.000Z",
-          "wordCount": 2083,
-          "title": "damn-vulnerable-defi | Naive receiver",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*8QosYrSELunCHi_B1NzVTg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3e4e13b7e8b8",
-          "author": "Zachchou",
-          "description": "I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…",
-          "link": "https://coinsbench.com/damn-vulnerable-defi-truster-3e4e13b7e8b8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-16T16:30:31.000Z",
-          "wordCount": 2213,
-          "title": "damn-vulnerable-defi | Truster",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*8QosYrSELunCHi_B1NzVTg.jpeg"
         }
       ]
     },
@@ -221,7 +221,7 @@
           "description": "Tired of the complex, abstract nature of mainstream crypto? Lingo is here to bridge the gap and make crypto tangible in your everyday life.",
           "link": "https://medium.com/coinmonks/introducing-lingo-where-crypto-meets-rwa-3c12211252f7?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-22T15:03:31.000Z",
-          "wordCount": 2828,
+          "wordCount": 2827,
           "title": "Introducing Lingo: Where Crypto Meets RWA",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*mGx_54ptFcy6tG6K"
         },
@@ -263,12 +263,22 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/33ee45217078",
+          "author": "Crypto Express",
+          "description": "Understanding the Different Types of Blockchain Consensus Mechanisms",
+          "link": "https://blog.blockmagnates.com/all-major-blockchain-consensus-algorithms-explained-express-summary-33ee45217078?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-08-22T17:15:48.000Z",
+          "wordCount": 2830,
+          "title": "All Major Blockchain Consensus Algorithms Explained (Express Summary)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*kWZNJb81E_xrebhjeeRd1w.png"
+        },
+        {
           "id": "https://medium.com/p/47dbd0d93623",
           "author": "udeshika perera",
           "description": "What exactly is a Solidity event? When I first started learning, it really confused me while I was trying to fix issues in smart contracts…",
           "link": "https://blog.blockmagnates.com/solidity-events-and-logs-47dbd0d93623?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-21T12:30:09.000Z",
-          "wordCount": 2533,
+          "wordCount": 2503,
           "title": "Solidity Events and Logs",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1040/1*7u8u8AUQ5wldpTAYivcYQQ.png"
         },
@@ -278,7 +288,7 @@
           "description": "Fallback Function:",
           "link": "https://blog.blockmagnates.com/mastering-fallback-and-receive-functions-in-solidity-7f557bb29866?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-21T12:30:03.000Z",
-          "wordCount": 2153,
+          "wordCount": 2152,
           "title": "Fallback and Receive Functions in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YnMj72Y-jlbWt1oZb-c7AA.png"
         },
