@@ -54,7 +54,7 @@
           "description": "How can we save a significant amount of gas in our smart contract, especially when using structs and functions that interact with them?",
           "link": "https://coinsbench.com/structs-in-solidity-best-practices-for-gas-efficiency-by-0xlazard-4e984a7485cf?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-23T18:00:17.000Z",
-          "wordCount": 2737,
+          "wordCount": 2706,
           "title": "Structs in Solidity: Best Practices for Gas Efficiency by 0xLazard",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1146/1*oYoSlhsvEOX-5NAGdKU0hA.jpeg"
         },
@@ -64,7 +64,7 @@
           "description": "A Recap of my week 3 at web3Bridge Blockchain Program",
           "link": "https://coinsbench.com/week-3-solidity-fundamentals-f1761adc42e0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-23T18:00:13.000Z",
-          "wordCount": 3139,
+          "wordCount": 3108,
           "title": "Week 3 — Solidity Fundamentals",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NAuV68yZjdAATFfXepigcg.png"
         },
@@ -74,7 +74,7 @@
           "description": "According to the statistics on DeFiLlama, Solana emerges to be the 8th largest chain in terms of Total Value Locked tokens(TVL) with $306M…",
           "link": "https://coinsbench.com/a-deep-dive-into-marinade-finance-a-solana-liquid-staking-platform-49c58b84e3e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-23T18:00:09.000Z",
-          "wordCount": 5898,
+          "wordCount": 5867,
           "title": "A Deep Dive into Marinade Finance. A Solana Liquid Staking Platform.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*kj5X_kiaQwhDcXsRfKdgPQ.png"
         },
@@ -84,7 +84,7 @@
           "description": "Exploring Circuit Breakers in a DeFi Context",
           "link": "https://coinsbench.com/the-defi-circuit-breakers-dilemma-17b8d4ee5d2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-22T17:17:04.000Z",
-          "wordCount": 3687,
+          "wordCount": 3656,
           "title": "The DeFi Circuit Breaker’s Dilemma",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*h5J6CcWhZeBOd7RyviAqMw.png"
         },
@@ -94,7 +94,7 @@
           "description": "I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…",
           "link": "https://coinsbench.com/damn-vulnerable-defi-side-entrance-7d817dd3a3a5?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-22T17:17:00.000Z",
-          "wordCount": 2007,
+          "wordCount": 1976,
           "title": "damn-vulnerable-defi | Side Entrance",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Y3GMVZFkP-OCCm7JOROw7A.png"
         },
@@ -134,7 +134,7 @@
           "description": "I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…",
           "link": "https://coinsbench.com/damn-vulnerable-defi-unstoppable-220ca4989923?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-08-21T14:43:22.000Z",
-          "wordCount": 2532,
+          "wordCount": 2501,
           "title": "damn-vulnerable-defi | Unstoppable",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*8QosYrSELunCHi_B1NzVTg.jpeg"
         },
@@ -201,7 +201,7 @@
           "description": "While discussions about cryptocurrencies often revolve around Bitcoin’s prominence, a diverse selection of alternative digital currencies…",
           "link": "https://medium.com/coinmonks/the-best-cryptos-to-buy-now-34b11d4c4e78?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-23T06:59:02.000Z",
-          "wordCount": 2986,
+          "wordCount": 2997,
           "title": "The Best Cryptos to Buy Now",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:875/1*8D6XQ2eX5PUCzOOV3y0rIA.jpeg"
         },
@@ -211,7 +211,7 @@
           "description": "Efficient Crypto Swapping Performing a sledgehammer-like action for every crypto switch — creating an exchange account, signing in, and…",
           "link": "https://medium.com/coinmonks/metamask-login-heres-top-5-crypto-swapping-services-with-no-registeration-e58073eab2e8?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-23T06:59:00.000Z",
-          "wordCount": 2205,
+          "wordCount": 2579,
           "title": "MetaMask Login? Here’s Top 5 Crypto Swapping Services With No Registeration",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*M9pYWX2YOKdygUvxP7xA3w.png"
         },
@@ -288,7 +288,7 @@
           "description": "What exactly is a Solidity event? When I first started learning, it really confused me while I was trying to fix issues in smart contracts…",
           "link": "https://blog.blockmagnates.com/solidity-events-and-logs-47dbd0d93623?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-21T12:30:09.000Z",
-          "wordCount": 2496,
+          "wordCount": 2465,
           "title": "Solidity Events and Logs",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1040/1*7u8u8AUQ5wldpTAYivcYQQ.png"
         },
@@ -298,7 +298,7 @@
           "description": "Fallback Function:",
           "link": "https://blog.blockmagnates.com/mastering-fallback-and-receive-functions-in-solidity-7f557bb29866?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-21T12:30:03.000Z",
-          "wordCount": 2139,
+          "wordCount": 2108,
           "title": "Fallback and Receive Functions in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YnMj72Y-jlbWt1oZb-c7AA.png"
         },
@@ -308,7 +308,7 @@
           "description": "Ethereum’s Solidity language and its associated tools have evolved rapidly, providing developers with a wealth of features. One such tool…",
           "link": "https://blog.blockmagnates.com/exploring-remix-storage-factory-a-deep-dive-into-ethereums-storage-layout-8308e9a682d4?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-18T16:13:09.000Z",
-          "wordCount": 2455,
+          "wordCount": 2424,
           "title": "Exploring Remix Storage Factory: A Deep Dive into Ethereum’s Storage Layout",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*l8vv7aOKcKq0EoPG"
         },
@@ -318,7 +318,7 @@
           "description": "Zero-Knowledge Proofs (ZKPs) have garnered significant attention in the blockchain sphere, particularly zk-SNARKs. Standing for…",
           "link": "https://blog.blockmagnates.com/constructing-zk-snarks-on-ethereum-a-technical-exploration-2eb6dfc11d85?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-18T16:13:05.000Z",
-          "wordCount": 1994,
+          "wordCount": 1963,
           "title": "Constructing zk-SNARKs on Ethereum: A Technical Exploration",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*seVU0rQdIbp3E-MT"
         },
@@ -328,7 +328,7 @@
           "description": "When it comes to the Ethereum blockchain, one of the most discussed topics among developers is gas. Gas is essentially the fee required to…",
           "link": "https://blog.blockmagnates.com/optimizing-gas-usage-in-ethereum-smart-contracts-3507242ce70b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-18T16:11:48.000Z",
-          "wordCount": 2823,
+          "wordCount": 2792,
           "title": "Optimizing Gas Usage in Ethereum Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*KidFpulP1WrT-Jlt"
         },
@@ -348,7 +348,7 @@
           "description": "Step 1: Setting Up the Development Environment",
           "link": "https://blog.blockmagnates.com/building-a-blockchain-application-with-smart-contracts-using-solidity-and-ethereum-6066cb112603?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-14T13:15:12.000Z",
-          "wordCount": 2187,
+          "wordCount": 2156,
           "title": "Building a Blockchain Application with Smart Contracts Using Solidity and Ethereum",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*TD296GUN8Fy6xJrI"
         },
