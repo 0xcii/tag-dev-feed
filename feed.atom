@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-25T16:14:46.037Z</id>
+    <id>urn:2023-08-25T17:10:03.698Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-25T16:14:46.037Z</updated>
+    <updated>2023-08-25T17:10:03.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Making Smart Contracts Smarter with Functions]]></title>
+        <id>https://medium.com/p/65d1fb402bf</id>
+        <link href="https://coinsbench.com/making-smart-contracts-smarter-with-functions-65d1fb402bf?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-25T16:40:32.000Z</updated>
+        <summary type="html"><![CDATA[If you’re diving into the exciting world of Web3 development, you’re in for a treat! Let’s talk about one of the coolest tools in your…]]></summary>
+        <author>
+            <name>Israel Ogunsola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Beginner-Friendly Guide to Understanding Web3 Development in 2023 and How its Application Can…]]></title>
+        <id>https://medium.com/p/74cb17df33b4</id>
+        <link href="https://coinsbench.com/the-beginner-friendly-guide-to-understanding-web3-development-in-2023-and-how-its-application-can-74cb17df33b4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-25T16:40:29.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to our “Beginner-Friendly Guide to Web3” In this comprehensive Guide, we aim to help you understand the complex world of Web3 like…]]></summary>
+        <author>
+            <name>IMMANUEL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying Account Abstraction: The Power of Smart Accounts]]></title>
+        <id>https://medium.com/p/de61f36019b6</id>
+        <link href="https://coinsbench.com/demystifying-account-abstraction-the-power-of-smart-accounts-de61f36019b6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-25T16:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Smarrt accounts is like wallet with a brain]]></summary>
+        <author>
+            <name>Gbirioluwaseun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing smart contracts with Hardhat using WSL2 (Part 1).]]></title>
+        <id>https://medium.com/p/48c1237a541b</id>
+        <link href="https://coinsbench.com/testing-smart-contracts-with-hardhat-usingwsl2-part-1-48c1237a541b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-25T16:40:23.000Z</updated>
+        <summary type="html"><![CDATA[How to set up Hardhat to have the perfect development environment ready to go for your next project using Windows Subsystem for Linux…]]></summary>
+        <author>
+            <name>David Mansion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing smart contracts with Hardhat using WSL2 (Part 2).]]></title>
+        <id>https://medium.com/p/1ac9ad7479d0</id>
+        <link href="https://coinsbench.com/testing-smart-contracts-with-hardhat-using-wsl2-part-2-1ac9ad7479d0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-25T16:40:21.000Z</updated>
+        <summary type="html"><![CDATA[See Part 1 here]]></summary>
+        <author>
+            <name>David Mansion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WTF is Friend-Tech and why is it on your Timeline]]></title>
         <id>https://medium.com/p/788bcce6422f</id>
@@ -241,56 +291,6 @@ So, I looked at their contracts and got an idea. Why not use the Rogs to go fish
         <summary type="html"><![CDATA[Understanding the Different Types of Blockchain Consensus Mechanisms]]></summary>
         <author>
             <name>Crypto Express</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Web3 Play-To-Earn Money Dapp with React, Solidity, and CometChat]]></title>
-        <id>https://medium.com/p/d1964eecc0aa</id>
-        <link href="https://coinsbench.com/how-to-build-a-web3-play-to-earn-money-dapp-with-react-solidity-and-cometchat-d1964eecc0aa?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-21T14:43:37.000Z</updated>
-        <summary type="html"><![CDATA[In this comprehensive tutorial, consider us your companions on an exhilarating journey to construct an advanced Web3 Play-To-Earn Money…]]></summary>
-        <author>
-            <name>Darlington Gospel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balancer & Solana: What do they have in common?]]></title>
-        <id>https://medium.com/p/1d12315fa011</id>
-        <link href="https://coinsbench.com/balancer-solana-what-do-they-have-in-common-1d12315fa011?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-21T14:43:28.000Z</updated>
-        <summary type="html"><![CDATA[It might strike you as a pair of unrelated titles, but, in actual fact, they are the spitting image of each other to some extent, when it…]]></summary>
-        <author>
-            <name>Unegare</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 Days of Solidity. Day 3. Getter. Setter. Uint. Int.]]></title>
-        <id>https://medium.com/p/22517cfc0308</id>
-        <link href="https://coinsbench.com/30-days-of-solidity-day-3-getter-setter-uint-int-22517cfc0308?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-21T14:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Hello lovely people! Welcome to 30 Days of Solidity’s Day 4from CodeDamn.]]></summary>
-        <author>
-            <name>JS Queen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[damn-vulnerable-defi | Unstoppable]]></title>
-        <id>https://medium.com/p/220ca4989923</id>
-        <link href="https://coinsbench.com/damn-vulnerable-defi-unstoppable-220ca4989923?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-21T14:43:22.000Z</updated>
-        <summary type="html"><![CDATA[I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…]]></summary>
-        <author>
-            <name>Zachchou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Style Guide: Best Practices for Writing Clean and Readable Smart Contracts]]></title>
-        <id>https://medium.com/p/cb75c9645b49</id>
-        <link href="https://coinsbench.com/solidity-style-guide-best-practices-for-writing-clean-and-readable-smart-contracts-cb75c9645b49?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-21T14:43:20.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll explore the key aspects of a Solidity style guide that ensures your smart contracts are not only functional but also…]]></summary>
-        <author>
-            <name>Mrexamples</name>
         </author>
     </entry>
     <entry>

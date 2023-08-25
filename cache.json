@@ -59,6 +59,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/65d1fb402bf",
+          "author": "Israel Ogunsola",
+          "description": "If you’re diving into the exciting world of Web3 development, you’re in for a treat! Let’s talk about one of the coolest tools in your…",
+          "link": "https://coinsbench.com/making-smart-contracts-smarter-with-functions-65d1fb402bf?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-25T16:40:32.000Z",
+          "wordCount": 2859,
+          "title": "Making Smart Contracts Smarter with Functions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/74cb17df33b4",
+          "author": "IMMANUEL",
+          "description": "Welcome to our “Beginner-Friendly Guide to Web3” In this comprehensive Guide, we aim to help you understand the complex world of Web3 like…",
+          "link": "https://coinsbench.com/the-beginner-friendly-guide-to-understanding-web3-development-in-2023-and-how-its-application-can-74cb17df33b4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-25T16:40:29.000Z",
+          "wordCount": 10086,
+          "title": "The Beginner-Friendly Guide to Understanding Web3 Development in 2023 and How its Application Can…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*WuLJ3B0x-m70VowVNAQizg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/de61f36019b6",
+          "author": "Gbirioluwaseun",
+          "description": "Smarrt accounts is like wallet with a brain",
+          "link": "https://coinsbench.com/demystifying-account-abstraction-the-power-of-smart-accounts-de61f36019b6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-25T16:40:26.000Z",
+          "wordCount": 3366,
+          "title": "Demystifying Account Abstraction: The Power of Smart Accounts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*CzlLRrXUfTKM7dhSsfx5iA.png"
+        },
+        {
+          "id": "https://medium.com/p/48c1237a541b",
+          "author": "David Mansion",
+          "description": "How to set up Hardhat to have the perfect development environment ready to go for your next project using Windows Subsystem for Linux…",
+          "link": "https://coinsbench.com/testing-smart-contracts-with-hardhat-usingwsl2-part-1-48c1237a541b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-25T16:40:23.000Z",
+          "wordCount": 2255,
+          "title": "Testing smart contracts with Hardhat using WSL2 (Part 1).",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mFghfgzv6bS3iIsBnBpnBQ.png"
+        },
+        {
+          "id": "https://medium.com/p/1ac9ad7479d0",
+          "author": "David Mansion",
+          "description": "See Part 1 here",
+          "link": "https://coinsbench.com/testing-smart-contracts-with-hardhat-using-wsl2-part-2-1ac9ad7479d0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-08-25T16:40:21.000Z",
+          "wordCount": 2510,
+          "title": "Testing smart contracts with Hardhat using WSL2 (Part 2).",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mFghfgzv6bS3iIsBnBpnBQ.png"
+        },
+        {
           "id": "https://medium.com/p/4e984a7485cf",
           "author": "Lazard",
           "description": "How can we save a significant amount of gas in our smart contract, especially when using structs and functions that interact with them?",
@@ -107,56 +157,6 @@
           "wordCount": 2060,
           "title": "damn-vulnerable-defi | Side Entrance",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Y3GMVZFkP-OCCm7JOROw7A.png"
-        },
-        {
-          "id": "https://medium.com/p/d1964eecc0aa",
-          "author": "Darlington Gospel",
-          "description": "In this comprehensive tutorial, consider us your companions on an exhilarating journey to construct an advanced Web3 Play-To-Earn Money…",
-          "link": "https://coinsbench.com/how-to-build-a-web3-play-to-earn-money-dapp-with-react-solidity-and-cometchat-d1964eecc0aa?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-21T14:43:37.000Z",
-          "wordCount": 9799,
-          "title": "How to Build a Web3 Play-To-Earn Money Dapp with React, Solidity, and CometChat",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*DgThnZrvsC4SPKH0kJS_jg.png"
-        },
-        {
-          "id": "https://medium.com/p/1d12315fa011",
-          "author": "Unegare",
-          "description": "It might strike you as a pair of unrelated titles, but, in actual fact, they are the spitting image of each other to some extent, when it…",
-          "link": "https://coinsbench.com/balancer-solana-what-do-they-have-in-common-1d12315fa011?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-21T14:43:28.000Z",
-          "wordCount": 3106,
-          "title": "Balancer & Solana: What do they have in common?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/22517cfc0308",
-          "author": "JS Queen",
-          "description": "Hello lovely people! Welcome to 30 Days of Solidity’s Day 4from CodeDamn.",
-          "link": "https://coinsbench.com/30-days-of-solidity-day-3-getter-setter-uint-int-22517cfc0308?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-21T14:43:25.000Z",
-          "wordCount": 3125,
-          "title": "30 Days of Solidity. Day 3. Getter. Setter. Uint. Int.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*z4uW3d4C20TJvUehWWOJng.png"
-        },
-        {
-          "id": "https://medium.com/p/220ca4989923",
-          "author": "Zachchou",
-          "description": "I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…",
-          "link": "https://coinsbench.com/damn-vulnerable-defi-unstoppable-220ca4989923?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-21T14:43:22.000Z",
-          "wordCount": 2560,
-          "title": "damn-vulnerable-defi | Unstoppable",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*8QosYrSELunCHi_B1NzVTg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/cb75c9645b49",
-          "author": "Mrexamples",
-          "description": "In this article, we’ll explore the key aspects of a Solidity style guide that ensures your smart contracts are not only functional but also…",
-          "link": "https://coinsbench.com/solidity-style-guide-best-practices-for-writing-clean-and-readable-smart-contracts-cb75c9645b49?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-21T14:43:20.000Z",
-          "wordCount": 2853,
-          "title": "Solidity Style Guide: Best Practices for Writing Clean and Readable Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*iv7TONLe7gnWoRCYPhG-aw.png"
         }
       ]
     },
@@ -261,7 +261,7 @@
           "description": "HELLO TO MY READERS ! 📰",
           "link": "https://medium.com/coinmonks/solana-pay-integrates-with-shopify-3ce4784745ca?source=rss----721b17443fd5---4",
           "publishedOn": "2023-08-25T09:52:10.000Z",
-          "wordCount": 2684,
+          "wordCount": 2691,
           "title": "Solana Pay Integrates with Shopify",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VkfIRh5YJrrbn3XgIEGXpQ.png"
         }
@@ -278,7 +278,7 @@
           "description": "The original article and photo were taken from the source below:",
           "link": "https://blog.blockmagnates.com/building-a-decentralized-supply-chain-tracking-application-with-smart-contracts-express-summary-1684873ebd32?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-23T17:08:54.000Z",
-          "wordCount": 2460,
+          "wordCount": 2498,
           "title": "Building a Decentralized Supply Chain Tracking Application with Smart Contracts (Express Summary)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*H6p0Rp7327Fdj87xf1Femw.png"
         },
@@ -288,7 +288,7 @@
           "description": "Understanding the Different Types of Blockchain Consensus Mechanisms",
           "link": "https://blog.blockmagnates.com/all-major-blockchain-consensus-algorithms-explained-express-summary-33ee45217078?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-22T17:15:48.000Z",
-          "wordCount": 2807,
+          "wordCount": 2845,
           "title": "All Major Blockchain Consensus Algorithms Explained (Express Summary)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*kWZNJb81E_xrebhjeeRd1w.png"
         },
