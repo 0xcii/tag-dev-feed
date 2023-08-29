@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-29T16:14:59.878Z</id>
+    <id>urn:2023-08-29T17:10:27.458Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-29T16:14:59.878Z</updated>
+    <updated>2023-08-29T17:10:27.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Running an Arweave Gateway on Fly.io]]></title>
+        <id>https://blog.developerdao.com/running-an-arweave-gateway-on-flyio</id>
+        <link href="https://blog.developerdao.com/running-an-arweave-gateway-on-flyio"/>
+        <updated>2023-08-29T16:58:43.000Z</updated>
+        <summary type="html"><![CDATA[Last week, I wrote about running an Arweave gateway on GitHub Codespaces for development, but this was just an exercise to get to know AR.IO's gateway node.
+Codespaces are short-lived cloud instances that start when we open VSCode in the browser. Nice for development, but not so nice for a real gateway.
+Fly.io, or Fly for short, on the other hand, supplies us with short-lived cloud instances that start when someone sends a request to a specific domain - any requests - so it's perfect for a gateway.
+But first, we must take a few hurdles to get things up and running.
+So, let's dive in!
+Target Audience
+This article assumes you know how to use the command line on Linux. We will edit Docker, TypeScript, and YAML files, but the article will supply all content.
+Prerequisites
+We need a Fly account…]]></summary>
+        <author>
+            <name>Ϗ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing smart contracts with Hardhat using WSL2 (Part 3).]]></title>
+        <id>https://medium.com/p/8f4587f8ebee</id>
+        <link href="https://coinsbench.com/testing-smart-contracts-with-hardhat-using-wsl2-part-3-8f4587f8ebee?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-29T16:34:02.000Z</updated>
+        <summary type="html"><![CDATA[See Part 1 here, See Part 2 here]]></summary>
+        <author>
+            <name>David Mansion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVM-Based Blockchains Payment Gateway]]></title>
+        <id>https://medium.com/p/307fd5a08d89</id>
+        <link href="https://coinsbench.com/evm-based-blockchains-payment-gateway-307fd5a08d89?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-29T16:33:55.000Z</updated>
+        <summary type="html"><![CDATA[In this post we are going to understand how a basic payment gateway in Ethereum Virtual Machine based blockchain would work.]]></summary>
+        <author>
+            <name>Mahdi Akbari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecting the Future of Web3 infrastructure with Chainlink CCIP]]></title>
+        <id>https://medium.com/p/226cf370dcce</id>
+        <link href="https://coinsbench.com/architecting-the-future-of-web3-infrastructure-with-chainlink-ccip-226cf370dcce?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-29T16:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Cross-chain smart contracts are decentralized applications that are composed of multiple different smart contracts deployed across multiple…]]></summary>
+        <author>
+            <name>Sajad Salehi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Stable Coin Simplified]]></title>
+        <id>https://medium.com/p/b5c9d0e6ec0f</id>
+        <link href="https://coinsbench.com/solidity-stable-coin-simplified-b5c9d0e6ec0f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-29T16:33:51.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered how a Stable coin like DAI is built?]]></summary>
+        <author>
+            <name>simpleFish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Factory Contract]]></title>
+        <id>https://medium.com/p/898d73f5b014</id>
+        <link href="https://coinsbench.com/creating-a-factory-contract-898d73f5b014?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-29T16:33:48.000Z</updated>
+        <summary type="html"><![CDATA[I will be showing you how to set up a factory smart contract that you or any other person can use to create different instances of a…]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Guide to Reentrancy Attacks with a Real-World Example]]></title>
+        <id>https://medium.com/p/ff0ebcbaa55e</id>
+        <link href="https://coinsbench.com/the-ultimate-guide-to-reentrancy-attacks-with-a-real-world-example-ff0ebcbaa55e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-08-29T16:33:46.000Z</updated>
+        <summary type="html"><![CDATA[One of the most classical and pervasive vulnerabilities in the web3 domain is reentrancy. This article delves into how it led to a…]]></summary>
+        <author>
+            <name>albertwhite</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Deliver Value to Your Customers and Clients]]></title>
         <id>https://medium.com/p/c60fae857df4</id>
@@ -184,16 +262,6 @@ https://www.youtube.com/watch?v=Gqv_WEuweLQ]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Testing smart contracts with Hardhat using WSL2 (Part 2).]]></title>
-        <id>https://medium.com/p/1ac9ad7479d0</id>
-        <link href="https://coinsbench.com/testing-smart-contracts-with-hardhat-using-wsl2-part-2-1ac9ad7479d0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-25T16:40:21.000Z</updated>
-        <summary type="html"><![CDATA[See Part 1 here]]></summary>
-        <author>
-            <name>David Mansion</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DEA Falls for Crypto Scam, Hands Fraudster $55,000 in Stolen Funds]]></title>
         <id>https://www.cryptomaton.org/?p=1550</id>
         <link href="https://www.cryptomaton.org/2023/08/25/dea-falls-for-crypto-scam-hands-fraudster-55000-in-stolen-funds/"/>
@@ -249,36 +317,6 @@ Here's how LayerZero organizes its' …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Structs in Solidity: Best Practices for Gas Efficiency by 0xLazard]]></title>
-        <id>https://medium.com/p/4e984a7485cf</id>
-        <link href="https://coinsbench.com/structs-in-solidity-best-practices-for-gas-efficiency-by-0xlazard-4e984a7485cf?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-23T18:00:17.000Z</updated>
-        <summary type="html"><![CDATA[How can we save a significant amount of gas in our smart contract, especially when using structs and functions that interact with them?]]></summary>
-        <author>
-            <name>Lazard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 3 — Solidity Fundamentals]]></title>
-        <id>https://medium.com/p/f1761adc42e0</id>
-        <link href="https://coinsbench.com/week-3-solidity-fundamentals-f1761adc42e0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-23T18:00:13.000Z</updated>
-        <summary type="html"><![CDATA[A Recap of my week 3 at web3Bridge Blockchain Program]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep Dive into Marinade Finance. A Solana Liquid Staking Platform.]]></title>
-        <id>https://medium.com/p/49c58b84e3e</id>
-        <link href="https://coinsbench.com/a-deep-dive-into-marinade-finance-a-solana-liquid-staking-platform-49c58b84e3e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-23T18:00:09.000Z</updated>
-        <summary type="html"><![CDATA[According to the statistics on DeFiLlama, Solana emerges to be the 8th largest chain in terms of Total Value Locked tokens(TVL) with $306M…]]></summary>
-        <author>
-            <name>Etimfon Ikpong</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building a Decentralized Supply Chain Tracking Application with Smart Contracts (Express Summary)]]></title>
         <id>https://medium.com/p/1684873ebd32</id>
         <link href="https://blog.blockmagnates.com/building-a-decentralized-supply-chain-tracking-application-with-smart-contracts-express-summary-1684873ebd32?source=rss----18fa961f1eff--solidity"/>
@@ -298,26 +336,6 @@ I like the Pudgy Penguin IP and community; they are a source of inspiration for 
 So, I looked at their contracts and got an idea. Why not use the Rogs to go fishing in the Arctic? How would this work? Let's break …]]></summary>
         <author>
             <name>Billy Jitsu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The DeFi Circuit Breaker’s Dilemma]]></title>
-        <id>https://medium.com/p/17b8d4ee5d2</id>
-        <link href="https://coinsbench.com/the-defi-circuit-breakers-dilemma-17b8d4ee5d2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-22T17:17:04.000Z</updated>
-        <summary type="html"><![CDATA[Exploring Circuit Breakers in a DeFi Context]]></summary>
-        <author>
-            <name>Diyahir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[damn-vulnerable-defi | Side Entrance]]></title>
-        <id>https://medium.com/p/7d817dd3a3a5</id>
-        <link href="https://coinsbench.com/damn-vulnerable-defi-side-entrance-7d817dd3a3a5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-22T17:17:00.000Z</updated>
-        <summary type="html"><![CDATA[I rewote the damn-vulnerable-defi chanllenge by foundry framework, open to contributed and build together…]]></summary>
-        <author>
-            <name>Zachchou</name>
         </author>
     </entry>
     <entry>
