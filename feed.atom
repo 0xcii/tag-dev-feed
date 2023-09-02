@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-02T20:10:47.837Z</id>
+    <id>urn:2023-09-02T21:09:21.518Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-02T20:10:47.837Z</updated>
+    <updated>2023-09-02T21:09:21.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -48,6 +48,7 @@ https://www.youtube.com/watch?v=bVjGN2hJtGY]]></summary>
         <id>https://medium.com/p/2c3b86ed75a1</id>
         <link href="https://coinsbench.com/paypal-usd-and-the-horrors-of-cbdcs-2c3b86ed75a1?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-02T11:16:30.000Z</updated>
+        <summary type="html"><![CDATA[Since the dawn of times when money existed, banks offered their services and issued securities; they started by securing gold in banks and…]]></summary>
         <author>
             <name>Ethan Rouimi</name>
         </author>
@@ -209,6 +210,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/1009133592d0</id>
         <link href="https://coinsbench.com/week-4-writing-smart-contract-1009133592d0?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-30T17:22:36.000Z</updated>
+        <summary type="html"><![CDATA[Week 4 @Web3Bridge, my journey to becoming a Smart Contract Developer got closer. We learned about Interacting with Smart Contracts which…]]></summary>
         <author>
             <name>Ayoade Abdulrahman</name>
         </author>
@@ -218,6 +220,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/fad045733425</id>
         <link href="https://coinsbench.com/how-golang-and-solidity-can-work-together-fad045733425?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-30T17:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Go (often referred to as Golang) and Solidity are two programming languages used for different purposes within the realm of software…]]></summary>
         <author>
             <name>sandeep k</name>
         </author>
@@ -245,6 +248,7 @@ We need a Fly account…]]></summary>
         <id>https://medium.com/p/8f4587f8ebee</id>
         <link href="https://coinsbench.com/testing-smart-contracts-with-hardhat-using-wsl2-part-3-8f4587f8ebee?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-29T16:34:02.000Z</updated>
+        <summary type="html"><![CDATA[See Part 1 here, See Part 2 here]]></summary>
         <author>
             <name>David Mansion</name>
         </author>
@@ -254,6 +258,7 @@ We need a Fly account…]]></summary>
         <id>https://medium.com/p/307fd5a08d89</id>
         <link href="https://coinsbench.com/evm-based-blockchains-payment-gateway-307fd5a08d89?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-08-29T16:33:55.000Z</updated>
+        <summary type="html"><![CDATA[In this post we are going to understand how a basic payment gateway in Ethereum Virtual Machine based blockchain would work.]]></summary>
         <author>
             <name>Mahdi Akbari</name>
         </author>
@@ -355,6 +360,7 @@ Here's how LayerZero organizes its' …]]></summary>
         <id>https://medium.com/p/1684873ebd32</id>
         <link href="https://blog.blockmagnates.com/building-a-decentralized-supply-chain-tracking-application-with-smart-contracts-express-summary-1684873ebd32?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-23T17:08:54.000Z</updated>
+        <summary type="html"><![CDATA[The original article and photo were taken from the source below:]]></summary>
         <author>
             <name>Crypto Express</name>
         </author>
@@ -376,6 +382,7 @@ So, I looked at their contracts and got an idea. Why not use the Rogs to go fish
         <id>https://medium.com/p/33ee45217078</id>
         <link href="https://blog.blockmagnates.com/all-major-blockchain-consensus-algorithms-explained-express-summary-33ee45217078?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-22T17:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Understanding the Different Types of Blockchain Consensus Mechanisms]]></summary>
         <author>
             <name>Crypto Express</name>
         </author>
@@ -385,6 +392,7 @@ So, I looked at their contracts and got an idea. Why not use the Rogs to go fish
         <id>https://medium.com/p/47dbd0d93623</id>
         <link href="https://blog.blockmagnates.com/solidity-events-and-logs-47dbd0d93623?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-21T12:30:09.000Z</updated>
+        <summary type="html"><![CDATA[What exactly is a Solidity event? When I first started learning, it really confused me while I was trying to fix issues in smart contracts…]]></summary>
         <author>
             <name>udeshika perera</name>
         </author>
@@ -394,6 +402,7 @@ So, I looked at their contracts and got an idea. Why not use the Rogs to go fish
         <id>https://medium.com/p/7f557bb29866</id>
         <link href="https://blog.blockmagnates.com/mastering-fallback-and-receive-functions-in-solidity-7f557bb29866?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-21T12:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Fallback Function:]]></summary>
         <author>
             <name>udeshika perera</name>
         </author>
@@ -432,6 +441,7 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <id>https://medium.com/p/8308e9a682d4</id>
         <link href="https://blog.blockmagnates.com/exploring-remix-storage-factory-a-deep-dive-into-ethereums-storage-layout-8308e9a682d4?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s Solidity language and its associated tools have evolved rapidly, providing developers with a wealth of features. One such tool…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -441,6 +451,7 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <id>https://medium.com/p/2eb6dfc11d85</id>
         <link href="https://blog.blockmagnates.com/constructing-zk-snarks-on-ethereum-a-technical-exploration-2eb6dfc11d85?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Zero-Knowledge Proofs (ZKPs) have garnered significant attention in the blockchain sphere, particularly zk-SNARKs. Standing for…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -450,6 +461,7 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <id>https://medium.com/p/3507242ce70b</id>
         <link href="https://blog.blockmagnates.com/optimizing-gas-usage-in-ethereum-smart-contracts-3507242ce70b?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:11:48.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to the Ethereum blockchain, one of the most discussed topics among developers is gas. Gas is essentially the fee required to…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -470,6 +482,7 @@ Continue reading on Block Magnates »]]></summary>
         <id>https://medium.com/p/6066cb112603</id>
         <link href="https://blog.blockmagnates.com/building-a-blockchain-application-with-smart-contracts-using-solidity-and-ethereum-6066cb112603?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-14T13:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Step 1: Setting Up the Development Environment]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -479,6 +492,7 @@ Continue reading on Block Magnates »]]></summary>
         <id>https://medium.com/p/ca0b35165788</id>
         <link href="https://blog.blockmagnates.com/create-a-fallback-retry-provider-for-jsonrpcprovider-ca0b35165788?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-14T13:15:11.000Z</updated>
+        <summary type="html"><![CDATA[We’ll create a custom JsonRpcProvider with retry capabilities as well as fallback node URLs.]]></summary>
         <author>
             <name>Jan Cibulka</name>
         </author>
