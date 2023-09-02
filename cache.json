@@ -69,6 +69,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/3e1aaa1cdced",
+          "author": "Darlington Gospel",
+          "description": "In this guide, we will teach you how to build your own decentralized voting dapp using Next.js, TypeScript, Tailwind CSS, and CometChat.",
+          "link": "https://coinsbench.com/build-a-decentralized-voting-dapp-with-next-js-typescript-tailwind-css-and-cometchat-3e1aaa1cdced?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-02T11:16:56.000Z",
+          "wordCount": 10854,
+          "title": "Build a Decentralized Voting Dapp with Next.js, TypeScript, Tailwind CSS, and CometChat",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lJJ9H1plej8byVSB5ICOgQ.png"
+        },
+        {
+          "id": "https://medium.com/p/2c3b86ed75a1",
+          "author": "Ethan Rouimi",
+          "description": "Since the dawn of times when money existed, banks offered their services and issued securities; they started by securing gold in banks and…",
+          "link": "https://coinsbench.com/paypal-usd-and-the-horrors-of-cbdcs-2c3b86ed75a1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-02T11:16:30.000Z",
+          "wordCount": 4187,
+          "title": "Paypal USD and the horrors of CBDCs",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*s3sX-I3F6hVzVNBk"
+        },
+        {
+          "id": "https://medium.com/p/56ea78ac8b13",
+          "author": "albertwhite",
+          "description": "In my previous article, I discussed reentrancy. Here, however, we’ll delve into a variant of this vulnerability known as “Read Only…",
+          "link": "https://coinsbench.com/beyond-basic-reentrancy-understanding-read-only-reentrancy-with-a-real-world-example-56ea78ac8b13?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-02T11:16:27.000Z",
+          "wordCount": 2181,
+          "title": "Beyond Basic Reentrancy: Understanding Read-Only Reentrancy with a Real-World Example",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:766/1*qmbZWzZv42XPqS93tAD2HA.png"
+        },
+        {
+          "id": "https://medium.com/p/ff0e7472630e",
+          "author": "Mohammed Mansoor KN",
+          "description": "In the initial stage, while the mainstream technology companies had started to implement blockchain technology into their projects, the…",
+          "link": "https://coinsbench.com/truffle-framework-an-in-depth-look-at-its-structure-and-architecture-ff0e7472630e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-02T11:16:09.000Z",
+          "wordCount": 3637,
+          "title": "Truffle Framework: An In-Depth Look at Its Structure and Architecture",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:900/0*TZO-GWwH1zGVVDSA"
+        },
+        {
+          "id": "https://medium.com/p/dee5807ed110",
+          "author": "Mohammed Mansoor KN",
+          "description": "With the potential to accelerate several industries and be popularized by Bitcoin, blockchain technology became one of the most reliable…",
+          "link": "https://coinsbench.com/blockchain-security-assessment-methodology-how-to-safeguard-your-network-from-cyber-threats-dee5807ed110?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-02T11:16:05.000Z",
+          "wordCount": 3534,
+          "title": "Blockchain Security Assessment Methodology: How to Safeguard Your Network from Cyber Threats",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:900/0*x2Wopo3AVPnnLr9M"
+        },
+        {
           "id": "https://medium.com/p/f453b0623fee",
           "author": "Puranam Pradeep Picasso - ImbueDesk Profile",
           "description": "Brief Introduction To This Article:",
@@ -117,56 +167,6 @@
           "wordCount": 2783,
           "title": "EVM-Based Blockchains Payment Gateway",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:880/1*uAX9-VC7ylfM7IpQyC2zNQ.png"
-        },
-        {
-          "id": "https://medium.com/p/226cf370dcce",
-          "author": "Sajad Salehi",
-          "description": "Cross-chain smart contracts are decentralized applications that are composed of multiple different smart contracts deployed across multiple…",
-          "link": "https://coinsbench.com/architecting-the-future-of-web3-infrastructure-with-chainlink-ccip-226cf370dcce?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-29T16:33:54.000Z",
-          "wordCount": 3633,
-          "title": "Architecting the Future of Web3 infrastructure with Chainlink CCIP",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*HP72D4bs_m8gfdJijN2JDg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/b5c9d0e6ec0f",
-          "author": "simpleFish",
-          "description": "Ever wondered how a Stable coin like DAI is built?",
-          "link": "https://coinsbench.com/solidity-stable-coin-simplified-b5c9d0e6ec0f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-29T16:33:51.000Z",
-          "wordCount": 1590,
-          "title": "Solidity Stable Coin Simplified",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:578/1*yr03iwgbPK9IJPrtQik0iA.png"
-        },
-        {
-          "id": "https://medium.com/p/898d73f5b014",
-          "author": "Joe",
-          "description": "I will be showing you how to set up a factory smart contract that you or any other person can use to create different instances of a…",
-          "link": "https://coinsbench.com/creating-a-factory-contract-898d73f5b014?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-29T16:33:48.000Z",
-          "wordCount": 2313,
-          "title": "Creating a Factory Contract",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*A2XARZ30Mzj3KuruwtJqeg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ff0ebcbaa55e",
-          "author": "albertwhite",
-          "description": "One of the most classical and pervasive vulnerabilities in the web3 domain is reentrancy. This article delves into how it led to a…",
-          "link": "https://coinsbench.com/the-ultimate-guide-to-reentrancy-attacks-with-a-real-world-example-ff0ebcbaa55e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-29T16:33:46.000Z",
-          "wordCount": 2105,
-          "title": "The Ultimate Guide to Reentrancy Attacks with a Real-World Example",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jFVlmcv1pFP8aToN7Vt3SQ.png"
-        },
-        {
-          "id": "https://medium.com/p/65d1fb402bf",
-          "author": "Israel Ogunsola",
-          "description": "If you’re diving into the exciting world of Web3 development, you’re in for a treat! Let’s talk about one of the coolest tools in your…",
-          "link": "https://coinsbench.com/making-smart-contracts-smarter-with-functions-65d1fb402bf?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-08-25T16:40:32.000Z",
-          "wordCount": 2783,
-          "title": "Making Smart Contracts Smarter with Functions",
-          "imageUrl": null
         }
       ]
     },

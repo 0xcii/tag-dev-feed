@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-02T11:08:38.215Z</id>
+    <id>urn:2023-09-02T12:19:17.224Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-02T11:08:38.215Z</updated>
+    <updated>2023-09-02T12:19:17.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build a Decentralized Voting Dapp with Next.js, TypeScript, Tailwind CSS, and CometChat]]></title>
+        <id>https://medium.com/p/3e1aaa1cdced</id>
+        <link href="https://coinsbench.com/build-a-decentralized-voting-dapp-with-next-js-typescript-tailwind-css-and-cometchat-3e1aaa1cdced?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-09-02T11:16:56.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, we will teach you how to build your own decentralized voting dapp using Next.js, TypeScript, Tailwind CSS, and CometChat.]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paypal USD and the horrors of CBDCs]]></title>
+        <id>https://medium.com/p/2c3b86ed75a1</id>
+        <link href="https://coinsbench.com/paypal-usd-and-the-horrors-of-cbdcs-2c3b86ed75a1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-09-02T11:16:30.000Z</updated>
+        <summary type="html"><![CDATA[Since the dawn of times when money existed, banks offered their services and issued securities; they started by securing gold in banks and…]]></summary>
+        <author>
+            <name>Ethan Rouimi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Basic Reentrancy: Understanding Read-Only Reentrancy with a Real-World Example]]></title>
+        <id>https://medium.com/p/56ea78ac8b13</id>
+        <link href="https://coinsbench.com/beyond-basic-reentrancy-understanding-read-only-reentrancy-with-a-real-world-example-56ea78ac8b13?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-09-02T11:16:27.000Z</updated>
+        <summary type="html"><![CDATA[In my previous article, I discussed reentrancy. Here, however, we’ll delve into a variant of this vulnerability known as “Read Only…]]></summary>
+        <author>
+            <name>albertwhite</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Truffle Framework: An In-Depth Look at Its Structure and Architecture]]></title>
+        <id>https://medium.com/p/ff0e7472630e</id>
+        <link href="https://coinsbench.com/truffle-framework-an-in-depth-look-at-its-structure-and-architecture-ff0e7472630e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-09-02T11:16:09.000Z</updated>
+        <summary type="html"><![CDATA[In the initial stage, while the mainstream technology companies had started to implement blockchain technology into their projects, the…]]></summary>
+        <author>
+            <name>Mohammed Mansoor KN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Security Assessment Methodology: How to Safeguard Your Network from Cyber Threats]]></title>
+        <id>https://medium.com/p/dee5807ed110</id>
+        <link href="https://coinsbench.com/blockchain-security-assessment-methodology-how-to-safeguard-your-network-from-cyber-threats-dee5807ed110?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-09-02T11:16:05.000Z</updated>
+        <summary type="html"><![CDATA[With the potential to accelerate several industries and be popularized by Bitcoin, blockchain technology became one of the most reliable…]]></summary>
+        <author>
+            <name>Mohammed Mansoor KN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Risks associated with initial exchange offerings]]></title>
         <id>https://medium.com/p/9ca60b81ef6b</id>
@@ -186,46 +236,6 @@ We need a Fly account…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Architecting the Future of Web3 infrastructure with Chainlink CCIP]]></title>
-        <id>https://medium.com/p/226cf370dcce</id>
-        <link href="https://coinsbench.com/architecting-the-future-of-web3-infrastructure-with-chainlink-ccip-226cf370dcce?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-29T16:33:54.000Z</updated>
-        <summary type="html"><![CDATA[Cross-chain smart contracts are decentralized applications that are composed of multiple different smart contracts deployed across multiple…]]></summary>
-        <author>
-            <name>Sajad Salehi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Stable Coin Simplified]]></title>
-        <id>https://medium.com/p/b5c9d0e6ec0f</id>
-        <link href="https://coinsbench.com/solidity-stable-coin-simplified-b5c9d0e6ec0f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-29T16:33:51.000Z</updated>
-        <summary type="html"><![CDATA[Ever wondered how a Stable coin like DAI is built?]]></summary>
-        <author>
-            <name>simpleFish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a Factory Contract]]></title>
-        <id>https://medium.com/p/898d73f5b014</id>
-        <link href="https://coinsbench.com/creating-a-factory-contract-898d73f5b014?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-29T16:33:48.000Z</updated>
-        <summary type="html"><![CDATA[I will be showing you how to set up a factory smart contract that you or any other person can use to create different instances of a…]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to Reentrancy Attacks with a Real-World Example]]></title>
-        <id>https://medium.com/p/ff0ebcbaa55e</id>
-        <link href="https://coinsbench.com/the-ultimate-guide-to-reentrancy-attacks-with-a-real-world-example-ff0ebcbaa55e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-29T16:33:46.000Z</updated>
-        <summary type="html"><![CDATA[One of the most classical and pervasive vulnerabilities in the web3 domain is reentrancy. This article delves into how it led to a…]]></summary>
-        <author>
-            <name>albertwhite</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is Ocean Living The Future Of Cities? | Crypto Powered Decentralized Communities]]></title>
         <id>https://www.cryptomaton.org/?p=1555</id>
         <link href="https://www.cryptomaton.org/2023/08/28/is-ocean-living-the-future-of-cities-crypto-powered-decentralized-communities/"/>
@@ -260,16 +270,6 @@ Mattia: https://twitter.com/mattiapomelli
 https://www.youtube.com/watch?v=Gqv_WEuweLQ]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Smart Contracts Smarter with Functions]]></title>
-        <id>https://medium.com/p/65d1fb402bf</id>
-        <link href="https://coinsbench.com/making-smart-contracts-smarter-with-functions-65d1fb402bf?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-08-25T16:40:32.000Z</updated>
-        <summary type="html"><![CDATA[If you’re diving into the exciting world of Web3 development, you’re in for a treat! Let’s talk about one of the coolest tools in your…]]></summary>
-        <author>
-            <name>Israel Ogunsola</name>
         </author>
     </entry>
     <entry>
