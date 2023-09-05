@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-05T06:15:09.236Z</id>
+    <id>urn:2023-09-05T07:10:53.390Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-05T06:15:09.236Z</updated>
+    <updated>2023-09-05T07:10:53.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -379,6 +379,7 @@ Here's how LayerZero organizes its' …]]></summary>
         <id>https://medium.com/p/1684873ebd32</id>
         <link href="https://blog.blockmagnates.com/building-a-decentralized-supply-chain-tracking-application-with-smart-contracts-express-summary-1684873ebd32?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-23T17:08:54.000Z</updated>
+        <summary type="html"><![CDATA[The original article and photo were taken from the source below:]]></summary>
         <author>
             <name>Crypto Express</name>
         </author>
@@ -400,6 +401,7 @@ So, I looked at their contracts and got an idea. Why not use the Rogs to go fish
         <id>https://medium.com/p/33ee45217078</id>
         <link href="https://blog.blockmagnates.com/all-major-blockchain-consensus-algorithms-explained-express-summary-33ee45217078?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-22T17:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Understanding the Different Types of Blockchain Consensus Mechanisms]]></summary>
         <author>
             <name>Crypto Express</name>
         </author>
@@ -409,6 +411,7 @@ So, I looked at their contracts and got an idea. Why not use the Rogs to go fish
         <id>https://medium.com/p/47dbd0d93623</id>
         <link href="https://blog.blockmagnates.com/solidity-events-and-logs-47dbd0d93623?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-21T12:30:09.000Z</updated>
+        <summary type="html"><![CDATA[What exactly is a Solidity event? When I first started learning, it really confused me while I was trying to fix issues in smart contracts…]]></summary>
         <author>
             <name>udeshika perera</name>
         </author>
@@ -418,6 +421,7 @@ So, I looked at their contracts and got an idea. Why not use the Rogs to go fish
         <id>https://medium.com/p/7f557bb29866</id>
         <link href="https://blog.blockmagnates.com/mastering-fallback-and-receive-functions-in-solidity-7f557bb29866?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-21T12:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Fallback Function:]]></summary>
         <author>
             <name>udeshika perera</name>
         </author>
@@ -456,6 +460,7 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <id>https://medium.com/p/8308e9a682d4</id>
         <link href="https://blog.blockmagnates.com/exploring-remix-storage-factory-a-deep-dive-into-ethereums-storage-layout-8308e9a682d4?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s Solidity language and its associated tools have evolved rapidly, providing developers with a wealth of features. One such tool…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -465,6 +470,7 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <id>https://medium.com/p/2eb6dfc11d85</id>
         <link href="https://blog.blockmagnates.com/constructing-zk-snarks-on-ethereum-a-technical-exploration-2eb6dfc11d85?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Zero-Knowledge Proofs (ZKPs) have garnered significant attention in the blockchain sphere, particularly zk-SNARKs. Standing for…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -474,6 +480,7 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <id>https://medium.com/p/3507242ce70b</id>
         <link href="https://blog.blockmagnates.com/optimizing-gas-usage-in-ethereum-smart-contracts-3507242ce70b?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:11:48.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to the Ethereum blockchain, one of the most discussed topics among developers is gas. Gas is essentially the fee required to…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -494,6 +501,7 @@ Continue reading on Block Magnates »]]></summary>
         <id>https://medium.com/p/6066cb112603</id>
         <link href="https://blog.blockmagnates.com/building-a-blockchain-application-with-smart-contracts-using-solidity-and-ethereum-6066cb112603?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-14T13:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Step 1: Setting Up the Development Environment]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -503,6 +511,7 @@ Continue reading on Block Magnates »]]></summary>
         <id>https://medium.com/p/ca0b35165788</id>
         <link href="https://blog.blockmagnates.com/create-a-fallback-retry-provider-for-jsonrpcprovider-ca0b35165788?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-14T13:15:11.000Z</updated>
+        <summary type="html"><![CDATA[We’ll create a custom JsonRpcProvider with retry capabilities as well as fallback node URLs.]]></summary>
         <author>
             <name>Jan Cibulka</name>
         </author>
