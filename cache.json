@@ -263,6 +263,16 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/d64c4723f435",
+          "author": "Joe",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-09-12T13:25:31.000Z",
+          "wordCount": null,
+          "title": "ERC20 Tokens Selling Contract",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/3cc12246147c",
           "author": "udeshika perera",
           "description": "",
@@ -350,16 +360,6 @@
           "publishedOn": "2023-08-14T13:15:17.000Z",
           "wordCount": null,
           "title": "Beyond Default Messages: Mastering Custom Errors in Solidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6066cb112603",
-          "author": "Bintang Miftaqul Huda",
-          "description": "",
-          "link": "https://blog.blockmagnates.com/building-a-blockchain-application-with-smart-contracts-using-solidity-and-ethereum-6066cb112603?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2023-08-14T13:15:12.000Z",
-          "wordCount": null,
-          "title": "Building a Blockchain Application with Smart Contracts Using Solidity and Ethereum",
           "imageUrl": null
         }
       ]

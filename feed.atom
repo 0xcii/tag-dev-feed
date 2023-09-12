@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-12T13:15:01.065Z</id>
+    <id>urn:2023-09-12T14:11:08.674Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-12T13:15:01.066Z</updated>
+    <updated>2023-09-12T14:11:08.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ERC20 Tokens Selling Contract]]></title>
+        <id>https://medium.com/p/d64c4723f435</id>
+        <link href="https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-09-12T13:25:31.000Z</updated>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taking on Google and Amazon: How Akash aims to Decentralize the Cloud Market]]></title>
         <id>https://medium.com/p/cd9d67bfc5b0</id>
@@ -477,15 +486,6 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
 Continue reading on Block Magnates »]]></summary>
         <author>
             <name>Kristaps Grinbergs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Blockchain Application with Smart Contracts Using Solidity and Ethereum]]></title>
-        <id>https://medium.com/p/6066cb112603</id>
-        <link href="https://blog.blockmagnates.com/building-a-blockchain-application-with-smart-contracts-using-solidity-and-ethereum-6066cb112603?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-08-14T13:15:12.000Z</updated>
-        <author>
-            <name>Bintang Miftaqul Huda</name>
         </author>
     </entry>
 </feed>
