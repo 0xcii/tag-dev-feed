@@ -104,7 +104,7 @@
           "description": "Since the dawn of times when money existed, banks offered their services and issued securities; they started by securing gold in banks and…",
           "link": "https://coinsbench.com/paypal-usd-and-the-horrors-of-cbdcs-2c3b86ed75a1?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-02T11:16:30.000Z",
-          "wordCount": 4184,
+          "wordCount": 4183,
           "title": "Paypal USD and the horrors of CBDCs",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*s3sX-I3F6hVzVNBk"
         },
@@ -114,7 +114,7 @@
           "description": "In my previous article, I discussed reentrancy. Here, however, we’ll delve into a variant of this vulnerability known as “Read Only…",
           "link": "https://coinsbench.com/beyond-basic-reentrancy-understanding-read-only-reentrancy-with-a-real-world-example-56ea78ac8b13?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-02T11:16:27.000Z",
-          "wordCount": 2223,
+          "wordCount": 2222,
           "title": "Beyond Basic Reentrancy: Understanding Read-Only Reentrancy with a Real-World Example",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:766/1*qmbZWzZv42XPqS93tAD2HA.png"
         },
@@ -268,7 +268,7 @@
           "description": "In this article I will be showing you how to create a contract that allows different people purchase ERC20 tokens from your contract using…",
           "link": "https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-12T13:25:31.000Z",
-          "wordCount": 3017,
+          "wordCount": 3016,
           "title": "ERC20 Tokens Selling Contract",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*xQ6ogVQOh0FIkKJU6M7RuQ.jpeg"
         },
@@ -278,7 +278,7 @@
           "description": "Is Blockchain Immutable?",
           "link": "https://blog.blockmagnates.com/upgradable-smart-contracts-part-1-3cc12246147c?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-05T17:33:07.000Z",
-          "wordCount": 2727,
+          "wordCount": 2726,
           "title": "Upgradable Smart Contracts(Part 1)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*RtVYCRa8-26efxVs1IKM5g.png"
         },
@@ -288,7 +288,7 @@
           "description": "The original article and photo were taken from the source below:",
           "link": "https://blog.blockmagnates.com/building-a-decentralized-supply-chain-tracking-application-with-smart-contracts-express-summary-1684873ebd32?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-23T17:08:54.000Z",
-          "wordCount": 2509,
+          "wordCount": 2508,
           "title": "Building a Decentralized Supply Chain Tracking Application with Smart Contracts (Express Summary)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*H6p0Rp7327Fdj87xf1Femw.png"
         },
@@ -308,7 +308,7 @@
           "description": "What exactly is a Solidity event? When I first started learning, it really confused me while I was trying to fix issues in smart contracts…",
           "link": "https://blog.blockmagnates.com/solidity-events-and-logs-47dbd0d93623?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-21T12:30:09.000Z",
-          "wordCount": 2573,
+          "wordCount": 2572,
           "title": "Solidity Events and Logs",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1040/1*7u8u8AUQ5wldpTAYivcYQQ.png"
         },
@@ -318,7 +318,7 @@
           "description": "Fallback Function:",
           "link": "https://blog.blockmagnates.com/mastering-fallback-and-receive-functions-in-solidity-7f557bb29866?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-21T12:30:03.000Z",
-          "wordCount": 2265,
+          "wordCount": 2264,
           "title": "Fallback and Receive Functions in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YnMj72Y-jlbWt1oZb-c7AA.png"
         },
@@ -328,7 +328,7 @@
           "description": "Ethereum’s Solidity language and its associated tools have evolved rapidly, providing developers with a wealth of features. One such tool…",
           "link": "https://blog.blockmagnates.com/exploring-remix-storage-factory-a-deep-dive-into-ethereums-storage-layout-8308e9a682d4?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-18T16:13:09.000Z",
-          "wordCount": 2390,
+          "wordCount": 2389,
           "title": "Exploring Remix Storage Factory: A Deep Dive into Ethereum’s Storage Layout",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*l8vv7aOKcKq0EoPG"
         },
@@ -338,7 +338,7 @@
           "description": "Zero-Knowledge Proofs (ZKPs) have garnered significant attention in the blockchain sphere, particularly zk-SNARKs. Standing for…",
           "link": "https://blog.blockmagnates.com/constructing-zk-snarks-on-ethereum-a-technical-exploration-2eb6dfc11d85?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-18T16:13:05.000Z",
-          "wordCount": 2035,
+          "wordCount": 2034,
           "title": "Constructing zk-SNARKs on Ethereum: A Technical Exploration",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*seVU0rQdIbp3E-MT"
         },
@@ -348,19 +348,9 @@
           "description": "When it comes to the Ethereum blockchain, one of the most discussed topics among developers is gas. Gas is essentially the fee required to…",
           "link": "https://blog.blockmagnates.com/optimizing-gas-usage-in-ethereum-smart-contracts-3507242ce70b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-18T16:11:48.000Z",
-          "wordCount": 2833,
+          "wordCount": 2832,
           "title": "Optimizing Gas Usage in Ethereum Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*KidFpulP1WrT-Jlt"
-        },
-        {
-          "id": "https://medium.com/p/3160f4a2806",
-          "author": "Kristaps Grinbergs",
-          "description": "Solidity’s custom errors offer significant advantages in blockchain development, enhancing smart contract robustness and clarity. These…\nContinue reading on Block Magnates »",
-          "link": "https://blog.blockmagnates.com/beyond-default-messages-mastering-custom-errors-in-solidity-3160f4a2806?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2023-08-14T13:15:17.000Z",
-          "wordCount": 2226,
-          "title": "Beyond Default Messages: Mastering Custom Errors in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*rFOjl9RMCluH-bxm"
         }
       ]
     },

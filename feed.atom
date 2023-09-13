@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-13T00:53:23.041Z</id>
+    <id>urn:2023-09-13T01:47:35.872Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-13T00:53:23.041Z</updated>
+    <updated>2023-09-13T01:47:35.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -503,17 +503,6 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <summary type="html"><![CDATA[When it comes to the Ethereum blockchain, one of the most discussed topics among developers is gas. Gas is essentially the fee required to…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Default Messages: Mastering Custom Errors in Solidity]]></title>
-        <id>https://medium.com/p/3160f4a2806</id>
-        <link href="https://blog.blockmagnates.com/beyond-default-messages-mastering-custom-errors-in-solidity-3160f4a2806?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-08-14T13:15:17.000Z</updated>
-        <summary type="html"><![CDATA[Solidity’s custom errors offer significant advantages in blockchain development, enhancing smart contract robustness and clarity. These…
-Continue reading on Block Magnates »]]></summary>
-        <author>
-            <name>Kristaps Grinbergs</name>
         </author>
     </entry>
 </feed>
