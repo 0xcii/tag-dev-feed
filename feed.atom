@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-14T04:13:25.317Z</id>
+    <id>urn:2023-09-14T05:10:49.564Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-14T04:13:25.317Z</updated>
+    <updated>2023-09-14T05:10:49.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Transformative Power of Blockchain: Insights from Top TED Talks]]></title>
+        <id>https://medium.com/p/e4dc3ad87fb2</id>
+        <link href="https://coinsbench.com/exploring-the-transformative-power-of-blockchain-insights-from-top-ted-talks-e4dc3ad87fb2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-09-14T04:07:38.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a journey into the world of blockchain, a revolutionary technology that has been disrupting industries and changing the way we…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 6 Account Abstraction Providers: An In-Depth Review]]></title>
         <id>https://medium.com/p/3a09b9fc707c</id>
@@ -200,16 +210,6 @@ Continue reading on CoinsBench »]]></summary>
 - Storage: creates a pointer to the original variable]]></summary>
         <author>
             <name>simpleFish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atomic Swap between Bitcoin and Ordinals]]></title>
-        <id>https://medium.com/p/90f39a96f8fc</id>
-        <link href="https://coinsbench.com/atomic-swap-between-bitcoin-and-ordinals-90f39a96f8fc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-09-13T15:03:48.000Z</updated>
-        <summary type="html"><![CDATA[Using Hash Time-Locked Contracts]]></summary>
-        <author>
-            <name>sCrypt</name>
         </author>
     </entry>
     <entry>
