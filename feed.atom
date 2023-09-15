@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-15T14:10:37.071Z</id>
+    <id>urn:2023-09-15T15:11:27.048Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-15T14:10:37.071Z</updated>
+    <updated>2023-09-15T15:11:27.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building and Deploying a Dynamic MultiSig Wallet With BuildBear Testnet.]]></title>
+        <id>https://medium.com/p/e27ceea7a055</id>
+        <link href="https://blog.blockmagnates.com/building-and-deploying-a-dynamic-multisig-wallet-with-buildbear-testnet-e27ceea7a055?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-09-15T14:58:02.000Z</updated>
+        <author>
+            <name>Sunday Olubode</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperlane from A to Z]]></title>
         <id>https://blog.developerdao.com/hyperlane-from-a-to-z</id>
@@ -26,7 +35,6 @@ Hyperlane is a permissionless intero…]]></summary>
         <id>https://medium.com/p/aad1e41c336b</id>
         <link href="https://medium.com/coinmonks/smart-contracts-in-cosmos-ecosystem-cosmwasm-and-ethermint-aad1e41c336b?source=rss----721b17443fd5---4"/>
         <updated>2023-09-15T09:52:03.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts have revolutionized various sectors by leveraging blockchain technology for secure and automated transactions. Within the…]]></summary>
         <author>
             <name>36Crypto</name>
         </author>
@@ -47,7 +55,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/2bc39279cde6</id>
         <link href="https://medium.com/coinmonks/building-customer-loyalty-program-with-satoshi-based-tokens-a-revolution-in-rewards-2bc39279cde6?source=rss----721b17443fd5---4"/>
         <updated>2023-09-15T09:52:00.000Z</updated>
-        <summary type="html"><![CDATA[In an era where customer engagement is key to success, the integration of blockchain technology into loyalty programs presents a revolutionary approach. The Satoshi-pegged token system takes this…]]></summary>
         <author>
             <name>Knidos.eth</name>
         </author>
@@ -57,7 +64,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/9fe4e333739f</id>
         <link href="https://medium.com/coinmonks/reaching-financial-freedom-crypto-quantum-leap-revealed-9fe4e333739f?source=rss----721b17443fd5---4"/>
         <updated>2023-09-15T09:51:58.000Z</updated>
-        <summary type="html"><![CDATA[Greetings, fellow seekers of financial prowess! Today, I am absolutely delighted to unveil the treasure trove of insights we have…]]></summary>
         <author>
             <name>Ethan Grant</name>
         </author>
@@ -67,7 +73,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/b0603d6e8f94</id>
         <link href="https://medium.com/coinmonks/web-2-5-is-approaching-and-new-exploits-too-b0603d6e8f94?source=rss----721b17443fd5---4"/>
         <updated>2023-09-15T09:51:58.000Z</updated>
-        <summary type="html"><![CDATA[Mass adoption has been a cornerstone of the crypto industry for years. While everyone realized that the only way to make crypto flourisin…]]></summary>
         <author>
             <name>SmartState.tech</name>
         </author>
@@ -99,7 +104,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/466714ad55a3</id>
         <link href="https://medium.com/coinmonks/solidity-top-10-common-issues-466714ad55a3?source=rss----721b17443fd5---4"/>
         <updated>2023-09-15T09:51:51.000Z</updated>
-        <summary type="html"><![CDATA[A Comprehensive Guide to Smoother Ethereum Smart Contract Development 📜]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -109,7 +113,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/b5f7a4414eea</id>
         <link href="https://medium.com/coinmonks/exploring-the-benefits-of-cryptocurrency-mlm-software-in-network-marketing-b5f7a4414eea?source=rss----721b17443fd5---4"/>
         <updated>2023-09-15T09:51:47.000Z</updated>
-        <summary type="html"><![CDATA[In today’s fast-paced digital world, cryptocurrencies have emerged as a disruptive force, changing the landscape of various industries…]]></summary>
         <author>
             <name>Jennifer lewis</name>
         </author>
@@ -119,7 +122,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/603394d05a55</id>
         <link href="https://coinsbench.com/%EF%B8%8F-%EF%B8%8F-the-comprehensive-roadmap-to-becoming-a-smart-contract-auditor-in-solidity-603394d05a55?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-15T08:06:01.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced world of blockchain and decentralized applications (DApps), security is paramount. Smart contracts, written in Solidity…]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -129,7 +131,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/dc82ca22541f</id>
         <link href="https://medium.com/coinmonks/the-synergy-of-crypto-and-finance-opportunities-beyond-boundaries-dc82ca22541f?source=rss----721b17443fd5---4"/>
         <updated>2023-09-15T07:59:32.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving landscape of blockchain and cryptocurrencies, there’s a trend that’s captivating both investors and enthusiasts: the…]]></summary>
         <author>
             <name>Maylenasland</name>
         </author>
@@ -139,7 +140,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/2d2a8fabd834</id>
         <link href="https://coinsbench.com/rareskills-solidity-interview-question-2-answered-2d2a8fabd834?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-14T14:18:56.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
         </author>
@@ -149,7 +149,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/1c66510ee198</id>
         <link href="https://coinsbench.com/smart-contracts-and-security-1c66510ee198?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-14T14:18:53.000Z</updated>
-        <summary type="html"><![CDATA[In our digital age, trust is the glue that holds our online world together. Whether you’re buying stuff online, managing your digital…]]></summary>
         <author>
             <name>Nouha Ben</name>
         </author>
@@ -159,7 +158,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/c94111942bfd</id>
         <link href="https://coinsbench.com/rareskills-solidity-interview-question-3-answered-c94111942bfd?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-14T14:18:47.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
         </author>
@@ -169,7 +167,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/e4dc3ad87fb2</id>
         <link href="https://coinsbench.com/exploring-the-transformative-power-of-blockchain-insights-from-top-ted-talks-e4dc3ad87fb2?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-14T04:07:38.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to a journey into the world of blockchain, a revolutionary technology that has been disrupting industries and changing the way we…]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -179,7 +176,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/671214a2721</id>
         <link href="https://coinsbench.com/building-ethereum-smart-contract-interactions-with-react-671214a2721?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-13T15:05:20.000Z</updated>
-        <summary type="html"><![CDATA[React is a popular JavaScript library for building user interfaces. It’s commonly used to create web applications with dynamic, interactive…]]></summary>
         <author>
             <name>Brian</name>
         </author>
@@ -189,7 +185,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/154383f22056</id>
         <link href="https://coinsbench.com/exploring-blockchains-use-cases-and-advantages-across-industries-154383f22056?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-13T15:05:17.000Z</updated>
-        <summary type="html"><![CDATA[One of the most revolutionary inventions of our time is blockchain technology. Blockchain was initially developed to support…]]></summary>
         <author>
             <name>Rishit Aggarwal</name>
         </author>
@@ -210,7 +205,6 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/f3ec9427f86a</id>
         <link href="https://coinsbench.com/unraveling-the-cosmos-sdk-a-deep-dive-into-user-initiated-transactions-f3ec9427f86a?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-13T15:05:12.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Ajmal</name>
         </author>
@@ -220,7 +214,6 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/4bb3b5a7e72f</id>
         <link href="https://coinsbench.com/off-chain-transactions-on-blockchain-introducing-signature-based-workflow-4bb3b5a7e72f?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-13T15:05:09.000Z</updated>
-        <summary type="html"><![CDATA[The concepts behind lazy minting and how modern web3 platforms save on their (and their users’) gas fees.]]></summary>
         <author>
             <name>Dharmveer Bharti</name>
         </author>
@@ -230,7 +223,6 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/d64c4723f435</id>
         <link href="https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-12T13:25:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article I will be showing you how to create a contract that allows different people purchase ERC20 tokens from your contract using…]]></summary>
         <author>
             <name>Joe</name>
         </author>
@@ -240,7 +232,6 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/3cc12246147c</id>
         <link href="https://blog.blockmagnates.com/upgradable-smart-contracts-part-1-3cc12246147c?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-05T17:33:07.000Z</updated>
-        <summary type="html"><![CDATA[Is Blockchain Immutable?]]></summary>
         <author>
             <name>udeshika perera</name>
         </author>
@@ -416,7 +407,6 @@ Here's how LayerZero organizes its' …]]></summary>
         <id>https://medium.com/p/1684873ebd32</id>
         <link href="https://blog.blockmagnates.com/building-a-decentralized-supply-chain-tracking-application-with-smart-contracts-express-summary-1684873ebd32?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-23T17:08:54.000Z</updated>
-        <summary type="html"><![CDATA[The original article and photo were taken from the source below:]]></summary>
         <author>
             <name>Crypto Express</name>
         </author>
@@ -438,7 +428,6 @@ So, I looked at their contracts and got an idea. Why not use the Rogs to go fish
         <id>https://medium.com/p/33ee45217078</id>
         <link href="https://blog.blockmagnates.com/all-major-blockchain-consensus-algorithms-explained-express-summary-33ee45217078?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-22T17:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the Different Types of Blockchain Consensus Mechanisms]]></summary>
         <author>
             <name>Crypto Express</name>
         </author>
@@ -448,7 +437,6 @@ So, I looked at their contracts and got an idea. Why not use the Rogs to go fish
         <id>https://medium.com/p/47dbd0d93623</id>
         <link href="https://blog.blockmagnates.com/solidity-events-and-logs-47dbd0d93623?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-21T12:30:09.000Z</updated>
-        <summary type="html"><![CDATA[What exactly is a Solidity event? When I first started learning, it really confused me while I was trying to fix issues in smart contracts…]]></summary>
         <author>
             <name>udeshika perera</name>
         </author>
@@ -458,7 +446,6 @@ So, I looked at their contracts and got an idea. Why not use the Rogs to go fish
         <id>https://medium.com/p/7f557bb29866</id>
         <link href="https://blog.blockmagnates.com/mastering-fallback-and-receive-functions-in-solidity-7f557bb29866?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-21T12:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Fallback Function:]]></summary>
         <author>
             <name>udeshika perera</name>
         </author>
@@ -497,7 +484,6 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <id>https://medium.com/p/8308e9a682d4</id>
         <link href="https://blog.blockmagnates.com/exploring-remix-storage-factory-a-deep-dive-into-ethereums-storage-layout-8308e9a682d4?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:13:09.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum’s Solidity language and its associated tools have evolved rapidly, providing developers with a wealth of features. One such tool…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -507,7 +493,6 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <id>https://medium.com/p/2eb6dfc11d85</id>
         <link href="https://blog.blockmagnates.com/constructing-zk-snarks-on-ethereum-a-technical-exploration-2eb6dfc11d85?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:13:05.000Z</updated>
-        <summary type="html"><![CDATA[Zero-Knowledge Proofs (ZKPs) have garnered significant attention in the blockchain sphere, particularly zk-SNARKs. Standing for…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
@@ -517,7 +502,6 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <id>https://medium.com/p/3507242ce70b</id>
         <link href="https://blog.blockmagnates.com/optimizing-gas-usage-in-ethereum-smart-contracts-3507242ce70b?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:11:48.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to the Ethereum blockchain, one of the most discussed topics among developers is gas. Gas is essentially the fee required to…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
