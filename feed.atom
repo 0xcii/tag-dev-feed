@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-16T08:13:07.197Z</id>
+    <id>urn:2023-09-16T09:10:22.751Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-16T08:13:07.197Z</updated>
+    <updated>2023-09-16T09:10:22.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Discover Coinismus: Your Ultimate Resource for Web3, Blockchain, and Solidity]]></title>
+        <id>https://medium.com/p/d696391cd7</id>
+        <link href="https://coinsbench.com/discover-coinismus-your-ultimate-resource-for-web3-blockchain-and-solidity-d696391cd7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-09-16T08:06:01.000Z</updated>
+        <summary type="html"><![CDATA[Are you eager to dive into the exciting world of Web3, Blockchain, and Solidity? Look no further! We’ve stumbled upon a treasure trove of…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Decentralized Identity: The Quest to Reclaim Online Reputation Across Web3]]></title>
         <id>https://medium.com/p/cc3c2577a1f8</id>
@@ -112,6 +122,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/e27ceea7a055</id>
         <link href="https://blog.blockmagnates.com/building-and-deploying-a-dynamic-multisig-wallet-with-buildbear-testnet-e27ceea7a055?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-15T14:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Sunday Olubode</name>
         </author>
@@ -197,6 +208,7 @@ Hyperlane is a permissionless intero…]]></summary>
         <id>https://medium.com/p/154383f22056</id>
         <link href="https://coinsbench.com/exploring-blockchains-use-cases-and-advantages-across-industries-154383f22056?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-13T15:05:17.000Z</updated>
+        <summary type="html"><![CDATA[One of the most revolutionary inventions of our time is blockchain technology. Blockchain was initially developed to support…]]></summary>
         <author>
             <name>Rishit Aggarwal</name>
         </author>
@@ -217,17 +229,9 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/f3ec9427f86a</id>
         <link href="https://coinsbench.com/unraveling-the-cosmos-sdk-a-deep-dive-into-user-initiated-transactions-f3ec9427f86a?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-13T15:05:12.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Ajmal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Off-chain transactions on blockchain: introducing signature based workflow]]></title>
-        <id>https://medium.com/p/4bb3b5a7e72f</id>
-        <link href="https://coinsbench.com/off-chain-transactions-on-blockchain-introducing-signature-based-workflow-4bb3b5a7e72f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-09-13T15:05:09.000Z</updated>
-        <author>
-            <name>Dharmveer Bharti</name>
         </author>
     </entry>
     <entry>
@@ -235,6 +239,7 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/d64c4723f435</id>
         <link href="https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-12T13:25:31.000Z</updated>
+        <summary type="html"><![CDATA[In this article I will be showing you how to create a contract that allows different people purchase ERC20 tokens from your contract using…]]></summary>
         <author>
             <name>Joe</name>
         </author>
@@ -244,6 +249,7 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/3cc12246147c</id>
         <link href="https://blog.blockmagnates.com/upgradable-smart-contracts-part-1-3cc12246147c?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-05T17:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Is Blockchain Immutable?]]></summary>
         <author>
             <name>udeshika perera</name>
         </author>
@@ -419,6 +425,7 @@ Here's how LayerZero organizes its' …]]></summary>
         <id>https://medium.com/p/1684873ebd32</id>
         <link href="https://blog.blockmagnates.com/building-a-decentralized-supply-chain-tracking-application-with-smart-contracts-express-summary-1684873ebd32?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-23T17:08:54.000Z</updated>
+        <summary type="html"><![CDATA[The original article and photo were taken from the source below:]]></summary>
         <author>
             <name>Crypto Express</name>
         </author>
@@ -440,6 +447,7 @@ So, I looked at their contracts and got an idea. Why not use the Rogs to go fish
         <id>https://medium.com/p/33ee45217078</id>
         <link href="https://blog.blockmagnates.com/all-major-blockchain-consensus-algorithms-explained-express-summary-33ee45217078?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-22T17:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Understanding the Different Types of Blockchain Consensus Mechanisms]]></summary>
         <author>
             <name>Crypto Express</name>
         </author>
@@ -459,6 +467,7 @@ So, I looked at their contracts and got an idea. Why not use the Rogs to go fish
         <id>https://medium.com/p/7f557bb29866</id>
         <link href="https://blog.blockmagnates.com/mastering-fallback-and-receive-functions-in-solidity-7f557bb29866?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-21T12:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Fallback Function:]]></summary>
         <author>
             <name>udeshika perera</name>
         </author>
@@ -507,6 +516,7 @@ https://www.youtube.com/watch?v=WSx5bFl2h70]]></summary>
         <id>https://medium.com/p/2eb6dfc11d85</id>
         <link href="https://blog.blockmagnates.com/constructing-zk-snarks-on-ethereum-a-technical-exploration-2eb6dfc11d85?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-08-18T16:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Zero-Knowledge Proofs (ZKPs) have garnered significant attention in the blockchain sphere, particularly zk-SNARKs. Standing for…]]></summary>
         <author>
             <name>Bintang Miftaqul Huda</name>
         </author>
