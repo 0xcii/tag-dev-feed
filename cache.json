@@ -74,7 +74,7 @@
           "description": "Recently, a bug was discovered in the Vyper compiler that allowed functions decorated with @nonreentrant to be called multiple times within the same transaction. This bug, known to exist between…",
           "link": "https://coinsbench.com/exploring-the-vyper-compiler-nonreentrancy-guard-bug-ff20d6c4b51b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-19T14:30:47.000Z",
-          "wordCount": 3614,
+          "wordCount": 3600,
           "title": "Exploring the Vyper Compiler Nonreentrancy Guard Bug",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6-yQ6Bl4LZhFC1UKcgrrMg.png"
         },
@@ -84,7 +84,7 @@
           "description": "Hardware requirements",
           "link": "https://coinsbench.com/run-an-ethereum-full-node-with-lighthouse-and-erigon-3408b7c2af0d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-19T14:30:44.000Z",
-          "wordCount": 2253,
+          "wordCount": 2239,
           "title": "Run an Ethereum full node with lighthouse and Erigon",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:738/1*azTpw101u8JlWsH7ShElAA.png"
         },
@@ -104,7 +104,7 @@
           "description": "Bridging Smart Contracts with Web Applications using Solidity",
           "link": "https://coinsbench.com/web3-integration-7a6845bb2e64?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-17T13:51:43.000Z",
-          "wordCount": 3446,
+          "wordCount": 3432,
           "title": "Web3 Integration",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*BF7J9TpH9qdccE81"
         },
@@ -124,7 +124,7 @@
           "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
           "link": "https://coinsbench.com/rareskills-solidity-interview-question-4-answered-what-major-change-with-arithmetic-happened-with-abbd13c700d0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-16T12:48:43.000Z",
-          "wordCount": 2050,
+          "wordCount": 2036,
           "title": "RareSkills Solidity Interview Question #4 Answered: What major change with arithmetic happened with…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yXUBFC_yoNECrmjkhfgyUw.png"
         },
@@ -134,7 +134,7 @@
           "description": "Introduction: now you get understanding of ethereum account abstraction",
           "link": "https://coinsbench.com/understanding-ethereum-account-abstraction-revolutionizing-smart-contract-interactions-6de9c91af39b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-16T12:48:41.000Z",
-          "wordCount": 2754,
+          "wordCount": 2740,
           "title": "Understanding Ethereum Account Abstraction: Revolutionizing Smart Contract Interactions",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8uwb9SIz1fpJfeAH4QVtYA.jpeg"
         },
@@ -144,7 +144,7 @@
           "description": "Are you eager to dive into the exciting world of Web3, Blockchain, and Solidity? Look no further! We’ve stumbled upon a treasure trove of…",
           "link": "https://coinsbench.com/discover-coinismus-your-ultimate-resource-for-web3-blockchain-and-solidity-d696391cd7?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-16T08:06:01.000Z",
-          "wordCount": 2441,
+          "wordCount": 2427,
           "title": "Discover Coinismus: Your Ultimate Resource for Web3, Blockchain, and Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uS13wHhzQicSHpMvmxbjYg.jpeg"
         }
@@ -201,7 +201,7 @@
           "description": "Multi-level marketing (MLM) has been a popular business model for decades, offering individuals the opportunity to earn income by selling…",
           "link": "https://medium.com/coinmonks/tron-smart-contract-mlm-software-revolutionizing-network-marketing-7e7eded04c36?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-19T15:19:45.000Z",
-          "wordCount": 3437,
+          "wordCount": 3433,
           "title": "Tron Smart Contract MLM Software: Revolutionizing Network Marketing",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6VwIo9tBPDxIrKgZ3eQzoQ.png"
         },
@@ -268,7 +268,7 @@
           "description": "Introduction",
           "link": "https://blog.blockmagnates.com/building-and-deploying-a-dynamic-multisig-wallet-with-buildbear-testnet-e27ceea7a055?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-15T14:58:02.000Z",
-          "wordCount": 2829,
+          "wordCount": 2828,
           "title": "Building and Deploying a Dynamic MultiSig Wallet With BuildBear Testnet.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:828/1*plY9AJkD-da0FZAgqSvdqg.jpeg"
         },
@@ -278,7 +278,7 @@
           "description": "In this article I will be showing you how to create a contract that allows different people purchase ERC20 tokens from your contract using…",
           "link": "https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-12T13:25:31.000Z",
-          "wordCount": 3053,
+          "wordCount": 3039,
           "title": "ERC20 Tokens Selling Contract",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*xQ6ogVQOh0FIkKJU6M7RuQ.jpeg"
         },
@@ -288,7 +288,7 @@
           "description": "Is Blockchain Immutable?",
           "link": "https://blog.blockmagnates.com/upgradable-smart-contracts-part-1-3cc12246147c?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-05T17:33:07.000Z",
-          "wordCount": 2647,
+          "wordCount": 2633,
           "title": "Upgradable Smart Contracts(Part 1)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*RtVYCRa8-26efxVs1IKM5g.png"
         },
@@ -318,7 +318,7 @@
           "description": "What exactly is a Solidity event? When I first started learning, it really confused me while I was trying to fix issues in smart contracts…",
           "link": "https://blog.blockmagnates.com/solidity-events-and-logs-47dbd0d93623?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-21T12:30:09.000Z",
-          "wordCount": 2463,
+          "wordCount": 2449,
           "title": "Solidity Events and Logs",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1040/1*7u8u8AUQ5wldpTAYivcYQQ.png"
         },
@@ -328,7 +328,7 @@
           "description": "Fallback Function:",
           "link": "https://blog.blockmagnates.com/mastering-fallback-and-receive-functions-in-solidity-7f557bb29866?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-08-21T12:30:03.000Z",
-          "wordCount": 2198,
+          "wordCount": 2184,
           "title": "Fallback and Receive Functions in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YnMj72Y-jlbWt1oZb-c7AA.png"
         }
