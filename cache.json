@@ -335,7 +335,7 @@
       ]
     },
     {
-      "title": "Developer DAO",
+      "title": "Developer DAO Blog | Web3 Tutorials",
       "feedUrl": "https://blog.developerdao.com/rss.xml",
       "siteUrl": "https://blog.developerdao.com",
       "articles": [
@@ -345,7 +345,7 @@
           "description": "gm gm gm!!!\nEven in a vast blockchain network with countless nodes and layers, users need help utilizing the decentralized network's complete potential because DApps use different chains. Some use Ethereum, some Polygon, some Gnosis, and so on!\nIn this environment, developers should build chain-agnostic applicationsno dependency on one chain and no restriction for any user.\nNow, solving this interoperability issue between different chains requires devs to build robust and, more importantly, secure designs, which is a highly technical and resourceful process, and to save devs from going through such pain Hyperlane comes into the picture.\nThis article will explain almost all about Hyperlane and how it works, so grab a coffee  and LFG 🚀\nWhat is Hyperlane?\nHyperlane is a permissionless intero…",
           "link": "https://blog.developerdao.com/hyperlane-from-a-to-z",
           "publishedOn": "2023-09-15T10:58:18.000Z",
-          "wordCount": 8045,
+          "wordCount": 8342,
           "title": "Hyperlane from A to Z",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1694607113803%2Fccebbcf4-ef39-485f-a0c6-f4c2fb9400c9.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -355,7 +355,7 @@
           "description": "Building and deploying your own NFT collection can be time and money-consuming, especially with the gas prices on Ethereum. With the rise of layer-2 solutions and cheap RPCs, this doesn't have to be the case! This tutorial will explain building an NFT Collection using the ERC-721 token standard. You will store all NFT assets and metadata on IPFS with QuickNode and deploy the smart contract on Optimism Goerli Testnet.\nRequirements\nA basic understanding of Solidity development will be helpful but is not required.\nA basic understanding of the ERC-721 token standard will be helpful but is not required.\nA basic understanding of the Remix IDE will be helpful but is not required.\nImage assets and metadata of the NFT collections.\nMetaMask or any other wallet and a small amount of Goerli test ETH.\n…",
           "link": "https://blog.developerdao.com/build-your-own-nft-collection-with-quicknode-and-optimism",
           "publishedOn": "2023-09-04T12:34:58.000Z",
-          "wordCount": 9142,
+          "wordCount": 9439,
           "title": "Build Your Own NFT Collection with QuickNode and Optimism",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1693830816842%2F6ba52adb-550f-4ac8-866f-a1cda6c26afd.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -365,7 +365,7 @@
           "description": "🌈 GM\nIn this week's episode of DevNTell, we were joined by CEO Steffen Kux who gave us an overview of dm3 Protocol\n🌟 Developer Spotlight\nSteffen Kux is CEO at dm3, the web3 messaging protocol for secure and interoperable communication. He's an applied mathematician with over 20 years of experience in method and software development. Since 2017, he's implemented blockchain technology for real-world applications in IoT, energy, mobility, asset management, and self-sovereign identity.\n🔥 About dm3 Protocol\nFrom the dm3 Protocol documentation:\nThe dm3 (Decentralized Messaging for web3 or Direct Message 3) protocol is an end-2-end encrypted peer-2-peer messaging protocol, rooted in ENS (Ethereum Name Service). It is decentralized, has no single-points-of-failure, has a lean architecture with minimum resource requirements, and enables interoperability with other messaging solutions while preserving the self-sovereignty of its users.\nResources:\n dm3 Website\n dm3 Protocol Twitter\n dm3 linktree\n🤝 Guest\nSteffen: https://twitter.com/SteffenKux\n\n🎥 Presentation\n\n\n\nhttps://www.youtube.com/watch?v=bVjGN2hJtGY",
           "link": "https://blog.developerdao.com/devntell-dm3-protocol",
           "publishedOn": "2023-09-02T19:49:44.000Z",
-          "wordCount": 1316,
+          "wordCount": 1613,
           "title": "DevNTell - dm3 Protocol",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1693633267068%2F1b6f6d67-db51-4a98-a4d2-549374774cf7.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -375,7 +375,7 @@
           "description": "Last week, I wrote about running an Arweave gateway on GitHub Codespaces for development, but this was just an exercise to get to know AR.IO's gateway node.\nCodespaces are short-lived cloud instances that start when we open VSCode in the browser. Nice for development, but not so nice for a real gateway.\nFly.io, or Fly for short, on the other hand, supplies us with short-lived cloud instances that start when someone sends a request to a specific domain - any requests - so it's perfect for a gateway.\nBut first, we must take a few hurdles to get things up and running.\nSo, let's dive in!\nTarget Audience\nThis article assumes you know how to use the command line on Linux. We will edit Docker, TypeScript, and YAML files, but the article will supply all content.\nPrerequisites\nWe need a Fly account…",
           "link": "https://blog.developerdao.com/running-an-arweave-gateway-on-flyio",
           "publishedOn": "2023-08-29T16:58:43.000Z",
-          "wordCount": 16398,
+          "wordCount": 16695,
           "title": "Running an Arweave Gateway on Fly.io",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1693324576456%2F1e1270d4-94f3-4b60-97b6-a78bf27f052a.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -385,7 +385,7 @@
           "description": "🌈 GM\nIn this week's episode of DevNTell, we were joined by Mattia Pomelli who gave us an overview of his latest project, buildshare.io\n🌟 Developer Spotlight\nMattia has been a developer for several years. After freelancing in web2 for years, he discovered web3 and got super interested in the technology and its values. Hes always been building projects on the side, and after working on a couple of startups in the space, he recently decided to go full-time into working on his ideas. Hes now traveling around going to web3 hackathons while working on his projects.\n🔥 About Buildshare\nBuildshare is your Assistant for Building in Public! It's a tool to automatically post ai generated summaries of your commits and pull requests on socials when you ship new features on GItHub\nResources:\n Buildshare Website\n Buildshare Twitter\n🤝 Guest\nMattia: https://twitter.com/mattiapomelli\n\n🎥 Presentation\n\n\n\nhttps://www.youtube.com/watch?v=Gqv_WEuweLQ",
           "link": "https://blog.developerdao.com/devntell-buildshare",
           "publishedOn": "2023-08-26T02:12:46.000Z",
-          "wordCount": 1274,
+          "wordCount": 1571,
           "title": "DevNTell - Buildshare",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1693014975455%2Fa677bb4e-dae6-4c56-9842-f988048c688f.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -395,7 +395,7 @@
           "description": "Workshops are a fundamental building block of creative and technical communities. Whether you want to master a new skill, explore a new topic, or share your passion with others, they're the perfect way to do it. More than just lectures or presentations, they're interactive, collaborative, and fun learning experiences that connect you with people who share your interests. Delivering high-impact learning experiences is a key metric of every engaging host, and now you have a better tool to produce workshops: Huddle01 Spaces.\nHuddle01 is building a decentralized real-time communication network enabling powerful audio/video experiences, and recently, they launched a new product called Spaces. It comes with the following features:\nWallet & social login\nNFT avatars\nToken gating\nScreen sharing\nEas…",
           "link": "https://blog.developerdao.com/how-to-host-your-workshops-with-huddle01-spaces",
           "publishedOn": "2023-08-24T09:25:12.000Z",
-          "wordCount": 4892,
+          "wordCount": 5189,
           "title": "How to Host Your Workshops with Huddle01 Spaces",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1692686123517%2Fed6f0ce3-57c9-4557-acb9-5733a1da78a6.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -405,7 +405,7 @@
           "description": "Zero knowledge proofs (ZKPs) are already turning the world of blockchain upside down. Whether it's batching thousands of transactions together or providing verifiable computation at massively decreased gas costs, these mathematical marvels are shaping up to be a boost that will propel blockchain technology into its next era.\nNaturally, developers are very excited about the prospect of learning to use new tools powered by ZKPs and building their own zero knowledge applications or zkApps.\nMina is a Layer 1 blockchain built from the ground up using ZKPs. Developers can use the cutting-edge cryptography which powers Mina to build zkApps with SnarkyJS, a TypeScript library.\nIn this blog, you will build your first zkApp, with SnarkyJS. You will learn the basics of how ZKPs work, how to set up yo…",
           "link": "https://blog.developerdao.com/how-to-build-your-first-zkapp-on-mina-with-snarkyjs",
           "publishedOn": "2023-08-24T09:14:37.000Z",
-          "wordCount": 15906,
+          "wordCount": 16203,
           "title": "How to Build Your First zkApp on Mina with SnarkyJS",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1692268987254%2F546ecd61-bcaf-4394-b20e-0297b1a30c37.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -415,7 +415,7 @@
           "description": "Cross-chain communication is one of the hottest topics in Web3 today. There are many blockchains in Web3, meaning divided liquidity pools and isolated smart contracts that cannot talk across their blockchain environments. Engineering teams worldwide are trying to deliver a product that allows seamless interchain communication to solve this.\nLayerZero is one of these solutions, with an already-functioning product that powers cross-chain bridging on popular decentralized exchanges like Sushiswap and PancakeSwap.\nThis article will examine LayerZero and how it helps send cross-chain messages.\nHow does LayerZero Work?\nAny cross-chain communication protocol requires an off-chain entity to send messages to and from. However, this creates a centralization risk.\nHere's how LayerZero organizes its' …",
           "link": "https://blog.developerdao.com/building-a-cross-chain-swap-with-layerzero",
           "publishedOn": "2023-08-24T08:59:55.000Z",
-          "wordCount": 16687,
+          "wordCount": 16984,
           "title": "Building a Cross-Chain Swap with LayerZero",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1692866474728%2Fc711a16a-e900-4c9b-a7ff-2fcfacedf452.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         },
@@ -425,7 +425,7 @@
           "description": "When NFT projects become stale, the community asks, \"Can the devs do something?\" So, I wanted to show a fun way anybody can bring value to an existing project. My idea was to take the Lego approach, which means building something new with existing blocks; in this case, the blocks are already deployed smart contracts you can leverage for your own ideas!\nI like the Pudgy Penguin IP and community; they are a source of inspiration for me. A very welcoming and dynamic group of members that maintains three differently deployed contracts. They have the genesis collection of the Pudgy Penguins, the 2nd drop of the Lil Pudgys, and the 3rd drop of the Pudgy Rods(Rogs).\nSo, I looked at their contracts and got an idea. Why not use the Rogs to go fishing in the Arctic? How would this work? Let's break …",
           "link": "https://blog.developerdao.com/enhancing-nfts-with-random-numbers-and-delegation",
           "publishedOn": "2023-08-23T09:43:12.000Z",
-          "wordCount": 41062,
+          "wordCount": 41359,
           "title": "Enhancing NFTs with Random Numbers and Delegation",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1692348934092%2F83974390-6871-413b-bc0a-c4c461316186.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         }
