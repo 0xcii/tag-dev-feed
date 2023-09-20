@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-19T23:10:50.487Z</id>
+    <id>urn:2023-09-20T00:52:42.649Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-19T23:10:50.487Z</updated>
+    <updated>2023-09-20T00:52:42.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -450,26 +450,6 @@ So, I looked at their contracts and got an idea. Why not use the Rogs to go fish
         <summary type="html"><![CDATA[Understanding the Different Types of Blockchain Consensus Mechanisms]]></summary>
         <author>
             <name>Crypto Express</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Events and Logs]]></title>
-        <id>https://medium.com/p/47dbd0d93623</id>
-        <link href="https://blog.blockmagnates.com/solidity-events-and-logs-47dbd0d93623?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-08-21T12:30:09.000Z</updated>
-        <summary type="html"><![CDATA[What exactly is a Solidity event? When I first started learning, it really confused me while I was trying to fix issues in smart contracts…]]></summary>
-        <author>
-            <name>udeshika perera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fallback and Receive Functions in Solidity]]></title>
-        <id>https://medium.com/p/7f557bb29866</id>
-        <link href="https://blog.blockmagnates.com/mastering-fallback-and-receive-functions-in-solidity-7f557bb29866?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-08-21T12:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Fallback Function:]]></summary>
-        <author>
-            <name>udeshika perera</name>
         </author>
     </entry>
 </feed>
