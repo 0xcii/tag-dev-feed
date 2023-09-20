@@ -263,6 +263,16 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/6cfe3e828de3",
+          "author": "Joe",
+          "description": "Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…",
+          "link": "https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-09-20T17:51:59.000Z",
+          "wordCount": 3755,
+          "title": "Multi-Signature Wallet (Solidity)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:704/1*vhlZsOOvW2QhCzxscQjOpg.png"
+        },
+        {
           "id": "https://medium.com/p/e27ceea7a055",
           "author": "Sunday Olubode",
           "description": "Introduction",
@@ -278,7 +288,7 @@
           "description": "In this article I will be showing you how to create a contract that allows different people purchase ERC20 tokens from your contract using…",
           "link": "https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-12T13:25:31.000Z",
-          "wordCount": 3003,
+          "wordCount": 3004,
           "title": "ERC20 Tokens Selling Contract",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*xQ6ogVQOh0FIkKJU6M7RuQ.jpeg"
         },
