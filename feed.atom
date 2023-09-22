@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-22T13:14:16.648Z</id>
+    <id>urn:2023-09-22T14:10:45.834Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-22T13:14:16.648Z</updated>
+    <updated>2023-09-22T14:10:45.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ERC-1155 | What is it, and what is it used for?]]></title>
+        <id>https://medium.com/p/5837fb3a54e</id>
+        <link href="https://coinsbench.com/erc-1155-what-is-it-and-what-it-is-used-for-5837fb3a54e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-09-22T13:32:26.000Z</updated>
+        <summary type="html"><![CDATA[The token standard in Ethereum refers to a set of rules and guidelines that define how a particular type of digital asset, known as a…]]></summary>
+        <author>
+            <name>Al-Qa'qa'</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What startups expect from a Tokenomics expert VS what they usually get]]></title>
+        <id>https://medium.com/p/dc283012f705</id>
+        <link href="https://medium.com/coinmonks/what-startups-expect-from-a-tokenomics-expert-vs-what-they-usually-get-dc283012f705?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-22T13:24:38.000Z</updated>
+        <summary type="html"><![CDATA[Tokenomics is the abbreviation for Token Economics or also Token Economy.]]></summary>
+        <author>
+            <name>Mike Zillo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Dos and Don’ts of Email Marketing for Crypto Projects]]></title>
         <id>https://medium.com/p/4ec21c45bc7c</id>
@@ -94,16 +114,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[In the ever-evolving world of cryptocurrency, How to buy Dogecoin online has gained immense popularity. Whether you’re looking to invest in…]]></summary>
         <author>
             <name>Zahir black</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Marketing Trends to Watch in 2023–2024]]></title>
-        <id>https://medium.com/p/7b2e3e8fe8e4</id>
-        <link href="https://medium.com/coinmonks/crypto-marketing-trends-to-watch-in-2023-2024-7b2e3e8fe8e4?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-22T10:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Explore the top crypto marketing trends of 2023, from NFT promotions to sustainability initiatives and metaverse engagement. Stay ahead in…]]></summary>
-        <author>
-            <name>Christinapaul</name>
         </author>
     </entry>
     <entry>
@@ -206,16 +216,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Delving into the utilization of the JSON-RPC protocol within the Ethereum blockchain ecosystem]]></summary>
         <author>
             <name>Rosario Borgesi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Vyper Compiler Nonreentrancy Guard Bug]]></title>
-        <id>https://medium.com/p/ff20d6c4b51b</id>
-        <link href="https://coinsbench.com/exploring-the-vyper-compiler-nonreentrancy-guard-bug-ff20d6c4b51b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-09-19T14:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Recently, a bug was discovered in the Vyper compiler that allowed functions decorated with @nonreentrant to be called multiple times within the same transaction. This bug, known to exist between…]]></summary>
-        <author>
-            <name>chen2089</name>
         </author>
     </entry>
     <entry>
