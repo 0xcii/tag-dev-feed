@@ -49,6 +49,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/185f95c47e4",
+          "author": "Solidity Academy",
+          "description": "Blockchain technology has revolutionized various industries by providing a secure and transparent way to record transactions. However, as…",
+          "link": "https://coinsbench.com/mathematical-optimization-techniques-for-blockchain-network-performance-185f95c47e4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-23T07:06:01.000Z",
+          "wordCount": 3166,
+          "title": "Mathematical Optimization Techniques for Blockchain Network Performance",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Nr14WPSsC19BRc46"
+        },
+        {
           "id": "https://medium.com/p/5837fb3a54e",
           "author": "Al-Qa'qa'",
           "description": "The token standard in Ethereum refers to a set of rules and guidelines that define how a particular type of digital asset, known as a…",
@@ -104,7 +114,7 @@
           "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
           "link": "https://coinsbench.com/rareskills-solidity-interview-question-5-answered-what-special-call-is-required-for-proxies-to-84733179fb95?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-21T16:01:22.000Z",
-          "wordCount": 2347,
+          "wordCount": 2308,
           "title": "RareSkills Solidity Interview Question #5 Answered: What special CALL is required for proxies to…",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/1*nfhXOIJz9bDcVwyZHsQS8w.gif"
         },
@@ -137,16 +147,6 @@
           "wordCount": 4179,
           "title": "A Comprehensive Guide to Blockchain Technology: Working and Security",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:896/1*dodvvJ45ljnz2GQ5EXGmWQ.png"
-        },
-        {
-          "id": "https://medium.com/p/3448073b60b4",
-          "author": "Rosario Borgesi",
-          "description": "Delving into the utilization of the JSON-RPC protocol within the Ethereum blockchain ecosystem",
-          "link": "https://coinsbench.com/the-art-of-communicating-with-blockchain-a-detailed-exploration-3448073b60b4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-19T14:30:49.000Z",
-          "wordCount": 4057,
-          "title": "The Art of Communicating with Blockchain: A Detailed Exploration",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*DvpDpS6BXQNBd_O0QNs8lg.png"
         }
       ]
     },
@@ -298,7 +298,7 @@
           "description": "Is Blockchain Immutable?",
           "link": "https://blog.blockmagnates.com/upgradable-smart-contracts-part-1-3cc12246147c?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-05T17:33:07.000Z",
-          "wordCount": 2643,
+          "wordCount": 2642,
           "title": "Upgradable Smart Contracts(Part 1)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*RtVYCRa8-26efxVs1IKM5g.png"
         }
