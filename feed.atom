@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-23T09:09:45.924Z</id>
+    <id>urn:2023-09-23T10:10:42.540Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-23T09:09:45.924Z</updated>
+    <updated>2023-09-23T10:10:42.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Underflow and Overflow as an Attack Vector in Smart Contract.]]></title>
+        <id>https://medium.com/p/a631d7684f46</id>
+        <link href="https://coinsbench.com/underflow-and-overflow-as-an-attack-vector-in-smart-contract-a631d7684f46?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-09-23T09:34:39.000Z</updated>
+        <summary type="html"><![CDATA[Attack Vector]]></summary>
+        <author>
+            <name>Esther Oche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diving into Smart Contracts: A Simple Donation System]]></title>
+        <id>https://medium.com/p/63aa770aec6d</id>
+        <link href="https://coinsbench.com/diving-into-smart-contracts-a-simple-donation-system-63aa770aec6d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-09-23T09:34:37.000Z</updated>
+        <summary type="html"><![CDATA[The emergence of blockchain technology and decentralized applications has given birth to a plethora of new concepts, including smart…]]></summary>
+        <author>
+            <name>Moshood Alimi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week 5, Interacting with Uniswap V2.]]></title>
+        <id>https://medium.com/p/f60e7580b4f9</id>
+        <link href="https://coinsbench.com/week-5-interacting-with-uniswap-v2-f60e7580b4f9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-09-23T09:34:34.000Z</updated>
+        <summary type="html"><![CDATA[Week 5 @Web3bridge, we wrote a script using the Hardhat framework that essentially demonstrates how to interact with the Uniswap DEX on the…]]></summary>
+        <author>
+            <name>Ayoade Abdulrahman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing a Staking Mechanism for a Specified ERC20 Token]]></title>
+        <id>https://medium.com/p/e59f4379a07</id>
+        <link href="https://coinsbench.com/implementing-a-staking-mechanism-for-a-specified-erc20-token-e59f4379a07?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-09-23T09:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Still on week 5 @Web3bridge, we wrote a smart contract that implements a staking mechanism for a specified ERC20 token, allowing users to…]]></summary>
+        <author>
+            <name>Ayoade Abdulrahman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mathematical Optimization Techniques for Blockchain Network Performance]]></title>
         <id>https://medium.com/p/185f95c47e4</id>
@@ -174,36 +214,6 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #5 Answered: What special CALL is required for proxies to…]]></title>
-        <id>https://medium.com/p/84733179fb95</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-5-answered-what-special-call-is-required-for-proxies-to-84733179fb95?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-09-21T16:01:22.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity encoding. Part 1: ABI, the corner cases.]]></title>
-        <id>https://medium.com/p/4b523da43a1c</id>
-        <link href="https://coinsbench.com/solidity-encoding-part-1-abi-the-corner-cases-4b523da43a1c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-09-21T16:01:20.000Z</updated>
-        <summary type="html"><![CDATA[Abi encoding is quite comprehensively if densely described in the Solidity Docs. After a couple of passes of the spec I got the grip of it…]]></summary>
-        <author>
-            <name>Birdie's Nest</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethers.js as a Tool for fetching ERC20 Details]]></title>
-        <id>https://medium.com/p/eedc701a715f</id>
-        <link href="https://coinsbench.com/ethers-js-as-a-tool-for-fetching-erc20-details-eedc701a715f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-09-21T16:01:13.000Z</updated>
-        <summary type="html"><![CDATA[In this article, We’ll create a script that provides key information about an ERC20 token, such as its symbol, decimal precision, total…]]></summary>
-        <author>
-            <name>Esther Oche</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Multi-Signature Wallet (Solidity)]]></title>
         <id>https://medium.com/p/6cfe3e828de3</id>
         <link href="https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity"/>
@@ -211,16 +221,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…]]></summary>
         <author>
             <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Comprehensive Guide to Blockchain Technology: Working and Security]]></title>
-        <id>https://medium.com/p/3647d15678ea</id>
-        <link href="https://coinsbench.com/a-comprehensive-guide-to-blockchain-technology-working-and-security-3647d15678ea?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-09-19T14:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology has become a powerful force in today’s digital landscape, set to revolutionize businesses and trust in a world where…]]></summary>
-        <author>
-            <name>Rishit Aggarwal</name>
         </author>
     </entry>
     <entry>

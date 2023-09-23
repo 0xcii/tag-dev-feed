@@ -49,12 +49,52 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a631d7684f46",
+          "author": "Esther Oche",
+          "description": "Attack Vector",
+          "link": "https://coinsbench.com/underflow-and-overflow-as-an-attack-vector-in-smart-contract-a631d7684f46?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-23T09:34:39.000Z",
+          "wordCount": 3338,
+          "title": "Underflow and Overflow as an Attack Vector in Smart Contract.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZcezV6uQ3pzhkBkVEq1GxA.png"
+        },
+        {
+          "id": "https://medium.com/p/63aa770aec6d",
+          "author": "Moshood Alimi",
+          "description": "The emergence of blockchain technology and decentralized applications has given birth to a plethora of new concepts, including smart…",
+          "link": "https://coinsbench.com/diving-into-smart-contracts-a-simple-donation-system-63aa770aec6d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-23T09:34:37.000Z",
+          "wordCount": 2271,
+          "title": "Diving into Smart Contracts: A Simple Donation System",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*S2u6o_gQOjUwwbt3"
+        },
+        {
+          "id": "https://medium.com/p/f60e7580b4f9",
+          "author": "Ayoade Abdulrahman",
+          "description": "Week 5 @Web3bridge, we wrote a script using the Hardhat framework that essentially demonstrates how to interact with the Uniswap DEX on the…",
+          "link": "https://coinsbench.com/week-5-interacting-with-uniswap-v2-f60e7580b4f9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-23T09:34:34.000Z",
+          "wordCount": 2712,
+          "title": "Week 5, Interacting with Uniswap V2.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UH1chywijU3akttqgN2ilA.png"
+        },
+        {
+          "id": "https://medium.com/p/e59f4379a07",
+          "author": "Ayoade Abdulrahman",
+          "description": "Still on week 5 @Web3bridge, we wrote a smart contract that implements a staking mechanism for a specified ERC20 token, allowing users to…",
+          "link": "https://coinsbench.com/implementing-a-staking-mechanism-for-a-specified-erc20-token-e59f4379a07?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-23T09:34:32.000Z",
+          "wordCount": 2821,
+          "title": "Implementing a Staking Mechanism for a Specified ERC20 Token",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*r3O2BRaoQTzcVwqi39Ht5A.png"
+        },
+        {
           "id": "https://medium.com/p/185f95c47e4",
           "author": "Solidity Academy",
           "description": "Blockchain technology has revolutionized various industries by providing a secure and transparent way to record transactions. However, as…",
           "link": "https://coinsbench.com/mathematical-optimization-techniques-for-blockchain-network-performance-185f95c47e4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-23T07:06:01.000Z",
-          "wordCount": 3166,
+          "wordCount": 3179,
           "title": "Mathematical Optimization Techniques for Blockchain Network Performance",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Nr14WPSsC19BRc46"
         },
@@ -107,46 +147,6 @@
           "wordCount": 2683,
           "title": "Interface in Solidity.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*y-dkoEutKuvhDYuT1ARHpg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/84733179fb95",
-          "author": "Faybian Byrd",
-          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
-          "link": "https://coinsbench.com/rareskills-solidity-interview-question-5-answered-what-special-call-is-required-for-proxies-to-84733179fb95?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-21T16:01:22.000Z",
-          "wordCount": 2347,
-          "title": "RareSkills Solidity Interview Question #5 Answered: What special CALL is required for proxies to…",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/1*nfhXOIJz9bDcVwyZHsQS8w.gif"
-        },
-        {
-          "id": "https://medium.com/p/4b523da43a1c",
-          "author": "Birdie's Nest",
-          "description": "Abi encoding is quite comprehensively if densely described in the Solidity Docs. After a couple of passes of the spec I got the grip of it…",
-          "link": "https://coinsbench.com/solidity-encoding-part-1-abi-the-corner-cases-4b523da43a1c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-21T16:01:20.000Z",
-          "wordCount": 4775,
-          "title": "Solidity encoding. Part 1: ABI, the corner cases.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/eedc701a715f",
-          "author": "Esther Oche",
-          "description": "In this article, We’ll create a script that provides key information about an ERC20 token, such as its symbol, decimal precision, total…",
-          "link": "https://coinsbench.com/ethers-js-as-a-tool-for-fetching-erc20-details-eedc701a715f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-21T16:01:13.000Z",
-          "wordCount": 2369,
-          "title": "Ethers.js as a Tool for fetching ERC20 Details",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*scw_Y6VPzA4JdwaB4y0TVw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3647d15678ea",
-          "author": "Rishit Aggarwal",
-          "description": "Blockchain technology has become a powerful force in today’s digital landscape, set to revolutionize businesses and trust in a world where…",
-          "link": "https://coinsbench.com/a-comprehensive-guide-to-blockchain-technology-working-and-security-3647d15678ea?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-19T14:30:59.000Z",
-          "wordCount": 4179,
-          "title": "A Comprehensive Guide to Blockchain Technology: Working and Security",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:896/1*dodvvJ45ljnz2GQ5EXGmWQ.png"
         }
       ]
     },
@@ -171,7 +171,7 @@
           "description": "The first hobby you need to have is one that makes you money. Whether it’s investing, being passionate about photography or you like to…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/top-5-hobbies-that-you-need-in-your-life-13ddf69d732d?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-22T15:48:55.000Z",
-          "wordCount": 2276,
+          "wordCount": 2326,
           "title": "Top 5 Hobbies that you need in your life",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:591/1*cqY8keYgOkxaso8CixZ7EQ.png"
         },
@@ -201,7 +201,7 @@
           "description": "In the fast-evolving landscape of blockchain technology and cryptocurrency, Binance Labs stands as a beacon of innovation and support for…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/binance-labs-incubation-season-6-a-transformative-journey-b9e51774bace?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-22T15:47:36.000Z",
-          "wordCount": 2363,
+          "wordCount": 2255,
           "title": "Binance Labs Incubation Season 6: A Transformative Journey",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Eq353w3QREXLx-ri"
         },
@@ -211,7 +211,7 @@
           "description": "In this comprehensive article, we delve into the recent developments surrounding Binance and its ongoing battle with the U.S. Securities…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/binances-sec-defense-69655011d831?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-22T15:47:35.000Z",
-          "wordCount": 2354,
+          "wordCount": 2370,
           "title": "Binance’s SEC Defense",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*D27do1v-pds36K8m"
         },
@@ -251,7 +251,7 @@
           "description": "Embarking on a Journey into the World of Bitcoin",
           "link": "https://medium.com/coinmonks/bitcoin-breakthrough-system-unveiling-your-path-to-cryptocurrency-mastery-e5a4562cf2fb?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-22T15:47:28.000Z",
-          "wordCount": 3193,
+          "wordCount": 3195,
           "title": "Bitcoin Breakthrough System: Unveiling Your Path to Cryptocurrency Mastery",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*939PC1KnMDi6qTMz"
         }
