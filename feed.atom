@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-23T21:09:05.289Z</id>
+    <id>urn:2023-09-23T22:10:17.495Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-23T21:09:05.289Z</updated>
+    <updated>2023-09-23T22:10:17.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,6 +10,7 @@
         <id>https://medium.com/p/a631d7684f46</id>
         <link href="https://coinsbench.com/underflow-and-overflow-as-an-attack-vector-in-smart-contract-a631d7684f46?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-23T09:34:39.000Z</updated>
+        <summary type="html"><![CDATA[Attack Vector]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
@@ -19,6 +20,7 @@
         <id>https://medium.com/p/63aa770aec6d</id>
         <link href="https://coinsbench.com/diving-into-smart-contracts-a-simple-donation-system-63aa770aec6d?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-23T09:34:37.000Z</updated>
+        <summary type="html"><![CDATA[The emergence of blockchain technology and decentralized applications has given birth to a plethora of new concepts, including smart…]]></summary>
         <author>
             <name>Moshood Alimi</name>
         </author>
@@ -28,6 +30,7 @@
         <id>https://medium.com/p/f60e7580b4f9</id>
         <link href="https://coinsbench.com/week-5-interacting-with-uniswap-v2-f60e7580b4f9?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-23T09:34:34.000Z</updated>
+        <summary type="html"><![CDATA[Week 5 @Web3bridge, we wrote a script using the Hardhat framework that essentially demonstrates how to interact with the Uniswap DEX on the…]]></summary>
         <author>
             <name>Ayoade Abdulrahman</name>
         </author>
@@ -37,6 +40,7 @@
         <id>https://medium.com/p/e59f4379a07</id>
         <link href="https://coinsbench.com/implementing-a-staking-mechanism-for-a-specified-erc20-token-e59f4379a07?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-23T09:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Still on week 5 @Web3bridge, we wrote a smart contract that implements a staking mechanism for a specified ERC20 token, allowing users to…]]></summary>
         <author>
             <name>Ayoade Abdulrahman</name>
         </author>
@@ -46,6 +50,7 @@
         <id>https://medium.com/p/185f95c47e4</id>
         <link href="https://coinsbench.com/mathematical-optimization-techniques-for-blockchain-network-performance-185f95c47e4?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-23T07:06:01.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology has revolutionized various industries by providing a secure and transparent way to record transactions. However, as…]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -121,6 +126,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/f4e47c56514c</id>
         <link href="https://medium.com/coinmonks/web3-power-of-grants-from-idea-to-reality-f4e47c56514c?source=rss----721b17443fd5---4"/>
         <updated>2023-09-22T15:47:34.000Z</updated>
+        <summary type="html"><![CDATA[HELLO TO MY READERS ! 📰]]></summary>
         <author>
             <name>Sandra.R</name>
         </author>
@@ -130,6 +136,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/3255846be2dd</id>
         <link href="https://medium.com/coinmonks/advanced-open-source-intelligence-osint-types-techniques-and-tools-3255846be2dd?source=rss----721b17443fd5---4"/>
         <updated>2023-09-22T15:47:34.000Z</updated>
+        <summary type="html"><![CDATA[by Somya Gupta AKA MR.CYB3R]]></summary>
         <author>
             <name>Somya Gupta aka MR.CYBER</name>
         </author>
@@ -159,6 +166,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/5837fb3a54e</id>
         <link href="https://coinsbench.com/erc-1155-what-is-it-and-what-it-is-used-for-5837fb3a54e?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-22T13:32:26.000Z</updated>
+        <summary type="html"><![CDATA[The token standard in Ethereum refers to a set of rules and guidelines that define how a particular type of digital asset, known as a…]]></summary>
         <author>
             <name>Al-Qa'qa'</name>
         </author>
@@ -190,6 +198,7 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/11caae0c4f5d</id>
         <link href="https://coinsbench.com/random-number-generation-using-chainlink-vrf-v2-11caae0c4f5d?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-21T16:01:38.000Z</updated>
+        <summary type="html"><![CDATA[Chainlink]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
@@ -199,6 +208,7 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/48ec7971c789</id>
         <link href="https://coinsbench.com/interface-in-solidity-48ec7971c789?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-21T16:01:33.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, an interface is a contract that defines function signatures but does not implement them. It acts as a contract or agreement…]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
@@ -208,6 +218,7 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/6cfe3e828de3</id>
         <link href="https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-20T17:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…]]></summary>
         <author>
             <name>Joe</name>
         </author>
@@ -217,6 +228,7 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/e27ceea7a055</id>
         <link href="https://blog.blockmagnates.com/building-and-deploying-a-dynamic-multisig-wallet-with-buildbear-testnet-e27ceea7a055?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-15T14:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Sunday Olubode</name>
         </author>
@@ -242,6 +254,7 @@ Hyperlane is a permissionless intero…]]></summary>
         <id>https://medium.com/p/d64c4723f435</id>
         <link href="https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-12T13:25:31.000Z</updated>
+        <summary type="html"><![CDATA[In this article I will be showing you how to create a contract that allows different people purchase ERC20 tokens from your contract using…]]></summary>
         <author>
             <name>Joe</name>
         </author>
@@ -251,6 +264,7 @@ Hyperlane is a permissionless intero…]]></summary>
         <id>https://medium.com/p/3cc12246147c</id>
         <link href="https://blog.blockmagnates.com/upgradable-smart-contracts-part-1-3cc12246147c?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-05T17:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Is Blockchain Immutable?]]></summary>
         <author>
             <name>UP</name>
         </author>
@@ -364,17 +378,6 @@ Mattia: https://twitter.com/mattiapomelli
 https://www.youtube.com/watch?v=Gqv_WEuweLQ]]></summary>
         <author>
             <name>Narbeh Shahnazarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEA Falls for Crypto Scam, Hands Fraudster $55,000 in Stolen Funds]]></title>
-        <id>https://www.cryptomaton.org/?p=1550</id>
-        <link href="https://www.cryptomaton.org/2023/08/25/dea-falls-for-crypto-scam-hands-fraudster-55000-in-stolen-funds/"/>
-        <updated>2023-08-25T09:48:46.000Z</updated>
-        <summary type="html"><![CDATA[The same organisation that was responsible for shutting down the biggest dark web drug marketplace, Silkroad, fell victim to one of the oldest tricks in the books — a phishing attack, resulting in the DEA sending $55,000 to a scammer’s address. The way this scam was set up an executed is quite fascinating and just goes to […]
-The post DEA Falls for Crypto Scam, Hands Fraudster $55,000 in Stolen Funds appeared first on cryptomaton.]]></summary>
-        <author>
-            <name>Andrei</name>
         </author>
     </entry>
 </feed>
