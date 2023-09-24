@@ -39,14 +39,24 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1eaa541319fe",
+          "author": "Solidity Academy",
+          "description": "",
+          "link": "https://coinsbench.com/stochastic-processes-in-blockchain-analyzing-transaction-confirmation-times-%EF%B8%8F-1eaa541319fe?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-24T07:06:01.000Z",
+          "wordCount": null,
+          "title": "Stochastic Processes in Blockchain: Analyzing Transaction Confirmation Times ⏱️",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/a631d7684f46",
           "author": "Esther Oche",
-          "description": "Attack Vector",
+          "description": "",
           "link": "https://coinsbench.com/underflow-and-overflow-as-an-attack-vector-in-smart-contract-a631d7684f46?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-23T09:34:39.000Z",
-          "wordCount": 3431,
+          "wordCount": null,
           "title": "Underflow and Overflow as an Attack Vector in Smart Contract.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZcezV6uQ3pzhkBkVEq1GxA.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/63aa770aec6d",
@@ -121,22 +131,12 @@
         {
           "id": "https://medium.com/p/11caae0c4f5d",
           "author": "Esther Oche",
-          "description": "Chainlink",
+          "description": "",
           "link": "https://coinsbench.com/random-number-generation-using-chainlink-vrf-v2-11caae0c4f5d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-21T16:01:38.000Z",
-          "wordCount": 5015,
+          "wordCount": null,
           "title": "Random Number Generation Using Chainlink VRF V2",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7hg5pESLo4NOETE7jNXIhg.png"
-        },
-        {
-          "id": "https://medium.com/p/48ec7971c789",
-          "author": "Esther Oche",
-          "description": "In Solidity, an interface is a contract that defines function signatures but does not implement them. It acts as a contract or agreement…",
-          "link": "https://coinsbench.com/interface-in-solidity-48ec7971c789?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-21T16:01:33.000Z",
-          "wordCount": 2781,
-          "title": "Interface in Solidity.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*y-dkoEutKuvhDYuT1ARHpg.jpeg"
+          "imageUrl": null
         }
       ]
     },
@@ -171,7 +171,7 @@
           "description": "I had seen all sorts of podcasts about the benefits of cold water showering but it took a long time to convince my mind to try it.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/what-benefits-cold-water-showers-have-brought-me-bf0ca7dad3ad?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-22T15:48:54.000Z",
-          "wordCount": 2461,
+          "wordCount": 2552,
           "title": "What benefits cold water showers have brought me ?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:595/1*0bS9bwxYvRmZz72NdJfY7w.png"
         },
@@ -211,7 +211,7 @@
           "description": "HELLO TO MY READERS ! 📰",
           "link": "https://medium.com/coinmonks/web3-power-of-grants-from-idea-to-reality-f4e47c56514c?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-22T15:47:34.000Z",
-          "wordCount": 3423,
+          "wordCount": 3452,
           "title": "Web3 Power Of Grants: From Idea to Reality",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yQkv0S-E2ysbRLcrYfe86A.png"
         },
@@ -241,7 +241,7 @@
           "description": "Embarking on a Journey into the World of Bitcoin",
           "link": "https://medium.com/coinmonks/bitcoin-breakthrough-system-unveiling-your-path-to-cryptocurrency-mastery-e5a4562cf2fb?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-22T15:47:28.000Z",
-          "wordCount": 3271,
+          "wordCount": 3193,
           "title": "Bitcoin Breakthrough System: Unveiling Your Path to Cryptocurrency Mastery",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*939PC1KnMDi6qTMz"
         }
@@ -255,42 +255,42 @@
         {
           "id": "https://medium.com/p/6cfe3e828de3",
           "author": "Joe",
-          "description": "Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-20T17:51:59.000Z",
-          "wordCount": 3762,
+          "wordCount": null,
           "title": "Multi-Signature Wallet (Solidity)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:704/1*vhlZsOOvW2QhCzxscQjOpg.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/e27ceea7a055",
           "author": "Sunday Olubode",
-          "description": "Introduction",
+          "description": "",
           "link": "https://blog.blockmagnates.com/building-and-deploying-a-dynamic-multisig-wallet-with-buildbear-testnet-e27ceea7a055?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-15T14:58:02.000Z",
-          "wordCount": 2883,
+          "wordCount": null,
           "title": "Building and Deploying a Dynamic MultiSig Wallet With BuildBear Testnet.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:828/1*plY9AJkD-da0FZAgqSvdqg.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/d64c4723f435",
           "author": "Joe",
-          "description": "In this article I will be showing you how to create a contract that allows different people purchase ERC20 tokens from your contract using…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-12T13:25:31.000Z",
-          "wordCount": 2988,
+          "wordCount": null,
           "title": "ERC20 Tokens Selling Contract",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*xQ6ogVQOh0FIkKJU6M7RuQ.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/3cc12246147c",
           "author": "UP",
-          "description": "Is Blockchain Immutable?",
+          "description": "",
           "link": "https://blog.blockmagnates.com/upgradable-smart-contracts-part-1-3cc12246147c?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-05T17:33:07.000Z",
-          "wordCount": 2629,
+          "wordCount": null,
           "title": "Upgradable Smart Contracts(Part 1)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*RtVYCRa8-26efxVs1IKM5g.png"
+          "imageUrl": null
         }
       ]
     },

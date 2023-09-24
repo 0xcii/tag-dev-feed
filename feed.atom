@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-24T06:14:00.165Z</id>
+    <id>urn:2023-09-24T07:09:47.383Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-24T06:14:00.165Z</updated>
+    <updated>2023-09-24T07:09:47.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stochastic Processes in Blockchain: Analyzing Transaction Confirmation Times ⏱️]]></title>
+        <id>https://medium.com/p/1eaa541319fe</id>
+        <link href="https://coinsbench.com/stochastic-processes-in-blockchain-analyzing-transaction-confirmation-times-%EF%B8%8F-1eaa541319fe?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-09-24T07:06:01.000Z</updated>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Underflow and Overflow as an Attack Vector in Smart Contract.]]></title>
         <id>https://medium.com/p/a631d7684f46</id>
         <link href="https://coinsbench.com/underflow-and-overflow-as-an-attack-vector-in-smart-contract-a631d7684f46?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-23T09:34:39.000Z</updated>
-        <summary type="html"><![CDATA[Attack Vector]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
@@ -198,17 +206,6 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/11caae0c4f5d</id>
         <link href="https://coinsbench.com/random-number-generation-using-chainlink-vrf-v2-11caae0c4f5d?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-21T16:01:38.000Z</updated>
-        <summary type="html"><![CDATA[Chainlink]]></summary>
-        <author>
-            <name>Esther Oche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interface in Solidity.]]></title>
-        <id>https://medium.com/p/48ec7971c789</id>
-        <link href="https://coinsbench.com/interface-in-solidity-48ec7971c789?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-09-21T16:01:33.000Z</updated>
-        <summary type="html"><![CDATA[In Solidity, an interface is a contract that defines function signatures but does not implement them. It acts as a contract or agreement…]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
@@ -218,7 +215,6 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/6cfe3e828de3</id>
         <link href="https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-20T17:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…]]></summary>
         <author>
             <name>Joe</name>
         </author>
@@ -228,7 +224,6 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/e27ceea7a055</id>
         <link href="https://blog.blockmagnates.com/building-and-deploying-a-dynamic-multisig-wallet-with-buildbear-testnet-e27ceea7a055?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-15T14:58:02.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Sunday Olubode</name>
         </author>
@@ -254,7 +249,6 @@ Hyperlane is a permissionless intero…]]></summary>
         <id>https://medium.com/p/d64c4723f435</id>
         <link href="https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-12T13:25:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article I will be showing you how to create a contract that allows different people purchase ERC20 tokens from your contract using…]]></summary>
         <author>
             <name>Joe</name>
         </author>
@@ -264,7 +258,6 @@ Hyperlane is a permissionless intero…]]></summary>
         <id>https://medium.com/p/3cc12246147c</id>
         <link href="https://blog.blockmagnates.com/upgradable-smart-contracts-part-1-3cc12246147c?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-05T17:33:07.000Z</updated>
-        <summary type="html"><![CDATA[Is Blockchain Immutable?]]></summary>
         <author>
             <name>UP</name>
         </author>
