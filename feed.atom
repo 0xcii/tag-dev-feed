@@ -1,70 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-25T17:10:50.485Z</id>
+    <id>urn:2023-09-25T18:15:22.540Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-25T17:10:50.485Z</updated>
+    <updated>2023-09-25T18:15:22.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Awaken Review]]></title>
-        <id>https://medium.com/p/90e12ddf34f0</id>
-        <link href="https://medium.com/coinmonks/awaken-review-90e12ddf34f0?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-25T16:24:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will review Awaken. Their software generates your crypto tax reports that you plug into your tax software or pass…]]></summary>
+        <title type="html"><![CDATA[Under the hood of zkSNARK Groth16 protocol (part 6)]]></title>
+        <id>https://medium.com/p/b9aa952a2ce2</id>
+        <link href="https://medium.com/coinmonks/under-the-hood-of-zksnark-groth16-protocol-part-6-b9aa952a2ce2?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-25T17:51:28.000Z</updated>
+        <summary type="html"><![CDATA[Last time, we introduced a naive implementation of a verifier in a Solidity smart contract, along with the concept of public and private…]]></summary>
         <author>
-            <name>Coinmonks Team</name>
+            <name>Crypto Fairy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unraveling Precision, Accuracy, and Resolution in Data Science]]></title>
-        <id>https://medium.com/p/297275fc9081</id>
-        <link href="https://medium.com/coinmonks/unraveling-precision-accuracy-and-resolution-in-data-science-297275fc9081?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-25T12:15:55.000Z</updated>
-        <summary type="html"><![CDATA[A Comprehensive Guide to Essential Concepts for Researchers and Data Analysts
+        <title type="html"><![CDATA[Does Bitcoin Mining Have A Greener Future?]]></title>
+        <id>https://medium.com/p/892bfa4683a7</id>
+        <link href="https://medium.com/coinmonks/does-bitcoin-mining-have-a-greener-future-892bfa4683a7?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-25T17:51:27.000Z</updated>
+        <summary type="html"><![CDATA[As Bitcoin continues its incredible popularity, so too does the scrutiny of its environmental impact. Yet, recent data challenges the…
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>MicroBioscopicData</name>
+            <name>Jawad Hussain</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solidity Security Pitfalls & Best Practices : Safeguarding Your Smart Contracts]]></title>
-        <id>https://medium.com/p/a035def52920</id>
-        <link href="https://medium.com/coinmonks/solidity-security-pitfalls-best-practices-safeguarding-your-smart-contracts-a035def52920?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-25T11:47:19.000Z</updated>
-        <summary type="html"><![CDATA[Solidity Security Pitfalls & Best Practices : Developing Secure Smart Contracts]]></summary>
+        <title type="html"><![CDATA[Unlocking Innovation: Collaborating with a Cryptocurrency Exchange Software Development Company]]></title>
+        <id>https://medium.com/p/7915c8b1f2cb</id>
+        <link href="https://medium.com/coinmonks/cryptocurrency-exchange-software-development-company-7915c8b1f2cb?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-25T17:51:26.000Z</updated>
+        <summary type="html"><![CDATA[Maximize innovation with a cryptocurrency exchange software developer. Tailored solutions for seamless, secure transactions.]]></summary>
         <author>
-            <name>Solidity Academy</name>
+            <name>Albert Peter</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Token Trekkers Crypto Week in Review: September 18–25, 2023]]></title>
-        <id>https://medium.com/p/b40b654afef</id>
-        <link href="https://medium.com/coinmonks/token-trekkers-crypto-week-in-review-september-18-25-2023-b40b654afef?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-25T11:16:41.000Z</updated>
-        <summary type="html"><![CDATA[The past week has been a turbulent one for the crypto industry, with several events and developments that have impacted the market…]]></summary>
+        <title type="html"><![CDATA[The Ultimate Guide to trade Bitcoin and digital Assets]]></title>
+        <id>https://medium.com/p/8a0832c0b467</id>
+        <link href="https://medium.com/coinmonks/the-ultimate-guide-to-trade-bitcoin-and-digital-assets-8a0832c0b467?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-25T17:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Token Trekker Crypto</name>
+            <name>Alessandro Raffelini</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 7 Sins of Greenwashing !]]></title>
-        <id>https://medium.com/p/cb72c369b218</id>
-        <link href="https://medium.com/coinmonks/the-7-sins-of-greenwashing-cb72c369b218?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-25T11:16:36.000Z</updated>
-        <summary type="html"><![CDATA[Why REAL transparency is a key antidote.
+        <title type="html"><![CDATA[Biggest Fear About Cryptocurrencies]]></title>
+        <id>https://medium.com/p/279b666a1d78</id>
+        <link href="https://medium.com/coinmonks/biggest-fear-about-cryptocurrencies-279b666a1d78?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-25T17:51:21.000Z</updated>
+        <summary type="html"><![CDATA[In just a few years, cryptocurrencies have evolved from a digital novelty to trillion-dollar technologies with the potential to…
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>My Brandt</name>
+            <name>Tanzila Shabir</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFTs are no longer safe! SEC strikes again…]]></title>
-        <id>https://medium.com/p/28293c6d712f</id>
-        <link href="https://medium.com/coinmonks/nfts-are-no-longer-safe-sec-strikes-again-28293c6d712f?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-25T11:16:35.000Z</updated>
-        <summary type="html"><![CDATA[GM, Web3Daily readers!]]></summary>
+        <title type="html"><![CDATA[A Journey Through Time: Unraveling the History of DeFi]]></title>
+        <id>https://medium.com/p/6bf30e35eb00</id>
+        <link href="https://medium.com/coinmonks/a-journey-through-time-unraveling-the-history-of-defi-6bf30e35eb00?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-25T17:51:19.000Z</updated>
+        <summary type="html"><![CDATA[From barter systems to gold coins, paper money, and now digital transactions, the essence of finance has been to facilitate exchange. Its…]]></summary>
         <author>
-            <name>Wikistᵍᵐ</name>
+            <name>RubyDex.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming Dreams into Reality: A Conversation with Jesse Fisco]]></title>
+        <id>https://medium.com/p/541979abbc49</id>
+        <link href="https://medium.com/coinmonks/transforming-dreams-into-reality-a-conversation-with-jesse-fisco-541979abbc49?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-25T17:51:18.000Z</updated>
+        <summary type="html"><![CDATA[Jesse Fisco
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Christopher H. Loo, MD-PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Business News Today — #ZentaNews]]></title>
+        <id>https://medium.com/p/ca3026432a74</id>
+        <link href="https://medium.com/coinmonks/web3-business-news-today-zentanews-ca3026432a74?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-25T17:51:16.000Z</updated>
+        <summary type="html"><![CDATA[TechCrunch Founder Exits Celsius Board, Amazon $4B AI gamble, Ethereum devs discuss Dencun, Metamask Snaps may replace Truffle and Ganache…]]></summary>
+        <author>
+            <name>Zentaurios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to proceed when you fail ?]]></title>
+        <id>https://medium.com/p/942db16fd4c</id>
+        <link href="https://medium.com/coinmonks/how-to-proceed-when-you-fail-942db16fd4c?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-25T17:51:14.000Z</updated>
+        <summary type="html"><![CDATA[In life, success is not guaranteed, therefore it’s crucial to have a plan for moving on when it doesn’t happen.
+So that we don’t give up…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Mr. Plan ₿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracking Pi Network’s Journey in 2023]]></title>
+        <id>https://medium.com/p/94397bf17ac2</id>
+        <link href="https://medium.com/coinmonks/tracking-pi-networks-journey-in-2023-94397bf17ac2?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-25T17:51:12.000Z</updated>
+        <summary type="html"><![CDATA[Pi Network has maintained its position as one of the most popular mobile-first blockchain projects, continuously generating hype and…]]></summary>
+        <author>
+            <name>Cryptophia</name>
         </author>
     </entry>
     <entry>
@@ -82,46 +125,6 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Curious Cryptos’ Commentary 25th September 2023 — US shutdown, the EU, & Hong Kong]]></title>
-        <id>https://medium.com/p/e6099bc3d4ed</id>
-        <link href="https://medium.com/coinmonks/curious-cryptos-commentary-25th-september-2023-us-shutdown-the-eu-hong-kong-e6099bc3d4ed?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-25T10:06:43.000Z</updated>
-        <summary type="html"><![CDATA[tl;dr]]></summary>
-        <author>
-            <name>Mark Timmis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Decentralized Exchange Software Developers in 2024]]></title>
-        <id>https://medium.com/p/5594def8901c</id>
-        <link href="https://medium.com/coinmonks/top-10-decentralized-exchange-software-developers-in-2024-5594def8901c?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-25T10:06:43.000Z</updated>
-        <summary type="html"><![CDATA[Meet the trailblazers in Decentralized Exchange Software Development — the Top 10 experts in crypto innovation.]]></summary>
-        <author>
-            <name>Jamessmithh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Confluence of AI and Smart Contracts: Automation’s Next Frontier]]></title>
-        <id>https://medium.com/p/e3c0ebc77fc2</id>
-        <link href="https://medium.com/coinmonks/the-confluence-of-ai-and-smart-contracts-automations-next-frontier-e3c0ebc77fc2?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-25T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Smart Contracts: The Digital Promise of Legality]]></summary>
-        <author>
-            <name>DIIANT Co., Ltd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 6 Education Metaverse Startups to Watch in 2023]]></title>
-        <id>https://medium.com/p/864f30637db3</id>
-        <link href="https://medium.com/coinmonks/top-6-education-metaverse-startups-to-watch-in-2023-864f30637db3?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-25T09:26:57.000Z</updated>
-        <summary type="html"><![CDATA[The emergence of the Metaverse has ushered in new possibilities and opportunities for various sectors, including education. In the realm of…]]></summary>
-        <author>
-            <name>Shantanu Gupta</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Decoding Smart Contracts: Unveiling Turing Completeness through Mathematical Exploration”]]></title>
         <id>https://medium.com/p/a2e9a25f077f</id>
         <link href="https://coinsbench.com/decoding-smart-contracts-unveiling-turing-completeness-through-mathematical-exploration-a2e9a25f077f?source=rss----f1cfd22cde3e---4"/>
@@ -136,7 +139,6 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/1eaa541319fe</id>
         <link href="https://coinsbench.com/stochastic-processes-in-blockchain-analyzing-transaction-confirmation-times-%EF%B8%8F-1eaa541319fe?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-24T07:06:01.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology has revolutionized the world of finance and digital transactions, but it comes with its own set of unique challenges…]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -156,7 +158,6 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/63aa770aec6d</id>
         <link href="https://coinsbench.com/diving-into-smart-contracts-a-simple-donation-system-63aa770aec6d?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-23T09:34:37.000Z</updated>
-        <summary type="html"><![CDATA[The emergence of blockchain technology and decentralized applications has given birth to a plethora of new concepts, including smart…]]></summary>
         <author>
             <name>Moshood Alimi</name>
         </author>
@@ -166,7 +167,6 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/f60e7580b4f9</id>
         <link href="https://coinsbench.com/week-5-interacting-with-uniswap-v2-f60e7580b4f9?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-23T09:34:34.000Z</updated>
-        <summary type="html"><![CDATA[Week 5 @Web3bridge, we wrote a script using the Hardhat framework that essentially demonstrates how to interact with the Uniswap DEX on the…]]></summary>
         <author>
             <name>Ayoade Abdulrahman</name>
         </author>
@@ -176,7 +176,6 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/e59f4379a07</id>
         <link href="https://coinsbench.com/implementing-a-staking-mechanism-for-a-specified-erc20-token-e59f4379a07?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-23T09:34:32.000Z</updated>
-        <summary type="html"><![CDATA[Still on week 5 @Web3bridge, we wrote a smart contract that implements a staking mechanism for a specified ERC20 token, allowing users to…]]></summary>
         <author>
             <name>Ayoade Abdulrahman</name>
         </author>
@@ -186,7 +185,6 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/185f95c47e4</id>
         <link href="https://coinsbench.com/mathematical-optimization-techniques-for-blockchain-network-performance-185f95c47e4?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-23T07:06:01.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology has revolutionized various industries by providing a secure and transparent way to record transactions. However, as…]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -196,7 +194,6 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/5837fb3a54e</id>
         <link href="https://coinsbench.com/erc-1155-what-is-it-and-what-it-is-used-for-5837fb3a54e?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-22T13:32:26.000Z</updated>
-        <summary type="html"><![CDATA[The token standard in Ethereum refers to a set of rules and guidelines that define how a particular type of digital asset, known as a…]]></summary>
         <author>
             <name>Al-Qa'qa'</name>
         </author>
@@ -228,7 +225,6 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/6cfe3e828de3</id>
         <link href="https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-20T17:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…]]></summary>
         <author>
             <name>Joe</name>
         </author>
@@ -238,7 +234,6 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/e27ceea7a055</id>
         <link href="https://blog.blockmagnates.com/building-and-deploying-a-dynamic-multisig-wallet-with-buildbear-testnet-e27ceea7a055?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-15T14:58:02.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Sunday Olubode</name>
         </author>
@@ -275,7 +270,6 @@ Hyperlane is a permissionless inter…]]></summary>
         <id>https://medium.com/p/3cc12246147c</id>
         <link href="https://blog.blockmagnates.com/upgradable-smart-contracts-part-1-3cc12246147c?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-05T17:33:07.000Z</updated>
-        <summary type="html"><![CDATA[Is Blockchain Immutable?]]></summary>
         <author>
             <name>UP</name>
         </author>
