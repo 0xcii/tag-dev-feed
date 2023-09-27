@@ -39,104 +39,104 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a156f8375c18",
+          "author": "Rosario Borgesi",
+          "description": "The Ethereum blockchain has revolutionized decentralized applications and smart contracts, but with every transaction comes Ethereum gas…",
+          "link": "https://coinsbench.com/ethereum-gas-fees-demystified-a-deep-dive-into-transaction-costs-a156f8375c18?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-27T14:44:08.000Z",
+          "wordCount": 4994,
+          "title": "Ethereum Gas Fees Demystified: A Deep Dive into Transaction Costs",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*19vNNYoB3LrNotUKCtL-4A.png"
+        },
+        {
+          "id": "https://medium.com/p/27a819d0f345",
+          "author": "Esther Oche",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/oracle-dependency-implications-27a819d0f345?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-27T14:44:06.000Z",
+          "wordCount": 3980,
+          "title": "Oracle Dependency: Implications.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*kWpT53Y3DdeSH8xONmndpw.png"
+        },
+        {
+          "id": "https://medium.com/p/96133d9f33e8",
+          "author": "Faybian Byrd",
+          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
+          "link": "https://coinsbench.com/rareskills-solidity-interview-question-6-answered-prior-to-eip-1559-how-do-you-calculate-the-96133d9f33e8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-27T14:44:02.000Z",
+          "wordCount": 2493,
+          "title": "RareSkills Solidity Interview Question #6 Answered: Prior to EIP-1559, how do you calculate the…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mdTUEsAEqSEArKSkYrRfvg.png"
+        },
+        {
+          "id": "https://medium.com/p/8ad1d9f45bd5",
+          "author": "Ayoade Abdulrahman",
+          "description": "This week, I developed a smart contract that enables users to perform token swaps between token1 and token2 in both directions, using the…",
+          "link": "https://coinsbench.com/tokenswap-smart-contract-using-the-constant-product-market-maker-cpmm-formula-8ad1d9f45bd5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-27T14:43:33.000Z",
+          "wordCount": 2496,
+          "title": "TokenSwap Smart Contract Using the Constant Product Market Maker (CPMM) formula",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Csw3B6M3jMJA47k96mslLA.png"
+        },
+        {
+          "id": "https://medium.com/p/7748f4a98e13",
+          "author": "Joe",
+          "description": "This is part three of a series, I talk about the use of Chainlink VRF. I showcase the power of NFT minting with different attributes (VRF).",
+          "link": "https://coinsbench.com/nft-minting-using-chainlink-vrf-chainlink-vrf-part-iii-7748f4a98e13?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-27T14:43:30.000Z",
+          "wordCount": 4879,
+          "title": "NFT Minting using Chainlink VRF (Chainlink VRF Part III)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JflBlUiGbZUFYtFIg_yq5w.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3d3908dc97f6",
+          "author": "Joshua Konyeri",
+          "description": "If you are like me, who just wants to dive straight into writing smart contracts without worrying about the lines of code before the…",
+          "link": "https://coinsbench.com/basic-solidity-series-what-is-spdx-license-identifier-used-for-3d3908dc97f6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-27T14:43:27.000Z",
+          "wordCount": 3178,
+          "title": "Basic Solidity Series: What is SPDX-License-Identifier used for?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0RNnYdkdv8BOqzVHt0l72w.png"
+        },
+        {
+          "id": "https://medium.com/p/e3beaf5a2882",
+          "author": "Ayoade Abdulrahman",
+          "description": "Over the weekend, as I lounged lazily in my cozy bedspace at Web3Bridge, I was able to process the thought of building a basic…",
+          "link": "https://coinsbench.com/my-first-decentralized-social-media-platform-powered-by-blockchain-e3beaf5a2882?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-09-27T14:43:08.000Z",
+          "wordCount": 3845,
+          "title": "My First Decentralized Social Media Platform Powered By Blockchain.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KJoxkaKqUb5beQAn_o2jEA.png"
+        },
+        {
           "id": "https://medium.com/p/a2e9a25f077f",
           "author": "Solidity Academy",
-          "description": "",
+          "description": "🌐🔍 Smart contracts have revolutionized the way transactions and agreements are executed on blockchain platforms. These self-executing…",
           "link": "https://coinsbench.com/decoding-smart-contracts-unveiling-turing-completeness-through-mathematical-exploration-a2e9a25f077f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-25T07:06:01.000Z",
-          "wordCount": null,
+          "wordCount": 3204,
           "title": "Decoding Smart Contracts: Unveiling Turing Completeness through Mathematical Exploration”",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*qxRT2Wdlek3Os_h5"
         },
         {
           "id": "https://medium.com/p/1eaa541319fe",
           "author": "Solidity Academy",
-          "description": "",
+          "description": "Blockchain technology has revolutionized the world of finance and digital transactions, but it comes with its own set of unique challenges…",
           "link": "https://coinsbench.com/stochastic-processes-in-blockchain-analyzing-transaction-confirmation-times-%EF%B8%8F-1eaa541319fe?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-24T07:06:01.000Z",
-          "wordCount": null,
+          "wordCount": 3221,
           "title": "Stochastic Processes in Blockchain: Analyzing Transaction Confirmation Times ⏱️",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*IgIljud5I9lsWYdZ"
         },
         {
           "id": "https://medium.com/p/a631d7684f46",
           "author": "Esther Oche",
-          "description": "",
+          "description": "Attack Vector",
           "link": "https://coinsbench.com/underflow-and-overflow-as-an-attack-vector-in-smart-contract-a631d7684f46?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-23T09:34:39.000Z",
-          "wordCount": null,
+          "wordCount": 3420,
           "title": "Underflow and Overflow as an Attack Vector in Smart Contract.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/63aa770aec6d",
-          "author": "Moshood Alimi",
-          "description": "",
-          "link": "https://coinsbench.com/diving-into-smart-contracts-a-simple-donation-system-63aa770aec6d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-23T09:34:37.000Z",
-          "wordCount": null,
-          "title": "Diving into Smart Contracts: A Simple Donation System",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f60e7580b4f9",
-          "author": "Ayoade Abdulrahman",
-          "description": "",
-          "link": "https://coinsbench.com/week-5-interacting-with-uniswap-v2-f60e7580b4f9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-23T09:34:34.000Z",
-          "wordCount": null,
-          "title": "Week 5, Interacting with Uniswap V2.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e59f4379a07",
-          "author": "Ayoade Abdulrahman",
-          "description": "",
-          "link": "https://coinsbench.com/implementing-a-staking-mechanism-for-a-specified-erc20-token-e59f4379a07?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-23T09:34:32.000Z",
-          "wordCount": null,
-          "title": "Implementing a Staking Mechanism for a Specified ERC20 Token",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/185f95c47e4",
-          "author": "Solidity Academy",
-          "description": "",
-          "link": "https://coinsbench.com/mathematical-optimization-techniques-for-blockchain-network-performance-185f95c47e4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-23T07:06:01.000Z",
-          "wordCount": null,
-          "title": "Mathematical Optimization Techniques for Blockchain Network Performance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5837fb3a54e",
-          "author": "Al-Qa'qa'",
-          "description": "",
-          "link": "https://coinsbench.com/erc-1155-what-is-it-and-what-it-is-used-for-5837fb3a54e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-22T13:32:26.000Z",
-          "wordCount": null,
-          "title": "ERC-1155 | What is it, and what is it used for?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d8bd0941e0a5",
-          "author": "Gaurav Kumar",
-          "description": "Blockchain technology, the powerhouse behind cryptocurrencies, is rapidly making its mark in diverse industries. One such promising…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/managing-property-data-with-blockchain-a-step-by-step-guide-d8bd0941e0a5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-21T16:05:23.000Z",
-          "wordCount": null,
-          "title": "Managing Property Data with Blockchain: A Step-by-Step Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5bfc0b83e9c9",
-          "author": "Sed",
-          "description": "The rise of blockchain technologies has provided an avenue to integrate decentralized features into video games. This decentralization…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/keeping-in-game-statistics-on-chain-a-future-of-interactive-gaming-with-nft-dna-5bfc0b83e9c9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-21T16:02:22.000Z",
-          "wordCount": null,
-          "title": "Keeping In-Game Statistics On-chain: A Future of Interactive Gaming with NFT DNA",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZcezV6uQ3pzhkBkVEq1GxA.png"
         }
       ]
     },
@@ -151,9 +151,9 @@
           "description": "Insolvent cryptocurrency lending platform, BlockFi, are nearing a financial resolution, as the United States Bankruptcy…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/bankruptcy-court-greenlights-blockfis-liquidation-scheme-abe2bab66ab8?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-27T13:46:03.000Z",
-          "wordCount": null,
+          "wordCount": 2464,
           "title": "Bankruptcy Court Greenlights BlockFi’s Liquidation Scheme",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*aSmQJrWy3ni97SDRyTvbXw.png"
         },
         {
           "id": "https://medium.com/p/145588dde9c2",
@@ -161,19 +161,19 @@
           "description": "Reinforcement learning is a powerful subset of machine learning that focuses on training agents to make a sequence of decisions in an…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/the-best-python-input-handling-practices-for-reinforcement-learning-145588dde9c2?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-27T13:41:47.000Z",
-          "wordCount": 2433,
+          "wordCount": 2434,
           "title": "The Best Python Input Handling Practices for Reinforcement Learning",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*dG9TyYW7ytTgm_uC"
         },
         {
           "id": "https://medium.com/p/1e6cbf3a8abf",
           "author": "TheRocketGuy",
-          "description": "",
+          "description": "Get real-time insights with Free Crypto Signals!",
           "link": "https://medium.com/coinmonks/5-best-crypto-telegram-groups-trading-signals-1e6cbf3a8abf?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-27T13:41:46.000Z",
-          "wordCount": null,
+          "wordCount": 4004,
           "title": "5 Best Crypto Telegram Groups — Trading Signals",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jMsTyjA8sloRDa96HXzeVQ.jpeg"
         },
         {
           "id": "https://medium.com/p/144db59574c2",
@@ -188,12 +188,12 @@
         {
           "id": "https://medium.com/p/d257d147debc",
           "author": "Zainab Balogun O.",
-          "description": "",
+          "description": "Part 1",
           "link": "https://medium.com/coinmonks/web3-lingos-to-help-you-fit-in-d257d147debc?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-27T13:13:51.000Z",
-          "wordCount": null,
+          "wordCount": 2679,
           "title": "Web3 Lingos to Help You Fit In",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:532/1*i9HhDbVq--ByqxYvKWHHtA@2x.jpeg"
         },
         {
           "id": "https://medium.com/p/af0f453de8fc",
@@ -201,7 +201,7 @@
           "description": "Testing campaign data experience, post-apocalyptic world game Metacene sweeps away the overall decline of chain gaming?",
           "link": "https://medium.com/coinmonks/shanda-lianchuangs-halo-backing-5-million-seed-round-metacene-starts-a-new-cycle-of-chain-af0f453de8fc?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-27T13:13:48.000Z",
-          "wordCount": 5100,
+          "wordCount": 5099,
           "title": "Shanda Lianchuang’s halo backing, $5 million seed round: Metacene starts a new cycle of chain…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/0*6oCv6fB_7xaJnuCl"
         },
@@ -211,9 +211,9 @@
           "description": "Altcoin Season signs are in the air. Are you ready to jump into cryptocurrency investments, again? These charts might open your eyes.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/top-cryptocurrencies-for-october-2023-91b5e3f06496?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-27T13:13:44.000Z",
-          "wordCount": null,
+          "wordCount": 2379,
           "title": "Top Cryptocurrencies for October 2023",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*C34D2gq5xJXH7hqd.png"
         },
         {
           "id": "https://medium.com/p/21e350b83f11",
@@ -221,9 +221,9 @@
           "description": "A Hub & Nexus For Compensated Community Collaboration\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/onlydust-connecting-developers-to-build-the-future-of-starknet-21e350b83f11?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-27T12:07:44.000Z",
-          "wordCount": null,
+          "wordCount": 2209,
           "title": "OnlyDust: Connecting Developers to Build the Future of StarkNet",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UkiQIZzj7RxcQHT6InhYcg.jpeg"
         },
         {
           "id": "https://medium.com/p/8285e293a764",
@@ -238,12 +238,12 @@
         {
           "id": "https://medium.com/p/9d429185dee7",
           "author": "JohnVictor",
-          "description": "",
+          "description": "The Non-Fungible Token phenomenon has taken the world by storm, revolutionizing the realms of art, entertainment, and collectibles. With…",
           "link": "https://medium.com/coinmonks/discovering-the-best-nft-marketing-agency-strategies-for-success-9d429185dee7?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-27T12:07:35.000Z",
-          "wordCount": null,
+          "wordCount": 3872,
           "title": "Discovering the Best NFT Marketing Agency: Strategies for Success",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cHbyp-H1-SoCQ6LYzaWEyA.png"
         }
       ]
     },
@@ -255,32 +255,32 @@
         {
           "id": "https://medium.com/p/895032251de1",
           "author": "UP",
-          "description": "",
+          "description": "In this article, I’ll guide you through a straightforward Yul for loop, providing insights into the code and gas optimization techniques…",
           "link": "https://blog.blockmagnates.com/unlocking-yuls-power-a-journey-through-efficient-for-loops-and-gas-optimization-895032251de1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:35.000Z",
-          "wordCount": null,
+          "wordCount": 3263,
           "title": "Unlocking Yul’s Power: A Journey Through Efficient ‘For’ Loops and Gas Optimization",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*I01h_lkkEAkY5bgXoHg4MQ.png"
         },
         {
           "id": "https://medium.com/p/ff994a66ec8",
           "author": "arian salmanzadeh",
-          "description": "",
+          "description": "Introduction",
           "link": "https://blog.blockmagnates.com/cross-chain-token-to-token-last-part-ff994a66ec8?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:17.000Z",
-          "wordCount": null,
+          "wordCount": 2351,
           "title": "Cross-chain token to token (last part)",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:975/1*5fqUH__7B7Y3VlScWfLldQ.png"
         },
         {
           "id": "https://medium.com/p/93a8349055b3",
           "author": "Joshua Konyeri",
-          "description": "",
+          "description": "Re-entrancy attacks are a common security vulnerability in smart contracts, especially those written in Solidity for the Ethereum…",
           "link": "https://blog.blockmagnates.com/re-entrancy-attack-explained-93a8349055b3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:13.000Z",
-          "wordCount": null,
+          "wordCount": 3617,
           "title": "Re-Entrancy Attack Explained!",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*IksSS8Klt6wcky-ak19x1g.jpeg"
         },
         {
           "id": "https://medium.com/p/5140ca787e5f",
@@ -288,9 +288,9 @@
           "description": "Blockchain development is a rapidly growing field that offers many opportunities for innovation and creativity. Blockchain is a technology…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/demystifying-blockchain-development-building-decentralized-applications-with-solidity-5140ca787e5f?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:10.000Z",
-          "wordCount": null,
+          "wordCount": 2280,
           "title": "Demystifying Blockchain Development: Building Decentralized Applications with Solidity",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/0*QZnz4uFBqwIY1f4c"
         },
         {
           "id": "https://medium.com/p/2ffbc6009fb2",
@@ -298,49 +298,49 @@
           "description": "The Solidity programming language for Ethereum smart contracts, offers a robust feature known as structs that is indispensable in…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/structs-in-solidity-mastering-data-organization-in-ethereum-smart-contracts-2ffbc6009fb2?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:03.000Z",
-          "wordCount": null,
+          "wordCount": 2074,
           "title": "Structs in Solidity: Mastering Data Organization in Ethereum Smart Contracts",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*C1KPpJ8uptD-X9xW"
         },
         {
           "id": "https://medium.com/p/6cfe3e828de3",
           "author": "Joe",
-          "description": "",
+          "description": "Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…",
           "link": "https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-20T17:51:59.000Z",
-          "wordCount": null,
+          "wordCount": 3745,
           "title": "Multi-Signature Wallet (Solidity)",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:704/1*vhlZsOOvW2QhCzxscQjOpg.png"
         },
         {
           "id": "https://medium.com/p/e27ceea7a055",
           "author": "Sunday Olubode",
-          "description": "",
+          "description": "Introduction",
           "link": "https://blog.blockmagnates.com/building-and-deploying-a-dynamic-multisig-wallet-with-buildbear-testnet-e27ceea7a055?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-15T14:58:02.000Z",
-          "wordCount": null,
+          "wordCount": 2852,
           "title": "Building and Deploying a Dynamic MultiSig Wallet With BuildBear Testnet.",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:828/1*plY9AJkD-da0FZAgqSvdqg.jpeg"
         },
         {
           "id": "https://medium.com/p/d64c4723f435",
           "author": "Joe",
-          "description": "",
+          "description": "In this article I will be showing you how to create a contract that allows different people purchase ERC20 tokens from your contract using…",
           "link": "https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-12T13:25:31.000Z",
-          "wordCount": null,
+          "wordCount": 2868,
           "title": "ERC20 Tokens Selling Contract",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*xQ6ogVQOh0FIkKJU6M7RuQ.jpeg"
         },
         {
           "id": "https://medium.com/p/3cc12246147c",
           "author": "UP",
-          "description": "",
+          "description": "Is Blockchain Immutable?",
           "link": "https://blog.blockmagnates.com/upgradable-smart-contracts-part-1-3cc12246147c?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-05T17:33:07.000Z",
-          "wordCount": null,
+          "wordCount": 2559,
           "title": "Upgradable Smart Contracts(Part 1)",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*RtVYCRa8-26efxVs1IKM5g.png"
         }
       ]
     },
