@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-27T12:22:53.000Z</id>
+    <id>urn:2023-09-27T13:15:05.558Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-27T12:22:53.000Z</updated>
+    <updated>2023-09-27T13:15:05.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Yul’s Power: A Journey Through Efficient ‘For’ Loops and Gas Optimization]]></title>
+        <id>https://medium.com/p/895032251de1</id>
+        <link href="https://blog.blockmagnates.com/unlocking-yuls-power-a-journey-through-efficient-for-loops-and-gas-optimization-895032251de1?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-09-27T12:48:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I’ll guide you through a straightforward Yul for loop, providing insights into the code and gas optimization techniques…]]></summary>
+        <author>
+            <name>UP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex Employee Of Stealing His Lambo]]></title>
+        <id>https://www.cryptomaton.org/?p=1576</id>
+        <link href="https://www.cryptomaton.org/2023/09/27/bitboy-arrested-in-unhinged-livestream-for-showing-up-and-accusing-ex-employee-of-stealing-his-lambo/"/>
+        <updated>2023-09-27T12:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Live streaming while paying a visit to your ex-colleague’s house, while carrying a gun because he stole your Lambo isn’t going to win you many IQ points. In fact, you probably lost some just reading that. What it will do though is secure your position in the crypto Hall of Shame, as one of the […]
+The post Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex Employee Of Stealing His Lambo appeared first on cryptomaton.]]></summary>
+        <author>
+            <name>Andrei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-chain token to token (last part)]]></title>
+        <id>https://medium.com/p/ff994a66ec8</id>
+        <link href="https://blog.blockmagnates.com/cross-chain-token-to-token-last-part-ff994a66ec8?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-09-27T12:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>arian salmanzadeh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re-Entrancy Attack Explained!]]></title>
+        <id>https://medium.com/p/93a8349055b3</id>
+        <link href="https://blog.blockmagnates.com/re-entrancy-attack-explained-93a8349055b3?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-09-27T12:48:13.000Z</updated>
+        <summary type="html"><![CDATA[Re-entrancy attacks are a common security vulnerability in smart contracts, especially those written in Solidity for the Ethereum…]]></summary>
+        <author>
+            <name>Joshua Konyeri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying Blockchain Development: Building Decentralized Applications with Solidity]]></title>
+        <id>https://medium.com/p/5140ca787e5f</id>
+        <link href="https://blog.blockmagnates.com/demystifying-blockchain-development-building-decentralized-applications-with-solidity-5140ca787e5f?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-09-27T12:48:10.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain development is a rapidly growing field that offers many opportunities for innovation and creativity. Blockchain is a technology…
+Continue reading on Block Magnates »]]></summary>
+        <author>
+            <name>Grosu Alexandra Elena</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structs in Solidity: Mastering Data Organization in Ethereum Smart Contracts]]></title>
+        <id>https://medium.com/p/2ffbc6009fb2</id>
+        <link href="https://blog.blockmagnates.com/structs-in-solidity-mastering-data-organization-in-ethereum-smart-contracts-2ffbc6009fb2?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-09-27T12:48:03.000Z</updated>
+        <summary type="html"><![CDATA[The Solidity programming language for Ethereum smart contracts, offers a robust feature known as structs that is indispensable in…
+Continue reading on Block Magnates »]]></summary>
+        <author>
+            <name>Kristaps Grinbergs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OnlyDust: Connecting Developers to Build the Future of StarkNet]]></title>
         <id>https://medium.com/p/21e350b83f11</id>

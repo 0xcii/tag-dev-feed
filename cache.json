@@ -12,12 +12,22 @@
       "siteUrl": "https://www.cryptomaton.org/",
       "articles": [
         {
+          "id": "https://www.cryptomaton.org/?p=1576",
+          "author": "Andrei",
+          "description": "Live streaming while paying a visit to your ex-colleague’s house, while carrying a gun because he stole your Lambo isn’t going to win you many IQ points. In fact, you probably lost some just reading that. What it will do though is secure your position in the crypto Hall of Shame, as one of the […]\nThe post Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex Employee Of Stealing His Lambo appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2023/09/27/bitboy-arrested-in-unhinged-livestream-for-showing-up-and-accusing-ex-employee-of-stealing-his-lambo/",
+          "publishedOn": "2023-09-27T12:48:19.000Z",
+          "wordCount": 9915,
+          "title": "Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex Employee Of Stealing His Lambo",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2023/09/Bitboy-gets-arrested-unhinged-stream-lambo.png"
+        },
+        {
           "id": "https://www.cryptomaton.org/?p=1563",
           "author": "Andrei",
           "description": "Remember how cryptocurrency was built for cheap, fast international peer-to-peer transfers? Being able to transfer cryptocurrency across long distances quickly and cheaply is a significant use case for cryptocurrency in general, and there are projects such as Ripple, Stellar, Litecoin, Algo, Nano and many others that were built for this exact use case. An international […]\nThe post The Crypto Travel Rule - Yet Another Restrictive, Backwards Regulation appeared first on cryptomaton.",
           "link": "https://www.cryptomaton.org/2023/09/01/the-crypto-travel-rule-yet-another-restrictive-backwards-regulation/",
           "publishedOn": "2023-09-01T12:16:00.000Z",
-          "wordCount": 10161,
+          "wordCount": 10184,
           "title": "The Crypto Travel Rule - Yet Another Restrictive, Backwards Regulation",
           "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2023/09/fatf-crypto-travel-guide.jpg"
         }
@@ -141,7 +151,7 @@
           "description": "A Hub & Nexus For Compensated Community Collaboration\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/onlydust-connecting-developers-to-build-the-future-of-starknet-21e350b83f11?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-27T12:07:44.000Z",
-          "wordCount": 2208,
+          "wordCount": 2209,
           "title": "OnlyDust: Connecting Developers to Build the Future of StarkNet",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UkiQIZzj7RxcQHT6InhYcg.jpeg"
         },
@@ -151,7 +161,7 @@
           "description": "Discover essential Ethereum token development tools and frameworks for streamlined blockchain projects. Boost your development process!",
           "link": "https://medium.com/coinmonks/ethereum-token-development-8285e293a764?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-27T12:07:38.000Z",
-          "wordCount": 4830,
+          "wordCount": 4831,
           "title": "Ethereum Token Development Tools and Frameworks You Should Know",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cmpTEAHQUaPYtJaXO7o4FQ.png"
         },
@@ -161,7 +171,7 @@
           "description": "The Non-Fungible Token phenomenon has taken the world by storm, revolutionizing the realms of art, entertainment, and collectibles. With…",
           "link": "https://medium.com/coinmonks/discovering-the-best-nft-marketing-agency-strategies-for-success-9d429185dee7?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-27T12:07:35.000Z",
-          "wordCount": 3871,
+          "wordCount": 3872,
           "title": "Discovering the Best NFT Marketing Agency: Strategies for Success",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cHbyp-H1-SoCQ6LYzaWEyA.png"
         },
@@ -191,7 +201,7 @@
           "description": "In the ever-oscillating world of cryptocurrencies and blockchain technology, the recent incident involving Mixin Network stands out as a…",
           "link": "https://medium.com/coinmonks/mixin-networks-20-million-bug-bounty-a-crypto-tale-of-redemption-%EF%B8%8F-%EF%B8%8F-84338e30c39c?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-27T12:04:13.000Z",
-          "wordCount": 3937,
+          "wordCount": 3938,
           "title": "Mixin Network’s $20 Million Bug Bounty: A Crypto Tale of Redemption ️‍♂️",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*MB-NCA_kHpekApAX"
         },
@@ -242,6 +252,56 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/895032251de1",
+          "author": "UP",
+          "description": "In this article, I’ll guide you through a straightforward Yul for loop, providing insights into the code and gas optimization techniques…",
+          "link": "https://blog.blockmagnates.com/unlocking-yuls-power-a-journey-through-efficient-for-loops-and-gas-optimization-895032251de1?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-09-27T12:48:35.000Z",
+          "wordCount": 3263,
+          "title": "Unlocking Yul’s Power: A Journey Through Efficient ‘For’ Loops and Gas Optimization",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*I01h_lkkEAkY5bgXoHg4MQ.png"
+        },
+        {
+          "id": "https://medium.com/p/ff994a66ec8",
+          "author": "arian salmanzadeh",
+          "description": "Introduction",
+          "link": "https://blog.blockmagnates.com/cross-chain-token-to-token-last-part-ff994a66ec8?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-09-27T12:48:17.000Z",
+          "wordCount": 2352,
+          "title": "Cross-chain token to token (last part)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:975/1*5fqUH__7B7Y3VlScWfLldQ.png"
+        },
+        {
+          "id": "https://medium.com/p/93a8349055b3",
+          "author": "Joshua Konyeri",
+          "description": "Re-entrancy attacks are a common security vulnerability in smart contracts, especially those written in Solidity for the Ethereum…",
+          "link": "https://blog.blockmagnates.com/re-entrancy-attack-explained-93a8349055b3?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-09-27T12:48:13.000Z",
+          "wordCount": 3609,
+          "title": "Re-Entrancy Attack Explained!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*IksSS8Klt6wcky-ak19x1g.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/5140ca787e5f",
+          "author": "Grosu Alexandra Elena",
+          "description": "Blockchain development is a rapidly growing field that offers many opportunities for innovation and creativity. Blockchain is a technology…\nContinue reading on Block Magnates »",
+          "link": "https://blog.blockmagnates.com/demystifying-blockchain-development-building-decentralized-applications-with-solidity-5140ca787e5f?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-09-27T12:48:10.000Z",
+          "wordCount": 2280,
+          "title": "Demystifying Blockchain Development: Building Decentralized Applications with Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/0*QZnz4uFBqwIY1f4c"
+        },
+        {
+          "id": "https://medium.com/p/2ffbc6009fb2",
+          "author": "Kristaps Grinbergs",
+          "description": "The Solidity programming language for Ethereum smart contracts, offers a robust feature known as structs that is indispensable in…\nContinue reading on Block Magnates »",
+          "link": "https://blog.blockmagnates.com/structs-in-solidity-mastering-data-organization-in-ethereum-smart-contracts-2ffbc6009fb2?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-09-27T12:48:03.000Z",
+          "wordCount": 2074,
+          "title": "Structs in Solidity: Mastering Data Organization in Ethereum Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*C1KPpJ8uptD-X9xW"
+        },
         {
           "id": "https://medium.com/p/6cfe3e828de3",
           "author": "Joe",
