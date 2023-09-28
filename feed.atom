@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-28T15:12:32.379Z</id>
+    <id>urn:2023-09-28T16:15:11.519Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-28T15:12:32.379Z</updated>
+    <updated>2023-09-28T16:15:11.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Range Reversal RSI Technique]]></title>
+        <id>https://medium.com/p/49c7700bf41</id>
+        <link href="https://medium.com/coinmonks/the-range-reversal-rsi-technique-49c7700bf41?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-28T16:04:23.000Z</updated>
+        <summary type="html"><![CDATA[Using a New RSI Technique to Improve Trading Signals
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Sofien Kaabar, CFA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Satoshi to DeFi: The Evolution of Blockchain and Cryptocurrency.]]></title>
+        <id>https://medium.com/p/8d894feadea2</id>
+        <link href="https://medium.com/coinmonks/from-satoshi-to-defi-the-evolution-of-blockchain-and-cryptocurrency-8d894feadea2?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-28T15:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Mswaidan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Programmer Salaries by Type: Junior vs. Senior vs. Expert]]></title>
+        <id>https://medium.com/p/9ac508367f9b</id>
+        <link href="https://medium.com/coinmonks/python-programmer-salaries-by-type-junior-vs-senior-vs-expert-9ac508367f9b?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-28T15:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Python is one of the most popular programming languages in the world, and it’s in high demand across various industries. As a result…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Gabe Araujo, M.Sc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Development with Python: Junior vs. Senior vs. Expert]]></title>
+        <id>https://medium.com/p/33e92357bd5e</id>
+        <link href="https://medium.com/coinmonks/blockchain-development-with-python-junior-vs-senior-vs-expert-33e92357bd5e?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-28T15:48:07.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology has revolutionized various industries, from finance to supply chain management. Python, a versatile and popular…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Everything Programming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Decorators: Junior vs. Senior vs. Expert]]></title>
+        <id>https://medium.com/p/e15bf0f92f1a</id>
+        <link href="https://medium.com/coinmonks/python-decorators-junior-vs-senior-vs-expert-e15bf0f92f1a?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-28T15:48:05.000Z</updated>
+        <summary type="html"><![CDATA[Python decorators are a powerful and flexible tool for modifying the behavior of functions or methods. They are commonly used in Python…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Everything Programming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refactoring Python Classes by Type: Junior vs. Senior vs. Expert]]></title>
+        <id>https://medium.com/p/b4cfc767a8ee</id>
+        <link href="https://medium.com/coinmonks/refactoring-python-classes-by-type-junior-vs-senior-vs-expert-b4cfc767a8ee?source=rss----721b17443fd5---4"/>
+        <updated>2023-09-28T15:48:04.000Z</updated>
+        <summary type="html"><![CDATA[Python is a versatile and powerful programming language used by developers of all skill levels. One of the key aspects of writing…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Gabe Araujo, M.Sc.</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Concurrency and Parallelism in Python: Junior vs. Senior vs. Expert]]></title>
         <id>https://medium.com/p/869031d0853f</id>
@@ -49,74 +114,11 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Scalable DApps with Python: Junior vs. Senior vs. Expert]]></title>
-        <id>https://medium.com/p/7324fa6f947c</id>
-        <link href="https://medium.com/coinmonks/building-scalable-dapps-with-python-junior-vs-senior-vs-expert-7324fa6f947c?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-28T14:39:11.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized applications, or DApps, have gained immense popularity in recent years.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Everything Programming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Are Still So Early to Bitcoin]]></title>
-        <id>https://medium.com/p/5ab8e23cf98d</id>
-        <link href="https://medium.com/coinmonks/we-are-still-so-early-to-bitcoin-5ab8e23cf98d?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-28T14:14:53.000Z</updated>
-        <summary type="html"><![CDATA[One of the most common mistakes that newcomers to the cryptocurrency market will make is that they will look at the current price of…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Johnwege</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hats Finance — The Crypto Security Meme Competition Victors]]></title>
-        <id>https://medium.com/p/298e618c85c6</id>
-        <link href="https://medium.com/coinmonks/hats-finance-the-crypto-security-meme-competition-victors-298e618c85c6?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-28T14:14:53.000Z</updated>
-        <summary type="html"><![CDATA[We turn black hat hackers into white hat hackers using the right incentives. Hats Finance is creating the future of security!
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>PVMihalache</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Exchange Platform Development Guide]]></title>
-        <id>https://medium.com/p/787d1120d66e</id>
-        <link href="https://medium.com/coinmonks/crypto-exchange-platform-development-guide-787d1120d66e?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-28T14:14:50.000Z</updated>
-        <summary type="html"><![CDATA[Crypto Exchange Platform Development]]></summary>
-        <author>
-            <name>Oodles Blockchain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Allows Foreigners to Top Up Digital Yuan Wallets with Credit Cards]]></title>
-        <id>https://medium.com/p/f55f7ac19214</id>
-        <link href="https://medium.com/coinmonks/china-allows-foreigners-to-top-up-digital-yuan-wallets-with-credit-cards-f55f7ac19214?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-28T14:14:46.000Z</updated>
-        <summary type="html"><![CDATA[In a groundbreaking move to entice foreign visitors, China has unveiled a remarkable upgrade to its digital currency system. This…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Jawad Hussain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Art of Creating Crypto Exchanges: Our Development Company’s Expertise]]></title>
-        <id>https://medium.com/p/d320e69f4fff</id>
-        <link href="https://medium.com/coinmonks/crypto-exchanges-development-company-d320e69f4fff?source=rss----721b17443fd5---4"/>
-        <updated>2023-09-28T14:14:45.000Z</updated>
-        <summary type="html"><![CDATA[Elevate your crypto exchange with our expert development services. Crafted with precision for seamless trading experiences.]]></summary>
-        <author>
-            <name>Albert Peter</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mastering Solidity Design Patterns: Building Robust Smart Contracts]]></title>
         <id>https://medium.com/p/7863d47950f0</id>
         <link href="https://coinsbench.com/mastering-solidity-design-patterns-building-robust-smart-contracts-7863d47950f0?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-28T09:46:25.000Z</updated>
+        <summary type="html"><![CDATA[Smart Contract Design Patterns: Build Efficient Blockchain Applications]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -126,6 +128,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/a156f8375c18</id>
         <link href="https://coinsbench.com/ethereum-gas-fees-demystified-a-deep-dive-into-transaction-costs-a156f8375c18?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-27T14:44:08.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum blockchain has revolutionized decentralized applications and smart contracts, but with every transaction comes Ethereum gas…]]></summary>
         <author>
             <name>Rosario Borgesi</name>
         </author>
@@ -135,6 +138,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/27a819d0f345</id>
         <link href="https://coinsbench.com/oracle-dependency-implications-27a819d0f345?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-27T14:44:06.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
@@ -144,6 +148,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/96133d9f33e8</id>
         <link href="https://coinsbench.com/rareskills-solidity-interview-question-6-answered-prior-to-eip-1559-how-do-you-calculate-the-96133d9f33e8?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-27T14:44:02.000Z</updated>
+        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
         </author>
@@ -153,6 +158,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/8ad1d9f45bd5</id>
         <link href="https://coinsbench.com/tokenswap-smart-contract-using-the-constant-product-market-maker-cpmm-formula-8ad1d9f45bd5?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-27T14:43:33.000Z</updated>
+        <summary type="html"><![CDATA[This week, I developed a smart contract that enables users to perform token swaps between token1 and token2 in both directions, using the…]]></summary>
         <author>
             <name>Ayoade Abdulrahman</name>
         </author>
@@ -162,6 +168,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/7748f4a98e13</id>
         <link href="https://coinsbench.com/nft-minting-using-chainlink-vrf-chainlink-vrf-part-iii-7748f4a98e13?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-27T14:43:30.000Z</updated>
+        <summary type="html"><![CDATA[This is part three of a series, I talk about the use of Chainlink VRF. I showcase the power of NFT minting with different attributes (VRF).]]></summary>
         <author>
             <name>Joe</name>
         </author>
@@ -171,6 +178,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/3d3908dc97f6</id>
         <link href="https://coinsbench.com/basic-solidity-series-what-is-spdx-license-identifier-used-for-3d3908dc97f6?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-27T14:43:27.000Z</updated>
+        <summary type="html"><![CDATA[If you are like me, who just wants to dive straight into writing smart contracts without worrying about the lines of code before the…]]></summary>
         <author>
             <name>Joshua Konyeri</name>
         </author>
@@ -180,6 +188,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/e3beaf5a2882</id>
         <link href="https://coinsbench.com/my-first-decentralized-social-media-platform-powered-by-blockchain-e3beaf5a2882?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-27T14:43:08.000Z</updated>
+        <summary type="html"><![CDATA[Over the weekend, as I lounged lazily in my cozy bedspace at Web3Bridge, I was able to process the thought of building a basic…]]></summary>
         <author>
             <name>Ayoade Abdulrahman</name>
         </author>
@@ -189,6 +198,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/895032251de1</id>
         <link href="https://blog.blockmagnates.com/unlocking-yuls-power-a-journey-through-efficient-for-loops-and-gas-optimization-895032251de1?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-27T12:48:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I’ll guide you through a straightforward Yul for loop, providing insights into the code and gas optimization techniques…]]></summary>
         <author>
             <name>UP</name>
         </author>
@@ -209,6 +219,7 @@ The post Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex 
         <id>https://medium.com/p/ff994a66ec8</id>
         <link href="https://blog.blockmagnates.com/cross-chain-token-to-token-last-part-ff994a66ec8?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-27T12:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>arian salmanzadeh</name>
         </author>
@@ -218,6 +229,7 @@ The post Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex 
         <id>https://medium.com/p/93a8349055b3</id>
         <link href="https://blog.blockmagnates.com/re-entrancy-attack-explained-93a8349055b3?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-27T12:48:13.000Z</updated>
+        <summary type="html"><![CDATA[Re-entrancy attacks are a common security vulnerability in smart contracts, especially those written in Solidity for the Ethereum…]]></summary>
         <author>
             <name>Joshua Konyeri</name>
         </author>
@@ -263,6 +275,7 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/a2e9a25f077f</id>
         <link href="https://coinsbench.com/decoding-smart-contracts-unveiling-turing-completeness-through-mathematical-exploration-a2e9a25f077f?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-25T07:06:01.000Z</updated>
+        <summary type="html"><![CDATA[🌐🔍 Smart contracts have revolutionized the way transactions and agreements are executed on blockchain platforms. These self-executing…]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -272,6 +285,7 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/1eaa541319fe</id>
         <link href="https://coinsbench.com/stochastic-processes-in-blockchain-analyzing-transaction-confirmation-times-%EF%B8%8F-1eaa541319fe?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-09-24T07:06:01.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology has revolutionized the world of finance and digital transactions, but it comes with its own set of unique challenges…]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -281,6 +295,7 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/6cfe3e828de3</id>
         <link href="https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-20T17:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…]]></summary>
         <author>
             <name>Joe</name>
         </author>
@@ -290,6 +305,7 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/e27ceea7a055</id>
         <link href="https://blog.blockmagnates.com/building-and-deploying-a-dynamic-multisig-wallet-with-buildbear-testnet-e27ceea7a055?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-15T14:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Sunday Olubode</name>
         </author>
@@ -316,6 +332,7 @@ Hyperlane is a permissionless inter…]]></summary>
         <id>https://medium.com/p/d64c4723f435</id>
         <link href="https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-12T13:25:31.000Z</updated>
+        <summary type="html"><![CDATA[In this article I will be showing you how to create a contract that allows different people purchase ERC20 tokens from your contract using…]]></summary>
         <author>
             <name>Joe</name>
         </author>
@@ -325,6 +342,7 @@ Hyperlane is a permissionless inter…]]></summary>
         <id>https://medium.com/p/3cc12246147c</id>
         <link href="https://blog.blockmagnates.com/upgradable-smart-contracts-part-1-3cc12246147c?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-05T17:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Is Blockchain Immutable?]]></summary>
         <author>
             <name>UP</name>
         </author>
