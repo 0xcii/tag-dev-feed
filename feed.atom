@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-28T04:13:53.464Z</id>
+    <id>urn:2023-09-28T05:10:49.820Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-28T04:13:53.464Z</updated>
+    <updated>2023-09-28T05:10:49.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -399,24 +399,6 @@ https://www.youtube.com/watch?v=bVjGN2hJtGY]]></summary>
 The post The Crypto Travel Rule - Yet Another Restrictive, Backwards Regulation appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running an Arweave Gateway on Fly.io]]></title>
-        <id>https://blog.developerdao.com/running-an-arweave-gateway-on-flyio</id>
-        <link href="https://blog.developerdao.com/running-an-arweave-gateway-on-flyio"/>
-        <updated>2023-08-29T16:58:43.000Z</updated>
-        <summary type="html"><![CDATA[Last week, I wrote about running an Arweave gateway on GitHub Codespaces for development, but this was just an exercise to get to know AR.IO's gateway node.
-Codespaces are short-lived cloud instances that start when we open VSCode in the browser. Nice for development, but not so nice for a real gateway.
-Fly.io, or Fly for short, on the other hand, supplies us with short-lived cloud instances that start when someone sends a request to a specific domain - any requests - so it's perfect for a gateway.
-But first, we must take a few hurdles to get things up and running.
-So, let's dive in!
-Target Audience
-This article assumes you know how to use the command line on Linux. We will edit Docker, TypeScript, and YAML files, but the article will supply all content.
-Prerequisites
-We need a Fly account…]]></summary>
-        <author>
-            <name>Ϗ</name>
         </author>
     </entry>
 </feed>
