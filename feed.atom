@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-30T09:10:14.263Z</id>
+    <id>urn:2023-09-30T10:10:43.542Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-30T09:10:14.263Z</updated>
+    <updated>2023-09-30T10:10:43.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mastering Solidity: A Journey Through 100 Days of Blockchain Development]]></title>
+        <id>https://medium.com/p/96925c0655d3</id>
+        <link href="https://coinsbench.com/mastering-solidity-a-journey-through-100-days-of-blockchain-development-96925c0655d3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-09-30T09:46:45.000Z</updated>
+        <summary type="html"><![CDATA[#100DaysOfSolidity Series Full Links — All About Solidity]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chain Link VRF Usecases (Part 1)]]></title>
         <id>https://medium.com/p/e083960d9905</id>
@@ -198,16 +208,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[This week, I developed a smart contract that enables users to perform token swaps between token1 and token2 in both directions, using the…]]></summary>
         <author>
             <name>Ayoade Abdulrahman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT Minting using Chainlink VRF (Chainlink VRF Part III)]]></title>
-        <id>https://medium.com/p/7748f4a98e13</id>
-        <link href="https://coinsbench.com/nft-minting-using-chainlink-vrf-chainlink-vrf-part-iii-7748f4a98e13?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-09-27T14:43:30.000Z</updated>
-        <summary type="html"><![CDATA[This is part three of a series, I talk about the use of Chainlink VRF. I showcase the power of NFT minting with different attributes (VRF).]]></summary>
-        <author>
-            <name>Joe</name>
         </author>
     </entry>
     <entry>
