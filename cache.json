@@ -29,6 +29,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a1ed27148893",
+          "author": "Solidity Academy",
+          "description": "Solidity Security Pitfalls & Best Practices : Developing Secure Smart Contracts",
+          "link": "https://coinsbench.com/solidity-security-safeguarding-your-smart-contracts-against-common-vulnerabilities-a1ed27148893?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-01T07:47:15.000Z",
+          "wordCount": 4453,
+          "title": "Solidity Security: Safeguarding Your Smart Contracts Against Common Vulnerabilities",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*CyxeQnxwkXPrHA3z"
+        },
+        {
           "id": "https://medium.com/p/96925c0655d3",
           "author": "Solidity Academy",
           "description": "#100DaysOfSolidity Series Full Links — All About Solidity",
@@ -117,16 +127,6 @@
           "wordCount": 2517,
           "title": "RareSkills Solidity Interview Question #6 Answered: Prior to EIP-1559, how do you calculate the…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mdTUEsAEqSEArKSkYrRfvg.png"
-        },
-        {
-          "id": "https://medium.com/p/8ad1d9f45bd5",
-          "author": "Ayoade Abdulrahman",
-          "description": "This week, I developed a smart contract that enables users to perform token swaps between token1 and token2 in both directions, using the…",
-          "link": "https://coinsbench.com/tokenswap-smart-contract-using-the-constant-product-market-maker-cpmm-formula-8ad1d9f45bd5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-27T14:43:33.000Z",
-          "wordCount": 2529,
-          "title": "TokenSwap Smart Contract Using the Constant Product Market Maker (CPMM) formula",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Csw3B6M3jMJA47k96mslLA.png"
         }
       ]
     },
@@ -171,7 +171,7 @@
           "description": "In the dynamic realm of finance, the Sharpe Ratio is the maestro orchestrating a symphony of investment wisdom.",
           "link": "https://medium.com/coinmonks/unlocking-financial-mastery-elevating-your-portfolio-with-sharpe-ratio-brilliance-c568e107560a?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-29T13:53:58.000Z",
-          "wordCount": 2149,
+          "wordCount": 2148,
           "title": "Unlocking Financial Mastery: Elevating Your Portfolio with Sharpe Ratio Brilliance",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*dtHW63xZslpd2TILkuM4RA.jpeg"
         },
@@ -181,7 +181,7 @@
           "description": "Bitcoin is a scarce asset with a limited supply, and its value has been trending upwards over time. This makes it a good investment for…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/how-to-passively-increase-your-bitcoin-holdings-40237e0b4c55?source=rss----721b17443fd5---4",
           "publishedOn": "2023-09-29T13:53:58.000Z",
-          "wordCount": 2503,
+          "wordCount": 2518,
           "title": "How to passively increase your Bitcoin holdings",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rPEYiFggCsLR6WKDWOFvgA.png"
         },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-01T07:10:50.306Z</id>
+    <id>urn:2023-10-01T08:13:43.342Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-01T07:10:50.306Z</updated>
+    <updated>2023-10-01T08:13:43.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Security: Safeguarding Your Smart Contracts Against Common Vulnerabilities]]></title>
+        <id>https://medium.com/p/a1ed27148893</id>
+        <link href="https://coinsbench.com/solidity-security-safeguarding-your-smart-contracts-against-common-vulnerabilities-a1ed27148893?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-01T07:47:15.000Z</updated>
+        <summary type="html"><![CDATA[Solidity Security Pitfalls & Best Practices : Developing Secure Smart Contracts]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mastering Solidity: A Journey Through 100 Days of Blockchain Development]]></title>
         <id>https://medium.com/p/96925c0655d3</id>
@@ -198,16 +208,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TokenSwap Smart Contract Using the Constant Product Market Maker (CPMM) formula]]></title>
-        <id>https://medium.com/p/8ad1d9f45bd5</id>
-        <link href="https://coinsbench.com/tokenswap-smart-contract-using-the-constant-product-market-maker-cpmm-formula-8ad1d9f45bd5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-09-27T14:43:33.000Z</updated>
-        <summary type="html"><![CDATA[This week, I developed a smart contract that enables users to perform token swaps between token1 and token2 in both directions, using the…]]></summary>
-        <author>
-            <name>Ayoade Abdulrahman</name>
         </author>
     </entry>
     <entry>
