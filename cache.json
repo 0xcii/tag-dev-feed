@@ -191,7 +191,7 @@
           "description": "In the realm of private and secure computations, two powerful concepts have emerged: zero-knowledge proofs (ZK-proofs) and multiparty…",
           "link": "https://medium.com/coinmonks/multiparty-computation-x-zero-knowledge-proofs-b2ca346e9b09?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-02T09:00:00.000Z",
-          "wordCount": 3328,
+          "wordCount": 3302,
           "title": "Multiparty Computation x Zero-Knowledge Proofs",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ShDKfXT0RDJPaAEyq11stw.png"
         },
@@ -201,7 +201,7 @@
           "description": "Look at endless cutting-edge technology; insight into the future, leading the new era of investment research.",
           "link": "https://medium.com/coinmonks/falling-fluff-silently-trickle-of-clear-dew-wtr-10-02-df4a1fd12d8?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-02T08:59:59.000Z",
-          "wordCount": 6291,
+          "wordCount": 6231,
           "title": "Falling fluff silently, trickle of clear dew | WTR 10.02",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*QFPb1pmUA_vNyylM"
         },
@@ -339,6 +339,16 @@
       "feedUrl": "https://blog.developerdao.com/rss.xml",
       "siteUrl": "https://blog.developerdao.com",
       "articles": [
+        {
+          "id": "https://blog.developerdao.com/how-to-deploy-your-own-hyperlane-on-polygon-zkevm",
+          "author": "megabyte",
+          "description": "gm gm gm!!!  \nNew chains are popping up by the minute, so getting liquidity there is a burning issue. Hyperlane tries to solve this with permissionless bridges. Hyperlane is a permissionless protocol, which means you can deploy your own Hyperlane on any chain without asking the core team. In this guide, you will learn how to deploy Hyperlane on Polygon zkEVM Testnet, Polygon Mumbai Testnet and Sepolia.\nThere are five steps we need to follow so LFG🚀\n\nPrerequisites\nYarn\nGit and GitHub knowledge\nUnderstanding of blockchain\nOptional: Solidity experience\n1. Setting Up the Keys\nDeploying Hyperlane includes smart contracts, validators, and relayers, each requiring a key pair.\nThe Deployment Keys\nTo deploy smart contracts, you must have a key pair with the funds for all the chains you will be dep…",
+          "link": "https://blog.developerdao.com/how-to-deploy-your-own-hyperlane-on-polygon-zkevm",
+          "publishedOn": "2023-10-02T09:40:51.000Z",
+          "wordCount": 4735,
+          "title": "How to Deploy Your Own Hyperlane on Polygon zkEVM",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1696239581849%2F14022650-206f-47ef-865b-c13d4bfed913.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
         {
           "id": "https://blog.developerdao.com/uploading-files-to-arweave-via-the-bundler-network",
           "author": "Osikhena Oshomah",
