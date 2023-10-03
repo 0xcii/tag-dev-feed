@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-03T09:11:53.009Z</id>
+    <id>urn:2023-10-03T10:12:51.733Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-03T09:11:53.009Z</updated>
+    <updated>2023-10-03T10:12:51.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Utility Token?]]></title>
+        <id>https://medium.com/p/7124b7889d3b</id>
+        <link href="https://coinsbench.com/what-is-a-utility-token-7124b7889d3b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-03T10:02:32.000Z</updated>
+        <summary type="html"><![CDATA[To better understand what a token is, we define it as a digital entity that is linked to an existing cryptocurrency, such as ETH (ERC20)…]]></summary>
+        <author>
+            <name>Ushangi Matiashvili GCWine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Ethereum’s Create2 Opcode: Predictable Contract Deployment.]]></title>
+        <id>https://medium.com/p/2e70a5d56225</id>
+        <link href="https://coinsbench.com/understanding-ethereums-create2-opcode-predictable-contract-deployment-2e70a5d56225?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-03T10:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Create2 is an opcode that allows you to predict the address where a smart contract will be deployed ahead of time. This can be useful for…]]></summary>
+        <author>
+            <name>Oluwadunnie Rachael</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layer-2 Solution in Ethereum]]></title>
+        <id>https://medium.com/p/3d8078a6277c</id>
+        <link href="https://coinsbench.com/layer-2-solution-in-ethereum-3d8078a6277c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-03T10:01:52.000Z</updated>
+        <summary type="html"><![CDATA[What is Layer 2 solution?]]></summary>
+        <author>
+            <name>Esther Oche</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Uncovered The Future of High Speed Blockchain]]></title>
         <id>https://medium.com/p/d4e4708c83ed</id>
@@ -199,36 +229,6 @@ To deploy smart contracts, you must have a key pair with the funds for all the c
         <summary type="html"><![CDATA[Smart Contract Design Patterns: Build Efficient Blockchain Applications]]></summary>
         <author>
             <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Gas Fees Demystified: A Deep Dive into Transaction Costs]]></title>
-        <id>https://medium.com/p/a156f8375c18</id>
-        <link href="https://coinsbench.com/ethereum-gas-fees-demystified-a-deep-dive-into-transaction-costs-a156f8375c18?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-09-27T14:44:08.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum blockchain has revolutionized decentralized applications and smart contracts, but with every transaction comes Ethereum gas…]]></summary>
-        <author>
-            <name>Rosario Borgesi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle Dependency: Implications.]]></title>
-        <id>https://medium.com/p/27a819d0f345</id>
-        <link href="https://coinsbench.com/oracle-dependency-implications-27a819d0f345?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-09-27T14:44:06.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Esther Oche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #6 Answered: Prior to EIP-1559, how do you calculate the…]]></title>
-        <id>https://medium.com/p/96133d9f33e8</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-6-answered-prior-to-eip-1559-how-do-you-calculate-the-96133d9f33e8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-09-27T14:44:02.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
         </author>
     </entry>
     <entry>

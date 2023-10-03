@@ -29,6 +29,36 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/7124b7889d3b",
+          "author": "Ushangi Matiashvili GCWine",
+          "description": "To better understand what a token is, we define it as a digital entity that is linked to an existing cryptocurrency, such as ETH (ERC20)…",
+          "link": "https://coinsbench.com/what-is-a-utility-token-7124b7889d3b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-03T10:02:32.000Z",
+          "wordCount": 2232,
+          "title": "What is a Utility Token?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:850/1*9f105PGSm8RJOJLgHBPK6g.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/2e70a5d56225",
+          "author": "Oluwadunnie Rachael",
+          "description": "Create2 is an opcode that allows you to predict the address where a smart contract will be deployed ahead of time. This can be useful for…",
+          "link": "https://coinsbench.com/understanding-ethereums-create2-opcode-predictable-contract-deployment-2e70a5d56225?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-03T10:01:55.000Z",
+          "wordCount": 3022,
+          "title": "Understanding Ethereum’s Create2 Opcode: Predictable Contract Deployment.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3d8078a6277c",
+          "author": "Esther Oche",
+          "description": "What is Layer 2 solution?",
+          "link": "https://coinsbench.com/layer-2-solution-in-ethereum-3d8078a6277c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-03T10:01:52.000Z",
+          "wordCount": 3511,
+          "title": "Layer-2 Solution in Ethereum",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VQjHfkwVMBx0Hd_dZN_OQg.jpeg"
+        },
+        {
           "id": "https://medium.com/p/a1ed27148893",
           "author": "Solidity Academy",
           "description": "Solidity Security Pitfalls & Best Practices : Developing Secure Smart Contracts",
@@ -97,36 +127,6 @@
           "wordCount": 6514,
           "title": "Mastering Solidity Design Patterns: Building Robust Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*aMQBgQC168BqUkhI"
-        },
-        {
-          "id": "https://medium.com/p/a156f8375c18",
-          "author": "Rosario Borgesi",
-          "description": "The Ethereum blockchain has revolutionized decentralized applications and smart contracts, but with every transaction comes Ethereum gas…",
-          "link": "https://coinsbench.com/ethereum-gas-fees-demystified-a-deep-dive-into-transaction-costs-a156f8375c18?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-27T14:44:08.000Z",
-          "wordCount": 4847,
-          "title": "Ethereum Gas Fees Demystified: A Deep Dive into Transaction Costs",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*19vNNYoB3LrNotUKCtL-4A.png"
-        },
-        {
-          "id": "https://medium.com/p/27a819d0f345",
-          "author": "Esther Oche",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/oracle-dependency-implications-27a819d0f345?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-27T14:44:06.000Z",
-          "wordCount": 3993,
-          "title": "Oracle Dependency: Implications.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*kWpT53Y3DdeSH8xONmndpw.png"
-        },
-        {
-          "id": "https://medium.com/p/96133d9f33e8",
-          "author": "Faybian Byrd",
-          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
-          "link": "https://coinsbench.com/rareskills-solidity-interview-question-6-answered-prior-to-eip-1559-how-do-you-calculate-the-96133d9f33e8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-09-27T14:44:02.000Z",
-          "wordCount": 2488,
-          "title": "RareSkills Solidity Interview Question #6 Answered: Prior to EIP-1559, how do you calculate the…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mdTUEsAEqSEArKSkYrRfvg.png"
         }
       ]
     },
@@ -151,7 +151,7 @@
           "description": "In the fast-paced and ever-evolving world of cryptocurrencies, a rising star has emerged — Avalanche (AVAX). With its unique consensus…",
           "link": "https://medium.com/coinmonks/avalanche-avax-the-rising-star-of-cryptocurrency-87c77fd2c946?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-03T08:51:30.000Z",
-          "wordCount": 2970,
+          "wordCount": 2928,
           "title": "“Avalanche AVAX The Rising Star of Cryptocurrency”",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mj-1GCj2LZTRXP9Rrsmz4w.jpeg"
         },
@@ -161,7 +161,7 @@
           "description": "The Essence of Money by OpenAi-ChatGPT",
           "link": "https://medium.com/coinmonks/money-a-paper-dream-adf9477b807a?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-03T08:51:30.000Z",
-          "wordCount": 2123,
+          "wordCount": 2082,
           "title": "Money — A Paper Dream!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*SE2lT4H0tFqONHlXiRPzxA.jpeg"
         },
