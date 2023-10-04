@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-03T23:11:09.779Z</id>
+    <id>urn:2023-10-04T00:54:02.182Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-03T23:11:09.779Z</updated>
+    <updated>2023-10-04T00:54:02.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -362,23 +362,6 @@ Hyperlane is a permissionless inter…]]></summary>
         <summary type="html"><![CDATA[Is Blockchain Immutable?]]></summary>
         <author>
             <name>UP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your Own NFT Collection with QuickNode and Optimism]]></title>
-        <id>https://blog.developerdao.com/build-your-own-nft-collection-with-quicknode-and-optimism</id>
-        <link href="https://blog.developerdao.com/build-your-own-nft-collection-with-quicknode-and-optimism"/>
-        <updated>2023-09-04T12:34:58.000Z</updated>
-        <summary type="html"><![CDATA[Building and deploying your own NFT collection can be time and money-consuming, especially with the gas prices on Ethereum. With the rise of layer-2 solutions and cheap RPCs, this doesn't have to be the case! This tutorial will explain building an NFT Collection using the ERC-721 token standard. You will store all NFT assets and metadata on IPFS with QuickNode and deploy the smart contract on Optimism Goerli Testnet.
-
-Requirements
-A basic understanding of Solidity development will be helpful but is not required.
-A basic understanding of the ERC-721 token standard will be helpful but is not required.
-A basic understanding of the Remix IDE will be helpful but is not required.
-Image assets and metadata of the NFT collections.
-MetaMask or any other wallet and a small amount of Goerli test ETH.…]]></summary>
-        <author>
-            <name>Aayush Gupta</name>
         </author>
     </entry>
 </feed>
