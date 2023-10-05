@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-05T09:12:11.674Z</id>
+    <id>urn:2023-10-05T10:13:11.660Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-05T09:12:11.674Z</updated>
+    <updated>2023-10-05T10:13:11.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -20,6 +20,7 @@
         <id>https://medium.com/p/2af5fc19ec5b</id>
         <link href="https://medium.com/coinmonks/introducing-the-hashport-sdk-2af5fc19ec5b?source=rss----721b17443fd5---4"/>
         <updated>2023-10-05T08:39:27.000Z</updated>
+        <summary type="html"><![CDATA[The Hashport SDK allows dApps to integrate with the Hashport infrastructure and let users port their assets across the ecosystems.]]></summary>
         <author>
             <name>hashport</name>
         </author>
@@ -29,6 +30,7 @@
         <id>https://medium.com/p/f093bd280e23</id>
         <link href="https://medium.com/coinmonks/curious-cryptos-commentary-5th-october-2023-ripple-f093bd280e23?source=rss----721b17443fd5---4"/>
         <updated>2023-10-05T08:39:26.000Z</updated>
+        <summary type="html"><![CDATA[tl;dr]]></summary>
         <author>
             <name>Mark Timmis</name>
         </author>
@@ -38,6 +40,7 @@
         <id>https://medium.com/p/585fd9e2b560</id>
         <link href="https://medium.com/coinmonks/tech-upgrades-community-engagement-hashport-august-2023-review-585fd9e2b560?source=rss----721b17443fd5---4"/>
         <updated>2023-10-05T08:39:17.000Z</updated>
+        <summary type="html"><![CDATA[For Hashport, August had been a month for tech upgrades & community engagement. Read on for a quick review of August 2023:]]></summary>
         <author>
             <name>hashport</name>
         </author>
@@ -57,6 +60,7 @@
         <id>https://medium.com/p/6ee84ad19b8f</id>
         <link href="https://coinsbench.com/the-audit-chronicles-centrifuge-6ee84ad19b8f?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-05T08:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Tic, tac, tic, tac,… Centrifuge is the perfect name to describe how time is slipping away from you. The clock moves forward very quickly…]]></summary>
         <author>
             <name>Aitor Zaldua</name>
         </author>
@@ -66,6 +70,7 @@
         <id>https://medium.com/p/544c8317bf29</id>
         <link href="https://coinsbench.com/deciphering-the-enigma-solidity-storage-layout-unveiled-544c8317bf29?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-05T08:18:58.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, known as the industry standard for blockchain development, plays a pivotal role in crafting smart contracts that power the…]]></summary>
         <author>
             <name>Ahmed Jabnati</name>
         </author>
@@ -296,7 +301,6 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/6cfe3e828de3</id>
         <link href="https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-20T17:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…]]></summary>
         <author>
             <name>Joe</name>
         </author>
