@@ -114,7 +114,7 @@
           "description": "Introduction",
           "link": "https://coinsbench.com/rusts-organizational-structures-packages-crates-modules-and-paths-e19768019cf4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-09-29T22:28:30.000Z",
-          "wordCount": 2227,
+          "wordCount": 2219,
           "title": "Rust’s Organizational Structures: Packages, Crates, Modules, and Paths",
           "imageUrl": null
         },
@@ -161,7 +161,7 @@
           "description": "In the early days of cryptocurrencies, the allure of anonymity was one of the driving forces behind their adoption. Bitcoin, the first and…",
           "link": "https://medium.com/coinmonks/the-myth-of-anonymity-on-the-blockchain-c6cdc713a08b?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-04T18:26:00.000Z",
-          "wordCount": 3485,
+          "wordCount": 3491,
           "title": "The Myth of Anonymity on the Blockchain",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:768/0*ezAjUfQ54_0AkFV3.png"
         },
@@ -258,19 +258,19 @@
           "description": "Introduction",
           "link": "https://blog.blockmagnates.com/cross-chain-token-to-token-last-part-ff994a66ec8?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:17.000Z",
-          "wordCount": 2305,
+          "wordCount": 2299,
           "title": "Cross-chain token to token (last part)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:975/1*5fqUH__7B7Y3VlScWfLldQ.png"
         },
         {
           "id": "https://medium.com/p/93a8349055b3",
           "author": "Joshua Konyeri",
-          "description": "Re-entrancy attacks are a common security vulnerability in smart contracts, especially those written in Solidity for the Ethereum…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/re-entrancy-attack-explained-93a8349055b3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:13.000Z",
-          "wordCount": 3651,
+          "wordCount": null,
           "title": "Re-Entrancy Attack Explained!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*IksSS8Klt6wcky-ak19x1g.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/5140ca787e5f",
@@ -278,9 +278,9 @@
           "description": "Blockchain development is a rapidly growing field that offers many opportunities for innovation and creativity. Blockchain is a technology…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/demystifying-blockchain-development-building-decentralized-applications-with-solidity-5140ca787e5f?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:10.000Z",
-          "wordCount": 2229,
+          "wordCount": null,
           "title": "Demystifying Blockchain Development: Building Decentralized Applications with Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/0*QZnz4uFBqwIY1f4c"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/2ffbc6009fb2",
@@ -321,16 +321,6 @@
           "wordCount": 2947,
           "title": "ERC20 Tokens Selling Contract",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*xQ6ogVQOh0FIkKJU6M7RuQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3cc12246147c",
-          "author": "UP",
-          "description": "Is Blockchain Immutable?",
-          "link": "https://blog.blockmagnates.com/upgradable-smart-contracts-part-1-3cc12246147c?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2023-09-05T17:33:07.000Z",
-          "wordCount": 2625,
-          "title": "Upgradable Smart Contracts(Part 1)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*RtVYCRa8-26efxVs1IKM5g.png"
         }
       ]
     },
