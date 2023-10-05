@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-05T06:15:47.139Z</id>
+    <id>urn:2023-10-05T07:11:01.195Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-05T06:15:47.139Z</updated>
+    <updated>2023-10-05T07:11:01.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -265,6 +265,7 @@ The post Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex 
         <id>https://medium.com/p/93a8349055b3</id>
         <link href="https://blog.blockmagnates.com/re-entrancy-attack-explained-93a8349055b3?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-27T12:48:13.000Z</updated>
+        <summary type="html"><![CDATA[Re-entrancy attacks are a common security vulnerability in smart contracts, especially those written in Solidity for the Ethereum…]]></summary>
         <author>
             <name>Joshua Konyeri</name>
         </author>
