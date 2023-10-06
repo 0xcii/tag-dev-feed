@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-06T11:09:50.951Z</id>
+    <id>urn:2023-10-06T12:23:15.268Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-06T11:09:50.951Z</updated>
+    <updated>2023-10-06T12:23:15.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[3 Key Reasons Bitcoin Is Having to Rally Above $28.5K]]></title>
+        <title type="html"><![CDATA[Friend.tech Insights: From Forks to Sim-Swaps]]></title>
+        <id>https://medium.com/p/39d0015b47f9</id>
+        <link href="https://medium.com/coinmonks/friend-tech-insights-from-forks-to-sim-swaps-39d0015b47f9?source=rss----721b17443fd5---4"/>
+        <updated>2023-10-06T11:32:40.000Z</updated>
+        <summary type="html"><![CDATA[Forks of the social network are trying to capture the attention of crypto enthusiasts. The most successful one recently launched on…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Golden Trades</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Key Reasons Bitcoin Struggles to Rally Above $28.5K]]></title>
         <id>https://medium.com/p/c167d2cd43bf</id>
         <link href="https://medium.com/coinmonks/3-key-reasons-bitcoin-is-having-to-rally-above-28-5k-c167d2cd43bf?source=rss----721b17443fd5---4"/>
         <updated>2023-10-06T10:13:13.000Z</updated>
@@ -99,16 +110,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peer-to-Peer Crypto Exchanges: How Distributed Trading is Disrupting Centralized Platforms]]></title>
-        <id>https://medium.com/p/934814c9e9f0</id>
-        <link href="https://medium.com/coinmonks/peer-to-peer-crypto-exchanges-how-distributed-trading-is-disrupting-centralized-platforms-934814c9e9f0?source=rss----721b17443fd5---4"/>
-        <updated>2023-10-06T10:08:27.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrency trading has traditionally relied on centralized exchanges like Binance, Coinbase, and Kraken to match orders and enable…]]></summary>
-        <author>
-            <name>Blockchain Today</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Audit Chronicles: Centrifuge]]></title>
         <id>https://medium.com/p/6ee84ad19b8f</id>
         <link href="https://coinsbench.com/the-audit-chronicles-centrifuge-6ee84ad19b8f?source=rss----f1cfd22cde3e---4"/>
@@ -163,7 +164,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/3d8078a6277c</id>
         <link href="https://coinsbench.com/layer-2-solution-in-ethereum-3d8078a6277c?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-03T10:01:52.000Z</updated>
-        <summary type="html"><![CDATA[What is Layer 2 solution?]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
@@ -195,7 +195,6 @@ To deploy smart contracts, you must have a key pair with the funds for all the c
         <id>https://medium.com/p/a1ed27148893</id>
         <link href="https://coinsbench.com/solidity-security-safeguarding-your-smart-contracts-against-common-vulnerabilities-a1ed27148893?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-01T07:47:15.000Z</updated>
-        <summary type="html"><![CDATA[Solidity Security Pitfalls & Best Practices : Developing Secure Smart Contracts]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -266,7 +265,6 @@ The post Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex 
         <id>https://medium.com/p/93a8349055b3</id>
         <link href="https://blog.blockmagnates.com/re-entrancy-attack-explained-93a8349055b3?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-27T12:48:13.000Z</updated>
-        <summary type="html"><![CDATA[Re-entrancy attacks are a common security vulnerability in smart contracts, especially those written in Solidity for the Ethereum…]]></summary>
         <author>
             <name>Joshua Konyeri</name>
         </author>
@@ -312,7 +310,6 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/6cfe3e828de3</id>
         <link href="https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-20T17:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…]]></summary>
         <author>
             <name>Joe</name>
         </author>
@@ -322,7 +319,6 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/e27ceea7a055</id>
         <link href="https://blog.blockmagnates.com/building-and-deploying-a-dynamic-multisig-wallet-with-buildbear-testnet-e27ceea7a055?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-15T14:58:02.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Sunday Olubode</name>
         </author>
@@ -349,7 +345,6 @@ Hyperlane is a permissionless inter…]]></summary>
         <id>https://medium.com/p/d64c4723f435</id>
         <link href="https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-12T13:25:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article I will be showing you how to create a contract that allows different people purchase ERC20 tokens from your contract using…]]></summary>
         <author>
             <name>Joe</name>
         </author>
