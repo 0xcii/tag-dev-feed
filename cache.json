@@ -12,12 +12,22 @@
       "siteUrl": "https://www.cryptomaton.org/",
       "articles": [
         {
+          "id": "https://www.cryptomaton.org/?p=1581",
+          "author": "Andrei",
+          "description": "This week I had the pleasure of sitting down with Stephen, the creator of Looppress, an open-source WordPress plugin for Token Gating. We had a great conversation on my podcast Proof Of Talk, on the features of Looppress, and why Loopring is likely to become the main L3 for Ethereum. Here are some of the […]\nThe post The Cryptocurrency Podcast Ep4: Looppress, Loopring, and Token Gating appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2023/10/06/the-cryptocurrency-podcast-ep4-looppress-loopring-and-token-gating/",
+          "publishedOn": "2023-10-06T12:26:05.000Z",
+          "wordCount": 9715,
+          "title": "The Cryptocurrency Podcast Ep4: Looppress, Loopring, and Token Gating",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2023/10/looppress-loopring-cryptocurrency-podcast.jpeg"
+        },
+        {
           "id": "https://www.cryptomaton.org/?p=1576",
           "author": "Andrei",
           "description": "Live streaming while paying a visit to your ex-colleague’s house, while carrying a gun because he stole your Lambo isn’t going to win you many IQ points. In fact, you probably lost some just reading that. What it will do though is secure your position in the crypto Hall of Shame, as one of the […]\nThe post Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex Employee Of Stealing His Lambo appeared first on cryptomaton.",
           "link": "https://www.cryptomaton.org/2023/09/27/bitboy-arrested-in-unhinged-livestream-for-showing-up-and-accusing-ex-employee-of-stealing-his-lambo/",
           "publishedOn": "2023-09-27T12:48:19.000Z",
-          "wordCount": 9915,
+          "wordCount": 9922,
           "title": "Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex Employee Of Stealing His Lambo",
           "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2023/09/Bitboy-gets-arrested-unhinged-stream-lambo.png"
         }
@@ -81,22 +91,22 @@
         {
           "id": "https://medium.com/p/3d8078a6277c",
           "author": "Esther Oche",
-          "description": "",
+          "description": "What is Layer 2 solution?",
           "link": "https://coinsbench.com/layer-2-solution-in-ethereum-3d8078a6277c?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-03T10:01:52.000Z",
-          "wordCount": null,
+          "wordCount": 3552,
           "title": "Layer-2 Solution in Ethereum",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VQjHfkwVMBx0Hd_dZN_OQg.jpeg"
         },
         {
           "id": "https://medium.com/p/a1ed27148893",
           "author": "Solidity Academy",
-          "description": "",
+          "description": "Solidity Security Pitfalls & Best Practices : Developing Secure Smart Contracts",
           "link": "https://coinsbench.com/solidity-security-safeguarding-your-smart-contracts-against-common-vulnerabilities-a1ed27148893?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-01T07:47:15.000Z",
-          "wordCount": null,
+          "wordCount": 4374,
           "title": "Solidity Security: Safeguarding Your Smart Contracts Against Common Vulnerabilities",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*CyxeQnxwkXPrHA3z"
         },
         {
           "id": "https://medium.com/p/96925c0655d3",
@@ -171,7 +181,7 @@
           "description": "Hey there, reader. Today, I’m going to peel back the curtain and let you in on a little secret.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/my-5-side-hustles-bringing-me-1-5k-month-through-writing-c701baabdab0?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-06T10:08:51.000Z",
-          "wordCount": 2634,
+          "wordCount": 2633,
           "title": "My 5 Side Hustles Bringing Me ~$1.5K/Month Through Writing",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*_qzxt77_Mm8UuLnL"
         },
@@ -265,12 +275,12 @@
         {
           "id": "https://medium.com/p/93a8349055b3",
           "author": "Joshua Konyeri",
-          "description": "",
+          "description": "Re-entrancy attacks are a common security vulnerability in smart contracts, especially those written in Solidity for the Ethereum…",
           "link": "https://blog.blockmagnates.com/re-entrancy-attack-explained-93a8349055b3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:13.000Z",
-          "wordCount": null,
+          "wordCount": 3583,
           "title": "Re-Entrancy Attack Explained!",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*IksSS8Klt6wcky-ak19x1g.jpeg"
         },
         {
           "id": "https://medium.com/p/5140ca787e5f",
@@ -278,9 +288,9 @@
           "description": "Blockchain development is a rapidly growing field that offers many opportunities for innovation and creativity. Blockchain is a technology…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/demystifying-blockchain-development-building-decentralized-applications-with-solidity-5140ca787e5f?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:10.000Z",
-          "wordCount": null,
+          "wordCount": 2082,
           "title": "Demystifying Blockchain Development: Building Decentralized Applications with Solidity",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/0*QZnz4uFBqwIY1f4c"
         },
         {
           "id": "https://medium.com/p/2ffbc6009fb2",
@@ -288,39 +298,39 @@
           "description": "The Solidity programming language for Ethereum smart contracts, offers a robust feature known as structs that is indispensable in…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/structs-in-solidity-mastering-data-organization-in-ethereum-smart-contracts-2ffbc6009fb2?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:03.000Z",
-          "wordCount": null,
+          "wordCount": 2225,
           "title": "Structs in Solidity: Mastering Data Organization in Ethereum Smart Contracts",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*C1KPpJ8uptD-X9xW"
         },
         {
           "id": "https://medium.com/p/6cfe3e828de3",
           "author": "Joe",
-          "description": "",
+          "description": "Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…",
           "link": "https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-20T17:51:59.000Z",
-          "wordCount": null,
+          "wordCount": 3720,
           "title": "Multi-Signature Wallet (Solidity)",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:704/1*vhlZsOOvW2QhCzxscQjOpg.png"
         },
         {
           "id": "https://medium.com/p/e27ceea7a055",
           "author": "Sunday Olubode",
-          "description": "",
+          "description": "Introduction",
           "link": "https://blog.blockmagnates.com/building-and-deploying-a-dynamic-multisig-wallet-with-buildbear-testnet-e27ceea7a055?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-15T14:58:02.000Z",
-          "wordCount": null,
+          "wordCount": 2750,
           "title": "Building and Deploying a Dynamic MultiSig Wallet With BuildBear Testnet.",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:828/1*plY9AJkD-da0FZAgqSvdqg.jpeg"
         },
         {
           "id": "https://medium.com/p/d64c4723f435",
           "author": "Joe",
-          "description": "",
+          "description": "In this article I will be showing you how to create a contract that allows different people purchase ERC20 tokens from your contract using…",
           "link": "https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-12T13:25:31.000Z",
-          "wordCount": null,
+          "wordCount": 2917,
           "title": "ERC20 Tokens Selling Contract",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*xQ6ogVQOh0FIkKJU6M7RuQ.jpeg"
         }
       ]
     },
