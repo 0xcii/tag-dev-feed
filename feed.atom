@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-10T17:10:01.086Z</id>
+    <id>urn:2023-10-10T18:15:39.113Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-10T17:10:01.086Z</updated>
+    <updated>2023-10-10T18:15:39.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Smart Contract Vulnerabilities: A Case Study on the Euler Finance Hack]]></title>
+        <id>https://medium.com/p/f39ac43e50d8</id>
+        <link href="https://medium.com/coinmonks/understanding-smart-contract-vulnerabilities-a-case-study-on-the-euler-finance-hack-f39ac43e50d8?source=rss----721b17443fd5---4"/>
+        <updated>2023-10-10T17:32:10.000Z</updated>
+        <summary type="html"><![CDATA[This article, “Understanding Smart Contract Vulnerabilities: A Case Study on the Euler Finance Hack” was prepared as part of Ekolance’s smart contract audit training. It is intended for educational…]]></summary>
+        <author>
+            <name>Eman Herawy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contracts in the Real World: Practical Applications and Challenges]]></title>
+        <id>https://medium.com/p/a1aede5ac67f</id>
+        <link href="https://medium.com/coinmonks/smart-contracts-in-the-real-world-practical-applications-and-challenges-a1aede5ac67f?source=rss----721b17443fd5---4"/>
+        <updated>2023-10-10T17:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts represent one of blockchain’s most revolutionary capabilities — programmatic agreements executed through code rather than…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Blockchain Today</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safeth Ministries: Safeguarding Crypto Ideals with Personal Commitment]]></title>
+        <id>https://medium.com/p/efb250e0c898</id>
+        <link href="https://medium.com/coinmonks/safeth-ministries-safeguarding-crypto-ideals-with-personal-commitment-efb250e0c898?source=rss----721b17443fd5---4"/>
+        <updated>2023-10-10T17:00:04.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving landscape of cryptocurrency, Safeth Ministries stands out not just for its innovative approach but for the personal commitment of its founders, the Reverends. Going beyond the…]]></summary>
+        <author>
+            <name>Rev Cynthia Pustelak Safeth Ministries</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python for Beginners: Navigating the Landscape of Essential Libraries and Frameworks]]></title>
         <id>https://medium.com/p/b86b82ae5005</id>
@@ -78,43 +109,10 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web3 About to Open Doors for Businesses]]></title>
-        <id>https://medium.com/p/5979e6930db2</id>
-        <link href="https://medium.com/coinmonks/web3-about-to-open-doors-for-businesses-5979e6930db2?source=rss----721b17443fd5---4"/>
-        <updated>2023-10-10T15:44:32.000Z</updated>
-        <summary type="html"><![CDATA[Web3, often called the “read-write-own web,” is revolutionizing how businesses operate online. This paradigm shift empowers businesses to…]]></summary>
-        <author>
-            <name>Joe Robert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Horizons: Bitstamp Partnerships with European Banks in the Wake of Incoming Crypto Regulations]]></title>
-        <id>https://medium.com/p/ee0113fcd8ec</id>
-        <link href="https://medium.com/coinmonks/new-horizons-bitstamp-partnerships-with-european-banks-in-the-wake-of-incoming-crypto-regulations-ee0113fcd8ec?source=rss----721b17443fd5---4"/>
-        <updated>2023-10-10T15:44:23.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving landscape of cryptocurrency, strategic partnerships and regulatory compliance have become pivotal factors for success…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Crypto Currents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bitcoin White Paper: A Revolutionary Critique of Trust-Based Systems…]]></title>
-        <id>https://medium.com/p/d6b36b063bd9</id>
-        <link href="https://medium.com/coinmonks/the-bitcoin-white-paper-a-revolutionary-critique-of-trust-based-systems-d6b36b063bd9?source=rss----721b17443fd5---4"/>
-        <updated>2023-10-10T15:44:22.000Z</updated>
-        <summary type="html"><![CDATA[The existing Visa electronic payments system is inadequate, suffering from the inherent weaknesses of the trust-based model.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Michael Di Fulvio</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blockchain Symphony: Crafting the Future with Smart Contract Design Patterns]]></title>
         <id>https://medium.com/p/a2266356ab05</id>
         <link href="https://coinsbench.com/blockchain-symphony-crafting-the-future-with-smart-contract-design-patterns-a2266356ab05?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-09T11:06:01.000Z</updated>
-        <summary type="html"><![CDATA[Smart Contract Design Patterns: Build Efficient Blockchain App with Solidity]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -124,7 +122,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/21a39d449627</id>
         <link href="https://coinsbench.com/unleashing-the-power-of-triangular-arbitrage-introducing-mathxcoders-dex-javascript-bot-v5-21a39d449627?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-07T10:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Using AI to harness the power of triangular Arbitrage on decentralized exchanges]]></summary>
         <author>
             <name>Lexi The Cat Girl</name>
         </author>
@@ -134,7 +131,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/b197d5cb9570</id>
         <link href="https://coinsbench.com/25-defi-nitions-for-smart-contract-auditors-b197d5cb9570?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-07T10:01:29.000Z</updated>
-        <summary type="html"><![CDATA[If you’re just starting out as an auditor, you probably don’t know this yet. You have studied Solidity, Vyper or Rust. You are pretty good…]]></summary>
         <author>
             <name>Aitor Zaldua</name>
         </author>
@@ -144,7 +140,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/777dfc217587</id>
         <link href="https://coinsbench.com/setting-up-the-venom-smart-contract-development-environment-777dfc217587?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-07T10:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Setting up the Venom Smart Contract Development Environment involves installing necessary tools, initializing a project, configuring the…]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
@@ -154,7 +149,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/109d35794e6f</id>
         <link href="https://coinsbench.com/rareskills-solidity-interview-question-8-answered-what-is-the-difference-between-a-dutch-auction-109d35794e6f?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-07T10:01:01.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
         </author>
@@ -175,7 +169,6 @@ The post The Cryptocurrency Podcast Ep4: Looppress, Loopring, and Token Gating 
         <id>https://medium.com/p/6ee84ad19b8f</id>
         <link href="https://coinsbench.com/the-audit-chronicles-centrifuge-6ee84ad19b8f?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-05T08:19:04.000Z</updated>
-        <summary type="html"><![CDATA[Tic, tac, tic, tac,… Centrifuge is the perfect name to describe how time is slipping away from you. The clock moves forward very quickly…]]></summary>
         <author>
             <name>Aitor Zaldua</name>
         </author>
@@ -185,7 +178,6 @@ The post The Cryptocurrency Podcast Ep4: Looppress, Loopring, and Token Gating 
         <id>https://medium.com/p/544c8317bf29</id>
         <link href="https://coinsbench.com/deciphering-the-enigma-solidity-storage-layout-unveiled-544c8317bf29?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-05T08:18:58.000Z</updated>
-        <summary type="html"><![CDATA[Solidity, known as the industry standard for blockchain development, plays a pivotal role in crafting smart contracts that power the…]]></summary>
         <author>
             <name>Ahmed Jabnati</name>
         </author>
@@ -195,7 +187,6 @@ The post The Cryptocurrency Podcast Ep4: Looppress, Loopring, and Token Gating 
         <id>https://medium.com/p/be402825c722</id>
         <link href="https://coinsbench.com/rareskills-solidity-interview-question-7-answered-what-are-the-challenges-of-creating-a-random-be402825c722?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-05T08:18:55.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
         </author>
@@ -205,7 +196,6 @@ The post The Cryptocurrency Podcast Ep4: Looppress, Loopring, and Token Gating 
         <id>https://medium.com/p/7124b7889d3b</id>
         <link href="https://coinsbench.com/what-is-a-utility-token-7124b7889d3b?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-03T10:02:32.000Z</updated>
-        <summary type="html"><![CDATA[To better understand what a token is, we define it as a digital entity that is linked to an existing cryptocurrency, such as ETH (ERC20)…]]></summary>
         <author>
             <name>Ushangi Matiashvili GCWine</name>
         </author>
@@ -215,7 +205,6 @@ The post The Cryptocurrency Podcast Ep4: Looppress, Loopring, and Token Gating 
         <id>https://medium.com/p/2e70a5d56225</id>
         <link href="https://coinsbench.com/understanding-ethereums-create2-opcode-predictable-contract-deployment-2e70a5d56225?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-03T10:01:55.000Z</updated>
-        <summary type="html"><![CDATA[Create2 is an opcode that allows you to predict the address where a smart contract will be deployed ahead of time. This can be useful for…]]></summary>
         <author>
             <name>Oluwadunnie Rachael</name>
         </author>
@@ -247,7 +236,6 @@ To deploy smart contracts, you must have a key pair with the funds for all the c
         <id>https://medium.com/p/895032251de1</id>
         <link href="https://blog.blockmagnates.com/unlocking-yuls-power-a-journey-through-efficient-for-loops-and-gas-optimization-895032251de1?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-27T12:48:35.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I’ll guide you through a straightforward Yul for loop, providing insights into the code and gas optimization techniques…]]></summary>
         <author>
             <name>UP</name>
         </author>
@@ -268,7 +256,6 @@ The post Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex 
         <id>https://medium.com/p/ff994a66ec8</id>
         <link href="https://blog.blockmagnates.com/cross-chain-token-to-token-last-part-ff994a66ec8?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-27T12:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>arian salmanzadeh</name>
         </author>
@@ -278,7 +265,6 @@ The post Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex 
         <id>https://medium.com/p/93a8349055b3</id>
         <link href="https://blog.blockmagnates.com/re-entrancy-attack-explained-93a8349055b3?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-27T12:48:13.000Z</updated>
-        <summary type="html"><![CDATA[Re-entrancy attacks are a common security vulnerability in smart contracts, especially those written in Solidity for the Ethereum…]]></summary>
         <author>
             <name>Joshua Konyeri</name>
         </author>
@@ -324,7 +310,6 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/6cfe3e828de3</id>
         <link href="https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-20T17:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…]]></summary>
         <author>
             <name>Joe</name>
         </author>
@@ -334,7 +319,6 @@ Bundlr is a scaling solution for Arweave that makes it easier to upload data. Bu
         <id>https://medium.com/p/e27ceea7a055</id>
         <link href="https://blog.blockmagnates.com/building-and-deploying-a-dynamic-multisig-wallet-with-buildbear-testnet-e27ceea7a055?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-15T14:58:02.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Sunday Olubode</name>
         </author>
@@ -361,7 +345,6 @@ Hyperlane is a permissionless inter…]]></summary>
         <id>https://medium.com/p/d64c4723f435</id>
         <link href="https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-12T13:25:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article I will be showing you how to create a contract that allows different people purchase ERC20 tokens from your contract using…]]></summary>
         <author>
             <name>Joe</name>
         </author>
