@@ -39,6 +39,76 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/c268d3b4e9f6",
+          "author": "Lexi The Cat Girl",
+          "description": "In the world of decentralized finance (DeFi), opportunities arise at a rapid pace, and staying ahead of the curve is crucial. Triangular arbitrage, a technique that exploits price discrepancies…",
+          "link": "https://coinsbench.com/a-game-changing-triangular-arbitrage-bot-for-dexs-unleashing-the-power-of-open-source-c268d3b4e9f6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-11T11:46:27.000Z",
+          "wordCount": 2851,
+          "title": "A Game-Changing Triangular Arbitrage Bot for DEXs: Unleashing the Power of Open Source",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:750/1*Wk6W7jcUKM2lUTL32b-T6Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/ac404a5ffdfe",
+          "author": "Alexander Koval",
+          "description": "Integration test",
+          "link": "https://coinsbench.com/what-to-do-when-you-are-low-on-gas-ac404a5ffdfe?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-11T11:46:06.000Z",
+          "wordCount": 3724,
+          "title": "What to do when you are low on gas?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*qxldYLYRMKWI3mzOwctpEw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/f322c93e5354",
+          "author": "0xHermes",
+          "description": "Welcome explorers! In the second edition of Flight School, we’re set to embark on a thrilling journey through the realm of Ethereum.",
+          "link": "https://coinsbench.com/introduction-to-ethereum-eth-smart-contracts-f322c93e5354?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-11T11:45:25.000Z",
+          "wordCount": 6611,
+          "title": "Introduction to Ethereum (ETH) & Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*aOvFK_uYQGsKUWC-oqGt8A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/92d940ffd753",
+          "author": "Jamaltheatlantean",
+          "description": "BaaS",
+          "link": "https://coinsbench.com/introduction-to-blockchain-as-a-service-92d940ffd753?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-11T11:45:16.000Z",
+          "wordCount": 4254,
+          "title": "Introduction to Blockchain as a Service",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*d2xZSYqAJUDL_4p-XFqt7Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/8ca5d8f0b36f",
+          "author": "Esther Oche",
+          "description": "Why is foundry important?",
+          "link": "https://coinsbench.com/step-by-step-tutorial-on-how-to-develop-and-deploy-smart-contracts-with-foundry-8ca5d8f0b36f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-11T11:45:14.000Z",
+          "wordCount": 3908,
+          "title": "Step-by step tutorial on how to develop and deploy smart contracts with Foundry",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9taR-cM7DKXi3Q7MHsq0Pg.png"
+        },
+        {
+          "id": "https://medium.com/p/4183f0001af7",
+          "author": "Jeffery Oke-Samuel",
+          "description": "Blockchain technology has revolutionized various industries, offering decentralized, trustless, and transparent solutions. However, as…",
+          "link": "https://coinsbench.com/layer-2-l2-blockchains-off-chain-scaling-4183f0001af7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-11T11:45:12.000Z",
+          "wordCount": 3250,
+          "title": "Layer 2 (L2) Blockchains: Off-Chain Scaling",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*5yLXynkkgbzL1CZ9RjlO5w.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/11ac8eb39e68",
+          "author": "Lazard",
+          "description": "There are no upgrades Openzeppelin since 2021, this is major news in ecosystem of solidity. In this article, I will try to explain, which…",
+          "link": "https://coinsbench.com/openzeppelin-v5-a-summarised-look-at-the-latest-upgrades-by-0xlazard-11ac8eb39e68?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-11T11:45:03.000Z",
+          "wordCount": 2465,
+          "title": "OpenZeppelin V5: A Summarised Look at the Latest Upgrades by 0xLazard",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*COQMNc9nWt8dedsp97fnlg.png"
+        },
+        {
           "id": "https://medium.com/p/a2266356ab05",
           "author": "Solidity Academy",
           "description": "Smart Contract Design Patterns: Build Efficient Blockchain App with Solidity",
@@ -67,76 +137,6 @@
           "wordCount": 3977,
           "title": "25 DeFi-nitions for Smart Contract Auditors",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8QkGEMFsATqcJxDoOUoAhQ.png"
-        },
-        {
-          "id": "https://medium.com/p/777dfc217587",
-          "author": "Esther Oche",
-          "description": "Setting up the Venom Smart Contract Development Environment involves installing necessary tools, initializing a project, configuring the…",
-          "link": "https://coinsbench.com/setting-up-the-venom-smart-contract-development-environment-777dfc217587?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-07T10:01:23.000Z",
-          "wordCount": 2133,
-          "title": "Setting Up The Venom Smart Contract Development Environment",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1148/1*-2KBwlk-n3dCx0IJmnUpGw.png"
-        },
-        {
-          "id": "https://medium.com/p/109d35794e6f",
-          "author": "Faybian Byrd",
-          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
-          "link": "https://coinsbench.com/rareskills-solidity-interview-question-8-answered-what-is-the-difference-between-a-dutch-auction-109d35794e6f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-07T10:01:01.000Z",
-          "wordCount": 3066,
-          "title": "RareSkills Solidity Interview Question #8 Answered: What is the difference between a Dutch Auction…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*4lNe30NsBcFBHsZBFTMRTA.png"
-        },
-        {
-          "id": "https://medium.com/p/6ee84ad19b8f",
-          "author": "Aitor Zaldua",
-          "description": "Tic, tac, tic, tac,… Centrifuge is the perfect name to describe how time is slipping away from you. The clock moves forward very quickly…",
-          "link": "https://coinsbench.com/the-audit-chronicles-centrifuge-6ee84ad19b8f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-05T08:19:04.000Z",
-          "wordCount": 3575,
-          "title": "The Audit Chronicles: Centrifuge",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KzjA7gnTP_hsHVQTZMO_7g.png"
-        },
-        {
-          "id": "https://medium.com/p/544c8317bf29",
-          "author": "Ahmed Jabnati",
-          "description": "Solidity, known as the industry standard for blockchain development, plays a pivotal role in crafting smart contracts that power the…",
-          "link": "https://coinsbench.com/deciphering-the-enigma-solidity-storage-layout-unveiled-544c8317bf29?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-05T08:18:58.000Z",
-          "wordCount": 3306,
-          "title": "Deciphering the Enigma: Solidity Storage Layout Unveiled",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zT294qUuZOcJtyRO-vklsQ.png"
-        },
-        {
-          "id": "https://medium.com/p/be402825c722",
-          "author": "Faybian Byrd",
-          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
-          "link": "https://coinsbench.com/rareskills-solidity-interview-question-7-answered-what-are-the-challenges-of-creating-a-random-be402825c722?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-05T08:18:55.000Z",
-          "wordCount": 2465,
-          "title": "RareSkills Solidity Interview Question #7 Answered: What are the challenges of creating a random…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ertRGaKc41edwzqEmCe52Q.png"
-        },
-        {
-          "id": "https://medium.com/p/7124b7889d3b",
-          "author": "Ushangi Matiashvili GCWine",
-          "description": "To better understand what a token is, we define it as a digital entity that is linked to an existing cryptocurrency, such as ETH (ERC20)…",
-          "link": "https://coinsbench.com/what-is-a-utility-token-7124b7889d3b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-03T10:02:32.000Z",
-          "wordCount": 2164,
-          "title": "What is a Utility Token?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:850/1*9f105PGSm8RJOJLgHBPK6g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/2e70a5d56225",
-          "author": "Oluwadunnie Rachael",
-          "description": "Create2 is an opcode that allows you to predict the address where a smart contract will be deployed ahead of time. This can be useful for…",
-          "link": "https://coinsbench.com/understanding-ethereums-create2-opcode-predictable-contract-deployment-2e70a5d56225?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-03T10:01:55.000Z",
-          "wordCount": 3125,
-          "title": "Understanding Ethereum’s Create2 Opcode: Predictable Contract Deployment.",
-          "imageUrl": null
         }
       ]
     },
@@ -145,6 +145,26 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/4e82b2613b71",
+          "author": "Marco Santos e Silva",
+          "description": "I. Introduction",
+          "link": "https://medium.com/coinmonks/the-great-crypto-crash-a-post-mortem-analysis-4e82b2613b71?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-10-11T11:54:41.000Z",
+          "wordCount": 5776,
+          "title": "The Great Crypto Crash: A Post-Mortem Analysis",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*_qUiBcW_bKieEpsfFMbEpA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/4790fc857ec3",
+          "author": "Enes Tueredi",
+          "description": "What if the deed to your dream home, the ticket to a life-changing music festival, or even your university diploma existed not as a paper…",
+          "link": "https://medium.com/coinmonks/unlocking-the-nft-revolution-its-bigger-than-you-think-4790fc857ec3?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-10-11T11:54:39.000Z",
+          "wordCount": 4463,
+          "title": "Unlocking the NFT Revolution: It’s Bigger Than You Think!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jiHYipKr4RApqd49EncAUA.jpeg"
+        },
         {
           "id": "https://medium.com/p/080ad1758d3f",
           "author": "Mark Timmis",
@@ -161,7 +181,7 @@
           "description": "In a world dominated by digital connectivity, video conferencing has become an integral part of our daily lives. Whether you’re connecting…",
           "link": "https://medium.com/coinmonks/building-a-decentralized-video-conference-app-with-solidity-on-the-blockchain-61bf4486320b?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-11T10:58:02.000Z",
-          "wordCount": 5382,
+          "wordCount": 5378,
           "title": "Building a Decentralized Video Conference App with Solidity on the Blockchain",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*g70tjrQoplG8BjtU"
         },
@@ -171,7 +191,7 @@
           "description": "As we voyage through the intricacies of the human body, we encounter a fascinating parallel universe in the form of blockchain technology…",
           "link": "https://medium.com/coinmonks/exploring-the-connection-between-the-human-body-and-blockchain-technology-a-vision-for-health-and-36bf189eba5b?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-11T10:57:59.000Z",
-          "wordCount": 3199,
+          "wordCount": 3204,
           "title": "Exploring the Connection Between the Human Body and Blockchain Technology: A Vision for Health and…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Ee9Oh1LEtac5WYH_"
         },
@@ -181,7 +201,7 @@
           "description": "Unlock the full potential of blockchain technology with our ICO Software Development services.",
           "link": "https://medium.com/coinmonks/ico-software-development-0cfd43891e96?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-11T10:57:55.000Z",
-          "wordCount": 4120,
+          "wordCount": 4121,
           "title": "ICO Software Development: Harnessing the Power of Blockchain",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*hhWKDli2-D_TFiu3YSx6IA.png"
         },
@@ -211,7 +231,7 @@
           "description": "In today’s digital age, the Metaverse has emerged as a thriving ecosystem where virtual reality, gaming, and earning opportunities collide…",
           "link": "https://medium.com/coinmonks/how-to-make-money-in-the-metaverse-game-a-guide-to-success-abdba1e31cfc?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-11T08:23:48.000Z",
-          "wordCount": 3410,
+          "wordCount": 3419,
           "title": "How to Make Money in the Metaverse Game: A Guide to Success",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*F41HdSfpkUy6i2Z4SHznKg.jpeg"
         },
@@ -224,26 +244,6 @@
           "wordCount": 2977,
           "title": "Ethereum’s Value at Risk: What the Expert Analysts Are Whispering About!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:900/1*0F9Ds7PAiJ3ckOz6r86GWQ.png"
-        },
-        {
-          "id": "https://medium.com/p/e2e445db70f2",
-          "author": "PVMihalache",
-          "description": "The classic weekly battle challenge retired to make way for the Battle Mage Secrets series, making it more entertaining. This new set-up…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/theres-no-equal-opportunities-for-the-splinterlands-battle-mage-secrets-e2e445db70f2?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-10-11T07:58:46.000Z",
-          "wordCount": 2543,
-          "title": "There’s No Equal Opportunities For The Splinterlands Battle Mage Secrets",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/0*3CbiZNqa25eSbHTM.png"
-        },
-        {
-          "id": "https://medium.com/p/ce54bd19df62",
-          "author": "Gabe Araujo, M.Sc.",
-          "description": "As a passionate Python enthusiast, I’ve ventured into the intricate realms of this versatile programming language. Python, with its simple…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/unraveling-the-10-most-perplexing-python-concepts-ce54bd19df62?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-10-11T07:58:00.000Z",
-          "wordCount": 2454,
-          "title": "Unraveling the 10 Most Perplexing Python Concepts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*eWisW8Z4d5IYwHjQ"
         }
       ]
     },
@@ -258,7 +258,7 @@
           "description": "In this article, I’ll guide you through a straightforward Yul for loop, providing insights into the code and gas optimization techniques…",
           "link": "https://blog.blockmagnates.com/unlocking-yuls-power-a-journey-through-efficient-for-loops-and-gas-optimization-895032251de1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:35.000Z",
-          "wordCount": 3324,
+          "wordCount": 3332,
           "title": "Unlocking Yul’s Power: A Journey Through Efficient ‘For’ Loops and Gas Optimization",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*I01h_lkkEAkY5bgXoHg4MQ.png"
         },
@@ -288,7 +288,7 @@
           "description": "Blockchain development is a rapidly growing field that offers many opportunities for innovation and creativity. Blockchain is a technology…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/demystifying-blockchain-development-building-decentralized-applications-with-solidity-5140ca787e5f?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:10.000Z",
-          "wordCount": 2249,
+          "wordCount": 2257,
           "title": "Demystifying Blockchain Development: Building Decentralized Applications with Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:612/0*QZnz4uFBqwIY1f4c"
         },
@@ -298,7 +298,7 @@
           "description": "The Solidity programming language for Ethereum smart contracts, offers a robust feature known as structs that is indispensable in…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/structs-in-solidity-mastering-data-organization-in-ethereum-smart-contracts-2ffbc6009fb2?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:03.000Z",
-          "wordCount": 2212,
+          "wordCount": 2220,
           "title": "Structs in Solidity: Mastering Data Organization in Ethereum Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*C1KPpJ8uptD-X9xW"
         },
@@ -318,7 +318,7 @@
           "description": "Introduction",
           "link": "https://blog.blockmagnates.com/building-and-deploying-a-dynamic-multisig-wallet-with-buildbear-testnet-e27ceea7a055?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-15T14:58:02.000Z",
-          "wordCount": 2789,
+          "wordCount": 2797,
           "title": "Building and Deploying a Dynamic MultiSig Wallet With BuildBear Testnet.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:828/1*plY9AJkD-da0FZAgqSvdqg.jpeg"
         },
