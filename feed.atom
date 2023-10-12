@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-12T00:51:29.134Z</id>
+    <id>urn:2023-10-12T01:44:23.866Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-12T00:51:29.134Z</updated>
+    <updated>2023-10-12T01:44:23.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -353,16 +353,6 @@ What is Hyperlane?
 Hyperlane is a permissionless inter…]]></summary>
         <author>
             <name>megabyte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERC20 Tokens Selling Contract]]></title>
-        <id>https://medium.com/p/d64c4723f435</id>
-        <link href="https://blog.blockmagnates.com/erc20-tokens-selling-contract-d64c4723f435?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-09-12T13:25:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article I will be showing you how to create a contract that allows different people purchase ERC20 tokens from your contract using…]]></summary>
-        <author>
-            <name>Joe</name>
         </author>
     </entry>
 </feed>
