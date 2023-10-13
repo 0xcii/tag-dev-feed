@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-13T15:12:30.042Z</id>
+    <id>urn:2023-10-13T16:14:45.226Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-13T15:12:30.043Z</updated>
+    <updated>2023-10-13T16:14:45.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Exciting World of Blockchain Development with Solidity]]></title>
+        <id>https://medium.com/p/4b7092cc7f4c</id>
+        <link href="https://blog.blockmagnates.com/the-exciting-world-of-blockchain-development-with-solidity-4b7092cc7f4c?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-10-13T16:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain is a technology that enables the creation of decentralized, distributed, and immutable databases that can store and verify…
+Continue reading on Block Magnates »]]></summary>
+        <author>
+            <name>Alexandra Grosu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to do when you are low on gas?]]></title>
+        <id>https://medium.com/p/3bbebcb983fc</id>
+        <link href="https://coinsbench.com/what-to-do-when-you-are-low-on-gas-3bbebcb983fc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-13T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Part 6- Gas station API server]]></summary>
+        <author>
+            <name>Alexander Koval</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity: Building Decentralized Applications on the Ethereum Blockchain]]></title>
+        <id>https://medium.com/p/0eea91856383</id>
+        <link href="https://coinsbench.com/solidity-building-decentralized-applications-on-the-ethereum-blockchain-0eea91856383?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-13T15:58:04.000Z</updated>
+        <summary type="html"><![CDATA[Solidity is a high-level programming language that allows developers to create and deploy smart contracts on the Ethereum blockchain.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Alexandra Grosu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Understanding the OWASP Smart Contract Top 10 — Part 1”]]></title>
+        <id>https://medium.com/p/e3372bc2dbd4</id>
+        <link href="https://coinsbench.com/understanding-the-owasp-smart-contract-top-10-part-1-e3372bc2dbd4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-13T15:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Understanding common vulnerabilities will help you identify weaknesses when you’re testing and auditing smart contracts.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>AnonX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximizing Efficiency: Optimizing Data Retrieval from Smart Contracts with Multicall]]></title>
+        <id>https://medium.com/p/dd9002e4d236</id>
+        <link href="https://coinsbench.com/maximizing-efficiency-optimizing-data-retrieval-from-smart-contracts-with-multicall-dd9002e4d236?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-13T15:57:19.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts are the backbone of decentralized applications (dApps) and blockchain ecosystems, enabling secure and transparent…]]></summary>
+        <author>
+            <name>BotFi.app</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Your First Smart Contract for a Rock-Paper-Scissors Game on Ethereum]]></title>
+        <id>https://medium.com/p/cadf8bb93b21</id>
+        <link href="https://coinsbench.com/creating-your-first-smart-contract-for-a-rock-paper-scissors-game-on-ethereum-cadf8bb93b21?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-13T15:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology has opened up a world of opportunities, including the creation of decentralized applications (dApps) and smart…]]></summary>
+        <author>
+            <name>Soukaina Alaoui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Types in Solidity: Value, Reference, and Mappings]]></title>
+        <id>https://medium.com/p/17598383a431</id>
+        <link href="https://coinsbench.com/data-types-in-solidity-value-reference-and-mappings-17598383a431?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-13T15:56:58.000Z</updated>
+        <summary type="html"><![CDATA[Solidity is a popular language used for creating Ethereum smart contracts. Understanding the different data types in Solidity is a…]]></summary>
+        <author>
+            <name>Ekin Eşkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teaching About Blockchain Tech in Person is Incredibly Fulfilling]]></title>
         <id>https://medium.com/p/273745b26102</id>
@@ -145,66 +218,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[BaaS]]></summary>
         <author>
             <name>Jamaltheatlantean</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step-by step tutorial on how to develop and deploy smart contracts with Foundry]]></title>
-        <id>https://medium.com/p/8ca5d8f0b36f</id>
-        <link href="https://coinsbench.com/step-by-step-tutorial-on-how-to-develop-and-deploy-smart-contracts-with-foundry-8ca5d8f0b36f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-11T11:45:14.000Z</updated>
-        <summary type="html"><![CDATA[Why is foundry important?]]></summary>
-        <author>
-            <name>Esther Oche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer 2 (L2) Blockchains: Off-Chain Scaling]]></title>
-        <id>https://medium.com/p/4183f0001af7</id>
-        <link href="https://coinsbench.com/layer-2-l2-blockchains-off-chain-scaling-4183f0001af7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-11T11:45:12.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology has revolutionized various industries, offering decentralized, trustless, and transparent solutions. However, as…]]></summary>
-        <author>
-            <name>Jeffery Oke-Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenZeppelin V5: A Summarised Look at the Latest Upgrades by 0xLazard]]></title>
-        <id>https://medium.com/p/11ac8eb39e68</id>
-        <link href="https://coinsbench.com/openzeppelin-v5-a-summarised-look-at-the-latest-upgrades-by-0xlazard-11ac8eb39e68?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-11T11:45:03.000Z</updated>
-        <summary type="html"><![CDATA[There are no upgrades Openzeppelin since 2021, this is major news in ecosystem of solidity. In this article, I will try to explain, which…]]></summary>
-        <author>
-            <name>Lazard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain Symphony: Crafting the Future with Smart Contract Design Patterns]]></title>
-        <id>https://medium.com/p/a2266356ab05</id>
-        <link href="https://coinsbench.com/blockchain-symphony-crafting-the-future-with-smart-contract-design-patterns-a2266356ab05?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-09T11:06:01.000Z</updated>
-        <summary type="html"><![CDATA[Smart Contract Design Patterns: Build Efficient Blockchain App with Solidity]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleashing the Power of Triangular Arbitrage: Introducing MathXCoder’s DEX JavaScript Bot v5]]></title>
-        <id>https://medium.com/p/21a39d449627</id>
-        <link href="https://coinsbench.com/unleashing-the-power-of-triangular-arbitrage-introducing-mathxcoders-dex-javascript-bot-v5-21a39d449627?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-07T10:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Using AI to harness the power of triangular Arbitrage on decentralized exchanges]]></summary>
-        <author>
-            <name>Lexi The Cat Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25 DeFi-nitions for Smart Contract Auditors]]></title>
-        <id>https://medium.com/p/b197d5cb9570</id>
-        <link href="https://coinsbench.com/25-defi-nitions-for-smart-contract-auditors-b197d5cb9570?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-07T10:01:29.000Z</updated>
-        <summary type="html"><![CDATA[If you’re just starting out as an auditor, you probably don’t know this yet. You have studied Solidity, Vyper or Rust. You are pretty good…]]></summary>
-        <author>
-            <name>Aitor Zaldua</name>
         </author>
     </entry>
     <entry>

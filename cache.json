@@ -39,6 +39,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/3bbebcb983fc",
+          "author": "Alexander Koval",
+          "description": "Part 6- Gas station API server",
+          "link": "https://coinsbench.com/what-to-do-when-you-are-low-on-gas-3bbebcb983fc?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-13T15:58:20.000Z",
+          "wordCount": 6151,
+          "title": "What to do when you are low on gas?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/1*GdmLAWzrvbYM7vzkRdym4A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/0eea91856383",
+          "author": "Alexandra Grosu",
+          "description": "Solidity is a high-level programming language that allows developers to create and deploy smart contracts on the Ethereum blockchain.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/solidity-building-decentralized-applications-on-the-ethereum-blockchain-0eea91856383?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-13T15:58:04.000Z",
+          "wordCount": 2316,
+          "title": "Solidity: Building Decentralized Applications on the Ethereum Blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/0*X7VDv4wPRS5VHs7u"
+        },
+        {
+          "id": "https://medium.com/p/e3372bc2dbd4",
+          "author": "AnonX",
+          "description": "Understanding common vulnerabilities will help you identify weaknesses when you’re testing and auditing smart contracts.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/understanding-the-owasp-smart-contract-top-10-part-1-e3372bc2dbd4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-13T15:57:54.000Z",
+          "wordCount": 2290,
+          "title": "“Understanding the OWASP Smart Contract Top 10 — Part 1”",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*gd6f9MaR6qliCBwK"
+        },
+        {
+          "id": "https://medium.com/p/dd9002e4d236",
+          "author": "BotFi.app",
+          "description": "Smart contracts are the backbone of decentralized applications (dApps) and blockchain ecosystems, enabling secure and transparent…",
+          "link": "https://coinsbench.com/maximizing-efficiency-optimizing-data-retrieval-from-smart-contracts-with-multicall-dd9002e4d236?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-13T15:57:19.000Z",
+          "wordCount": 2702,
+          "title": "Maximizing Efficiency: Optimizing Data Retrieval from Smart Contracts with Multicall",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:856/1*AbZH6FEoNyCbHHzaotoYfA.png"
+        },
+        {
+          "id": "https://medium.com/p/cadf8bb93b21",
+          "author": "Soukaina Alaoui",
+          "description": "Blockchain technology has opened up a world of opportunities, including the creation of decentralized applications (dApps) and smart…",
+          "link": "https://coinsbench.com/creating-your-first-smart-contract-for-a-rock-paper-scissors-game-on-ethereum-cadf8bb93b21?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-13T15:57:02.000Z",
+          "wordCount": 3835,
+          "title": "Creating Your First Smart Contract for a Rock-Paper-Scissors Game on Ethereum",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0u1uC_as17YiVBTvR7j8hA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/17598383a431",
+          "author": "Ekin Eşkin",
+          "description": "Solidity is a popular language used for creating Ethereum smart contracts. Understanding the different data types in Solidity is a…",
+          "link": "https://coinsbench.com/data-types-in-solidity-value-reference-and-mappings-17598383a431?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-13T15:56:58.000Z",
+          "wordCount": 2506,
+          "title": "Data Types in Solidity: Value, Reference, and Mappings",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mcwLI49wSHybKr6jfV8jlQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/c268d3b4e9f6",
           "author": "Lexi The Cat Girl",
           "description": "In the world of decentralized finance (DeFi), opportunities arise at a rapid pace, and staying ahead of the curve is crucial. Triangular arbitrage, a technique that exploits price discrepancies…",
@@ -77,66 +137,6 @@
           "wordCount": 4276,
           "title": "Introduction to Blockchain as a Service",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*d2xZSYqAJUDL_4p-XFqt7Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/8ca5d8f0b36f",
-          "author": "Esther Oche",
-          "description": "Why is foundry important?",
-          "link": "https://coinsbench.com/step-by-step-tutorial-on-how-to-develop-and-deploy-smart-contracts-with-foundry-8ca5d8f0b36f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-11T11:45:14.000Z",
-          "wordCount": 3941,
-          "title": "Step-by step tutorial on how to develop and deploy smart contracts with Foundry",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9taR-cM7DKXi3Q7MHsq0Pg.png"
-        },
-        {
-          "id": "https://medium.com/p/4183f0001af7",
-          "author": "Jeffery Oke-Samuel",
-          "description": "Blockchain technology has revolutionized various industries, offering decentralized, trustless, and transparent solutions. However, as…",
-          "link": "https://coinsbench.com/layer-2-l2-blockchains-off-chain-scaling-4183f0001af7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-11T11:45:12.000Z",
-          "wordCount": 3374,
-          "title": "Layer 2 (L2) Blockchains: Off-Chain Scaling",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*5yLXynkkgbzL1CZ9RjlO5w.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/11ac8eb39e68",
-          "author": "Lazard",
-          "description": "There are no upgrades Openzeppelin since 2021, this is major news in ecosystem of solidity. In this article, I will try to explain, which…",
-          "link": "https://coinsbench.com/openzeppelin-v5-a-summarised-look-at-the-latest-upgrades-by-0xlazard-11ac8eb39e68?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-11T11:45:03.000Z",
-          "wordCount": 2393,
-          "title": "OpenZeppelin V5: A Summarised Look at the Latest Upgrades by 0xLazard",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*COQMNc9nWt8dedsp97fnlg.png"
-        },
-        {
-          "id": "https://medium.com/p/a2266356ab05",
-          "author": "Solidity Academy",
-          "description": "Smart Contract Design Patterns: Build Efficient Blockchain App with Solidity",
-          "link": "https://coinsbench.com/blockchain-symphony-crafting-the-future-with-smart-contract-design-patterns-a2266356ab05?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-09T11:06:01.000Z",
-          "wordCount": 3623,
-          "title": "Blockchain Symphony: Crafting the Future with Smart Contract Design Patterns",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*f7T-956eD6Mj7RA-"
-        },
-        {
-          "id": "https://medium.com/p/21a39d449627",
-          "author": "Lexi The Cat Girl",
-          "description": "Using AI to harness the power of triangular Arbitrage on decentralized exchanges",
-          "link": "https://coinsbench.com/unleashing-the-power-of-triangular-arbitrage-introducing-mathxcoders-dex-javascript-bot-v5-21a39d449627?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-07T10:01:44.000Z",
-          "wordCount": 2402,
-          "title": "Unleashing the Power of Triangular Arbitrage: Introducing MathXCoder’s DEX JavaScript Bot v5",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:924/1*LCaCBWOptLTafgLIJ7EmTw.png"
-        },
-        {
-          "id": "https://medium.com/p/b197d5cb9570",
-          "author": "Aitor Zaldua",
-          "description": "If you’re just starting out as an auditor, you probably don’t know this yet. You have studied Solidity, Vyper or Rust. You are pretty good…",
-          "link": "https://coinsbench.com/25-defi-nitions-for-smart-contract-auditors-b197d5cb9570?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-07T10:01:29.000Z",
-          "wordCount": 3889,
-          "title": "25 DeFi-nitions for Smart Contract Auditors",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8QkGEMFsATqcJxDoOUoAhQ.png"
         }
       ]
     },
@@ -252,6 +252,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/4b7092cc7f4c",
+          "author": "Alexandra Grosu",
+          "description": "Blockchain is a technology that enables the creation of decentralized, distributed, and immutable databases that can store and verify…\nContinue reading on Block Magnates »",
+          "link": "https://blog.blockmagnates.com/the-exciting-world-of-blockchain-development-with-solidity-4b7092cc7f4c?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-10-13T16:09:09.000Z",
+          "wordCount": 2202,
+          "title": "The Exciting World of Blockchain Development with Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/0*T5k8-0XyfgzK5N_R"
+        },
         {
           "id": "https://medium.com/p/895032251de1",
           "author": "UP",
