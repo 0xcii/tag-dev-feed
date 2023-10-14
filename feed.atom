@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-14T16:13:25.565Z</id>
+    <id>urn:2023-10-14T17:09:24.076Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-14T16:13:25.565Z</updated>
+    <updated>2023-10-14T17:09:24.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to deploy Starknet contracts locally using Katana and Starkli]]></title>
+        <id>https://medium.com/p/02eb8255b239</id>
+        <link href="https://coinsbench.com/how-to-deploy-starknet-contracts-locally-using-katana-and-starkli-02eb8255b239?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-14T16:30:33.000Z</updated>
+        <summary type="html"><![CDATA[The Starknet ecosystem has been very vibrant and continuously expanding thanks to their amazing developer community. Starknet is a layer2…]]></summary>
+        <author>
+            <name>Okoli Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Indexed Strings in Solidity Events]]></title>
+        <id>https://medium.com/p/19ba75986de6</id>
+        <link href="https://coinsbench.com/understanding-indexed-strings-in-solidity-events-19ba75986de6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-14T16:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, the dominant programming language for Ethereum smart contracts, offers developers a myriad of features to build decentralized…]]></summary>
+        <author>
+            <name>Shamshod Rozikov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Closer Look at Popular ERC-20 Tokens in the Ethereum Ecosystem]]></title>
+        <id>https://medium.com/p/703a2c288502</id>
+        <link href="https://coinsbench.com/a-closer-look-at-popular-erc-20-tokens-in-the-ethereum-ecosystem-703a2c288502?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-14T16:30:28.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-evolving realm of blockchain technology, Ethereum has stood out as a pioneer, fostering a multitude of decentralized…]]></summary>
+        <author>
+            <name>Rosario Borgesi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 3 Stocks that are still good opportunity in October 2023]]></title>
         <id>https://medium.com/p/c2212d684711</id>
@@ -192,36 +222,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What to do when you are low on gas?]]></title>
-        <id>https://medium.com/p/ac404a5ffdfe</id>
-        <link href="https://coinsbench.com/what-to-do-when-you-are-low-on-gas-ac404a5ffdfe?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-11T11:46:06.000Z</updated>
-        <summary type="html"><![CDATA[Integration test]]></summary>
-        <author>
-            <name>Alexander Koval</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Ethereum (ETH) & Smart Contracts]]></title>
-        <id>https://medium.com/p/f322c93e5354</id>
-        <link href="https://coinsbench.com/introduction-to-ethereum-eth-smart-contracts-f322c93e5354?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-11T11:45:25.000Z</updated>
-        <summary type="html"><![CDATA[Welcome explorers! In the second edition of Flight School, we’re set to embark on a thrilling journey through the realm of Ethereum.]]></summary>
-        <author>
-            <name>0xHermes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Blockchain as a Service]]></title>
-        <id>https://medium.com/p/92d940ffd753</id>
-        <link href="https://coinsbench.com/introduction-to-blockchain-as-a-service-92d940ffd753?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-11T11:45:16.000Z</updated>
-        <summary type="html"><![CDATA[BaaS]]></summary>
-        <author>
-            <name>Jamaltheatlantean</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Cryptocurrency Podcast Ep4: Looppress, Loopring, and Token Gating]]></title>
         <id>https://www.cryptomaton.org/?p=1581</id>
         <link href="https://www.cryptomaton.org/2023/10/06/the-cryptocurrency-podcast-ep4-looppress-loopring-and-token-gating/"/>
@@ -336,6 +336,7 @@ Irys, formerly known as Bundlr, is a provenance layer on Arweave. It scales uplo
         <id>https://medium.com/p/6cfe3e828de3</id>
         <link href="https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-20T17:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…]]></summary>
         <author>
             <name>Joe</name>
         </author>

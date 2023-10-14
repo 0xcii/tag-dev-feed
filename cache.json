@@ -39,6 +39,36 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/02eb8255b239",
+          "author": "Okoli Evans",
+          "description": "The Starknet ecosystem has been very vibrant and continuously expanding thanks to their amazing developer community. Starknet is a layer2…",
+          "link": "https://coinsbench.com/how-to-deploy-starknet-contracts-locally-using-katana-and-starkli-02eb8255b239?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-14T16:30:33.000Z",
+          "wordCount": 3521,
+          "title": "How to deploy Starknet contracts locally using Katana and Starkli",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*hehHMe6QZZTuDQoBnIlkxw.png"
+        },
+        {
+          "id": "https://medium.com/p/19ba75986de6",
+          "author": "Shamshod Rozikov",
+          "description": "Solidity, the dominant programming language for Ethereum smart contracts, offers developers a myriad of features to build decentralized…",
+          "link": "https://coinsbench.com/understanding-indexed-strings-in-solidity-events-19ba75986de6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-14T16:30:29.000Z",
+          "wordCount": 2870,
+          "title": "Understanding Indexed Strings in Solidity Events",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*paArOMHGf_yB7UJ6rYrPKQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/703a2c288502",
+          "author": "Rosario Borgesi",
+          "description": "In the fast-evolving realm of blockchain technology, Ethereum has stood out as a pioneer, fostering a multitude of decentralized…",
+          "link": "https://coinsbench.com/a-closer-look-at-popular-erc-20-tokens-in-the-ethereum-ecosystem-703a2c288502?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-14T16:30:28.000Z",
+          "wordCount": 5783,
+          "title": "A Closer Look at Popular ERC-20 Tokens in the Ethereum Ecosystem",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:720/1*yW2AXIv9vW6pL-XTJt4tCQ.png"
+        },
+        {
           "id": "https://medium.com/p/3bbebcb983fc",
           "author": "Alexander Koval",
           "description": "Part 6- Gas station API server",
@@ -107,36 +137,6 @@
           "wordCount": 2882,
           "title": "A Game-Changing Triangular Arbitrage Bot for DEXs: Unleashing the Power of Open Source",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:750/1*Wk6W7jcUKM2lUTL32b-T6Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ac404a5ffdfe",
-          "author": "Alexander Koval",
-          "description": "Integration test",
-          "link": "https://coinsbench.com/what-to-do-when-you-are-low-on-gas-ac404a5ffdfe?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-11T11:46:06.000Z",
-          "wordCount": 3678,
-          "title": "What to do when you are low on gas?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*qxldYLYRMKWI3mzOwctpEw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f322c93e5354",
-          "author": "0xHermes",
-          "description": "Welcome explorers! In the second edition of Flight School, we’re set to embark on a thrilling journey through the realm of Ethereum.",
-          "link": "https://coinsbench.com/introduction-to-ethereum-eth-smart-contracts-f322c93e5354?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-11T11:45:25.000Z",
-          "wordCount": 6744,
-          "title": "Introduction to Ethereum (ETH) & Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*aOvFK_uYQGsKUWC-oqGt8A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/92d940ffd753",
-          "author": "Jamaltheatlantean",
-          "description": "BaaS",
-          "link": "https://coinsbench.com/introduction-to-blockchain-as-a-service-92d940ffd753?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-11T11:45:16.000Z",
-          "wordCount": 4179,
-          "title": "Introduction to Blockchain as a Service",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*d2xZSYqAJUDL_4p-XFqt7Q.jpeg"
         }
       ]
     },
@@ -151,7 +151,7 @@
           "description": "Amazon (AMZN)\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/top-3-stocks-that-are-still-good-opportunity-in-october-2023-c2212d684711?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-13T16:45:23.000Z",
-          "wordCount": 2437,
+          "wordCount": 2575,
           "title": "Top 3 Stocks that are still good opportunity in October 2023",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:594/1*PcrMkxAWeVMiSOFg0MzNfA.png"
         },
@@ -181,7 +181,7 @@
           "description": "In the dynamic realm of cryptocurrency, the regulatory landscape often poses a significant challenge. As discussions around crypto regulations continue, there's a prevailing expectation that the U.S…",
           "link": "https://medium.com/coinmonks/navigating-regulatory-waters-cryptos-path-to-conformity-19167f6b75ad?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-13T16:45:15.000Z",
-          "wordCount": 2805,
+          "wordCount": 2594,
           "title": "Navigating Regulatory Waters: Crypto’s Path to Conformity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*WiaJSPix4yCTXJwc_aYhGA.jpeg"
         },
@@ -315,12 +315,12 @@
         {
           "id": "https://medium.com/p/6cfe3e828de3",
           "author": "Joe",
-          "description": "",
+          "description": "Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…",
           "link": "https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-20T17:51:59.000Z",
-          "wordCount": null,
+          "wordCount": 3828,
           "title": "Multi-Signature Wallet (Solidity)",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:704/1*vhlZsOOvW2QhCzxscQjOpg.png"
         },
         {
           "id": "https://medium.com/p/e27ceea7a055",
