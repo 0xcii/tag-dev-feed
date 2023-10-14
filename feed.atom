@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-14T22:09:57.869Z</id>
+    <id>urn:2023-10-14T23:10:40.328Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-14T22:09:57.869Z</updated>
+    <updated>2023-10-14T23:10:40.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -349,23 +349,6 @@ Irys, formerly known as Bundlr, is a provenance layer on Arweave. It scales uplo
         <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Sunday Olubode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperlane from A to Z]]></title>
-        <id>https://blog.developerdao.com/hyperlane-from-a-to-z</id>
-        <link href="https://blog.developerdao.com/hyperlane-from-a-to-z"/>
-        <updated>2023-09-15T10:58:18.000Z</updated>
-        <summary type="html"><![CDATA[gm gm gm!!!
-Even in a vast blockchain network with countless nodes and layers, users need help utilizing the decentralized network's complete potential because DApps use different chains. Some use Ethereum, some Polygon, some Gnosis, and so on!
-In this environment, developers should build chain-agnostic applicationsno dependency on one chain and no restriction for any user.
-Now, solving this interoperability issue between different chains requires devs to build robust and, more importantly, secure designs, which is a highly technical and resourceful process, and to save devs from going through such pain Hyperlane comes into the picture.
-This article will explain almost all about Hyperlane and how it works, so grab a coffee  and LFG 🚀
-
-What is Hyperlane?
-Hyperlane is a permissionless inter…]]></summary>
-        <author>
-            <name>megabyte</name>
         </author>
     </entry>
 </feed>
