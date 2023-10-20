@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-20T05:11:08.741Z</id>
+    <id>urn:2023-10-20T06:15:52.335Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-20T05:11:08.741Z</updated>
+    <updated>2023-10-20T06:15:52.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -349,16 +349,6 @@ What is Irys?
 Irys, formerly known as Bundlr, is a provenance layer on Arweave. It scales uploads to Arweave via bundling, lets you pay with different tokens than AR, and gives you strong…]]></summary>
         <author>
             <name>Osikhena Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Signature Wallet (Solidity)]]></title>
-        <id>https://medium.com/p/6cfe3e828de3</id>
-        <link href="https://blog.blockmagnates.com/multi-signature-wallet-solidity-6cfe3e828de3?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-09-20T17:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a organization reaches out to you as a smart contract developer, they want a contract where ethers (payment) can be received based…]]></summary>
-        <author>
-            <name>Joe</name>
         </author>
     </entry>
 </feed>
