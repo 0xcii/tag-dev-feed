@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-21T17:09:38.030Z</id>
+    <id>urn:2023-10-21T18:13:31.898Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-21T17:09:38.030Z</updated>
+    <updated>2023-10-21T18:13:31.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,7 @@ The post The Death of Reddit’s Community Points — One For The History Books 
         <id>https://medium.com/p/936331156b57</id>
         <link href="https://coinsbench.com/optimizing-smart-contract-interactions-a-guide-to-multi-call-integration-in-web3-front-end-dapp-936331156b57?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-19T14:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Each transaction incurs a gas fee. Executing calls individually is costly. Multi Call reduces expenses, offering an efficient solution.]]></summary>
         <author>
             <name>Leonardo Simone Digiorgio</name>
         </author>
@@ -80,6 +81,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/af1f696baf50</id>
         <link href="https://medium.com/coinmonks/countdown-to-the-bitcoin-etf-launch-af1f696baf50?source=rss----721b17443fd5---4"/>
         <updated>2023-10-18T08:23:24.000Z</updated>
+        <summary type="html"><![CDATA[important developments and the upcoming possibility of a Bitcoin Exchange-Traded Fund (ETF).]]></summary>
         <author>
             <name>Winnie Jun Colangoy</name>
         </author>
@@ -170,6 +172,7 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/ffc6582b34fe</id>
         <link href="https://coinsbench.com/delegate-call-in-solidity-ffc6582b34fe?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-17T15:46:03.000Z</updated>
+        <summary type="html"><![CDATA[In the context of smart contracts on blockchain platforms like Ethereum, a “delegate call” refers to a mechanism that allows one smart…]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
