@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -74,7 +68,7 @@
           "description": "Each transaction incurs a gas fee. Executing calls individually is costly. Multi Call reduces expenses, offering an efficient solution.",
           "link": "https://coinsbench.com/optimizing-smart-contract-interactions-a-guide-to-multi-call-integration-in-web3-front-end-dapp-936331156b57?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-19T14:12:52.000Z",
-          "wordCount": 2843,
+          "wordCount": 3338,
           "title": "Optimizing Smart Contract Interactions: A Guide to Multi Call integration in Web3 Front-End DApp",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xWMB_zABt7EAAPTQUhdx3A.png"
         },
@@ -94,7 +88,7 @@
           "description": "Introduction\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/the-untapped-potential-of-defi-leverage-flash-loan-arbitrage-for-skyrocketing-profits-across-dexs-38c0e3acfade?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-19T14:08:36.000Z",
-          "wordCount": 1660,
+          "wordCount": 2099,
           "title": "The Untapped Potential of DeFi: Leverage Flash Loan Arbitrage for Skyrocketing Profits Across DEXs!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*gwbjEVVZUVGV6zEBdNL4Sg.jpeg"
         },
@@ -114,7 +108,7 @@
           "description": "Integer Overflow is a phenomenon that occurs when the integer data type cannot hold the actual value of a variable. Integer Overflow and…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/exploring-owasp-smart-contract-top-10-part-2-arithmetic-over-underflows-vulnerabilities-361f47b2226f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-17T15:46:05.000Z",
-          "wordCount": 1839,
+          "wordCount": 2250,
           "title": "“Exploring OWASP Smart Contract Top 10: Part 2 — Arithmetic Over/Underflows Vulnerabilities”",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*Cwnj1KAO89L2bQqg"
         },
@@ -231,7 +225,7 @@
           "description": "Natalie Bailey\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/the-power-of-self-confidence-a-conversation-with-natalie-bailey-1fb1ed0abb64?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-23T14:03:41.000Z",
-          "wordCount": 2448,
+          "wordCount": 2456,
           "title": "The Power of Self-Confidence: A Conversation with Natalie Bailey",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*mTsCEba_lVepgarfrexcNQ.jpeg"
         },
@@ -271,7 +265,7 @@
           "description": "If enough people believe something, does that make it real? Nope.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/bitcoin-crypto-the-hype-train-7b69abda78f3?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-23T14:03:32.000Z",
-          "wordCount": 2515,
+          "wordCount": 2481,
           "title": "Bitcoin, Crypto & The Hype-Train",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*cT1O6TIV-Mu0bfjM1exQNQ.png"
         }
@@ -328,7 +322,7 @@
           "description": "Blockchain development is a rapidly growing field that offers many opportunities for innovation and creativity. Blockchain is a technology…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/demystifying-blockchain-development-building-decentralized-applications-with-solidity-5140ca787e5f?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:10.000Z",
-          "wordCount": 1811,
+          "wordCount": 2304,
           "title": "Demystifying Blockchain Development: Building Decentralized Applications with Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:612/0*QZnz4uFBqwIY1f4c"
         },
