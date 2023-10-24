@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-24T22:10:47.554Z</id>
+    <id>urn:2023-10-24T23:11:24.408Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-24T22:10:47.554Z</updated>
+    <updated>2023-10-24T23:11:24.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -352,20 +352,6 @@ Continue reading on Block Magnates »]]></summary>
 Continue reading on Block Magnates »]]></summary>
         <author>
             <name>Kristaps Grinbergs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uploading Files to Arweave with Irys]]></title>
-        <id>https://blog.developerdao.com/uploading-files-to-arweave-with-irys</id>
-        <link href="https://blog.developerdao.com/uploading-files-to-arweave-with-irys"/>
-        <updated>2023-09-25T11:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Arweave allows for decentralized data storage. Users pay a one-time fee to upload their data and are guaranteed permanent storage. Miners ensure data permanence by storing and replicating data in exchange for Arweave's native AR token. You can think of Arweave as a global hard disk or a decentralized Amazon S3.
-This article explains how to upload files to Arweave using IRYS. You will learn what Irys is and how it makes data upload to Arweave seamless. You will create a simple NextJS application to upload and view the images uploaded to Arweave, so sit back, relax, and let's get this adventure started. 🚀
-
-What is Irys?
-Irys, formerly known as Bundlr, is a provenance layer on Arweave. It scales uploads to Arweave via bundling, lets you pay with different tokens than AR, and gives you strong…]]></summary>
-        <author>
-            <name>Osikhena Oshomah</name>
         </author>
     </entry>
 </feed>
