@@ -71,22 +71,22 @@
         {
           "id": "https://medium.com/p/936331156b57",
           "author": "Leonardo Simone Digiorgio",
-          "description": "Each transaction incurs a gas fee. Executing calls individually is costly. Multi Call reduces expenses, offering an efficient solution.",
+          "description": "",
           "link": "https://coinsbench.com/optimizing-smart-contract-interactions-a-guide-to-multi-call-integration-in-web3-front-end-dapp-936331156b57?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-19T14:12:52.000Z",
-          "wordCount": 3252,
+          "wordCount": null,
           "title": "Optimizing Smart Contract Interactions: A Guide to Multi Call integration in Web3 Front-End DApp",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xWMB_zABt7EAAPTQUhdx3A.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/89cd4f172dfd",
           "author": "Dian Ivanov",
-          "description": "Cryptographic signatures play a pivotal role in blockchain technology, ensuring that transactions are secure, authentic, and tamper-proof…",
+          "description": "",
           "link": "https://coinsbench.com/how-to-sign-a-message-with-ethers-js-v6-and-then-validate-it-in-solidity-89cd4f172dfd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-19T14:09:26.000Z",
-          "wordCount": 2460,
+          "wordCount": null,
           "title": "How to sign a message with ethers.js v6 and then validate it in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*EWC_DbygeqR2i6XNtqLYaA.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/38c0e3acfade",
@@ -94,19 +94,19 @@
           "description": "Introduction\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/the-untapped-potential-of-defi-leverage-flash-loan-arbitrage-for-skyrocketing-profits-across-dexs-38c0e3acfade?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-19T14:08:36.000Z",
-          "wordCount": 2091,
+          "wordCount": null,
           "title": "The Untapped Potential of DeFi: Leverage Flash Loan Arbitrage for Skyrocketing Profits Across DEXs!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*gwbjEVVZUVGV6zEBdNL4Sg.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/97df1e10d2ef",
           "author": "Aryabarzan",
-          "description": "Are private variables really private in the smart contracts? The response is, not. The private values of smart contracts can be read from…",
+          "description": "",
           "link": "https://coinsbench.com/reading-private-variables-of-a-smart-contract-from-outside-97df1e10d2ef?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-19T14:08:31.000Z",
-          "wordCount": 2843,
+          "wordCount": null,
           "title": "Reading private variables of a smart contract from outside",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:486/1*WDivbLfYu-Rk0UuvYZDYxw.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/361f47b2226f",
@@ -114,59 +114,59 @@
           "description": "Integer Overflow is a phenomenon that occurs when the integer data type cannot hold the actual value of a variable. Integer Overflow and…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/exploring-owasp-smart-contract-top-10-part-2-arithmetic-over-underflows-vulnerabilities-361f47b2226f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-17T15:46:05.000Z",
-          "wordCount": 2270,
+          "wordCount": null,
           "title": "“Exploring OWASP Smart Contract Top 10: Part 2 — Arithmetic Over/Underflows Vulnerabilities”",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*Cwnj1KAO89L2bQqg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/ffc6582b34fe",
           "author": "Esther Oche",
-          "description": "In the context of smart contracts on blockchain platforms like Ethereum, a “delegate call” refers to a mechanism that allows one smart…",
+          "description": "",
           "link": "https://coinsbench.com/delegate-call-in-solidity-ffc6582b34fe?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-17T15:46:03.000Z",
-          "wordCount": 2616,
+          "wordCount": null,
           "title": "Delegate Call in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*nRWmXBILJMPzSPjfFotvuA.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/02eb8255b239",
           "author": "Okoli Evans",
-          "description": "The Starknet ecosystem has been very vibrant and continuously expanding thanks to their amazing developer community. Starknet is a layer2…",
+          "description": "",
           "link": "https://coinsbench.com/how-to-deploy-starknet-contracts-locally-using-katana-and-starkli-02eb8255b239?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-14T16:30:33.000Z",
-          "wordCount": 3487,
+          "wordCount": null,
           "title": "How to deploy Starknet contracts locally using Katana and Starkli",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*hehHMe6QZZTuDQoBnIlkxw.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/19ba75986de6",
           "author": "Shamshod Rozikov",
-          "description": "Solidity, the dominant programming language for Ethereum smart contracts, offers developers a myriad of features to build decentralized…",
+          "description": "",
           "link": "https://coinsbench.com/understanding-indexed-strings-in-solidity-events-19ba75986de6?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-14T16:30:29.000Z",
-          "wordCount": 2747,
+          "wordCount": null,
           "title": "Understanding Indexed Strings in Solidity Events",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*paArOMHGf_yB7UJ6rYrPKQ.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/703a2c288502",
           "author": "Rosario Borgesi",
-          "description": "In the fast-evolving realm of blockchain technology, Ethereum has stood out as a pioneer, fostering a multitude of decentralized…",
+          "description": "",
           "link": "https://coinsbench.com/a-closer-look-at-popular-erc-20-tokens-in-the-ethereum-ecosystem-703a2c288502?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-14T16:30:28.000Z",
-          "wordCount": 5769,
+          "wordCount": null,
           "title": "A Closer Look at Popular ERC-20 Tokens in the Ethereum Ecosystem",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:720/1*yW2AXIv9vW6pL-XTJt4tCQ.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/3bbebcb983fc",
           "author": "Alexander Koval",
-          "description": "Part 6- Gas station API server",
+          "description": "",
           "link": "https://coinsbench.com/what-to-do-when-you-are-low-on-gas-3bbebcb983fc?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-13T15:58:20.000Z",
-          "wordCount": 6191,
+          "wordCount": null,
           "title": "What to do when you are low on gas?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/1*GdmLAWzrvbYM7vzkRdym4A.jpeg"
+          "imageUrl": null
         }
       ]
     },
@@ -181,9 +181,9 @@
           "description": "Attempting to increase my Fortune Miner earnings as I did with The BNB Miner\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/reviving-my-tfm-earnings-5f513ca5bd81?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-24T19:35:59.000Z",
-          "wordCount": 2205,
+          "wordCount": null,
           "title": "Reviving my TFM Earnings",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tzs4bc1RqqVgou8tegig2g.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/68adbdb3816c",
@@ -201,19 +201,19 @@
           "description": "If you are like me, tried day trading simply to be hit with a swift smack of reality then this indicator is for you!\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/this-btc-indicator-makes-me-money-51a0ea73743c?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-24T19:35:56.000Z",
-          "wordCount": 2309,
+          "wordCount": null,
           "title": "This BTC indicator makes me money",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6fnVRKsm7rZv5AB6JhBH9w.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/c22df3b99504",
           "author": "IC News",
-          "description": "BlackRock’s iShares Bitcoin Trust (IBTC) made its way onto the coveted list of the Depository Trust & Clearing Corporation (DTCC), only to…",
+          "description": "",
           "link": "https://medium.com/coinmonks/blackrock-bitcoin-trust-removed-from-key-financial-list-c22df3b99504?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-24T19:35:55.000Z",
-          "wordCount": 2566,
+          "wordCount": null,
           "title": "BlackRock Bitcoin Trust Removed from Key Financial List",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:768/1*0WuTsQAtFx7YkSybliJnQQ.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/6cb4668b5275",
@@ -221,9 +221,9 @@
           "description": "The metaverse, a communal virtual realm that connects digital universes, is quickly becoming one of the most discussed notions in the…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/ethereums-metaverse-role-creating-decentralized-digital-realms-6cb4668b5275?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-24T19:35:53.000Z",
-          "wordCount": 2338,
+          "wordCount": null,
           "title": "Ethereum’s Metaverse Role: Creating Decentralized Digital Realms",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*rVp7o7REJavaS1YlBmvUEQ.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/307e308e2a76",
@@ -231,9 +231,9 @@
           "description": "Blockchain technology has served as the foundation for many cryptocurrencies, most notably Bitcoin. However, Ethereum has promised more…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/ethereum-2-0-the-blockchains-next-evolution-307e308e2a76?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-24T19:35:52.000Z",
-          "wordCount": 2347,
+          "wordCount": null,
           "title": "Ethereum 2.0: The Blockchain’s Next Evolution",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*wNzMGbNyiHHDx85LU2inqg.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/f9c1c77fb114",
@@ -241,9 +241,9 @@
           "description": "The granddaddy of cryptocurrencies, Bitcoin (BTC), is surging. For example, BTC’s coin price shot up from $30,850.46 at 10:35 AM on 23…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/why-is-bitcoin-btc-surging-f9c1c77fb114?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-24T19:35:50.000Z",
-          "wordCount": 2465,
+          "wordCount": null,
           "title": "Why is Bitcoin (BTC) surging?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*cIWCemRAB4UnY1ppAuCrHA.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/90ed7346f2b4",
@@ -251,9 +251,9 @@
           "description": "Universal Digital Payments Network has completed the first stable coin swaps for Standard Chartered & Deutsche Bank as per a recent report.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/universal-digital-payments-network-complete-first-stable-coin-swaps-for-standard-chartered-90ed7346f2b4?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-24T19:35:48.000Z",
-          "wordCount": 2420,
+          "wordCount": null,
           "title": "Universal Digital Payments Network Complete First Stable coin Swaps for Standard Chartered &…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*j_YCmMORNdI7dl6fP9J9Iw.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/fd48f7a25ba1",
@@ -261,9 +261,9 @@
           "description": "Continue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/bitcoin-hits-35-000-during-alt-coin-october-fd48f7a25ba1?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-24T19:35:46.000Z",
-          "wordCount": 2485,
+          "wordCount": null,
           "title": "Bitcoin hits $35,000 during Alt Coin October",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:940/1*MoHpUvhI8BrTmwH87yUlAQ@2x.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/a318505c2ad7",
@@ -271,9 +271,9 @@
           "description": "I thought I would try my best to cover the new expansion, Tides of Fate, but things have not worked out how I hoped they would. But that…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/gods-unchained-crafting-guide-for-the-tides-of-fate-expansion-a318505c2ad7?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-24T17:27:30.000Z",
-          "wordCount": 2739,
+          "wordCount": null,
           "title": "Gods Unchained — Crafting Guide for the Tides of Fate expansion",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*q0FxdMly9_7MWdlz"
+          "imageUrl": null
         }
       ]
     },
@@ -288,39 +288,39 @@
           "description": "Blockchain is a technology that enables the creation of decentralized, distributed, and immutable databases that can store and verify…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/the-exciting-world-of-blockchain-development-with-solidity-4b7092cc7f4c?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-10-13T16:09:09.000Z",
-          "wordCount": 2177,
+          "wordCount": null,
           "title": "The Exciting World of Blockchain Development with Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/0*T5k8-0XyfgzK5N_R"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/895032251de1",
           "author": "UP",
-          "description": "In this article, I’ll guide you through a straightforward Yul for loop, providing insights into the code and gas optimization techniques…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/unlocking-yuls-power-a-journey-through-efficient-for-loops-and-gas-optimization-895032251de1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:35.000Z",
-          "wordCount": 3260,
+          "wordCount": null,
           "title": "Unlocking Yul’s Power: A Journey Through Efficient ‘For’ Loops and Gas Optimization",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*I01h_lkkEAkY5bgXoHg4MQ.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/ff994a66ec8",
           "author": "arian salmanzadeh",
-          "description": "Introduction",
+          "description": "",
           "link": "https://blog.blockmagnates.com/cross-chain-token-to-token-last-part-ff994a66ec8?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:17.000Z",
-          "wordCount": 2279,
+          "wordCount": null,
           "title": "Cross-chain token to token (last part)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:975/1*5fqUH__7B7Y3VlScWfLldQ.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/93a8349055b3",
           "author": "Joshua Konyeri",
-          "description": "Re-entrancy attacks are a common security vulnerability in smart contracts, especially those written in Solidity for the Ethereum…",
+          "description": "",
           "link": "https://blog.blockmagnates.com/re-entrancy-attack-explained-93a8349055b3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:13.000Z",
-          "wordCount": 3623,
+          "wordCount": null,
           "title": "Re-Entrancy Attack Explained!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*IksSS8Klt6wcky-ak19x1g.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/5140ca787e5f",
@@ -328,9 +328,9 @@
           "description": "Blockchain development is a rapidly growing field that offers many opportunities for innovation and creativity. Blockchain is a technology…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/demystifying-blockchain-development-building-decentralized-applications-with-solidity-5140ca787e5f?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:10.000Z",
-          "wordCount": 2272,
+          "wordCount": null,
           "title": "Demystifying Blockchain Development: Building Decentralized Applications with Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/0*QZnz4uFBqwIY1f4c"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/2ffbc6009fb2",
@@ -338,9 +338,9 @@
           "description": "The Solidity programming language for Ethereum smart contracts, offers a robust feature known as structs that is indispensable in…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/structs-in-solidity-mastering-data-organization-in-ethereum-smart-contracts-2ffbc6009fb2?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:03.000Z",
-          "wordCount": 2305,
+          "wordCount": null,
           "title": "Structs in Solidity: Mastering Data Organization in Ethereum Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*C1KPpJ8uptD-X9xW"
+          "imageUrl": null
         }
       ]
     },
