@@ -1,15 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-25T16:15:16.475Z</id>
+    <id>urn:2023-10-25T17:09:43.451Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-25T16:15:16.475Z</updated>
+    <updated>2023-10-25T17:09:43.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create Your Cryptocurrency: A Guide to Building with OpenZeppelin’s ERC-20 Contracts]]></title>
+        <id>https://medium.com/p/550a2e86e59f</id>
+        <link href="https://coinsbench.com/create-your-cryptocurrency-a-guide-to-building-with-openzeppelins-erc-20-contracts-550a2e86e59f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-25T16:26:52.000Z</updated>
+        <summary type="html"><![CDATA[One of the fundamental building blocks of the Ethereum network is the ERC-20 token standard, a set of rules and functionalities that define how a token operates within the Ethereum ecosystem. With…]]></summary>
+        <author>
+            <name>Rosario Borgesi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building on Base (Goerli) with CoinbaseWallet SDK and Wagmi (Viem version)]]></title>
+        <id>https://medium.com/p/6cf2a0f95dcf</id>
+        <link href="https://coinsbench.com/building-on-base-goerli-with-coinbasewallet-sdk-and-wagmi-viem-version-6cf2a0f95dcf?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-25T16:26:48.000Z</updated>
+        <summary type="html"><![CDATA[Connecting applications to users and seamlessly connecting to Ethereum’s ecosystem is central to the ever-evolving decentralized …]]></summary>
+        <author>
+            <name>Leonardo Simone Digiorgio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Decentralized Freelancer Marketplace with React, Solidity, and CometChat]]></title>
+        <id>https://medium.com/p/c05207a564b7</id>
+        <link href="https://coinsbench.com/build-a-decentralized-freelancer-marketplace-with-react-solidity-and-cometchat-c05207a564b7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-25T16:23:25.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a decentralized freelance marketplace like Upwork using React, Solidity, and CometChat. In this step-by-step tutorial…]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying Leverage Trading, With A DeFi Example]]></title>
+        <id>https://medium.com/p/cd1efcabbda3</id>
+        <link href="https://coinsbench.com/demystifying-leverage-trading-with-a-defi-example-cd1efcabbda3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-25T16:23:21.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: The RAGE in Leverage is a highly likely outcome from leverage trading.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Sed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Solana Network]]></title>
+        <id>https://medium.com/p/726b31c074f6</id>
+        <link href="https://coinsbench.com/the-solana-network-726b31c074f6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-25T16:23:18.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Esther Oche</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How decentralization can mitigate ‘dystopic’ artificial intelligence risks — SingularityNET exec…]]></title>
         <id>https://medium.com/p/64d2bf542821</id>
         <link href="https://medium.com/coinmonks/how-decentralization-can-mitigate-dystopic-artificial-intelligence-risks-singularitynet-exec-64d2bf542821?source=rss----721b17443fd5---4"/>
         <updated>2023-10-25T12:36:28.000Z</updated>
+        <summary type="html"><![CDATA[Janet Adams said that AGIs falling into the hands of military could pose existential threats to humanity.]]></summary>
         <author>
             <name>Crypto Express</name>
         </author>
@@ -51,6 +103,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/27683177279a</id>
         <link href="https://medium.com/coinmonks/can-the-s-p-500-hold-key-support-27683177279a?source=rss----721b17443fd5---4"/>
         <updated>2023-10-25T12:35:57.000Z</updated>
+        <summary type="html"><![CDATA[This week, I’m changing up my usual post just a bit. First, I’m going to highlight a few of the most important charts I’m watching for the…]]></summary>
         <author>
             <name>Mosaic Asset</name>
         </author>
@@ -60,6 +113,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/5ce654cf7c6b</id>
         <link href="https://medium.com/coinmonks/cryptocurrency-between-fear-and-greed-5ce654cf7c6b?source=rss----721b17443fd5---4"/>
         <updated>2023-10-25T12:35:56.000Z</updated>
+        <summary type="html"><![CDATA[What are Fear and Greed in the cryptocurrency world? How do we find a balance between them? 👇]]></summary>
         <author>
             <name>Crypto Knowledge Center</name>
         </author>
@@ -100,6 +154,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/4e7936910058</id>
         <link href="https://medium.com/coinmonks/blockchain-a-beginners-guide-to-the-digital-ledger-4e7936910058?source=rss----721b17443fd5---4"/>
         <updated>2023-10-25T12:35:49.000Z</updated>
+        <summary type="html"><![CDATA[New to blockchain? This beginner's guide breaks down the fundamentals of blockchain technology, making it easy to understand for newcomers.]]></summary>
         <author>
             <name>DeFi Alliance DAO</name>
         </author>
@@ -131,6 +186,7 @@ The post The Death of Reddit’s Community Points — One For The History Books 
         <id>https://medium.com/p/936331156b57</id>
         <link href="https://coinsbench.com/optimizing-smart-contract-interactions-a-guide-to-multi-call-integration-in-web3-front-end-dapp-936331156b57?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-19T14:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Each transaction incurs a gas fee. Executing calls individually is costly. Multi Call reduces expenses, offering an efficient solution.]]></summary>
         <author>
             <name>Leonardo Simone Digiorgio</name>
         </author>
@@ -140,6 +196,7 @@ The post The Death of Reddit’s Community Points — One For The History Books 
         <id>https://medium.com/p/89cd4f172dfd</id>
         <link href="https://coinsbench.com/how-to-sign-a-message-with-ethers-js-v6-and-then-validate-it-in-solidity-89cd4f172dfd?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-19T14:09:26.000Z</updated>
+        <summary type="html"><![CDATA[Cryptographic signatures play a pivotal role in blockchain technology, ensuring that transactions are secure, authentic, and tamper-proof…]]></summary>
         <author>
             <name>Dian Ivanov</name>
         </author>
@@ -160,6 +217,7 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/97df1e10d2ef</id>
         <link href="https://coinsbench.com/reading-private-variables-of-a-smart-contract-from-outside-97df1e10d2ef?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-19T14:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Are private variables really private in the smart contracts? The response is, not. The private values of smart contracts can be read from…]]></summary>
         <author>
             <name>Aryabarzan</name>
         </author>
@@ -176,15 +234,6 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Delegate Call in Solidity]]></title>
-        <id>https://medium.com/p/ffc6582b34fe</id>
-        <link href="https://coinsbench.com/delegate-call-in-solidity-ffc6582b34fe?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-17T15:46:03.000Z</updated>
-        <author>
-            <name>Esther Oche</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Cryptocurrency Podcast Ep5: PaintSwap DAO and Estfor Kingdom with Chronic]]></title>
         <id>https://www.cryptomaton.org/?p=1585</id>
         <link href="https://www.cryptomaton.org/2023/10/15/the-cryptocurrency-podcast-ep5-paintswap-dao-fantom-blockchain-game-estfor-kingdom/"/>
@@ -196,33 +245,6 @@ The post The Cryptocurrency Podcast Ep5: PaintSwap DAO and Estfor Kingdom with C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to deploy Starknet contracts locally using Katana and Starkli]]></title>
-        <id>https://medium.com/p/02eb8255b239</id>
-        <link href="https://coinsbench.com/how-to-deploy-starknet-contracts-locally-using-katana-and-starkli-02eb8255b239?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-14T16:30:33.000Z</updated>
-        <author>
-            <name>Okoli Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Indexed Strings in Solidity Events]]></title>
-        <id>https://medium.com/p/19ba75986de6</id>
-        <link href="https://coinsbench.com/understanding-indexed-strings-in-solidity-events-19ba75986de6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-14T16:30:29.000Z</updated>
-        <author>
-            <name>Shamshod Rozikov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Closer Look at Popular ERC-20 Tokens in the Ethereum Ecosystem]]></title>
-        <id>https://medium.com/p/703a2c288502</id>
-        <link href="https://coinsbench.com/a-closer-look-at-popular-erc-20-tokens-in-the-ethereum-ecosystem-703a2c288502?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-14T16:30:28.000Z</updated>
-        <author>
-            <name>Rosario Borgesi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Exciting World of Blockchain Development with Solidity]]></title>
         <id>https://medium.com/p/4b7092cc7f4c</id>
         <link href="https://blog.blockmagnates.com/the-exciting-world-of-blockchain-development-with-solidity-4b7092cc7f4c?source=rss----18fa961f1eff--solidity"/>
@@ -231,15 +253,6 @@ The post The Cryptocurrency Podcast Ep5: PaintSwap DAO and Estfor Kingdom with C
 Continue reading on Block Magnates »]]></summary>
         <author>
             <name>Alexandra Grosu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to do when you are low on gas?]]></title>
-        <id>https://medium.com/p/3bbebcb983fc</id>
-        <link href="https://coinsbench.com/what-to-do-when-you-are-low-on-gas-3bbebcb983fc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-13T15:58:20.000Z</updated>
-        <author>
-            <name>Alexander Koval</name>
         </author>
     </entry>
     <entry>
@@ -280,6 +293,7 @@ To deploy smart contracts, you must have a key pair with the funds for all the c
         <id>https://medium.com/p/895032251de1</id>
         <link href="https://blog.blockmagnates.com/unlocking-yuls-power-a-journey-through-efficient-for-loops-and-gas-optimization-895032251de1?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-27T12:48:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I’ll guide you through a straightforward Yul for loop, providing insights into the code and gas optimization techniques…]]></summary>
         <author>
             <name>UP</name>
         </author>
@@ -300,6 +314,7 @@ The post Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex 
         <id>https://medium.com/p/ff994a66ec8</id>
         <link href="https://blog.blockmagnates.com/cross-chain-token-to-token-last-part-ff994a66ec8?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-27T12:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>arian salmanzadeh</name>
         </author>
@@ -309,6 +324,7 @@ The post Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex 
         <id>https://medium.com/p/93a8349055b3</id>
         <link href="https://blog.blockmagnates.com/re-entrancy-attack-explained-93a8349055b3?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-27T12:48:13.000Z</updated>
+        <summary type="html"><![CDATA[Re-entrancy attacks are a common security vulnerability in smart contracts, especially those written in Solidity for the Ethereum…]]></summary>
         <author>
             <name>Joshua Konyeri</name>
         </author>
