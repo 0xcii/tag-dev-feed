@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-26T17:10:21.837Z</id>
+    <id>urn:2023-10-26T18:15:18.425Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-26T17:10:21.837Z</updated>
+    <updated>2023-10-26T18:15:18.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -179,6 +179,7 @@ The post The Death of Reddit’s Community Points — One For The History Books 
         <id>https://medium.com/p/936331156b57</id>
         <link href="https://coinsbench.com/optimizing-smart-contract-interactions-a-guide-to-multi-call-integration-in-web3-front-end-dapp-936331156b57?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-19T14:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Each transaction incurs a gas fee. Executing calls individually is costly. Multi Call reduces expenses, offering an efficient solution.]]></summary>
         <author>
             <name>Leonardo Simone Digiorgio</name>
         </author>
@@ -316,6 +317,7 @@ The post Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex 
         <id>https://medium.com/p/ff994a66ec8</id>
         <link href="https://blog.blockmagnates.com/cross-chain-token-to-token-last-part-ff994a66ec8?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-27T12:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>arian salmanzadeh</name>
         </author>
@@ -325,6 +327,7 @@ The post Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex 
         <id>https://medium.com/p/93a8349055b3</id>
         <link href="https://blog.blockmagnates.com/re-entrancy-attack-explained-93a8349055b3?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-09-27T12:48:13.000Z</updated>
+        <summary type="html"><![CDATA[Re-entrancy attacks are a common security vulnerability in smart contracts, especially those written in Solidity for the Ethereum…]]></summary>
         <author>
             <name>Joshua Konyeri</name>
         </author>

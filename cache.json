@@ -111,12 +111,12 @@
         {
           "id": "https://medium.com/p/936331156b57",
           "author": "Leonardo Simone Digiorgio",
-          "description": "",
+          "description": "Each transaction incurs a gas fee. Executing calls individually is costly. Multi Call reduces expenses, offering an efficient solution.",
           "link": "https://coinsbench.com/optimizing-smart-contract-interactions-a-guide-to-multi-call-integration-in-web3-front-end-dapp-936331156b57?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-19T14:12:52.000Z",
-          "wordCount": null,
+          "wordCount": 3350,
           "title": "Optimizing Smart Contract Interactions: A Guide to Multi Call integration in Web3 Front-End DApp",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xWMB_zABt7EAAPTQUhdx3A.png"
         },
         {
           "id": "https://medium.com/p/89cd4f172dfd",
@@ -154,9 +154,9 @@
           "description": "Integer Overflow is a phenomenon that occurs when the integer data type cannot hold the actual value of a variable. Integer Overflow and…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/exploring-owasp-smart-contract-top-10-part-2-arithmetic-over-underflows-vulnerabilities-361f47b2226f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-17T15:46:05.000Z",
-          "wordCount": null,
+          "wordCount": 2290,
           "title": "“Exploring OWASP Smart Contract Top 10: Part 2 — Arithmetic Over/Underflows Vulnerabilities”",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*Cwnj1KAO89L2bQqg"
         },
         {
           "id": "https://medium.com/p/ffc6582b34fe",
@@ -211,7 +211,7 @@
           "description": "Have you ever wondered how digital tokens, those cryptographic assets at the heart of blockchain and decentralized finance (DeFi) systems, are meticulously crafted and fine-tuned to achieve specific…",
           "link": "https://medium.com/coinmonks/simulation-and-verification-tools-for-token-engineering-its-usage-8917dbd29092?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-26T16:15:54.000Z",
-          "wordCount": 4716,
+          "wordCount": 4709,
           "title": "Simulation and Verification Tools for Token Engineering: Its Usage",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:764/1*t_B1juFXXHTaoUXNmVPmLQ.png"
         },
@@ -305,22 +305,22 @@
         {
           "id": "https://medium.com/p/ff994a66ec8",
           "author": "arian salmanzadeh",
-          "description": "",
+          "description": "Introduction",
           "link": "https://blog.blockmagnates.com/cross-chain-token-to-token-last-part-ff994a66ec8?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:17.000Z",
-          "wordCount": null,
+          "wordCount": 2447,
           "title": "Cross-chain token to token (last part)",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:975/1*5fqUH__7B7Y3VlScWfLldQ.png"
         },
         {
           "id": "https://medium.com/p/93a8349055b3",
           "author": "Joshua Konyeri",
-          "description": "",
+          "description": "Re-entrancy attacks are a common security vulnerability in smart contracts, especially those written in Solidity for the Ethereum…",
           "link": "https://blog.blockmagnates.com/re-entrancy-attack-explained-93a8349055b3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:13.000Z",
-          "wordCount": null,
+          "wordCount": 3705,
           "title": "Re-Entrancy Attack Explained!",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*IksSS8Klt6wcky-ak19x1g.jpeg"
         },
         {
           "id": "https://medium.com/p/5140ca787e5f",
@@ -328,9 +328,9 @@
           "description": "Blockchain development is a rapidly growing field that offers many opportunities for innovation and creativity. Blockchain is a technology…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/demystifying-blockchain-development-building-decentralized-applications-with-solidity-5140ca787e5f?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:10.000Z",
-          "wordCount": null,
+          "wordCount": 2298,
           "title": "Demystifying Blockchain Development: Building Decentralized Applications with Solidity",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/0*QZnz4uFBqwIY1f4c"
         },
         {
           "id": "https://medium.com/p/2ffbc6009fb2",
@@ -338,9 +338,9 @@
           "description": "The Solidity programming language for Ethereum smart contracts, offers a robust feature known as structs that is indispensable in…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/structs-in-solidity-mastering-data-organization-in-ethereum-smart-contracts-2ffbc6009fb2?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:03.000Z",
-          "wordCount": null,
+          "wordCount": 2315,
           "title": "Structs in Solidity: Mastering Data Organization in Ethereum Smart Contracts",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*C1KPpJ8uptD-X9xW"
         }
       ]
     },
