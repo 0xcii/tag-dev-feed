@@ -69,34 +69,24 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
-          "id": "https://medium.com/p/550a2e86e59f",
-          "author": "Rosario Borgesi",
-          "description": "",
-          "link": "https://coinsbench.com/create-your-cryptocurrency-a-guide-to-building-with-openzeppelins-erc-20-contracts-550a2e86e59f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-25T16:26:52.000Z",
-          "wordCount": null,
-          "title": "Create Your Cryptocurrency: A Guide to Building with OpenZeppelin’s ERC-20 Contracts",
-          "imageUrl": null
-        },
-        {
           "id": "https://medium.com/p/6cf2a0f95dcf",
           "author": "Leonardo Simone Digiorgio",
-          "description": "",
+          "description": "Connecting applications to users and seamlessly connecting to Ethereum’s ecosystem is central to the ever-evolving decentralized …",
           "link": "https://coinsbench.com/building-on-base-goerli-with-coinbasewallet-sdk-and-wagmi-viem-version-6cf2a0f95dcf?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-25T16:26:48.000Z",
-          "wordCount": null,
+          "wordCount": 5539,
           "title": "Building on Base (Goerli) with CoinbaseWallet SDK and Wagmi (Viem version)",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UjW8OVwX_ZIuASb5HDNIhw.png"
         },
         {
           "id": "https://medium.com/p/c05207a564b7",
           "author": "Darlington Gospel",
-          "description": "",
+          "description": "Learn how to build a decentralized freelance marketplace like Upwork using React, Solidity, and CometChat. In this step-by-step tutorial…",
           "link": "https://coinsbench.com/build-a-decentralized-freelancer-marketplace-with-react-solidity-and-cometchat-c05207a564b7?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-25T16:23:25.000Z",
-          "wordCount": null,
+          "wordCount": 10504,
           "title": "Build a Decentralized Freelancer Marketplace with React, Solidity, and CometChat",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*pCvGCUGGNXPN7SEYrJx4CA.png"
         },
         {
           "id": "https://medium.com/p/cd1efcabbda3",
@@ -104,19 +94,19 @@
           "description": "TLDR: The RAGE in Leverage is a highly likely outcome from leverage trading.\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/demystifying-leverage-trading-with-a-defi-example-cd1efcabbda3?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-25T16:23:21.000Z",
-          "wordCount": null,
+          "wordCount": 2375,
           "title": "Demystifying Leverage Trading, With A DeFi Example",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*-M2dTQm4LJmzS68_"
         },
         {
           "id": "https://medium.com/p/726b31c074f6",
           "author": "Esther Oche",
-          "description": "",
+          "description": "Introduction",
           "link": "https://coinsbench.com/the-solana-network-726b31c074f6?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-25T16:23:18.000Z",
-          "wordCount": null,
+          "wordCount": 3185,
           "title": "The Solana Network",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xwGH2YjAmYtHt41Ss_tqNQ.png"
         },
         {
           "id": "https://medium.com/p/936331156b57",
@@ -131,12 +121,12 @@
         {
           "id": "https://medium.com/p/89cd4f172dfd",
           "author": "Dian Ivanov",
-          "description": "",
+          "description": "Cryptographic signatures play a pivotal role in blockchain technology, ensuring that transactions are secure, authentic, and tamper-proof…",
           "link": "https://coinsbench.com/how-to-sign-a-message-with-ethers-js-v6-and-then-validate-it-in-solidity-89cd4f172dfd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-19T14:09:26.000Z",
-          "wordCount": null,
+          "wordCount": 2548,
           "title": "How to sign a message with ethers.js v6 and then validate it in Solidity",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*EWC_DbygeqR2i6XNtqLYaA.jpeg"
         },
         {
           "id": "https://medium.com/p/38c0e3acfade",
@@ -144,19 +134,19 @@
           "description": "Introduction\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/the-untapped-potential-of-defi-leverage-flash-loan-arbitrage-for-skyrocketing-profits-across-dexs-38c0e3acfade?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-19T14:08:36.000Z",
-          "wordCount": null,
+          "wordCount": 2046,
           "title": "The Untapped Potential of DeFi: Leverage Flash Loan Arbitrage for Skyrocketing Profits Across DEXs!",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*gwbjEVVZUVGV6zEBdNL4Sg.jpeg"
         },
         {
           "id": "https://medium.com/p/97df1e10d2ef",
           "author": "Aryabarzan",
-          "description": "",
+          "description": "Are private variables really private in the smart contracts? The response is, not. The private values of smart contracts can be read from…",
           "link": "https://coinsbench.com/reading-private-variables-of-a-smart-contract-from-outside-97df1e10d2ef?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-19T14:08:31.000Z",
-          "wordCount": null,
+          "wordCount": 2750,
           "title": "Reading private variables of a smart contract from outside",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:486/1*WDivbLfYu-Rk0UuvYZDYxw.jpeg"
         },
         {
           "id": "https://medium.com/p/361f47b2226f",
@@ -167,6 +157,16 @@
           "wordCount": null,
           "title": "“Exploring OWASP Smart Contract Top 10: Part 2 — Arithmetic Over/Underflows Vulnerabilities”",
           "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ffc6582b34fe",
+          "author": "Esther Oche",
+          "description": "In the context of smart contracts on blockchain platforms like Ethereum, a “delegate call” refers to a mechanism that allows one smart…",
+          "link": "https://coinsbench.com/delegate-call-in-solidity-ffc6582b34fe?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-17T15:46:03.000Z",
+          "wordCount": 2671,
+          "title": "Delegate Call in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*nRWmXBILJMPzSPjfFotvuA.jpeg"
         }
       ]
     },
@@ -175,6 +175,76 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/b43d487727ab",
+          "author": "Zentaurios",
+          "description": "Read news about Bitcoin, alt coins, AI, social media, and plenty more crypto related news. #ZentaNews is #Web3News — Zenta News 2023/10/26",
+          "link": "https://medium.com/coinmonks/web3-headlines-zentanews-b43d487727ab?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-10-26T16:15:59.000Z",
+          "wordCount": 4899,
+          "title": "Web3 Headlines — #ZentaNews",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*ubTE25cOYlBxLRLR.jpg"
+        },
+        {
+          "id": "https://medium.com/p/9abcaa9a8678",
+          "author": "Sales Wallet",
+          "description": "Social media influencers and user friendly peoject.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/verasity-a-platform-for-esports-and-video-entertainment-9abcaa9a8678?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-10-26T16:15:58.000Z",
+          "wordCount": 2341,
+          "title": "Verasity: A Platform for Esports and Video Entertainment",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:959/1*BMu119ERmLL8Sg3Mjr_MaA@2x.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/41060a5a0393",
+          "author": "Sales Wallet",
+          "description": "How Qredo is revolutionizing the blockchain economy with its secure, fast, and transparent platform\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/qredo-the-future-of-crypto-custody-and-liquidity-41060a5a0393?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-10-26T16:15:56.000Z",
+          "wordCount": 2136,
+          "title": "QREDO: The Future of Crypto Custody and Liquidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*U9iedYdNftpQsE6GAwngGQ@2x.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/8917dbd29092",
+          "author": "Umar Sharomi",
+          "description": "Have you ever wondered how digital tokens, those cryptographic assets at the heart of blockchain and decentralized finance (DeFi) systems, are meticulously crafted and fine-tuned to achieve specific…",
+          "link": "https://medium.com/coinmonks/simulation-and-verification-tools-for-token-engineering-its-usage-8917dbd29092?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-10-26T16:15:54.000Z",
+          "wordCount": 4716,
+          "title": "Simulation and Verification Tools for Token Engineering: Its Usage",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:764/1*t_B1juFXXHTaoUXNmVPmLQ.png"
+        },
+        {
+          "id": "https://medium.com/p/2793094a7d1d",
+          "author": "Crypto Currents",
+          "description": "Substantial $8.6 million in digital assets, sourced from FTX and Alameda wallets, are in transit to a designated Binance destination.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/unveiling-the-rise-of-sam-bankman-fried-2793094a7d1d?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-10-26T16:15:52.000Z",
+          "wordCount": 2568,
+          "title": "Unveiling the Rise of Sam Bankman-Fried",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*vayWPSUZ1YPKr2sK"
+        },
+        {
+          "id": "https://medium.com/p/590ed5887359",
+          "author": "Crypto Currents",
+          "description": "In the ever-evolving landscape of cryptocurrency, Ethereum has stood as a pioneer and visionary project since its inception. This article…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/ethereums-evolution-nocturne-labs-and-vitalik-buterin-s-vision-590ed5887359?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-10-26T16:15:50.000Z",
+          "wordCount": 2268,
+          "title": "Ethereum’s Evolution: Nocturne Labs and Vitalik Buterin’s Vision",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*B4UXx1vUo5qyJfFc"
+        },
+        {
+          "id": "https://medium.com/p/2295472136a3",
+          "author": "Vic Danh",
+          "description": "The Economics of Eli Lilly: How the Healthcare Giant Makes Money\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/eli-lilly-a-millennials-guide-to-investing-in-a-healthcare-giant-2295472136a3?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-10-26T16:15:48.000Z",
+          "wordCount": 2430,
+          "title": "Eli Lilly: A Millennial’s Guide to Investing in a Healthcare Giant",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/0*-vo68hjcZS4tSlMq"
+        },
         {
           "id": "https://medium.com/p/f4460c414e54",
           "author": "Michael Di Fulvio",
@@ -188,12 +258,12 @@
         {
           "id": "https://medium.com/p/13d7668f7970",
           "author": "Ore",
-          "description": "",
+          "description": "In the dynamic world of cryptocurrencies, few tokens have captured the hearts of investors like Cardano’s ADA. For me, Cardano isn’t just a…",
           "link": "https://medium.com/coinmonks/cardano-ada-navigating-the-crypto-waves-with-conviction-and-staking-rewards-13d7668f7970?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-26T15:02:44.000Z",
-          "wordCount": null,
+          "wordCount": 2636,
           "title": "Cardano ADA: Navigating the Crypto Waves with Conviction and Staking Rewards",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*49Zh_NxW2EHG_HuAgJ8LOA.jpeg"
         },
         {
           "id": "https://medium.com/p/66a3b60d3edc",
@@ -204,76 +274,6 @@
           "wordCount": 3819,
           "title": "US Treasury Yields: Why Are They So Important and Are They Too High?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:900/0*Pe_fCAsP3C52lfwk.jpg"
-        },
-        {
-          "id": "https://medium.com/p/8be9a795ca11",
-          "author": "Christinapaul",
-          "description": "In the rapidly evolving domain of decentralized finance (DeFi), the significance of cryptocurrency wallets cannot be overstated. These…",
-          "link": "https://medium.com/coinmonks/cryptocurrency-wallet-development-for-defi-challenges-and-opportunities-8be9a795ca11?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-10-26T14:50:38.000Z",
-          "wordCount": 2660,
-          "title": "Cryptocurrency Wallet Development for DeFi: Challenges and Opportunities",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*TC4726UuKDcGoc_-0H48Ig.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/8bf55d67b703",
-          "author": "Christinapaul",
-          "description": "",
-          "link": "https://medium.com/coinmonks/mobile-vs-web-choosing-the-right-platform-for-your-crypto-wallet-8bf55d67b703?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-10-26T14:50:36.000Z",
-          "wordCount": null,
-          "title": "Mobile vs. Web: Choosing the Right Platform for Your Crypto Wallet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/94450b9fd5b0",
-          "author": "Cyberscope",
-          "description": "Introduction",
-          "link": "https://medium.com/coinmonks/what-is-address-poisoning-in-crypto-94450b9fd5b0?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-10-26T14:50:32.000Z",
-          "wordCount": 3389,
-          "title": "What is Address Poisoning in Crypto?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*-2LFGpvsxIOFXOKv"
-        },
-        {
-          "id": "https://medium.com/p/547485e53e5d",
-          "author": "Saxon Heller",
-          "description": "ETFs, REITs, White Labels, this is not another blog about print on demand…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/how-to-really-profit-from-ai-547485e53e5d?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-10-26T14:50:31.000Z",
-          "wordCount": 2436,
-          "title": "How to really Profit from AI",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*5-zu6BEtoKYrFCkMdiIE1A.png"
-        },
-        {
-          "id": "https://medium.com/p/e76817e67e7f",
-          "author": "SimpleSwap.io",
-          "description": "Let’s take a closer look at what vampire attack is and find out if you need garlic and wooden stake in order to fight it.",
-          "link": "https://medium.com/coinmonks/the-phenomenon-of-the-vampire-attack-in-the-crypto-world-e76817e67e7f?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-10-26T14:50:29.000Z",
-          "wordCount": 3508,
-          "title": "The Phenomenon of the Vampire Attack in the Crypto World",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*pwLgabxLYifdz0L8CaV3iw.png"
-        },
-        {
-          "id": "https://medium.com/p/0f9a0abb15ba",
-          "author": "ASTL Token (Astol Token)",
-          "description": "",
-          "link": "https://medium.com/coinmonks/bitcoins-market-share-reached-54-its-highest-level-in-2-5-years-0f9a0abb15ba?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-10-26T14:50:28.000Z",
-          "wordCount": null,
-          "title": "Bitcoin’s market share reached 54%, its highest level in 2.5 years.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/504a40cab186",
-          "author": "Token Trekker Crypto",
-          "description": "In the ever-evolving world of cryptocurrency trekking, having an edge can mean the difference between substantial gains and missed…",
-          "link": "https://medium.com/coinmonks/coinmarketcal-a-crypto-traders-best-friend-in-2024-and-beyond-504a40cab186?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-10-26T14:50:27.000Z",
-          "wordCount": 3646,
-          "title": "CoinMarketCal: A Crypto Trader’s Best Friend in 2024 and Beyond",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lR6x09B-jjO1hlButHnZbQ.png"
         }
       ]
     },
@@ -288,19 +288,19 @@
           "description": "Blockchain is a technology that enables the creation of decentralized, distributed, and immutable databases that can store and verify…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/the-exciting-world-of-blockchain-development-with-solidity-4b7092cc7f4c?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-10-13T16:09:09.000Z",
-          "wordCount": null,
+          "wordCount": 2189,
           "title": "The Exciting World of Blockchain Development with Solidity",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/0*T5k8-0XyfgzK5N_R"
         },
         {
           "id": "https://medium.com/p/895032251de1",
           "author": "UP",
-          "description": "",
+          "description": "In this article, I’ll guide you through a straightforward Yul for loop, providing insights into the code and gas optimization techniques…",
           "link": "https://blog.blockmagnates.com/unlocking-yuls-power-a-journey-through-efficient-for-loops-and-gas-optimization-895032251de1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-09-27T12:48:35.000Z",
-          "wordCount": null,
+          "wordCount": 3330,
           "title": "Unlocking Yul’s Power: A Journey Through Efficient ‘For’ Loops and Gas Optimization",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*I01h_lkkEAkY5bgXoHg4MQ.png"
         },
         {
           "id": "https://medium.com/p/ff994a66ec8",
