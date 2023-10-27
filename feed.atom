@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-26T23:11:34.174Z</id>
+    <id>urn:2023-10-27T00:52:26.208Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-26T23:11:34.174Z</updated>
+    <updated>2023-10-27T00:52:26.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -96,6 +96,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/13d7668f7970</id>
         <link href="https://medium.com/coinmonks/cardano-ada-navigating-the-crypto-waves-with-conviction-and-staking-rewards-13d7668f7970?source=rss----721b17443fd5---4"/>
         <updated>2023-10-26T15:02:44.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic world of cryptocurrencies, few tokens have captured the hearts of investors like Cardano’s ADA. For me, Cardano isn’t just a…]]></summary>
         <author>
             <name>Ore</name>
         </author>
@@ -115,6 +116,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/6cf2a0f95dcf</id>
         <link href="https://coinsbench.com/building-on-base-goerli-with-coinbasewallet-sdk-and-wagmi-viem-version-6cf2a0f95dcf?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-25T16:26:48.000Z</updated>
+        <summary type="html"><![CDATA[Connecting applications to users and seamlessly connecting to Ethereum’s ecosystem is central to the ever-evolving decentralized …]]></summary>
         <author>
             <name>Leonardo Simone Digiorgio</name>
         </author>
@@ -124,6 +126,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/c05207a564b7</id>
         <link href="https://coinsbench.com/build-a-decentralized-freelancer-marketplace-with-react-solidity-and-cometchat-c05207a564b7?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-25T16:23:25.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a decentralized freelance marketplace like Upwork using React, Solidity, and CometChat. In this step-by-step tutorial…]]></summary>
         <author>
             <name>Darlington Gospel</name>
         </author>
@@ -144,6 +147,7 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/726b31c074f6</id>
         <link href="https://coinsbench.com/the-solana-network-726b31c074f6?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-25T16:23:18.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
@@ -175,6 +179,7 @@ The post The Death of Reddit’s Community Points — One For The History Books 
         <id>https://medium.com/p/936331156b57</id>
         <link href="https://coinsbench.com/optimizing-smart-contract-interactions-a-guide-to-multi-call-integration-in-web3-front-end-dapp-936331156b57?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-19T14:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Each transaction incurs a gas fee. Executing calls individually is costly. Multi Call reduces expenses, offering an efficient solution.]]></summary>
         <author>
             <name>Leonardo Simone Digiorgio</name>
         </author>
@@ -184,6 +189,7 @@ The post The Death of Reddit’s Community Points — One For The History Books 
         <id>https://medium.com/p/89cd4f172dfd</id>
         <link href="https://coinsbench.com/how-to-sign-a-message-with-ethers-js-v6-and-then-validate-it-in-solidity-89cd4f172dfd?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-19T14:09:26.000Z</updated>
+        <summary type="html"><![CDATA[Cryptographic signatures play a pivotal role in blockchain technology, ensuring that transactions are secure, authentic, and tamper-proof…]]></summary>
         <author>
             <name>Dian Ivanov</name>
         </author>
@@ -204,6 +210,7 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/97df1e10d2ef</id>
         <link href="https://coinsbench.com/reading-private-variables-of-a-smart-contract-from-outside-97df1e10d2ef?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-19T14:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Are private variables really private in the smart contracts? The response is, not. The private values of smart contracts can be read from…]]></summary>
         <author>
             <name>Aryabarzan</name>
         </author>
@@ -224,6 +231,7 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/ffc6582b34fe</id>
         <link href="https://coinsbench.com/delegate-call-in-solidity-ffc6582b34fe?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-17T15:46:03.000Z</updated>
+        <summary type="html"><![CDATA[In the context of smart contracts on blockchain platforms like Ethereum, a “delegate call” refers to a mechanism that allows one smart…]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
@@ -281,66 +289,6 @@ The Deployment Keys
 To deploy smart contracts, you must have a key pair with the funds for all the chains you will be dep…]]></summary>
         <author>
             <name>megabyte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking Yul’s Power: A Journey Through Efficient ‘For’ Loops and Gas Optimization]]></title>
-        <id>https://medium.com/p/895032251de1</id>
-        <link href="https://blog.blockmagnates.com/unlocking-yuls-power-a-journey-through-efficient-for-loops-and-gas-optimization-895032251de1?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-09-27T12:48:35.000Z</updated>
-        <author>
-            <name>UP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex Employee Of Stealing His Lambo]]></title>
-        <id>https://www.cryptomaton.org/?p=1576</id>
-        <link href="https://www.cryptomaton.org/2023/09/27/bitboy-arrested-in-unhinged-livestream-for-showing-up-and-accusing-ex-employee-of-stealing-his-lambo/"/>
-        <updated>2023-09-27T12:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Live streaming while paying a visit to your ex-colleague’s house, while carrying a gun because he stole your Lambo isn’t going to win you many IQ points. In fact, you probably lost some just reading that. What it will do though is secure your position in the crypto Hall of Shame, as one of the […]
-The post Bitboy Arrested in Unhinged Livestream, For Showing Up And Accusing Ex Employee Of Stealing His Lambo appeared first on cryptomaton.]]></summary>
-        <author>
-            <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-chain token to token (last part)]]></title>
-        <id>https://medium.com/p/ff994a66ec8</id>
-        <link href="https://blog.blockmagnates.com/cross-chain-token-to-token-last-part-ff994a66ec8?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-09-27T12:48:17.000Z</updated>
-        <author>
-            <name>arian salmanzadeh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re-Entrancy Attack Explained!]]></title>
-        <id>https://medium.com/p/93a8349055b3</id>
-        <link href="https://blog.blockmagnates.com/re-entrancy-attack-explained-93a8349055b3?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-09-27T12:48:13.000Z</updated>
-        <author>
-            <name>Joshua Konyeri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying Blockchain Development: Building Decentralized Applications with Solidity]]></title>
-        <id>https://medium.com/p/5140ca787e5f</id>
-        <link href="https://blog.blockmagnates.com/demystifying-blockchain-development-building-decentralized-applications-with-solidity-5140ca787e5f?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-09-27T12:48:10.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain development is a rapidly growing field that offers many opportunities for innovation and creativity. Blockchain is a technology…
-Continue reading on Block Magnates »]]></summary>
-        <author>
-            <name>Alexandra Grosu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structs in Solidity: Mastering Data Organization in Ethereum Smart Contracts]]></title>
-        <id>https://medium.com/p/2ffbc6009fb2</id>
-        <link href="https://blog.blockmagnates.com/structs-in-solidity-mastering-data-organization-in-ethereum-smart-contracts-2ffbc6009fb2?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-09-27T12:48:03.000Z</updated>
-        <summary type="html"><![CDATA[The Solidity programming language for Ethereum smart contracts, offers a robust feature known as structs that is indispensable in…
-Continue reading on Block Magnates »]]></summary>
-        <author>
-            <name>Kristaps Grinbergs</name>
         </author>
     </entry>
 </feed>
