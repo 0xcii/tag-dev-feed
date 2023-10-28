@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-28T15:11:21.915Z</id>
+    <id>urn:2023-10-28T16:13:13.655Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-28T15:11:21.915Z</updated>
+    <updated>2023-10-28T16:13:13.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Smart Contracts Like a Pro: A Comprehensive Guide to Using HardHat — Part 1]]></title>
+        <id>https://medium.com/p/bb11294b4a22</id>
+        <link href="https://blog.blockmagnates.com/building-smart-contracts-like-a-pro-a-comprehensive-guide-to-using-hardhat-part-1-bb11294b4a22?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-10-28T15:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum development has been revolutionized with the advent of tools like Hardhat. If you’re a software professional looking to…]]></summary>
+        <author>
+            <name>karthik Ganti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Smart Contract Auditing And Why You Should Care]]></title>
+        <id>https://medium.com/p/a2e055089831</id>
+        <link href="https://coinsbench.com/what-is-smart-contract-auditing-and-why-you-should-care-a2e055089831?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-28T15:41:41.000Z</updated>
+        <summary type="html"><![CDATA[Smart contract auditing involves a thorough review of a contract’s code to uncover vulnerabilities, bugs, or potential security gaps.]]></summary>
+        <author>
+            <name>0xHermes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tenderly App — a Swiss Pocketknife for the Web3 developer]]></title>
+        <id>https://medium.com/p/89bb904bee46</id>
+        <link href="https://coinsbench.com/tenderly-app-a-swiss-pocketknife-for-the-web3-developer-89bb904bee46?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-28T15:41:37.000Z</updated>
+        <summary type="html"><![CDATA[Tenderly is an Ethereum Developer Platform with deep functionality across debugging, testing, monitoring, alerting, etc]]></summary>
+        <author>
+            <name>Officer's Notes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tips for Solidity Code Auditors]]></title>
         <id>https://medium.com/p/2e085aa54742</id>
@@ -201,16 +231,6 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Solana Network]]></title>
-        <id>https://medium.com/p/726b31c074f6</id>
-        <link href="https://coinsbench.com/the-solana-network-726b31c074f6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-25T16:23:18.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Esther Oche</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Proof Of Talk: The Cryptocurrency Podcast Ep 6 – Cheelee and Web3 Social Media with Viktoriia]]></title>
         <id>https://www.cryptomaton.org/?p=1595</id>
         <link href="https://www.cryptomaton.org/2023/10/22/proof-of-talk-the-cryptocurrency-podcast-ep-6-cheelee-and-web3-social-media-with-viktoriia/"/>
@@ -230,16 +250,6 @@ The post Proof Of Talk: The Cryptocurrency Podcast Ep 6 – Cheelee and Web3 Soc
 The post The Death of Reddit’s Community Points — One For The History Books appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Smart Contract Interactions: A Guide to Multi Call integration in Web3 Front-End DApp]]></title>
-        <id>https://medium.com/p/936331156b57</id>
-        <link href="https://coinsbench.com/optimizing-smart-contract-interactions-a-guide-to-multi-call-integration-in-web3-front-end-dapp-936331156b57?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-19T14:12:52.000Z</updated>
-        <summary type="html"><![CDATA[Each transaction incurs a gas fee. Executing calls individually is costly. Multi Call reduces expenses, offering an efficient solution.]]></summary>
-        <author>
-            <name>Leonardo Simone Digiorgio</name>
         </author>
     </entry>
     <entry>

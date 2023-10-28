@@ -59,6 +59,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a2e055089831",
+          "author": "0xHermes",
+          "description": "Smart contract auditing involves a thorough review of a contract’s code to uncover vulnerabilities, bugs, or potential security gaps.",
+          "link": "https://coinsbench.com/what-is-smart-contract-auditing-and-why-you-should-care-a2e055089831?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-28T15:41:41.000Z",
+          "wordCount": 4656,
+          "title": "What Is Smart Contract Auditing And Why You Should Care",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*6CiCK7YdnLMyjbNI0d9afA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/89bb904bee46",
+          "author": "Officer's Notes",
+          "description": "Tenderly is an Ethereum Developer Platform with deep functionality across debugging, testing, monitoring, alerting, etc",
+          "link": "https://coinsbench.com/tenderly-app-a-swiss-pocketknife-for-the-web3-developer-89bb904bee46?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-28T15:41:37.000Z",
+          "wordCount": 5612,
+          "title": "Tenderly App — a Swiss Pocketknife for the Web3 developer",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*2vRR4JHFX1JkpAVZ"
+        },
+        {
           "id": "https://medium.com/p/d7bc94e8fee8",
           "author": "Leonardo Simone Digiorgio",
           "description": "In the world of Web3 application development, WalletConnect and Wagmi are two powerful tools that empower developers to create seamless …",
@@ -137,26 +157,6 @@
           "wordCount": 2380,
           "title": "Demystifying Leverage Trading, With A DeFi Example",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*-M2dTQm4LJmzS68_"
-        },
-        {
-          "id": "https://medium.com/p/726b31c074f6",
-          "author": "Esther Oche",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/the-solana-network-726b31c074f6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-25T16:23:18.000Z",
-          "wordCount": 3225,
-          "title": "The Solana Network",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xwGH2YjAmYtHt41Ss_tqNQ.png"
-        },
-        {
-          "id": "https://medium.com/p/936331156b57",
-          "author": "Leonardo Simone Digiorgio",
-          "description": "Each transaction incurs a gas fee. Executing calls individually is costly. Multi Call reduces expenses, offering an efficient solution.",
-          "link": "https://coinsbench.com/optimizing-smart-contract-interactions-a-guide-to-multi-call-integration-in-web3-front-end-dapp-936331156b57?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-19T14:12:52.000Z",
-          "wordCount": 3336,
-          "title": "Optimizing Smart Contract Interactions: A Guide to Multi Call integration in Web3 Front-End DApp",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xWMB_zABt7EAAPTQUhdx3A.png"
         }
       ]
     },
@@ -201,7 +201,7 @@
           "description": "The stock market is often seen as a barometer of the economy. It reflects the confidence and expectations of investors. But what if the stock market is not telling us the whole truth? What if…",
           "link": "https://medium.com/coinmonks/is-the-stock-market-dying-whats-ahead-don-t-invest-without-this-analysis-d2d439eaeb2b?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-27T09:47:28.000Z",
-          "wordCount": 4825,
+          "wordCount": 4923,
           "title": "Will The Stock Market Chrash? What’s ahead? Don’t Invest Without This Analysis",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*5R3CitXYyE-edaB3.png"
         },
@@ -231,7 +231,7 @@
           "description": "Blockchain security firm Hacken has shown the increase of hacks and scams on a quarter-by-quarter basis in 2023.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/quarter-to-quarter-increase-in-hacks-during-2023-2ceb37f512a1?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-27T09:47:24.000Z",
-          "wordCount": 2396,
+          "wordCount": 2385,
           "title": "Quarter to Quarter Increase in Hacks during 2023",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jhkza70VfNTnTmC7BkDBqQ.jpeg"
         },
@@ -261,7 +261,7 @@
           "description": "In the ever-evolving world of cryptocurrencies, innovation and disruption are the key drivers of progress. Safeth, a forward-thinking project in the Hedera ecosystem, has introduced a groundbreaking…",
           "link": "https://medium.com/coinmonks/safeths-placeholder-tokens-pioneering-a-new-breed-in-crypto-cceb9913e4b6?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-27T09:47:18.000Z",
-          "wordCount": 2837,
+          "wordCount": 2851,
           "title": "Safeth’s Placeholder Tokens: Pioneering a New Breed in Crypto",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*P6JVznAGRInI6Cwq5SHGIQ.jpeg"
         }
@@ -273,12 +273,22 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/bb11294b4a22",
+          "author": "karthik Ganti",
+          "description": "Ethereum development has been revolutionized with the advent of tools like Hardhat. If you’re a software professional looking to…",
+          "link": "https://blog.blockmagnates.com/building-smart-contracts-like-a-pro-a-comprehensive-guide-to-using-hardhat-part-1-bb11294b4a22?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-10-28T15:46:24.000Z",
+          "wordCount": 2976,
+          "title": "Building Smart Contracts Like a Pro: A Comprehensive Guide to Using HardHat — Part 1",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:499/1*O-xWM-YBZ34XSr4JSZnUDA.jpeg"
+        },
+        {
           "id": "https://medium.com/p/2e085aa54742",
           "author": "Officer's Notes",
           "description": "Gaining the most elusive of tips. Add your input and let’s collect them all!",
           "link": "https://blog.blockmagnates.com/tips-for-solidity-code-auditors-2e085aa54742?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-10-27T15:06:59.000Z",
-          "wordCount": 3819,
+          "wordCount": 3811,
           "title": "Tips for Solidity Code Auditors",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Ak3O_wE20WdTKKyGERqEAQ.jpeg"
         },
