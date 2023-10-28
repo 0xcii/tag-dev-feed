@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-28T11:08:49.140Z</id>
+    <id>urn:2023-10-28T12:19:52.825Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-28T11:08:49.140Z</updated>
+    <updated>2023-10-28T12:19:52.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,6 @@
         <id>https://medium.com/p/2e085aa54742</id>
         <link href="https://blog.blockmagnates.com/tips-for-solidity-code-auditors-2e085aa54742?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-10-27T15:06:59.000Z</updated>
-        <summary type="html"><![CDATA[Gaining the most elusive of tips. Add your input and let’s collect them all!]]></summary>
         <author>
             <name>Officer's Notes</name>
         </author>
@@ -20,7 +19,6 @@
         <id>https://medium.com/p/d7bc94e8fee8</id>
         <link href="https://coinsbench.com/the-power-of-walletconnect-web3modal-and-wagmi-viem-version-d7bc94e8fee8?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-27T14:58:04.000Z</updated>
-        <summary type="html"><![CDATA[In the world of Web3 application development, WalletConnect and Wagmi are two powerful tools that empower developers to create seamless …]]></summary>
         <author>
             <name>Leonardo Simone Digiorgio</name>
         </author>
@@ -30,7 +28,6 @@
         <id>https://medium.com/p/5d36733f891f</id>
         <link href="https://coinsbench.com/account-abstraction-on-ethereum-network-5d36733f891f?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-27T14:57:58.000Z</updated>
-        <summary type="html"><![CDATA[UUsers can sign messages with the private key on the Ethereum blockchain in the form of transaction and contract execution or deployment…]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
@@ -40,7 +37,6 @@
         <id>https://medium.com/p/ada90a298300</id>
         <link href="https://coinsbench.com/mastering-solidity-exploration-of-design-patterns-and-best-practices-for-crafting-secure-ada90a298300?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-27T14:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology has rapidly transformed various industries by introducing decentralized, trustless systems. At the heart of these…]]></summary>
         <author>
             <name>Jeffery Oke-Samuel</name>
         </author>
@@ -50,7 +46,6 @@
         <id>https://medium.com/p/bfc34ff7680a</id>
         <link href="https://coinsbench.com/rareskills-solidity-interview-question-12-answered-what-hash-function-does-ethereum-primarily-use-bfc34ff7680a?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-27T14:57:32.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
         </author>
@@ -60,7 +55,6 @@
         <id>https://medium.com/p/9c9a0e57be6a</id>
         <link href="https://coinsbench.com/off-chain-methodology-a-perfect-fit-9c9a0e57be6a?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-27T14:57:25.000Z</updated>
-        <summary type="html"><![CDATA[The title “An OFF chain methodology-a perfect fit” is appropriate given the abundance of useful parameters. Let’s see]]></summary>
         <author>
             <name>Priyansh saxena</name>
         </author>
@@ -174,7 +168,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/6cf2a0f95dcf</id>
         <link href="https://coinsbench.com/building-on-base-goerli-with-coinbasewallet-sdk-and-wagmi-viem-version-6cf2a0f95dcf?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-25T16:26:48.000Z</updated>
-        <summary type="html"><![CDATA[Connecting applications to users and seamlessly connecting to Ethereum’s ecosystem is central to the ever-evolving decentralized …]]></summary>
         <author>
             <name>Leonardo Simone Digiorgio</name>
         </author>
@@ -205,7 +198,6 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/726b31c074f6</id>
         <link href="https://coinsbench.com/the-solana-network-726b31c074f6?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-25T16:23:18.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
@@ -237,7 +229,6 @@ The post The Death of Reddit’s Community Points — One For The History Books 
         <id>https://medium.com/p/936331156b57</id>
         <link href="https://coinsbench.com/optimizing-smart-contract-interactions-a-guide-to-multi-call-integration-in-web3-front-end-dapp-936331156b57?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-19T14:12:52.000Z</updated>
-        <summary type="html"><![CDATA[Each transaction incurs a gas fee. Executing calls individually is costly. Multi Call reduces expenses, offering an efficient solution.]]></summary>
         <author>
             <name>Leonardo Simone Digiorgio</name>
         </author>
