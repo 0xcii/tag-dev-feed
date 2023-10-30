@@ -176,12 +176,42 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/799060abdb67",
+          "author": "Biswashree Dey",
+          "description": "A primer for understanding the mathematical insights used to build ZK.",
+          "link": "https://medium.com/coinmonks/maths-logic-for-zero-knowledge-proofs-simplified-part-6-799060abdb67?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-10-30T12:14:37.000Z",
+          "wordCount": 6107,
+          "title": "Maths & Logic for Zero-knowledge Proofs (simplified) — Part 6",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*To1RGYVS1GD1xmj-J9iLqQ.png"
+        },
+        {
+          "id": "https://medium.com/p/0fa889310b3a",
+          "author": "Coin Genetics",
+          "description": "Hey there, my fellow crypto enthusiasts! 😄 Durgesh is in the house, and today, we’re talking about an essential question: How much of your…",
+          "link": "https://medium.com/coinmonks/how-much-of-your-wealth-should-you-invest-in-crypto-to-minimize-losses-even-if-its-value-drops-0fa889310b3a?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-10-30T12:14:08.000Z",
+          "wordCount": 2960,
+          "title": "How much of your wealth should you invest in crypto to minimize losses even if its value drops?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/83eee4d5c2c5",
+          "author": "CryptOK",
+          "description": "What’s next for crypto?\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/bitcoin-will-be-worth-this-much-after-the-etf-approval-83eee4d5c2c5?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-10-30T12:14:07.000Z",
+          "wordCount": 2307,
+          "title": "Bitcoin will be worth *THIS* much after the ETF approval",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:626/0*9VRKu-W443st0exZ"
+        },
+        {
           "id": "https://medium.com/p/8057ab9f9e72",
           "author": "Christinapaul",
           "description": "Stay ahead in the world of cryptocurrencies and blockchain marketing in 2023. Explore the top trends in crypto marketing services, from NFT…",
           "link": "https://medium.com/coinmonks/key-trends-in-crypto-coin-marketing-services-for-2023-2024-8057ab9f9e72?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-30T11:43:56.000Z",
-          "wordCount": 4223,
+          "wordCount": 4234,
           "title": "Key Trends in Crypto Coin Marketing Services for 2023–2024",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*W7J-Mbc-QU6-sCX8FyCofQ.png"
         },
@@ -191,7 +221,7 @@
           "description": "The world of NFTs has taken the digital realm by storm, and as the spooky season approaches, it’s only fitting to explore some of the most…",
           "link": "https://medium.com/coinmonks/halloween-nft-collections-for-spooky-season-in-2023-272ece32bb6e?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-30T11:43:54.000Z",
-          "wordCount": 4243,
+          "wordCount": 4230,
           "title": "Hauntingly Good Investments: Exploring Halloween NFT Collections for Spooky Season in 2023",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*_t0Ap1ojAiAPkUPLCPzN6Q.jpeg"
         },
@@ -221,7 +251,7 @@
           "description": "As the world of decentralized finance undergoes rapid evolution, the sphere of Initial Decentralized Offerings is set to take center stage…",
           "link": "https://medium.com/coinmonks/top-10-ido-development-frequently-asked-questions-for-2023-ido-development-a49ec2aaa282?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-30T11:43:47.000Z",
-          "wordCount": 3931,
+          "wordCount": 3868,
           "title": "Top 10 IDO Development Frequently Asked Questions for 2023: Perspectives from an IDO Development…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:770/1*wJKb6AuUoILaS0Oym78xEg.jpeg"
         },
@@ -231,7 +261,7 @@
           "description": "Was Bankman-Fried’s ‘Boy Genius’ Persona a Masterful Deception?",
           "link": "https://medium.com/coinmonks/is-caroline-ellison-the-whistleblower-or-the-puppetmaster-in-the-ftx-drama-7a541f4bd41b?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-30T11:09:51.000Z",
-          "wordCount": 2703,
+          "wordCount": 2798,
           "title": "Is Caroline Ellison the Whistleblower or the Puppetmaster in the FTX Drama?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*J5vTbOFE27-Q8WKp6befew.png"
         },
@@ -241,39 +271,9 @@
           "description": "Namada might be the best solution to having some privacy on-chain",
           "link": "https://medium.com/coinmonks/namada-redefining-privacy-710c6d69e8fa?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-30T11:06:47.000Z",
-          "wordCount": 2924,
+          "wordCount": 2889,
           "title": "Namada — redefining privacy",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*44NyJ7XUx7xJi1va.jpg"
-        },
-        {
-          "id": "https://medium.com/p/04e3d9d80b5e",
-          "author": "Lauri Peltonen",
-          "description": "We all want to learn Rust. Right? And we all want to learn Zero Knowledge… Right??",
-          "link": "https://medium.com/coinmonks/dance-with-rust-and-zero-knowledge-04e3d9d80b5e?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-10-30T11:06:40.000Z",
-          "wordCount": 2756,
-          "title": "Dance with Rust and Zero Knowledge",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:409/1*h3q2bj5PMoLkjryDP1KyKw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/7004598ef838",
-          "author": "Rayhan Khan",
-          "description": "In an era of unparalleled technological progress and global interconnectivity, one prediction made over a century ago continues to send chills down the spines of those who explore the realm of…",
-          "link": "https://medium.com/coinmonks/decoding-the-mysterious-prophecy-of-the-impending-global-conflict-7004598ef838?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-10-30T11:06:39.000Z",
-          "wordCount": 2874,
-          "title": "Decoding the Mysterious Prophecy of the Impending Global Conflict",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:360/1*VhgIkg2rhtlDIDfb8lMmeQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e5a631082ac1",
-          "author": "Sesterce Money",
-          "description": "Diversification is the ongoing process of allocating, and reallocating your financial resources across a requisite number of asset classes…",
-          "link": "https://medium.com/coinmonks/portfolio-diversification-adding-cryptocurrency-e5a631082ac1?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-10-30T11:06:37.000Z",
-          "wordCount": 4082,
-          "title": "Portfolio Diversification — Adding Cryptocurrency",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1195/1*86pzpLg-0xEopQw1RIw4dA.png"
         }
       ]
     },
