@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-31T11:10:04.285Z</id>
+    <id>urn:2023-10-31T12:22:34.436Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-31T11:10:04.285Z</updated>
+    <updated>2023-10-31T12:22:34.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity with Hardhat Overview]]></title>
+        <id>https://medium.com/p/a46a9a6ba878</id>
+        <link href="https://coinsbench.com/solidity-with-hardhat-overview-a46a9a6ba878?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-31T12:18:29.000Z</updated>
+        <summary type="html"><![CDATA[The crypto space moves at a rapid rate, including development tools used – the use of Truffle morphed into Hardhat. Why Hardhat? Hardhat is more flexible to use than Truffle. Lots of development in…]]></summary>
+        <author>
+            <name>Sam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Virtual Machine (EVM)]]></title>
+        <id>https://medium.com/p/bea6b4b887ca</id>
+        <link href="https://coinsbench.com/ethereum-virtual-machine-evm-bea6b4b887ca?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-31T12:18:25.000Z</updated>
+        <summary type="html"><![CDATA[What is Ethereum Virtual Machine ?]]></summary>
+        <author>
+            <name>Esther Oche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empowering Individuals: Decentralized Identity Management with Solidity and Ethereum]]></title>
+        <id>https://medium.com/p/479dc237a75f</id>
+        <link href="https://coinsbench.com/empowering-individuals-decentralized-identity-management-with-solidity-and-ethereum-479dc237a75f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-31T12:18:23.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Kuuku Baffoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Practices in Solidity: Writing Clean, Efficient, and Maintainable Code]]></title>
+        <id>https://medium.com/p/4d07be424b90</id>
+        <link href="https://coinsbench.com/best-practices-in-solidity-writing-clean-efficient-and-maintainable-code-4d07be424b90?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-31T12:18:21.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, the programming language for Ethereum smart contracts, is a powerful tool for creating decentralized applications. However…]]></summary>
+        <author>
+            <name>Jeffery Oke-Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you have been scammed…]]></title>
+        <id>https://medium.com/p/9ce21ee120e6</id>
+        <link href="https://coinsbench.com/if-you-have-been-scammed-9ce21ee120e6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-10-31T12:18:19.000Z</updated>
+        <summary type="html"><![CDATA[By officercia.eth]]></summary>
+        <author>
+            <name>Officer's Notes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Importance of Pips in Forex Trading: A Complete Guide]]></title>
         <id>https://medium.com/p/2ead2796e7dd</id>
@@ -176,56 +226,6 @@ The post Things I did in the Bear Market — Spent 2 Years Building A Crypto
         <summary type="html"><![CDATA[UUsers can sign messages with the private key on the Ethereum blockchain in the form of transaction and contract execution or deployment…]]></summary>
         <author>
             <name>Esther Oche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Solidity: Exploration of Design Patterns and Best Practices for Crafting Secure…]]></title>
-        <id>https://medium.com/p/ada90a298300</id>
-        <link href="https://coinsbench.com/mastering-solidity-exploration-of-design-patterns-and-best-practices-for-crafting-secure-ada90a298300?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-27T14:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology has rapidly transformed various industries by introducing decentralized, trustless systems. At the heart of these…]]></summary>
-        <author>
-            <name>Jeffery Oke-Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #12 Answered: What hash function does Ethereum primarily use?]]></title>
-        <id>https://medium.com/p/bfc34ff7680a</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-12-answered-what-hash-function-does-ethereum-primarily-use-bfc34ff7680a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-27T14:57:32.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OFF-Chain Methodology: A Perfect Fit]]></title>
-        <id>https://medium.com/p/9c9a0e57be6a</id>
-        <link href="https://coinsbench.com/off-chain-methodology-a-perfect-fit-9c9a0e57be6a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-27T14:57:25.000Z</updated>
-        <summary type="html"><![CDATA[The title “An OFF chain methodology-a perfect fit” is appropriate given the abundance of useful parameters. Let’s see]]></summary>
-        <author>
-            <name>Priyansh saxena</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building on Base (Goerli) with CoinbaseWallet SDK and Wagmi (Viem version)]]></title>
-        <id>https://medium.com/p/6cf2a0f95dcf</id>
-        <link href="https://coinsbench.com/building-on-base-goerli-with-coinbasewallet-sdk-and-wagmi-viem-version-6cf2a0f95dcf?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-25T16:26:48.000Z</updated>
-        <summary type="html"><![CDATA[Connecting applications to users and seamlessly connecting to Ethereum’s ecosystem is central to the ever-evolving decentralized …]]></summary>
-        <author>
-            <name>Leonardo Simone Digiorgio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Decentralized Freelancer Marketplace with React, Solidity, and CometChat]]></title>
-        <id>https://medium.com/p/c05207a564b7</id>
-        <link href="https://coinsbench.com/build-a-decentralized-freelancer-marketplace-with-react-solidity-and-cometchat-c05207a564b7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-25T16:23:25.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build a decentralized freelance marketplace like Upwork using React, Solidity, and CometChat. In this step-by-step tutorial…]]></summary>
-        <author>
-            <name>Darlington Gospel</name>
         </author>
     </entry>
     <entry>

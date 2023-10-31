@@ -69,6 +69,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a46a9a6ba878",
+          "author": "Sam",
+          "description": "The crypto space moves at a rapid rate, including development tools used – the use of Truffle morphed into Hardhat. Why Hardhat? Hardhat is more flexible to use than Truffle. Lots of development in…",
+          "link": "https://coinsbench.com/solidity-with-hardhat-overview-a46a9a6ba878?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-31T12:18:29.000Z",
+          "wordCount": 2241,
+          "title": "Solidity with Hardhat Overview",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1170/1*x16AAN83GyYBFCdhbl2-cA@2x.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/bea6b4b887ca",
+          "author": "Esther Oche",
+          "description": "What is Ethereum Virtual Machine ?",
+          "link": "https://coinsbench.com/ethereum-virtual-machine-evm-bea6b4b887ca?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-31T12:18:25.000Z",
+          "wordCount": 3383,
+          "title": "Ethereum Virtual Machine (EVM)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8uwb9SIz1fpJfeAH4QVtYA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/479dc237a75f",
+          "author": "Kuuku Baffoe",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/empowering-individuals-decentralized-identity-management-with-solidity-and-ethereum-479dc237a75f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-31T12:18:23.000Z",
+          "wordCount": 2797,
+          "title": "Empowering Individuals: Decentralized Identity Management with Solidity and Ethereum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4d07be424b90",
+          "author": "Jeffery Oke-Samuel",
+          "description": "Solidity, the programming language for Ethereum smart contracts, is a powerful tool for creating decentralized applications. However…",
+          "link": "https://coinsbench.com/best-practices-in-solidity-writing-clean-efficient-and-maintainable-code-4d07be424b90?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-31T12:18:21.000Z",
+          "wordCount": 3001,
+          "title": "Best Practices in Solidity: Writing Clean, Efficient, and Maintainable Code",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*op4Z5k0r2lg85CNkqdSzbg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/9ce21ee120e6",
+          "author": "Officer's Notes",
+          "description": "By officercia.eth",
+          "link": "https://coinsbench.com/if-you-have-been-scammed-9ce21ee120e6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-10-31T12:18:19.000Z",
+          "wordCount": 2918,
+          "title": "If you have been scammed…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1rdxIRSm4MA-qfP0vtQplQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/09c8cd31f839",
           "author": "Solidity Academy",
           "description": "Navigating the Web3 Ecosystem with Blockchain Bridges",
@@ -117,56 +167,6 @@
           "wordCount": 4298,
           "title": "Account Abstraction on Ethereum Network",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*CRV4bqt86s6Vl8WeroIM2A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ada90a298300",
-          "author": "Jeffery Oke-Samuel",
-          "description": "Blockchain technology has rapidly transformed various industries by introducing decentralized, trustless systems. At the heart of these…",
-          "link": "https://coinsbench.com/mastering-solidity-exploration-of-design-patterns-and-best-practices-for-crafting-secure-ada90a298300?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-27T14:57:35.000Z",
-          "wordCount": 2744,
-          "title": "Mastering Solidity: Exploration of Design Patterns and Best Practices for Crafting Secure…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*op4Z5k0r2lg85CNkqdSzbg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/bfc34ff7680a",
-          "author": "Faybian Byrd",
-          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
-          "link": "https://coinsbench.com/rareskills-solidity-interview-question-12-answered-what-hash-function-does-ethereum-primarily-use-bfc34ff7680a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-27T14:57:32.000Z",
-          "wordCount": 2385,
-          "title": "RareSkills Solidity Interview Question #12 Answered: What hash function does Ethereum primarily use?",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/1*AxbqR3iYsdBnbzX5C5bFOw.gif"
-        },
-        {
-          "id": "https://medium.com/p/9c9a0e57be6a",
-          "author": "Priyansh saxena",
-          "description": "The title “An OFF chain methodology-a perfect fit” is appropriate given the abundance of useful parameters. Let’s see",
-          "link": "https://coinsbench.com/off-chain-methodology-a-perfect-fit-9c9a0e57be6a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-27T14:57:25.000Z",
-          "wordCount": 3722,
-          "title": "OFF-Chain Methodology: A Perfect Fit",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1186/1*ojpUfsq3oS_fQiGSavKcGw.png"
-        },
-        {
-          "id": "https://medium.com/p/6cf2a0f95dcf",
-          "author": "Leonardo Simone Digiorgio",
-          "description": "Connecting applications to users and seamlessly connecting to Ethereum’s ecosystem is central to the ever-evolving decentralized …",
-          "link": "https://coinsbench.com/building-on-base-goerli-with-coinbasewallet-sdk-and-wagmi-viem-version-6cf2a0f95dcf?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-25T16:26:48.000Z",
-          "wordCount": 5594,
-          "title": "Building on Base (Goerli) with CoinbaseWallet SDK and Wagmi (Viem version)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UjW8OVwX_ZIuASb5HDNIhw.png"
-        },
-        {
-          "id": "https://medium.com/p/c05207a564b7",
-          "author": "Darlington Gospel",
-          "description": "Learn how to build a decentralized freelance marketplace like Upwork using React, Solidity, and CometChat. In this step-by-step tutorial…",
-          "link": "https://coinsbench.com/build-a-decentralized-freelancer-marketplace-with-react-solidity-and-cometchat-c05207a564b7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-25T16:23:25.000Z",
-          "wordCount": 10528,
-          "title": "Build a Decentralized Freelancer Marketplace with React, Solidity, and CometChat",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*pCvGCUGGNXPN7SEYrJx4CA.png"
         }
       ]
     },
@@ -231,7 +231,7 @@
           "description": "Welcome back to Token Talk, your guiding light through the vast universe of cryptocurrencies. In our previous discussion, we delved into…",
           "link": "https://medium.com/coinmonks/token-talk-3-ethereum-the-world-of-smart-contracts-b3e57bc25291?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-31T05:43:14.000Z",
-          "wordCount": 8080,
+          "wordCount": 8079,
           "title": "Token Talk #3: Ethereum — The World of Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*VcU1UbLkfyANU7yG"
         },
@@ -251,7 +251,7 @@
           "description": "Maximize Crowdsale Success with Expert ICO Software Development Services",
           "link": "https://medium.com/coinmonks/ico-software-development-services-663cd9d54413?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-31T05:43:11.000Z",
-          "wordCount": 4668,
+          "wordCount": 4681,
           "title": "How ICO Software Development Services Can Boost Your Crowdsale",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KKe-Mx8JGqINdllYBBxdng.png"
         },
