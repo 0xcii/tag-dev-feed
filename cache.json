@@ -154,7 +154,7 @@
           "description": "In the world of Web3 application development, WalletConnect and Wagmi are two powerful tools that empower developers to create seamless …",
           "link": "https://coinsbench.com/the-power-of-walletconnect-web3modal-and-wagmi-viem-version-d7bc94e8fee8?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-27T14:58:04.000Z",
-          "wordCount": 4591,
+          "wordCount": 4543,
           "title": "The Power of WalletConnect (Web3Modal) and Wagmi (Viem version)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yq4UDf_NRbm5XtSc5jqF5g.png"
         },
@@ -181,7 +181,7 @@
           "description": "To be successful in forex trading, traders must understand a variety of phrases and concepts. The pip is one of the most significant ideas…",
           "link": "https://medium.com/coinmonks/the-importance-of-pips-in-forex-trading-a-complete-guide-2ead2796e7dd?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-31T06:00:21.000Z",
-          "wordCount": 3860,
+          "wordCount": 3861,
           "title": "The Importance of Pips in Forex Trading: A Complete Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:744/1*uJwPdLrEM9zj_Y9mnATDSQ.png"
         },
@@ -201,7 +201,7 @@
           "description": "In the fast-paced world of cryptocurrency and blockchain technology, having an engaged community around your project is absolutely essential. But with investors spread across various social…",
           "link": "https://medium.com/coinmonks/using-discord-for-crypto-community-building-c089fac236c4?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-31T05:43:19.000Z",
-          "wordCount": 3987,
+          "wordCount": 4012,
           "title": "Using Discord for Crypto Community Building",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:845/1*dD1k7JVL5ukwOrfl2yHVcg.jpeg"
         },
@@ -251,7 +251,7 @@
           "description": "Maximize Crowdsale Success with Expert ICO Software Development Services",
           "link": "https://medium.com/coinmonks/ico-software-development-services-663cd9d54413?source=rss----721b17443fd5---4",
           "publishedOn": "2023-10-31T05:43:11.000Z",
-          "wordCount": 4668,
+          "wordCount": 4647,
           "title": "How ICO Software Development Services Can Boost Your Crowdsale",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KKe-Mx8JGqINdllYBBxdng.png"
         },
@@ -308,18 +308,7 @@
       "title": "Developer DAO Blog | Web3 Tutorials",
       "feedUrl": "https://blog.developerdao.com/rss.xml",
       "siteUrl": "https://blog.developerdao.com",
-      "articles": [
-        {
-          "id": "https://blog.developerdao.com/how-to-deploy-your-own-hyperlane-on-polygon-zkevm",
-          "author": "megabyte",
-          "description": "gm gm gm!!!  \nNew chains are popping up by the minute, so getting liquidity there is a burning issue. Hyperlane tries to solve this with permissionless bridges. Hyperlane is a permissionless protocol, which means you can deploy your own Hyperlane on any chain without asking the core team. In this guide, you will learn how to deploy Hyperlane on Polygon zkEVM Testnet, Polygon Mumbai Testnet and Sepolia.\nThere are five steps we need to follow so LFG🚀\n\nPrerequisites\nYarn\nGit and GitHub knowledge\nUnderstanding of blockchain\nOptional: Solidity experience\n1. Setting Up the Keys\nDeploying Hyperlane includes smart contracts, validators, and relayers, each requiring a key pair.\nThe Deployment Keys\nTo deploy smart contracts, you must have a key pair with the funds for all the chains you will be dep…",
-          "link": "https://blog.developerdao.com/how-to-deploy-your-own-hyperlane-on-polygon-zkevm",
-          "publishedOn": "2023-10-02T09:40:51.000Z",
-          "wordCount": 8031,
-          "title": "How to Deploy Your Own Hyperlane on Polygon zkEVM",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1696239581849%2F14022650-206f-47ef-865b-c13d4bfed913.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
