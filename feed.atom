@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-01T07:11:40.800Z</id>
+    <id>urn:2023-11-01T08:15:08.280Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-01T07:11:40.800Z</updated>
+    <updated>2023-11-01T08:15:08.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Protecting Your Digital Assets: A Comprehensive Guide to Identifying NFT and ERC-20 Spam and Scam…]]></title>
+        <id>https://medium.com/p/9dcaf3101a32</id>
+        <link href="https://coinsbench.com/protecting-your-digital-assets-a-comprehensive-guide-to-identifying-nft-and-erc-20-spam-and-scam-9dcaf3101a32?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-01T08:03:01.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-paced world of cryptocurrency and blockchain technology, security is paramount. As digital assets continue to gain popularity…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solidity with Hardhat Overview]]></title>
         <id>https://medium.com/p/a46a9a6ba878</id>
@@ -216,16 +226,6 @@ The post Things I did in the Bear Market — Spent 2 Years Building A Crypto
         <summary type="html"><![CDATA[In the world of Web3 application development, WalletConnect and Wagmi are two powerful tools that empower developers to create seamless …]]></summary>
         <author>
             <name>Leonardo Simone Digiorgio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Account Abstraction on Ethereum Network]]></title>
-        <id>https://medium.com/p/5d36733f891f</id>
-        <link href="https://coinsbench.com/account-abstraction-on-ethereum-network-5d36733f891f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-27T14:57:58.000Z</updated>
-        <summary type="html"><![CDATA[UUsers can sign messages with the private key on the Ethereum blockchain in the form of transaction and contract execution or deployment…]]></summary>
-        <author>
-            <name>Esther Oche</name>
         </author>
     </entry>
     <entry>
