@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-01T12:22:44.398Z</id>
+    <id>urn:2023-11-01T13:13:58.507Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-01T12:22:44.398Z</updated>
+    <updated>2023-11-01T13:13:58.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My Journey from Newbie to Hackathon Champion]]></title>
+        <id>https://blog.developerdao.com/my-journey-from-newbie-to-hackathon-champion</id>
+        <link href="https://blog.developerdao.com/my-journey-from-newbie-to-hackathon-champion"/>
+        <updated>2023-11-01T12:26:19.000Z</updated>
+        <summary type="html"><![CDATA[I was sitting in my bedroom, watching Silicon Valley, episode S4E1, when Russ asked Richard what the one thing he would build if he had unlimited time and resources. His answer was "a decentralized internet." And I was like, what the heck is that? That would be your reaction when you first heard about this fancy term.
+
+I had always been interested in computers and coding, and I had built all sorts of things, from Discord bots to Python scripts to simple WordPress sites and games. But after hearing about the decentralized internet, I knew that's what I wanted to focus on.
+Gm gm! My name is Vedant, and I'm a developer and technical writer. From the beginning, I've been passionate about creating things, just going out there and building stuff. Still, I never thought I could do something as am…]]></summary>
+        <author>
+            <name>Vedant Chainani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Protecting Your Digital Assets: A Comprehensive Guide to Identifying NFT and ERC-20 Spam and Scam…]]></title>
         <id>https://medium.com/p/9dcaf3101a32</id>
         <link href="https://coinsbench.com/protecting-your-digital-assets-a-comprehensive-guide-to-identifying-nft-and-erc-20-spam-and-scam-9dcaf3101a32?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-11-01T08:03:01.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced world of cryptocurrency and blockchain technology, security is paramount. As digital assets continue to gain popularity…]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -20,7 +32,6 @@
         <id>https://medium.com/p/a46a9a6ba878</id>
         <link href="https://coinsbench.com/solidity-with-hardhat-overview-a46a9a6ba878?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-31T12:18:29.000Z</updated>
-        <summary type="html"><![CDATA[The crypto space moves at a rapid rate, including development tools used – the use of Truffle morphed into Hardhat. Why Hardhat? Hardhat is more flexible to use than Truffle. Lots of development in…]]></summary>
         <author>
             <name>Sam</name>
         </author>
@@ -30,7 +41,6 @@
         <id>https://medium.com/p/bea6b4b887ca</id>
         <link href="https://coinsbench.com/ethereum-virtual-machine-evm-bea6b4b887ca?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-31T12:18:25.000Z</updated>
-        <summary type="html"><![CDATA[What is Ethereum Virtual Machine ?]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
@@ -40,7 +50,6 @@
         <id>https://medium.com/p/479dc237a75f</id>
         <link href="https://coinsbench.com/empowering-individuals-decentralized-identity-management-with-solidity-and-ethereum-479dc237a75f?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-31T12:18:23.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Kuuku Baffoe</name>
         </author>
@@ -50,7 +59,6 @@
         <id>https://medium.com/p/4d07be424b90</id>
         <link href="https://coinsbench.com/best-practices-in-solidity-writing-clean-efficient-and-maintainable-code-4d07be424b90?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-31T12:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Solidity, the programming language for Ethereum smart contracts, is a powerful tool for creating decentralized applications. However…]]></summary>
         <author>
             <name>Jeffery Oke-Samuel</name>
         </author>
@@ -60,7 +68,6 @@
         <id>https://medium.com/p/9ce21ee120e6</id>
         <link href="https://coinsbench.com/if-you-have-been-scammed-9ce21ee120e6?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-31T12:18:19.000Z</updated>
-        <summary type="html"><![CDATA[By officercia.eth]]></summary>
         <author>
             <name>Officer's Notes</name>
         </author>
@@ -183,7 +190,6 @@ The post Things I did in the Bear Market — Spent 2 Years Building A Crypto
         <id>https://medium.com/p/09c8cd31f839</id>
         <link href="https://coinsbench.com/blockchain-bridges-09c8cd31f839?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-28T17:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Navigating the Web3 Ecosystem with Blockchain Bridges]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -193,7 +199,6 @@ The post Things I did in the Bear Market — Spent 2 Years Building A Crypto
         <id>https://medium.com/p/bb11294b4a22</id>
         <link href="https://blog.blockmagnates.com/building-smart-contracts-like-a-pro-a-comprehensive-guide-to-using-hardhat-part-1-bb11294b4a22?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-10-28T15:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum development has been revolutionized with the advent of tools like Hardhat. If you’re a software professional looking to…]]></summary>
         <author>
             <name>karthik Ganti</name>
         </author>
@@ -203,7 +208,6 @@ The post Things I did in the Bear Market — Spent 2 Years Building A Crypto
         <id>https://medium.com/p/a2e055089831</id>
         <link href="https://coinsbench.com/what-is-smart-contract-auditing-and-why-you-should-care-a2e055089831?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-28T15:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Smart contract auditing involves a thorough review of a contract’s code to uncover vulnerabilities, bugs, or potential security gaps.]]></summary>
         <author>
             <name>0xHermes</name>
         </author>
@@ -213,7 +217,6 @@ The post Things I did in the Bear Market — Spent 2 Years Building A Crypto
         <id>https://medium.com/p/89bb904bee46</id>
         <link href="https://coinsbench.com/tenderly-app-a-swiss-pocketknife-for-the-web3-developer-89bb904bee46?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-28T15:41:37.000Z</updated>
-        <summary type="html"><![CDATA[Tenderly is an Ethereum Developer Platform with deep functionality across debugging, testing, monitoring, alerting, etc]]></summary>
         <author>
             <name>Officer's Notes</name>
         </author>
@@ -223,7 +226,6 @@ The post Things I did in the Bear Market — Spent 2 Years Building A Crypto
         <id>https://medium.com/p/d7bc94e8fee8</id>
         <link href="https://coinsbench.com/the-power-of-walletconnect-web3modal-and-wagmi-viem-version-d7bc94e8fee8?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-10-27T14:58:04.000Z</updated>
-        <summary type="html"><![CDATA[In the world of Web3 application development, WalletConnect and Wagmi are two powerful tools that empower developers to create seamless …]]></summary>
         <author>
             <name>Leonardo Simone Digiorgio</name>
         </author>
