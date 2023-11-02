@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-02T18:14:55.747Z</id>
+    <id>urn:2023-11-02T19:09:18.504Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-02T18:14:55.747Z</updated>
+    <updated>2023-11-02T19:09:18.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lesser Known Reentrancy Attack Vectors and Safeguards in ERC721 and ERC1155 Contracts]]></title>
+        <id>https://medium.com/p/ac7cc5ff0614</id>
+        <link href="https://coinsbench.com/lesser-known-reentrancy-attack-vectors-and-safeguards-in-erc721-and-erc1155-contracts-ac7cc5ff0614?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-02T18:25:26.000Z</updated>
+        <summary type="html"><![CDATA[Expose on the most common vulnerability in Smart Contract Development.]]></summary>
+        <author>
+            <name>sandman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advantages of Hyperledger Fabric]]></title>
+        <id>https://medium.com/p/f83201d4b034</id>
+        <link href="https://coinsbench.com/advantages-of-hyperledger-fabric-f83201d4b034?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-02T18:25:24.000Z</updated>
+        <summary type="html"><![CDATA[A blockchain, or distributed ledger, enables only necessary information exchange. There are two types of blockchains — permissioned and…]]></summary>
+        <author>
+            <name>Sam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Tutorials]]></title>
+        <id>https://medium.com/p/4cbefdc3f5c7</id>
+        <link href="https://coinsbench.com/solidity-tutorials-4cbefdc3f5c7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-02T18:25:20.000Z</updated>
+        <summary type="html"><![CDATA[This compilation made with the support of my Dear friends! If you ever need an audit — head to my friend-company pessimistic.io | Public…]]></summary>
+        <author>
+            <name>Officer's Notes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All resources to become a smart contract auditor!]]></title>
+        <id>https://medium.com/p/ff4a85c99c05</id>
+        <link href="https://coinsbench.com/all-resources-to-become-a-smart-contract-auditor-ff4a85c99c05?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-02T18:25:18.000Z</updated>
+        <summary type="html"><![CDATA[This compilation made with the support of my Dear friends! If you ever need an audit — head to my friend-company pessimistic.io]]></summary>
+        <author>
+            <name>Officer's Notes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying Ethereum and Solidity: A Beginner’s Guide]]></title>
+        <id>https://medium.com/p/90c72499ed03</id>
+        <link href="https://coinsbench.com/demystifying-ethereum-and-solidity-a-beginners-guide-90c72499ed03?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-02T18:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology has been making waves in the world of finance and beyond, and one of its most exciting applications is Ethereum. Ethereum is not just a cryptocurrency; it’s a platform for…]]></summary>
+        <author>
+            <name>Sam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generation Z and Investments - Love at First Sight]]></title>
         <id>https://medium.com/p/e8de3ae561fb</id>
@@ -175,16 +225,6 @@ Gm gm! My name is Vedant, and I'm a developer and technical writer. From the beg
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If you have been scammed…]]></title>
-        <id>https://medium.com/p/9ce21ee120e6</id>
-        <link href="https://coinsbench.com/if-you-have-been-scammed-9ce21ee120e6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-31T12:18:19.000Z</updated>
-        <summary type="html"><![CDATA[By officercia.eth]]></summary>
-        <author>
-            <name>Officer's Notes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Things I did in the Bear Market — Spent 2 Years Building A Cryptocurrency Trading Bot Platform]]></title>
         <id>https://www.cryptomaton.org/?p=1601</id>
         <link href="https://www.cryptomaton.org/2023/10/29/algorithmic-cryptocurrency-trading-bot-platform-aesir/"/>
@@ -196,16 +236,6 @@ The post Things I did in the Bear Market — Spent 2 Years Building A Crypto
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blockchain Bridges]]></title>
-        <id>https://medium.com/p/09c8cd31f839</id>
-        <link href="https://coinsbench.com/blockchain-bridges-09c8cd31f839?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-28T17:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Navigating the Web3 Ecosystem with Blockchain Bridges]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building Smart Contracts Like a Pro: A Comprehensive Guide to Using HardHat — Part 1]]></title>
         <id>https://medium.com/p/bb11294b4a22</id>
         <link href="https://blog.blockmagnates.com/building-smart-contracts-like-a-pro-a-comprehensive-guide-to-using-hardhat-part-1-bb11294b4a22?source=rss----18fa961f1eff--solidity"/>
@@ -213,36 +243,6 @@ The post Things I did in the Bear Market — Spent 2 Years Building A Crypto
         <summary type="html"><![CDATA[Ethereum development has been revolutionized with the advent of tools like Hardhat. If you’re a software professional looking to…]]></summary>
         <author>
             <name>karthik Ganti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Smart Contract Auditing And Why You Should Care]]></title>
-        <id>https://medium.com/p/a2e055089831</id>
-        <link href="https://coinsbench.com/what-is-smart-contract-auditing-and-why-you-should-care-a2e055089831?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-28T15:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Smart contract auditing involves a thorough review of a contract’s code to uncover vulnerabilities, bugs, or potential security gaps.]]></summary>
-        <author>
-            <name>0xHermes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tenderly App — a Swiss Pocketknife for the Web3 developer]]></title>
-        <id>https://medium.com/p/89bb904bee46</id>
-        <link href="https://coinsbench.com/tenderly-app-a-swiss-pocketknife-for-the-web3-developer-89bb904bee46?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-28T15:41:37.000Z</updated>
-        <summary type="html"><![CDATA[Tenderly is an Ethereum Developer Platform with deep functionality across debugging, testing, monitoring, alerting, etc]]></summary>
-        <author>
-            <name>Officer's Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power of WalletConnect (Web3Modal) and Wagmi (Viem version)]]></title>
-        <id>https://medium.com/p/d7bc94e8fee8</id>
-        <link href="https://coinsbench.com/the-power-of-walletconnect-web3modal-and-wagmi-viem-version-d7bc94e8fee8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-27T14:58:04.000Z</updated>
-        <summary type="html"><![CDATA[In the world of Web3 application development, WalletConnect and Wagmi are two powerful tools that empower developers to create seamless …]]></summary>
-        <author>
-            <name>Leonardo Simone Digiorgio</name>
         </author>
     </entry>
     <entry>

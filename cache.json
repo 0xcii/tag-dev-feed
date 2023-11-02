@@ -69,6 +69,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/ac7cc5ff0614",
+          "author": "sandman",
+          "description": "Expose on the most common vulnerability in Smart Contract Development.",
+          "link": "https://coinsbench.com/lesser-known-reentrancy-attack-vectors-and-safeguards-in-erc721-and-erc1155-contracts-ac7cc5ff0614?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-11-02T18:25:26.000Z",
+          "wordCount": 2824,
+          "title": "Lesser Known Reentrancy Attack Vectors and Safeguards in ERC721 and ERC1155 Contracts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f83201d4b034",
+          "author": "Sam",
+          "description": "A blockchain, or distributed ledger, enables only necessary information exchange. There are two types of blockchains — permissioned and…",
+          "link": "https://coinsbench.com/advantages-of-hyperledger-fabric-f83201d4b034?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-11-02T18:25:24.000Z",
+          "wordCount": 2348,
+          "title": "Advantages of Hyperledger Fabric",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*kw5RULqXp0J5xW_B"
+        },
+        {
+          "id": "https://medium.com/p/4cbefdc3f5c7",
+          "author": "Officer's Notes",
+          "description": "This compilation made with the support of my Dear friends! If you ever need an audit — head to my friend-company pessimistic.io | Public…",
+          "link": "https://coinsbench.com/solidity-tutorials-4cbefdc3f5c7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-11-02T18:25:20.000Z",
+          "wordCount": 2047,
+          "title": "Solidity Tutorials",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*E5I5-n5oj-QeYRo3ua9FxQ.png"
+        },
+        {
+          "id": "https://medium.com/p/ff4a85c99c05",
+          "author": "Officer's Notes",
+          "description": "This compilation made with the support of my Dear friends! If you ever need an audit — head to my friend-company pessimistic.io",
+          "link": "https://coinsbench.com/all-resources-to-become-a-smart-contract-auditor-ff4a85c99c05?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-11-02T18:25:18.000Z",
+          "wordCount": 2792,
+          "title": "All resources to become a smart contract auditor!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Au9NwKWkcUayQT-xAWPR_A.png"
+        },
+        {
+          "id": "https://medium.com/p/90c72499ed03",
+          "author": "Sam",
+          "description": "Blockchain technology has been making waves in the world of finance and beyond, and one of its most exciting applications is Ethereum. Ethereum is not just a cryptocurrency; it’s a platform for…",
+          "link": "https://coinsbench.com/demystifying-ethereum-and-solidity-a-beginners-guide-90c72499ed03?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-11-02T18:25:16.000Z",
+          "wordCount": 2764,
+          "title": "Demystifying Ethereum and Solidity: A Beginner’s Guide",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/9dcaf3101a32",
           "author": "Solidity Academy",
           "description": "In the fast-paced world of cryptocurrency and blockchain technology, security is paramount. As digital assets continue to gain popularity…",
@@ -84,7 +134,7 @@
           "description": "The crypto space moves at a rapid rate, including development tools used – the use of Truffle morphed into Hardhat. Why Hardhat? Hardhat is more flexible to use than Truffle. Lots of development in…",
           "link": "https://coinsbench.com/solidity-with-hardhat-overview-a46a9a6ba878?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-31T12:18:29.000Z",
-          "wordCount": 2288,
+          "wordCount": 2307,
           "title": "Solidity with Hardhat Overview",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1170/1*x16AAN83GyYBFCdhbl2-cA@2x.jpeg"
         },
@@ -117,56 +167,6 @@
           "wordCount": 2973,
           "title": "Best Practices in Solidity: Writing Clean, Efficient, and Maintainable Code",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*op4Z5k0r2lg85CNkqdSzbg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/9ce21ee120e6",
-          "author": "Officer's Notes",
-          "description": "By officercia.eth",
-          "link": "https://coinsbench.com/if-you-have-been-scammed-9ce21ee120e6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-31T12:18:19.000Z",
-          "wordCount": 2919,
-          "title": "If you have been scammed…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1rdxIRSm4MA-qfP0vtQplQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/09c8cd31f839",
-          "author": "Solidity Academy",
-          "description": "Navigating the Web3 Ecosystem with Blockchain Bridges",
-          "link": "https://coinsbench.com/blockchain-bridges-09c8cd31f839?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-28T17:27:00.000Z",
-          "wordCount": 5032,
-          "title": "Blockchain Bridges",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*198KSxUUKzTNDpnc"
-        },
-        {
-          "id": "https://medium.com/p/a2e055089831",
-          "author": "0xHermes",
-          "description": "Smart contract auditing involves a thorough review of a contract’s code to uncover vulnerabilities, bugs, or potential security gaps.",
-          "link": "https://coinsbench.com/what-is-smart-contract-auditing-and-why-you-should-care-a2e055089831?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-28T15:41:41.000Z",
-          "wordCount": 4628,
-          "title": "What Is Smart Contract Auditing And Why You Should Care",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*6CiCK7YdnLMyjbNI0d9afA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/89bb904bee46",
-          "author": "Officer's Notes",
-          "description": "Tenderly is an Ethereum Developer Platform with deep functionality across debugging, testing, monitoring, alerting, etc",
-          "link": "https://coinsbench.com/tenderly-app-a-swiss-pocketknife-for-the-web3-developer-89bb904bee46?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-28T15:41:37.000Z",
-          "wordCount": 5722,
-          "title": "Tenderly App — a Swiss Pocketknife for the Web3 developer",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*2vRR4JHFX1JkpAVZ"
-        },
-        {
-          "id": "https://medium.com/p/d7bc94e8fee8",
-          "author": "Leonardo Simone Digiorgio",
-          "description": "In the world of Web3 application development, WalletConnect and Wagmi are two powerful tools that empower developers to create seamless …",
-          "link": "https://coinsbench.com/the-power-of-walletconnect-web3modal-and-wagmi-viem-version-d7bc94e8fee8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-10-27T14:58:04.000Z",
-          "wordCount": 4473,
-          "title": "The Power of WalletConnect (Web3Modal) and Wagmi (Viem version)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yq4UDf_NRbm5XtSc5jqF5g.png"
         }
       ]
     },
