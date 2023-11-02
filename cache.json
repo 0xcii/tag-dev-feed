@@ -7,6 +7,63 @@
       "articles": []
     },
     {
+      "title": "cryptomaton",
+      "feedUrl": "https://www.cryptomaton.org/feed/",
+      "siteUrl": "https://www.cryptomaton.org/",
+      "articles": [
+        {
+          "id": "https://www.cryptomaton.org/?p=1601",
+          "author": "Andrei",
+          "description": "I would like to start by saying that I’m excited to finally be able to write this article and share this project with the world. Aesir was built by a small team of developers over the course of two years. This development cycle allowed us to run through a closed and open beta and ensure […]\nThe post Things I did in the Bear Market — Spent 2 Years Building A Cryptocurrency Trading Bot Platform appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2023/10/29/algorithmic-cryptocurrency-trading-bot-platform-aesir/",
+          "publishedOn": "2023-10-29T15:10:32.000Z",
+          "wordCount": 9988,
+          "title": "Things I did in the Bear Market — Spent 2 Years Building A Cryptocurrency Trading Bot Platform",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2023/10/acrypto-trading-bot-platform-transformed.webp"
+        },
+        {
+          "id": "https://www.cryptomaton.org/?p=1595",
+          "author": "Andrei",
+          "description": "In this week’s episode of Proof of Talk: The Cryptocurrency Podcast, I sat down with Viktoriia Miracle, the CCO of Cheelee.io. Cheelee is a shortform video sharing platform similar to TikTok – but with one important twist. Cheelee uses blockchain technology to reward users for watching content, so that all users can benefit from monetization opportunities. […]\nThe post Proof Of Talk: The Cryptocurrency Podcast Ep 6 – Cheelee and Web3 Social Media with Viktoriia appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2023/10/22/proof-of-talk-the-cryptocurrency-podcast-ep-6-cheelee-and-web3-social-media-with-viktoriia/",
+          "publishedOn": "2023-10-22T12:43:49.000Z",
+          "wordCount": 9770,
+          "title": "Proof Of Talk: The Cryptocurrency Podcast Ep 6 – Cheelee and Web3 Social Media with Viktoriia",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2023/10/cheelee.webp"
+        },
+        {
+          "id": "https://www.cryptomaton.org/?p=1591",
+          "author": "Andrei",
+          "description": "Reddit has been on a warpath against itself and its own user base since the start of the year. With questionable decisions such as skyrocketing API prices, discontinuing Reddit coins and awards, and more recently, cancelling their entire cryptocurrency reward system program called Community Points — if bad decisions could win a Darwin award — […]\nThe post The Death of Reddit’s Community Points — One For The History Books appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2023/10/19/the-death-of-reddits-community-points-one-for-the-history-books/",
+          "publishedOn": "2023-10-19T18:52:57.000Z",
+          "wordCount": 10746,
+          "title": "The Death of Reddit’s Community Points — One For The History Books",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2023/10/reddit-community-points-program.png"
+        },
+        {
+          "id": "https://www.cryptomaton.org/?p=1585",
+          "author": "Andrei",
+          "description": "In this week’s episode of Proof of Talk: The Cryptocurrency Podcast, I’m joined by PaintSwap DAO core member Chronic. We had a great conversation about the Fantom blockchain, the DAO itself, as well as the fully on-chain MMORPG game built by the DAO – Estfor Kingdom. Here are some of the highlights we covered on […]\nThe post The Cryptocurrency Podcast Ep5: PaintSwap DAO and Estfor Kingdom with Chronic appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2023/10/15/the-cryptocurrency-podcast-ep5-paintswap-dao-fantom-blockchain-game-estfor-kingdom/",
+          "publishedOn": "2023-10-15T11:03:53.000Z",
+          "wordCount": 9768,
+          "title": "The Cryptocurrency Podcast Ep5: PaintSwap DAO and Estfor Kingdom with Chronic",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2023/10/paintswap-dao-cryptocurrency-podcast.jpeg"
+        },
+        {
+          "id": "https://www.cryptomaton.org/?p=1581",
+          "author": "Andrei",
+          "description": "This week I had the pleasure of sitting down with Stephen, the creator of Looppress, an open-source WordPress plugin for Token Gating. We had a great conversation on my podcast Proof Of Talk, on the features of Looppress, and why Loopring is likely to become the main L3 for Ethereum. Here are some of the […]\nThe post The Cryptocurrency Podcast Ep4: Looppress, Loopring, and Token Gating appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2023/10/06/the-cryptocurrency-podcast-ep4-looppress-loopring-and-token-gating/",
+          "publishedOn": "2023-10-06T12:26:05.000Z",
+          "wordCount": 9761,
+          "title": "The Cryptocurrency Podcast Ep4: Looppress, Loopring, and Token Gating",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2023/10/looppress-loopring-cryptocurrency-podcast.jpeg"
+        }
+      ]
+    },
+    {
       "title": "CoinsBench - Medium",
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
@@ -27,7 +84,7 @@
           "description": "The crypto space moves at a rapid rate, including development tools used – the use of Truffle morphed into Hardhat. Why Hardhat? Hardhat is more flexible to use than Truffle. Lots of development in…",
           "link": "https://coinsbench.com/solidity-with-hardhat-overview-a46a9a6ba878?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-10-31T12:18:29.000Z",
-          "wordCount": 2307,
+          "wordCount": 2288,
           "title": "Solidity with Hardhat Overview",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1170/1*x16AAN83GyYBFCdhbl2-cA@2x.jpeg"
         },
@@ -119,6 +176,46 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/cd355fa78b73",
+          "author": "MicroBioscopicData",
+          "description": "Financial Analysis with Python\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/cryptocurrency-analysis-with-python-a-beginners-guide-to-the-exponential-moving-average-ema-cd355fa78b73?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-11-02T15:23:07.000Z",
+          "wordCount": 2329,
+          "title": "Cryptocurrency Analysis with Python — A Beginner’s Guide to the Exponential Moving Average (EMA)…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uWC-WlrLSm7xjV-drGoMDw.png"
+        },
+        {
+          "id": "https://medium.com/p/b315354d5324",
+          "author": "Crypto Knowledge Center",
+          "description": "Tangem wallet is a new-generation cryptocurrency wallet and in this article, you will learn everything you need to know about this crypto…",
+          "link": "https://medium.com/coinmonks/tangem-wallet-2-0-this-is-what-you-should-know-b315354d5324?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-11-02T15:23:02.000Z",
+          "wordCount": 3196,
+          "title": "Tangem Wallet 2.0  — This is What You Should Know!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:715/1*He0iBaiTQ8oHJApeSb12Ag.png"
+        },
+        {
+          "id": "https://medium.com/p/e51e08cf0dad",
+          "author": "CryptoLola",
+          "description": "At the regular meeting at the beginning of the month, I listened to the big boss’s sharing on the crypto market and was filled with…",
+          "link": "https://medium.com/coinmonks/in-2018-btc-fell-82-to-3-000-but-he-bought-5-btc-e51e08cf0dad?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-11-02T15:10:26.000Z",
+          "wordCount": 3565,
+          "title": "In 2018, BTC fell 82% to $3,000, but he bought 5 BTC",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:939/1*DlbkSoJOxMvY_fChSdfPFg.png"
+        },
+        {
+          "id": "https://medium.com/p/b9d2c7cbb0ef",
+          "author": "Crypto Currents",
+          "description": "In a groundbreaking development within the cryptocurrency sphere, Binance, the world’s leading cryptocurrency exchange, has announced its…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/binance-to-terminate-ruble-payment-partnership-with-advcash-a-game-changing-move-b9d2c7cbb0ef?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-11-02T15:10:21.000Z",
+          "wordCount": 2165,
+          "title": "Binance to Terminate Ruble Payment Partnership with AdvCash — A Game-Changing Move",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*XLE25sCQ3zb61OoM"
+        },
+        {
           "id": "https://medium.com/p/25cc62482a3f",
           "author": "Everything Programming",
           "description": "Hey there, fellow developers! Today, I want to share my journey on how I managed to achieve the incredible milestone of making six figures…\nContinue reading on Coinmonks »",
@@ -144,7 +241,7 @@
           "description": "Introduction\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/clever-ways-programmers-can-double-their-salaries-in-one-year-7df073f8a6d8?source=rss----721b17443fd5---4",
           "publishedOn": "2023-11-02T14:15:55.000Z",
-          "wordCount": 2420,
+          "wordCount": 2412,
           "title": "Clever Ways Programmers Can Double Their Salaries in One Year",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*nNk031AgR3Gk6x6t"
         },
@@ -154,7 +251,7 @@
           "description": "With the news that BlackRock’s spot Bitcoin could soon be approved, the entire crypto market has turned bullish. If you are still here in…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/my-crypto-portfolio-for-the-upcoming-bull-market-0719f34e259c?source=rss----721b17443fd5---4",
           "publishedOn": "2023-11-02T14:15:53.000Z",
-          "wordCount": 2533,
+          "wordCount": 2525,
           "title": "My Crypto Portfolio for the Upcoming Bull Market",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3OWujL6fNvk8rvVVbGTOgQ.png"
         },
@@ -164,7 +261,7 @@
           "description": "Introduction\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/how-i-made-enough-from-my-side-project-to-quit-my-programming-job-in-6-months-daf9ba2b1e6f?source=rss----721b17443fd5---4",
           "publishedOn": "2023-11-02T14:03:58.000Z",
-          "wordCount": 2483,
+          "wordCount": 2556,
           "title": "How I Made Enough from My Side Project to Quit My Programming Job in 6 Months",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*yY0gDiZdcNABhmcl"
         },
@@ -177,46 +274,6 @@
           "wordCount": 2346,
           "title": "Earn Crypto: Make Money with New Cryptocurrency, Latest Crypto News",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QbLK1_rOHJmspv58vQcLMA@2x.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d09e2cce71f6",
-          "author": "Marcomega",
-          "description": "As the cryptocurrency market continues to evolve, many investors are eagerly waiting for the next Bitcoin bull cycle. These cycles…",
-          "link": "https://medium.com/coinmonks/profit-from-the-next-bitcoin-bull-cycle-a-pros-guide-d09e2cce71f6?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-11-02T14:03:21.000Z",
-          "wordCount": 2731,
-          "title": "Profit From the Next Bitcoin Bull Cycle: A Pro’s Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Ob_WthOBTuUSdR69na_Qwg.png"
-        },
-        {
-          "id": "https://medium.com/p/64b191bde7a1",
-          "author": "Lauri Peltonen",
-          "description": "Today you learn how ZK privacy works. No mathematics needed for this ride!",
-          "link": "https://medium.com/coinmonks/zero-knowledge-privacy-without-mathematics-64b191bde7a1?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-11-02T14:03:20.000Z",
-          "wordCount": 3479,
-          "title": "Zero Knowledge privacy without mathematics",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:768/1*tvQLZyoElGcEIM8PTKyQbQ.png"
-        },
-        {
-          "id": "https://medium.com/p/3b13db14d2b0",
-          "author": "Jawad Hussain",
-          "description": "In a significant development for the cryptocurrency market in Britain, PayPal has received approval from the Financial Conduct Authority…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/fca-allows-paypal-to-offer-crypto-asset-activities-in-the-uk-3b13db14d2b0?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-11-02T14:03:18.000Z",
-          "wordCount": 2455,
-          "title": "FCA Allows PayPal to Offer Crypto Asset Activities in the UK",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*U3tad6qVWtNxMWpbQdv-xg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/8dfadd53c832",
-          "author": "DeFi Alliance DAO",
-          "description": "Arweave, often called the “new kind of cloud,” is a decentralized storage platform that has gained significant attention in the Web3…",
-          "link": "https://medium.com/coinmonks/exploring-the-pros-and-cons-of-arweave-ar-in-the-web3-ecosystem-8dfadd53c832?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-11-02T14:03:16.000Z",
-          "wordCount": 2719,
-          "title": "Exploring the Pros and Cons of Arweave (AR) in the Web3 Ecosystem",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*EffBvj7mFgj7BCxhkD4suw.png"
         }
       ]
     },
