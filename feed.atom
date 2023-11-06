@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-06T16:16:16.608Z</id>
+    <id>urn:2023-11-06T17:10:52.957Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-06T16:16:16.608Z</updated>
+    <updated>2023-11-06T17:10:52.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is fuzz-testing (fuzzing)? Why do you need it? How? +More]]></title>
+        <id>https://medium.com/p/9d86f45632c8</id>
+        <link href="https://blog.blockmagnates.com/what-is-fuzz-testing-fuzzing-why-do-you-need-it-how-more-9d86f45632c8?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-11-06T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey anon, do you fuzz? 🏋️ An introductory guide to fuzz testing.]]></summary>
+        <author>
+            <name>sandman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unveiling the Titans of Bitcoin: The Top 10 Bitcoin Kings in 2023]]></title>
         <id>https://medium.com/p/76695b76bfb4</id>
@@ -249,6 +259,16 @@ The post Things I did in the Bear Market — Spent 2 Years Building A Crypto
         <summary type="html"><![CDATA[Ethereum development has been revolutionized with the advent of tools like Hardhat. If you’re a software professional looking to…]]></summary>
         <author>
             <name>karthik Ganti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for Solidity Code Auditors]]></title>
+        <id>https://medium.com/p/2e085aa54742</id>
+        <link href="https://blog.blockmagnates.com/tips-for-solidity-code-auditors-2e085aa54742?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-10-27T15:06:59.000Z</updated>
+        <summary type="html"><![CDATA[Gaining the most elusive of tips. Add your input and let’s collect them all!]]></summary>
+        <author>
+            <name>Officer's Notes</name>
         </author>
     </entry>
     <entry>
