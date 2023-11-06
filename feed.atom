@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-06T17:10:52.957Z</id>
+    <id>urn:2023-11-06T18:15:11.544Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-06T17:10:52.957Z</updated>
+    <updated>2023-11-06T18:15:11.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TRC20 vs. ERC20: An Ethereum vs. Tron Analysis (Express Summary)]]></title>
+        <id>https://medium.com/p/e01b3df2d44f</id>
+        <link href="https://coinsbench.com/trc20-vs-erc20-an-ethereum-vs-tron-analysis-express-summary-e01b3df2d44f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-06T17:54:49.000Z</updated>
+        <summary type="html"><![CDATA[ERC-20 vs. TRC-20 — Exploring Blockchain Titans]]></summary>
+        <author>
+            <name>Crypto Express</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Testnets? Ethereum Testnets Explained! (Express Summary)]]></title>
+        <id>https://medium.com/p/d436da22859f</id>
+        <link href="https://coinsbench.com/what-are-testnets-ethereum-testnets-explained-express-summary-d436da22859f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-06T17:54:46.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Testnets: The Safe Playground for Smart Contract Innovation]]></summary>
+        <author>
+            <name>Crypto Express</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Types of Crypto Wallets: The 5 Top Options for Coin Storage (Express Summary)]]></title>
+        <id>https://medium.com/p/d2229707ce24</id>
+        <link href="https://coinsbench.com/types-of-crypto-wallets-the-5-top-options-for-coin-storage-express-summary-d2229707ce24?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-06T17:54:44.000Z</updated>
+        <summary type="html"><![CDATA[Securing Your Crypto: A Comprehensive Guide]]></summary>
+        <author>
+            <name>Crypto Express</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Achieving superior blockchain security with SGX and ZK proofs]]></title>
+        <id>https://medium.com/p/702cd182db7e</id>
+        <link href="https://coinsbench.com/achieving-superior-blockchain-security-with-sgx-and-zk-proofs-702cd182db7e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-06T17:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Including fatal SGX vulnerabilities and ways to solve them with technolgies like zero-knowledge proofs or full-homomorphic encryption.]]></summary>
+        <author>
+            <name>Lucas Martin Calderon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create crypto coin on the Ethereum Platform]]></title>
+        <id>https://medium.com/p/aceffdd75db7</id>
+        <link href="https://coinsbench.com/how-to-create-crypto-coin-on-the-ethereum-platform-aceffdd75db7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-06T17:54:39.000Z</updated>
+        <summary type="html"><![CDATA[Step 1 — Installing Metamask]]></summary>
+        <author>
+            <name>Mir Shahzad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step by Step tutorial on how to set up StarkNet on Remix]]></title>
+        <id>https://medium.com/p/5f9cdf77e1ca</id>
+        <link href="https://coinsbench.com/step-by-step-tutorial-on-how-to-set-up-starknet-on-remix-5f9cdf77e1ca?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-06T17:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Starknet is a scalable Layer-2 solution on Ethereum. This guide will walk you through the process of deploying and interacting with your…]]></summary>
+        <author>
+            <name>Esther Oche</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is fuzz-testing (fuzzing)? Why do you need it? How? +More]]></title>
         <id>https://medium.com/p/9d86f45632c8</id>
@@ -168,16 +228,6 @@ The post Proof Of Talk: The Cryptocurrency Podcast Ep 7 – The Power of Value I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Demystifying Ethereum and Solidity: A Beginner’s Guide]]></title>
-        <id>https://medium.com/p/90c72499ed03</id>
-        <link href="https://coinsbench.com/demystifying-ethereum-and-solidity-a-beginners-guide-90c72499ed03?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-02T18:25:16.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology has been making waves in the world of finance and beyond, and one of its most exciting applications is Ethereum. Ethereum is not just a cryptocurrency; it’s a platform for…]]></summary>
-        <author>
-            <name>Sam</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My Journey from Newbie to Hackathon Champion]]></title>
         <id>https://blog.developerdao.com/my-journey-from-newbie-to-hackathon-champion</id>
         <link href="https://blog.developerdao.com/my-journey-from-newbie-to-hackathon-champion"/>
@@ -188,56 +238,6 @@ I had always been interested in computers and coding, and I had built all sorts 
 Gm gm! My name is Vedant, and I'm a developer and technical writer. From the beginning, I've been passionate about creating things, just going out there and building stuff. Still, I never thought I could do something as am…]]></summary>
         <author>
             <name>Vedant Chainani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting Your Digital Assets: A Comprehensive Guide to Identifying NFT and ERC-20 Spam and Scam…]]></title>
-        <id>https://medium.com/p/9dcaf3101a32</id>
-        <link href="https://coinsbench.com/protecting-your-digital-assets-a-comprehensive-guide-to-identifying-nft-and-erc-20-spam-and-scam-9dcaf3101a32?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-01T08:03:01.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced world of cryptocurrency and blockchain technology, security is paramount. As digital assets continue to gain popularity…]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity with Hardhat Overview]]></title>
-        <id>https://medium.com/p/a46a9a6ba878</id>
-        <link href="https://coinsbench.com/solidity-with-hardhat-overview-a46a9a6ba878?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-31T12:18:29.000Z</updated>
-        <summary type="html"><![CDATA[The crypto space moves at a rapid rate, including development tools used – the use of Truffle morphed into Hardhat. Why Hardhat? Hardhat is more flexible to use than Truffle. Lots of development in…]]></summary>
-        <author>
-            <name>Sam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Virtual Machine (EVM)]]></title>
-        <id>https://medium.com/p/bea6b4b887ca</id>
-        <link href="https://coinsbench.com/ethereum-virtual-machine-evm-bea6b4b887ca?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-31T12:18:25.000Z</updated>
-        <summary type="html"><![CDATA[What is Ethereum Virtual Machine ?]]></summary>
-        <author>
-            <name>Esther Oche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empowering Individuals: Decentralized Identity Management with Solidity and Ethereum]]></title>
-        <id>https://medium.com/p/479dc237a75f</id>
-        <link href="https://coinsbench.com/empowering-individuals-decentralized-identity-management-with-solidity-and-ethereum-479dc237a75f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-31T12:18:23.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Kuuku Baffoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Practices in Solidity: Writing Clean, Efficient, and Maintainable Code]]></title>
-        <id>https://medium.com/p/4d07be424b90</id>
-        <link href="https://coinsbench.com/best-practices-in-solidity-writing-clean-efficient-and-maintainable-code-4d07be424b90?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-10-31T12:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Solidity, the programming language for Ethereum smart contracts, is a powerful tool for creating decentralized applications. However…]]></summary>
-        <author>
-            <name>Jeffery Oke-Samuel</name>
         </author>
     </entry>
     <entry>
