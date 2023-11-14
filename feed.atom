@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-14T06:15:43.207Z</id>
+    <id>urn:2023-11-14T07:10:55.980Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-14T06:15:43.207Z</updated>
+    <updated>2023-11-14T07:10:55.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Achieve EVM Compatibility in Non-EVM Blockchains (Express Summary)]]></title>
+        <id>https://medium.com/p/20d6812fd005</id>
+        <link href="https://coinsbench.com/how-to-achieve-evm-compatibility-in-non-evm-blockchains-express-summary-20d6812fd005?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-14T07:03:12.000Z</updated>
+        <summary type="html"><![CDATA[Navigating the Landscape of Non-EVM Blockchains: Achieving EVM Compatibility]]></summary>
+        <author>
+            <name>Crypto Express</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basics of Blockchain]]></title>
+        <id>https://medium.com/p/608e90e85cb6</id>
+        <link href="https://coinsbench.com/basics-of-blockchain-608e90e85cb6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-14T07:03:08.000Z</updated>
+        <summary type="html"><![CDATA[What is a blockchain? A blockchain is a shared ledger amongst members of a decentralized network. Blockchain is synonymous with anonymity(chain-dependent), authentication, and transparency. It is…]]></summary>
+        <author>
+            <name>Sam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying Smart Contracts on Shardeum Testnet with Hardhat]]></title>
+        <id>https://medium.com/p/ed08b0eb9313</id>
+        <link href="https://coinsbench.com/deploying-smart-contracts-on-shardeum-testnet-with-hardhat-ed08b0eb9313?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-14T06:58:52.000Z</updated>
+        <summary type="html"><![CDATA[1. Smart Contracts: The Self-Executing Digital Agreements Revolutionizing Industries]]></summary>
+        <author>
+            <name>Nikhil Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Blockchain Transactions with Web3: A Comprehensive Guide]]></title>
+        <id>https://medium.com/p/749e7bdf356c</id>
+        <link href="https://coinsbench.com/mastering-blockchain-transactions-with-web3-a-comprehensive-guide-749e7bdf356c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-14T06:58:49.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving landscape of blockchain technology, understanding how to craft and execute transactions is paramount. Whether you’re…]]></summary>
+        <author>
+            <name>Beulah Ude</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Application of Cryptography in Blockchain Security]]></title>
+        <id>https://medium.com/p/e2b9b3ea53cf</id>
+        <link href="https://coinsbench.com/exploring-the-application-of-cryptography-in-blockchain-security-e2b9b3ea53cf?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-14T06:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology has revolutionized the way we secure and decentralize data. At the heart of this security lies the art of…]]></summary>
+        <author>
+            <name>Beulah Ude</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity: Shaping the Future of Agreements on Ethereum — The Path to Secure, Self-Executing Smart…]]></title>
+        <id>https://medium.com/p/9cfa6dd254ef</id>
+        <link href="https://coinsbench.com/solidity-shaping-the-future-of-agreements-on-ethereum-the-path-to-secure-self-executing-smart-9cfa6dd254ef?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-14T06:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, a high-level programming language, plays a pivotal role in shaping the future of agreements. In the context of blockchain…]]></summary>
+        <author>
+            <name>Beulah Ude</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Decoding Ethereum: A Comprehensive Guide to Listening to Contract Events with ethers.js”]]></title>
+        <id>https://medium.com/p/12df9b68756c</id>
+        <link href="https://coinsbench.com/decoding-ethereum-a-comprehensive-guide-to-listening-to-contract-events-with-ethers-js-12df9b68756c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-14T06:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Introduction:]]></summary>
+        <author>
+            <name>Farjmand Zara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Satori: A Blockchain of AIs Built to Predict the Future | Proof Of Talk: The Cryptocurrency Podcast Ep 8]]></title>
         <id>https://www.cryptomaton.org/?p=1612</id>
@@ -163,36 +233,6 @@ The post Poloniex Crypto Exchange Just Hacked For Over $114 Million - A Post
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Achieving superior blockchain security with SGX and ZK proofs]]></title>
-        <id>https://medium.com/p/702cd182db7e</id>
-        <link href="https://coinsbench.com/achieving-superior-blockchain-security-with-sgx-and-zk-proofs-702cd182db7e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-06T17:54:42.000Z</updated>
-        <summary type="html"><![CDATA[Including fatal SGX vulnerabilities and ways to solve them with technolgies like zero-knowledge proofs or full-homomorphic encryption.]]></summary>
-        <author>
-            <name>Lucas Martin Calderon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to create crypto coin on the Ethereum Platform]]></title>
-        <id>https://medium.com/p/aceffdd75db7</id>
-        <link href="https://coinsbench.com/how-to-create-crypto-coin-on-the-ethereum-platform-aceffdd75db7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-06T17:54:39.000Z</updated>
-        <summary type="html"><![CDATA[Step 1 — Installing Metamask]]></summary>
-        <author>
-            <name>Mir Shahzad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step by Step tutorial on how to set up StarkNet on Remix]]></title>
-        <id>https://medium.com/p/5f9cdf77e1ca</id>
-        <link href="https://coinsbench.com/step-by-step-tutorial-on-how-to-set-up-starknet-on-remix-5f9cdf77e1ca?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-06T17:54:37.000Z</updated>
-        <summary type="html"><![CDATA[Starknet is a scalable Layer-2 solution on Ethereum. This guide will walk you through the process of deploying and interacting with your…]]></summary>
-        <author>
-            <name>Esther Oche</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What is fuzz-testing (fuzzing)? Why do you need it? How? +More]]></title>
         <id>https://medium.com/p/9d86f45632c8</id>
         <link href="https://blog.blockmagnates.com/what-is-fuzz-testing-fuzzing-why-do-you-need-it-how-more-9d86f45632c8?source=rss----18fa961f1eff--solidity"/>
@@ -211,46 +251,6 @@ The post Poloniex Crypto Exchange Just Hacked For Over $114 Million - A Post
 The post Proof Of Talk: The Cryptocurrency Podcast Ep 7 – The Power of Value Investing with Jake Tullis appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lesser Known Reentrancy Attack Vectors and Safeguards in ERC721 and ERC1155 Contracts]]></title>
-        <id>https://medium.com/p/ac7cc5ff0614</id>
-        <link href="https://coinsbench.com/lesser-known-reentrancy-attack-vectors-and-safeguards-in-erc721-and-erc1155-contracts-ac7cc5ff0614?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-02T18:25:26.000Z</updated>
-        <summary type="html"><![CDATA[Expose on the most common vulnerability in Smart Contract Development.]]></summary>
-        <author>
-            <name>sandman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advantages of Hyperledger Fabric]]></title>
-        <id>https://medium.com/p/f83201d4b034</id>
-        <link href="https://coinsbench.com/advantages-of-hyperledger-fabric-f83201d4b034?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-02T18:25:24.000Z</updated>
-        <summary type="html"><![CDATA[A blockchain, or distributed ledger, enables only necessary information exchange. There are two types of blockchains — permissioned and…]]></summary>
-        <author>
-            <name>Sam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Tutorials]]></title>
-        <id>https://medium.com/p/4cbefdc3f5c7</id>
-        <link href="https://coinsbench.com/solidity-tutorials-4cbefdc3f5c7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-02T18:25:20.000Z</updated>
-        <summary type="html"><![CDATA[This compilation made with the support of my Dear friends! If you ever need an audit — head to my friend-company pessimistic.io | Public…]]></summary>
-        <author>
-            <name>Officer's Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All resources to become a smart contract auditor!]]></title>
-        <id>https://medium.com/p/ff4a85c99c05</id>
-        <link href="https://coinsbench.com/all-resources-to-become-a-smart-contract-auditor-ff4a85c99c05?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-02T18:25:18.000Z</updated>
-        <summary type="html"><![CDATA[This compilation made with the support of my Dear friends! If you ever need an audit — head to my friend-company pessimistic.io]]></summary>
-        <author>
-            <name>Officer's Notes</name>
         </author>
     </entry>
     <entry>
