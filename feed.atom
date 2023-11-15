@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-15T09:12:40.283Z</id>
+    <id>urn:2023-11-15T10:13:40.758Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-15T09:12:40.283Z</updated>
+    <updated>2023-11-15T10:13:40.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,6 +10,7 @@
         <id>https://medium.com/p/c89e63ee03b4</id>
         <link href="https://coinsbench.com/starknet-advancing-ethereum-scalability-c89e63ee03b4?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-11-15T07:22:41.000Z</updated>
+        <summary type="html"><![CDATA[The arrival of Starknet on the Mainnet has marked a significant milestone for the Ethereum ecosystem. This platform offers developers and…]]></summary>
         <author>
             <name>Esther Oche</name>
         </author>
@@ -19,6 +20,7 @@
         <id>https://medium.com/p/68d2782bdb40</id>
         <link href="https://coinsbench.com/what-is-a-full-node-68d2782bdb40?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-11-15T07:22:09.000Z</updated>
+        <summary type="html"><![CDATA[A full node is a wallet, miner, network relay, and ability to download the entire blockchain. A node is merely a wallet that operates on…]]></summary>
         <author>
             <name>Sam</name>
         </author>
@@ -28,6 +30,7 @@
         <id>https://medium.com/p/502dd5397db7</id>
         <link href="https://coinsbench.com/delegated-transfer-502dd5397db7?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-11-15T07:22:07.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum network enables smart contracts, or digital code that do an action like creating a token, binding an agreement, mining an NFT, or voting. The implementations of smart contracts are…]]></summary>
         <author>
             <name>Sam</name>
         </author>
@@ -142,6 +145,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/20d6812fd005</id>
         <link href="https://coinsbench.com/how-to-achieve-evm-compatibility-in-non-evm-blockchains-express-summary-20d6812fd005?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-11-14T07:03:12.000Z</updated>
+        <summary type="html"><![CDATA[Navigating the Landscape of Non-EVM Blockchains: Achieving EVM Compatibility]]></summary>
         <author>
             <name>Crypto Express</name>
         </author>
@@ -151,6 +155,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/608e90e85cb6</id>
         <link href="https://coinsbench.com/basics-of-blockchain-608e90e85cb6?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-11-14T07:03:08.000Z</updated>
+        <summary type="html"><![CDATA[What is a blockchain? A blockchain is a shared ledger amongst members of a decentralized network. Blockchain is synonymous with anonymity(chain-dependent), authentication, and transparency. It is…]]></summary>
         <author>
             <name>Sam</name>
         </author>
@@ -160,6 +165,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/ed08b0eb9313</id>
         <link href="https://coinsbench.com/deploying-smart-contracts-on-shardeum-testnet-with-hardhat-ed08b0eb9313?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-11-14T06:58:52.000Z</updated>
+        <summary type="html"><![CDATA[1. Smart Contracts: The Self-Executing Digital Agreements Revolutionizing Industries]]></summary>
         <author>
             <name>Nikhil Kumar</name>
         </author>
@@ -169,6 +175,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/749e7bdf356c</id>
         <link href="https://coinsbench.com/mastering-blockchain-transactions-with-web3-a-comprehensive-guide-749e7bdf356c?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-11-14T06:58:49.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving landscape of blockchain technology, understanding how to craft and execute transactions is paramount. Whether you’re…]]></summary>
         <author>
             <name>Beulah Ude</name>
         </author>
@@ -178,6 +185,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/e2b9b3ea53cf</id>
         <link href="https://coinsbench.com/exploring-the-application-of-cryptography-in-blockchain-security-e2b9b3ea53cf?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-11-14T06:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology has revolutionized the way we secure and decentralize data. At the heart of this security lies the art of…]]></summary>
         <author>
             <name>Beulah Ude</name>
         </author>
@@ -187,6 +195,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/9cfa6dd254ef</id>
         <link href="https://coinsbench.com/solidity-shaping-the-future-of-agreements-on-ethereum-the-path-to-secure-self-executing-smart-9cfa6dd254ef?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-11-14T06:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, a high-level programming language, plays a pivotal role in shaping the future of agreements. In the context of blockchain…]]></summary>
         <author>
             <name>Beulah Ude</name>
         </author>
@@ -196,6 +205,7 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/12df9b68756c</id>
         <link href="https://coinsbench.com/decoding-ethereum-a-comprehensive-guide-to-listening-to-contract-events-with-ethers-js-12df9b68756c?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-11-14T06:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Introduction:]]></summary>
         <author>
             <name>Farjmand Zara</name>
         </author>
@@ -227,6 +237,7 @@ The post Poloniex Crypto Exchange Just Hacked For Over $114 Million - A Post
         <id>https://medium.com/p/9d86f45632c8</id>
         <link href="https://blog.blockmagnates.com/what-is-fuzz-testing-fuzzing-why-do-you-need-it-how-more-9d86f45632c8?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-11-06T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey anon, do you fuzz? 🏋️ An introductory guide to fuzz testing.]]></summary>
         <author>
             <name>sandman</name>
         </author>
@@ -271,6 +282,7 @@ The post Things I did in the Bear Market — Spent 2 Years Building A Crypto
         <id>https://medium.com/p/bb11294b4a22</id>
         <link href="https://blog.blockmagnates.com/building-smart-contracts-like-a-pro-a-comprehensive-guide-to-using-hardhat-part-1-bb11294b4a22?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-10-28T15:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum development has been revolutionized with the advent of tools like Hardhat. If you’re a software professional looking to…]]></summary>
         <author>
             <name>karthik Ganti</name>
         </author>
@@ -280,6 +292,7 @@ The post Things I did in the Bear Market — Spent 2 Years Building A Crypto
         <id>https://medium.com/p/2e085aa54742</id>
         <link href="https://blog.blockmagnates.com/tips-for-solidity-code-auditors-2e085aa54742?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-10-27T15:06:59.000Z</updated>
+        <summary type="html"><![CDATA[Gaining the most elusive of tips. Add your input and let’s collect them all!]]></summary>
         <author>
             <name>Officer's Notes</name>
         </author>
