@@ -79,12 +79,22 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/181da7f3d0ba",
+          "author": "Sam",
+          "description": "Blockchain technology integrates into databases or an entire network. The two implementations of blockchain, occur at the level of…",
+          "link": "https://coinsbench.com/blockchain-types-181da7f3d0ba?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-11-16T09:34:34.000Z",
+          "wordCount": 2817,
+          "title": "Blockchain Types",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7VqZbgXik6Hxp0NHIfHV-g.png"
+        },
+        {
           "id": "https://medium.com/p/c89e63ee03b4",
           "author": "Esther Oche",
           "description": "The arrival of Starknet on the Mainnet has marked a significant milestone for the Ethereum ecosystem. This platform offers developers and…",
           "link": "https://coinsbench.com/starknet-advancing-ethereum-scalability-c89e63ee03b4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-11-15T07:22:41.000Z",
-          "wordCount": 1779,
+          "wordCount": 1768,
           "title": "Starknet: Advancing Ethereum Scalability",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*F80ohydsEuZBexU2.jpg"
         },
@@ -104,7 +114,7 @@
           "description": "The Ethereum network enables smart contracts, or digital code that do an action like creating a token, binding an agreement, mining an NFT, or voting. The implementations of smart contracts are…",
           "link": "https://coinsbench.com/delegated-transfer-502dd5397db7?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-11-15T07:22:07.000Z",
-          "wordCount": 2141,
+          "wordCount": 2130,
           "title": "Delegated Transfer",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1170/1*svhtZ4ISOyvJgiHbzHWKcA@2x.jpeg"
         },
@@ -124,7 +134,7 @@
           "description": "What is a blockchain? A blockchain is a shared ledger amongst members of a decentralized network. Blockchain is synonymous with anonymity(chain-dependent), authentication, and transparency. It is…",
           "link": "https://coinsbench.com/basics-of-blockchain-608e90e85cb6?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-11-14T07:03:08.000Z",
-          "wordCount": 2122,
+          "wordCount": 2111,
           "title": "Basics of Blockchain",
           "imageUrl": null
         },
@@ -167,16 +177,6 @@
           "wordCount": 2400,
           "title": "Solidity: Shaping the Future of Agreements on Ethereum — The Path to Secure, Self-Executing Smart…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:700/0*i0GoTftGJW7fJ0EV.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/12df9b68756c",
-          "author": "Farjmand Zara",
-          "description": "Introduction:",
-          "link": "https://coinsbench.com/decoding-ethereum-a-comprehensive-guide-to-listening-to-contract-events-with-ethers-js-12df9b68756c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-11-14T06:58:45.000Z",
-          "wordCount": 2675,
-          "title": "“Decoding Ethereum: A Comprehensive Guide to Listening to Contract Events with ethers.js”",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*AVejS09RNiBeLIAB"
         }
       ]
     },
