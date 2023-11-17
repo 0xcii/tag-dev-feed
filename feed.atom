@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-17T05:11:41.784Z</id>
+    <id>urn:2023-11-17T06:16:19.018Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-17T05:11:41.784Z</updated>
+    <updated>2023-11-17T06:16:19.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[StarkNet Network]]></title>
+        <id>https://medium.com/p/1bd1ef99580e</id>
+        <link href="https://coinsbench.com/starknet-network-1bd1ef99580e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-17T06:10:32.000Z</updated>
+        <summary type="html"><![CDATA[StarkNet is a permissionless and decentralized Validity-Rollup (ZK-Rollup) operating as a layer-two network on Ethereum.]]></summary>
+        <author>
+            <name>Esther Oche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Listen Events Emitted from Smart Contracts using Python]]></title>
+        <id>https://medium.com/p/9e4ecf7567e5</id>
+        <link href="https://coinsbench.com/how-to-listen-events-emitted-from-smart-contracts-using-python-9e4ecf7567e5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-17T06:10:09.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a blockchain based app developer, you may encounter situations that you need to listen events emitted from the smart contracts…]]></summary>
+        <author>
+            <name>Binod Karunanayake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setup a Private Blockchain using Geth and Docker]]></title>
+        <id>https://medium.com/p/6060a1169e6f</id>
+        <link href="https://coinsbench.com/setup-a-private-blockchain-using-geth-and-docker-6060a1169e6f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-17T06:10:07.000Z</updated>
+        <summary type="html"><![CDATA[This article provides step-by-step detailed guidelines to deploy a private blockchain using ethereum/client-go aka geth (go-ethereum) on…]]></summary>
+        <author>
+            <name>Binod Karunanayake</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Gift Did I Buy Myself for My Birthday?]]></title>
         <id>https://medium.com/p/7b6a28cc90d4</id>
@@ -188,36 +218,6 @@ The post The Rebirth of Moons - Token Gains Over 300% as it Becomes Deflatio
         <summary type="html"><![CDATA[1. Smart Contracts: The Self-Executing Digital Agreements Revolutionizing Industries]]></summary>
         <author>
             <name>Nikhil Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Blockchain Transactions with Web3: A Comprehensive Guide]]></title>
-        <id>https://medium.com/p/749e7bdf356c</id>
-        <link href="https://coinsbench.com/mastering-blockchain-transactions-with-web3-a-comprehensive-guide-749e7bdf356c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-14T06:58:49.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving landscape of blockchain technology, understanding how to craft and execute transactions is paramount. Whether you’re…]]></summary>
-        <author>
-            <name>Beulah Ude</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Application of Cryptography in Blockchain Security]]></title>
-        <id>https://medium.com/p/e2b9b3ea53cf</id>
-        <link href="https://coinsbench.com/exploring-the-application-of-cryptography-in-blockchain-security-e2b9b3ea53cf?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-14T06:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology has revolutionized the way we secure and decentralize data. At the heart of this security lies the art of…]]></summary>
-        <author>
-            <name>Beulah Ude</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity: Shaping the Future of Agreements on Ethereum — The Path to Secure, Self-Executing Smart…]]></title>
-        <id>https://medium.com/p/9cfa6dd254ef</id>
-        <link href="https://coinsbench.com/solidity-shaping-the-future-of-agreements-on-ethereum-the-path-to-secure-self-executing-smart-9cfa6dd254ef?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-14T06:58:45.000Z</updated>
-        <summary type="html"><![CDATA[Solidity, a high-level programming language, plays a pivotal role in shaping the future of agreements. In the context of blockchain…]]></summary>
-        <author>
-            <name>Beulah Ude</name>
         </author>
     </entry>
     <entry>

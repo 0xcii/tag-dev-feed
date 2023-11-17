@@ -89,6 +89,36 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1bd1ef99580e",
+          "author": "Esther Oche",
+          "description": "StarkNet is a permissionless and decentralized Validity-Rollup (ZK-Rollup) operating as a layer-two network on Ethereum.",
+          "link": "https://coinsbench.com/starknet-network-1bd1ef99580e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-11-17T06:10:32.000Z",
+          "wordCount": 2802,
+          "title": "StarkNet Network",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1032/1*Y7_hjPr3-hIiZdmnOD0APw.png"
+        },
+        {
+          "id": "https://medium.com/p/9e4ecf7567e5",
+          "author": "Binod Karunanayake",
+          "description": "If you’re a blockchain based app developer, you may encounter situations that you need to listen events emitted from the smart contracts…",
+          "link": "https://coinsbench.com/how-to-listen-events-emitted-from-smart-contracts-using-python-9e4ecf7567e5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-11-17T06:10:09.000Z",
+          "wordCount": 2248,
+          "title": "How to Listen Events Emitted from Smart Contracts using Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6060a1169e6f",
+          "author": "Binod Karunanayake",
+          "description": "This article provides step-by-step detailed guidelines to deploy a private blockchain using ethereum/client-go aka geth (go-ethereum) on…",
+          "link": "https://coinsbench.com/setup-a-private-blockchain-using-geth-and-docker-6060a1169e6f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-11-17T06:10:07.000Z",
+          "wordCount": 3811,
+          "title": "Setup a Private Blockchain using Geth and Docker",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xyMsLhNwXCQIE7mNgQNf-w.png"
+        },
+        {
           "id": "https://medium.com/p/181da7f3d0ba",
           "author": "Sam",
           "description": "Blockchain technology integrates into databases or an entire network. The two implementations of blockchain, occur at the level of…",
@@ -104,7 +134,7 @@
           "description": "The arrival of Starknet on the Mainnet has marked a significant milestone for the Ethereum ecosystem. This platform offers developers and…",
           "link": "https://coinsbench.com/starknet-advancing-ethereum-scalability-c89e63ee03b4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-11-15T07:22:41.000Z",
-          "wordCount": 1773,
+          "wordCount": 1772,
           "title": "Starknet: Advancing Ethereum Scalability",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*F80ohydsEuZBexU2.jpg"
         },
@@ -157,36 +187,6 @@
           "wordCount": 5475,
           "title": "Deploying Smart Contracts on Shardeum Testnet with Hardhat",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*6vsbrOPPf4q6JRqh.jpg"
-        },
-        {
-          "id": "https://medium.com/p/749e7bdf356c",
-          "author": "Beulah Ude",
-          "description": "In the ever-evolving landscape of blockchain technology, understanding how to craft and execute transactions is paramount. Whether you’re…",
-          "link": "https://coinsbench.com/mastering-blockchain-transactions-with-web3-a-comprehensive-guide-749e7bdf356c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-11-14T06:58:49.000Z",
-          "wordCount": 3206,
-          "title": "Mastering Blockchain Transactions with Web3: A Comprehensive Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*VjsjzrExoCC_eH-3"
-        },
-        {
-          "id": "https://medium.com/p/e2b9b3ea53cf",
-          "author": "Beulah Ude",
-          "description": "Blockchain technology has revolutionized the way we secure and decentralize data. At the heart of this security lies the art of…",
-          "link": "https://coinsbench.com/exploring-the-application-of-cryptography-in-blockchain-security-e2b9b3ea53cf?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-11-14T06:58:47.000Z",
-          "wordCount": 2532,
-          "title": "Exploring the Application of Cryptography in Blockchain Security",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*AYIwtVcGBf3Rzf66agGv9g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/9cfa6dd254ef",
-          "author": "Beulah Ude",
-          "description": "Solidity, a high-level programming language, plays a pivotal role in shaping the future of agreements. In the context of blockchain…",
-          "link": "https://coinsbench.com/solidity-shaping-the-future-of-agreements-on-ethereum-the-path-to-secure-self-executing-smart-9cfa6dd254ef?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-11-14T06:58:45.000Z",
-          "wordCount": 2393,
-          "title": "Solidity: Shaping the Future of Agreements on Ethereum — The Path to Secure, Self-Executing Smart…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/0*i0GoTftGJW7fJ0EV.jpeg"
         }
       ]
     },
@@ -318,7 +318,7 @@
           "description": "Ethereum development has been revolutionized with the advent of tools like Hardhat. If you’re a software professional looking to…",
           "link": "https://blog.blockmagnates.com/building-smart-contracts-like-a-pro-a-comprehensive-guide-to-using-hardhat-part-1-bb11294b4a22?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2023-10-28T15:46:24.000Z",
-          "wordCount": 2936,
+          "wordCount": 2938,
           "title": "Building Smart Contracts Like a Pro: A Comprehensive Guide to Using HardHat — Part 1",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:499/1*O-xWM-YBZ34XSr4JSZnUDA.jpeg"
         },
