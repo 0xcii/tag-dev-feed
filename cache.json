@@ -104,7 +104,7 @@
           "description": "If you’re a blockchain based app developer, you may encounter situations that you need to listen events emitted from the smart contracts…",
           "link": "https://coinsbench.com/how-to-listen-events-emitted-from-smart-contracts-using-python-9e4ecf7567e5?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-11-17T06:10:09.000Z",
-          "wordCount": 2242,
+          "wordCount": 2259,
           "title": "How to Listen Events Emitted from Smart Contracts using Python",
           "imageUrl": null
         },
@@ -114,7 +114,7 @@
           "description": "This article provides step-by-step detailed guidelines to deploy a private blockchain using ethereum/client-go aka geth (go-ethereum) on…",
           "link": "https://coinsbench.com/setup-a-private-blockchain-using-geth-and-docker-6060a1169e6f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-11-17T06:10:07.000Z",
-          "wordCount": 3781,
+          "wordCount": 3820,
           "title": "Setup a Private Blockchain using Geth and Docker",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xyMsLhNwXCQIE7mNgQNf-w.png"
         },
@@ -184,7 +184,7 @@
           "description": "1. Smart Contracts: The Self-Executing Digital Agreements Revolutionizing Industries",
           "link": "https://coinsbench.com/deploying-smart-contracts-on-shardeum-testnet-with-hardhat-ed08b0eb9313?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-11-14T06:58:52.000Z",
-          "wordCount": 5560,
+          "wordCount": 5541,
           "title": "Deploying Smart Contracts on Shardeum Testnet with Hardhat",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*6vsbrOPPf4q6JRqh.jpg"
         }
@@ -195,6 +195,16 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/40cb1489245b",
+          "author": "AI Agenda",
+          "description": "AO token, marking a significant advancement in decentralized networks.",
+          "link": "https://medium.com/coinmonks/the-rise-of-bittensor-a-blockchain-and-ai-integration-success-story-40cb1489245b?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-11-20T08:04:36.000Z",
+          "wordCount": 2820,
+          "title": "The Rise of Bittensor: A Blockchain and AI Integration Success Story",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*5AQMn2Y80vqwAo_PiEbsVQ.png"
+        },
         {
           "id": "https://medium.com/p/ce4eecfe0768",
           "author": "Aquanow",
@@ -284,16 +294,6 @@
           "wordCount": 3151,
           "title": "What’s the Scoop on Shiba Inu Price?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:320/1*ChHI5TNL3v68HtIhZGuqew.png"
-        },
-        {
-          "id": "https://medium.com/p/80ffc97ec69e",
-          "author": "Will Grimes",
-          "description": "When it comes to the world of cryptocurrency, there is one term that stands out above the rest — Bitcoin. This digital currency has taken…",
-          "link": "https://medium.com/coinmonks/why-bitcoin-value-is-more-than-just-a-number-80ffc97ec69e?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-11-20T07:43:00.000Z",
-          "wordCount": 3075,
-          "title": "Why Bitcoin value is more than just a number",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:634/1*KNwVGAaYQHjRil0-PFN_Ww.jpeg"
         }
       ]
     },
@@ -345,9 +345,9 @@
           "description": "I was sitting in my bedroom, watching Silicon Valley, episode S4E1, when Russ asked Richard what the one thing he would build if he had unlimited time and resources. His answer was \"a decentralized internet.\" And I was like, what the heck is that? That would be your reaction when you first heard about this fancy term.\n\nI had always been interested in computers and coding, and I had built all sorts of things, from Discord bots to Python scripts to simple WordPress sites and games. But after hearing about the decentralized internet, I knew that's what I wanted to focus on.\nGm gm! My name is Vedant, and I'm a developer and technical writer. From the beginning, I've been passionate about creating things, just going out there and building stuff. Still, I never thought I could do something as am…",
           "link": "https://blog.developerdao.com/my-journey-from-newbie-to-hackathon-champion",
           "publishedOn": "2023-11-01T12:26:19.000Z",
-          "wordCount": 21559,
+          "wordCount": null,
           "title": "My Journey from Newbie to Hackathon Champion",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1698839296306%2F90565158-5e72-4774-b4f1-1302b704ee67.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+          "imageUrl": null
         }
       ]
     }
