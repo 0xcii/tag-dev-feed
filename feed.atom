@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-22T11:10:33.573Z</id>
+    <id>urn:2023-11-22T12:23:47.478Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-22T11:10:33.573Z</updated>
+    <updated>2023-11-22T12:23:47.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Private Blockchains]]></title>
+        <id>https://medium.com/p/b1a8e8b3c6b0</id>
+        <link href="https://coinsbench.com/private-blockchains-b1a8e8b3c6b0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-22T11:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Private Blockchains are trusted networks where only network members interact on-chain. Unlike other blockchains, access requires…]]></summary>
+        <author>
+            <name>Sam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimenting with Vector Databases: Chromadb, Pinecone, Weaviate and Pgvector]]></title>
+        <id>https://medium.com/p/0f35c0356540</id>
+        <link href="https://coinsbench.com/experimenting-with-vector-databases-chromadb-pinecone-weaviate-and-pgvector-0f35c0356540?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-22T11:05:31.000Z</updated>
+        <summary type="html"><![CDATA[Vector databases are specialized systems designed for storing, managing, and searching embedding vectors. The widespread adoption of…]]></summary>
+        <author>
+            <name>Vishnu Sivan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Solidity Data Types: A Guide for Aspiring Developers in Smart Contract Programming]]></title>
+        <id>https://medium.com/p/1ffb286bf81a</id>
+        <link href="https://coinsbench.com/mastering-solidity-data-types-a-guide-for-aspiring-developers-in-smart-contract-programming-1ffb286bf81a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-22T11:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Explore Solidity data types in-depth, essential for aspiring developers in smart contract programming. Learn key concepts, practical…]]></summary>
+        <author>
+            <name>Ghazi Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What You Should Know About Ethereum Improvement Proposals(EIP)]]></title>
+        <id>https://medium.com/p/85f6ae57fce1</id>
+        <link href="https://coinsbench.com/what-you-should-know-about-ethereum-improvement-proposals-eip-85f6ae57fce1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-22T11:05:19.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered how changes are made in a decentralized system like Ethereum? In this article, you will understand what an Ethereum…]]></summary>
+        <author>
+            <name>Judith Manyo Ogar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlocking Success with Discord Brand Marketing Services]]></title>
         <id>https://medium.com/p/b1d1ec4ab3de</id>
@@ -199,46 +239,6 @@ The post The Rebirth of Moons - Token Gains Over 300% as it Becomes Deflatio
         <summary type="html"><![CDATA[A full node is a wallet, miner, network relay, and ability to download the entire blockchain. A node is merely a wallet that operates on…]]></summary>
         <author>
             <name>Sam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delegated Transfer]]></title>
-        <id>https://medium.com/p/502dd5397db7</id>
-        <link href="https://coinsbench.com/delegated-transfer-502dd5397db7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-15T07:22:07.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum network enables smart contracts, or digital code that do an action like creating a token, binding an agreement, mining an NFT, or voting. The implementations of smart contracts are…]]></summary>
-        <author>
-            <name>Sam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Achieve EVM Compatibility in Non-EVM Blockchains (Express Summary)]]></title>
-        <id>https://medium.com/p/20d6812fd005</id>
-        <link href="https://coinsbench.com/how-to-achieve-evm-compatibility-in-non-evm-blockchains-express-summary-20d6812fd005?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-14T07:03:12.000Z</updated>
-        <summary type="html"><![CDATA[Navigating the Landscape of Non-EVM Blockchains: Achieving EVM Compatibility]]></summary>
-        <author>
-            <name>Crypto Express</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basics of Blockchain]]></title>
-        <id>https://medium.com/p/608e90e85cb6</id>
-        <link href="https://coinsbench.com/basics-of-blockchain-608e90e85cb6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-14T07:03:08.000Z</updated>
-        <summary type="html"><![CDATA[What is a blockchain? A blockchain is a shared ledger amongst members of a decentralized network. Blockchain is synonymous with anonymity(chain-dependent), authentication, and transparency. It is…]]></summary>
-        <author>
-            <name>Sam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying Smart Contracts on Shardeum Testnet with Hardhat]]></title>
-        <id>https://medium.com/p/ed08b0eb9313</id>
-        <link href="https://coinsbench.com/deploying-smart-contracts-on-shardeum-testnet-with-hardhat-ed08b0eb9313?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-14T06:58:52.000Z</updated>
-        <summary type="html"><![CDATA[1. Smart Contracts: The Self-Executing Digital Agreements Revolutionizing Industries]]></summary>
-        <author>
-            <name>Nikhil Kumar</name>
         </author>
     </entry>
     <entry>
