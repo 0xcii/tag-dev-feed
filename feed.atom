@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-24T10:13:11.680Z</id>
+    <id>urn:2023-11-24T11:10:19.378Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-24T10:13:11.680Z</updated>
+    <updated>2023-11-24T11:10:19.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi series: Everything You need to know about Yield Farming.]]></title>
+        <id>https://medium.com/p/0ea116395ba6</id>
+        <link href="https://coinsbench.com/defi-series-everything-you-need-to-know-about-yield-farming-0ea116395ba6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-24T10:17:06.000Z</updated>
+        <summary type="html"><![CDATA[Decentralized Finance (DeFi) has transformed the way we view traditional finance, introducing exciting ways for earning passive income…]]></summary>
+        <author>
+            <name>Oluwadunnie Rachael</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise and Fall of Token Deployments on Ethereum: A Gas Fee Nightmare?]]></title>
+        <id>https://medium.com/p/8f933278655f</id>
+        <link href="https://coinsbench.com/the-rise-and-fall-of-token-deployments-on-ethereum-a-gas-fee-nightmare-8f933278655f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-24T10:17:03.000Z</updated>
+        <summary type="html"><![CDATA[Recently I deployed a token on the ETH network for someone. It cost approximately $40 in gas fees. The contract wasn’t quite right and I…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>David Mansion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is a Cashless Society Closer Than You Think? What Will It Mean For Your Freedom? Bitcoin V CBDCs]]></title>
         <id>https://medium.com/p/03b50a52364f</id>
@@ -218,26 +239,6 @@ The post The Rebirth of Moons - Token Gains Over 300% as it Becomes Deflatio
         <link href="https://coinsbench.com/blockchain-types-181da7f3d0ba?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-11-16T09:34:34.000Z</updated>
         <summary type="html"><![CDATA[Blockchain technology integrates into databases or an entire network. The two implementations of blockchain, occur at the level of…]]></summary>
-        <author>
-            <name>Sam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starknet: Advancing Ethereum Scalability]]></title>
-        <id>https://medium.com/p/c89e63ee03b4</id>
-        <link href="https://coinsbench.com/starknet-advancing-ethereum-scalability-c89e63ee03b4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-15T07:22:41.000Z</updated>
-        <summary type="html"><![CDATA[The arrival of Starknet on the Mainnet has marked a significant milestone for the Ethereum ecosystem. This platform offers developers and…]]></summary>
-        <author>
-            <name>Esther Oche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Full Node?]]></title>
-        <id>https://medium.com/p/68d2782bdb40</id>
-        <link href="https://coinsbench.com/what-is-a-full-node-68d2782bdb40?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-15T07:22:09.000Z</updated>
-        <summary type="html"><![CDATA[A full node is a wallet, miner, network relay, and ability to download the entire blockchain. A node is merely a wallet that operates on…]]></summary>
         <author>
             <name>Sam</name>
         </author>
