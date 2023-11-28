@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-28T18:15:40.474Z</id>
+    <id>urn:2023-11-28T19:10:01.264Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-28T18:15:40.474Z</updated>
+    <updated>2023-11-28T19:10:01.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Save up to 90% in gas costs]]></title>
+        <id>https://medium.com/p/9fa428308538</id>
+        <link href="https://coinsbench.com/save-up-to-90-in-gas-costs-9fa428308538?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-28T18:20:40.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that you can save users up to 90% of transaction costs by optimizing your contracts for less gas?]]></summary>
+        <author>
+            <name>nagrarohit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The EVM Stack]]></title>
+        <id>https://medium.com/p/0766e212560b</id>
+        <link href="https://coinsbench.com/the-evm-stack-0766e212560b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-28T18:20:38.000Z</updated>
+        <summary type="html"><![CDATA[On the road of my Web3 Security learning, I’ve began diving deeper into the EVM (Ethereum Virtual Machine) as I want the foundational…]]></summary>
+        <author>
+            <name>NomadSecGuy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The EVM — Memory]]></title>
+        <id>https://medium.com/p/e221c54e3c2d</id>
+        <link href="https://coinsbench.com/the-evm-memory-e221c54e3c2d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-28T18:20:35.000Z</updated>
+        <summary type="html"><![CDATA[Today lets tackle memory in the Ethereum Virtual Machine (EVM)! Memory is similar to the EVM stack in that it uses 32 byte words but…]]></summary>
+        <author>
+            <name>NomadSecGuy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running a Blockchain Explorer for Geth using Docker]]></title>
+        <id>https://medium.com/p/3989b0d8a5b0</id>
+        <link href="https://coinsbench.com/running-a-blockchain-explorer-for-geth-using-docker-3989b0d8a5b0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-28T18:20:31.000Z</updated>
+        <summary type="html"><![CDATA[This article provides detailed steps to run Chainlens blockchain explorer for Geth (go-ethereum) using Docker.]]></summary>
+        <author>
+            <name>Binod Karunanayake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing with Hyperledger Besu]]></title>
+        <id>https://medium.com/p/8e0ce6add63f</id>
+        <link href="https://coinsbench.com/developing-with-hyperledger-besu-8e0ce6add63f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-28T18:20:27.000Z</updated>
+        <summary type="html"><![CDATA[Is it the best out there? Why to choose Besu? Does Pvt Txns even make sense? Some pitfalls to avoid while developing dApps over Besu. In…]]></summary>
+        <author>
+            <name>Mihir Ranade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decimals in Solidity: A Fixed-Point of view]]></title>
+        <id>https://medium.com/p/df1a8704cf04</id>
+        <link href="https://coinsbench.com/decimals-in-solidity-a-fixed-point-of-view-df1a8704cf04?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-11-28T18:20:24.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Juan Xavier Valverde</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SYSCOIN (SYS): A Trustless and Permissionless Solution for Cross-Chain Asset Transfer]]></title>
         <id>https://medium.com/p/0edd38b4c7fa</id>
@@ -135,6 +195,7 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/b1a8e8b3c6b0</id>
         <link href="https://coinsbench.com/private-blockchains-b1a8e8b3c6b0?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-11-22T11:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Private Blockchains are trusted networks where only network members interact on-chain. Unlike other blockchains, access requires…]]></summary>
         <author>
             <name>Sam</name>
         </author>
@@ -144,27 +205,9 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/0f35c0356540</id>
         <link href="https://coinsbench.com/experimenting-with-vector-databases-chromadb-pinecone-weaviate-and-pgvector-0f35c0356540?source=rss----f1cfd22cde3e---4"/>
         <updated>2023-11-22T11:05:31.000Z</updated>
+        <summary type="html"><![CDATA[Vector databases are specialized systems designed for storing, managing, and searching embedding vectors. The widespread adoption of…]]></summary>
         <author>
             <name>Vishnu Sivan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Solidity Data Types: A Guide for Aspiring Developers in Smart Contract Programming]]></title>
-        <id>https://medium.com/p/1ffb286bf81a</id>
-        <link href="https://coinsbench.com/mastering-solidity-data-types-a-guide-for-aspiring-developers-in-smart-contract-programming-1ffb286bf81a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-22T11:05:28.000Z</updated>
-        <summary type="html"><![CDATA[Explore Solidity data types in-depth, essential for aspiring developers in smart contract programming. Learn key concepts, practical…]]></summary>
-        <author>
-            <name>Ghazi Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What You Should Know About Ethereum Improvement Proposals(EIP)]]></title>
-        <id>https://medium.com/p/85f6ae57fce1</id>
-        <link href="https://coinsbench.com/what-you-should-know-about-ethereum-improvement-proposals-eip-85f6ae57fce1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-22T11:05:19.000Z</updated>
-        <author>
-            <name>Judith Manyo Ogar</name>
         </author>
     </entry>
     <entry>
@@ -190,34 +233,6 @@ The post Because you asked for it - Crypto Trading Bot Platform Aesir Gets a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[StarkNet Network]]></title>
-        <id>https://medium.com/p/1bd1ef99580e</id>
-        <link href="https://coinsbench.com/starknet-network-1bd1ef99580e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-17T06:10:32.000Z</updated>
-        <author>
-            <name>Esther Oche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Listen Events Emitted from Smart Contracts using Python]]></title>
-        <id>https://medium.com/p/9e4ecf7567e5</id>
-        <link href="https://coinsbench.com/how-to-listen-events-emitted-from-smart-contracts-using-python-9e4ecf7567e5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-17T06:10:09.000Z</updated>
-        <author>
-            <name>Binod Karunanayake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setup a Private Blockchain using Geth and Docker]]></title>
-        <id>https://medium.com/p/6060a1169e6f</id>
-        <link href="https://coinsbench.com/setup-a-private-blockchain-using-geth-and-docker-6060a1169e6f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-17T06:10:07.000Z</updated>
-        <summary type="html"><![CDATA[This article provides step-by-step detailed guidelines to deploy a private blockchain using ethereum/client-go aka geth (go-ethereum) on…]]></summary>
-        <author>
-            <name>Binod Karunanayake</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Rebirth of Moons - Token Gains Over 300% as it Becomes Deflationary]]></title>
         <id>https://www.cryptomaton.org/?p=1619</id>
         <link href="https://www.cryptomaton.org/2023/11/16/the-rebirth-of-moons-token-gains-over-300-as-it-becomes-deflationary/"/>
@@ -226,15 +241,6 @@ The post Because you asked for it - Crypto Trading Bot Platform Aesir Gets a
 The post The Rebirth of Moons - Token Gains Over 300% as it Becomes Deflationary appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain Types]]></title>
-        <id>https://medium.com/p/181da7f3d0ba</id>
-        <link href="https://coinsbench.com/blockchain-types-181da7f3d0ba?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-16T09:34:34.000Z</updated>
-        <author>
-            <name>Sam</name>
         </author>
     </entry>
     <entry>
@@ -264,6 +270,7 @@ The post Poloniex Crypto Exchange Just Hacked For Over $114 Million - A Post
         <id>https://medium.com/p/9d86f45632c8</id>
         <link href="https://blog.blockmagnates.com/what-is-fuzz-testing-fuzzing-why-do-you-need-it-how-more-9d86f45632c8?source=rss----18fa961f1eff--solidity"/>
         <updated>2023-11-06T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey anon, do you fuzz? 🏋️ An introductory guide to fuzz testing.]]></summary>
         <author>
             <name>sandman</name>
         </author>
