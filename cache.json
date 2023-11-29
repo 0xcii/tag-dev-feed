@@ -84,7 +84,7 @@
           "description": "Did you know that you can save users up to 90% of transaction costs by optimizing your contracts for less gas?",
           "link": "https://coinsbench.com/save-up-to-90-in-gas-costs-9fa428308538?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-11-28T18:20:40.000Z",
-          "wordCount": 2622,
+          "wordCount": 2618,
           "title": "Save up to 90% in gas costs",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-Zw0sGqpTEf58oUEDoniWg.jpeg"
         },
@@ -94,7 +94,7 @@
           "description": "On the road of my Web3 Security learning, I’ve began diving deeper into the EVM (Ethereum Virtual Machine) as I want the foundational…",
           "link": "https://coinsbench.com/the-evm-stack-0766e212560b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-11-28T18:20:38.000Z",
-          "wordCount": 3458,
+          "wordCount": 3454,
           "title": "The EVM Stack",
           "imageUrl": null
         },
@@ -104,7 +104,7 @@
           "description": "Today lets tackle memory in the Ethereum Virtual Machine (EVM)! Memory is similar to the EVM stack in that it uses 32 byte words but…",
           "link": "https://coinsbench.com/the-evm-memory-e221c54e3c2d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-11-28T18:20:35.000Z",
-          "wordCount": 2619,
+          "wordCount": 2615,
           "title": "The EVM — Memory",
           "imageUrl": null
         },
@@ -186,6 +186,56 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/da38b0307282",
+          "author": "SmartState.tech",
+          "description": "The NFT market takes up a considerable area in today’s crypto industry. Having passed through the stage of “pure” digital art, the…",
+          "link": "https://medium.com/coinmonks/nft-platforms-security-challenges-and-best-practices-da38b0307282?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-11-29T11:26:58.000Z",
+          "wordCount": 3238,
+          "title": "NFT Platforms Security: Challenges and Best Practices",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*HquZk8Ztbk7i63R2JGnZPA.png"
+        },
+        {
+          "id": "https://medium.com/p/ef1e6f8b76ba",
+          "author": "Rev Cynthia Pustelak Safeth Ministries",
+          "description": "Continue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/safeths-hbar-pegging-a-silent-hedera-chain-fork-with-privacy-advantages-ef1e6f8b76ba?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-11-29T11:26:56.000Z",
+          "wordCount": 2402,
+          "title": "Safeth’s Hbar Pegging: A Silent #Hedera Chain Fork with Privacy Advantages",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1100/1*lh2rXRFfhmkM3XYxeGhK2g.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/65bdb6fb6c79",
+          "author": "Tom Holland",
+          "description": "Cardano has emerged as a prominent player in the ever-evolving landscape of cryptocurrencies, distinguishing itself as a third-generation…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/how-to-become-a-cardano-millionaire-all-about-ada-coin-65bdb6fb6c79?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-11-29T11:26:54.000Z",
+          "wordCount": 2164,
+          "title": "How To Become a Cardano Millionaire? All About Ada Coin!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UIB_reFRLAg4QA914A8Izg.png"
+        },
+        {
+          "id": "https://medium.com/p/87ca7cd55a88",
+          "author": "CoinPedia Markets",
+          "description": "NFTs arе taking thе digital art and collеctiblеs world by storm. Starting in thе summеr of 2021, thе NFT markеt surgеd, sееing еxponеntial…",
+          "link": "https://medium.com/coinmonks/exploring-the-current-and-future-landscape-of-nfts-87ca7cd55a88?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-11-29T11:26:53.000Z",
+          "wordCount": 3112,
+          "title": "Exploring The Current and Future Landscape of NFTs",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*iTChKz4VgeeUArFtzCGhwQ.png"
+        },
+        {
+          "id": "https://medium.com/p/57174842a6a4",
+          "author": "Rev Cynthia Pustelak Safeth Ministries",
+          "description": "Continue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/safeths-mingle-node-elevating-privacy-and-asset-protection-in-digital-transactions-57174842a6a4?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-11-29T11:26:49.000Z",
+          "wordCount": 2437,
+          "title": "Safeth’s Mingle Node: Elevating Privacy and Asset Protection in Digital Transactions",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HeBhIfZMw_F2skJO5HTwZQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/16486e09382f",
           "author": "Stonksmaster",
           "description": "Summary: Crude Oil Continuous Futures is expected to have a low of 72.83 and a high of 78.12 on 2023–11–28. The opening price was 75.69, the highest point reached 76.23, the lowest point was 74.06…",
@@ -201,7 +251,7 @@
           "description": "In the fast-paced world of cryptocurrency, the allure of massive profits often draws investors seeking the next big opportunity. While the…",
           "link": "https://medium.com/coinmonks/unveiling-the-secrets-how-to-identify-crypto-tokens-for-100x-profits-3d00c195f209?source=rss----721b17443fd5---4",
           "publishedOn": "2023-11-29T10:50:18.000Z",
-          "wordCount": 2845,
+          "wordCount": 2846,
           "title": "Unveiling the Secrets: How to Identify Crypto Tokens for 100X Profits",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:590/1*wGPOMnBttSWxpYSOzC3TOw.jpeg"
         },
@@ -221,7 +271,7 @@
           "description": "Investing in Bitcoin has become increasingly popular, especially with the potential for prices to double or even triple in a short…",
           "link": "https://medium.com/coinmonks/how-to-master-bitcoin-investments-in-2024-2bd6ce89257a?source=rss----721b17443fd5---4",
           "publishedOn": "2023-11-29T10:50:12.000Z",
-          "wordCount": 2615,
+          "wordCount": 2616,
           "title": "How to Master Bitcoin Investments in 2024",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*DrOas4_VXkeHJg2U"
         },
@@ -234,56 +284,6 @@
           "wordCount": 5899,
           "title": "Fundamental vs Technical Analysis: Which is Less Risky?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*s3YGWZDQDx6gi9Ml.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/41554588ca8c",
-          "author": "Max Yampolsky",
-          "description": "I researched 60+ DeFi projects offering yield on Arbitrum: here is my summary.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/arbitrum-yield-farming-everything-you-need-to-know-to-get-started-41554588ca8c?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-11-29T10:49:37.000Z",
-          "wordCount": 2301,
-          "title": "Arbitrum Yield Farming: Everything You Need To Know To Get Started",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*2g4jjr5hhko9j0c2"
-        },
-        {
-          "id": "https://medium.com/p/7b3b0c13aa31",
-          "author": "Philipp Lukasewycz",
-          "description": "Bitcoin’s price rebounded from its November 2022 low of $15k to $35k, marking a substantial gain. This growth and the anticipated 2024…",
-          "link": "https://medium.com/coinmonks/is-a-bitcoin-bull-run-on-the-horizon-what-you-need-to-know-7b3b0c13aa31?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-11-29T10:49:32.000Z",
-          "wordCount": 4723,
-          "title": "Is a Bitcoin Bull Run on the Horizon? What You Need to Know",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*Aw0u9yzkBTKYRhA2zVeUUg.png"
-        },
-        {
-          "id": "https://medium.com/p/dccd42fb19db",
-          "author": "Tom Holland",
-          "description": "Today, I’m thrilled to share insights into three cryptocurrency projects that I believe are on the verge of explosive growth. These coins…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/3-coins-3-million-dccd42fb19db?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-11-29T10:49:30.000Z",
-          "wordCount": 2190,
-          "title": "3 Coins 3 Million",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TgCGiDv2xRWNH5vIy_eyZA.png"
-        },
-        {
-          "id": "https://medium.com/p/155edb7c568c",
-          "author": "Crypto Overload",
-          "description": "The explosive rise of Binance from its 2017 launch to the world’s largest cryptocurrency exchange seemingly happened overnight. But so did…",
-          "link": "https://medium.com/coinmonks/the-empire-strikes-back-inside-americas-real-motives-against-binance-155edb7c568c?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-11-29T10:49:29.000Z",
-          "wordCount": 4562,
-          "title": "The Empire Strikes Back: Inside America’s Real Motives Against Binance",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*g65pyTBsO618Kf5YVNZlgw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f987c7c2f520",
-          "author": "Joe Robert",
-          "description": "The cryptocurrency landscape is characterized by its volatility and quick evolution, with Bitcoin often at the forefront of these shifts…",
-          "link": "https://medium.com/coinmonks/4-signs-bitcoin-is-starting-its-bull-run-f987c7c2f520?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-11-29T10:49:25.000Z",
-          "wordCount": 2996,
-          "title": "4 Signs Bitcoin is Starting its Bull Run",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Ou6niS3epvvVYyGM4YQCZA.jpeg"
         }
       ]
     },
