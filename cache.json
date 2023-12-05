@@ -84,7 +84,7 @@
           "description": "Did you know that you can save users up to 90% of transaction costs by optimizing your contracts for less gas?",
           "link": "https://coinsbench.com/save-up-to-90-in-gas-costs-9fa428308538?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-11-28T18:20:40.000Z",
-          "wordCount": 2577,
+          "wordCount": 2613,
           "title": "Save up to 90% in gas costs",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-Zw0sGqpTEf58oUEDoniWg.jpeg"
         },
@@ -94,7 +94,7 @@
           "description": "On the road of my Web3 Security learning, I’ve began diving deeper into the EVM (Ethereum Virtual Machine) as I want the foundational…",
           "link": "https://coinsbench.com/the-evm-stack-0766e212560b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-11-28T18:20:38.000Z",
-          "wordCount": 3408,
+          "wordCount": 3423,
           "title": "The EVM — Stack",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*WOk5Ki1kluMdoIXStW2JnQ.png"
         },
@@ -104,7 +104,7 @@
           "description": "Today lets tackle memory in the Ethereum Virtual Machine (EVM)! Memory is similar to the EVM stack in that it uses 32 byte words but…",
           "link": "https://coinsbench.com/the-evm-memory-e221c54e3c2d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-11-28T18:20:35.000Z",
-          "wordCount": 2589,
+          "wordCount": 2604,
           "title": "The EVM — Memory",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*CiYpySpbd0cKNoQpwSHrrQ.png"
         },
@@ -164,7 +164,7 @@
           "description": "Private Blockchains are trusted networks where only network members interact on-chain. Unlike other blockchains, access requires…",
           "link": "https://coinsbench.com/private-blockchains-b1a8e8b3c6b0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-11-22T11:05:35.000Z",
-          "wordCount": 2102,
+          "wordCount": 2117,
           "title": "Private Blockchains",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bHURgjgcYoUYHBjoDB7d8Q.png"
         },
@@ -186,12 +186,82 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/3bb9aad15b33",
+          "author": "Mutantplantgpunk",
+          "description": "In the fast-evolving landscape of digital finance, platforms like Avantis Labs have emerged, offering individuals unique opportunities to…",
+          "link": "https://medium.com/coinmonks/unlocking-the-future-of-finance-avantis-vaults-and-time-tested-strategies-for-smart-investments-3bb9aad15b33?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T13:31:36.000Z",
+          "wordCount": 2653,
+          "title": "Unlocking the Future of Finance: Avantis Vaults and Time-Tested Strategies for Smart Investments",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*upSbGWC3rTCfqJjlNn799A.png"
+        },
+        {
+          "id": "https://medium.com/p/3d256c0f013e",
+          "author": "Digital Consumer",
+          "description": "Introduction",
+          "link": "https://medium.com/coinmonks/04-reasons-to-avoid-cloud-crypto-mining-3d256c0f013e?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T13:31:32.000Z",
+          "wordCount": 3190,
+          "title": "04 Reasons to Avoid Cloud Crypto Mining",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*vOiKer0yAWnYW1jZ"
+        },
+        {
+          "id": "https://medium.com/p/351ea0d32ff8",
+          "author": "Mike Coldman",
+          "description": "Dive into the hidden gems of the cryptocurrency world, as we reveal little-known altcoins poised for unprecedented growth in 2024!”\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/discover-the-secret-gaming-crypto-altcoins-ready-to-explode-in-2024-351ea0d32ff8?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T13:31:30.000Z",
+          "wordCount": 2437,
+          "title": "Discover the secret Gaming Crypto Altcoins ready to explode in 2024!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:500/1*sDIJDRnIxbKkw-ln2E7EFg.png"
+        },
+        {
+          "id": "https://medium.com/p/41fbca557ae6",
+          "author": "Gabe Araujo, M.Sc.",
+          "description": "Photo by Towfiqu barbhuiya on Unsplash\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/what-if-incorrect-was-the-safest-password-you-could-use-41fbca557ae6?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T13:31:28.000Z",
+          "wordCount": 2464,
+          "title": "What If ‘Incorrect’ Was the Safest Password You Could Use?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*eqyKKwI2E68HvuPb_pmubw@2x.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/9b1b1b9c9ae2",
+          "author": "Angad Singh",
+          "description": "Create your own bridge in 30 minutes!\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/create-a-cross-evm-bridge-using-solidity-typescript-hardhat-ethers-js-9b1b1b9c9ae2?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T13:31:27.000Z",
+          "wordCount": 2138,
+          "title": "Create a Cross-EVM bridge using Solidity, Typescript, Hardhat & ethers.js",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1084/1*Ig60FwXTuiEcg8cY_VzIzg.png"
+        },
+        {
+          "id": "https://medium.com/p/0ae2f15c3c02",
+          "author": "YAROCELIS.eth - Tech Trends",
+          "description": "Sign Up — Advertise",
+          "link": "https://medium.com/coinmonks/the-new-york-times-faces-backlash-for-publishing-an-ai-list-featuring-only-men-0ae2f15c3c02?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T13:31:25.000Z",
+          "wordCount": 4360,
+          "title": "The New York Times Faces Backlash for Publishing an AI List Featuring Only Men",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*DycCohnvzzI5O6uW.png"
+        },
+        {
+          "id": "https://medium.com/p/29ba3053e157",
+          "author": "Cryptophia",
+          "description": "Pi Network, a crypto and smart contracts platform, has been making significant strides in the cryptocurrency world. Here are some of the latest developments that have been making headlines. In a bid…",
+          "link": "https://medium.com/coinmonks/pi-network-the-latest-developments-and-future-prospects-29ba3053e157?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T13:30:49.000Z",
+          "wordCount": 2331,
+          "title": "Pi Network: The Latest Developments and Future Prospects",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*IVOP_g79lFE1z2u9hkEDpw@2x.jpeg"
+        },
+        {
           "id": "https://medium.com/p/5ddd76fc5937",
           "author": "Observers.com",
           "description": "Tesla finally managed to deliver its first Cybertruck pick-ups to customers this week, and at the required glitzy ‘launch’ event, Elon Musk…",
           "link": "https://medium.com/coinmonks/crypto-world-weekly-overview-03-12-2023-5ddd76fc5937?source=rss----721b17443fd5---4",
           "publishedOn": "2023-12-05T11:57:34.000Z",
-          "wordCount": 3495,
+          "wordCount": 3426,
           "title": "Crypto World Weekly Overview 03/12/2023",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*YXd-dPCnKQB2RVDI.png"
         },
@@ -201,7 +271,7 @@
           "description": "In a recent update shared by Salvadoran President Nayib Bukele on December 4, El Salvador’s foray into Bitcoin has proven to be a…",
           "link": "https://medium.com/coinmonks/el-salvadors-bitcoin-bet-pays-off-3-6-million-profit-on-131-million-investment-e99bd8b0b2ed?source=rss----721b17443fd5---4",
           "publishedOn": "2023-12-05T11:57:33.000Z",
-          "wordCount": 2682,
+          "wordCount": 2587,
           "title": "El Salvador’s Bitcoin Bet Pays Off: $3.6 Million Profit on $131 Million Investment",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*ZZogH2G1DqBDNLpe2nVYjA.jpeg"
         },
@@ -211,79 +281,9 @@
           "description": "In a significant milestone for the cryptocurrency world, Bitcoin has soared to become the 10th-largest asset by market capitalization…",
           "link": "https://medium.com/coinmonks/bitcoin-surpasses-berkshire-hathaway-zooms-past-800-billion-market-cap-milestone-8c122218eecf?source=rss----721b17443fd5---4",
           "publishedOn": "2023-12-05T11:57:29.000Z",
-          "wordCount": 2643,
+          "wordCount": 2568,
           "title": "Bitcoin Surpasses Berkshire Hathaway, Zooms Past $800 Billion Market Cap Milestone",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6I9-Ty1avQix4Ep2WG41uA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/527786824d20",
-          "author": "Crypto Currents",
-          "description": "Cryptocurrency enthusiasts are always on the lookout for the next big opportunity, and LUNC has been making waves in the digital currency…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/lunc-price-prediction-navigating-the-cryptocurrency-market-527786824d20?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-05T11:57:26.000Z",
-          "wordCount": 2277,
-          "title": "LUNC Price Prediction: Navigating the Cryptocurrency Market",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*I0Vq3fLrP4IPWzCP"
-        },
-        {
-          "id": "https://medium.com/p/434b17c41845",
-          "author": "Tin Money",
-          "description": "This is how I made money during the crypto bear market.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/thriving-in-a-crypto-bear-market-434b17c41845?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-05T11:57:22.000Z",
-          "wordCount": 2336,
-          "title": "Thriving in a Crypto Bear Market",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*8PQMgI66aYr8WMtJGPUG0w.png"
-        },
-        {
-          "id": "https://medium.com/p/53efce71e9d6",
-          "author": "Daniel G. Jennings",
-          "description": "Interestingly, Amazon Web Services (AWS) could make Solana (SOL), the world’s most valuable blockchain.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/does-amazon-web-services-aws-make-solana-sol-the-most-valuable-blockchain-53efce71e9d6?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-05T11:57:20.000Z",
-          "wordCount": 2443,
-          "title": "Does Amazon Web Services (AWS) make Solana (SOL) the Most Valuable Blockchain?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*ufvnVU98PJRrR45LDe8mxA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/00c38b50a82c",
-          "author": "Stonksmaster",
-          "description": "Peering into the financial future is a pursuit as old as markets themselves, with investors continually questing to separate the economic wheat from the chaff. At the heart of this pursuit lies…",
-          "link": "https://medium.com/coinmonks/fundamental-analysis-vs-market-trends-00c38b50a82c?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-05T11:57:19.000Z",
-          "wordCount": 8198,
-          "title": "Fundamental Analysis vs. Market Trends",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:940/0*sgGAAUGTXjF5yIKK.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e7549338b613",
-          "author": "Crypto Profits",
-          "description": "Welcome to the transformative realm of Telegram trading bots — a frontier where crypto traders harness the speed, convenience, and…",
-          "link": "https://medium.com/coinmonks/unleashing-the-power-of-telegram-trading-bots-a-comprehensive-guide-to-features-risks-and-e7549338b613?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-05T11:57:17.000Z",
-          "wordCount": 5845,
-          "title": "Unleashing the Power of Telegram Trading Bots: A Comprehensive Guide to Features, Risks, and…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:900/1*ndZbneytZOeQuVbB15ke0A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/0cc9290c4954",
-          "author": "36Crypto",
-          "description": "President of El Salvador, Nayib Bukele has disclosed that the country has recorded massive returns from its Bitcoin investment. He made…",
-          "link": "https://medium.com/coinmonks/el-salvador-records-massive-bitcoin-return-on-investment-see-how-much-0cc9290c4954?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-05T11:57:14.000Z",
-          "wordCount": 2699,
-          "title": "El Salvador Records Massive Bitcoin Return on Investment: See how much",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*m3xVdXuAOOQaAf8qM9eZhw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/2c26075ba05a",
-          "author": "Lamcer31210",
-          "description": "Here’s how the BNB Miner Dapp & my investments in it have done this past week\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bnb-miner-weekly-update-7-12-02-23-2c26075ba05a?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-05T11:57:10.000Z",
-          "wordCount": 2070,
-          "title": "BNB Miner weekly update #7–12/02/23",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:545/1*Dx91DLZafCSmEogaiNSXYA.png"
         }
       ]
     },
