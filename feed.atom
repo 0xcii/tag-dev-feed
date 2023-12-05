@@ -1,10 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-05T15:13:31.985Z</id>
+    <id>urn:2023-12-05T16:16:25.272Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-05T15:13:31.985Z</updated>
+    <updated>2023-12-05T16:16:25.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unleash the Power of DeFi on Bitcoin]]></title>
+        <id>https://blog.developerdao.com/unleash-the-power-of-defi-on-bitcoin</id>
+        <link href="https://blog.developerdao.com/unleash-the-power-of-defi-on-bitcoin"/>
+        <updated>2023-12-05T15:40:01.000Z</updated>
+        <summary type="html"><![CDATA[If you've been building on Ethereum and EVM-compatible chains and yet are intrigued by the potential of Bitcoin, this post is for you. We will talk about Stacks, a Bitcoin layer 2, and how it will unlock $500B+ of Bitcoin liquidity for everyday apps. 
+Since 2020s DeFi Summer, we have seen an explosion of smart contract-enabled applications and user experiencesDEXs, AMMs, lending protocols, NFT marketplaces, and morethat now define Web3 and crypto. 
+However, Bitcoin has not seen this innovation because building on Bitcoin is hard. Bitcoin Script is an incredibly limited language. That makes Bitcoin very securegreat for a store of value and digital currencybut it comes at the cost of programmability. You can't build apps and smart contracts directly on Bitcoin, but that is changing.
+We've se…]]></summary>
+        <author>
+            <name>Max Efremov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Solana Blockchain Application with NestJS: A Step-by-Step Guide]]></title>
+        <id>https://medium.com/p/c06b17ee48e6</id>
+        <link href="https://coinsbench.com/building-a-solana-blockchain-application-with-nestjs-a-step-by-step-guide-c06b17ee48e6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-05T15:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Burgossrodrigo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Mythril: A Solidity Security Analysis Tool by ConsenSys]]></title>
+        <id>https://medium.com/p/f24fc9ea543e</id>
+        <link href="https://coinsbench.com/understanding-mythril-a-solidity-security-analysis-tool-by-consensys-f24fc9ea543e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-05T15:13:55.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-evolving landscape of blockchain and cryptocurrency, security remains a paramount concern, especially in the realm of smart…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Sed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Honeypot Attack in Smart Contracts? How to Avoid it?]]></title>
+        <id>https://medium.com/p/7862bfed3fae</id>
+        <link href="https://coinsbench.com/what-is-a-honeypot-attack-in-smart-contracts-how-to-avoid-it-7862bfed3fae?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-05T15:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Honeypot attacks in smart contracts essentially exploit the check for interface consistency during contract interactions. Although simple…]]></summary>
+        <author>
+            <name>codingJourneyFromUnemployment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The EVM — Storage]]></title>
+        <id>https://medium.com/p/917efea001c3</id>
+        <link href="https://coinsbench.com/the-evm-storage-917efea001c3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-05T15:13:50.000Z</updated>
+        <summary type="html"><![CDATA[This will be one of the faster articles to summarize.]]></summary>
+        <author>
+            <name>NomadSecGuy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The EVM — CallData]]></title>
+        <id>https://medium.com/p/10eb38120ef4</id>
+        <link href="https://coinsbench.com/the-evm-calldata-10eb38120ef4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-05T15:13:47.000Z</updated>
+        <summary type="html"><![CDATA[I have been busy learning and gone well beyond CallData now, but I want to cover it as I have been covering the other areas of the EVM. I…]]></summary>
+        <author>
+            <name>NomadSecGuy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Ethereum’s Data Structure: A Simple Guide]]></title>
+        <id>https://medium.com/p/6f18758652e2</id>
+        <link href="https://coinsbench.com/understanding-ethereums-data-structure-a-simple-guide-6f18758652e2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-05T15:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered what Merkle Patricia Trie was? I know you’ve also thought about it at some point. I found a way to simplify it for…]]></summary>
+        <author>
+            <name>Favorite_blockchain_lady</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is MevBot’s Front Running Attack on Users? How to Avoid It?]]></title>
+        <id>https://medium.com/p/d25a3f1b882d</id>
+        <link href="https://coinsbench.com/what-is-mevbots-front-running-attack-on-users-how-to-avoid-it-d25a3f1b882d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-05T15:13:42.000Z</updated>
+        <summary type="html"><![CDATA[Many users often complain about being victims of sandwich attacks or front-running attacks. In reality, these attacks are often initiated…]]></summary>
+        <author>
+            <name>codingJourneyFromUnemployment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a delegatecall Attack in Smart Contracts, and How to Avoid It?]]></title>
+        <id>https://medium.com/p/f7581a055d2e</id>
+        <link href="https://coinsbench.com/what-is-a-delegatecall-attack-in-smart-contracts-and-how-to-avoid-it-f7581a055d2e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-05T15:13:36.000Z</updated>
+        <summary type="html"><![CDATA[delegatecall attacks in smart contracts are fundamentally an exploitation of the delegatecall feature to manipulate contract storage slots…]]></summary>
+        <author>
+            <name>codingJourneyFromUnemployment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Solidity: A Journey into Web3 Development]]></title>
+        <id>https://medium.com/p/bebbd5d28f49</id>
+        <link href="https://coinsbench.com/title-mastering-solidity-a-journey-into-web3-development-bebbd5d28f49?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-05T15:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Introduction:]]></summary>
+        <author>
+            <name>Securr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Legal Liability and Smart Contracts]]></title>
+        <id>https://medium.com/p/3c1825441cfc</id>
+        <link href="https://coinsbench.com/legal-liability-and-smart-contracts-3c1825441cfc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-05T15:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts, a critical component of many platforms and applications being built using blockchain or distributed ledger technology…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Staney Joseph ️</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlocking the Future of Finance: Avantis Vaults and Time-Tested Strategies for Smart Investments]]></title>
         <id>https://medium.com/p/3bb9aad15b33</id>
@@ -117,107 +232,6 @@ Continue reading on Coinmonks »]]></summary>
 The post It’s Here - Crypto Trading Bot Platform Gets New Intuitive UI appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Save up to 90% in gas costs]]></title>
-        <id>https://medium.com/p/9fa428308538</id>
-        <link href="https://coinsbench.com/save-up-to-90-in-gas-costs-9fa428308538?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-28T18:20:40.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that you can save users up to 90% of transaction costs by optimizing your contracts for less gas?]]></summary>
-        <author>
-            <name>nagrarohit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The EVM — Stack]]></title>
-        <id>https://medium.com/p/0766e212560b</id>
-        <link href="https://coinsbench.com/the-evm-stack-0766e212560b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-28T18:20:38.000Z</updated>
-        <summary type="html"><![CDATA[On the road of my Web3 Security learning, I’ve began diving deeper into the EVM (Ethereum Virtual Machine) as I want the foundational…]]></summary>
-        <author>
-            <name>NomadSecGuy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The EVM — Memory]]></title>
-        <id>https://medium.com/p/e221c54e3c2d</id>
-        <link href="https://coinsbench.com/the-evm-memory-e221c54e3c2d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-28T18:20:35.000Z</updated>
-        <summary type="html"><![CDATA[Today lets tackle memory in the Ethereum Virtual Machine (EVM)! Memory is similar to the EVM stack in that it uses 32 byte words but…]]></summary>
-        <author>
-            <name>NomadSecGuy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running a Blockchain Explorer for Geth using Docker]]></title>
-        <id>https://medium.com/p/3989b0d8a5b0</id>
-        <link href="https://coinsbench.com/running-a-blockchain-explorer-for-geth-using-docker-3989b0d8a5b0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-28T18:20:31.000Z</updated>
-        <summary type="html"><![CDATA[This article provides detailed steps to run Chainlens blockchain explorer for Geth (go-ethereum) using Docker.]]></summary>
-        <author>
-            <name>Binod Karunanayake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developing with Hyperledger Besu]]></title>
-        <id>https://medium.com/p/8e0ce6add63f</id>
-        <link href="https://coinsbench.com/developing-with-hyperledger-besu-8e0ce6add63f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-28T18:20:27.000Z</updated>
-        <summary type="html"><![CDATA[Is it the best out there? Why to choose Besu? Does Pvt Txns even make sense? Some pitfalls to avoid while developing dApps over Besu. In…]]></summary>
-        <author>
-            <name>Mihir Ranade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decimals in Solidity: A Fixed-Point of view]]></title>
-        <id>https://medium.com/p/df1a8704cf04</id>
-        <link href="https://coinsbench.com/decimals-in-solidity-a-fixed-point-of-view-df1a8704cf04?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-28T18:20:24.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Juan Xavier Valverde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi series: Everything You need to know about Yield Farming.]]></title>
-        <id>https://medium.com/p/0ea116395ba6</id>
-        <link href="https://coinsbench.com/defi-series-everything-you-need-to-know-about-yield-farming-0ea116395ba6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-24T10:17:06.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized Finance (DeFi) has transformed the way we view traditional finance, introducing exciting ways for earning passive income…]]></summary>
-        <author>
-            <name>Oluwadunnie Rachael</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise and Fall of Token Deployments on Ethereum: A Gas Fee Nightmare?]]></title>
-        <id>https://medium.com/p/8f933278655f</id>
-        <link href="https://coinsbench.com/the-rise-and-fall-of-token-deployments-on-ethereum-a-gas-fee-nightmare-8f933278655f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-24T10:17:03.000Z</updated>
-        <summary type="html"><![CDATA[Recently I deployed a token on the ETH network for someone. It cost approximately $40 in gas fees. The contract wasn’t quite right and I…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>David Mansion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Private Blockchains]]></title>
-        <id>https://medium.com/p/b1a8e8b3c6b0</id>
-        <link href="https://coinsbench.com/private-blockchains-b1a8e8b3c6b0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-22T11:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Private Blockchains are trusted networks where only network members interact on-chain. Unlike other blockchains, access requires…]]></summary>
-        <author>
-            <name>Sam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimenting with Vector Databases: Chromadb, Pinecone, Weaviate and Pgvector]]></title>
-        <id>https://medium.com/p/0f35c0356540</id>
-        <link href="https://coinsbench.com/experimenting-with-vector-databases-chromadb-pinecone-weaviate-and-pgvector-0f35c0356540?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-11-22T11:05:31.000Z</updated>
-        <summary type="html"><![CDATA[Vector databases are specialized systems designed for storing, managing, and searching embedding vectors. The widespread adoption of…]]></summary>
-        <author>
-            <name>Vishnu Sivan</name>
         </author>
     </entry>
     <entry>
