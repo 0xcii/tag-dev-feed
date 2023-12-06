@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T03:13:01.058Z</id>
+    <id>urn:2023-12-06T04:15:05.483Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-06T03:13:01.058Z</updated>
+    <updated>2023-12-06T04:15:05.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -58,108 +58,6 @@ However, Bitcoin has not seen this innovation because building on Bitcoin is har
 We've seen…]]></summary>
         <author>
             <name>Max Efremov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Solana Blockchain Application with NestJS: A Step-by-Step Guide]]></title>
-        <id>https://medium.com/p/c06b17ee48e6</id>
-        <link href="https://coinsbench.com/building-a-solana-blockchain-application-with-nestjs-a-step-by-step-guide-c06b17ee48e6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-05T15:13:58.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Burgossrodrigo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Mythril: A Solidity Security Analysis Tool by ConsenSys]]></title>
-        <id>https://medium.com/p/f24fc9ea543e</id>
-        <link href="https://coinsbench.com/understanding-mythril-a-solidity-security-analysis-tool-by-consensys-f24fc9ea543e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-05T15:13:55.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-evolving landscape of blockchain and cryptocurrency, security remains a paramount concern, especially in the realm of smart…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Sed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Honeypot Attack in Smart Contracts? How to Avoid it?]]></title>
-        <id>https://medium.com/p/7862bfed3fae</id>
-        <link href="https://coinsbench.com/what-is-a-honeypot-attack-in-smart-contracts-how-to-avoid-it-7862bfed3fae?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-05T15:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Honeypot attacks in smart contracts essentially exploit the check for interface consistency during contract interactions. Although simple…]]></summary>
-        <author>
-            <name>codingJourneyFromUnemployment</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The EVM — Storage]]></title>
-        <id>https://medium.com/p/917efea001c3</id>
-        <link href="https://coinsbench.com/the-evm-storage-917efea001c3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-05T15:13:50.000Z</updated>
-        <summary type="html"><![CDATA[This will be one of the faster articles to summarize.]]></summary>
-        <author>
-            <name>NomadSecGuy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The EVM — CallData]]></title>
-        <id>https://medium.com/p/10eb38120ef4</id>
-        <link href="https://coinsbench.com/the-evm-calldata-10eb38120ef4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-05T15:13:47.000Z</updated>
-        <summary type="html"><![CDATA[I have been busy learning and gone well beyond CallData now, but I want to cover it as I have been covering the other areas of the EVM. I…]]></summary>
-        <author>
-            <name>NomadSecGuy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Ethereum’s Data Structure: A Simple Guide]]></title>
-        <id>https://medium.com/p/6f18758652e2</id>
-        <link href="https://coinsbench.com/understanding-ethereums-data-structure-a-simple-guide-6f18758652e2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-05T15:13:44.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered what Merkle Patricia Trie was? I know you’ve also thought about it at some point. I found a way to simplify it for…]]></summary>
-        <author>
-            <name>Favorite_blockchain_lady</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is MevBot’s Front Running Attack on Users? How to Avoid It?]]></title>
-        <id>https://medium.com/p/d25a3f1b882d</id>
-        <link href="https://coinsbench.com/what-is-mevbots-front-running-attack-on-users-how-to-avoid-it-d25a3f1b882d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-05T15:13:42.000Z</updated>
-        <summary type="html"><![CDATA[Many users often complain about being victims of sandwich attacks or front-running attacks. In reality, these attacks are often initiated…]]></summary>
-        <author>
-            <name>codingJourneyFromUnemployment</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a delegatecall Attack in Smart Contracts, and How to Avoid It?]]></title>
-        <id>https://medium.com/p/f7581a055d2e</id>
-        <link href="https://coinsbench.com/what-is-a-delegatecall-attack-in-smart-contracts-and-how-to-avoid-it-f7581a055d2e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-05T15:13:36.000Z</updated>
-        <summary type="html"><![CDATA[delegatecall attacks in smart contracts are fundamentally an exploitation of the delegatecall feature to manipulate contract storage slots…]]></summary>
-        <author>
-            <name>codingJourneyFromUnemployment</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Solidity: A Journey into Web3 Development]]></title>
-        <id>https://medium.com/p/bebbd5d28f49</id>
-        <link href="https://coinsbench.com/title-mastering-solidity-a-journey-into-web3-development-bebbd5d28f49?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-05T15:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Introduction:]]></summary>
-        <author>
-            <name>Securr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legal Liability and Smart Contracts]]></title>
-        <id>https://medium.com/p/3c1825441cfc</id>
-        <link href="https://coinsbench.com/legal-liability-and-smart-contracts-3c1825441cfc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-05T15:13:31.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts, a critical component of many platforms and applications being built using blockchain or distributed ledger technology…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Staney Joseph ️</name>
         </author>
     </entry>
     <entry>
@@ -289,16 +187,6 @@ The post Satori: A Blockchain of AIs Built to Predict the Future | Proof Of T
 The post Poloniex Crypto Exchange Just Hacked For Over $114 Million - A Post-mortem appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is fuzz-testing (fuzzing)? Why do you need it? How? +More]]></title>
-        <id>https://medium.com/p/9d86f45632c8</id>
-        <link href="https://blog.blockmagnates.com/what-is-fuzz-testing-fuzzing-why-do-you-need-it-how-more-9d86f45632c8?source=rss----18fa961f1eff--solidity"/>
-        <updated>2023-11-06T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey anon, do you fuzz? 🏋️ An introductory guide to fuzz testing.]]></summary>
-        <author>
-            <name>sandman</name>
         </author>
     </entry>
 </feed>
