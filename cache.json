@@ -104,7 +104,7 @@
           "description": "Honeypot attacks in smart contracts essentially exploit the check for interface consistency during contract interactions. Although simple…",
           "link": "https://coinsbench.com/what-is-a-honeypot-attack-in-smart-contracts-how-to-avoid-it-7862bfed3fae?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-12-05T15:13:53.000Z",
-          "wordCount": 3486,
+          "wordCount": 3494,
           "title": "What is a Honeypot Attack in Smart Contracts? How to Avoid it?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*nkg5K9KArPxJd1mPUxYs3Q.jpeg"
         },
@@ -124,7 +124,7 @@
           "description": "I have been busy learning and gone well beyond CallData now, but I want to cover it as I have been covering the other areas of the EVM. I…",
           "link": "https://coinsbench.com/the-evm-calldata-10eb38120ef4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-12-05T15:13:47.000Z",
-          "wordCount": 2409,
+          "wordCount": 1684,
           "title": "The EVM — CallData",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*bRKcLKgS3AmB-S6gGcXdNg.png"
         },
@@ -144,7 +144,7 @@
           "description": "Many users often complain about being victims of sandwich attacks or front-running attacks. In reality, these attacks are often initiated…",
           "link": "https://coinsbench.com/what-is-mevbots-front-running-attack-on-users-how-to-avoid-it-d25a3f1b882d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-12-05T15:13:42.000Z",
-          "wordCount": 4204,
+          "wordCount": 4212,
           "title": "What is MevBot’s Front Running Attack on Users? How to Avoid It?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*nkg5K9KArPxJd1mPUxYs3Q.jpeg"
         },
@@ -154,7 +154,7 @@
           "description": "delegatecall attacks in smart contracts are fundamentally an exploitation of the delegatecall feature to manipulate contract storage slots…",
           "link": "https://coinsbench.com/what-is-a-delegatecall-attack-in-smart-contracts-and-how-to-avoid-it-f7581a055d2e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-12-05T15:13:36.000Z",
-          "wordCount": 2985,
+          "wordCount": 2993,
           "title": "What is a delegatecall Attack in Smart Contracts, and How to Avoid It?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*nkg5K9KArPxJd1mPUxYs3Q.jpeg"
         },
@@ -177,6 +177,113 @@
           "wordCount": 1373,
           "title": "Legal Liability and Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*dtAkJjm2EHUx1nNU"
+        }
+      ]
+    },
+    {
+      "title": "Coinmonks - Medium",
+      "feedUrl": "https://medium.com/feed/coinmonks",
+      "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
+      "articles": [
+        {
+          "id": "https://medium.com/p/36b27081a16a",
+          "author": "Michael Di Fulvio",
+          "description": "The Bitcoin mining landscape is on the cusp of a transformative change with the introduction of the OCEAN initiative.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/ocean-initiative-pioneering-a-new-era-in-bitcoin-mining-36b27081a16a?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-06T16:02:37.000Z",
+          "wordCount": 2315,
+          "title": "OCEAN Initiative: Pioneering a New Era in Bitcoin Mining",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*kksWRQPfk7eN6GM_jgX_rA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/fcb76c9e5a58",
+          "author": "Jamen Mendes",
+          "description": "Bitcoin is Taking Off, fueled by Imminent Approval of BitcoinETFs!\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/bitcoin-is-rising-to-45k-fcb76c9e5a58?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-06T16:02:37.000Z",
+          "wordCount": 2523,
+          "title": "Bitcoin is Rising to $45K!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:768/1*iLnDfFyKPSEgQJmoj1A_Zg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/aef900887af7",
+          "author": "Max Yampolsky",
+          "description": "My Solana thesis for 2024 and ecosystem overview\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/defi-defiance-why-does-solana-refuse-to-die-aef900887af7?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-06T16:02:35.000Z",
+          "wordCount": 2385,
+          "title": "DeFi Defiance: Why Does Solana REFUSE to DIE?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*W-NX-40ayb25SgjiWl15yg.png"
+        },
+        {
+          "id": "https://medium.com/p/0fdd5d70d2e7",
+          "author": "Linus Martel",
+          "description": "For the top crypto coins in December, that’s what we’re discussing today.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/huge-potential-crypto-coins-0fdd5d70d2e7?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-06T16:02:34.000Z",
+          "wordCount": 1570,
+          "title": "Huge Potential Crypto Coins",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*CULJG7h-nR1eUB19-KMyfA.png"
+        },
+        {
+          "id": "https://medium.com/p/75f2ae08a836",
+          "author": "Mark Timmis",
+          "description": "tl;dr\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-4th-december-2023-the-uk-qatar-75f2ae08a836?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-06T16:02:33.000Z",
+          "wordCount": 1545,
+          "title": "Curious Cryptos’ Commentary 4th December 2023 — The UK & Qatar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/81bd93d81f74",
+          "author": "Mark Timmis",
+          "description": "tl;dr\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-5th-december-2012-price-action-81bd93d81f74?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-06T16:02:31.000Z",
+          "wordCount": 2318,
+          "title": "Curious Cryptos’ Commentary 5th December 2012 — Price action!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:680/1*KA5ypQLuIOu2DcTcvaHHSg.png"
+        },
+        {
+          "id": "https://medium.com/p/9bd5602f065d",
+          "author": "Shantanu Gupta",
+          "description": "The race to launch the first spot Bitcoin exchange-traded fund (ETF) in the United States has taken a significant turn as BlackRock, the…",
+          "link": "https://medium.com/coinmonks/blackrock-got-100-000-in-seed-funding-for-a-bitcoin-etf-sec-filing-9bd5602f065d?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-06T16:02:27.000Z",
+          "wordCount": 2008,
+          "title": "BlackRock got $100,000 in seed funding for a Bitcoin ETF-SEC filing.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*m9S7Qy2KH33ZAKiGiBbhSQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/380ec9f4c3bb",
+          "author": "Johnwege",
+          "description": "The cryptocurrency market has often been referred to as the last frontier. There are still next to no regulations in this industry, which…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/avoid-these-things-or-youll-lose-everything-in-crypto-380ec9f4c3bb?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-06T16:02:22.000Z",
+          "wordCount": 2596,
+          "title": "Avoid These Things Or You’ll Lose Everything in Crypto",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HY3KVTUqa-MQ5OiOiGd6TA.png"
+        },
+        {
+          "id": "https://medium.com/p/3f46e6d9c9b0",
+          "author": "Jamen Mendes",
+          "description": "Kaspa Promises to outperform Bitcoin and become the “Silver” Crypto Currency!\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/is-kaspa-the-new-bitcoin-3f46e6d9c9b0?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-06T16:02:21.000Z",
+          "wordCount": 1544,
+          "title": "Is Kaspa the New Bitcoin?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:771/1*wnYlaLYdxhOT12WeReFihw.png"
+        },
+        {
+          "id": "https://medium.com/p/692a66ecb640",
+          "author": "Will Grimes",
+          "description": "Cryptocurrency has been taking the world by storm in recent years, with new coins and tokens being introduced almost daily. One such token…",
+          "link": "https://medium.com/coinmonks/what-you-need-to-know-about-the-revolutionary-raven-token-692a66ecb640?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-06T16:02:19.000Z",
+          "wordCount": 2288,
+          "title": "What You Need to Know About the Revolutionary Raven Token",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*C5Ai03IMeu2nXnTk.jpeg"
         }
       ]
     },
