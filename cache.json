@@ -74,6 +74,220 @@
       ]
     },
     {
+      "title": "CoinsBench - Medium",
+      "feedUrl": "https://coinsbench.com/feed",
+      "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
+      "articles": [
+        {
+          "id": "https://medium.com/p/c06b17ee48e6",
+          "author": "Burgossrodrigo",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/building-a-solana-blockchain-application-with-nestjs-a-step-by-step-guide-c06b17ee48e6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-05T15:13:58.000Z",
+          "wordCount": 2923,
+          "title": "Building a Solana Blockchain Application with NestJS: A Step-by-Step Guide",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*4eGBd_s1nvsmEE0_"
+        },
+        {
+          "id": "https://medium.com/p/f24fc9ea543e",
+          "author": "Sed",
+          "description": "In the fast-evolving landscape of blockchain and cryptocurrency, security remains a paramount concern, especially in the realm of smart…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/understanding-mythril-a-solidity-security-analysis-tool-by-consensys-f24fc9ea543e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-05T15:13:55.000Z",
+          "wordCount": 1340,
+          "title": "Understanding Mythril: A Solidity Security Analysis Tool by ConsenSys",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*jxXItAqnnrHHmB_s"
+        },
+        {
+          "id": "https://medium.com/p/7862bfed3fae",
+          "author": "codingJourneyFromUnemployment",
+          "description": "Honeypot attacks in smart contracts essentially exploit the check for interface consistency during contract interactions. Although simple…",
+          "link": "https://coinsbench.com/what-is-a-honeypot-attack-in-smart-contracts-how-to-avoid-it-7862bfed3fae?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-05T15:13:53.000Z",
+          "wordCount": 3420,
+          "title": "What is a Honeypot Attack in Smart Contracts? How to Avoid it?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*nkg5K9KArPxJd1mPUxYs3Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/917efea001c3",
+          "author": "NomadSecGuy",
+          "description": "This will be one of the faster articles to summarize.",
+          "link": "https://coinsbench.com/the-evm-storage-917efea001c3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-05T15:13:50.000Z",
+          "wordCount": 2008,
+          "title": "The EVM — Storage",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*segLQVl2GK4Gu4nDSwz63Q.png"
+        },
+        {
+          "id": "https://medium.com/p/10eb38120ef4",
+          "author": "NomadSecGuy",
+          "description": "I have been busy learning and gone well beyond CallData now, but I want to cover it as I have been covering the other areas of the EVM. I…",
+          "link": "https://coinsbench.com/the-evm-calldata-10eb38120ef4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-05T15:13:47.000Z",
+          "wordCount": 2443,
+          "title": "The EVM — CallData",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*bRKcLKgS3AmB-S6gGcXdNg.png"
+        },
+        {
+          "id": "https://medium.com/p/6f18758652e2",
+          "author": "Favorite_blockchain_lady",
+          "description": "Have you ever wondered what Merkle Patricia Trie was? I know you’ve also thought about it at some point. I found a way to simplify it for…",
+          "link": "https://coinsbench.com/understanding-ethereums-data-structure-a-simple-guide-6f18758652e2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-05T15:13:44.000Z",
+          "wordCount": 3158,
+          "title": "Understanding Ethereum’s Data Structure: A Simple Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*2PocqNTwfrkNsZRnpfaZsQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/d25a3f1b882d",
+          "author": "codingJourneyFromUnemployment",
+          "description": "Many users often complain about being victims of sandwich attacks or front-running attacks. In reality, these attacks are often initiated…",
+          "link": "https://coinsbench.com/what-is-mevbots-front-running-attack-on-users-how-to-avoid-it-d25a3f1b882d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-05T15:13:42.000Z",
+          "wordCount": 4138,
+          "title": "What is MevBot’s Front Running Attack on Users? How to Avoid It?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*nkg5K9KArPxJd1mPUxYs3Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/f7581a055d2e",
+          "author": "codingJourneyFromUnemployment",
+          "description": "delegatecall attacks in smart contracts are fundamentally an exploitation of the delegatecall feature to manipulate contract storage slots…",
+          "link": "https://coinsbench.com/what-is-a-delegatecall-attack-in-smart-contracts-and-how-to-avoid-it-f7581a055d2e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-05T15:13:36.000Z",
+          "wordCount": 2989,
+          "title": "What is a delegatecall Attack in Smart Contracts, and How to Avoid It?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*nkg5K9KArPxJd1mPUxYs3Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/bebbd5d28f49",
+          "author": "Securr",
+          "description": "Introduction:",
+          "link": "https://coinsbench.com/title-mastering-solidity-a-journey-into-web3-development-bebbd5d28f49?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-05T15:13:33.000Z",
+          "wordCount": 2700,
+          "title": "Mastering Solidity: A Journey into Web3 Development",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*CtpZTtvhDbOBEkRbWEcxGQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3c1825441cfc",
+          "author": "Staney Joseph ️",
+          "description": "Smart contracts, a critical component of many platforms and applications being built using blockchain or distributed ledger technology…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/legal-liability-and-smart-contracts-3c1825441cfc?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-05T15:13:31.000Z",
+          "wordCount": 1373,
+          "title": "Legal Liability and Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*dtAkJjm2EHUx1nNU"
+        }
+      ]
+    },
+    {
+      "title": "Coinmonks - Medium",
+      "feedUrl": "https://medium.com/feed/coinmonks",
+      "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
+      "articles": [
+        {
+          "id": "https://medium.com/p/71c1995c7a75",
+          "author": "Tom Holland",
+          "description": "Today, I’m thrilled to share how much money we raked in last month and introduce you to my top five coin picks for December.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/top-5-coin-picks-for-december-2024-71c1995c7a75?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T16:33:15.000Z",
+          "wordCount": 2345,
+          "title": "Top 5 Coin Picks for December 2024",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*khbbBaDqQH39wZx5"
+        },
+        {
+          "id": "https://medium.com/p/8831107081cd",
+          "author": "Silverbacked Gorilla",
+          "description": "Portfoilio management | Liquidity Farming | Automation | Cross-Chain Interoperability.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/best-crypto-signals-04dec23-limit-orders-come-to-pulsechain-8831107081cd?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T16:33:14.000Z",
+          "wordCount": 2378,
+          "title": "Best Crypto Signals 04DEC23 — Limit Orders Come to Pulsechain.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*xuAQkfu6hg75PusX.png"
+        },
+        {
+          "id": "https://medium.com/p/a07e6463f3d1",
+          "author": "Shruti",
+          "description": "A few months ago, Sam Altman voiced apprehensions regarding the various applications of OpenAI. “I’m particularly worried that these models",
+          "link": "https://medium.com/coinmonks/world-id-your-proof-of-being-a-human-against-ai-a07e6463f3d1?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T16:33:12.000Z",
+          "wordCount": 3592,
+          "title": "World ID: Your Proof of being a human against AI",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:500/0*-hcjbZ9A-ToTvNxc.gif"
+        },
+        {
+          "id": "https://medium.com/p/c9a9a43e4a04",
+          "author": "NRG Bloom",
+          "description": "In our day-to-day lives, energy is a fundamental part of our existence, driving everything from the daily commute to the operation of our…",
+          "link": "https://medium.com/coinmonks/what-is-stranded-energy-why-it-matters-to-bitcoin-c9a9a43e4a04?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T16:33:10.000Z",
+          "wordCount": 8208,
+          "title": "What is Stranded Energy? Why it Matters to Bitcoin",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bSWn2H06Kpo5sTb2L8M2-g.png"
+        },
+        {
+          "id": "https://medium.com/p/3bb9aad15b33",
+          "author": "Mutantplantgpunk",
+          "description": "In the fast-evolving landscape of digital finance, platforms like Avantis Labs have emerged, offering individuals unique opportunities to…",
+          "link": "https://medium.com/coinmonks/unlocking-the-future-of-finance-avantis-vaults-and-time-tested-strategies-for-smart-investments-3bb9aad15b33?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T13:31:36.000Z",
+          "wordCount": 2654,
+          "title": "Unlocking the Future of Finance: Avantis Vaults and Time-Tested Strategies for Smart Investments",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*upSbGWC3rTCfqJjlNn799A.png"
+        },
+        {
+          "id": "https://medium.com/p/3d256c0f013e",
+          "author": "Digital Consumer",
+          "description": "Introduction",
+          "link": "https://medium.com/coinmonks/04-reasons-to-avoid-cloud-crypto-mining-3d256c0f013e?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T13:31:32.000Z",
+          "wordCount": 3190,
+          "title": "04 Reasons to Avoid Cloud Crypto Mining",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*vOiKer0yAWnYW1jZ"
+        },
+        {
+          "id": "https://medium.com/p/351ea0d32ff8",
+          "author": "Mike Coldman",
+          "description": "Dive into the hidden gems of the cryptocurrency world, as we reveal little-known altcoins poised for unprecedented growth in 2024!”\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/discover-the-secret-gaming-crypto-altcoins-ready-to-explode-in-2024-351ea0d32ff8?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T13:31:30.000Z",
+          "wordCount": 2437,
+          "title": "Discover the secret Gaming Crypto Altcoins ready to explode in 2024!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:500/1*sDIJDRnIxbKkw-ln2E7EFg.png"
+        },
+        {
+          "id": "https://medium.com/p/41fbca557ae6",
+          "author": "Gabe Araujo, M.Sc.",
+          "description": "Photo by Towfiqu barbhuiya on Unsplash\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/what-if-incorrect-was-the-safest-password-you-could-use-41fbca557ae6?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T13:31:28.000Z",
+          "wordCount": 2464,
+          "title": "What If ‘Incorrect’ Was the Safest Password You Could Use?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*eqyKKwI2E68HvuPb_pmubw@2x.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/9b1b1b9c9ae2",
+          "author": "Angad Singh",
+          "description": "Create your own bridge in 30 minutes!\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/create-a-cross-evm-bridge-using-solidity-typescript-hardhat-ethers-js-9b1b1b9c9ae2?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T13:31:27.000Z",
+          "wordCount": 2138,
+          "title": "Create a Cross-EVM bridge using Solidity, Typescript, Hardhat & ethers.js",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1084/1*Ig60FwXTuiEcg8cY_VzIzg.png"
+        },
+        {
+          "id": "https://medium.com/p/0ae2f15c3c02",
+          "author": "YAROCELIS.eth - Tech Trends",
+          "description": "Sign Up — Advertise",
+          "link": "https://medium.com/coinmonks/the-new-york-times-faces-backlash-for-publishing-an-ai-list-featuring-only-men-0ae2f15c3c02?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-05T13:31:25.000Z",
+          "wordCount": 4360,
+          "title": "The New York Times Faces Backlash for Publishing an AI List Featuring Only Men",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*DycCohnvzzI5O6uW.png"
+        }
+      ]
+    },
+    {
       "title": "Solidity in Block Magnates on Medium",
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
