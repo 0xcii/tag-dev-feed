@@ -69,6 +69,76 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/ce2b7c916408",
+          "author": "Burgossrodrigo",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/2024-guide-to-run-a-teku-besu-validator-on-gcp-ce2b7c916408?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-12T13:37:29.000Z",
+          "wordCount": 2071,
+          "title": "2024 guide to run a ethereum pos teku/besu validator on GCP",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*XosAbRE-zXlxvZbg"
+        },
+        {
+          "id": "https://medium.com/p/85d936ada8fa",
+          "author": "Ranjithkumar",
+          "description": "Are you ready to dive into the fascinating world of blockchain development? Imagine creating your very own application-specific blockchain…",
+          "link": "https://coinsbench.com/application-specific-blockchains-using-substrate-85d936ada8fa?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-12T13:36:52.000Z",
+          "wordCount": 2591,
+          "title": "Application Specific Blockchains using Substrate",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rY8uWuBWQcot73xDpJ-7RA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c6bed757bf66",
+          "author": "Ranjithkumar",
+          "description": "Blockchain technology has exploded in popularity, but its underlying architecture can be confusing. Understanding the different layers of a blockchain is crucial to appreciating its full potential…",
+          "link": "https://coinsbench.com/decoding-the-layers-of-blockchain-a-real-world-guide-c6bed757bf66?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-12T13:36:49.000Z",
+          "wordCount": 1708,
+          "title": "Decoding the Layers of Blockchain: A Real-World Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*nq74jvugBeExVtL4.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/63a5e003638b",
+          "author": "Ranjithkumar",
+          "description": "The world of blockchain technology is brimming with potential, but its adoption is often hampered by scalability issues. Layer 1 blockchains, like Bitcoin and Ethereum, can only handle a limited…",
+          "link": "https://coinsbench.com/scaling-the-blockchain-a-look-at-different-layer-2-solutions-63a5e003638b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-12T13:36:45.000Z",
+          "wordCount": 2113,
+          "title": "Scaling the Blockchain: A Look at Different Layer 2 Solutions",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*OtoxNmJHvUK9CvNC.jpg"
+        },
+        {
+          "id": "https://medium.com/p/a01c6f25f644",
+          "author": "0x3A44",
+          "description": "Blockchain technology, which entered our lives with Bitcoin, has been tried to be used in many areas by developers and entrepreneurs. While…",
+          "link": "https://coinsbench.com/keeping-logs-of-biometric-systems-on-blockchain-a01c6f25f644?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-12T13:36:42.000Z",
+          "wordCount": 1954,
+          "title": "Keeping Logs of Biometric Systems on Blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*kEyQN4-3nlKUw0F5BcmsBA.png"
+        },
+        {
+          "id": "https://medium.com/p/167a027cd0b1",
+          "author": "Ranjithkumar",
+          "description": "Blockchain technology is revolutionizing the way we interact with the internet and with each other. One of the key components of blockchain technology is the blockchain node. Blockchain nodes are…",
+          "link": "https://coinsbench.com/blockchain-node-providers-the-backbone-of-web3-167a027cd0b1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-12T13:36:24.000Z",
+          "wordCount": 1727,
+          "title": "Blockchain Node Providers: The Backbone of Web3",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*Y0dGXrX4Ba04edJe.jpg"
+        },
+        {
+          "id": "https://medium.com/p/d6e81f9d0ed4",
+          "author": "Ranjithkumar",
+          "description": "Both Bitcoin and Ethereum are built on the concept of blockchain, which is essentially a public ledger of all transactions that have ever occurred on the network. This ledger is maintained by a…",
+          "link": "https://coinsbench.com/state-transition-function-the-engine-of-bitcoin-and-ethereum-d6e81f9d0ed4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-12T13:36:22.000Z",
+          "wordCount": 2200,
+          "title": "State Transition Function: The Engine of Bitcoin and Ethereum",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*9ZWgesSRmYZ4kz9M.jpg"
+        },
+        {
           "id": "https://medium.com/p/d1a8564b06dd",
           "author": "Crypto Express",
           "description": "Over $900 million was hacked in crypto in 2023. How can blockchain analysis help in finding and retrieving stolen assets?",
@@ -84,7 +154,7 @@
           "description": "Smart contracts are essentially public programs running on Ethereum, often taking on a portion of the backend role in DApp development…",
           "link": "https://coinsbench.com/why-you-should-never-store-sensitive-data-in-smart-contracts-f23e7d41419b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-12-09T12:27:35.000Z",
-          "wordCount": 2993,
+          "wordCount": 2982,
           "title": "Why You Should Never Store Sensitive Data in Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*nkg5K9KArPxJd1mPUxYs3Q.jpeg"
         },
@@ -97,76 +167,6 @@
           "wordCount": 3644,
           "title": "What is IPFS? And quick demonstration of its setup",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:560/1*cG3Wp_rTWU10Jr039iMWMw.png"
-        },
-        {
-          "id": "https://medium.com/p/c690b0e3bd6e",
-          "author": "Valentine Blaze",
-          "description": "In the realm of blockchain technology, the concept of trust is redefined through the ingenious implementation of smart contracts. These…",
-          "link": "https://coinsbench.com/smart-contracts-automating-trust-in-a-trustless-world-c690b0e3bd6e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-09T12:27:30.000Z",
-          "wordCount": 2053,
-          "title": "Smart Contracts: Automating Trust in a Trustless World",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:500/1*Ahj7Zt9bmeYgZ6jPB-jIRw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/335bd5109f1a",
-          "author": "codingJourneyFromUnemployment",
-          "description": "Self destruct attacks in smart contracts fundamentally target the logic of the contract. Although these attacks are relatively…",
-          "link": "https://coinsbench.com/what-is-a-self-destruct-attack-in-smart-contracts-how-to-prevent-it-%EF%B8%8F-335bd5109f1a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-07T13:09:39.000Z",
-          "wordCount": 2262,
-          "title": "What is a Self Destruct Attack in Smart Contracts? How to Prevent It? ️",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*nkg5K9KArPxJd1mPUxYs3Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e324a0b4cf2f",
-          "author": "Guilherme Soares",
-          "description": "#365daystobecameakillerblockchaindeveloper\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/day-62-solidity-101-introduction-to-ethereums-programming-language-e324a0b4cf2f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-07T13:08:51.000Z",
-          "wordCount": 1239,
-          "title": "Day 62: Solidity 101: Introduction to Ethereum’s Programming Language",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*RlW651L1yCVjEnIh"
-        },
-        {
-          "id": "https://medium.com/p/6ebaba1d359d",
-          "author": "Alexander Koval",
-          "description": "Part 7 -Release",
-          "link": "https://coinsbench.com/gas-less-way-to-purchase-eth-for-usdc-6ebaba1d359d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-07T13:08:48.000Z",
-          "wordCount": 909,
-          "title": "Gas-less way to purchase ETH for USDC",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6EAwuWL6Amk7KbcHcESLrQ.png"
-        },
-        {
-          "id": "https://medium.com/p/fc73a9c4f992",
-          "author": "The Toymaker",
-          "description": "Embarking on the exciting journey of blockchain development is akin to unlocking a treasure trove of possibilities. In this blog post…",
-          "link": "https://coinsbench.com/hello-blockchain-a-step-by-step-guide-to-your-first-ethereum-smart-contract-with-solidity-fc73a9c4f992?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-07T13:08:46.000Z",
-          "wordCount": 1584,
-          "title": "Hello, Blockchain! A Step-by-Step Guide to Your First Ethereum Smart Contract with Solidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2c1f0a68ff78",
-          "author": "The Toymaker",
-          "description": "In the ever-evolving landscape of technology, blockchain stands as a revolutionary force, reshaping industries and redefining the way we…",
-          "link": "https://coinsbench.com/unveiling-the-future-crafting-blockchain-marvels-with-solidity-2c1f0a68ff78?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-07T13:08:43.000Z",
-          "wordCount": 1709,
-          "title": "Unveiling the Future: Crafting Blockchain Marvels with Solidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/af1b4bcfd705",
-          "author": "Ghazi Khan",
-          "description": "Explore gas optimization techniques in Solidity for Ethereum smart contracts. Learn data type selection, control flow optimization, and…",
-          "link": "https://coinsbench.com/gas-optimization-techniques-in-solidity-a-comprehensive-guide-af1b4bcfd705?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-07T13:08:40.000Z",
-          "wordCount": 1972,
-          "title": "Gas Optimization Techniques in Solidity: A Comprehensive Guide",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*GE89GeaMwrmzfWWx"
         }
       ]
     },
@@ -281,7 +281,18 @@
       "title": "Solidity in Block Magnates on Medium",
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://medium.com/p/bc2ebf836747",
+          "author": "Thomas Ender",
+          "description": "In Solidity we have two special functions able to receive Ether in “special” cases. Get ready and strap on! I want you to meet receive()…",
+          "link": "https://blog.blockmagnates.com/solidity-special-functions-for-receiving-ether-in-smart-contracts-bc2ebf836747?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-12-12T14:06:50.000Z",
+          "wordCount": 3186,
+          "title": "Solidity Special Functions for receiving Ether in Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ehnXemVy27fMHPmxb91n5w.png"
+        }
+      ]
     },
     {
       "title": "Developer DAO Blog | Web3 Tutorials",

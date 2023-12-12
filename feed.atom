@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-12T13:15:23.949Z</id>
+    <id>urn:2023-12-12T14:11:33.575Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-12T13:15:23.949Z</updated>
+    <updated>2023-12-12T14:11:33.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Special Functions for receiving Ether in Smart Contracts]]></title>
+        <id>https://medium.com/p/bc2ebf836747</id>
+        <link href="https://blog.blockmagnates.com/solidity-special-functions-for-receiving-ether-in-smart-contracts-bc2ebf836747?source=rss----18fa961f1eff--solidity"/>
+        <updated>2023-12-12T14:06:50.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity we have two special functions able to receive Ether in “special” cases. Get ready and strap on! I want you to meet receive()…]]></summary>
+        <author>
+            <name>Thomas Ender</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 guide to run a ethereum pos teku/besu validator on GCP]]></title>
+        <id>https://medium.com/p/ce2b7c916408</id>
+        <link href="https://coinsbench.com/2024-guide-to-run-a-teku-besu-validator-on-gcp-ce2b7c916408?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-12T13:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Burgossrodrigo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Application Specific Blockchains using Substrate]]></title>
+        <id>https://medium.com/p/85d936ada8fa</id>
+        <link href="https://coinsbench.com/application-specific-blockchains-using-substrate-85d936ada8fa?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-12T13:36:52.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to dive into the fascinating world of blockchain development? Imagine creating your very own application-specific blockchain…]]></summary>
+        <author>
+            <name>Ranjithkumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decoding the Layers of Blockchain: A Real-World Guide]]></title>
+        <id>https://medium.com/p/c6bed757bf66</id>
+        <link href="https://coinsbench.com/decoding-the-layers-of-blockchain-a-real-world-guide-c6bed757bf66?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-12T13:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology has exploded in popularity, but its underlying architecture can be confusing. Understanding the different layers of a blockchain is crucial to appreciating its full potential…]]></summary>
+        <author>
+            <name>Ranjithkumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling the Blockchain: A Look at Different Layer 2 Solutions]]></title>
+        <id>https://medium.com/p/63a5e003638b</id>
+        <link href="https://coinsbench.com/scaling-the-blockchain-a-look-at-different-layer-2-solutions-63a5e003638b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-12T13:36:45.000Z</updated>
+        <summary type="html"><![CDATA[The world of blockchain technology is brimming with potential, but its adoption is often hampered by scalability issues. Layer 1 blockchains, like Bitcoin and Ethereum, can only handle a limited…]]></summary>
+        <author>
+            <name>Ranjithkumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeping Logs of Biometric Systems on Blockchain]]></title>
+        <id>https://medium.com/p/a01c6f25f644</id>
+        <link href="https://coinsbench.com/keeping-logs-of-biometric-systems-on-blockchain-a01c6f25f644?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-12T13:36:42.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology, which entered our lives with Bitcoin, has been tried to be used in many areas by developers and entrepreneurs. While…]]></summary>
+        <author>
+            <name>0x3A44</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Node Providers: The Backbone of Web3]]></title>
+        <id>https://medium.com/p/167a027cd0b1</id>
+        <link href="https://coinsbench.com/blockchain-node-providers-the-backbone-of-web3-167a027cd0b1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-12T13:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology is revolutionizing the way we interact with the internet and with each other. One of the key components of blockchain technology is the blockchain node. Blockchain nodes are…]]></summary>
+        <author>
+            <name>Ranjithkumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State Transition Function: The Engine of Bitcoin and Ethereum]]></title>
+        <id>https://medium.com/p/d6e81f9d0ed4</id>
+        <link href="https://coinsbench.com/state-transition-function-the-engine-of-bitcoin-and-ethereum-d6e81f9d0ed4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-12T13:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Both Bitcoin and Ethereum are built on the concept of blockchain, which is essentially a public ledger of all transactions that have ever occurred on the network. This ledger is maintained by a…]]></summary>
+        <author>
+            <name>Ranjithkumar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seven Reasons Why I Think Kucoin Will Always Be Second Tier Exchange]]></title>
         <id>https://medium.com/p/c7e66019907e</id>
@@ -148,77 +228,6 @@ The post Top 10 Crypto Trading Bot Strategies Of 2024 appeared first on cryptom
         <summary type="html"><![CDATA[Greetings, esteemed members of the cybersecurity community. I am Srivatsa Chetlur, a security researcher with a passion for exploring the…]]></summary>
         <author>
             <name>csvatsa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contracts: Automating Trust in a Trustless World]]></title>
-        <id>https://medium.com/p/c690b0e3bd6e</id>
-        <link href="https://coinsbench.com/smart-contracts-automating-trust-in-a-trustless-world-c690b0e3bd6e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-09T12:27:30.000Z</updated>
-        <summary type="html"><![CDATA[In the realm of blockchain technology, the concept of trust is redefined through the ingenious implementation of smart contracts. These…]]></summary>
-        <author>
-            <name>Valentine Blaze</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Self Destruct Attack in Smart Contracts? How to Prevent It? ️]]></title>
-        <id>https://medium.com/p/335bd5109f1a</id>
-        <link href="https://coinsbench.com/what-is-a-self-destruct-attack-in-smart-contracts-how-to-prevent-it-%EF%B8%8F-335bd5109f1a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-07T13:09:39.000Z</updated>
-        <summary type="html"><![CDATA[Self destruct attacks in smart contracts fundamentally target the logic of the contract. Although these attacks are relatively…]]></summary>
-        <author>
-            <name>codingJourneyFromUnemployment</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 62: Solidity 101: Introduction to Ethereum’s Programming Language]]></title>
-        <id>https://medium.com/p/e324a0b4cf2f</id>
-        <link href="https://coinsbench.com/day-62-solidity-101-introduction-to-ethereums-programming-language-e324a0b4cf2f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-07T13:08:51.000Z</updated>
-        <summary type="html"><![CDATA[#365daystobecameakillerblockchaindeveloper
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Guilherme Soares</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gas-less way to purchase ETH for USDC]]></title>
-        <id>https://medium.com/p/6ebaba1d359d</id>
-        <link href="https://coinsbench.com/gas-less-way-to-purchase-eth-for-usdc-6ebaba1d359d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-07T13:08:48.000Z</updated>
-        <summary type="html"><![CDATA[Part 7 -Release]]></summary>
-        <author>
-            <name>Alexander Koval</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello, Blockchain! A Step-by-Step Guide to Your First Ethereum Smart Contract with Solidity]]></title>
-        <id>https://medium.com/p/fc73a9c4f992</id>
-        <link href="https://coinsbench.com/hello-blockchain-a-step-by-step-guide-to-your-first-ethereum-smart-contract-with-solidity-fc73a9c4f992?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-07T13:08:46.000Z</updated>
-        <summary type="html"><![CDATA[Embarking on the exciting journey of blockchain development is akin to unlocking a treasure trove of possibilities. In this blog post…]]></summary>
-        <author>
-            <name>The Toymaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unveiling the Future: Crafting Blockchain Marvels with Solidity]]></title>
-        <id>https://medium.com/p/2c1f0a68ff78</id>
-        <link href="https://coinsbench.com/unveiling-the-future-crafting-blockchain-marvels-with-solidity-2c1f0a68ff78?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-07T13:08:43.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving landscape of technology, blockchain stands as a revolutionary force, reshaping industries and redefining the way we…]]></summary>
-        <author>
-            <name>The Toymaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gas Optimization Techniques in Solidity: A Comprehensive Guide]]></title>
-        <id>https://medium.com/p/af1b4bcfd705</id>
-        <link href="https://coinsbench.com/gas-optimization-techniques-in-solidity-a-comprehensive-guide-af1b4bcfd705?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-07T13:08:40.000Z</updated>
-        <summary type="html"><![CDATA[Explore gas optimization techniques in Solidity for Ethereum smart contracts. Learn data type selection, control flow optimization, and…]]></summary>
-        <author>
-            <name>Ghazi Khan</name>
         </author>
     </entry>
     <entry>
