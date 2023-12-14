@@ -64,6 +64,237 @@
       ]
     },
     {
+      "title": "CoinsBench - Medium",
+      "feedUrl": "https://coinsbench.com/feed",
+      "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
+      "articles": [
+        {
+          "id": "https://medium.com/p/ce2b7c916408",
+          "author": "Burgossrodrigo",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/2024-guide-to-run-a-teku-besu-validator-on-gcp-ce2b7c916408?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-12T13:37:29.000Z",
+          "wordCount": 2071,
+          "title": "2024 guide to run a ethereum pos teku/besu validator on GCP",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*XosAbRE-zXlxvZbg"
+        },
+        {
+          "id": "https://medium.com/p/85d936ada8fa",
+          "author": "Ranjithkumar",
+          "description": "Are you ready to dive into the fascinating world of blockchain development? Imagine creating your very own application-specific blockchain…",
+          "link": "https://coinsbench.com/application-specific-blockchains-using-substrate-85d936ada8fa?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-12T13:36:52.000Z",
+          "wordCount": 2591,
+          "title": "Application Specific Blockchains using Substrate",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rY8uWuBWQcot73xDpJ-7RA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c6bed757bf66",
+          "author": "Ranjithkumar",
+          "description": "Blockchain technology has exploded in popularity, but its underlying architecture can be confusing. Understanding the different layers of a blockchain is crucial to appreciating its full potential…",
+          "link": "https://coinsbench.com/decoding-the-layers-of-blockchain-a-real-world-guide-c6bed757bf66?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-12T13:36:49.000Z",
+          "wordCount": 1708,
+          "title": "Decoding the Layers of Blockchain: A Real-World Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*nq74jvugBeExVtL4.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/63a5e003638b",
+          "author": "Ranjithkumar",
+          "description": "The world of blockchain technology is brimming with potential, but its adoption is often hampered by scalability issues. Layer 1 blockchains, like Bitcoin and Ethereum, can only handle a limited…",
+          "link": "https://coinsbench.com/scaling-the-blockchain-a-look-at-different-layer-2-solutions-63a5e003638b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-12T13:36:45.000Z",
+          "wordCount": 2113,
+          "title": "Scaling the Blockchain: A Look at Different Layer 2 Solutions",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*OtoxNmJHvUK9CvNC.jpg"
+        },
+        {
+          "id": "https://medium.com/p/a01c6f25f644",
+          "author": "0x3A44",
+          "description": "Blockchain technology, which entered our lives with Bitcoin, has been tried to be used in many areas by developers and entrepreneurs. While…",
+          "link": "https://coinsbench.com/keeping-logs-of-biometric-systems-on-blockchain-a01c6f25f644?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-12T13:36:42.000Z",
+          "wordCount": 1954,
+          "title": "Keeping Logs of Biometric Systems on Blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*kEyQN4-3nlKUw0F5BcmsBA.png"
+        },
+        {
+          "id": "https://medium.com/p/167a027cd0b1",
+          "author": "Ranjithkumar",
+          "description": "Blockchain technology is revolutionizing the way we interact with the internet and with each other. One of the key components of blockchain technology is the blockchain node. Blockchain nodes are…",
+          "link": "https://coinsbench.com/blockchain-node-providers-the-backbone-of-web3-167a027cd0b1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-12T13:36:24.000Z",
+          "wordCount": 1727,
+          "title": "Blockchain Node Providers: The Backbone of Web3",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*Y0dGXrX4Ba04edJe.jpg"
+        },
+        {
+          "id": "https://medium.com/p/d6e81f9d0ed4",
+          "author": "Ranjithkumar",
+          "description": "Both Bitcoin and Ethereum are built on the concept of blockchain, which is essentially a public ledger of all transactions that have ever occurred on the network. This ledger is maintained by a…",
+          "link": "https://coinsbench.com/state-transition-function-the-engine-of-bitcoin-and-ethereum-d6e81f9d0ed4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-12T13:36:22.000Z",
+          "wordCount": 2200,
+          "title": "State Transition Function: The Engine of Bitcoin and Ethereum",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*9ZWgesSRmYZ4kz9M.jpg"
+        },
+        {
+          "id": "https://medium.com/p/d1a8564b06dd",
+          "author": "Crypto Express",
+          "description": "Over $900 million was hacked in crypto in 2023. How can blockchain analysis help in finding and retrieving stolen assets?",
+          "link": "https://coinsbench.com/tracking-stolen-crypto-how-blockchain-analysis-helps-recover-funds-express-summary-d1a8564b06dd?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-09T12:27:40.000Z",
+          "wordCount": 1842,
+          "title": "Tracking stolen crypto — How blockchain analysis helps recover funds (Express Summary)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:717/1*nnRS3yIK0hisrLyC8Mbm7Q.png"
+        },
+        {
+          "id": "https://medium.com/p/f23e7d41419b",
+          "author": "codingJourneyFromUnemployment",
+          "description": "Smart contracts are essentially public programs running on Ethereum, often taking on a portion of the backend role in DApp development…",
+          "link": "https://coinsbench.com/why-you-should-never-store-sensitive-data-in-smart-contracts-f23e7d41419b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-09T12:27:35.000Z",
+          "wordCount": 2993,
+          "title": "Why You Should Never Store Sensitive Data in Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*nkg5K9KArPxJd1mPUxYs3Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/838bb44d03d8",
+          "author": "csvatsa",
+          "description": "Greetings, esteemed members of the cybersecurity community. I am Srivatsa Chetlur, a security researcher with a passion for exploring the…",
+          "link": "https://coinsbench.com/what-is-ipfs-and-quick-demonstration-of-its-setup-838bb44d03d8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-09T12:27:32.000Z",
+          "wordCount": 3644,
+          "title": "What is IPFS? And quick demonstration of its setup",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:560/1*cG3Wp_rTWU10Jr039iMWMw.png"
+        }
+      ]
+    },
+    {
+      "title": "Coinmonks - Medium",
+      "feedUrl": "https://medium.com/feed/coinmonks",
+      "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
+      "articles": [
+        {
+          "id": "https://medium.com/p/038624979117",
+          "author": "Jamessmithh",
+          "description": "Step into the future of blockchain technology with our handpicked selection of the Top 15 Crypto Token Development Companies in India for…",
+          "link": "https://medium.com/coinmonks/top-15-crypto-token-development-companies-in-india-for-2024-038624979117?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-14T10:00:41.000Z",
+          "wordCount": 3048,
+          "title": "Top 15 Crypto Token Development Companies in India for 2024",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NJH0MlsFYQ3Rxc6Xg2i_Kw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/bac79cfc5065",
+          "author": "Williammarkerzz",
+          "description": "Embark on a transformative journey as we guide you ‘From Idea to Execution,’ unveiling the steps in crafting your own Crypto Exchange.",
+          "link": "https://medium.com/coinmonks/from-idea-to-execution-crafting-your-crypto-exchange-journey-bac79cfc5065?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-14T10:00:38.000Z",
+          "wordCount": 2341,
+          "title": "From Idea to Execution: Crafting Your Crypto Exchange Journey",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*5VtjPjNJr_X3OhyQZ0ZFsA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/a52b2d191a78",
+          "author": "EarnBIT",
+          "description": "The stock market has its own Christmas miracles — uptrends starting on or shortly before December 25. Crypto has also seen its share of…",
+          "link": "https://medium.com/coinmonks/crypto-santa-claus-rally-catalysts-for-2023-2024-a52b2d191a78?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-14T10:00:09.000Z",
+          "wordCount": 3231,
+          "title": "Crypto Santa Claus Rally: Catalysts in 2023/2024",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*K6HsFAiOe0X3qZkQhK-DmQ.png"
+        },
+        {
+          "id": "https://medium.com/p/26f0001732e2",
+          "author": "Shantanu Gupta",
+          "description": "The cryptocurrency landscape is ever-evolving, and every market cycle brings forth new contenders aiming to upset the status quo. In 2024…",
+          "link": "https://medium.com/coinmonks/bonk-flips-pepe-as-this-new-memecoin-eyes-1-million-26f0001732e2?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-14T10:00:08.000Z",
+          "wordCount": 2157,
+          "title": "Bonk Flips Pepe as This New Memecoin Eyes $1 Million",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xjGl_VPatSAHHQbf7Fmvxg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/0c8d78fd718e",
+          "author": "Emveep",
+          "description": "Meta launches new feature to stop Instagram tracking on the web. Learn how to manage data, transfer content, and share stories.",
+          "link": "https://medium.com/coinmonks/meta-presents-a-new-feature-to-stop-instagram-tracking-on-the-web-0c8d78fd718e?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-14T10:00:06.000Z",
+          "wordCount": 1650,
+          "title": "Meta Presents a New Feature to Stop Instagram Tracking On The Web",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xXudEAgyn3hea_f89_QbHw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/b9b65ede3b71",
+          "author": "Albert Peter",
+          "description": "Boost your business with a Token Development Company’s expertise — optimize token valuation for success!",
+          "link": "https://medium.com/coinmonks/can-a-token-development-company-help-my-business-with-token-valuation-b9b65ede3b71?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-14T10:00:06.000Z",
+          "wordCount": 3748,
+          "title": "Can a Token Development Company Help My Business With Token Valuation?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ctAb7Ofg9fSNLBF3v0gLGg.png"
+        },
+        {
+          "id": "https://medium.com/p/471c85375d34",
+          "author": "Crypto Beat",
+          "description": "Bitcoin has demonstrated remarkable resilience in 2023, bouncing back from a low of $16,800. The cryptocurrency has achieved over 153%.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/bitcoins-price-soars-to-new-all-time-highs-471c85375d34?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-14T10:00:01.000Z",
+          "wordCount": 1425,
+          "title": "Bitcoin’s Price Soars to New All-Time Highs",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*C9MBcLgUUwfTGvVj"
+        },
+        {
+          "id": "https://medium.com/p/6510e4c9e5fd",
+          "author": "Shantanu Gupta",
+          "description": "Are you intrigued by the potential of cryptocurrencies but unsure where to start? Look no further! Our “Crypto Ultimatum” training system…",
+          "link": "https://medium.com/coinmonks/uncovering-crypto-ultimatum-a-gateway-to-cryptocurrency-success-6510e4c9e5fd?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-14T09:59:59.000Z",
+          "wordCount": 1854,
+          "title": "Uncovering “Crypto Ultimatum”: A Gateway to Cryptocurrency Success",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wRb-J-J7xJ5FwTS9E4CWBA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/5937d8428ea4",
+          "author": "Jimena",
+          "description": "Dive into the world of DeFi marketing excellence with our guide to the Top 12 Agencies of 2024.",
+          "link": "https://medium.com/coinmonks/meet-the-top-12-defi-marketing-agencies-of-2024-5937d8428ea4?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-14T09:59:59.000Z",
+          "wordCount": 2429,
+          "title": "Meet the Top 12 DeFi Marketing Agencies of 2024",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*z24J8WNg6TSCixOAnRBGDg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/69879d34557b",
+          "author": "PRDT Finance",
+          "description": "Hello, PRDT Community! We’re excited to bring you another edition of our weekly crypto news roundup, where we spotlight the most pivotal…",
+          "link": "https://medium.com/coinmonks/crypto-news-roundup-7th-13th-dec-2023-69879d34557b?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-14T09:59:54.000Z",
+          "wordCount": 2856,
+          "title": "Crypto News Roundup: 7th — 13th Dec 2023",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wlckOHQkKfe5UpZO6JLgwg.png"
+        }
+      ]
+    },
+    {
+      "title": "Solidity in Block Magnates on Medium",
+      "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
+      "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
+      "articles": [
+        {
+          "id": "https://medium.com/p/bc2ebf836747",
+          "author": "Thomas Ender",
+          "description": "In Solidity we have two special functions able to receive Ether in “special” cases. Get ready and strap on! I want you to meet receive()…",
+          "link": "https://blog.blockmagnates.com/solidity-special-functions-for-receiving-ether-in-smart-contracts-bc2ebf836747?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-12-12T14:06:50.000Z",
+          "wordCount": 3186,
+          "title": "Solidity Special Functions for receiving Ether in Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ehnXemVy27fMHPmxb91n5w.png"
+        }
+      ]
+    },
+    {
       "title": "Developer DAO Blog | Web3 Tutorials",
       "feedUrl": "https://blog.developerdao.com/rss.xml",
       "siteUrl": "https://blog.developerdao.com",
