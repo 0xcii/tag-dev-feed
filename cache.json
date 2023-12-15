@@ -69,6 +69,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/0cbca63d6764",
+          "author": "Ranjithkumar",
+          "description": "eWASM is a new bytecode format that will be used in Ethereum 2.0. It is based on WebAssembly, which is a portable, binary format for code that can run in web browsers and other environments. eWASM is…",
+          "link": "https://coinsbench.com/what-is-ethereum-web-assembly-ewasm-0cbca63d6764?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-15T15:23:25.000Z",
+          "wordCount": 2464,
+          "title": "What is Ethereum Web Assembly (eWASM)?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*Kckt0KomKr8Z95qh.jpg"
+        },
+        {
           "id": "https://medium.com/p/ce2b7c916408",
           "author": "Burgossrodrigo",
           "description": "Introduction",
@@ -99,44 +109,14 @@
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*nq74jvugBeExVtL4.jpeg"
         },
         {
-          "id": "https://medium.com/p/63a5e003638b",
-          "author": "Ranjithkumar",
-          "description": "The world of blockchain technology is brimming with potential, but its adoption is often hampered by scalability issues. Layer 1 blockchains, like Bitcoin and Ethereum, can only handle a limited…",
-          "link": "https://coinsbench.com/scaling-the-blockchain-a-look-at-different-layer-2-solutions-63a5e003638b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-12T13:36:45.000Z",
-          "wordCount": 2113,
-          "title": "Scaling the Blockchain: A Look at Different Layer 2 Solutions",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*OtoxNmJHvUK9CvNC.jpg"
-        },
-        {
           "id": "https://medium.com/p/a01c6f25f644",
           "author": "0x3A44",
           "description": "Blockchain technology, which entered our lives with Bitcoin, has been tried to be used in many areas by developers and entrepreneurs. While…",
           "link": "https://coinsbench.com/keeping-logs-of-biometric-systems-on-blockchain-a01c6f25f644?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-12-12T13:36:42.000Z",
-          "wordCount": 1954,
+          "wordCount": 1953,
           "title": "Keeping Logs of Biometric Systems on Blockchain",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*kEyQN4-3nlKUw0F5BcmsBA.png"
-        },
-        {
-          "id": "https://medium.com/p/167a027cd0b1",
-          "author": "Ranjithkumar",
-          "description": "Blockchain technology is revolutionizing the way we interact with the internet and with each other. One of the key components of blockchain technology is the blockchain node. Blockchain nodes are…",
-          "link": "https://coinsbench.com/blockchain-node-providers-the-backbone-of-web3-167a027cd0b1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-12T13:36:24.000Z",
-          "wordCount": 1727,
-          "title": "Blockchain Node Providers: The Backbone of Web3",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*Y0dGXrX4Ba04edJe.jpg"
-        },
-        {
-          "id": "https://medium.com/p/d6e81f9d0ed4",
-          "author": "Ranjithkumar",
-          "description": "Both Bitcoin and Ethereum are built on the concept of blockchain, which is essentially a public ledger of all transactions that have ever occurred on the network. This ledger is maintained by a…",
-          "link": "https://coinsbench.com/state-transition-function-the-engine-of-bitcoin-and-ethereum-d6e81f9d0ed4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-12T13:36:22.000Z",
-          "wordCount": 2200,
-          "title": "State Transition Function: The Engine of Bitcoin and Ethereum",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*9ZWgesSRmYZ4kz9M.jpg"
         },
         {
           "id": "https://medium.com/p/d1a8564b06dd",
@@ -154,7 +134,7 @@
           "description": "Smart contracts are essentially public programs running on Ethereum, often taking on a portion of the backend role in DApp development…",
           "link": "https://coinsbench.com/why-you-should-never-store-sensitive-data-in-smart-contracts-f23e7d41419b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2023-12-09T12:27:35.000Z",
-          "wordCount": 2993,
+          "wordCount": 2982,
           "title": "Why You Should Never Store Sensitive Data in Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*nkg5K9KArPxJd1mPUxYs3Q.jpeg"
         },
@@ -167,6 +147,26 @@
           "wordCount": 3644,
           "title": "What is IPFS? And quick demonstration of its setup",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:560/1*cG3Wp_rTWU10Jr039iMWMw.png"
+        },
+        {
+          "id": "https://medium.com/p/c690b0e3bd6e",
+          "author": "Valentine Blaze",
+          "description": "In the realm of blockchain technology, the concept of trust is redefined through the ingenious implementation of smart contracts. These…",
+          "link": "https://coinsbench.com/smart-contracts-automating-trust-in-a-trustless-world-c690b0e3bd6e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-09T12:27:30.000Z",
+          "wordCount": 2053,
+          "title": "Smart Contracts: Automating Trust in a Trustless World",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:500/1*Ahj7Zt9bmeYgZ6jPB-jIRw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/335bd5109f1a",
+          "author": "codingJourneyFromUnemployment",
+          "description": "Self destruct attacks in smart contracts fundamentally target the logic of the contract. Although these attacks are relatively…",
+          "link": "https://coinsbench.com/what-is-a-self-destruct-attack-in-smart-contracts-how-to-prevent-it-%EF%B8%8F-335bd5109f1a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-07T13:09:39.000Z",
+          "wordCount": 2251,
+          "title": "What is a Self Destruct Attack in Smart Contracts? How to Prevent It? ️",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*nkg5K9KArPxJd1mPUxYs3Q.jpeg"
         }
       ]
     },
@@ -176,104 +176,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/0b26a7a914f7",
-          "author": "Christinapaul",
-          "description": "Elevate your Security Token Offering (STO) success with Blockchain App Factory’s expert consultancy services. Our comprehensive approach…",
-          "link": "https://medium.com/coinmonks/elevating-token-offerings-to-new-heights-blockchain-app-factorys-comprehensive-sto-consultancy-0b26a7a914f7?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-15T13:24:31.000Z",
-          "wordCount": 2609,
-          "title": "Elevating Token Offerings to New Heights: Blockchain App Factory’s Comprehensive STO Consultancy…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ZZ4HeRYTW8mRO9e0dqNOuQ.jpeg"
+          "id": "https://medium.com/p/aa3354701981",
+          "author": "Dmitry K",
+          "description": "A multisig wallet, commonly known as a multisig wallet, is a cryptocurrency wallet that requires multiple signatures to create and process…",
+          "link": "https://medium.com/coinmonks/multi-signature-crypto-wallet-and-how-it-works-aa3354701981?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-15T16:09:28.000Z",
+          "wordCount": 3022,
+          "title": "Multi-signature crypto wallet and how it works",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*SQMIjRAi5H00NvFPWtKkVQ.jpeg"
         },
         {
-          "id": "https://medium.com/p/881afe189339",
-          "author": "ASTL Token (Astol Token)",
-          "description": "As the cryptocurrency community has been focused on the potential approval of a spot Bitcoin exchange-traded fund (ETF) in the United States, some cryptocurrency-related ETFs have already made…",
-          "link": "https://medium.com/coinmonks/top-5-blockchain-etfs-with-returns-over-100-in-2023-881afe189339?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-15T13:24:25.000Z",
-          "wordCount": 1777,
-          "title": "Top 5 blockchain ETFs with returns over 100% in 2023.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*2kN47G-O3S5PLPWxZG7vcQ.jpeg"
+          "id": "https://medium.com/p/55b16a7522ea",
+          "author": "Awais gill",
+          "description": "If you’re looking for a free and easy way to save money on your online purchases, PayPal Honey is a great option.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/what-is-paypal-honey-paypal-honey-review-55b16a7522ea?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-15T16:09:27.000Z",
+          "wordCount": 1524,
+          "title": "What is Paypal Honey? Paypal Honey Review",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*pB9mJTfYCUg3FUft"
         },
         {
-          "id": "https://medium.com/p/0b10bfd009b5",
-          "author": "Cryptophia",
-          "description": "Cryptocurrencies are constantly evolving and expanding, and there are many opportunities and challenges that lie ahead for the industry. In this blog post, I will analyze some of the latest news and…",
-          "link": "https://medium.com/coinmonks/the-latest-crypto-news-and-what-they-mean-for-the-industry-0b10bfd009b5?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-15T13:13:42.000Z",
-          "wordCount": 3114,
-          "title": "The Latest Crypto News and What They Mean for the Industry",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*jwxzLxxacJ-ef-nMaL0L-Q@2x.jpeg"
+          "id": "https://medium.com/p/43e4075e3b87",
+          "author": "Fractal_Monk",
+          "description": "A cooler than expected CPI data release (3.2% vs 3.3% forecast) on Tuesday reinforced the market view that the hiking cycle is over and…",
+          "link": "https://medium.com/coinmonks/soft-cpi-report-adds-fuel-to-the-cross-asset-rally-43e4075e3b87?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-15T16:09:25.000Z",
+          "wordCount": 2385,
+          "title": "Soft CPI Report Adds Fuel to the Cross Asset Rally",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*pyHY2heHMskOwwlIT3l8Cg.png"
         },
         {
-          "id": "https://medium.com/p/ff5eacaf957",
-          "author": "WhatIsLove CRYPTO",
-          "description": "In recent years, blockchain technology has emerged as a transformative force across various sectors, promising enhanced security…",
-          "link": "https://medium.com/coinmonks/sei-blockchain-revolutionizing-industries-and-empowering-the-future-ff5eacaf957?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-15T13:13:40.000Z",
-          "wordCount": 2094,
-          "title": "SEI Blockchain: Revolutionizing Industries and Empowering the Future",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*uMyaVimfeS-ctb-c.png"
+          "id": "https://medium.com/p/3485e2e86ddc",
+          "author": "Fractal_Monk",
+          "description": "Macro",
+          "link": "https://medium.com/coinmonks/crypto-overhang-gone-with-binance-settlement-3485e2e86ddc?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-15T16:09:23.000Z",
+          "wordCount": 2231,
+          "title": "Crypto Overhang gone with Binance Settlement?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-qFYIeRhUWCVyj84IAZOIA.png"
         },
         {
-          "id": "https://medium.com/p/1dcc22b09071",
-          "author": "Williammarkerzz",
-          "description": "Position your business at the forefront of the digital finance revolution with our guide to the Top 15 STO Token Development Companies in…",
-          "link": "https://medium.com/coinmonks/top-15-sto-token-development-companies-in-2024-1dcc22b09071?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-15T13:13:39.000Z",
-          "wordCount": 3041,
-          "title": "Top 15 STO Token Development Companies in 2024",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rFF7RKPhGaWSJa3JkkG4RA.jpeg"
+          "id": "https://medium.com/p/9be476bc4549",
+          "author": "Fractal_Monk",
+          "description": "Let’s have a look at the bigger macro picture and how things are shaping up in tradfi. The week ending 3rd Nov was very action packed and…",
+          "link": "https://medium.com/coinmonks/big-week-in-macroland-9be476bc4549?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-15T16:09:22.000Z",
+          "wordCount": 3733,
+          "title": "Big Week in Macroland",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*CYLo4bXZK7YrWNlLKEYQ4Q.png"
         },
         {
-          "id": "https://medium.com/p/357b6a6b2433",
-          "author": "S M Waqas",
-          "description": "In a recent political development, Argentina made waves by electing a Pro-Bitcoin president, adding an intriguing chapter to the ongoing…",
-          "link": "https://medium.com/coinmonks/bitcoin-mass-adoption-a-pro-bitcoin-presidents-impact-on-argentina-s-crypto-future-357b6a6b2433?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-15T13:13:35.000Z",
-          "wordCount": 1814,
-          "title": "Bitcoin Mass Adoption: A Pro-Bitcoin President’s Impact on Argentina’s Crypto Future.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*_qDK00KBF8ie2zSDgF7ULg.png"
+          "id": "https://medium.com/p/d72c957487b9",
+          "author": "Fractal_Monk",
+          "description": "After the blockbuster action packed last week, this week was much quieter from a data release perspective.",
+          "link": "https://medium.com/coinmonks/the-cross-asset-everything-rally-d72c957487b9?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-15T16:09:20.000Z",
+          "wordCount": 2210,
+          "title": "The Cross Asset Everything Rally",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*_MWTDyFxGODGXyEB7HuO4g.png"
         },
         {
-          "id": "https://medium.com/p/2683fef738e5",
-          "author": "Thomsonrichard",
-          "description": "In the ever-evolving landscape of digital assets, non-fungible tokens (NFTs) have emerged as unique, irreplaceable tokens representing…",
-          "link": "https://medium.com/coinmonks/nft-rental-marketplace-development-2683fef738e5?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-15T13:13:35.000Z",
-          "wordCount": 4763,
-          "title": "NFT Rental Marketplace Development: Paving the Way for Wide-Scale NFT Adoption!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uhWvce1ML_xkuvoPCVuo-g.jpeg"
+          "id": "https://medium.com/p/76d43a92f8e6",
+          "author": "Fractal_Monk",
+          "description": "Risk appetite is back in the market as the searing cross asset rally continues and economic data continues to be favorable for the end of…",
+          "link": "https://medium.com/coinmonks/risk-appetite-back-as-spx-has-one-of-the-best-novembers-in-a-century-76d43a92f8e6?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-15T16:09:18.000Z",
+          "wordCount": 2750,
+          "title": "Risk Appetite Back As SPX Has One Of The Best Novembers In A Century!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:803/1*Yg7pszUgO0GxfF36mgpzLA.png"
         },
         {
-          "id": "https://medium.com/p/3f229ac889db",
-          "author": "Thomsonrichard",
-          "description": "In the ever-evolving landscape of virtual reality, the concept of the metaverse has taken center stage, transforming the way we perceive…",
-          "link": "https://medium.com/coinmonks/metaverse-casino-games-3f229ac889db?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-15T13:13:31.000Z",
-          "wordCount": 4250,
-          "title": "Navigating the Virtual Realm: A Deep Dive into Metaverse Casino Games",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VlypuDthdaKPjp9Ri3yumg.jpeg"
+          "id": "https://medium.com/p/f667bb99ebf8",
+          "author": "CryptoLola",
+          "description": "During this period, the inscription market is booming, and those who participated in the early stage of inscription have made huge profits…",
+          "link": "https://medium.com/coinmonks/he-made-100-000-in-the-inscription-market-in-one-month-f667bb99ebf8?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-15T16:09:15.000Z",
+          "wordCount": 3609,
+          "title": "He made $100,000 in the inscription market in one month",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*AS7yAoupSAC3aXZuog684g.jpeg"
         },
         {
-          "id": "https://medium.com/p/71360880764d",
-          "author": "Thomsonrichard",
-          "description": "In the ever-evolving landscape of gaming, non-fungible tokens (NFTs) have emerged as a revolutionary force, transforming the way players…",
-          "link": "https://medium.com/coinmonks/top-10-nft-gaming-companies-in-2024-71360880764d?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-15T13:13:26.000Z",
-          "wordCount": 3015,
-          "title": "Top 10 Companies Leading the Way in Gaming Innovation in 2024",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lUYERwRJlUqM0fMnQbmNjQ.jpeg"
+          "id": "https://medium.com/p/7ef649ae68d6",
+          "author": "Libertex (Europe)",
+          "description": "Many have predicted that the next century will belong to China, and the narrative of a rising star in the East has become stronger and…",
+          "link": "https://medium.com/coinmonks/china-slips-further-into-deflation-as-the-west-breathes-a-sigh-of-relief-7ef649ae68d6?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-15T16:09:13.000Z",
+          "wordCount": 2622,
+          "title": "China slips further into deflation as the West breathes a sigh of relief",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*e7aZ3uJy7dIIEtz-yes1Ow.jpeg"
         },
         {
-          "id": "https://medium.com/p/7a18408d2525",
-          "author": "Thomsonrichard",
-          "description": "In the fast-paced world of blockchain technology, non-fungible tokens (NFTs) have emerged as a transformative force. As we stand on the…",
-          "link": "https://medium.com/coinmonks/nft-development-trends-2024-7a18408d2525?source=rss----721b17443fd5---4",
-          "publishedOn": "2023-12-15T13:13:23.000Z",
-          "wordCount": 3859,
-          "title": "NFT Development Trends 2024: Unveiling the Future Potential",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*v6ieEvgE8i9HkapTogK-xQ.jpeg"
+          "id": "https://medium.com/p/80b6a224a6fd",
+          "author": "Dare Adegoriolu",
+          "description": "As the candles start to turn green and the alphas start to return, the entire crypto space is becoming optimistic once again. This time…",
+          "link": "https://medium.com/coinmonks/getting-rekt-the-crypto-way-6-things-newbies-should-note-in-the-bull-market-80b6a224a6fd?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-15T16:09:11.000Z",
+          "wordCount": 2898,
+          "title": "Getting REKT the Crypto Way: 6 Things Newbies Should Note in the Bull Market",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*w607TJx8ktIUTUCJbLM-OA.jpeg"
         }
       ]
     },
