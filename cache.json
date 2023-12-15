@@ -69,6 +69,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/af118424be7f",
+          "author": "Supratip Banerjee",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/leveraging-agorics-hardened-javascript-for-enhanced-smart-contract-security-af118424be7f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-15T17:11:29.000Z",
+          "wordCount": 3855,
+          "title": "Leveraging Agoric’s Hardened JavaScript for Enhanced Smart Contract Security",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*q7aNd6S1q4KltCvm"
+        },
+        {
           "id": "https://medium.com/p/0cbca63d6764",
           "author": "Ranjithkumar",
           "description": "eWASM is a new bytecode format that will be used in Ethereum 2.0. It is based on WebAssembly, which is a portable, binary format for code that can run in web browsers and other environments. eWASM is…",
@@ -157,16 +167,6 @@
           "wordCount": 2053,
           "title": "Smart Contracts: Automating Trust in a Trustless World",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:500/1*Ahj7Zt9bmeYgZ6jPB-jIRw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/335bd5109f1a",
-          "author": "codingJourneyFromUnemployment",
-          "description": "Self destruct attacks in smart contracts fundamentally target the logic of the contract. Although these attacks are relatively…",
-          "link": "https://coinsbench.com/what-is-a-self-destruct-attack-in-smart-contracts-how-to-prevent-it-%EF%B8%8F-335bd5109f1a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-07T13:09:39.000Z",
-          "wordCount": 2262,
-          "title": "What is a Self Destruct Attack in Smart Contracts? How to Prevent It? ️",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*nkg5K9KArPxJd1mPUxYs3Q.jpeg"
         }
       ]
     },

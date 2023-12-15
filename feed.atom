@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-15T17:11:12.896Z</id>
+    <id>urn:2023-12-15T18:15:16.212Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-15T17:11:12.896Z</updated>
+    <updated>2023-12-15T18:15:16.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Leveraging Agoric’s Hardened JavaScript for Enhanced Smart Contract Security]]></title>
+        <id>https://medium.com/p/af118424be7f</id>
+        <link href="https://coinsbench.com/leveraging-agorics-hardened-javascript-for-enhanced-smart-contract-security-af118424be7f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-15T17:11:29.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Supratip Banerjee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multi-signature crypto wallet and how it works]]></title>
         <id>https://medium.com/p/aa3354701981</id>
@@ -215,16 +225,6 @@ The post Top 10 Crypto Trading Bot Strategies Of 2024 appeared first on cryptom
         <summary type="html"><![CDATA[In the realm of blockchain technology, the concept of trust is redefined through the ingenious implementation of smart contracts. These…]]></summary>
         <author>
             <name>Valentine Blaze</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Self Destruct Attack in Smart Contracts? How to Prevent It? ️]]></title>
-        <id>https://medium.com/p/335bd5109f1a</id>
-        <link href="https://coinsbench.com/what-is-a-self-destruct-attack-in-smart-contracts-how-to-prevent-it-%EF%B8%8F-335bd5109f1a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-07T13:09:39.000Z</updated>
-        <summary type="html"><![CDATA[Self destruct attacks in smart contracts fundamentally target the logic of the contract. Although these attacks are relatively…]]></summary>
-        <author>
-            <name>codingJourneyFromUnemployment</name>
         </author>
     </entry>
     <entry>
