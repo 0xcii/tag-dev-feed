@@ -59,6 +59,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/956a727a9ba8",
+          "author": "Juan Xavier Valverde",
+          "description": "This article is an attempt to understand and explain the differences between Solady’s FixedPointMathLib library and ABDK Consulting’s…",
+          "link": "https://coinsbench.com/a-decimal-and-a-binary-walk-into-a-library-two-options-for-solidity-math-956a727a9ba8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-16T12:19:23.000Z",
+          "wordCount": 2965,
+          "title": "A decimal and a binary walk into a library: Two options for Solidity math",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9qT-F3XpTB79ULJECaY3cA.png"
+        },
+        {
+          "id": "https://medium.com/p/cb16a6dac068",
+          "author": "Luis Antonio Cruz",
+          "description": "Hi devs, here Luis, and in this tutorial, I’d like to share with you what is the process to deploy your first smart contract in the EON…",
+          "link": "https://coinsbench.com/deploying-my-first-smart-contract-in-eon-network-cb16a6dac068?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-16T12:19:20.000Z",
+          "wordCount": 5955,
+          "title": "Deploying your first smart contract with Solidity & Hardhat — EON Network",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yvnzMY_xKbANMHNfhwxvMA.png"
+        },
+        {
+          "id": "https://medium.com/p/02cfa5a4303c",
+          "author": "Harith  D. Jayawardhane",
+          "description": "Navigating the Future of Governance with Python, React, and Solidity Smart Contract",
+          "link": "https://coinsbench.com/decentralized-governance-developing-a-web3-infused-dao-application-part-1-02cfa5a4303c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-16T12:19:15.000Z",
+          "wordCount": 1870,
+          "title": "Decentralized Governance: Developing a Web3-Infused DAO Application (PART-1)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*z0zZsewV8kdi6o4fS1cbkQ.png"
+        },
+        {
+          "id": "https://medium.com/p/3311dbae6794",
+          "author": "Harith  D. Jayawardhane",
+          "description": "Implementing Solidity Smart Contracts for Our Web3-Infused DAO",
+          "link": "https://coinsbench.com/decentralized-governance-developing-a-web3-infused-dao-application-part-2-3311dbae6794?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-16T12:19:09.000Z",
+          "wordCount": 3530,
+          "title": "Decentralized Governance: Developing a Web3-Infused DAO Application (PART-2)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*z0zZsewV8kdi6o4fS1cbkQ.png"
+        },
+        {
+          "id": "https://medium.com/p/a3e135ef53a8",
+          "author": "Ybbus",
+          "description": "Getting started with you first tiny steps into the world of smart contracts.",
+          "link": "https://coinsbench.com/unlocking-blockchain-magic-an-easy-hands-on-introduction-to-smart-contracts-part-1-a3e135ef53a8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-16T12:19:03.000Z",
+          "wordCount": 6488,
+          "title": "Unlocking Blockchain Magic: An Easy Hands-On Introduction to Smart Contracts — Part 1",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*2ARBBxJRcjrpVCfVjsmgbA.png"
+        },
+        {
+          "id": "https://medium.com/p/503adf53fc18",
+          "author": "Ybbus",
+          "description": "Welcome to the intriguing world of blockchain technology, where the principles of decentralization and coding converge to forge innovative…",
+          "link": "https://coinsbench.com/ethers-js-typescript-your-gateway-to-evm-blockchain-adventures-503adf53fc18?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-16T12:19:01.000Z",
+          "wordCount": 7564,
+          "title": "Ethers.js & TypeScript: Your Gateway to EVM Blockchain Adventures",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*LtvzSsJUQL4TEba-7X9x5w.png"
+        },
+        {
           "id": "https://medium.com/p/af118424be7f",
           "author": "Supratip Banerjee",
           "description": "Introduction",
@@ -97,66 +157,6 @@
           "wordCount": 2591,
           "title": "Application Specific Blockchains using Substrate",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rY8uWuBWQcot73xDpJ-7RA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/c6bed757bf66",
-          "author": "Ranjithkumar",
-          "description": "Blockchain technology has exploded in popularity, but its underlying architecture can be confusing. Understanding the different layers of a blockchain is crucial to appreciating its full potential…",
-          "link": "https://coinsbench.com/decoding-the-layers-of-blockchain-a-real-world-guide-c6bed757bf66?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-12T13:36:49.000Z",
-          "wordCount": 1708,
-          "title": "Decoding the Layers of Blockchain: A Real-World Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*nq74jvugBeExVtL4.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/a01c6f25f644",
-          "author": "0x3A44",
-          "description": "Blockchain technology, which entered our lives with Bitcoin, has been tried to be used in many areas by developers and entrepreneurs. While…",
-          "link": "https://coinsbench.com/keeping-logs-of-biometric-systems-on-blockchain-a01c6f25f644?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-12T13:36:42.000Z",
-          "wordCount": 1953,
-          "title": "Keeping Logs of Biometric Systems on Blockchain",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*kEyQN4-3nlKUw0F5BcmsBA.png"
-        },
-        {
-          "id": "https://medium.com/p/d1a8564b06dd",
-          "author": "Crypto Express",
-          "description": "Over $900 million was hacked in crypto in 2023. How can blockchain analysis help in finding and retrieving stolen assets?",
-          "link": "https://coinsbench.com/tracking-stolen-crypto-how-blockchain-analysis-helps-recover-funds-express-summary-d1a8564b06dd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-09T12:27:40.000Z",
-          "wordCount": 1842,
-          "title": "Tracking stolen crypto — How blockchain analysis helps recover funds (Express Summary)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:717/1*nnRS3yIK0hisrLyC8Mbm7Q.png"
-        },
-        {
-          "id": "https://medium.com/p/f23e7d41419b",
-          "author": "codingJourneyFromUnemployment",
-          "description": "Smart contracts are essentially public programs running on Ethereum, often taking on a portion of the backend role in DApp development…",
-          "link": "https://coinsbench.com/why-you-should-never-store-sensitive-data-in-smart-contracts-f23e7d41419b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-09T12:27:35.000Z",
-          "wordCount": 2993,
-          "title": "Why You Should Never Store Sensitive Data in Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*nkg5K9KArPxJd1mPUxYs3Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/838bb44d03d8",
-          "author": "csvatsa",
-          "description": "Greetings, esteemed members of the cybersecurity community. I am Srivatsa Chetlur, a security researcher with a passion for exploring the…",
-          "link": "https://coinsbench.com/what-is-ipfs-and-quick-demonstration-of-its-setup-838bb44d03d8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-09T12:27:32.000Z",
-          "wordCount": 3644,
-          "title": "What is IPFS? And quick demonstration of its setup",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:560/1*cG3Wp_rTWU10Jr039iMWMw.png"
-        },
-        {
-          "id": "https://medium.com/p/c690b0e3bd6e",
-          "author": "Valentine Blaze",
-          "description": "In the realm of blockchain technology, the concept of trust is redefined through the ingenious implementation of smart contracts. These…",
-          "link": "https://coinsbench.com/smart-contracts-automating-trust-in-a-trustless-world-c690b0e3bd6e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-09T12:27:30.000Z",
-          "wordCount": 2053,
-          "title": "Smart Contracts: Automating Trust in a Trustless World",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:500/1*Ahj7Zt9bmeYgZ6jPB-jIRw.jpeg"
         }
       ]
     },
