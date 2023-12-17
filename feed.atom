@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-17T08:14:11.370Z</id>
+    <id>urn:2023-12-17T09:11:10.547Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-17T08:14:11.370Z</updated>
+    <updated>2023-12-17T09:11:10.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Solidity’s Secrets: A Whirlwind Through the #100DaysOfSolidityInterview Adventure!]]></title>
+        <id>https://medium.com/p/862961fc4538</id>
+        <link href="https://coinsbench.com/unlocking-soliditys-secrets-a-whirlwind-through-the-100daysofsolidityinterview-adventure-862961fc4538?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-17T08:36:50.000Z</updated>
+        <summary type="html"><![CDATA[Greetings, fellow blockchain explorers! 🌐 Get ready for a riveting journey into the heart of Solidity, where code speaks volumes. Join us…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A decimal and a binary walk into a library: Two options for Solidity math]]></title>
         <id>https://medium.com/p/956a727a9ba8</id>
@@ -224,16 +234,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Burgossrodrigo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Application Specific Blockchains using Substrate]]></title>
-        <id>https://medium.com/p/85d936ada8fa</id>
-        <link href="https://coinsbench.com/application-specific-blockchains-using-substrate-85d936ada8fa?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-12T13:36:52.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to dive into the fascinating world of blockchain development? Imagine creating your very own application-specific blockchain…]]></summary>
-        <author>
-            <name>Ranjithkumar</name>
         </author>
     </entry>
     <entry>
