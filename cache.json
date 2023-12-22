@@ -49,6 +49,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/ac3c92ae7a64",
+          "author": "NomadSecGuy",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/the-evm-transaction-lifecycle-explained-with-a-toy-box-analogy-ac3c92ae7a64?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-22T17:56:45.000Z",
+          "wordCount": 1543,
+          "title": "The EVM Transaction Lifecycle: Explained with a Toy Box Analogy",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*qlPq4JXNZvnTcLKY8P5ilA.png"
+        },
+        {
+          "id": "https://medium.com/p/92623cb22822",
+          "author": "Ranjithkumar",
+          "description": "The internet, as we know it, is built on a centralized infrastructure, with data stored and accessed through designated servers. This centralized model poses several challenges, including censorship…",
+          "link": "https://coinsbench.com/ipfs-a-simple-guide-to-the-interplanetary-file-system-92623cb22822?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-22T17:56:39.000Z",
+          "wordCount": 2617,
+          "title": "IPFS: A Simple Guide to the InterPlanetary File System",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*DQgCGWsIHs68IbUh.png"
+        },
+        {
+          "id": "https://medium.com/p/c1f5600b405a",
+          "author": "Ranjithkumar",
+          "description": "In the realm of blockchain technology, MEV, or Maximal Extractable Value, has emerged as a significant topic of discussion. It refers to the potential profits that can be gained by manipulating the…",
+          "link": "https://coinsbench.com/understanding-mev-maximal-extractable-value-on-ethereum-and-how-to-protect-yourself-c1f5600b405a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-22T17:56:32.000Z",
+          "wordCount": 2239,
+          "title": "Understanding MEV: Maximal Extractable Value on Ethereum and How to Protect Yourself",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*2vQ9RHeUafhimOmJ.png"
+        },
+        {
+          "id": "https://medium.com/p/b44eaa4cdb48",
+          "author": "Trym Thoren",
+          "description": "Introduction\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/harnessing-python-for-ethereum-a-comprehensive-guide-b44eaa4cdb48?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-22T17:56:28.000Z",
+          "wordCount": 1171,
+          "title": "Harnessing Python for Ethereum: A Comprehensive Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*L3MApYz-APT_39BHmFR56g.png"
+        },
+        {
+          "id": "https://medium.com/p/63641eaacd2b",
+          "author": "Christianinyekaka",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/building-a-multi-signature-wallet-contract-in-solidity-63641eaacd2b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-22T17:56:25.000Z",
+          "wordCount": 3307,
+          "title": "Building a Multi-Signature Wallet Contract in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*w10Zj07gdSi0J4hzOBNcNw.png"
+        },
+        {
           "id": "https://medium.com/p/aee48ab6021f",
           "author": "Solidity Academy",
           "description": "Embarking on an exploration of Ethereum’s intricacies reveals a network renowned for its revolutionary smart contract capabilities…",
@@ -97,56 +147,6 @@
           "wordCount": 1869,
           "title": "Decentralized Governance: Developing a Web3-Infused DAO Application (PART-1)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*z0zZsewV8kdi6o4fS1cbkQ.png"
-        },
-        {
-          "id": "https://medium.com/p/3311dbae6794",
-          "author": "Harith  D. Jayawardhane",
-          "description": "Implementing Solidity Smart Contracts for Our Web3-Infused DAO",
-          "link": "https://coinsbench.com/decentralized-governance-developing-a-web3-infused-dao-application-part-2-3311dbae6794?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-16T12:19:09.000Z",
-          "wordCount": 3530,
-          "title": "Decentralized Governance: Developing a Web3-Infused DAO Application (PART-2)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*z0zZsewV8kdi6o4fS1cbkQ.png"
-        },
-        {
-          "id": "https://medium.com/p/a3e135ef53a8",
-          "author": "Ybbus",
-          "description": "Getting started with you first tiny steps into the world of smart contracts.",
-          "link": "https://coinsbench.com/unlocking-blockchain-magic-an-easy-hands-on-introduction-to-smart-contracts-part-1-a3e135ef53a8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-16T12:19:03.000Z",
-          "wordCount": 6487,
-          "title": "Unlocking Blockchain Magic: An Easy Hands-On Introduction to Smart Contracts — Part 1",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*2ARBBxJRcjrpVCfVjsmgbA.png"
-        },
-        {
-          "id": "https://medium.com/p/503adf53fc18",
-          "author": "Ybbus",
-          "description": "Welcome to the intriguing world of blockchain technology, where the principles of decentralization and coding converge to forge innovative…",
-          "link": "https://coinsbench.com/ethers-js-typescript-your-gateway-to-evm-blockchain-adventures-503adf53fc18?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-16T12:19:01.000Z",
-          "wordCount": 7563,
-          "title": "Ethers.js & TypeScript: Your Gateway to EVM Blockchain Adventures",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*LtvzSsJUQL4TEba-7X9x5w.png"
-        },
-        {
-          "id": "https://medium.com/p/af118424be7f",
-          "author": "Supratip Banerjee",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/leveraging-agorics-hardened-javascript-for-enhanced-smart-contract-security-af118424be7f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-15T17:11:29.000Z",
-          "wordCount": 3855,
-          "title": "Leveraging Agoric’s Hardened JavaScript for Enhanced Smart Contract Security",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*q7aNd6S1q4KltCvm"
-        },
-        {
-          "id": "https://medium.com/p/0cbca63d6764",
-          "author": "Ranjithkumar",
-          "description": "eWASM is a new bytecode format that will be used in Ethereum 2.0. It is based on WebAssembly, which is a portable, binary format for code that can run in web browsers and other environments. eWASM is…",
-          "link": "https://coinsbench.com/what-is-ethereum-web-assembly-ewasm-0cbca63d6764?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2023-12-15T15:23:25.000Z",
-          "wordCount": 2463,
-          "title": "What is Ethereum Web Assembly (eWASM)?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*Kckt0KomKr8Z95qh.jpg"
         }
       ]
     },

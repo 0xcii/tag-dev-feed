@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-22T17:10:39.756Z</id>
+    <id>urn:2023-12-22T18:14:53.744Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-22T17:10:39.756Z</updated>
+    <updated>2023-12-22T18:14:53.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The EVM Transaction Lifecycle: Explained with a Toy Box Analogy]]></title>
+        <id>https://medium.com/p/ac3c92ae7a64</id>
+        <link href="https://coinsbench.com/the-evm-transaction-lifecycle-explained-with-a-toy-box-analogy-ac3c92ae7a64?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-22T17:56:45.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>NomadSecGuy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPFS: A Simple Guide to the InterPlanetary File System]]></title>
+        <id>https://medium.com/p/92623cb22822</id>
+        <link href="https://coinsbench.com/ipfs-a-simple-guide-to-the-interplanetary-file-system-92623cb22822?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-22T17:56:39.000Z</updated>
+        <summary type="html"><![CDATA[The internet, as we know it, is built on a centralized infrastructure, with data stored and accessed through designated servers. This centralized model poses several challenges, including censorship…]]></summary>
+        <author>
+            <name>Ranjithkumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding MEV: Maximal Extractable Value on Ethereum and How to Protect Yourself]]></title>
+        <id>https://medium.com/p/c1f5600b405a</id>
+        <link href="https://coinsbench.com/understanding-mev-maximal-extractable-value-on-ethereum-and-how-to-protect-yourself-c1f5600b405a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-22T17:56:32.000Z</updated>
+        <summary type="html"><![CDATA[In the realm of blockchain technology, MEV, or Maximal Extractable Value, has emerged as a significant topic of discussion. It refers to the potential profits that can be gained by manipulating the…]]></summary>
+        <author>
+            <name>Ranjithkumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harnessing Python for Ethereum: A Comprehensive Guide]]></title>
+        <id>https://medium.com/p/b44eaa4cdb48</id>
+        <link href="https://coinsbench.com/harnessing-python-for-ethereum-a-comprehensive-guide-b44eaa4cdb48?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-22T17:56:28.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Trym Thoren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Multi-Signature Wallet Contract in Solidity]]></title>
+        <id>https://medium.com/p/63641eaacd2b</id>
+        <link href="https://coinsbench.com/building-a-multi-signature-wallet-contract-in-solidity-63641eaacd2b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-22T17:56:25.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Christianinyekaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLE OF ENGLISH COMMON LAW IN CRYPTO ASSETS REGULATION]]></title>
         <id>https://medium.com/p/862a4f0eeb89</id>
@@ -172,36 +223,6 @@ The post 2024 - The Year of Solana? USDC Issuer Circle Deployed EURC On Sol
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Decentralized Governance: Developing a Web3-Infused DAO Application (PART-2)]]></title>
-        <id>https://medium.com/p/3311dbae6794</id>
-        <link href="https://coinsbench.com/decentralized-governance-developing-a-web3-infused-dao-application-part-2-3311dbae6794?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-16T12:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Implementing Solidity Smart Contracts for Our Web3-Infused DAO]]></summary>
-        <author>
-            <name>Harith  D. Jayawardhane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking Blockchain Magic: An Easy Hands-On Introduction to Smart Contracts — Part 1]]></title>
-        <id>https://medium.com/p/a3e135ef53a8</id>
-        <link href="https://coinsbench.com/unlocking-blockchain-magic-an-easy-hands-on-introduction-to-smart-contracts-part-1-a3e135ef53a8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-16T12:19:03.000Z</updated>
-        <summary type="html"><![CDATA[Getting started with you first tiny steps into the world of smart contracts.]]></summary>
-        <author>
-            <name>Ybbus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethers.js & TypeScript: Your Gateway to EVM Blockchain Adventures]]></title>
-        <id>https://medium.com/p/503adf53fc18</id>
-        <link href="https://coinsbench.com/ethers-js-typescript-your-gateway-to-evm-blockchain-adventures-503adf53fc18?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-16T12:19:01.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the intriguing world of blockchain technology, where the principles of decentralization and coding converge to forge innovative…]]></summary>
-        <author>
-            <name>Ybbus</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ARISAN — an smart contract implementation]]></title>
         <id>https://medium.com/p/a5db79fc9d6c</id>
         <link href="https://blog.blockmagnates.com/arisan-an-smart-contract-implementation-a5db79fc9d6c?source=rss----18fa961f1eff--solidity"/>
@@ -219,26 +240,6 @@ The post 2024 - The Year of Solana? USDC Issuer Circle Deployed EURC On Sol
         <summary type="html"><![CDATA[In the dynamic world of blockchain, tokenization has emerged as a revolutionary concept, providing the foundation for diverse applications…]]></summary>
         <author>
             <name>Jeffery Oke-Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leveraging Agoric’s Hardened JavaScript for Enhanced Smart Contract Security]]></title>
-        <id>https://medium.com/p/af118424be7f</id>
-        <link href="https://coinsbench.com/leveraging-agorics-hardened-javascript-for-enhanced-smart-contract-security-af118424be7f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-15T17:11:29.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Supratip Banerjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Ethereum Web Assembly (eWASM)?]]></title>
-        <id>https://medium.com/p/0cbca63d6764</id>
-        <link href="https://coinsbench.com/what-is-ethereum-web-assembly-ewasm-0cbca63d6764?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-15T15:23:25.000Z</updated>
-        <summary type="html"><![CDATA[eWASM is a new bytecode format that will be used in Ethereum 2.0. It is based on WebAssembly, which is a portable, binary format for code that can run in web browsers and other environments. eWASM is…]]></summary>
-        <author>
-            <name>Ranjithkumar</name>
         </author>
     </entry>
     <entry>
