@@ -44,6 +44,257 @@
       ]
     },
     {
+      "title": "CoinsBench - Medium",
+      "feedUrl": "https://coinsbench.com/feed",
+      "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
+      "articles": [
+        {
+          "id": "https://medium.com/p/c51ae877f66c",
+          "author": "Aitor Zaldua",
+          "description": "Contact me for learning paths, advice and real-world challenges by email at aitor.zaldua@draftdigital.xyz or in X as @azdraft_.",
+          "link": "https://coinsbench.com/how-to-success-in-web3-security-contests-c51ae877f66c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-23T14:27:28.000Z",
+          "wordCount": 3098,
+          "title": "How to success in web3 Security Contests",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*i6Od5u9jhiKCE5h4Hr9dNw.png"
+        },
+        {
+          "id": "https://medium.com/p/593509ec1b2f",
+          "author": "Ranjithkumar",
+          "description": "The world of cryptocurrencies is constantly evolving, with new tokens being created all the time. But what exactly is a crypto token, and how does it differ from a cryptocurrency? A crypto token is a…",
+          "link": "https://coinsbench.com/what-is-a-crypto-token-and-the-different-types-of-tokens-593509ec1b2f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-23T14:26:53.000Z",
+          "wordCount": 2558,
+          "title": "What is a Crypto Token and the Different Types of Tokens",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*r8ryqYLGv3OSBD73.png"
+        },
+        {
+          "id": "https://medium.com/p/f10058df1d47",
+          "author": "Crypto Beast",
+          "description": "In the rapidly evolving landscape of digital innovation, Web3 has emerged as a revolutionary force, reshaping the way companies operate and…",
+          "link": "https://coinsbench.com/web3-frontier-10-key-differences-setting-it-apart-from-web2-f10058df1d47?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-23T14:26:42.000Z",
+          "wordCount": 1687,
+          "title": "Web3 Frontier: 10 Key Differences Setting It Apart from Web2",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yid-593QBC0BtqR_v5sHjA.png"
+        },
+        {
+          "id": "https://medium.com/p/9ba9a5b39d42",
+          "author": "Faybian Byrd",
+          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
+          "link": "https://coinsbench.com/rareskills-solidity-interview-question-14-answered-how-much-is-1-wei-of-ether-9ba9a5b39d42?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-23T14:26:37.000Z",
+          "wordCount": 1189,
+          "title": "RareSkills Solidity Interview Question #14 Answered: How much is 1 wei of Ether?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*t6P2QfOKaPMJ7_MLIOCgiQ.png"
+        },
+        {
+          "id": "https://medium.com/p/803d32d9f450",
+          "author": "Ranjithkumar",
+          "description": "In the realm of distributed ledger technology (DLT), blockchain stands as the pioneer, revolutionizing how we perceive data management and transaction validation. However, amidst the blockchain’s…",
+          "link": "https://coinsbench.com/demystifying-dag-based-ledgers-a-comprehensive-guide-803d32d9f450?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-23T14:26:35.000Z",
+          "wordCount": 2245,
+          "title": "Demystifying DAG-Based Ledgers: A Comprehensive Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*6XrmcXxX7uKg9B_8.png"
+        },
+        {
+          "id": "https://medium.com/p/ac3c92ae7a64",
+          "author": "NomadSecGuy",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/the-evm-transaction-lifecycle-explained-with-a-toy-box-analogy-ac3c92ae7a64?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-22T17:56:45.000Z",
+          "wordCount": 1543,
+          "title": "The EVM Transaction Lifecycle: Explained with a Toy Box Analogy",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*qlPq4JXNZvnTcLKY8P5ilA.png"
+        },
+        {
+          "id": "https://medium.com/p/92623cb22822",
+          "author": "Ranjithkumar",
+          "description": "The internet, as we know it, is built on a centralized infrastructure, with data stored and accessed through designated servers. This centralized model poses several challenges, including censorship…",
+          "link": "https://coinsbench.com/ipfs-a-simple-guide-to-the-interplanetary-file-system-92623cb22822?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-22T17:56:39.000Z",
+          "wordCount": 2617,
+          "title": "IPFS: A Simple Guide to the InterPlanetary File System",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*DQgCGWsIHs68IbUh.png"
+        },
+        {
+          "id": "https://medium.com/p/c1f5600b405a",
+          "author": "Ranjithkumar",
+          "description": "In the realm of blockchain technology, MEV, or Maximal Extractable Value, has emerged as a significant topic of discussion. It refers to the potential profits that can be gained by manipulating the…",
+          "link": "https://coinsbench.com/understanding-mev-maximal-extractable-value-on-ethereum-and-how-to-protect-yourself-c1f5600b405a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-22T17:56:32.000Z",
+          "wordCount": 2239,
+          "title": "Understanding MEV: Maximal Extractable Value on Ethereum and How to Protect Yourself",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*2vQ9RHeUafhimOmJ.png"
+        },
+        {
+          "id": "https://medium.com/p/b44eaa4cdb48",
+          "author": "Trym Thoren",
+          "description": "Introduction\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/harnessing-python-for-ethereum-a-comprehensive-guide-b44eaa4cdb48?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-22T17:56:28.000Z",
+          "wordCount": 1171,
+          "title": "Harnessing Python for Ethereum: A Comprehensive Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*L3MApYz-APT_39BHmFR56g.png"
+        },
+        {
+          "id": "https://medium.com/p/63641eaacd2b",
+          "author": "Christianinyekaka",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/building-a-multi-signature-wallet-contract-in-solidity-63641eaacd2b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2023-12-22T17:56:25.000Z",
+          "wordCount": 3307,
+          "title": "Building a Multi-Signature Wallet Contract in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*w10Zj07gdSi0J4hzOBNcNw.png"
+        }
+      ]
+    },
+    {
+      "title": "Coinmonks - Medium",
+      "feedUrl": "https://medium.com/feed/coinmonks",
+      "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
+      "articles": [
+        {
+          "id": "https://medium.com/p/1941fa5fe93b",
+          "author": "Thomsonrichard",
+          "description": "In the ever-evolving landscape of digital assets, non-fungible tokens (NFTs) have emerged as a groundbreaking phenomenon. As the demand for…",
+          "link": "https://medium.com/coinmonks/landing-page-design-and-development-a-comprehensive-guide-for-nft-drops-and-tokens-1941fa5fe93b?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-23T19:03:56.000Z",
+          "wordCount": 4051,
+          "title": "Landing Page Design and Development: A Comprehensive Guide for NFT Drops and Tokens",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:740/1*B4MgfpNLlnTmwHgpd6uBTQ.png"
+        },
+        {
+          "id": "https://medium.com/p/48a765c1a65b",
+          "author": "Thomsonrichard",
+          "description": "In the ever-evolving digital landscape, non-fungible tokens (NFTs) have emerged as a captivating force, resembling a modern boomerang that…",
+          "link": "https://medium.com/coinmonks/unlocking-the-fascination-nfts-as-the-modern-boomerang-48a765c1a65b?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-23T19:03:52.000Z",
+          "wordCount": 4068,
+          "title": "Unlocking the Fascination: NFTs as the Modern Boomerang",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*hIc4StvQlsKwL0vN-gKydQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/b834d97c7de6",
+          "author": "Crypto Beast",
+          "description": "In the pursuit of new horizons and an aversion to the conventional “go with the flow” mindset, my journey unfolded as an entrepreneur in…",
+          "link": "https://medium.com/coinmonks/what-went-wrong-a-tale-of-failure-and-growth-b834d97c7de6?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-23T19:03:48.000Z",
+          "wordCount": 1643,
+          "title": "What Went Wrong — A Tale of Failure and Growth”",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*i_0Y8m1uo__cRSxwrGN6Ew.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/a55bf41bbaf9",
+          "author": "Just Another Crypto Analyst",
+          "description": "Introduction",
+          "link": "https://medium.com/coinmonks/what-is-the-best-sol-liquid-staking-token-a55bf41bbaf9?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-23T19:03:46.000Z",
+          "wordCount": 3144,
+          "title": "What is the Best SOL Liquid Staking Token?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:835/1*hnLn2z0fcQWK2pYFms64pg.png"
+        },
+        {
+          "id": "https://medium.com/p/176c573dc43c",
+          "author": "Tom Dean",
+          "description": "Adding potential cryptocurrencies to your portfolio before the market takes off is probably why you’re reading this post. Getting into an…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/make-millions-with-this-lowcap-100x-altcoin-176c573dc43c?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-23T19:03:44.000Z",
+          "wordCount": 1745,
+          "title": "Make MILLIONS with this Lowcap 100X Altcoin?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:814/1*PFWp-NDkbw6SNMVaystCUA.png"
+        },
+        {
+          "id": "https://medium.com/p/cd9a490abc15",
+          "author": "Tom Holland",
+          "description": "In the tumultuous cryptocurrency landscape of May 2022, the Terra Luna collapse gripped the attention of many as a once formidable token…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/terra-luna-will-be-back-luna-classic-cd9a490abc15?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-23T19:03:41.000Z",
+          "wordCount": 1537,
+          "title": "Terra Luna Will Be Back! LUNA Classic",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1031/1*cWRyQq4uup37MWTGlpOiYQ.png"
+        },
+        {
+          "id": "https://medium.com/p/96f22f197827",
+          "author": "36Crypto",
+          "description": "The Central Bank of Nigeria has now lifted the ban which it placed on crypto trading in 2021. The Apex Bank of Nigeria cited changes in…",
+          "link": "https://medium.com/coinmonks/central-bank-of-nigeria-cbn-lifts-crypto-trading-ban-96f22f197827?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-23T19:03:39.000Z",
+          "wordCount": 1759,
+          "title": "Central Bank of Nigeria (CBN) Lifts Crypto Trading Ban",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vRx7kCaxxPUKAHDj6gwwzg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/994a3cc44887",
+          "author": "Christinapaul",
+          "description": "In the dynamic realm of cryptocurrency, where innovation and security go hand in hand,choosing a reliable cryptocurrency exchange…",
+          "link": "https://medium.com/coinmonks/which-is-the-best-cryptocurrency-exchange-development-company-in-new-york-994a3cc44887?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-23T18:14:05.000Z",
+          "wordCount": 2819,
+          "title": "Which is the best cryptocurrency exchange development company in New York?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:900/1*KUpio_47IFnDcr6cFmdQZA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/6278618b86c5",
+          "author": "Gaurav Sapkal",
+          "description": "We’ve all seen sci-fi movies where humans casually chat with intelligent robots like they are old friends. Well, that future is arriving…",
+          "link": "https://medium.com/coinmonks/the-dawn-of-conversational-ai-how-machines-learned-to-chit-chat-6278618b86c5?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-23T18:14:03.000Z",
+          "wordCount": 1827,
+          "title": "The Dawn of Conversational AI: How Machines Learned to Chit Chat",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:768/1*ZdlIgmuSDqJa5qctJvwREA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/03ff3fcefe4f",
+          "author": "Jonny Fry",
+          "description": "Written by Dr Ian Hunt\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/a-better-simpler-financial-ecosystems-through-smart-tokens-03ff3fcefe4f?source=rss----721b17443fd5---4",
+          "publishedOn": "2023-12-23T18:13:57.000Z",
+          "wordCount": 1746,
+          "title": "A Better, Simpler Financial Ecosystem through Smart Tokens",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Solidity in Block Magnates on Medium",
+      "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
+      "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
+      "articles": [
+        {
+          "id": "https://medium.com/p/a5db79fc9d6c",
+          "author": "Iman Kurniawan",
+          "description": "“Arisan” is a term used in Bahasa Indonesia, which translates to “rotating savings and credit association” or “community savings club” in…",
+          "link": "https://blog.blockmagnates.com/arisan-an-smart-contract-implementation-a5db79fc9d6c?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-12-16T12:05:40.000Z",
+          "wordCount": 1725,
+          "title": "ARISAN — an smart contract implementation",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7lC7DqlFLoWzc2ZTxABOMg.png"
+        },
+        {
+          "id": "https://medium.com/p/5ea4ed1c1378",
+          "author": "Jeffery Oke-Samuel",
+          "description": "In the dynamic world of blockchain, tokenization has emerged as a revolutionary concept, providing the foundation for diverse applications…",
+          "link": "https://blog.blockmagnates.com/exploring-the-evolution-of-token-standards-a-deep-dive-into-erc-20-erc-721-and-emerging-5ea4ed1c1378?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-12-16T12:05:37.000Z",
+          "wordCount": 1954,
+          "title": "Exploring the Evolution of Token Standards: A Deep Dive into ERC-20, ERC-721, and Emerging…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bFV9zMlJG4ZGUhwkiNV1Hw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/bc2ebf836747",
+          "author": "Thomas Ender",
+          "description": "In Solidity we have two special functions able to receive Ether in “special” cases. Get ready and strap on! I want you to meet receive()…",
+          "link": "https://blog.blockmagnates.com/solidity-special-functions-for-receiving-ether-in-smart-contracts-bc2ebf836747?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2023-12-12T14:06:50.000Z",
+          "wordCount": 3185,
+          "title": "Solidity Special Functions for receiving Ether in Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ehnXemVy27fMHPmxb91n5w.png"
+        }
+      ]
+    },
+    {
       "title": "Developer DAO Blog | Web3 Tutorials",
       "feedUrl": "https://blog.developerdao.com/rss.xml",
       "siteUrl": "https://blog.developerdao.com",
