@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-30T11:09:26.831Z</id>
+    <id>urn:2023-12-30T12:20:31.267Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-30T11:09:26.831Z</updated>
+    <updated>2023-12-30T12:20:31.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Distract and Destroy Writeup — HTB]]></title>
+        <id>https://medium.com/p/ba2b93cfcbb5</id>
+        <link href="https://coinsbench.com/distract-and-destroy-writeup-htb-ba2b93cfcbb5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-30T12:18:41.000Z</updated>
+        <summary type="html"><![CDATA[This is the second challenge in the Blockchain Challenges series in HTB, it is simple and only requires some decent experience with…]]></summary>
+        <author>
+            <name>OZ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying Blockchain Part 1: A Journey to Web3 Security with 0x00Auditor]]></title>
+        <id>https://medium.com/p/3e813ab3bab9</id>
+        <link href="https://coinsbench.com/demystifying-blockchain-part-1-a-journey-to-web3-security-with-0x00auditor-3e813ab3bab9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2023-12-30T12:18:37.000Z</updated>
+        <summary type="html"><![CDATA[Hello, my name is Shashank a.k.a 0x00Auditor and I am currently transiting from web2 security to web3 security. I recently got access to…]]></summary>
+        <author>
+            <name>Shashank Mudgal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Make Crowdfunding Smart Contract using Solidity and Golang Language]]></title>
         <id>https://medium.com/p/bd5dc7c8f84f</id>
@@ -216,26 +236,6 @@ The post What is the Best Trading Bot For Binance in 2024? appeared first on cry
         <summary type="html"><![CDATA[In the rapidly evolving landscape of digital innovation, Web3 has emerged as a revolutionary force, reshaping the way companies operate and…]]></summary>
         <author>
             <name>Crypto Beast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #14 Answered: How much is 1 wei of Ether?]]></title>
-        <id>https://medium.com/p/9ba9a5b39d42</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-14-answered-how-much-is-1-wei-of-ether-9ba9a5b39d42?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-23T14:26:37.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying DAG-Based Ledgers: A Comprehensive Guide]]></title>
-        <id>https://medium.com/p/803d32d9f450</id>
-        <link href="https://coinsbench.com/demystifying-dag-based-ledgers-a-comprehensive-guide-803d32d9f450?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-23T14:26:35.000Z</updated>
-        <summary type="html"><![CDATA[In the realm of distributed ledger technology (DLT), blockchain stands as the pioneer, revolutionizing how we perceive data management and transaction validation. However, amidst the blockchain’s…]]></summary>
-        <author>
-            <name>Ranjithkumar</name>
         </author>
     </entry>
     <entry>
