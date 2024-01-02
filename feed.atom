@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-02T17:11:29.881Z</id>
+    <id>urn:2024-01-02T18:15:22.973Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-02T17:11:29.881Z</updated>
+    <updated>2024-01-02T18:15:22.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Roadmap]]></title>
+        <id>https://medium.com/p/00cfeb64a9a9</id>
+        <link href="https://coinsbench.com/blockchain-roadmap-00cfeb64a9a9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-02T17:37:13.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain developer was the most searched term in 2020 and 2021. People are now slowly becoming aware of the impact that blockchain brings…]]></summary>
+        <author>
+            <name>Sam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Blockchain Magic: An Easy Hands-On Introduction to Smart Contracts — Part 2]]></title>
+        <id>https://medium.com/p/09c5c4659a52</id>
+        <link href="https://coinsbench.com/unlocking-blockchain-magic-an-easy-hands-on-introduction-to-smart-contracts-part-2-09c5c4659a52?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-02T17:35:28.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back, blockchain enthusiasts and budding smart contract magicians! In Part 1 of our series, we dipped our toes into the…]]></summary>
+        <author>
+            <name>Ybbus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Blockchain Magic: An Easy Hands-On Introduction to Smart Contracts — Part 3]]></title>
+        <id>https://medium.com/p/7937135d7acd</id>
+        <link href="https://coinsbench.com/unlocking-blockchain-magic-an-easy-hands-on-introduction-to-smart-contracts-part-3-7937135d7acd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-02T17:35:21.000Z</updated>
+        <summary type="html"><![CDATA[In this series part, we used MetaMask to interact with a smart contract, delving into ABIs and blockchain tools, making it accessible to…]]></summary>
+        <author>
+            <name>Ybbus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Different Types of Blockchain Forks: A Simplified Guide]]></title>
+        <id>https://medium.com/p/5ff1724a24c5</id>
+        <link href="https://coinsbench.com/exploring-the-different-types-of-blockchain-forks-a-simplified-guide-5ff1724a24c5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-02T17:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain forking occurs when a blockchain diverges into two potential paths, which may lead to a change in protocol or a situation that…]]></summary>
+        <author>
+            <name>Ukezi Ebenezer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing the First Smart Contract]]></title>
+        <id>https://medium.com/p/08ecf9b21dc8</id>
+        <link href="https://coinsbench.com/writing-the-first-smart-contract-08ecf9b21dc8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-02T17:35:13.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology has revolutionised the world of finance and technology in recent years. This innovative technology increases security…]]></summary>
+        <author>
+            <name>Abdullah Akkoloğlu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Depths of Storage Variables in Solidity: Navigating Persistent State]]></title>
+        <id>https://medium.com/p/160c22ca28e5</id>
+        <link href="https://coinsbench.com/exploring-the-depths-of-storage-variables-in-solidity-navigating-persistent-state-160c22ca28e5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-02T17:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts on the Ethereum blockchain rely on the concept of storage variables to maintain persistent state across various…]]></summary>
+        <author>
+            <name>Joseph David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking down Functions in Solidity: A Comprehensive Beginners Guide]]></title>
+        <id>https://medium.com/p/26de1f702520</id>
+        <link href="https://coinsbench.com/breaking-down-functions-in-solidity-a-comprehensive-beginners-guide-26de1f702520?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-02T17:35:05.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, the programming language for Ethereum smart contracts, revolves around the concept of functions. In this in-depth guide, we’ll…]]></summary>
+        <author>
+            <name>Joseph David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sending Crypto (Ether) in Solidity: A Comprehensive Guide to Transactions]]></title>
+        <id>https://medium.com/p/1d6e0b5017e8</id>
+        <link href="https://coinsbench.com/sending-crypto-ether-in-solidity-a-comprehensive-guide-to-transactions-1d6e0b5017e8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-02T17:34:57.000Z</updated>
+        <summary type="html"><![CDATA[Sending Ether in Solidity is a fundamental aspect of developing decentralized applications (DApps) on the Ethereum blockchain. In this…]]></summary>
+        <author>
+            <name>Joseph David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Raffle Draw Smart Contract Using Foundry 2024 (Part 1)]]></title>
+        <id>https://medium.com/p/5f6f45e1588f</id>
+        <link href="https://coinsbench.com/create-a-raffle-draw-smart-contract-using-foundry-2024-part-1-5f6f45e1588f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-02T17:34:51.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts allow conducting transparent raffles on the blockchain by enforcing rules in code. We will build a decentralized Ethereum…]]></summary>
+        <author>
+            <name>Scofield O. Idehen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Ethereum and Smart Contracts: A Comprehensive Guide]]></title>
+        <id>https://medium.com/p/ebedbf7d2d4b</id>
+        <link href="https://coinsbench.com/understanding-ethereum-and-smart-contracts-a-comprehensive-guide-ebedbf7d2d4b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-02T17:34:48.000Z</updated>
+        <summary type="html"><![CDATA[In the vast landscape of blockchain technology, Ethereum stands out as a pioneering platform that has redefined the way decentralized…]]></summary>
+        <author>
+            <name>Mohammed Niyas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Research Review: SoK: Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems]]></title>
         <id>https://medium.com/p/562193b1e41c</id>
@@ -112,96 +212,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building an NFT Auction Smart Contract on Ethereum]]></title>
-        <id>https://medium.com/p/4a1be8795283</id>
-        <link href="https://coinsbench.com/building-an-nft-auction-smart-contract-on-ethereum-4a1be8795283?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-31T10:36:58.000Z</updated>
-        <summary type="html"><![CDATA[The decentralized nature of blockchain technology has opened up innovative possibilities for digital assets, notably in the form of…]]></summary>
-        <author>
-            <name>Christianinyekaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Hardhat -A Comprehensive Guide for Developers]]></title>
-        <id>https://medium.com/p/7415ecb6a5e5</id>
-        <link href="https://coinsbench.com/mastering-hardhat-a-comprehensive-guide-for-developers-7415ecb6a5e5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-30T12:19:34.000Z</updated>
-        <summary type="html"><![CDATA[From basics to advanced, delve into the world of Hardhat with our extensive content]]></summary>
-        <author>
-            <name>Taha Zerarka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contracts Unveiled]]></title>
-        <id>https://medium.com/p/ad2999460348</id>
-        <link href="https://coinsbench.com/smart-contracts-unveiled-ad2999460348?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-30T12:19:24.000Z</updated>
-        <summary type="html"><![CDATA[Decoding the Future of Digital Agreements]]></summary>
-        <author>
-            <name>Taha Zerarka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project Solidity: A Beginner’s Guide On Writing Your First Smart Contract Project]]></title>
-        <id>https://medium.com/p/750229be5a2a</id>
-        <link href="https://coinsbench.com/project-solidity-a-beginners-guide-on-writing-your-first-smart-contract-project-750229be5a2a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-30T12:19:18.000Z</updated>
-        <summary type="html"><![CDATA[Welcome, fellow blockchain enthusiasts, to the fascinating realm of Solidity development. If you’re a budding programmer eager to enter the…]]></summary>
-        <author>
-            <name>KodeinKGP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain devs expect complications from EU smart contract kill switch (Express Summary)]]></title>
-        <id>https://medium.com/p/e52c115271e3</id>
-        <link href="https://coinsbench.com/blockchain-devs-expect-complications-from-eu-smart-contract-kill-switch-express-summary-e52c115271e3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-30T12:19:11.000Z</updated>
-        <summary type="html"><![CDATA[EU’s Data Act Sparks Concerns Among Blockchain Devs Over Smart Contract ‘Kill Switch’]]></summary>
-        <author>
-            <name>Crypto Express</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How this all-in-one app bridges the gap between traditional banking and crypto (Express Summary)]]></title>
-        <id>https://medium.com/p/a772e18c7abe</id>
-        <link href="https://coinsbench.com/how-this-all-in-one-app-bridges-the-gap-between-traditional-banking-and-crypto-express-summary-a772e18c7abe?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-30T12:19:04.000Z</updated>
-        <summary type="html"><![CDATA[Renegade’s Revolutionary App: Bridging the Gap Between Traditional Banking and Crypto]]></summary>
-        <author>
-            <name>Crypto Express</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain adoption continues unabated — Bloomberg analyst (Express Summary)]]></title>
-        <id>https://medium.com/p/35a2dff350e7</id>
-        <link href="https://coinsbench.com/blockchain-adoption-continues-unabated-bloomberg-analyst-express-summary-35a2dff350e7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-30T12:18:55.000Z</updated>
-        <summary type="html"><![CDATA[The Unstoppable Rise of Blockchain: Projections Hint at 100 Million Users and Trillion-Dollar Valuations]]></summary>
-        <author>
-            <name>Crypto Express</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distract and Destroy Writeup — HTB]]></title>
-        <id>https://medium.com/p/ba2b93cfcbb5</id>
-        <link href="https://coinsbench.com/distract-and-destroy-writeup-htb-ba2b93cfcbb5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-30T12:18:41.000Z</updated>
-        <summary type="html"><![CDATA[This is the second challenge in the Blockchain Challenges series in HTB, it is simple and only requires some decent experience with…]]></summary>
-        <author>
-            <name>OZ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying Blockchain Part 1: Introduction to Blockchain — 0x00Auditor]]></title>
-        <id>https://medium.com/p/3e813ab3bab9</id>
-        <link href="https://coinsbench.com/demystifying-blockchain-part-1-a-journey-to-web3-security-with-0x00auditor-3e813ab3bab9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-30T12:18:37.000Z</updated>
-        <summary type="html"><![CDATA[Hello, my name is Shashank a.k.a 0x00Auditor and I am currently transiting from web2 security to web3 security. I recently got access to…]]></summary>
-        <author>
-            <name>Shashank Mudgal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Make Crowdfunding Smart Contract using Solidity and Golang Language]]></title>
         <id>https://medium.com/p/bd5dc7c8f84f</id>
         <link href="https://blog.blockmagnates.com/make-crowdfunding-smart-contract-using-solidity-and-golang-language-bd5dc7c8f84f?source=rss----18fa961f1eff--solidity"/>
@@ -210,16 +220,6 @@ Continue reading on Coinmonks »]]></summary>
 Imagine a group of people who want to contribute their money to…]]></summary>
         <author>
             <name>mobin shaterian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Fundraising in Q4 Fundraising has increased 62% in Q4 compared to Q3]]></title>
-        <id>https://medium.com/p/ed2442090bbb</id>
-        <link href="https://coinsbench.com/web3-fundraising-in-q4-fundraising-has-increased-62-in-q4-compared-to-q3-ed2442090bbb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2023-12-27T09:37:35.000Z</updated>
-        <summary type="html"><![CDATA[So far, Q4 fundraising has hit $2.69 billion in 286 rounds, up 62% from Q3; deal count was up 18% in Q4 (286) from Q3 (242). (source…]]></summary>
-        <author>
-            <name>Crypto Beast</name>
         </author>
     </entry>
     <entry>
