@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-06T16:14:26.556Z</id>
+    <id>urn:2024-01-06T17:10:25.536Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-06T16:14:26.556Z</updated>
+    <updated>2024-01-06T17:10:25.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding tx.origin and msg.sender in Solidity]]></title>
+        <id>https://medium.com/p/9184b3143dcb</id>
+        <link href="https://blog.blockmagnates.com/understanding-tx-origin-and-msg-sender-in-solidity-9184b3143dcb?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-01-06T16:23:18.000Z</updated>
+        <summary type="html"><![CDATA[Developers need to understand the difference between tx.origin and msg.sender in Solidity. These two global variables often need…
+Continue reading on Block Magnates »]]></summary>
+        <author>
+            <name>Kristaps Grinbergs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building wealthy buying crypto in the US using Coinbase exchange and paying 80% less fees?]]></title>
         <id>https://medium.com/p/2a5668a323b9</id>
