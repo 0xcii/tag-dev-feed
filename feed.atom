@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-10T11:10:52.089Z</id>
+    <id>urn:2024-01-10T12:23:37.178Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-10T11:10:52.089Z</updated>
+    <updated>2024-01-10T12:23:37.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ergo: Smart Contracts: Partial Review]]></title>
+        <id>https://medium.com/p/d45366036913</id>
+        <link href="https://coinsbench.com/ergo-smart-contracts-partial-review-d45366036913?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-10T12:11:27.000Z</updated>
+        <summary type="html"><![CDATA[End of year 2023]]></summary>
+        <author>
+            <name>root7Z</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Art of Smart Contract Auditing]]></title>
+        <id>https://medium.com/p/5ef21ed3fd81</id>
+        <link href="https://coinsbench.com/the-art-of-smart-contract-auditing-5ef21ed3fd81?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-10T12:11:24.000Z</updated>
+        <summary type="html"><![CDATA[The Auditor’s Handbook: Navigating the Landscape of Smart Contracts]]></summary>
+        <author>
+            <name>Taha Zerarka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ResPeer: REBUILD OWNERSHIP 2.0: INTERNET PRIVACY First Place]]></title>
+        <id>https://medium.com/p/426ad73e7774</id>
+        <link href="https://coinsbench.com/respeer-rebuild-ownership-2-0-internet-privacy-first-place-426ad73e7774?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-10T12:11:22.000Z</updated>
+        <summary type="html"><![CDATA[We achieved the first place again!]]></summary>
+        <author>
+            <name>Web3 Eye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a simple Blockchain using Rust]]></title>
+        <id>https://medium.com/p/3646d7fc01ad</id>
+        <link href="https://coinsbench.com/create-a-simple-blockchain-using-rust-3646d7fc01ad?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-10T12:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Creating a simple blockchain in Rust involves defining the basic data structures for blocks, implementing functions for block creation and…]]></summary>
+        <author>
+            <name>Mohammed Niyas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Sharding: Breaking the Chains of Scalability]]></title>
+        <id>https://medium.com/p/8b6232e2ae57</id>
+        <link href="https://coinsbench.com/blockchain-sharding-breaking-the-chains-of-scalability-8b6232e2ae57?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-10T12:11:15.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology, heralded for its decentralization and security features, faces a significant challenge as it gains popularity —…]]></summary>
+        <author>
+            <name>Mohammed Niyas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python + Blockchain: The Future of Decentralized App Development]]></title>
+        <id>https://medium.com/p/7cc1833db0ff</id>
+        <link href="https://coinsbench.com/python-blockchain-the-future-of-decentralized-app-development-7cc1833db0ff?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-10T12:11:13.000Z</updated>
+        <summary type="html"><![CDATA[The digital landscape is constantly shifting, and with it, the way we develop and interact with applications. The rise of blockchain…]]></summary>
+        <author>
+            <name>Nicolet Junior</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interacting with an ERC-20 contract using Nodejs]]></title>
+        <id>https://medium.com/p/170a8bc27138</id>
+        <link href="https://coinsbench.com/interacting-with-an-erc-20-contract-using-nodejs-170a8bc27138?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-10T12:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Interacting with an ERC-20 smart contract using Node.js involves sending transactions to the Ethereum blockchain. Below is a step-by-step…]]></summary>
+        <author>
+            <name>Mohammed Niyas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond the Hype: Understanding the True Value of Tokens with Market Cap and FDV.]]></title>
+        <id>https://medium.com/p/9bda762301b1</id>
+        <link href="https://coinsbench.com/beyond-the-hype-understanding-the-true-value-of-tokens-with-market-cap-and-fdv-9bda762301b1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-10T12:11:08.000Z</updated>
+        <summary type="html"><![CDATA[In the digital gold rush of the blockchain era, token values gleam like fool’s gold under the blinding glare of market cap and fully…]]></summary>
+        <author>
+            <name>Kuuku Baffoe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Cryptocurrency Exchange Platform Without Any Programming Knowledge?]]></title>
         <id>https://medium.com/p/3119c972e775</id>
@@ -136,86 +216,6 @@ Continue reading on Block Magnates »]]></summary>
         <summary type="html"><![CDATA[Have you ever wondered what all this fuss about Bitcoin and its mysterious inner workings is about? Why do tech enthusiasts and financial…]]></summary>
         <author>
             <name>Zybs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating the Web3 Landscape: Insights from Conversations with 5–10 Projects Daily]]></title>
-        <id>https://medium.com/p/067a0ad1014e</id>
-        <link href="https://coinsbench.com/navigating-the-web3-landscape-insights-from-conversations-with-5-10-projects-daily-067a0ad1014e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-05T15:35:17.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced world of Web3, where innovation and evolution are the norm, engaging with 5–10 projects daily provides a firsthand look…]]></summary>
-        <author>
-            <name>Crypto Beast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying Consensus Mechanisms: The Heart of Blockchain Technology]]></title>
-        <id>https://medium.com/p/4a164060d89b</id>
-        <link href="https://coinsbench.com/demystifying-consensus-mechanisms-the-heart-of-blockchain-technology-4a164060d89b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-05T15:35:14.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving world of blockchain technology, consensus mechanisms stand as the cornerstone of its decentralized ecosystem. These protocols, often referred to as the “heart of blockchain,”…]]></summary>
-        <author>
-            <name>Ranjithkumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Math behind Proof of History in Solana]]></title>
-        <id>https://medium.com/p/dbca0b7c2231</id>
-        <link href="https://coinsbench.com/the-math-behind-proof-of-history-in-solana-dbca0b7c2231?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-05T15:34:48.000Z</updated>
-        <summary type="html"><![CDATA[In the dynamic realm of blockchain technology, Solana has emerged as a powerhouse, bringing unprecedented speed and scalability to the table. Among its key innovations is the concept of Proof of…]]></summary>
-        <author>
-            <name>Ranjithkumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep Dive into Chainlink Oracles]]></title>
-        <id>https://medium.com/p/7be9f49f4367</id>
-        <link href="https://coinsbench.com/a-deep-dive-into-chainlink-oracles-7be9f49f4367?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-05T15:34:06.000Z</updated>
-        <summary type="html"><![CDATA[This is your go-to destination to dive deep into the world of Chainlink, where a wealth of knowledge awaits.]]></summary>
-        <author>
-            <name>Taha Zerarka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking Synergies: The Intersection of Blockchain and AI]]></title>
-        <id>https://medium.com/p/af8002c595bd</id>
-        <link href="https://coinsbench.com/unlocking-synergies-the-intersection-of-blockchain-and-ai-af8002c595bd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-05T15:34:03.000Z</updated>
-        <summary type="html"><![CDATA[In the rapidly evolving landscape of technology, two cutting-edge innovations, Blockchain and Artificial Intelligence (AI), are converging…]]></summary>
-        <author>
-            <name>Mohammed Niyas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract Security - Ethernaut Level 1 : Fallback]]></title>
-        <id>https://medium.com/p/ef278e457702</id>
-        <link href="https://coinsbench.com/ethernaut-challenges-1-fallback-solution-ef278e457702?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-05T15:34:01.000Z</updated>
-        <summary type="html"><![CDATA[The website Ethernaut is a “Catch the flag (CTF)” style wargame created by the company OpenZeppelin and inspired by OverTheWire. The goal…]]></summary>
-        <author>
-            <name>Gimer Cervera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Virtual Machine (EVM) — Deep Dive ( Part I )]]></title>
-        <id>https://medium.com/p/7dd6fe7b2f44</id>
-        <link href="https://coinsbench.com/ethereum-virtual-machine-evm-deep-dive-part-i-7dd6fe7b2f44?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-05T15:33:59.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Gimer Cervera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Array and Struct simple example]]></title>
-        <id>https://medium.com/p/b7a9a584aa37</id>
-        <link href="https://coinsbench.com/solidity-array-and-struct-simple-example-b7a9a584aa37?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-05T15:33:56.000Z</updated>
-        <summary type="html"><![CDATA[Make array of students class]]></summary>
-        <author>
-            <name>Mahmoud Mourad Dev</name>
         </author>
     </entry>
     <entry>

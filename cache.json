@@ -39,6 +39,86 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/d45366036913",
+          "author": "root7Z",
+          "description": "End of year 2023",
+          "link": "https://coinsbench.com/ergo-smart-contracts-partial-review-d45366036913?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-01-10T12:11:27.000Z",
+          "wordCount": 2079,
+          "title": "Ergo: Smart Contracts: Partial Review",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*pJi1ERz9tmC_b-8SFpyOCA.png"
+        },
+        {
+          "id": "https://medium.com/p/5ef21ed3fd81",
+          "author": "Taha Zerarka",
+          "description": "The Auditor’s Handbook: Navigating the Landscape of Smart Contracts",
+          "link": "https://coinsbench.com/the-art-of-smart-contract-auditing-5ef21ed3fd81?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-01-10T12:11:24.000Z",
+          "wordCount": 5647,
+          "title": "The Art of Smart Contract Auditing",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:626/1*XwFGxqOw_VMlhCZmcMof9w.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/426ad73e7774",
+          "author": "Web3 Eye",
+          "description": "We achieved the first place again!",
+          "link": "https://coinsbench.com/respeer-rebuild-ownership-2-0-internet-privacy-first-place-426ad73e7774?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-01-10T12:11:22.000Z",
+          "wordCount": 2020,
+          "title": "ResPeer: REBUILD OWNERSHIP 2.0: INTERNET PRIVACY First Place",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*eQUgykD8DBbvTYdhUBJwKg.png"
+        },
+        {
+          "id": "https://medium.com/p/3646d7fc01ad",
+          "author": "Mohammed Niyas",
+          "description": "Creating a simple blockchain in Rust involves defining the basic data structures for blocks, implementing functions for block creation and…",
+          "link": "https://coinsbench.com/create-a-simple-blockchain-using-rust-3646d7fc01ad?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-01-10T12:11:17.000Z",
+          "wordCount": 2307,
+          "title": "Create a simple Blockchain using Rust",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*puVnWqlyzs4zBU4pME89ZA.png"
+        },
+        {
+          "id": "https://medium.com/p/8b6232e2ae57",
+          "author": "Mohammed Niyas",
+          "description": "Blockchain technology, heralded for its decentralization and security features, faces a significant challenge as it gains popularity —…",
+          "link": "https://coinsbench.com/blockchain-sharding-breaking-the-chains-of-scalability-8b6232e2ae57?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-01-10T12:11:15.000Z",
+          "wordCount": 2648,
+          "title": "Blockchain Sharding: Breaking the Chains of Scalability",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*wO5gj3iQjbxy2wp8g7PYQA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/7cc1833db0ff",
+          "author": "Nicolet Junior",
+          "description": "The digital landscape is constantly shifting, and with it, the way we develop and interact with applications. The rise of blockchain…",
+          "link": "https://coinsbench.com/python-blockchain-the-future-of-decentralized-app-development-7cc1833db0ff?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-01-10T12:11:13.000Z",
+          "wordCount": 2188,
+          "title": "Python + Blockchain: The Future of Decentralized App Development",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YhksSQBRPNvNulHExQwi0Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/170a8bc27138",
+          "author": "Mohammed Niyas",
+          "description": "Interacting with an ERC-20 smart contract using Node.js involves sending transactions to the Ethereum blockchain. Below is a step-by-step…",
+          "link": "https://coinsbench.com/interacting-with-an-erc-20-contract-using-nodejs-170a8bc27138?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-01-10T12:11:11.000Z",
+          "wordCount": 1719,
+          "title": "Interacting with an ERC-20 contract using Nodejs",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*EjBxG_XTkaCea3EzS7ri4w.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/9bda762301b1",
+          "author": "Kuuku Baffoe",
+          "description": "In the digital gold rush of the blockchain era, token values gleam like fool’s gold under the blinding glare of market cap and fully…",
+          "link": "https://coinsbench.com/beyond-the-hype-understanding-the-true-value-of-tokens-with-market-cap-and-fdv-9bda762301b1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-01-10T12:11:08.000Z",
+          "wordCount": 2298,
+          "title": "Beyond the Hype: Understanding the True Value of Tokens with Market Cap and FDV.",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/534f499525b4",
           "author": "Crypto Express",
           "description": "Crypto Loans: Bridging Traditional Finance and Digital Assets for Liquidity",
@@ -57,86 +137,6 @@
           "wordCount": 9050,
           "title": "Cracking the Crypto Code: A Journey into Bitcoin’s Proof of Work",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*2Ee_jQbWRkJZNTs7DYdk2g.png"
-        },
-        {
-          "id": "https://medium.com/p/067a0ad1014e",
-          "author": "Crypto Beast",
-          "description": "In the fast-paced world of Web3, where innovation and evolution are the norm, engaging with 5–10 projects daily provides a firsthand look…",
-          "link": "https://coinsbench.com/navigating-the-web3-landscape-insights-from-conversations-with-5-10-projects-daily-067a0ad1014e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-05T15:35:17.000Z",
-          "wordCount": 1746,
-          "title": "Navigating the Web3 Landscape: Insights from Conversations with 5–10 Projects Daily",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:781/1*PF-TWG8zKM9Tw0j31zCuzw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/4a164060d89b",
-          "author": "Ranjithkumar",
-          "description": "In the ever-evolving world of blockchain technology, consensus mechanisms stand as the cornerstone of its decentralized ecosystem. These protocols, often referred to as the “heart of blockchain,”…",
-          "link": "https://coinsbench.com/demystifying-consensus-mechanisms-the-heart-of-blockchain-technology-4a164060d89b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-05T15:35:14.000Z",
-          "wordCount": 1896,
-          "title": "Demystifying Consensus Mechanisms: The Heart of Blockchain Technology",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*Ze_HD0hAkQjr2SXr.png"
-        },
-        {
-          "id": "https://medium.com/p/dbca0b7c2231",
-          "author": "Ranjithkumar",
-          "description": "In the dynamic realm of blockchain technology, Solana has emerged as a powerhouse, bringing unprecedented speed and scalability to the table. Among its key innovations is the concept of Proof of…",
-          "link": "https://coinsbench.com/the-math-behind-proof-of-history-in-solana-dbca0b7c2231?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-05T15:34:48.000Z",
-          "wordCount": 3147,
-          "title": "The Math behind Proof of History in Solana",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*TkjB2MOQNm754nBu.png"
-        },
-        {
-          "id": "https://medium.com/p/7be9f49f4367",
-          "author": "Taha Zerarka",
-          "description": "This is your go-to destination to dive deep into the world of Chainlink, where a wealth of knowledge awaits.",
-          "link": "https://coinsbench.com/a-deep-dive-into-chainlink-oracles-7be9f49f4367?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-05T15:34:06.000Z",
-          "wordCount": 2672,
-          "title": "A Deep Dive into Chainlink Oracles",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:897/1*fIeYWeQ092TuGPXPaOCmvg.png"
-        },
-        {
-          "id": "https://medium.com/p/af8002c595bd",
-          "author": "Mohammed Niyas",
-          "description": "In the rapidly evolving landscape of technology, two cutting-edge innovations, Blockchain and Artificial Intelligence (AI), are converging…",
-          "link": "https://coinsbench.com/unlocking-synergies-the-intersection-of-blockchain-and-ai-af8002c595bd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-05T15:34:03.000Z",
-          "wordCount": 1917,
-          "title": "Unlocking Synergies: The Intersection of Blockchain and AI",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:676/1*81zubfhSTeL0c0T7MKbxUw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ef278e457702",
-          "author": "Gimer Cervera",
-          "description": "The website Ethernaut is a “Catch the flag (CTF)” style wargame created by the company OpenZeppelin and inspired by OverTheWire. The goal…",
-          "link": "https://coinsbench.com/ethernaut-challenges-1-fallback-solution-ef278e457702?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-05T15:34:01.000Z",
-          "wordCount": 2543,
-          "title": "Smart Contract Security - Ethernaut Level 1 : Fallback",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*hOorXsRtMp7MysRhJsjeGg.png"
-        },
-        {
-          "id": "https://medium.com/p/7dd6fe7b2f44",
-          "author": "Gimer Cervera",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/ethereum-virtual-machine-evm-deep-dive-part-i-7dd6fe7b2f44?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-05T15:33:59.000Z",
-          "wordCount": 4319,
-          "title": "Ethereum Virtual Machine (EVM) — Deep Dive ( Part I )",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*_Ujq59o9Jgd3cy32_pxbxA.png"
-        },
-        {
-          "id": "https://medium.com/p/b7a9a584aa37",
-          "author": "Mahmoud Mourad Dev",
-          "description": "Make array of students class",
-          "link": "https://coinsbench.com/solidity-array-and-struct-simple-example-b7a9a584aa37?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-05T15:33:56.000Z",
-          "wordCount": 1047,
-          "title": "Solidity Array and Struct simple example",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*pgpD9xF6od9T2eJ7QAjcZw.jpeg"
         }
       ]
     },
