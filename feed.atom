@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-12T16:15:47.378Z</id>
+    <id>urn:2024-01-12T17:11:13.582Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-12T16:15:47.378Z</updated>
+    <updated>2024-01-12T17:11:13.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity principle]]></title>
+        <id>https://medium.com/p/06faaeb07b57</id>
+        <link href="https://coinsbench.com/solidity-principle-06faaeb07b57?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-12T16:51:04.000Z</updated>
+        <summary type="html"><![CDATA[You can connect the Remix into your Ganache in your local machine:]]></summary>
+        <author>
+            <name>mobin shaterian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find The Bug in this Smart Contract [series] 2024]]></title>
+        <id>https://medium.com/p/155d591c4b9b</id>
+        <link href="https://coinsbench.com/find-the-bug-in-this-smart-contract-series-2024-155d591c4b9b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-12T16:50:18.000Z</updated>
+        <summary type="html"><![CDATA[This is a smart contract I worked on, and I found three bugs in it. This tutorial. I shared how I could find the bugs, the mitigated…]]></summary>
+        <author>
+            <name>Scofield O. Idehen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is SPDX-License-Identifier and why do we use MIT ?]]></title>
+        <id>https://medium.com/p/63cb86982634</id>
+        <link href="https://coinsbench.com/what-is-spdx-license-identifier-and-why-do-we-use-mit-63cb86982634?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-12T16:50:15.000Z</updated>
+        <summary type="html"><![CDATA[Understanding the first line of our Solidity  smart contracts.]]></summary>
+        <author>
+            <name>Green Owl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating an ERC-20 Token Marketplace: A Step-by-Step Guide]]></title>
+        <id>https://medium.com/p/40c7ce91bf72</id>
+        <link href="https://coinsbench.com/creating-an-erc-20-token-marketplace-a-step-by-step-guide-40c7ce91bf72?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-12T16:50:11.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum blockchain, and the Ethereum Virtual Machine (EVM) that runs on it which allows running smart contracts on a blockchain, has…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Sed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the second line of Solidity code]]></title>
+        <id>https://medium.com/p/d1fa8cc713b5</id>
+        <link href="https://coinsbench.com/understanding-the-second-line-of-solidity-code-d1fa8cc713b5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-12T16:50:08.000Z</updated>
+        <summary type="html"><![CDATA[How do we specify the solidity version ?]]></summary>
+        <author>
+            <name>Green Owl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[part 1: Demystifying Gas in Blockchain Transactions | OGDevs]]></title>
+        <id>https://medium.com/p/11ec66a98416</id>
+        <link href="https://coinsbench.com/demystifying-gas-in-blockchain-transactions-ogdevs-11ec66a98416?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-12T16:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain transactions operate on the fascinating and indispensable concept of “gas.” This intricate mechanism is pivotal in determining…]]></summary>
+        <author>
+            <name>Joseph David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[part2: Navigating Gas Fees: A Comprehensive Guide for Ethereum Users | OGDevs]]></title>
+        <id>https://medium.com/p/3790c2463645</id>
+        <link href="https://coinsbench.com/part2-navigating-gas-fees-a-comprehensive-guide-for-ethereum-users-ogdevs-3790c2463645?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-12T16:50:00.000Z</updated>
+        <summary type="html"><![CDATA[In the first part of our exploration, we delved into the intricacies of gas, uncovering its vital role in the Ethereum network. Now, let’s…]]></summary>
+        <author>
+            <name>Joseph David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Extreme Gas Optimization Techniques: Revert Over Return]]></title>
+        <id>https://medium.com/p/522231df27b7</id>
+        <link href="https://coinsbench.com/solidity-extreme-gas-optimization-techniques-revert-over-return-522231df27b7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-12T16:49:53.000Z</updated>
+        <summary type="html"><![CDATA[I recently discovered an interesting gas optimization technique that I want to share. Albeit a bit extreme, it can save you a lot of gas in…]]></summary>
+        <author>
+            <name>Tim Truyens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RareSkills Solidity Interview Question #16 Answered: What is a flash loan?]]></title>
+        <id>https://medium.com/p/d5d419139bd5</id>
+        <link href="https://coinsbench.com/rareskills-solidity-interview-question-16-answered-what-is-a-flash-loan-d5d419139bd5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-12T16:49:49.000Z</updated>
+        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
+        <author>
+            <name>Faybian Byrd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to write a Proof of Concept for Audit contests]]></title>
+        <id>https://medium.com/p/adf3cac01179</id>
+        <link href="https://coinsbench.com/how-to-write-a-proof-of-concept-for-audit-contests-adf3cac01179?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-12T16:49:42.000Z</updated>
+        <summary type="html"><![CDATA[Contact me for learning paths, advice and real-world challenges by email at aitor.zaldua@draftdigital.xyz or in X as @azdraft_.]]></summary>
+        <author>
+            <name>Aitor Zaldua</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PSA — Why If You’re In Crypto, You Should Use Wallet Guard]]></title>
         <id>https://medium.com/p/fdd493869d8b</id>
@@ -122,86 +223,6 @@ The post A Deep Dive Into the SEC Twitter Account Hack appeared first on crypto
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ergo: Smart Contracts: Partial Review]]></title>
-        <id>https://medium.com/p/d45366036913</id>
-        <link href="https://coinsbench.com/ergo-smart-contracts-partial-review-d45366036913?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-10T12:11:27.000Z</updated>
-        <summary type="html"><![CDATA[End of year 2023]]></summary>
-        <author>
-            <name>root7Z</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Art of Smart Contract Auditing]]></title>
-        <id>https://medium.com/p/5ef21ed3fd81</id>
-        <link href="https://coinsbench.com/the-art-of-smart-contract-auditing-5ef21ed3fd81?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-10T12:11:24.000Z</updated>
-        <summary type="html"><![CDATA[The Auditor’s Handbook: Navigating the Landscape of Smart Contracts]]></summary>
-        <author>
-            <name>Taha Zerarka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ResPeer: REBUILD OWNERSHIP 2.0: INTERNET PRIVACY First Place]]></title>
-        <id>https://medium.com/p/426ad73e7774</id>
-        <link href="https://coinsbench.com/respeer-rebuild-ownership-2-0-internet-privacy-first-place-426ad73e7774?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-10T12:11:22.000Z</updated>
-        <summary type="html"><![CDATA[We achieved the first place again!]]></summary>
-        <author>
-            <name>Web3 Eye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a simple Blockchain using Rust]]></title>
-        <id>https://medium.com/p/3646d7fc01ad</id>
-        <link href="https://coinsbench.com/create-a-simple-blockchain-using-rust-3646d7fc01ad?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-10T12:11:17.000Z</updated>
-        <summary type="html"><![CDATA[Creating a simple blockchain in Rust involves defining the basic data structures for blocks, implementing functions for block creation and…]]></summary>
-        <author>
-            <name>Mohammed Niyas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain Sharding: Breaking the Chains of Scalability]]></title>
-        <id>https://medium.com/p/8b6232e2ae57</id>
-        <link href="https://coinsbench.com/blockchain-sharding-breaking-the-chains-of-scalability-8b6232e2ae57?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-10T12:11:15.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology, heralded for its decentralization and security features, faces a significant challenge as it gains popularity —…]]></summary>
-        <author>
-            <name>Mohammed Niyas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python + Blockchain: The Future of Decentralized App Development]]></title>
-        <id>https://medium.com/p/7cc1833db0ff</id>
-        <link href="https://coinsbench.com/python-blockchain-the-future-of-decentralized-app-development-7cc1833db0ff?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-10T12:11:13.000Z</updated>
-        <summary type="html"><![CDATA[The digital landscape is constantly shifting, and with it, the way we develop and interact with applications. The rise of blockchain…]]></summary>
-        <author>
-            <name>Nicolet Junior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interacting with an ERC-20 contract using Nodejs]]></title>
-        <id>https://medium.com/p/170a8bc27138</id>
-        <link href="https://coinsbench.com/interacting-with-an-erc-20-contract-using-nodejs-170a8bc27138?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-10T12:11:11.000Z</updated>
-        <summary type="html"><![CDATA[Interacting with an ERC-20 smart contract using Node.js involves sending transactions to the Ethereum blockchain. Below is a step-by-step…]]></summary>
-        <author>
-            <name>Mohammed Niyas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond the Hype: Understanding the True Value of Tokens with Market Cap and FDV.]]></title>
-        <id>https://medium.com/p/9bda762301b1</id>
-        <link href="https://coinsbench.com/beyond-the-hype-understanding-the-true-value-of-tokens-with-market-cap-and-fdv-9bda762301b1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-10T12:11:08.000Z</updated>
-        <summary type="html"><![CDATA[In the digital gold rush of the blockchain era, token values gleam like fool’s gold under the blinding glare of market cap and fully…]]></summary>
-        <author>
-            <name>Kuuku Baffoe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Understanding tx.origin and msg.sender in Solidity]]></title>
         <id>https://medium.com/p/9184b3143dcb</id>
         <link href="https://blog.blockmagnates.com/understanding-tx-origin-and-msg-sender-in-solidity-9184b3143dcb?source=rss----18fa961f1eff--solidity"/>
@@ -210,26 +231,6 @@ The post A Deep Dive Into the SEC Twitter Account Hack appeared first on crypto
 Continue reading on Block Magnates »]]></summary>
         <author>
             <name>Kristaps Grinbergs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is a Crypto Loan? A Guide to Using the DeFi Instrument (Express Summary)]]></title>
-        <id>https://medium.com/p/534f499525b4</id>
-        <link href="https://coinsbench.com/what-is-a-crypto-loan-a-guide-to-using-the-defi-instrument-express-summary-534f499525b4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-05T15:35:24.000Z</updated>
-        <summary type="html"><![CDATA[Crypto Loans: Bridging Traditional Finance and Digital Assets for Liquidity]]></summary>
-        <author>
-            <name>Crypto Express</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cracking the Crypto Code: A Journey into Bitcoin’s Proof of Work]]></title>
-        <id>https://medium.com/p/1ee4eb84b494</id>
-        <link href="https://coinsbench.com/cracking-the-crypto-code-a-journey-into-bitcoins-proof-of-work-1ee4eb84b494?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-05T15:35:19.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered what all this fuss about Bitcoin and its mysterious inner workings is about? Why do tech enthusiasts and financial…]]></summary>
-        <author>
-            <name>Zybs</name>
         </author>
     </entry>
     <entry>
