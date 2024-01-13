@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-13T16:14:27.405Z</id>
+    <id>urn:2024-01-13T17:10:19.317Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-13T16:14:27.405Z</updated>
+    <updated>2024-01-13T17:10:19.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Solidity Bridges Flexibility and Stability for Blockchain Applications]]></title>
+        <id>https://medium.com/p/9b7e772b0529</id>
+        <link href="https://coinsbench.com/how-solidity-bridges-flexibility-and-stability-for-blockchain-applications-9b7e772b0529?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-13T16:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, the programming language designed for developing smart contracts on blockchain platforms, plays a pivotal role in providing the necessary flexibility and stability required for building…]]></summary>
+        <author>
+            <name>Jeffery Oke-Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 3: Optimizing Gas Usage: Advanced Gas Strategies for Smart Contracts | OGDevs]]></title>
+        <id>https://medium.com/p/d45ae536df95</id>
+        <link href="https://coinsbench.com/part-3-optimizing-gas-usage-advanced-gas-strategies-for-smart-contracts-ogdevs-d45ae536df95?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-13T16:07:55.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the final installment of our in-depth exploration into the world of gas on the Ethereum network. In this segment, we delve into…]]></summary>
+        <author>
+            <name>Joseph David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sending transaction on Web 3 using python]]></title>
+        <id>https://medium.com/p/d648ee8c813d</id>
+        <link href="https://coinsbench.com/working-with-web-3-using-python-and-web3py-d648ee8c813d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-13T16:07:54.000Z</updated>
+        <summary type="html"><![CDATA[technology used:]]></summary>
+        <author>
+            <name>Rishav Vajpayee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a Wallet and Deploying smart contracts with Truffle.]]></title>
+        <id>https://medium.com/p/9bdde77299b9</id>
+        <link href="https://coinsbench.com/making-a-wallet-and-deploying-smart-contracts-with-truffle-9bdde77299b9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-13T16:07:52.000Z</updated>
+        <summary type="html"><![CDATA[Getting started with web3 can seem like a daunting task at first, but with the right resources and some guidance, you can quickly become…]]></summary>
+        <author>
+            <name>Rishav Vajpayee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cypherock X1 Review]]></title>
         <id>https://medium.com/p/7e3f8af0b5fe</id>
@@ -74,46 +114,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Blockchain transactions operate on the fascinating and indispensable concept of “gas.” This intricate mechanism is pivotal in determining…]]></summary>
         <author>
             <name>Joseph David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[part2: Navigating Gas Fees: A Comprehensive Guide for Ethereum Users | OGDevs]]></title>
-        <id>https://medium.com/p/3790c2463645</id>
-        <link href="https://coinsbench.com/part2-navigating-gas-fees-a-comprehensive-guide-for-ethereum-users-ogdevs-3790c2463645?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-12T16:50:00.000Z</updated>
-        <summary type="html"><![CDATA[In the first part of our exploration, we delved into the intricacies of gas, uncovering its vital role in the Ethereum network. Now, let’s…]]></summary>
-        <author>
-            <name>Joseph David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Extreme Gas Optimization Techniques: Revert Over Return]]></title>
-        <id>https://medium.com/p/522231df27b7</id>
-        <link href="https://coinsbench.com/solidity-extreme-gas-optimization-techniques-revert-over-return-522231df27b7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-12T16:49:53.000Z</updated>
-        <summary type="html"><![CDATA[I recently discovered an interesting gas optimization technique that I want to share. Albeit a bit extreme, it can save you a lot of gas in…]]></summary>
-        <author>
-            <name>Tim Truyens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #16 Answered: What is a flash loan?]]></title>
-        <id>https://medium.com/p/d5d419139bd5</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-16-answered-what-is-a-flash-loan-d5d419139bd5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-12T16:49:49.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to write a Proof of Concept for Audit contests]]></title>
-        <id>https://medium.com/p/adf3cac01179</id>
-        <link href="https://coinsbench.com/how-to-write-a-proof-of-concept-for-audit-contests-adf3cac01179?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-12T16:49:42.000Z</updated>
-        <summary type="html"><![CDATA[Contact me for learning paths, advice and real-world challenges by email at aitor.zaldua@draftdigital.xyz or in X as @azdraft_.]]></summary>
-        <author>
-            <name>Aitor Zaldua</name>
         </author>
     </entry>
     <entry>

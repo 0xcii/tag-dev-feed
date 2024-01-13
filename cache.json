@@ -49,6 +49,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/9b7e772b0529",
+          "author": "Jeffery Oke-Samuel",
+          "description": "Solidity, the programming language designed for developing smart contracts on blockchain platforms, plays a pivotal role in providing the necessary flexibility and stability required for building…",
+          "link": "https://coinsbench.com/how-solidity-bridges-flexibility-and-stability-for-blockchain-applications-9b7e772b0529?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-01-13T16:07:57.000Z",
+          "wordCount": 1713,
+          "title": "How Solidity Bridges Flexibility and Stability for Blockchain Applications",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:855/1*kE0Q5z3qaO5R9v308dlN-g@2x.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/d45ae536df95",
+          "author": "Joseph David",
+          "description": "Welcome to the final installment of our in-depth exploration into the world of gas on the Ethereum network. In this segment, we delve into…",
+          "link": "https://coinsbench.com/part-3-optimizing-gas-usage-advanced-gas-strategies-for-smart-contracts-ogdevs-d45ae536df95?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-01-13T16:07:55.000Z",
+          "wordCount": 1586,
+          "title": "Part 3: Optimizing Gas Usage: Advanced Gas Strategies for Smart Contracts | OGDevs",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*EFgi1N7azvHfcGkYejb4eA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/d648ee8c813d",
+          "author": "Rishav Vajpayee",
+          "description": "technology used:",
+          "link": "https://coinsbench.com/working-with-web-3-using-python-and-web3py-d648ee8c813d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-01-13T16:07:54.000Z",
+          "wordCount": 1389,
+          "title": "Sending transaction on Web 3 using python",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*mxZ7tm3ER9BJAIvU"
+        },
+        {
+          "id": "https://medium.com/p/9bdde77299b9",
+          "author": "Rishav Vajpayee",
+          "description": "Getting started with web3 can seem like a daunting task at first, but with the right resources and some guidance, you can quickly become…",
+          "link": "https://coinsbench.com/making-a-wallet-and-deploying-smart-contracts-with-truffle-9bdde77299b9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-01-13T16:07:52.000Z",
+          "wordCount": 2446,
+          "title": "Making a Wallet and Deploying smart contracts with Truffle.",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*1i7wkVwJrua9AWGM"
+        },
+        {
           "id": "https://medium.com/p/06faaeb07b57",
           "author": "mobin shaterian",
           "description": "You can connect the Remix into your Ganache in your local machine:",
@@ -107,46 +147,6 @@
           "wordCount": 1544,
           "title": "part 1: Demystifying Gas in Blockchain Transactions | OGDevs",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*URCzVibJPGvZhcdrjAA3OA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3790c2463645",
-          "author": "Joseph David",
-          "description": "In the first part of our exploration, we delved into the intricacies of gas, uncovering its vital role in the Ethereum network. Now, let’s…",
-          "link": "https://coinsbench.com/part2-navigating-gas-fees-a-comprehensive-guide-for-ethereum-users-ogdevs-3790c2463645?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-12T16:50:00.000Z",
-          "wordCount": 1425,
-          "title": "part2: Navigating Gas Fees: A Comprehensive Guide for Ethereum Users | OGDevs",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*7EaAM4eyfkJwTApVJJkptg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/522231df27b7",
-          "author": "Tim Truyens",
-          "description": "I recently discovered an interesting gas optimization technique that I want to share. Albeit a bit extreme, it can save you a lot of gas in…",
-          "link": "https://coinsbench.com/solidity-extreme-gas-optimization-techniques-revert-over-return-522231df27b7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-12T16:49:53.000Z",
-          "wordCount": 1731,
-          "title": "Solidity Extreme Gas Optimization Techniques: Revert Over Return",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*XAaYp274kM-RT-Ug"
-        },
-        {
-          "id": "https://medium.com/p/d5d419139bd5",
-          "author": "Faybian Byrd",
-          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
-          "link": "https://coinsbench.com/rareskills-solidity-interview-question-16-answered-what-is-a-flash-loan-d5d419139bd5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-12T16:49:49.000Z",
-          "wordCount": 2633,
-          "title": "RareSkills Solidity Interview Question #16 Answered: What is a flash loan?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ewP0eVpLoiuBgYWtiqIKsA.png"
-        },
-        {
-          "id": "https://medium.com/p/adf3cac01179",
-          "author": "Aitor Zaldua",
-          "description": "Contact me for learning paths, advice and real-world challenges by email at aitor.zaldua@draftdigital.xyz or in X as @azdraft_.",
-          "link": "https://coinsbench.com/how-to-write-a-proof-of-concept-for-audit-contests-adf3cac01179?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-12T16:49:42.000Z",
-          "wordCount": 2869,
-          "title": "How to write a Proof of Concept for Audit contests",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:902/1*lgjZVlDv4Vq2cCZiGgcXQg.png"
         }
       ]
     },
