@@ -1,10 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-16T15:12:41.326Z</id>
+    <id>urn:2024-01-16T16:15:56.252Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-16T15:12:41.326Z</updated>
+    <updated>2024-01-16T16:15:56.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Black Box vs White Box Testing: A Guide]]></title>
+        <id>https://medium.com/p/ab2b899ec4ea</id>
+        <link href="https://medium.com/coinmonks/black-box-vs-white-box-testing-a-guide-ab2b899ec4ea?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-16T15:45:58.000Z</updated>
+        <summary type="html"><![CDATA[Smart contract testing is an essential part of the development process to ensure the quality and functionality of a product. Two…]]></summary>
+        <author>
+            <name>Cyberscope</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Cryptocurrency Token on the Solana Blockchain]]></title>
+        <id>https://medium.com/p/be6b4e4d5594</id>
+        <link href="https://medium.com/coinmonks/create-a-cryptocurrency-token-on-the-solana-blockchain-be6b4e4d5594?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-16T15:45:57.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you’re going to learn how to create your own token on the Solana blockchain using the command line on a Linux machine.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Frost</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia’s Regulatory Framework for Crypto Exchanges and Other Digital Asset Platforms — What You…]]></title>
+        <id>https://medium.com/p/a06f1b76cce6</id>
+        <link href="https://medium.com/coinmonks/australias-regulatory-framework-for-crypto-exchanges-and-other-digital-asset-platforms-what-you-a06f1b76cce6?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-16T15:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Australia’s game-changing crypto regulation proposal! Learn how it impacts digital asset enthusiasts and the evolving crypto landscape.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>ez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Executive Summary of TRM Global Crypto Policy Review & Outlook 2023–24]]></title>
+        <id>https://medium.com/p/d7c6c48a7069</id>
+        <link href="https://medium.com/coinmonks/executive-summary-of-trm-global-crypto-policy-review-outlook-2023-24-d7c6c48a7069?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-16T15:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Read the essential summary of TRM Global Crypto Policy Review & Outlook 2023–24, a must-read for executives, crypto experts, and…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>ez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Your Money: 5 Essential Reads for Unlocking Financial Independence]]></title>
+        <id>https://medium.com/p/913745dc42eb</id>
+        <link href="https://medium.com/coinmonks/master-your-money-5-essential-reads-for-unlocking-financial-independence-913745dc42eb?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-16T15:45:51.000Z</updated>
+        <summary type="html"><![CDATA[In our fast-paced world, money wields significant influence over our lives, dictating our access to opportunities, the pursuit of our…]]></summary>
+        <author>
+            <name>Eduardo Abreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Manta? How to receive the MANTA airdrop?]]></title>
+        <id>https://medium.com/p/8e6f321e3e54</id>
+        <link href="https://medium.com/coinmonks/what-is-manta-how-to-receive-the-manta-airdrop-8e6f321e3e54?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-16T15:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Today, Binance launchpad goes online to mine MANTA. You can get MANTA by staking BNB, which can be mined for 2 days.]]></summary>
+        <author>
+            <name>CryptoLola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperledger Fabric Network Upgrade in one click.]]></title>
+        <id>https://medium.com/p/fc2600f80cab</id>
+        <link href="https://medium.com/coinmonks/hyperledger-fabric-network-upgrade-in-one-click-fc2600f80cab?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-16T15:45:48.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-evolving landscape of blockchain technologies, staying up-to-date with the latest versions of platforms like Hyperledger…]]></summary>
+        <author>
+            <name>Padmaraj Kore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Development using Hardhat]]></title>
+        <id>https://medium.com/p/8687f1230019</id>
+        <link href="https://coinsbench.com/smart-contract-development-using-hardhat-8687f1230019?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-16T15:38:10.000Z</updated>
+        <summary type="html"><![CDATA[What is Hardhat?]]></summary>
+        <author>
+            <name>Mohammed Niyas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Decentralized Charity Platform with Next.js, TypeScript, and Solidity]]></title>
+        <id>https://medium.com/p/07cbffe38805</id>
+        <link href="https://coinsbench.com/how-to-build-a-decentralized-charity-platform-with-next-js-typescript-and-solidity-07cbffe38805?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-16T15:38:08.000Z</updated>
+        <summary type="html"><![CDATA[Build a decentralized application (Dapp) for a charity marketplace. Learn Solidity, Ethereum, OpenZeppelin, Next.js, TypeScript, Hardhat…]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Writing a Crypto Press Release: 10 Mistakes to Avoid]]></title>
         <id>https://medium.com/p/c22b1f3091ea</id>
@@ -34,78 +127,6 @@
 Continue reading on Coinmonks »]]></summary>
         <author>
             <name>Marco Rodrigues</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Lucrative World of NFT Auctions: The Hottest Digital Collectibles]]></title>
-        <id>https://medium.com/p/9e9eed1e2e10</id>
-        <link href="https://medium.com/coinmonks/the-lucrative-world-of-nft-auctions-the-hottest-digital-collectibles-9e9eed1e2e10?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-16T13:41:24.000Z</updated>
-        <summary type="html"><![CDATA[Non-Fungible Tokens (NFTs) have taken the world by storm, revolutionizing the way we perceive and trade digital assets. From art to music…]]></summary>
-        <author>
-            <name>Eye Of Unity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craig Wright: The Wei Dai Lies]]></title>
-        <id>https://medium.com/p/d03ad9c32a87</id>
-        <link href="https://medium.com/coinmonks/craig-wright-the-wei-dai-lies-d03ad9c32a87?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-16T13:41:18.000Z</updated>
-        <summary type="html"><![CDATA[And again, our cosplaying con man just can’t keep a Bitcoin origin story straight.]]></summary>
-        <author>
-            <name>MyLegacyKit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conquer the Content Conundrum: 3 Steps to Creating Steady Web3 Content that Converts]]></title>
-        <id>https://medium.com/p/70e75127d47e</id>
-        <link href="https://medium.com/coinmonks/conquer-the-content-conundrum-3-steps-to-creating-steady-web3-content-that-converts-70e75127d47e?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-16T13:40:54.000Z</updated>
-        <summary type="html"><![CDATA[The secret to generating a consistent flow of engaging content that gets everyone talking]]></summary>
-        <author>
-            <name>Ayodeji Alo (Lore)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCA: A Prudent Entry and Exit Strategy in Crypto Markets]]></title>
-        <id>https://medium.com/p/134d7ac5bd36</id>
-        <link href="https://medium.com/coinmonks/dca-a-prudent-entry-and-exit-strategy-in-crypto-markets-134d7ac5bd36?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-16T11:36:11.000Z</updated>
-        <summary type="html"><![CDATA[When diving into the crypto market, the goal is clear: to secure the best possible price. However, predicting the absolute bottom or peak…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Freia Skogstad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Reasons I’m a Bitcoin Purist]]></title>
-        <id>https://medium.com/p/964dcc6d335d</id>
-        <link href="https://medium.com/coinmonks/three-reasons-im-a-bitcoin-purist-964dcc6d335d?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-16T11:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is crypto. Crypto is not Bitcoin. Don’t get it twisted.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Tin Money</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Revolutionary Features of BAT Crypto and Brave Browser]]></title>
-        <id>https://medium.com/p/9ba7e771e6d6</id>
-        <link href="https://medium.com/coinmonks/exploring-the-revolutionary-features-of-bat-crypto-and-brave-browser-9ba7e771e6d6?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-16T11:30:16.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, the world of cryptocurrencies has seen exponential growth, with more and more people getting involved in this exciting and…]]></summary>
-        <author>
-            <name>Eye Of Unity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‍☠️The Nvidia Chips Black Market is Thriving]]></title>
-        <id>https://medium.com/p/fe7ce1afba39</id>
-        <link href="https://medium.com/coinmonks/%EF%B8%8Fthe-nvidia-chips-black-market-is-thriving-fe7ce1afba39?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-16T11:04:56.000Z</updated>
-        <summary type="html"><![CDATA[Sign Up — Advertise]]></summary>
-        <author>
-            <name>YAROCELIS.eth - Tech Trends</name>
         </author>
     </entry>
     <entry>
@@ -187,26 +208,6 @@ Continue reading on Coinmonks »]]></summary>
 Continue reading on CoinsBench »]]></summary>
         <author>
             <name>Sed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the second line of Solidity code]]></title>
-        <id>https://medium.com/p/d1fa8cc713b5</id>
-        <link href="https://coinsbench.com/understanding-the-second-line-of-solidity-code-d1fa8cc713b5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-12T16:50:08.000Z</updated>
-        <summary type="html"><![CDATA[How do we specify the solidity version ?]]></summary>
-        <author>
-            <name>Green Owl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[part 1: Demystifying Gas in Blockchain Transactions | OGDevs]]></title>
-        <id>https://medium.com/p/11ec66a98416</id>
-        <link href="https://coinsbench.com/demystifying-gas-in-blockchain-transactions-ogdevs-11ec66a98416?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-12T16:50:03.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain transactions operate on the fascinating and indispensable concept of “gas.” This intricate mechanism is pivotal in determining…]]></summary>
-        <author>
-            <name>Joseph David</name>
         </author>
     </entry>
     <entry>
