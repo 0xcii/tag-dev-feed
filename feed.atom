@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-19T13:15:18.600Z</id>
+    <id>urn:2024-01-19T14:11:43.340Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-19T13:15:18.600Z</updated>
+    <updated>2024-01-19T14:11:43.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Using Yuzu Finance on EON Network | Lending and Borrowing dApp]]></title>
+        <id>https://medium.com/p/34b0bc07229e</id>
+        <link href="https://coinsbench.com/using-yuzu-finance-on-eon-network-lending-and-borrowing-dapp-34b0bc07229e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-19T13:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Yuzu Finance is the first decentralized non-custodial lending and borrowing dApp built on Horizen EON Network. Yuzu Finance allow Horizen’s…]]></summary>
+        <author>
+            <name>Luis Antonio Cruz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create a Dutch Auction Contract on Klaytn]]></title>
+        <id>https://medium.com/p/82a7bc1790a8</id>
+        <link href="https://coinsbench.com/how-to-create-a-dutch-auction-contract-on-klaytn-82a7bc1790a8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-19T13:21:15.000Z</updated>
+        <summary type="html"><![CDATA[Unlike traditional auctions where prices start low and go higher, Dutch auctions begin with a high price that gradually decreases until a…]]></summary>
+        <author>
+            <name>Oluwole kayode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying smart contracts to the Qan private Chain]]></title>
+        <id>https://medium.com/p/aa41c448ca64</id>
+        <link href="https://coinsbench.com/deploying-smart-contracts-to-the-qan-private-chain-aa41c448ca64?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-19T13:21:09.000Z</updated>
+        <summary type="html"><![CDATA[This guide will show you step by step how to deploy a solidity smart contract to the new Qan Chain. Please note that this chain is very…]]></summary>
+        <author>
+            <name>Y.N.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Trading Secrets: A Beginner’s Guide to Using Bybit’s API]]></title>
+        <id>https://medium.com/p/da3f9a8b2ccd</id>
+        <link href="https://coinsbench.com/crypto-trading-secrets-a-beginners-guide-to-using-bybit-s-api-da3f9a8b2ccd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-19T13:21:04.000Z</updated>
+        <summary type="html"><![CDATA[A guide into Bybit’s API with Node.js & JavaScript
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Javier Calderon Jr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to Automated Crypto Trading: Using Python and Binance API for Smart Investing]]></title>
+        <id>https://medium.com/p/718b371e5776</id>
+        <link href="https://coinsbench.com/a-guide-to-automated-crypto-trading-using-python-and-binance-api-for-smart-investing-718b371e5776?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-19T13:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Automated Trading with Python and Binance API
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Javier Calderon Jr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Earn $10,000 by Selling NFTs on Social Media]]></title>
         <id>https://medium.com/p/118cbd47db5e</id>
@@ -166,57 +218,6 @@ This article explains what chain abstraction means in practice and ho…]]></sum
         <summary type="html"><![CDATA[technology used:]]></summary>
         <author>
             <name>Rishav Vajpayee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a Wallet and Deploying smart contracts with Truffle.]]></title>
-        <id>https://medium.com/p/9bdde77299b9</id>
-        <link href="https://coinsbench.com/making-a-wallet-and-deploying-smart-contracts-with-truffle-9bdde77299b9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-13T16:07:52.000Z</updated>
-        <summary type="html"><![CDATA[Getting started with web3 can seem like a daunting task at first, but with the right resources and some guidance, you can quickly become…]]></summary>
-        <author>
-            <name>Rishav Vajpayee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity principle]]></title>
-        <id>https://medium.com/p/06faaeb07b57</id>
-        <link href="https://coinsbench.com/solidity-principle-06faaeb07b57?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-12T16:51:04.000Z</updated>
-        <summary type="html"><![CDATA[You can connect the Remix into your Ganache in your local machine:]]></summary>
-        <author>
-            <name>mobin shaterian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find The Bug in this Smart Contract [series] 2024]]></title>
-        <id>https://medium.com/p/155d591c4b9b</id>
-        <link href="https://coinsbench.com/find-the-bug-in-this-smart-contract-series-2024-155d591c4b9b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-12T16:50:18.000Z</updated>
-        <summary type="html"><![CDATA[This is a smart contract I worked on, and I found three bugs in it. This tutorial. I shared how I could find the bugs, the mitigated…]]></summary>
-        <author>
-            <name>Scofield O. Idehen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is SPDX-License-Identifier and why do we use MIT ?]]></title>
-        <id>https://medium.com/p/63cb86982634</id>
-        <link href="https://coinsbench.com/what-is-spdx-license-identifier-and-why-do-we-use-mit-63cb86982634?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-12T16:50:15.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the first line of our Solidity  smart contracts.]]></summary>
-        <author>
-            <name>Green Owl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating an ERC-20 Token Marketplace: A Step-by-Step Guide]]></title>
-        <id>https://medium.com/p/40c7ce91bf72</id>
-        <link href="https://coinsbench.com/creating-an-erc-20-token-marketplace-a-step-by-step-guide-40c7ce91bf72?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-12T16:50:11.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum blockchain, and the Ethereum Virtual Machine (EVM) that runs on it which allows running smart contracts on a blockchain, has…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Sed</name>
         </author>
     </entry>
     <entry>
