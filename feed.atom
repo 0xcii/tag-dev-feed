@@ -1,111 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-19T08:16:06.053Z</id>
+    <id>urn:2024-01-19T09:12:38.197Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-19T08:16:06.053Z</updated>
+    <updated>2024-01-19T09:12:38.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Will Bitcoin’s Turbulent Evolution Continue in 2024?]]></title>
-        <id>https://medium.com/p/a73e906ec5a1</id>
-        <link href="https://medium.com/coinmonks/will-bitcoins-turbulent-evolution-continue-in-2024-a73e906ec5a1?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-18T15:27:16.000Z</updated>
-        <summary type="html"><![CDATA[For over a decade, Bitcoin has been on a wild ride, soaring to dizzying heights and plummeting to gut-wrenching lows. As the original…]]></summary>
+        <title type="html"><![CDATA[NEAR Chain Abstraction Explained]]></title>
+        <id>https://blog.developerdao.com/near-chain-abstraction-explained</id>
+        <link href="https://blog.developerdao.com/near-chain-abstraction-explained"/>
+        <updated>2024-01-19T09:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Web3 gives users more control over their data and payments. Still, we pay for these benefits with increased technical and UX complexity. In recent years, blockchain ecosystems have tried to improve onboarding to get a hold of the UX part, but as many new chains sprouted, the technical complexities grew with them.
+Account abstraction solves key management quite nicely. When a smart contract can decide when TXs are valid, nobody needs to juggle keys anymore, but wouldnt it be nice if we could abstract away the different chains altogether? NEAR leverages account abstraction, modular data availability, cross-chain liquidity networks, and composable decentralized frontends for chain interoperabilityone account for all chains.
+This article explains what chain abstraction means in practice and ho…]]></summary>
         <author>
-            <name>Rogers Mayaka</name>
+            <name>Ϗ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unleashing the Potential of DApps: A Practical Guide to Truffle IDE]]></title>
-        <id>https://medium.com/p/c5e14b98041a</id>
-        <link href="https://medium.com/coinmonks/unleashing-the-potential-of-dapps-a-guide-to-development-with-truffle-c5e14b98041a?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-18T14:43:35.000Z</updated>
-        <summary type="html"><![CDATA[In the realm of decentralized applications (Dapps), Truffle stands as a prominent development framework, empowering developers to craft…]]></summary>
+        <title type="html"><![CDATA[ICO List — Top 10 ICOs To Invest In 2024]]></title>
+        <id>https://medium.com/p/f511a7112fca</id>
+        <link href="https://medium.com/coinmonks/ico-list-top-10-icos-to-invest-in-2024-f511a7112fca?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-19T08:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Image]]></summary>
         <author>
-            <name>Daniel Pham</name>
+            <name>Jay Jackson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 Job Market: The Rise and Impact of Top 24 Web3 Jobs]]></title>
-        <id>https://medium.com/p/c4b9c3227d70</id>
-        <link href="https://medium.com/coinmonks/2024-job-market-the-rise-and-impact-of-top-24-web3-jobs-c4b9c3227d70?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-18T14:43:34.000Z</updated>
-        <summary type="html"><![CDATA[Introduction to the 2024 Job Market]]></summary>
-        <author>
-            <name>Jesiel Deshpande</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEX Analytics: Tools for Informed Trading Decisions]]></title>
-        <id>https://medium.com/p/2b2617d927c5</id>
-        <link href="https://medium.com/coinmonks/dex-analytics-tools-for-informed-trading-decisions-2b2617d927c5?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-18T14:43:32.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized exchanges (DEX) have emerged as a pivotal component of the blockchain and cryptocurrency ecosystem, offering users a…]]></summary>
-        <author>
-            <name>Dexa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25 Tips for Solidity Code Auditors]]></title>
-        <id>https://medium.com/p/d5f9796079c8</id>
-        <link href="https://medium.com/coinmonks/25-tips-for-solidity-code-auditors-d5f9796079c8?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-18T14:43:15.000Z</updated>
-        <summary type="html"><![CDATA[Gaining the most elusive of tips. Add your input and let’s collect them all!]]></summary>
-        <author>
-            <name>Officer's Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Only Safe Way to Store Crypto]]></title>
-        <id>https://medium.com/p/e188bb58afd7</id>
-        <link href="https://medium.com/coinmonks/the-only-safe-way-to-store-crypto-e188bb58afd7?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-18T14:43:12.000Z</updated>
-        <summary type="html"><![CDATA[Greetings, dear readers! I am frequently asked what is the best dependable way to keep cryptocurrency, whether it is Bitcoin, Monero, ERC20…]]></summary>
-        <author>
-            <name>Officer's Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Blockchain Real Estate Companies Redefining Ownership in 2024]]></title>
-        <id>https://medium.com/p/b9129675a395</id>
-        <link href="https://medium.com/coinmonks/top-10-blockchain-real-estate-companies-redefining-ownership-in-2024-b9129675a395?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-18T14:43:03.000Z</updated>
-        <summary type="html"><![CDATA[The real estate industry is undergoing a paradigm shift, embracing cutting-edge technologies to streamline processes, enhance transparency…]]></summary>
-        <author>
-            <name>Cathrine Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 “NEW” CRYPTO ALTCOINS WITH 100X POTENTIAL]]></title>
-        <id>https://medium.com/p/d8a09d4e243e</id>
-        <link href="https://medium.com/coinmonks/3-new-crypto-altcoins-with-100x-potential-d8a09d4e243e?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-18T14:42:57.000Z</updated>
-        <summary type="html"><![CDATA[You can see the majority of the ALtcoins are deep I the red, Bitcoin itself also is deep in the red as well, but what caused this?
+        <title type="html"><![CDATA[Embracing the Future: How AI and Green Tech are Revolutionizing Sustainability in Enterprise…]]></title>
+        <id>https://medium.com/p/b42b93d2679d</id>
+        <link href="https://medium.com/coinmonks/embracing-the-future-how-ai-and-green-tech-are-revolutionizing-sustainability-in-enterprise-b42b93d2679d?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-19T08:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Transforming Enterprises: Navigating the Intersection of AI, Green Tech, and Corporate Sustainability
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>cryptoinspector</name>
+            <name>Ram Vadranam</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TOP 5 *NEW* HIGH RISK 50–100X MICROCAP ALTCOINS]]></title>
-        <id>https://medium.com/p/99a555da59b7</id>
-        <link href="https://medium.com/coinmonks/top-5-new-high-risk-50-100x-microcap-altcoins-99a555da59b7?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-18T14:42:51.000Z</updated>
-        <summary type="html"><![CDATA[Do you want to earn extra income with crypto and do you want to see your portfolio massively in the green for the next bull market?
-Continue reading on Coinmonks »]]></summary>
+        <title type="html"><![CDATA[The Exciting World of Avalanche NFT Collections]]></title>
+        <id>https://medium.com/p/be5c6ba5e1b9</id>
+        <link href="https://medium.com/coinmonks/the-exciting-world-of-avalanche-nft-collections-be5c6ba5e1b9?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-19T08:08:33.000Z</updated>
+        <summary type="html"><![CDATA[NFTs, or non-fungible tokens, have taken the world by storm, revolutionizing the way we perceive and trade digital assets. Within this…]]></summary>
         <author>
-            <name>cryptoinspector</name>
+            <name>Eye Of Unity</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THE NEXT 100X POTENTIAL AI CRYPTO COIN]]></title>
-        <id>https://medium.com/p/861d2ab8451e</id>
-        <link href="https://medium.com/coinmonks/the-next-100x-potential-ai-crypto-coin-861d2ab8451e?source=rss----721b17443fd5---4"/>
-        <updated>2024-01-18T14:42:49.000Z</updated>
-        <summary type="html"><![CDATA[We’re going to do a dedicated review of GT Protocol and they’re giving away thousands of dollars worth of NFTs to our community
+        <title type="html"><![CDATA[3 SECONDS that can ruin your investment portofolio for 3 YEARS]]></title>
+        <id>https://medium.com/p/fe6da1ae51bd</id>
+        <link href="https://medium.com/coinmonks/3-seconds-that-can-ruin-your-investment-portofolio-for-3-years-fe6da1ae51bd?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-19T08:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Let’s talk for real now.
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>cryptoinspector</name>
+            <name>Edge Ruler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UniLend Finance (UFT) is one of India’s largest Cryptocurrencies]]></title>
+        <id>https://medium.com/p/3ef06298cc65</id>
+        <link href="https://medium.com/coinmonks/unilend-finance-uft-is-one-of-indias-largest-cryptocurrencies-3ef06298cc65?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-19T08:08:29.000Z</updated>
+        <summary type="html"><![CDATA[India is a country with a population of 1.408 billion and advancing rapidly in technology. If Crypto grows big, I think UniLend (UFT) has…]]></summary>
+        <author>
+            <name>Alpay Yildirim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hold on to your hats!]]></title>
+        <id>https://medium.com/p/08d0f4eb9bde</id>
+        <link href="https://medium.com/coinmonks/hold-on-to-your-hats-08d0f4eb9bde?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-19T08:08:28.000Z</updated>
+        <summary type="html"><![CDATA[Prepare for an exhilarating ride as the financial landscape promises unexpected twists and turns. The convergence of the ETF event is like…]]></summary>
+        <author>
+            <name>Amado Carrillo Fuentes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comprehensive Guide to Smart Contract Auditing: Ensuring Security, Compliance, and Reliability]]></title>
+        <id>https://medium.com/p/1264efa738d7</id>
+        <link href="https://medium.com/coinmonks/comprehensive-guide-to-smart-contract-auditing-ensuring-security-compliance-and-reliability-1264efa738d7?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-19T08:08:26.000Z</updated>
+        <summary type="html"><![CDATA[Auditing a smart contract is a crucial step to ensure its security, functionality, and compliance with best practices. Here is a general…]]></summary>
+        <author>
+            <name>Crypto Beast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin vs Ripple — A New Battle at the Heart of Crypto!]]></title>
+        <id>https://medium.com/p/59f247b8db98</id>
+        <link href="https://medium.com/coinmonks/bitcoin-vs-ripple-a-new-battle-at-the-heart-of-crypto-59f247b8db98?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-19T08:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Satoshi Nakamoto battles Ripple and the Fiat Titans for the future of decentralized Money — A Saga co-written by ChatGPT
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Jamen Mendes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ever heard of Jim Cramer?]]></title>
+        <id>https://medium.com/p/29f1ccd814da</id>
+        <link href="https://medium.com/coinmonks/ever-heard-of-jim-cramer-29f1ccd814da?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-19T08:08:22.000Z</updated>
+        <summary type="html"><![CDATA[If you watch financial news then you probably know him.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Durwin Ho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s What I Published About MLK Day In Areas & Producers!]]></title>
+        <id>https://medium.com/p/c0bc3ae61deb</id>
+        <link href="https://medium.com/coinmonks/heres-what-i-published-about-mlk-day-in-areas-producers-c0bc3ae61deb?source=rss----721b17443fd5---4"/>
+        <updated>2024-01-19T08:08:20.000Z</updated>
+        <summary type="html"><![CDATA[My comments about the Obama Foundation’s 2023 Democracy Forum at McCormick Place in Chicago, Illinois.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>World As One 4PEACE</name>
         </author>
     </entry>
     <entry>
