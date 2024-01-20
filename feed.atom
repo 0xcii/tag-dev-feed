@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-20T15:11:25.935Z</id>
+    <id>urn:2024-01-20T16:14:47.279Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-20T15:11:25.935Z</updated>
+    <updated>2024-01-20T16:14:47.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Deep Dive into Solidity Data Types]]></title>
+        <id>https://medium.com/p/87f6ce424b3</id>
+        <link href="https://coinsbench.com/a-deep-dive-into-solidity-data-types-87f6ce424b3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-20T16:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Solidity is a high-level, statically typed programming language used for writing smart contracts on the Ethereum blockchain. Just like any other programming language, Solidity has its own set of data…]]></summary>
+        <author>
+            <name>Jeffery Oke-Samuel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why we spent 2 years building an algorithmic crypto trading platform]]></title>
         <id>https://www.cryptomaton.org/?p=1659</id>
@@ -220,16 +230,6 @@ This article explains what chain abstraction means in practice and ho…]]></sum
         <summary type="html"><![CDATA[Welcome to the final installment of our in-depth exploration into the world of gas on the Ethereum network. In this segment, we delve into…]]></summary>
         <author>
             <name>Joseph David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sending transaction on Web 3 using python]]></title>
-        <id>https://medium.com/p/d648ee8c813d</id>
-        <link href="https://coinsbench.com/working-with-web-3-using-python-and-web3py-d648ee8c813d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-13T16:07:54.000Z</updated>
-        <summary type="html"><![CDATA[technology used:]]></summary>
-        <author>
-            <name>Rishav Vajpayee</name>
         </author>
     </entry>
     <entry>
