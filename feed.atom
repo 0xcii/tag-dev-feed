@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-22T09:13:24.251Z</id>
+    <id>urn:2024-01-22T10:13:54.391Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-22T09:13:24.251Z</updated>
+    <updated>2024-01-22T10:13:54.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crafting Beautiful Light Art with Figma and Midjourney]]></title>
+        <id>https://blog.developerdao.com/crafting-beautiful-light-art-with-figma-and-midjourney</id>
+        <link href="https://blog.developerdao.com/crafting-beautiful-light-art-with-figma-and-midjourney"/>
+        <updated>2024-01-22T09:03:25.000Z</updated>
+        <summary type="html"><![CDATA[One of the most overlooked features of Midjourney is the ability to include images in your /imagine prompt. This gives you the power to influence a prompt's basic visual structure. The more details this image has, the more it will influence your result.
+Recently, I have been using very simple sketches created in Figma to influence my Midjourney prompts, and the results are amazing.
+First, you can do this with Photoshop, Illustration, Canva, or other toolseven drawn sketches. However, for this tutorial, we'll be using Figma. If you want to learn more about Midjourney, check out my Beginner's Guide and Complete Guide to Image Effects.
+Step 1: Background
+Let's get started by creating a frame in Figma with the same shape as the image we want to make. In this case, we are using the 16:9 format …]]></summary>
+        <author>
+            <name>Erik Knobl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why I’m focusing on Zeta Chain!]]></title>
         <id>https://medium.com/p/debd0c29c15c</id>

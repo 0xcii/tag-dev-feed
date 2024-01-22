@@ -161,7 +161,7 @@
           "description": "Yes, I’ve decided to go through the required routes to make sure I’m eligible for Zeta chain drops.",
           "link": "https://medium.com/coinmonks/why-im-focusing-on-zeta-chain-debd0c29c15c?source=rss----721b17443fd5---4",
           "publishedOn": "2024-01-22T08:52:57.000Z",
-          "wordCount": 1200,
+          "wordCount": 1201,
           "title": "Why I’m focusing on Zeta Chain!",
           "imageUrl": null
         },
@@ -299,6 +299,16 @@
       "feedUrl": "https://blog.developerdao.com/rss.xml",
       "siteUrl": "https://blog.developerdao.com",
       "articles": [
+        {
+          "id": "https://blog.developerdao.com/crafting-beautiful-light-art-with-figma-and-midjourney",
+          "author": "Erik Knobl",
+          "description": "One of the most overlooked features of Midjourney is the ability to include images in your /imagine prompt. This gives you the power to influence a prompt's basic visual structure. The more details this image has, the more it will influence your result.\nRecently, I have been using very simple sketches created in Figma to influence my Midjourney prompts, and the results are amazing.\nFirst, you can do this with Photoshop, Illustration, Canva, or other toolseven drawn sketches. However, for this tutorial, we'll be using Figma. If you want to learn more about Midjourney, check out my Beginner's Guide and Complete Guide to Image Effects.\nStep 1: Background\nLet's get started by creating a frame in Figma with the same shape as the image we want to make. In this case, we are using the 16:9 format …",
+          "link": "https://blog.developerdao.com/crafting-beautiful-light-art-with-figma-and-midjourney",
+          "publishedOn": "2024-01-22T09:03:25.000Z",
+          "wordCount": 7364,
+          "title": "Crafting Beautiful Light Art with Figma and Midjourney",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1705913981276%2F9ed107a6-5d9a-4a16-9128-af4025696943.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
         {
           "id": "https://blog.developerdao.com/near-chain-abstraction-explained",
           "author": "Ϗ",
