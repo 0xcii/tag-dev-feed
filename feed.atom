@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-27T14:10:11.838Z</id>
+    <id>urn:2024-01-27T15:10:04.883Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-27T14:10:11.838Z</updated>
+    <updated>2024-01-27T15:10:04.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How we went from 0 to millions in transaction volume with one fully on-chain game]]></title>
+        <id>https://medium.com/p/7a9d87e1f7f8</id>
+        <link href="https://coinsbench.com/how-we-went-from-0-to-millions-in-transaction-volume-with-one-fully-on-chain-game-7a9d87e1f7f8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-27T14:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Read about one of the most successful fully on-chain games: Crypto Unicorns: the Dark Forest, and the blockchain technology behind it.]]></summary>
+        <author>
+            <name>Moonstream.to</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proof of Liquidity — Bera testnet play]]></title>
+        <id>https://medium.com/p/870d2683d249</id>
+        <link href="https://coinsbench.com/proof-of-liquidity-bera-testnet-play-870d2683d249?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-27T14:28:13.000Z</updated>
+        <summary type="html"><![CDATA[Pre-requisites
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>luckyStars</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hardhat part2: Deploy ERC-20 contract to a public network]]></title>
+        <id>https://medium.com/p/918a27fe75ac</id>
+        <link href="https://coinsbench.com/hardhat-part2-deploy-erc-20-contract-to-a-public-network-918a27fe75ac?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-01-27T14:28:11.000Z</updated>
+        <summary type="html"><![CDATA[We have already created an ERC-20 smart contract using Hardhat, refer the below article]]></summary>
+        <author>
+            <name>Mohammed Niyas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Biden’s Energy Crisis Could Benefit Spinoff Companies]]></title>
         <id>https://medium.com/p/66b99f1f83a3</id>
@@ -207,28 +238,6 @@ The post Why we spent 2 years building an algorithmic crypto trading platform a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Trading Secrets: A Beginner’s Guide to Using Bybit’s API]]></title>
-        <id>https://medium.com/p/da3f9a8b2ccd</id>
-        <link href="https://coinsbench.com/crypto-trading-secrets-a-beginners-guide-to-using-bybit-s-api-da3f9a8b2ccd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-19T13:21:04.000Z</updated>
-        <summary type="html"><![CDATA[A guide into Bybit’s API with Node.js & JavaScript
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Javier Calderon Jr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide to Automated Crypto Trading: Using Python and Binance API for Smart Investing]]></title>
-        <id>https://medium.com/p/718b371e5776</id>
-        <link href="https://coinsbench.com/a-guide-to-automated-crypto-trading-using-python-and-binance-api-for-smart-investing-718b371e5776?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-19T13:21:01.000Z</updated>
-        <summary type="html"><![CDATA[Automated Trading with Python and Binance API
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Javier Calderon Jr</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NEAR Chain Abstraction Explained]]></title>
         <id>https://blog.developerdao.com/near-chain-abstraction-explained</id>
         <link href="https://blog.developerdao.com/near-chain-abstraction-explained"/>
@@ -238,16 +247,6 @@ Account abstraction solves key management quite nicely. When a smart contract ca
 This article explains what chain abstraction means in practice and ho…]]></summary>
         <author>
             <name>Ϗ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hardhat part1: Smart Contract Development using Hardhat]]></title>
-        <id>https://medium.com/p/8687f1230019</id>
-        <link href="https://coinsbench.com/smart-contract-development-using-hardhat-8687f1230019?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-16T15:38:10.000Z</updated>
-        <summary type="html"><![CDATA[What is Hardhat?]]></summary>
-        <author>
-            <name>Mohammed Niyas</name>
         </author>
     </entry>
     <entry>
