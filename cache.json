@@ -39,6 +39,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/92a01fcaafe3",
+          "author": "Solidity Labs",
+          "description": "Please excuse the click-baity title, but I think we should have a conversation about xERC20. The standard, as implemented in the…",
+          "link": "https://coinsbench.com/youre-doing-xerc20-wrong-92a01fcaafe3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-01T12:45:42.000Z",
+          "wordCount": 2745,
+          "title": "You’re Doing xERC20 Wrong",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*thgtae_gvFCpxV07JOMkuA.png"
+        },
+        {
+          "id": "https://medium.com/p/a024dc6f2665",
+          "author": "Faybian Byrd",
+          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
+          "link": "https://coinsbench.com/rareskills-solidity-interview-question-18-answered-what-is-the-minimum-amount-of-ether-required-a024dc6f2665?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-01T12:45:40.000Z",
+          "wordCount": 1668,
+          "title": "RareSkills Solidity Interview Question #18 Answered: What is the minimum amount of Ether required…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*T0KHVfdy5CksRPWDIvyy2Q.png"
+        },
+        {
+          "id": "https://medium.com/p/1c4ea02a52d8",
+          "author": "Wesley Coetzee",
+          "description": "A small gotcha with the ERC20 WETH token that could cost you big!",
+          "link": "https://coinsbench.com/erc20-exploit-with-weth-1c4ea02a52d8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-01T12:45:38.000Z",
+          "wordCount": 2834,
+          "title": "ERC20 Exploit with WETH",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:666/1*_uSPCHQZsvH08_7DOK9WVA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c3b7ebf4cb14",
+          "author": "Abdul Aleem",
+          "description": "Solidity, the programming language for Ethereum smart contracts, operates on a foundation of units to handle cryptocurrency values. Two…",
+          "link": "https://coinsbench.com/demystifying-decimals-and-wei-in-solidity-a-guide-for-smart-contract-developers-c3b7ebf4cb14?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-01T12:45:36.000Z",
+          "wordCount": 1553,
+          "title": "Demystifying Decimals and Wei in Solidity: A Guide for Smart Contract Developers",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*_bEKwdvSQDXBbTq9Ln7F9w.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/1d5a44b18300",
+          "author": "luckyStars",
+          "description": "We will try to explain how to create account, set up prover / node and deploy dApps on testnet II Aleo",
+          "link": "https://coinsbench.com/trial-run-in-zk-layer-1-testnet-iii-aleo-1d5a44b18300?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-01T12:45:35.000Z",
+          "wordCount": 1590,
+          "title": "Trial run in ZK layer 1 testnet III ALeo",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*O9EWmTNoi4s4JqfMqKC22g.png"
+        },
+        {
+          "id": "https://medium.com/p/496dbc23552b",
+          "author": "Mohammed Niyas",
+          "description": "In the ever-evolving landscape of blockchain technology, Cosmos has emerged as a trailblazer with its visionary approach to addressing key challenges within the decentralized ecosystem. Founded in…",
+          "link": "https://coinsbench.com/a-deep-dive-into-cosmos-blockchain-connecting-the-decentralized-universe-496dbc23552b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-01T12:45:32.000Z",
+          "wordCount": 2048,
+          "title": "A Deep Dive into Cosmos Blockchain: Connecting the Decentralized Universe",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*D_dqY2wTv9BMZuici9YdQA.jpeg"
+        },
+        {
           "id": "https://medium.com/p/f58c86f74e4b",
           "author": "Trym Thoren",
           "description": "Introduction\nContinue reading on CoinsBench »",
@@ -77,66 +137,6 @@
           "wordCount": 8084,
           "title": "Optimization on Ethereum: Make a Difference with Function Names",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1180/1*yEL28gzuNVAlC2Ae8QDw0g.png"
-        },
-        {
-          "id": "https://medium.com/p/d7d7fffd5486",
-          "author": "Darlington Gospel",
-          "description": "This course will guide learners through the process of creating a full-stack Blockchain-Based Play-to-Earn dApp including the use of ERC20…",
-          "link": "https://coinsbench.com/how-to-build-a-web3-play-to-earn-platform-with-next-js-typescript-and-solidity-d7d7fffd5486?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-30T10:32:44.000Z",
-          "wordCount": 5155,
-          "title": "How to Build a Web3 Play-To-Earn Platform with Next.js, Typescript, and Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*ePGOgQMyb5goneDZ.png"
-        },
-        {
-          "id": "https://medium.com/p/46253d9b6664",
-          "author": "Ranjithkumar",
-          "description": "In the ever-evolving world of Ethereum development, choosing the right tools can make or break your workflow. Two popular frameworks, Hardhat and Foundry, stand out as contenders for building…",
-          "link": "https://coinsbench.com/hardhat-vs-foundry-ethereum-development-workflow-46253d9b6664?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-30T10:32:42.000Z",
-          "wordCount": 1707,
-          "title": "Hardhat vs Foundry: Ethereum Development Workflow",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*v0ox75udBqJkSK3Z.jpg"
-        },
-        {
-          "id": "https://medium.com/p/7a9d87e1f7f8",
-          "author": "Moonstream.to",
-          "description": "Read about one of the most successful fully on-chain games: Crypto Unicorns: the Dark Forest, and the blockchain technology behind it.",
-          "link": "https://coinsbench.com/how-we-went-from-0-to-millions-in-transaction-volume-with-one-fully-on-chain-game-7a9d87e1f7f8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-27T14:28:15.000Z",
-          "wordCount": 2938,
-          "title": "How we went from 0 to millions in transaction volume with one fully on-chain game",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZxGtWt41uuRKNhbDissl_A.png"
-        },
-        {
-          "id": "https://medium.com/p/870d2683d249",
-          "author": "luckyStars",
-          "description": "Pre-requisites\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/proof-of-liquidity-bera-testnet-play-870d2683d249?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-27T14:28:13.000Z",
-          "wordCount": 999,
-          "title": "Proof of Liquidity — Bera testnet play",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1184/1*2lOYm7ror4LT9BWosg2S6g.png"
-        },
-        {
-          "id": "https://medium.com/p/918a27fe75ac",
-          "author": "Mohammed Niyas",
-          "description": "We have already created an ERC-20 smart contract using Hardhat, refer the below article",
-          "link": "https://coinsbench.com/hardhat-part2-deploy-erc-20-contract-to-a-public-network-918a27fe75ac?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-27T14:28:11.000Z",
-          "wordCount": 2661,
-          "title": "Hardhat part2: Deploy ERC-20 contract to a public network",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1mSNFZxfFnbbo7tVZf4LjA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/7e3662ecc185",
-          "author": "Darlington Gospel",
-          "description": "Learn to build a decentralized house rental marketplace on Ethereum: Develop a full-stack DApp using Solidity for smart contracts…",
-          "link": "https://coinsbench.com/how-to-build-a-decentralized-house-rental-platform-with-next-js-redux-and-solidity-7e3662ecc185?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-23T13:05:02.000Z",
-          "wordCount": 3987,
-          "title": "How to Build a Decentralized House Rental Platform with Next.js, Redux, and Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9Dup8BHLFOiu3wmX.png"
         }
       ]
     },
@@ -146,104 +146,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/2e0180b9fbbf",
-          "author": "NEFTURE SECURITY I Blockchain Security",
-          "description": "2023 has been truly unkind to web3 retail investors. Way too many of them have been cleaned out by both scammers and hackers.",
-          "link": "https://medium.com/coinmonks/the-top-5-crypto-scams-of-2023-2e0180b9fbbf?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-01-31T13:14:39.000Z",
-          "wordCount": 3829,
-          "title": "The TOP 5 Crypto Scams of 2023",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:880/1*SopKuNrFgWhqXfrqXRlW6g.jpeg"
+          "id": "https://medium.com/p/4198f8f3e8f5",
+          "author": "Christinapaul",
+          "description": "In the dynamic world of marketing, staying ahead of the curve is essential for success. The intersection of cryptocurrency and marketing…",
+          "link": "https://medium.com/coinmonks/from-predictions-to-profits-unleashing-the-power-of-crypto-in-marketing-4198f8f3e8f5?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-01T12:20:03.000Z",
+          "wordCount": 2288,
+          "title": "From Predictions to Profits: Unleashing the Power of Crypto in Marketing",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Fe6KshmlSMd1K40adc9EkA.jpeg"
         },
         {
-          "id": "https://medium.com/p/97f9f55c346a",
-          "author": "Scott Rollins",
-          "description": "In the ever-evolving landscape of technology, private blockchains have emerged as powerful tools, offering businesses unparalleled…",
-          "link": "https://medium.com/coinmonks/how-to-build-a-private-blockchain-in-2024-97f9f55c346a?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-01-31T12:38:35.000Z",
-          "wordCount": 6239,
-          "title": "How to Build a Private Blockchain in 2024?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*SIps3JFScLX_RYem-W3vvw.png"
+          "id": "https://medium.com/p/4eeeff58c68b",
+          "author": "Christinapaul",
+          "description": "In the fast-paced world of digital marketing, staying ahead of trends and understanding consumer behavior is crucial. Enter the realm of…",
+          "link": "https://medium.com/coinmonks/data-divination-a-marketers-guide-to-crypto-prediction-analytics-4eeeff58c68b?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-01T12:20:00.000Z",
+          "wordCount": 2317,
+          "title": "Data Divination: A Marketer’s Guide to Crypto Prediction Analytics",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:900/1*y-7SDK3IsSqwdDOES3Js3g.jpeg"
         },
         {
-          "id": "https://medium.com/p/577c88e7ef0c",
-          "author": "William John",
-          "description": "In today’s fast-paced digital age, the fashion industry is experiencing a monumental shift. No longer confined to runways and storefronts…",
-          "link": "https://medium.com/coinmonks/why-fashion-brands-are-racing-to-establish-their-web3-0-presence-577c88e7ef0c?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-01-31T12:38:21.000Z",
-          "wordCount": 4504,
-          "title": "Why Fashion Brands are Racing to Establish their Web3.0 Presence?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WF78gboakl4s-yJZP-88wg.png"
+          "id": "https://medium.com/p/244bb9e97142",
+          "author": "Crypto Beast",
+          "description": "The dawn of artificial intelligence and robotics has sparked a polarizing debate about the future relationship between these technological…",
+          "link": "https://medium.com/coinmonks/ai-robots-vs-humans-a-complex-tapestry-of-competence-imagination-and-integration-244bb9e97142?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-01T12:19:53.000Z",
+          "wordCount": 2458,
+          "title": "AI & Robots vs. Humans: A Complex Tapestry of Competence, Imagination, and Integration.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tpmmjKulnCWwNFHFZu7Xdg.jpeg"
         },
         {
-          "id": "https://medium.com/p/2ce5e49299e8",
-          "author": "Matteo Bodi",
-          "description": "Improving learning skills is a multifaceted process that involves understanding your own learning preferences, applying effective…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/how-to-improve-learning-skills-2ce5e49299e8?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-01-31T12:11:31.000Z",
-          "wordCount": 1437,
-          "title": "How to improve learning skills",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*JPqQynZ-17JmGUKfZ8WrGA.png"
+          "id": "https://medium.com/p/58d7ec304963",
+          "author": "ez",
+          "description": "Explore novel smart contract security through innovative research, merging static and dynamic analysis for safer blockchain transactions.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/architectural-design-for-secure-smart-contract-development-research-review-58d7ec304963?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-01T12:19:49.000Z",
+          "wordCount": 1577,
+          "title": "Architectural Design for Secure Smart Contract Development — Research Review",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*_J_nJ5EkZv7F8C1YzNA_1A.png"
         },
         {
-          "id": "https://medium.com/p/dc34367158d5",
-          "author": "Aurora Grace",
-          "description": "In this insightful article, we delve into the compelling landscape of cryptocurrency investments, emphasizing the significance of…",
-          "link": "https://medium.com/coinmonks/are-two-penny-cryptocurrencies-poised-for-significant-growth-in-2024-dc34367158d5?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-01-31T12:11:30.000Z",
-          "wordCount": 3719,
-          "title": "Are Two Penny Cryptocurrencies Poised for Significant Growth in 2024?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:771/1*FJkUSRnAZa6AzTERLhVwZw.jpeg"
+          "id": "https://medium.com/p/f8f88df977df",
+          "author": "J",
+          "description": "MINING IN BACKGROUND WORK WITH OC UNTIL SYSTEM IS RENTED",
+          "link": "https://medium.com/coinmonks/mine-background-in-vast-ai-f8f88df977df?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-01T12:19:44.000Z",
+          "wordCount": 2171,
+          "title": "Mine Background in VAST.AI",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/8aaaf6d43fdb",
-          "author": "Digital & Analogue Partners",
-          "description": "Do you create digital projects? Do you invest in digital projects? If your answer is “yes”, the D&A team has prepared a present for you —…",
-          "link": "https://medium.com/coinmonks/know-how-for-digital-projects-8aaaf6d43fdb?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-01-31T12:11:23.000Z",
-          "wordCount": 1502,
-          "title": "KNOW-HOW FOR DIGITAL PROJECTS",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1003/1*86PPuVih7DJntsgDJE2mlw.png"
+          "id": "https://medium.com/p/7f4943c2698b",
+          "author": "AI Agenda",
+          "description": "A New Era of Digital Theft",
+          "link": "https://medium.com/coinmonks/unraveling-the-complex-web-of-sim-swap-fraud-the-chicago-case-that-shook-the-virtual-world-7f4943c2698b?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-01T12:19:40.000Z",
+          "wordCount": 2756,
+          "title": "Unraveling the Complex Web of SIM Swap Fraud: The Chicago Case That Shook the Virtual World",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*c-we7oesaGGDJokLYC_Nkg.png"
         },
         {
-          "id": "https://medium.com/p/dc172232c653",
-          "author": "Libertex (Europe)",
-          "description": "Following a fairly severe bear market in 2021–2022, US stocks enjoyed an overwhelmingly positive 2023 — and this despite us seeing some of…",
-          "link": "https://medium.com/coinmonks/time-to-stock-up-on-equities-dc172232c653?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-01-31T12:11:20.000Z",
-          "wordCount": 2610,
-          "title": "Time to stock up on equities?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OLeGL53IEhOjJhI4oBe4Xw.jpeg"
+          "id": "https://medium.com/p/5d63fd815160",
+          "author": "Passie Intelligence",
+          "description": "Isolated and Cross Margin Trading in Cryptocurrency Markets",
+          "link": "https://medium.com/coinmonks/navigating-the-labyrinth-of-leverage-a-comparative-analysis-of-isolated-and-cross-margin-trading-5d63fd815160?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-01T12:19:36.000Z",
+          "wordCount": 5681,
+          "title": "Navigating the Labyrinth of Leverage: A Comparative Analysis of Isolated and Cross Margin Trading…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0Np7sBm-KjEs_NZU9blFjA.jpeg"
         },
         {
-          "id": "https://medium.com/p/320370c44ae0",
-          "author": "Ragunath",
-          "description": "The real world asset (RWA) tokenization market is expanding rapidly. Real World Asset (RWA) tokenization is the process of converting…",
-          "link": "https://medium.com/coinmonks/why-tokenizing-real-world-assets-is-the-next-big-industry-320370c44ae0?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-01-31T12:11:17.000Z",
-          "wordCount": 3276,
-          "title": "Why tokenizing real-world assets is the next big industry",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*93-SFCmYo-wNBSpRTNjWeA.jpeg"
+          "id": "https://medium.com/p/492a53cc96fe",
+          "author": "Passie Intelligence",
+          "description": "Themes to Watch and Value Traps to Dodge",
+          "link": "https://medium.com/coinmonks/thoughts-on-2024-investment-themes-and-value-traps-492a53cc96fe?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-01T12:19:29.000Z",
+          "wordCount": 14323,
+          "title": "Thoughts on 2024, Investment Themes, and Value Traps",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tqwtOh4-MO0aI3p_UNhWgA.jpeg"
         },
         {
-          "id": "https://medium.com/p/1a65b7677331",
-          "author": "Jamessmithh",
-          "description": "Explore the best in crypto margin trading with our curated list of the Top 10 Crypto Margin Trading Platforms in 2024.",
-          "link": "https://medium.com/coinmonks/top-10-crypto-margin-trading-platforms-in-2024-1a65b7677331?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-01-31T12:11:10.000Z",
-          "wordCount": 2383,
-          "title": "Top 10 Crypto Margin Trading Platforms in 2024",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rw4by-byzAg6zQ8_Jx08Jg.jpeg"
+          "id": "https://medium.com/p/97ca17859077",
+          "author": "Garry Gladstone",
+          "description": "Buying Window May Be Opening For A Limited Time Just Ahead",
+          "link": "https://medium.com/coinmonks/hodl-pullback-looks-to-deepen-97ca17859077?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-01T12:19:21.000Z",
+          "wordCount": 2798,
+          "title": "HODL — Pullback Looks To Deepen",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*sN_PdOIPkLD4UDRi"
         },
         {
-          "id": "https://medium.com/p/c97d207200f4",
-          "author": "Serenawilliams",
-          "description": "The digital landscape is continually evolving, and one of the latest innovations that has taken the world by storm is non-fungible tokens…",
-          "link": "https://medium.com/coinmonks/navigating-the-future-a-comprehensive-guide-to-building-and-elevating-your-nft-marketplace-in-2024-c97d207200f4?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-01-31T12:11:05.000Z",
-          "wordCount": 4663,
-          "title": "Navigating the Future: A Comprehensive Guide to Building and Elevating Your NFT Marketplace in 2024",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1170/1*RnrN29UN0NjK5obIw11P7Q.jpeg"
+          "id": "https://medium.com/p/f952945dd1d9",
+          "author": "NordFX",
+          "description": "– Analysts note that the 12-month volatility of the first cryptocurrency has reached its lowest level in 12 years. The indicator has…",
+          "link": "https://medium.com/coinmonks/cryptonews-of-the-week-f952945dd1d9?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-01T12:19:18.000Z",
+          "wordCount": 3841,
+          "title": "CryptoNews of the Week",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/0*n3YsYhvmoULlj859.jpeg"
         }
       ]
     },
