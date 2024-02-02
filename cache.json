@@ -49,6 +49,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/263ea1c45e78",
+          "author": "Gimer Cervera",
+          "description": "Hardhat is an open-source development environment designed to develop, test, and deploy smart contracts on both testnet or mainnet. In this…",
+          "link": "https://coinsbench.com/creating-a-hardhat-project-complete-beginners-guide-263ea1c45e78?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-02T16:21:34.000Z",
+          "wordCount": 3044,
+          "title": "Creating a Hardhat Project: Complete Beginners’ Guide.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cewjPG9oBNMUhS38ZpqbOw.png"
+        },
+        {
+          "id": "https://medium.com/p/402d6c7ed2e8",
+          "author": "Neville Munjogu",
+          "description": "Does the blockchain have any impact on the supply chain? How can it affect the supply chain? What’s in store for it?",
+          "link": "https://coinsbench.com/is-blockchain-the-missing-link-in-supply-chain-402d6c7ed2e8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-02T16:21:32.000Z",
+          "wordCount": 4195,
+          "title": "Is Blockchain the Missing Link in Supply Chain?",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*RS0vsFSgjDrE2DD8"
+        },
+        {
           "id": "https://medium.com/p/92a01fcaafe3",
           "author": "Solidity Labs",
           "description": "Please excuse the click-baity title, but I think we should have a conversation about xERC20. The standard, as implemented in the…",
@@ -127,26 +147,6 @@
           "wordCount": 4018,
           "title": "Introduction to Central Bank Digital Currencies (CBDCs)",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*R_9agMb7VokSa7ED"
-        },
-        {
-          "id": "https://medium.com/p/05d581922ecb",
-          "author": "Dhaval soni",
-          "description": "Introduction: Smart contracts have emerged as the backbone of decentralized applications, transforming the way transactions occur on the…",
-          "link": "https://coinsbench.com/programming-smart-contracts-05d581922ecb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-30T10:32:48.000Z",
-          "wordCount": 2749,
-          "title": "Programming Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*P_0d7YRR-v0gOV_fKczvNA.png"
-        },
-        {
-          "id": "https://medium.com/p/9cc4a963424b",
-          "author": "Franck Maussand",
-          "description": "Minimize gas costs on Ethereum through clever optimization of function names in your smart contracts.",
-          "link": "https://coinsbench.com/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-30T10:32:46.000Z",
-          "wordCount": 8083,
-          "title": "Optimization on Ethereum: Make a Difference with Function Names",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1180/1*yEL28gzuNVAlC2Ae8QDw0g.png"
         }
       ]
     },

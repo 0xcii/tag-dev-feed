@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-02T16:13:13.612Z</id>
+    <id>urn:2024-02-02T17:11:57.657Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-02T16:13:13.612Z</updated>
+    <updated>2024-02-02T17:11:57.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Creating a Hardhat Project: Complete Beginners’ Guide.]]></title>
+        <id>https://medium.com/p/263ea1c45e78</id>
+        <link href="https://coinsbench.com/creating-a-hardhat-project-complete-beginners-guide-263ea1c45e78?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-02T16:21:34.000Z</updated>
+        <summary type="html"><![CDATA[Hardhat is an open-source development environment designed to develop, test, and deploy smart contracts on both testnet or mainnet. In this…]]></summary>
+        <author>
+            <name>Gimer Cervera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Blockchain the Missing Link in Supply Chain?]]></title>
+        <id>https://medium.com/p/402d6c7ed2e8</id>
+        <link href="https://coinsbench.com/is-blockchain-the-missing-link-in-supply-chain-402d6c7ed2e8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-02T16:21:32.000Z</updated>
+        <summary type="html"><![CDATA[Does the blockchain have any impact on the supply chain? How can it affect the supply chain? What’s in store for it?]]></summary>
+        <author>
+            <name>Neville Munjogu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s on the Horizon for the Future of Web3 Gaming?]]></title>
         <id>https://www.cryptomaton.org/?p=1663</id>
@@ -196,26 +216,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Dive into the currency revolution with CBDCs and join the bandwagon to the future of finance across the globe. With 130 nations on the CBDC…]]></summary>
         <author>
             <name>Neville Munjogu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming Smart Contracts]]></title>
-        <id>https://medium.com/p/05d581922ecb</id>
-        <link href="https://coinsbench.com/programming-smart-contracts-05d581922ecb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-30T10:32:48.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: Smart contracts have emerged as the backbone of decentralized applications, transforming the way transactions occur on the…]]></summary>
-        <author>
-            <name>Dhaval soni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimization on Ethereum: Make a Difference with Function Names]]></title>
-        <id>https://medium.com/p/9cc4a963424b</id>
-        <link href="https://coinsbench.com/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-30T10:32:46.000Z</updated>
-        <summary type="html"><![CDATA[Minimize gas costs on Ethereum through clever optimization of function names in your smart contracts.]]></summary>
-        <author>
-            <name>Franck Maussand</name>
         </author>
     </entry>
     <entry>
