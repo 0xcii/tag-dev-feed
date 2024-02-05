@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-05T04:15:04.932Z</id>
+    <id>urn:2024-02-05T05:12:49.977Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-05T04:15:04.932Z</updated>
+    <updated>2024-02-05T05:12:49.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -264,17 +264,6 @@ This article explains what chain abstraction means in practice and ho…]]></sum
 The post A Deep Dive Into the SEC Twitter Account Hack appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding tx.origin and msg.sender in Solidity]]></title>
-        <id>https://medium.com/p/9184b3143dcb</id>
-        <link href="https://blog.blockmagnates.com/understanding-tx-origin-and-msg-sender-in-solidity-9184b3143dcb?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-01-06T16:23:18.000Z</updated>
-        <summary type="html"><![CDATA[Developers need to understand the difference between tx.origin and msg.sender in Solidity. These two global variables often need…
-Continue reading on Block Magnates »]]></summary>
-        <author>
-            <name>Kristaps Grinbergs</name>
         </author>
     </entry>
 </feed>
