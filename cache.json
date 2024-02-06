@@ -49,6 +49,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1b1245686b8d",
+          "author": "Gidirphoto",
+          "description": "Cryptocurrency enthusiasts actively utilize both BEP20 and ERC20 tokens for various transactions and trading purposes. Despite their…",
+          "link": "https://coinsbench.com/understanding-the-distinction-between-erc20-and-bep20-tokens-1b1245686b8d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-06T12:11:22.000Z",
+          "wordCount": 1780,
+          "title": "Understanding the Distinction Between ERC20 and BEP20 Tokens.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b537962cd6b9",
+          "author": "Darlington Gospel",
+          "description": "By the end of this guide, you’ll have a functioning decentralized platform where users can list and participate in events, with all…",
+          "link": "https://coinsbench.com/how-to-build-a-web3-events-marketplace-with-next-js-typescript-and-solidity-b537962cd6b9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-06T12:11:20.000Z",
+          "wordCount": 4643,
+          "title": "How to Build a Web3 Events Marketplace with Next.js, Typescript, and Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*wQd59TMKZsmhPSwh.png"
+        },
+        {
+          "id": "https://medium.com/p/800fa3ce774f",
+          "author": "Gidirphoto",
+          "description": "In essence, read-only reentrancy refers to a situation where a view-only function returns misleading values due to an outdated state. This…",
+          "link": "https://coinsbench.com/read-only-reentrancy-800fa3ce774f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-06T12:11:16.000Z",
+          "wordCount": 1316,
+          "title": "Read-Only Reentrancy",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*K-djX171-MYew-Ga"
+        },
+        {
+          "id": "https://medium.com/p/f47c596c0305",
+          "author": "Gidirphoto",
+          "description": "The Enigma of Test Coverage.",
+          "link": "https://coinsbench.com/fuzz-testing-for-smart-contracts-f47c596c0305?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-06T12:11:13.000Z",
+          "wordCount": 1694,
+          "title": "Fuzz testing for smart contracts.",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*i80hcPgoYp-iELdE"
+        },
+        {
+          "id": "https://medium.com/p/856264a96d4c",
+          "author": "riczardo",
+          "description": "Blockchain Security Unveiled: solscan — smart contracts vulnerability scanner",
+          "link": "https://coinsbench.com/solscan-a-journey-through-the-maze-of-smart-contract-vulnerabilities-856264a96d4c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-06T12:11:11.000Z",
+          "wordCount": 2534,
+          "title": "solscan: a journey through the maze of smart contract vulnerabilities",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZtkRsi90n7hcv4UnEBZkJA.jpeg"
+        },
+        {
           "id": "https://medium.com/p/263ea1c45e78",
           "author": "Gimer Cervera",
           "description": "Hardhat is an open-source development environment designed to develop, test, and deploy smart contracts on both testnet or mainnet.\nContinue reading on CoinsBench »",
@@ -97,56 +147,6 @@
           "wordCount": 2833,
           "title": "ERC20 Exploit with WETH",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:666/1*_uSPCHQZsvH08_7DOK9WVA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/c3b7ebf4cb14",
-          "author": "Abdul Aleem",
-          "description": "Solidity, the programming language for Ethereum smart contracts, operates on a foundation of units to handle cryptocurrency values. Two…",
-          "link": "https://coinsbench.com/demystifying-decimals-and-wei-in-solidity-a-guide-for-smart-contract-developers-c3b7ebf4cb14?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-02-01T12:45:36.000Z",
-          "wordCount": 1553,
-          "title": "Demystifying Decimals and Wei in Solidity: A Guide for Smart Contract Developers",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*_bEKwdvSQDXBbTq9Ln7F9w.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/1d5a44b18300",
-          "author": "luckyStars",
-          "description": "We will try to explain how to create account, set up prover / node and deploy dApps on testnet II Aleo",
-          "link": "https://coinsbench.com/trial-run-in-zk-layer-1-testnet-iii-aleo-1d5a44b18300?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-02-01T12:45:35.000Z",
-          "wordCount": 1590,
-          "title": "Trial run in ZK layer 1 testnet III ALeo",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*O9EWmTNoi4s4JqfMqKC22g.png"
-        },
-        {
-          "id": "https://medium.com/p/496dbc23552b",
-          "author": "Mohammed Niyas",
-          "description": "In the ever-evolving landscape of blockchain technology, Cosmos has emerged as a trailblazer with its visionary approach to addressing key challenges within the decentralized ecosystem. Founded in…",
-          "link": "https://coinsbench.com/a-deep-dive-into-cosmos-blockchain-connecting-the-decentralized-universe-496dbc23552b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-02-01T12:45:32.000Z",
-          "wordCount": 2048,
-          "title": "A Deep Dive into Cosmos Blockchain: Connecting the Decentralized Universe",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*D_dqY2wTv9BMZuici9YdQA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f58c86f74e4b",
-          "author": "Trym Thoren",
-          "description": "Introduction\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/harnessing-solana-with-python-a-comprehensive-guide-to-decentralized-application-development-and-f58c86f74e4b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-30T10:32:52.000Z",
-          "wordCount": 1232,
-          "title": "Harnessing Solana with Python: A Comprehensive Guide to Decentralized Application Development and…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*D7DjP1Joqfd0VMxCk0rRCg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/6e3380bb43a3",
-          "author": "Neville Munjogu",
-          "description": "Dive into the currency revolution with CBDCs and join the bandwagon to the future of finance across the globe. With 130 nations on the CBDC…",
-          "link": "https://coinsbench.com/introduction-to-central-bank-digital-currencies-cbdcs-6e3380bb43a3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-01-30T10:32:50.000Z",
-          "wordCount": 4018,
-          "title": "Introduction to Central Bank Digital Currencies (CBDCs)",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*R_9agMb7VokSa7ED"
         }
       ]
     },
@@ -156,12 +156,92 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/6607fe5f3cc2",
+          "author": "Aurora Grace",
+          "description": "In a groundbreaking announcement, Amazon has unveiled its entry into the world of digital assets and cryptocurrencies with the introduction…",
+          "link": "https://medium.com/coinmonks/amazons-ams33w-token-poised-for-a-dominant-debut-in-2024-crypto-market-6607fe5f3cc2?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-06T11:24:28.000Z",
+          "wordCount": 3564,
+          "title": "Amazon’s AMS33W Token Poised for a Dominant Debut in 2024 Crypto Market",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:771/1*zD1VySsHHC3x7Wu4nD21XA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/47dbd2ea3b9e",
+          "author": "Rachel Grace",
+          "description": "Unlock the secrets behind turning Real estate investments into a $1.3 million success story through tokenization.",
+          "link": "https://medium.com/coinmonks/how-i-built-a-1-3-million-from-real-estate-tokenization-47dbd2ea3b9e?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-06T11:24:25.000Z",
+          "wordCount": 2459,
+          "title": "How I Built a$1.3 Million from Real Estate Tokenization?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VPvkcdeaip-J-ayfFFXItA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/546413506d6a",
+          "author": "Serenawilliams",
+          "description": "In the ever-evolving landscape of the blockchain, non-fungible tokens (NFTs) have emerged as a revolutionary force, bringing about a…",
+          "link": "https://medium.com/coinmonks/nft-aggregator-platform-development-546413506d6a?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-06T11:24:22.000Z",
+          "wordCount": 4012,
+          "title": "NFT Aggregator Platform Development: Reshaping the Web3 Landscape",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1029/1*l1KlnJx3DoLgLR-6SWBZ3Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/71a9a504f2a4",
+          "author": "Serenawilliams",
+          "description": "In the fast-evolving realm of Web3 and NFTs, the role of NFT aggregater APIs has become increasingly crucial. These APIs serve as the…",
+          "link": "https://medium.com/coinmonks/nft-aggregator-api-71a9a504f2a4?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-06T11:24:19.000Z",
+          "wordCount": 4444,
+          "title": "NFT Aggregator API: Navigating Web3’s Dynamic Landscape with Advanced Metrics and Features",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JHgpHU1pM1e52ZlbWeznxg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3163867ee79a",
+          "author": "Digital Consumer",
+          "description": "Explore the intricate world of cryptocurrency mining with our detailed guide. Learn the legal landscape, tax implications, and…",
+          "link": "https://medium.com/coinmonks/crypto-mining-a-to-z-a-comprehensive-guide-to-cryptocurrency-mining-3163867ee79a?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-06T11:23:55.000Z",
+          "wordCount": 1956,
+          "title": "Crypto Mining “A to Z”: A Comprehensive Guide to Cryptocurrency Mining",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:500/0*s212mITr4R7cqR92"
+        },
+        {
+          "id": "https://medium.com/p/1e848b8c14f9",
+          "author": "Serenawilliams",
+          "description": "In the ever-evolving landscape of the gaming industry, one trend is gaining significant traction and is poised to become a mainstay: the…",
+          "link": "https://medium.com/coinmonks/nft-gaming-marketplace-1e848b8c14f9?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-06T11:23:53.000Z",
+          "wordCount": 4969,
+          "title": "NFT Gaming Marketplace: Pioneering the Future of Gaming with Innovation and Immersion",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:826/1*WvEvu-GRWuRW9hhA66SThQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/cacec67dc4c0",
+          "author": "Serenawilliams",
+          "description": "In the ever-evolving and dynamic landscape of digital marketing, where innovation takes center stage, NFT (non-fungible token) influencer…",
+          "link": "https://medium.com/coinmonks/nft-influencer-marketing-cacec67dc4c0?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-06T11:23:49.000Z",
+          "wordCount": 3830,
+          "title": "NFT Influencer Marketing: Boosting Your Brand in the Metaverse",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*xkV2GHDhIX9QRjuV5Gm7lw.png"
+        },
+        {
+          "id": "https://medium.com/p/42d3be54c18c",
+          "author": "Aaron Abbott",
+          "description": "Elevate your crypto marketing game with Chat GPT! Explore 15 creative ways to leverage AI-powered language models for engaging content…",
+          "link": "https://medium.com/coinmonks/15-ways-i-used-chat-gpt-for-crypto-marketing-42d3be54c18c?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-02-06T11:23:44.000Z",
+          "wordCount": 2768,
+          "title": "15 Ways I Used Chat GPT for Crypto Marketing",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*AJnSooMb5H8ZoBVsuyFsoQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/6a1600557332",
           "author": "AI Agenda",
           "description": "The GoDaddy-ENS Integration",
           "link": "https://medium.com/coinmonks/revolutionizing-web3-godaddy-joins-forces-with-ethereum-name-service-6a1600557332?source=rss----721b17443fd5---4",
           "publishedOn": "2024-02-06T10:09:24.000Z",
-          "wordCount": 3100,
+          "wordCount": 3101,
           "title": "Revolutionizing Web3: GoDaddy Joins Forces with Ethereum Name Service",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jyouqnOcwdqAKhAeokw_qg.png"
         },
@@ -171,89 +251,9 @@
           "description": "Navigating the New Era of Crypto Advertising",
           "link": "https://medium.com/coinmonks/the-rise-of-bitcoin-spot-etfs-and-googles-evolving-ad-policies-e9be18fd1f80?source=rss----721b17443fd5---4",
           "publishedOn": "2024-02-06T10:09:24.000Z",
-          "wordCount": 2598,
+          "wordCount": 2599,
           "title": "The Rise of Bitcoin Spot ETFs and Google’s Evolving Ad Policies",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*NTy88qPZD6pEoRoA"
-        },
-        {
-          "id": "https://medium.com/p/dee1340da12f",
-          "author": "36Crypto",
-          "description": "Digital Trade Finance is an umbrella term that represents borderless trade facilitated by a network of commercial partnerships in this…",
-          "link": "https://medium.com/coinmonks/the-role-of-blockchain-in-transforming-digital-trade-finance-dee1340da12f?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-02-06T10:09:02.000Z",
-          "wordCount": 5247,
-          "title": "The Role of Blockchain in Transforming Digital Trade Finance",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*14n0QHvEXTwN0m_OLxGLRQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/48666bb35ac0",
-          "author": "Albert Peter",
-          "description": "Privacy maintained in P2P lending software through robust encryption, secure user authentication, and stringent data protection measures.",
-          "link": "https://medium.com/coinmonks/how-is-privacy-upheld-in-p2p-lending-software-48666bb35ac0?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-02-06T10:09:00.000Z",
-          "wordCount": 3876,
-          "title": "How is Privacy Upheld in P2P Lending Software?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:628/1*sEnnDRFI8pbbGe3jCYo-AQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/cc7aab6e6ec3",
-          "author": "PRDT Finance",
-          "description": "Hello, PRDT Community! We’re excited to bring you the first edition of our new bi-weekly Crypto Spotlight article series, where we…",
-          "link": "https://medium.com/coinmonks/prdt-crypto-spotlight-cc7aab6e6ec3?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-02-06T10:08:56.000Z",
-          "wordCount": 3670,
-          "title": "PRDT Crypto Spotlight: 06 Feb 2024",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ww961fTrEg34rjhaE-7bcA.png"
-        },
-        {
-          "id": "https://medium.com/p/281548b9afa2",
-          "author": "Daniel Jensen",
-          "description": "Crypto criminal takes inspiration from the MCU!\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/crypto-crime-digest-crime-goes-marvel-281548b9afa2?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-02-06T10:07:53.000Z",
-          "wordCount": 1667,
-          "title": "Crypto Crime Digest, crime goes Marvel!",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*ziJaw9zafcokJVfh"
-        },
-        {
-          "id": "https://medium.com/p/bca16d8d9fea",
-          "author": "Eye Of Unity",
-          "description": "In recent years, the concept of non-fungible tokens (NFTs) has gained significant attention in the digital world. While NFTs can represent…",
-          "link": "https://medium.com/coinmonks/evaluating-virtual-goods-understanding-the-rise-of-game-asset-nfts-bca16d8d9fea?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-02-06T10:07:45.000Z",
-          "wordCount": 2548,
-          "title": "Evaluating Virtual Goods: Understanding the Rise of Game Asset NFTs",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*Rq0v9LEQ21EqWfxRdkqcQw.png"
-        },
-        {
-          "id": "https://medium.com/p/295927132f14",
-          "author": "Mosaic Asset",
-          "description": "The stock market had every excuse to drop over interest rate fears last week.",
-          "link": "https://medium.com/coinmonks/s-p-500-good-times-just-starting-295927132f14?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-02-06T10:07:43.000Z",
-          "wordCount": 3605,
-          "title": "S&P 500: Good times just starting?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*chJeGhT2-chVXK_K.png"
-        },
-        {
-          "id": "https://medium.com/p/ba98fd32d33b",
-          "author": "Durwin Ho",
-          "description": "It seems there’s no limit to what billys can do these days.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/zuck-is-raising-his-own-wagyu-now-ba98fd32d33b?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-02-06T10:07:41.000Z",
-          "wordCount": 1470,
-          "title": "Zuck is raising his own Wagyu now!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*cuylZZRBrDNFR9oplOtBjA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/0e0d5c8dfb6f",
-          "author": "Durwin Ho",
-          "description": "Tiger Woods, a name synonymous with golfing greatness, recently announced the end of his historic 27-year partnership with Nike.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/tiger-woods-has-broken-up-with-nike-0e0d5c8dfb6f?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-02-06T10:07:39.000Z",
-          "wordCount": 1512,
-          "title": "Tiger Woods has broken up with Nike.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*dFtVHL1SAX5eUiyPwVKnlQ.jpeg"
         }
       ]
     },

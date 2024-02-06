@@ -1,10 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-06T11:10:11.773Z</id>
+    <id>urn:2024-02-06T12:21:34.416Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-06T11:10:11.773Z</updated>
+    <updated>2024-02-06T12:21:34.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Distinction Between ERC20 and BEP20 Tokens.]]></title>
+        <id>https://medium.com/p/1b1245686b8d</id>
+        <link href="https://coinsbench.com/understanding-the-distinction-between-erc20-and-bep20-tokens-1b1245686b8d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-06T12:11:22.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrency enthusiasts actively utilize both BEP20 and ERC20 tokens for various transactions and trading purposes. Despite their…]]></summary>
+        <author>
+            <name>Gidirphoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Web3 Events Marketplace with Next.js, Typescript, and Solidity]]></title>
+        <id>https://medium.com/p/b537962cd6b9</id>
+        <link href="https://coinsbench.com/how-to-build-a-web3-events-marketplace-with-next-js-typescript-and-solidity-b537962cd6b9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-06T12:11:20.000Z</updated>
+        <summary type="html"><![CDATA[By the end of this guide, you’ll have a functioning decentralized platform where users can list and participate in events, with all…]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Read-Only Reentrancy]]></title>
+        <id>https://medium.com/p/800fa3ce774f</id>
+        <link href="https://coinsbench.com/read-only-reentrancy-800fa3ce774f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-06T12:11:16.000Z</updated>
+        <summary type="html"><![CDATA[In essence, read-only reentrancy refers to a situation where a view-only function returns misleading values due to an outdated state. This…]]></summary>
+        <author>
+            <name>Gidirphoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzz testing for smart contracts.]]></title>
+        <id>https://medium.com/p/f47c596c0305</id>
+        <link href="https://coinsbench.com/fuzz-testing-for-smart-contracts-f47c596c0305?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-06T12:11:13.000Z</updated>
+        <summary type="html"><![CDATA[The Enigma of Test Coverage.]]></summary>
+        <author>
+            <name>Gidirphoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[solscan: a journey through the maze of smart contract vulnerabilities]]></title>
+        <id>https://medium.com/p/856264a96d4c</id>
+        <link href="https://coinsbench.com/solscan-a-journey-through-the-maze-of-smart-contract-vulnerabilities-856264a96d4c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-06T12:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain Security Unveiled: solscan — smart contracts vulnerability scanner]]></summary>
+        <author>
+            <name>riczardo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s AMS33W Token Poised for a Dominant Debut in 2024 Crypto Market]]></title>
+        <id>https://medium.com/p/6607fe5f3cc2</id>
+        <link href="https://medium.com/coinmonks/amazons-ams33w-token-poised-for-a-dominant-debut-in-2024-crypto-market-6607fe5f3cc2?source=rss----721b17443fd5---4"/>
+        <updated>2024-02-06T11:24:28.000Z</updated>
+        <summary type="html"><![CDATA[In a groundbreaking announcement, Amazon has unveiled its entry into the world of digital assets and cryptocurrencies with the introduction…]]></summary>
+        <author>
+            <name>Aurora Grace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a$1.3 Million from Real Estate Tokenization?]]></title>
+        <id>https://medium.com/p/47dbd2ea3b9e</id>
+        <link href="https://medium.com/coinmonks/how-i-built-a-1-3-million-from-real-estate-tokenization-47dbd2ea3b9e?source=rss----721b17443fd5---4"/>
+        <updated>2024-02-06T11:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the secrets behind turning Real estate investments into a $1.3 million success story through tokenization.]]></summary>
+        <author>
+            <name>Rachel Grace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT Aggregator Platform Development: Reshaping the Web3 Landscape]]></title>
+        <id>https://medium.com/p/546413506d6a</id>
+        <link href="https://medium.com/coinmonks/nft-aggregator-platform-development-546413506d6a?source=rss----721b17443fd5---4"/>
+        <updated>2024-02-06T11:24:22.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving landscape of the blockchain, non-fungible tokens (NFTs) have emerged as a revolutionary force, bringing about a…]]></summary>
+        <author>
+            <name>Serenawilliams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT Aggregator API: Navigating Web3’s Dynamic Landscape with Advanced Metrics and Features]]></title>
+        <id>https://medium.com/p/71a9a504f2a4</id>
+        <link href="https://medium.com/coinmonks/nft-aggregator-api-71a9a504f2a4?source=rss----721b17443fd5---4"/>
+        <updated>2024-02-06T11:24:19.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-evolving realm of Web3 and NFTs, the role of NFT aggregater APIs has become increasingly crucial. These APIs serve as the…]]></summary>
+        <author>
+            <name>Serenawilliams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Mining “A to Z”: A Comprehensive Guide to Cryptocurrency Mining]]></title>
+        <id>https://medium.com/p/3163867ee79a</id>
+        <link href="https://medium.com/coinmonks/crypto-mining-a-to-z-a-comprehensive-guide-to-cryptocurrency-mining-3163867ee79a?source=rss----721b17443fd5---4"/>
+        <updated>2024-02-06T11:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Explore the intricate world of cryptocurrency mining with our detailed guide. Learn the legal landscape, tax implications, and…]]></summary>
+        <author>
+            <name>Digital Consumer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT Gaming Marketplace: Pioneering the Future of Gaming with Innovation and Immersion]]></title>
+        <id>https://medium.com/p/1e848b8c14f9</id>
+        <link href="https://medium.com/coinmonks/nft-gaming-marketplace-1e848b8c14f9?source=rss----721b17443fd5---4"/>
+        <updated>2024-02-06T11:23:53.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving landscape of the gaming industry, one trend is gaining significant traction and is poised to become a mainstay: the…]]></summary>
+        <author>
+            <name>Serenawilliams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT Influencer Marketing: Boosting Your Brand in the Metaverse]]></title>
+        <id>https://medium.com/p/cacec67dc4c0</id>
+        <link href="https://medium.com/coinmonks/nft-influencer-marketing-cacec67dc4c0?source=rss----721b17443fd5---4"/>
+        <updated>2024-02-06T11:23:49.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving and dynamic landscape of digital marketing, where innovation takes center stage, NFT (non-fungible token) influencer…]]></summary>
+        <author>
+            <name>Serenawilliams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Ways I Used Chat GPT for Crypto Marketing]]></title>
+        <id>https://medium.com/p/42d3be54c18c</id>
+        <link href="https://medium.com/coinmonks/15-ways-i-used-chat-gpt-for-crypto-marketing-42d3be54c18c?source=rss----721b17443fd5---4"/>
+        <updated>2024-02-06T11:23:44.000Z</updated>
+        <summary type="html"><![CDATA[Elevate your crypto marketing game with Chat GPT! Explore 15 creative ways to leverage AI-powered language models for engaging content…]]></summary>
+        <author>
+            <name>Aaron Abbott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Revolutionizing Web3: GoDaddy Joins Forces with Ethereum Name Service]]></title>
         <id>https://medium.com/p/6a1600557332</id>
@@ -23,89 +153,6 @@
         <summary type="html"><![CDATA[Navigating the New Era of Crypto Advertising]]></summary>
         <author>
             <name>Block Report</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Role of Blockchain in Transforming Digital Trade Finance]]></title>
-        <id>https://medium.com/p/dee1340da12f</id>
-        <link href="https://medium.com/coinmonks/the-role-of-blockchain-in-transforming-digital-trade-finance-dee1340da12f?source=rss----721b17443fd5---4"/>
-        <updated>2024-02-06T10:09:02.000Z</updated>
-        <summary type="html"><![CDATA[Digital Trade Finance is an umbrella term that represents borderless trade facilitated by a network of commercial partnerships in this…]]></summary>
-        <author>
-            <name>36Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How is Privacy Upheld in P2P Lending Software?]]></title>
-        <id>https://medium.com/p/48666bb35ac0</id>
-        <link href="https://medium.com/coinmonks/how-is-privacy-upheld-in-p2p-lending-software-48666bb35ac0?source=rss----721b17443fd5---4"/>
-        <updated>2024-02-06T10:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Privacy maintained in P2P lending software through robust encryption, secure user authentication, and stringent data protection measures.]]></summary>
-        <author>
-            <name>Albert Peter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRDT Crypto Spotlight: 06 Feb 2024]]></title>
-        <id>https://medium.com/p/cc7aab6e6ec3</id>
-        <link href="https://medium.com/coinmonks/prdt-crypto-spotlight-cc7aab6e6ec3?source=rss----721b17443fd5---4"/>
-        <updated>2024-02-06T10:08:56.000Z</updated>
-        <summary type="html"><![CDATA[Hello, PRDT Community! We’re excited to bring you the first edition of our new bi-weekly Crypto Spotlight article series, where we…]]></summary>
-        <author>
-            <name>PRDT Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Crime Digest, crime goes Marvel!]]></title>
-        <id>https://medium.com/p/281548b9afa2</id>
-        <link href="https://medium.com/coinmonks/crypto-crime-digest-crime-goes-marvel-281548b9afa2?source=rss----721b17443fd5---4"/>
-        <updated>2024-02-06T10:07:53.000Z</updated>
-        <summary type="html"><![CDATA[Crypto criminal takes inspiration from the MCU!
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Daniel Jensen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evaluating Virtual Goods: Understanding the Rise of Game Asset NFTs]]></title>
-        <id>https://medium.com/p/bca16d8d9fea</id>
-        <link href="https://medium.com/coinmonks/evaluating-virtual-goods-understanding-the-rise-of-game-asset-nfts-bca16d8d9fea?source=rss----721b17443fd5---4"/>
-        <updated>2024-02-06T10:07:45.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, the concept of non-fungible tokens (NFTs) has gained significant attention in the digital world. While NFTs can represent…]]></summary>
-        <author>
-            <name>Eye Of Unity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&P 500: Good times just starting?]]></title>
-        <id>https://medium.com/p/295927132f14</id>
-        <link href="https://medium.com/coinmonks/s-p-500-good-times-just-starting-295927132f14?source=rss----721b17443fd5---4"/>
-        <updated>2024-02-06T10:07:43.000Z</updated>
-        <summary type="html"><![CDATA[The stock market had every excuse to drop over interest rate fears last week.]]></summary>
-        <author>
-            <name>Mosaic Asset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zuck is raising his own Wagyu now!]]></title>
-        <id>https://medium.com/p/ba98fd32d33b</id>
-        <link href="https://medium.com/coinmonks/zuck-is-raising-his-own-wagyu-now-ba98fd32d33b?source=rss----721b17443fd5---4"/>
-        <updated>2024-02-06T10:07:41.000Z</updated>
-        <summary type="html"><![CDATA[It seems there’s no limit to what billys can do these days.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Durwin Ho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiger Woods has broken up with Nike.]]></title>
-        <id>https://medium.com/p/0e0d5c8dfb6f</id>
-        <link href="https://medium.com/coinmonks/tiger-woods-has-broken-up-with-nike-0e0d5c8dfb6f?source=rss----721b17443fd5---4"/>
-        <updated>2024-02-06T10:07:39.000Z</updated>
-        <summary type="html"><![CDATA[Tiger Woods, a name synonymous with golfing greatness, recently announced the end of his historic 27-year partnership with Nike.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Durwin Ho</name>
         </author>
     </entry>
     <entry>
@@ -168,57 +215,6 @@ The post What’s on the Horizon for the Future of Web3 Gaming? appeared first 
         <summary type="html"><![CDATA[A small gotcha with the ERC20 WETH token that could cost you big!]]></summary>
         <author>
             <name>Wesley Coetzee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying Decimals and Wei in Solidity: A Guide for Smart Contract Developers]]></title>
-        <id>https://medium.com/p/c3b7ebf4cb14</id>
-        <link href="https://coinsbench.com/demystifying-decimals-and-wei-in-solidity-a-guide-for-smart-contract-developers-c3b7ebf4cb14?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-01T12:45:36.000Z</updated>
-        <summary type="html"><![CDATA[Solidity, the programming language for Ethereum smart contracts, operates on a foundation of units to handle cryptocurrency values. Two…]]></summary>
-        <author>
-            <name>Abdul Aleem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trial run in ZK layer 1 testnet III ALeo]]></title>
-        <id>https://medium.com/p/1d5a44b18300</id>
-        <link href="https://coinsbench.com/trial-run-in-zk-layer-1-testnet-iii-aleo-1d5a44b18300?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-01T12:45:35.000Z</updated>
-        <summary type="html"><![CDATA[We will try to explain how to create account, set up prover / node and deploy dApps on testnet II Aleo]]></summary>
-        <author>
-            <name>luckyStars</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep Dive into Cosmos Blockchain: Connecting the Decentralized Universe]]></title>
-        <id>https://medium.com/p/496dbc23552b</id>
-        <link href="https://coinsbench.com/a-deep-dive-into-cosmos-blockchain-connecting-the-decentralized-universe-496dbc23552b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-01T12:45:32.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving landscape of blockchain technology, Cosmos has emerged as a trailblazer with its visionary approach to addressing key challenges within the decentralized ecosystem. Founded in…]]></summary>
-        <author>
-            <name>Mohammed Niyas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harnessing Solana with Python: A Comprehensive Guide to Decentralized Application Development and…]]></title>
-        <id>https://medium.com/p/f58c86f74e4b</id>
-        <link href="https://coinsbench.com/harnessing-solana-with-python-a-comprehensive-guide-to-decentralized-application-development-and-f58c86f74e4b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-30T10:32:52.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Trym Thoren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Central Bank Digital Currencies (CBDCs)]]></title>
-        <id>https://medium.com/p/6e3380bb43a3</id>
-        <link href="https://coinsbench.com/introduction-to-central-bank-digital-currencies-cbdcs-6e3380bb43a3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-01-30T10:32:50.000Z</updated>
-        <summary type="html"><![CDATA[Dive into the currency revolution with CBDCs and join the bandwagon to the future of finance across the globe. With 130 nations on the CBDC…]]></summary>
-        <author>
-            <name>Neville Munjogu</name>
         </author>
     </entry>
     <entry>
