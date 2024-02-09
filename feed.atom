@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-09T10:12:19.638Z</id>
+    <id>urn:2024-02-09T11:10:17.421Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-09T10:12:19.638Z</updated>
+    <updated>2024-02-09T11:10:17.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Implicit/Explicit Type conversion]]></title>
+        <id>https://medium.com/p/f598ae9cfd7d</id>
+        <link href="https://coinsbench.com/implicit-explicit-type-conversion-f598ae9cfd7d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-09T10:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Type conversion 1. Solidity is a statically typed language, where variables are defined with specific data types at compile time. 2. The…]]></summary>
+        <author>
+            <name>Hasnain Mirrani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Difference between tx.origin and msg.sender]]></title>
+        <id>https://medium.com/p/83baf554cf18</id>
+        <link href="https://coinsbench.com/difference-between-tx-origin-and-msg-sender-83baf554cf18?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-09T10:45:51.000Z</updated>
+        <summary type="html"><![CDATA[tx.origin and msg.sender both returns address of transaction sender, but there is difference]]></summary>
+        <author>
+            <name>Hasnain Mirrani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Basics state variable]]></title>
+        <id>https://medium.com/p/196944379425</id>
+        <link href="https://coinsbench.com/solidity-basics-state-variable-196944379425?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-09T10:45:48.000Z</updated>
+        <summary type="html"><![CDATA[state variable stored in the Main storage]]></summary>
+        <author>
+            <name>Hasnain Mirrani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract: The Building Block of DeFi; Decentralized Finance Uses Emerging Tech to Remove…]]></title>
+        <id>https://medium.com/p/57061ef3ce20</id>
+        <link href="https://coinsbench.com/smart-contract-the-building-block-of-defi-decentralized-finance-uses-emerging-tech-to-remove-57061ef3ce20?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-09T10:45:46.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the world of decentralized finance, or DeFi for short! In this financial revolution, we’re bidding farewell to the old ways of…]]></summary>
+        <author>
+            <name>The Girl With The Little Bun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unfold the uniqueness of a digital world with the incredible Metaverse development!]]></title>
         <id>https://medium.com/p/c89655b9823e</id>
@@ -168,27 +208,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating a Hardhat Project: Complete Beginners’ Guide.]]></title>
-        <id>https://medium.com/p/263ea1c45e78</id>
-        <link href="https://coinsbench.com/creating-a-hardhat-project-complete-beginners-guide-263ea1c45e78?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-02T16:21:34.000Z</updated>
-        <summary type="html"><![CDATA[Hardhat is an open-source development environment designed to develop, test, and deploy smart contracts on both testnet or mainnet.
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Gimer Cervera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Blockchain the Missing Link in Supply Chain?]]></title>
-        <id>https://medium.com/p/402d6c7ed2e8</id>
-        <link href="https://coinsbench.com/is-blockchain-the-missing-link-in-supply-chain-402d6c7ed2e8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-02T16:21:32.000Z</updated>
-        <summary type="html"><![CDATA[Does the blockchain have any impact on the supply chain? How can it affect the supply chain? What’s in store for it?]]></summary>
-        <author>
-            <name>Neville Munjogu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s on the Horizon for the Future of Web3 Gaming?]]></title>
         <id>https://www.cryptomaton.org/?p=1663</id>
         <link href="https://www.cryptomaton.org/2024/02/02/whats-on-the-horizon-for-the-future-of-web3-gaming/"/>
@@ -197,26 +216,6 @@ Continue reading on CoinsBench »]]></summary>
 The post What’s on the Horizon for the Future of Web3 Gaming? appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You’re Doing xERC20 Wrong]]></title>
-        <id>https://medium.com/p/92a01fcaafe3</id>
-        <link href="https://coinsbench.com/youre-doing-xerc20-wrong-92a01fcaafe3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-01T12:45:42.000Z</updated>
-        <summary type="html"><![CDATA[Please excuse the click-baity title, but I think we should have a conversation about xERC20. The standard, as implemented in the…]]></summary>
-        <author>
-            <name>Solidity Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #18 Answered: What is the minimum amount of Ether required…]]></title>
-        <id>https://medium.com/p/a024dc6f2665</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-18-answered-what-is-the-minimum-amount-of-ether-required-a024dc6f2665?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-01T12:45:40.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
         </author>
     </entry>
     <entry>

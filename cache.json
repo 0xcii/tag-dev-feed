@@ -39,6 +39,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/f598ae9cfd7d",
+          "author": "Hasnain Mirrani",
+          "description": "Type conversion 1. Solidity is a statically typed language, where variables are defined with specific data types at compile time. 2. The…",
+          "link": "https://coinsbench.com/implicit-explicit-type-conversion-f598ae9cfd7d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-09T10:45:54.000Z",
+          "wordCount": 2019,
+          "title": "Implicit/Explicit Type conversion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/83baf554cf18",
+          "author": "Hasnain Mirrani",
+          "description": "tx.origin and msg.sender both returns address of transaction sender, but there is difference",
+          "link": "https://coinsbench.com/difference-between-tx-origin-and-msg-sender-83baf554cf18?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-09T10:45:51.000Z",
+          "wordCount": 957,
+          "title": "Difference between tx.origin and msg.sender",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/196944379425",
+          "author": "Hasnain Mirrani",
+          "description": "state variable stored in the Main storage",
+          "link": "https://coinsbench.com/solidity-basics-state-variable-196944379425?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-09T10:45:48.000Z",
+          "wordCount": 790,
+          "title": "Solidity Basics state variable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/57061ef3ce20",
+          "author": "The Girl With The Little Bun",
+          "description": "Welcome to the world of decentralized finance, or DeFi for short! In this financial revolution, we’re bidding farewell to the old ways of…",
+          "link": "https://coinsbench.com/smart-contract-the-building-block-of-defi-decentralized-finance-uses-emerging-tech-to-remove-57061ef3ce20?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-09T10:45:46.000Z",
+          "wordCount": 2840,
+          "title": "Smart Contract: The Building Block of DeFi; Decentralized Finance Uses Emerging Tech to Remove…",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*dqwlLOlXRpl9G1Ao"
+        },
+        {
           "id": "https://medium.com/p/a7f093119920",
           "author": "Zachchou",
           "description": "EigenLayer smart contract source code",
@@ -97,46 +137,6 @@
           "wordCount": 2534,
           "title": "solscan: a journey through the maze of smart contract vulnerabilities",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZtkRsi90n7hcv4UnEBZkJA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/263ea1c45e78",
-          "author": "Gimer Cervera",
-          "description": "Hardhat is an open-source development environment designed to develop, test, and deploy smart contracts on both testnet or mainnet.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/creating-a-hardhat-project-complete-beginners-guide-263ea1c45e78?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-02-02T16:21:34.000Z",
-          "wordCount": 1231,
-          "title": "Creating a Hardhat Project: Complete Beginners’ Guide.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cewjPG9oBNMUhS38ZpqbOw.png"
-        },
-        {
-          "id": "https://medium.com/p/402d6c7ed2e8",
-          "author": "Neville Munjogu",
-          "description": "Does the blockchain have any impact on the supply chain? How can it affect the supply chain? What’s in store for it?",
-          "link": "https://coinsbench.com/is-blockchain-the-missing-link-in-supply-chain-402d6c7ed2e8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-02-02T16:21:32.000Z",
-          "wordCount": 4194,
-          "title": "Is Blockchain the Missing Link in Supply Chain?",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*RS0vsFSgjDrE2DD8"
-        },
-        {
-          "id": "https://medium.com/p/92a01fcaafe3",
-          "author": "Solidity Labs",
-          "description": "Please excuse the click-baity title, but I think we should have a conversation about xERC20. The standard, as implemented in the…",
-          "link": "https://coinsbench.com/youre-doing-xerc20-wrong-92a01fcaafe3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-02-01T12:45:42.000Z",
-          "wordCount": 2744,
-          "title": "You’re Doing xERC20 Wrong",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*thgtae_gvFCpxV07JOMkuA.png"
-        },
-        {
-          "id": "https://medium.com/p/a024dc6f2665",
-          "author": "Faybian Byrd",
-          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
-          "link": "https://coinsbench.com/rareskills-solidity-interview-question-18-answered-what-is-the-minimum-amount-of-ether-required-a024dc6f2665?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-02-01T12:45:40.000Z",
-          "wordCount": 1667,
-          "title": "RareSkills Solidity Interview Question #18 Answered: What is the minimum amount of Ether required…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*T0KHVfdy5CksRPWDIvyy2Q.png"
         }
       ]
     },
