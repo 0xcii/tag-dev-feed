@@ -49,6 +49,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/877c47a69edc",
+          "author": "The Girl With The Little Bun",
+          "description": "Financial exchange in our present world involves trading various currencies, including digital currencies. Nowadays, there’s an abundance…",
+          "link": "https://coinsbench.com/decoding-decentralized-exchanges-revolutionizing-financial-transactions-in-defi-877c47a69edc?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-12T15:39:24.000Z",
+          "wordCount": 2145,
+          "title": "Decoding Decentralized Exchanges: Revolutionizing Financial Transactions in DeFi.",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*SNRt9AF5VG_i6Iec"
+        },
+        {
+          "id": "https://medium.com/p/e346f3ac7910",
+          "author": "Olaoye Salem(Nyxaris)",
+          "description": "In Solidity, private variables are designed to be accessible only within the contract where they are defined, ensuring confidentiality and…",
+          "link": "https://coinsbench.com/accessing-private-data-in-smart-contracts-e346f3ac7910?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-12T15:39:22.000Z",
+          "wordCount": 2057,
+          "title": "Accessing Private Data in Smart contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vZRYprPKURJVzPvP8xDg3g.png"
+        },
+        {
+          "id": "https://medium.com/p/bc49c60dbef0",
+          "author": "Faybian Byrd",
+          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
+          "link": "https://coinsbench.com/rareskills-solidity-interview-question-20-answered-what-is-reentrancy-bc49c60dbef0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-12T15:39:20.000Z",
+          "wordCount": 1608,
+          "title": "RareSkills Solidity Interview Question #20 Answered: What is reentrancy?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*fOVCyUYzKfq_N85Y-yzNHw.png"
+        },
+        {
+          "id": "https://medium.com/p/ae090139a4d1",
+          "author": "0xCryptoQuant",
+          "description": "The most neat contract I found in recent ERC404 hype whose smart contract has only about 300 lines. Recap core logic and functions in the…",
+          "link": "https://coinsbench.com/hybrid-token-cellmates-ae090139a4d1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-12T15:39:18.000Z",
+          "wordCount": 2155,
+          "title": "Hybrid Token: CellMates(1)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b15b3e436562",
+          "author": "Ranjithkumar",
+          "description": "The world of blockchain development is booming, and smart contracts are at the heart of it all. These self-executing programs offer an…",
+          "link": "https://coinsbench.com/setting-up-smart-contracts-dev-environment-with-hardhat-b15b3e436562?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-12T15:39:15.000Z",
+          "wordCount": 2230,
+          "title": "Setting Up Smart Contracts Dev Environment with Hardhat",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*n-U_-ORh1jfkfgWV.jpg"
+        },
+        {
           "id": "https://medium.com/p/f598ae9cfd7d",
           "author": "Hasnain Mirrani",
           "description": "Type conversion 1. Solidity is a statically typed language, where variables are defined with specific data types at compile time. 2. The…",
@@ -97,56 +147,6 @@
           "wordCount": 5191,
           "title": "EigenLayer Smart Contract Analysis",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*3IaJA2x8xpoppuaD"
-        },
-        {
-          "id": "https://medium.com/p/1b1245686b8d",
-          "author": "Gidirphoto",
-          "description": "Cryptocurrency enthusiasts actively utilize both BEP20 and ERC20 tokens for various transactions and trading purposes. Despite their…",
-          "link": "https://coinsbench.com/understanding-the-distinction-between-erc20-and-bep20-tokens-1b1245686b8d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-02-06T12:11:22.000Z",
-          "wordCount": 1779,
-          "title": "Understanding the Distinction Between ERC20 and BEP20 Tokens.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b537962cd6b9",
-          "author": "Darlington Gospel",
-          "description": "By the end of this guide, you’ll have a functioning decentralized platform where users can list and participate in events, with all…",
-          "link": "https://coinsbench.com/how-to-build-a-web3-events-marketplace-with-next-js-typescript-and-solidity-b537962cd6b9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-02-06T12:11:20.000Z",
-          "wordCount": 4642,
-          "title": "How to Build a Web3 Events Marketplace with Next.js, Typescript, and Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*wQd59TMKZsmhPSwh.png"
-        },
-        {
-          "id": "https://medium.com/p/800fa3ce774f",
-          "author": "Gidirphoto",
-          "description": "In essence, read-only reentrancy refers to a situation where a view-only function returns misleading values due to an outdated state. This…",
-          "link": "https://coinsbench.com/read-only-reentrancy-800fa3ce774f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-02-06T12:11:16.000Z",
-          "wordCount": 1315,
-          "title": "Read-Only Reentrancy",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*K-djX171-MYew-Ga"
-        },
-        {
-          "id": "https://medium.com/p/f47c596c0305",
-          "author": "Gidirphoto",
-          "description": "The Enigma of Test Coverage.",
-          "link": "https://coinsbench.com/fuzz-testing-for-smart-contracts-f47c596c0305?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-02-06T12:11:13.000Z",
-          "wordCount": 1693,
-          "title": "Fuzz testing for smart contracts.",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*i80hcPgoYp-iELdE"
-        },
-        {
-          "id": "https://medium.com/p/856264a96d4c",
-          "author": "riczardo",
-          "description": "Blockchain Security Unveiled: solscan — smart contracts vulnerability scanner",
-          "link": "https://coinsbench.com/solscan-a-journey-through-the-maze-of-smart-contract-vulnerabilities-856264a96d4c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-02-06T12:11:11.000Z",
-          "wordCount": 2534,
-          "title": "solscan: a journey through the maze of smart contract vulnerabilities",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZtkRsi90n7hcv4UnEBZkJA.jpeg"
         }
       ]
     },
@@ -181,7 +181,7 @@
           "description": "In the realm of modern finance, the emergence of cryptocurrencies has ignited a paradigm shift, challenging traditional investment…",
           "link": "https://medium.com/coinmonks/top-10-major-crypto-investing-strategies-for-beginner-investors-in-2024-7a9b120e7374?source=rss----721b17443fd5---4",
           "publishedOn": "2024-02-12T13:35:13.000Z",
-          "wordCount": 5878,
+          "wordCount": 5877,
           "title": "Top 10 Major Crypto Investing Strategies for Beginner Investors in 2024",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VRJ0E9C_AM6IBvWcSLJ58Q.jpeg"
         },
@@ -211,7 +211,7 @@
           "description": "Discover the uniqueness of hybrid crypto exchange software: benefits, features, and trends for optimal trading experiences.",
           "link": "https://medium.com/coinmonks/what-makes-hybrid-crypto-exchange-software-unique-benefits-features-and-trends-8f4af67ce5e3?source=rss----721b17443fd5---4",
           "publishedOn": "2024-02-12T13:29:53.000Z",
-          "wordCount": 3454,
+          "wordCount": 3453,
           "title": "What Makes Hybrid Crypto Exchange Software Unique: Benefits, Features, and Trends",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*JYNNAOMh3pIjABdJamPTxw.png"
         },

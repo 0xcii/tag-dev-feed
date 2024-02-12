@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-12T15:12:19.026Z</id>
+    <id>urn:2024-02-12T16:14:31.751Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-12T15:12:19.026Z</updated>
+    <updated>2024-02-12T16:14:31.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Decoding Decentralized Exchanges: Revolutionizing Financial Transactions in DeFi.]]></title>
+        <id>https://medium.com/p/877c47a69edc</id>
+        <link href="https://coinsbench.com/decoding-decentralized-exchanges-revolutionizing-financial-transactions-in-defi-877c47a69edc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-12T15:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Financial exchange in our present world involves trading various currencies, including digital currencies. Nowadays, there’s an abundance…]]></summary>
+        <author>
+            <name>The Girl With The Little Bun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessing Private Data in Smart contracts]]></title>
+        <id>https://medium.com/p/e346f3ac7910</id>
+        <link href="https://coinsbench.com/accessing-private-data-in-smart-contracts-e346f3ac7910?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-12T15:39:22.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, private variables are designed to be accessible only within the contract where they are defined, ensuring confidentiality and…]]></summary>
+        <author>
+            <name>Olaoye Salem(Nyxaris)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RareSkills Solidity Interview Question #20 Answered: What is reentrancy?]]></title>
+        <id>https://medium.com/p/bc49c60dbef0</id>
+        <link href="https://coinsbench.com/rareskills-solidity-interview-question-20-answered-what-is-reentrancy-bc49c60dbef0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-12T15:39:20.000Z</updated>
+        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
+        <author>
+            <name>Faybian Byrd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hybrid Token: CellMates(1)]]></title>
+        <id>https://medium.com/p/ae090139a4d1</id>
+        <link href="https://coinsbench.com/hybrid-token-cellmates-ae090139a4d1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-12T15:39:18.000Z</updated>
+        <summary type="html"><![CDATA[The most neat contract I found in recent ERC404 hype whose smart contract has only about 300 lines. Recap core logic and functions in the…]]></summary>
+        <author>
+            <name>0xCryptoQuant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Up Smart Contracts Dev Environment with Hardhat]]></title>
+        <id>https://medium.com/p/b15b3e436562</id>
+        <link href="https://coinsbench.com/setting-up-smart-contracts-dev-environment-with-hardhat-b15b3e436562?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-12T15:39:15.000Z</updated>
+        <summary type="html"><![CDATA[The world of blockchain development is booming, and smart contracts are at the heart of it all. These self-executing programs offer an…]]></summary>
+        <author>
+            <name>Ranjithkumar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Embracing the Future: 5G Technology and Crypto Prediction Markets]]></title>
         <id>https://medium.com/p/2c0f58cc678f</id>
@@ -166,56 +216,6 @@ The post How Interchain are Building an Internet of Blockchains appeared first o
         <summary type="html"><![CDATA[EigenLayer smart contract source code]]></summary>
         <author>
             <name>Zachchou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Distinction Between ERC20 and BEP20 Tokens.]]></title>
-        <id>https://medium.com/p/1b1245686b8d</id>
-        <link href="https://coinsbench.com/understanding-the-distinction-between-erc20-and-bep20-tokens-1b1245686b8d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-06T12:11:22.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrency enthusiasts actively utilize both BEP20 and ERC20 tokens for various transactions and trading purposes. Despite their…]]></summary>
-        <author>
-            <name>Gidirphoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Web3 Events Marketplace with Next.js, Typescript, and Solidity]]></title>
-        <id>https://medium.com/p/b537962cd6b9</id>
-        <link href="https://coinsbench.com/how-to-build-a-web3-events-marketplace-with-next-js-typescript-and-solidity-b537962cd6b9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-06T12:11:20.000Z</updated>
-        <summary type="html"><![CDATA[By the end of this guide, you’ll have a functioning decentralized platform where users can list and participate in events, with all…]]></summary>
-        <author>
-            <name>Darlington Gospel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read-Only Reentrancy]]></title>
-        <id>https://medium.com/p/800fa3ce774f</id>
-        <link href="https://coinsbench.com/read-only-reentrancy-800fa3ce774f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-06T12:11:16.000Z</updated>
-        <summary type="html"><![CDATA[In essence, read-only reentrancy refers to a situation where a view-only function returns misleading values due to an outdated state. This…]]></summary>
-        <author>
-            <name>Gidirphoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fuzz testing for smart contracts.]]></title>
-        <id>https://medium.com/p/f47c596c0305</id>
-        <link href="https://coinsbench.com/fuzz-testing-for-smart-contracts-f47c596c0305?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-06T12:11:13.000Z</updated>
-        <summary type="html"><![CDATA[The Enigma of Test Coverage.]]></summary>
-        <author>
-            <name>Gidirphoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[solscan: a journey through the maze of smart contract vulnerabilities]]></title>
-        <id>https://medium.com/p/856264a96d4c</id>
-        <link href="https://coinsbench.com/solscan-a-journey-through-the-maze-of-smart-contract-vulnerabilities-856264a96d4c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-06T12:11:11.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain Security Unveiled: solscan — smart contracts vulnerability scanner]]></summary>
-        <author>
-            <name>riczardo</name>
         </author>
     </entry>
     <entry>
