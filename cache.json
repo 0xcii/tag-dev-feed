@@ -7,6 +7,43 @@
       "articles": []
     },
     {
+      "title": "cryptomaton",
+      "feedUrl": "https://www.cryptomaton.org/feed/",
+      "siteUrl": "https://www.cryptomaton.org/",
+      "articles": [
+        {
+          "id": "https://www.cryptomaton.org/?p=1666",
+          "author": "Andrei",
+          "description": "Blockchain interconnectivity is going to be a big focus in the years to come, well beyond just EVM-compatibility. I recently had a fascinating discussion on this topic with Interchain Foundations’ Managing Director Maria Gomez and Product Lead for Inter-Blockchain connectivity protocol Susannah Evans. The Interchain Foundation have been instrumental in the building and development of […]\nThe post How Interchain are Building an Internet of Blockchains appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2024/02/10/how-interchain-are-building-an-internet-of-blockchains/",
+          "publishedOn": "2024-02-10T16:18:27.000Z",
+          "wordCount": 9811,
+          "title": "How Interchain are Building an Internet of Blockchains",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/02/cosmos-interchain-of-blockchains.webp"
+        },
+        {
+          "id": "https://www.cryptomaton.org/?p=1663",
+          "author": "Andrei",
+          "description": "I recently had a great conversation with Michael Sanders, one of the Co-founders at Horizon. He and his team have built an incredible platform that allows game developers to easily access and use blockchain data in game development. This is the kind of tool that’s going to power the next paradigm shift in modern gaming. […]\nThe post What’s on the Horizon for the Future of Web3 Gaming? appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2024/02/02/whats-on-the-horizon-for-the-future-of-web3-gaming/",
+          "publishedOn": "2024-02-02T11:04:58.000Z",
+          "wordCount": 10299,
+          "title": "What’s on the Horizon for the Future of Web3 Gaming?",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/02/future-of-web3-gaming-min.webp"
+        },
+        {
+          "id": "https://www.cryptomaton.org/?p=1659",
+          "author": "Andrei",
+          "description": "What a journey it’s been so far. About 4 years ago, I decided to brush up on my backend programming skills. After trying working on some smaller projects, I decided to convert some of the trading bots that I had built on MetaTrader into Python. Some Backstory The first couple of bots I built were […]\nThe post Why we spent 2 years building an algorithmic crypto trading platform appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2024/01/20/why-we-spent-2-years-building-an-algorithmic-crypto-trading-platform/",
+          "publishedOn": "2024-01-20T12:36:23.000Z",
+          "wordCount": 10206,
+          "title": "Why we spent 2 years building an algorithmic crypto trading platform",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/01/algorithmic-crypto-trading-plaform.png"
+        }
+      ]
+    },
+    {
       "title": "CoinsBench - Medium",
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
@@ -14,100 +51,100 @@
         {
           "id": "https://medium.com/p/f28fd504934e",
           "author": "0xCryptoQuant",
-          "description": "The difference between CellMates and most ERC404 or forked projects is that it uses fully on-chain code to generate NFT metadata. This…",
+          "description": "",
           "link": "https://coinsbench.com/fully-on-chain-nfts-metadata-cellmates-2-f28fd504934e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-02-13T13:21:32.000Z",
-          "wordCount": 1755,
+          "wordCount": null,
           "title": "Fully On Chain NFT’s Metadata: CellMates(2)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1160/1*HvyXEk5o0rLOlsU0aD1Igw.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/127d09bf64cb",
           "author": "devquercus",
-          "description": "Welcome back to the #100daysofsolidity challenge! On day 001, we discussed the basics of Solidity and set up our development environment…",
+          "description": "",
           "link": "https://coinsbench.com/day-002-of-100daysofsolidity-127d09bf64cb?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-02-13T13:21:29.000Z",
-          "wordCount": 1436,
+          "wordCount": null,
           "title": "Day #002 of #100daysofsolidity.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*k_IBaJOgUeO_DTNE_G3U7w.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/b0e7c97281c7",
           "author": "devquercus",
-          "description": "Introduction:Welcome to the #100DaysOfSolidity challenge! With this first blog post, I want to publicly commit myself as I take the first…",
+          "description": "",
           "link": "https://coinsbench.com/embarking-on-the-100daysofsolidity-challenge-a-journey-into-smart-contract-development-b0e7c97281c7?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-02-13T13:21:27.000Z",
-          "wordCount": 1690,
+          "wordCount": null,
           "title": "Embarking on the #100DaysOfSolidity Challenge: A Journey into Smart Contract Development",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*tvObpE4R1RqRKmAD"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/a939310a42e5",
           "author": "devquercus",
-          "description": "Introduction: Welcome back to another day of the #100DaysOfSolidity challenge! Today, we delve into the fundamental building blocks of…",
+          "description": "",
           "link": "https://coinsbench.com/day-003-exploring-data-types-in-solidity-a939310a42e5?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-02-13T13:21:24.000Z",
-          "wordCount": 1583,
+          "wordCount": null,
           "title": "Day #003 Exploring Data Types in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*NgI-oq60O5cKo5lv"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/877c47a69edc",
           "author": "The Girl With The Little Bun",
-          "description": "Financial exchange in our present world involves trading various currencies, including digital currencies. Nowadays, there’s an abundance…",
+          "description": "",
           "link": "https://coinsbench.com/decoding-decentralized-exchanges-revolutionizing-financial-transactions-in-defi-877c47a69edc?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-02-12T15:39:24.000Z",
-          "wordCount": 2145,
+          "wordCount": null,
           "title": "Decoding Decentralized Exchanges: Revolutionizing Financial Transactions in DeFi.",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*SNRt9AF5VG_i6Iec"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/e346f3ac7910",
           "author": "Olaoye Salem(Nyxaris)",
-          "description": "In Solidity, private variables are designed to be accessible only within the contract where they are defined, ensuring confidentiality and…",
+          "description": "",
           "link": "https://coinsbench.com/accessing-private-data-in-smart-contracts-e346f3ac7910?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-02-12T15:39:22.000Z",
-          "wordCount": 2057,
+          "wordCount": null,
           "title": "Accessing Private Data in Smart contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vZRYprPKURJVzPvP8xDg3g.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/bc49c60dbef0",
           "author": "Faybian Byrd",
-          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
+          "description": "",
           "link": "https://coinsbench.com/rareskills-solidity-interview-question-20-answered-what-is-reentrancy-bc49c60dbef0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-02-12T15:39:20.000Z",
-          "wordCount": 1608,
+          "wordCount": null,
           "title": "RareSkills Solidity Interview Question #20 Answered: What is reentrancy?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*fOVCyUYzKfq_N85Y-yzNHw.png"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/ae090139a4d1",
           "author": "0xCryptoQuant",
-          "description": "The most neat contract I found in recent ERC404 hype whose smart contract has only about 300 lines. Recap core logic and functions in the…",
+          "description": "",
           "link": "https://coinsbench.com/hybrid-token-cellmates-ae090139a4d1?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-02-12T15:39:18.000Z",
-          "wordCount": 2160,
+          "wordCount": null,
           "title": "Hybrid Token: CellMates(1)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1160/1*Fcjh4aPm4-NgVK9LwbGpDA.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/b15b3e436562",
           "author": "Ranjithkumar",
-          "description": "The world of blockchain development is booming, and smart contracts are at the heart of it all. These self-executing programs offer an…",
+          "description": "",
           "link": "https://coinsbench.com/setting-up-smart-contracts-dev-environment-with-hardhat-b15b3e436562?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-02-12T15:39:15.000Z",
-          "wordCount": 2230,
+          "wordCount": null,
           "title": "Setting Up Smart Contracts Dev Environment with Hardhat",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*n-U_-ORh1jfkfgWV.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/f598ae9cfd7d",
           "author": "Hasnain Mirrani",
-          "description": "Type conversion 1. Solidity is a statically typed language, where variables are defined with specific data types at compile time. 2. The…",
+          "description": "",
           "link": "https://coinsbench.com/implicit-explicit-type-conversion-f598ae9cfd7d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-02-09T10:45:54.000Z",
-          "wordCount": 2019,
+          "wordCount": null,
           "title": "Implicit/Explicit Type conversion",
           "imageUrl": null
         }
