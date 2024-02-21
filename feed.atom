@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-21T19:09:20.135Z</id>
+    <id>urn:2024-02-21T20:12:14.489Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-21T19:09:20.135Z</updated>
+    <updated>2024-02-21T20:12:14.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A guide to using CREATE2 opcode on Klaytn]]></title>
+        <id>https://medium.com/p/75ef98d1c904</id>
+        <link href="https://coinsbench.com/a-guide-to-using-create2-opcode-on-klaytn-75ef98d1c904?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-21T19:18:00.000Z</updated>
+        <author>
+            <name>Oluwole kayode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIP-1167 Minimal Proxy Contract On Klaytn]]></title>
+        <id>https://medium.com/p/f246532c6dc7</id>
+        <link href="https://coinsbench.com/eip-1167-minimal-proxy-contract-on-klaytn-f246532c6dc7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-21T19:17:57.000Z</updated>
+        <author>
+            <name>Oluwole kayode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RareSkills Solidity Interview Question #28 Answered: What is access control and why is it important?]]></title>
+        <id>https://medium.com/p/41816fb1bc6a</id>
+        <link href="https://coinsbench.com/rareskills-solidity-interview-question-28-answered-what-is-access-control-and-why-is-it-important-41816fb1bc6a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-21T19:17:55.000Z</updated>
+        <author>
+            <name>Faybian Byrd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sandwich Attack BOT-J]]></title>
+        <id>https://medium.com/p/e0656550d725</id>
+        <link href="https://coinsbench.com/sandwich-attack-bot-j-e0656550d725?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-21T19:17:52.000Z</updated>
+        <author>
+            <name>Dhouibi_MonTassar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Would Never Sell Bitcoin, Unless…]]></title>
         <id>https://medium.com/p/9f7c61c35912</id>
@@ -43,7 +79,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/f6cbb6c871ec</id>
         <link href="https://medium.com/coinmonks/guardian-public-chain-revolutionizing-ai-training-through-blockchain-f6cbb6c871ec?source=rss----721b17443fd5---4"/>
         <updated>2024-02-19T18:44:09.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving landscape of technology, Guardian Public Chain emerges as a beacon of innovation, poised to revolutionize the artificial intelligence (AI) training process. This groundbreaking…]]></summary>
         <author>
             <name>ℂ</name>
         </author>
@@ -53,7 +88,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/ded94aa27194</id>
         <link href="https://medium.com/coinmonks/what-is-web3-and-why-should-you-care-ded94aa27194?source=rss----721b17443fd5---4"/>
         <updated>2024-02-19T18:44:06.000Z</updated>
-        <summary type="html"><![CDATA[What if I told you that there is a new way of building and using the internet that is more secure, transparent, and fair than the current one? That instead of relying on centralized servers and…]]></summary>
         <author>
             <name>Rosario Borgesi</name>
         </author>
@@ -63,7 +97,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/d80a674f0bf4</id>
         <link href="https://medium.com/coinmonks/20-best-ai-blogs-to-follow-in-2024-d80a674f0bf4?source=rss----721b17443fd5---4"/>
         <updated>2024-02-19T18:44:03.000Z</updated>
-        <summary type="html"><![CDATA[Looking to learn about AI? Check out these top AI blogs that will keep you engaged.]]></summary>
         <author>
             <name>MrNouman</name>
         </author>
@@ -84,7 +117,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/c81b03f232d3</id>
         <link href="https://medium.com/coinmonks/will-timing-the-halving-retracement-lead-to-a-legendary-bitcoin-trade-c81b03f232d3?source=rss----721b17443fd5---4"/>
         <updated>2024-02-19T18:43:55.000Z</updated>
-        <summary type="html"><![CDATA[What is Bitcoin? Mostly spot, but  sometimes Futurs too]]></summary>
         <author>
             <name>LIVING ON THE BITCOIN STANDARD</name>
         </author>
@@ -94,7 +126,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/5e15b964823c</id>
         <link href="https://medium.com/coinmonks/cryptocurrency-in-2024-navigating-through-innovation-and-regulation-5e15b964823c?source=rss----721b17443fd5---4"/>
         <updated>2024-02-19T18:43:17.000Z</updated>
-        <summary type="html"><![CDATA[Introduction to Cryptocurrency in 2024]]></summary>
         <author>
             <name>Rogers Mayaka</name>
         </author>
@@ -115,7 +146,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/9e06b1621ab9</id>
         <link href="https://coinsbench.com/conquering-the-forge-understanding-and-using-basic-foundry-commands-9e06b1621ab9?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-19T16:30:51.000Z</updated>
-        <summary type="html"><![CDATA[Welcome, Solidity warriors! Stepping into the realm of Foundry demands navigating a powerful toolkit filled with commands. Fret not, for…]]></summary>
         <author>
             <name>Joseph David</name>
         </author>
@@ -125,7 +155,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/4b097859ab15</id>
         <link href="https://coinsbench.com/installing-foundry-setting-up-your-solidity-development-environment-4b097859ab15?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-19T16:30:48.000Z</updated>
-        <summary type="html"><![CDATA[Ready to dive into the powerful world of Foundry for writing, testing, and auditing your Solidity smart contracts? Let’s break down the…]]></summary>
         <author>
             <name>Joseph David</name>
         </author>
@@ -135,7 +164,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/bf0566813f4b</id>
         <link href="https://coinsbench.com/making-your-own-erc-20-token-bf0566813f4b?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-19T16:30:29.000Z</updated>
-        <summary type="html"><![CDATA[First start be making the smart contract with the OpenZeppelin framework in the Remix IDE. OpenZeppelin contracts helps you minimize risk…]]></summary>
         <author>
             <name>Max Benen</name>
         </author>
@@ -145,7 +173,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/8a1fb636fcd1</id>
         <link href="https://coinsbench.com/rareskills-solidity-interview-question-26-answered-what-is-the-difference-between-transferfrom-8a1fb636fcd1?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-19T16:30:26.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
         </author>
@@ -155,7 +182,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/3f4116a2b586</id>
         <link href="https://blog.blockmagnates.com/finding-treasure-in-the-ethereum-sea-3f4116a2b586?source=rss----18fa961f1eff--solidity"/>
         <updated>2024-02-19T16:28:34.000Z</updated>
-        <summary type="html"><![CDATA[1,525 days.]]></summary>
         <author>
             <name>MEVERICK</name>
         </author>
@@ -165,7 +191,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/8602db9ee01c</id>
         <link href="https://coinsbench.com/ethereum-staking-demand-rises-amid-regulatory-uncertainty-a-validators-dilemma-8602db9ee01c?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-18T09:51:29.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving landscape of cryptocurrency, Ethereum staking has emerged as a popular choice for investors looking to secure their…]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -186,49 +211,8 @@ The post The early days of Ethereum according to former core developer Christoph
         <id>https://medium.com/p/b9b0701ccff1</id>
         <link href="https://coinsbench.com/beyond-the-blockchain-hype-the-future-after-the-fall-b9b0701ccff1?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-16T15:51:12.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology burst onto the global stage in 2017 when Bitcoin and other cryptocurrencies saw wild price spikes and captured the…]]></summary>
         <author>
             <name>Scofield O. Idehen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The forgotten ERCs & EIPs: ERC-2612]]></title>
-        <id>https://medium.com/p/48cf0661da6d</id>
-        <link href="https://coinsbench.com/the-forgotten-ercs-eips-erc-2612-48cf0661da6d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-16T15:48:04.000Z</updated>
-        <summary type="html"><![CDATA[— EIP 2612]]></summary>
-        <author>
-            <name>Alejo Lovallo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The forgotten ERCs & EIPs: EIP-712]]></title>
-        <id>https://medium.com/p/bb7a98fef408</id>
-        <link href="https://coinsbench.com/the-forgotten-ercs-eips-eip-712-bb7a98fef408?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-16T15:48:01.000Z</updated>
-        <summary type="html"><![CDATA[— — EIP 712]]></summary>
-        <author>
-            <name>Alejo Lovallo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #22 Answered: What prevents infinite loops from running…]]></title>
-        <id>https://medium.com/p/f76574fad9b4</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-22-answered-what-prevents-infinite-loops-from-running-f76574fad9b4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-16T15:47:57.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modifying EVM Storage to Seed Token Balances in Testing]]></title>
-        <id>https://medium.com/p/a6d58b596ceb</id>
-        <link href="https://coinsbench.com/modifying-evm-storage-to-seed-token-balances-in-testing-a6d58b596ceb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-16T15:47:44.000Z</updated>
-        <summary type="html"><![CDATA[EVM (Ethereum Virtual Machine) storage refers to the permanent storage space within the Ethereum blockchain where smart contract data is…]]></summary>
-        <author>
-            <name>Matt Burton</name>
         </author>
     </entry>
     <entry>
