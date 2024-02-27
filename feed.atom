@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-27T08:14:40.388Z</id>
+    <id>urn:2024-02-27T09:11:51.507Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-27T08:14:40.388Z</updated>
+    <updated>2024-02-27T09:11:51.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RareSkills Solidity Interview Question #30 Answered: What is the largest value a uint256 can store?]]></title>
+        <id>https://medium.com/p/6c7a5f2cad79</id>
+        <link href="https://coinsbench.com/rareskills-solidity-interview-question-30-answered-what-is-the-largest-value-a-uint256-can-store-6c7a5f2cad79?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-27T08:29:31.000Z</updated>
+        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
+        <author>
+            <name>Faybian Byrd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing smart contracts with hardhat]]></title>
+        <id>https://medium.com/p/73b281847ab6</id>
+        <link href="https://coinsbench.com/testing-smart-contracts-with-hardhat-73b281847ab6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-02-27T08:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts, the self-executing programs on blockchains, play a crucial role in decentralized applications (dApps). However, their immutability amplifies the importance of thorough testing. Bugs…]]></summary>
+        <author>
+            <name>Ranjithkumar C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethernaut Challenge Level 1: Solution (Fallback Function Abuse)]]></title>
+        <id>https://medium.com/p/d1e7394de409</id>
+        <link href="https://blog.blockmagnates.com/ethernaut-challenge-level-1-solution-fallback-function-abuse-d1e7394de409?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-02-27T08:27:55.000Z</updated>
+        <summary type="html"><![CDATA[Ethernaut is a CTF challenge by Openzeppelin to learn about common solidity security issues. As I am going to complete all these levels, I…]]></summary>
+        <author>
+            <name>Shubham Nagar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Farmer protests puts spotlight back on commodities]]></title>
         <id>https://medium.com/p/b298d59fc5c5</id>
@@ -209,16 +239,6 @@ The post What I learned starting a cryptocurrency podcast appeared first on cryp
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethereum Staking Demand Rises Amid Regulatory Uncertainty: A Validator’s Dilemma]]></title>
-        <id>https://medium.com/p/8602db9ee01c</id>
-        <link href="https://coinsbench.com/ethereum-staking-demand-rises-amid-regulatory-uncertainty-a-validators-dilemma-8602db9ee01c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-18T09:51:29.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving landscape of cryptocurrency, Ethereum staking has emerged as a popular choice for investors looking to secure their…]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The early days of Ethereum according to former core developer Christoph]]></title>
         <id>https://www.cryptomaton.org/?p=1671</id>
         <link href="https://www.cryptomaton.org/2024/02/16/the-early-days-of-ethereum-according-to-former-core-developer-christoph/"/>
@@ -227,16 +247,6 @@ The post What I learned starting a cryptocurrency podcast appeared first on cryp
 The post The early days of Ethereum according to former core developer Christoph appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond the Blockchain Hype: The Future After the Fall]]></title>
-        <id>https://medium.com/p/b9b0701ccff1</id>
-        <link href="https://coinsbench.com/beyond-the-blockchain-hype-the-future-after-the-fall-b9b0701ccff1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-02-16T15:51:12.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology burst onto the global stage in 2017 when Bitcoin and other cryptocurrencies saw wild price spikes and captured the…]]></summary>
-        <author>
-            <name>Scofield O. Idehen</name>
         </author>
     </entry>
     <entry>

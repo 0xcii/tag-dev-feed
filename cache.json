@@ -59,6 +59,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/6c7a5f2cad79",
+          "author": "Faybian Byrd",
+          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
+          "link": "https://coinsbench.com/rareskills-solidity-interview-question-30-answered-what-is-the-largest-value-a-uint256-can-store-6c7a5f2cad79?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-27T08:29:31.000Z",
+          "wordCount": 1313,
+          "title": "RareSkills Solidity Interview Question #30 Answered: What is the largest value a uint256 can store?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*7HX0YrNlUtKBjcoLfu6I6w.png"
+        },
+        {
+          "id": "https://medium.com/p/73b281847ab6",
+          "author": "Ranjithkumar C",
+          "description": "Smart contracts, the self-executing programs on blockchains, play a crucial role in decentralized applications (dApps). However, their immutability amplifies the importance of thorough testing. Bugs…",
+          "link": "https://coinsbench.com/testing-smart-contracts-with-hardhat-73b281847ab6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-02-27T08:29:29.000Z",
+          "wordCount": 2873,
+          "title": "Testing smart contracts with hardhat",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*C6Pv2VhSUuMGJoig.jpg"
+        },
+        {
           "id": "https://medium.com/p/75ef98d1c904",
           "author": "Oluwole kayode",
           "description": "the CREATE2 opcode has become a pivotal tool, empowering developers to create contracts at a predetermined address.",
@@ -137,26 +157,6 @@
           "wordCount": 1445,
           "title": "RareSkills Solidity Interview Question #26 Answered: What is the difference between transferFrom…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*F9dyrhII0wMzxUVFDVHecQ.png"
-        },
-        {
-          "id": "https://medium.com/p/8602db9ee01c",
-          "author": "Solidity Academy",
-          "description": "In the ever-evolving landscape of cryptocurrency, Ethereum staking has emerged as a popular choice for investors looking to secure their…",
-          "link": "https://coinsbench.com/ethereum-staking-demand-rises-amid-regulatory-uncertainty-a-validators-dilemma-8602db9ee01c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-02-18T09:51:29.000Z",
-          "wordCount": 1508,
-          "title": "Ethereum Staking Demand Rises Amid Regulatory Uncertainty: A Validator’s Dilemma",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*IHJd70KRsYy5B515"
-        },
-        {
-          "id": "https://medium.com/p/b9b0701ccff1",
-          "author": "Scofield O. Idehen",
-          "description": "Blockchain technology burst onto the global stage in 2017 when Bitcoin and other cryptocurrencies saw wild price spikes and captured the…",
-          "link": "https://coinsbench.com/beyond-the-blockchain-hype-the-future-after-the-fall-b9b0701ccff1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-02-16T15:51:12.000Z",
-          "wordCount": 2660,
-          "title": "Beyond the Blockchain Hype: The Future After the Fall",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xwQaVdOzdKQarZJ0MeDAMw.png"
         }
       ]
     },
@@ -272,6 +272,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/d1e7394de409",
+          "author": "Shubham Nagar",
+          "description": "Ethernaut is a CTF challenge by Openzeppelin to learn about common solidity security issues. As I am going to complete all these levels, I…",
+          "link": "https://blog.blockmagnates.com/ethernaut-challenge-level-1-solution-fallback-function-abuse-d1e7394de409?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-02-27T08:27:55.000Z",
+          "wordCount": 1741,
+          "title": "Ethernaut Challenge Level 1: Solution (Fallback Function Abuse)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:527/1*q_Yiqo9aclmeu5KOcpt0bg.png"
+        },
         {
           "id": "https://medium.com/p/3f4116a2b586",
           "author": "MEVERICK",
