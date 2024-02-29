@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-29T03:13:01.961Z</id>
+    <id>urn:2024-02-29T04:13:55.218Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-29T03:13:01.961Z</updated>
+    <updated>2024-02-29T04:13:55.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,6 +10,7 @@
         <id>https://medium.com/p/4d326682efdb</id>
         <link href="https://medium.com/coinmonks/everything-you-need-to-know-about-crypto-trading-4d326682efdb?source=rss----721b17443fd5---4"/>
         <updated>2024-02-28T16:57:18.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, crypto trading has become one of the most profitable investment forms. With the emergence of digital currencies such as…]]></summary>
         <author>
             <name>36Crypto</name>
         </author>
@@ -29,6 +30,7 @@
         <id>https://medium.com/p/8963bc2c13d1</id>
         <link href="https://medium.com/coinmonks/a-comprehensive-guide-to-initial-liquidity-offering-ilo-development-in-2024-8963bc2c13d1?source=rss----721b17443fd5---4"/>
         <updated>2024-02-28T16:56:49.000Z</updated>
+        <summary type="html"><![CDATA[The Initial Liquidity Offering (ILO) has emerged as an innovative fundraising model within the realm of decentralized finance (DeFi)…]]></summary>
         <author>
             <name>Cathrine Williams</name>
         </author>
@@ -48,6 +50,7 @@
         <id>https://medium.com/p/786276cc46c9</id>
         <link href="https://medium.com/coinmonks/unlocking-digital-prosperity-a-comprehensive-guide-to-nft-renting-and-its-transformative-impact-on-786276cc46c9?source=rss----721b17443fd5---4"/>
         <updated>2024-02-28T16:56:38.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, non-fungible tokens (NFTs) have taken the digital world by storm, revolutionizing the way we perceive and trade digital…]]></summary>
         <author>
             <name>Serenawilliams</name>
         </author>
@@ -57,6 +60,7 @@
         <id>https://medium.com/p/3153bb3008a1</id>
         <link href="https://medium.com/coinmonks/real-world-asset-tokenization-pioneering-the-breakthrough-of-2024-3153bb3008a1?source=rss----721b17443fd5---4"/>
         <updated>2024-02-28T16:56:29.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic landscape of finance and technology, the year 2024 marks a pivotal moment with the breakthrough of real-world asset (RWA)…]]></summary>
         <author>
             <name>Serenawilliams</name>
         </author>
@@ -76,6 +80,7 @@
         <id>https://medium.com/p/373b9d128c44</id>
         <link href="https://medium.com/coinmonks/cardano-spotlight-5-hosky-373b9d128c44?source=rss----721b17443fd5---4"/>
         <updated>2024-02-28T16:56:12.000Z</updated>
+        <summary type="html"><![CDATA[Other Cardano Spotlight articles can be found here on: Indigo, Gero, MinSwap and AGIX.]]></summary>
         <author>
             <name>The Hungry Cow</name>
         </author>
@@ -105,6 +110,7 @@
         <id>https://medium.com/p/6c7a5f2cad79</id>
         <link href="https://coinsbench.com/rareskills-solidity-interview-question-30-answered-what-is-the-largest-value-a-uint256-can-store-6c7a5f2cad79?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-27T08:29:31.000Z</updated>
+        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
         </author>
@@ -114,6 +120,7 @@
         <id>https://medium.com/p/73b281847ab6</id>
         <link href="https://coinsbench.com/testing-smart-contracts-with-hardhat-73b281847ab6?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-27T08:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts, the self-executing programs on blockchains, play a crucial role in decentralized applications (dApps). However, their immutability amplifies the importance of thorough testing. Bugs…]]></summary>
         <author>
             <name>Ranjithkumar C</name>
         </author>
@@ -123,6 +130,7 @@
         <id>https://medium.com/p/d1e7394de409</id>
         <link href="https://blog.blockmagnates.com/ethernaut-challenge-level-1-solution-fallback-function-abuse-d1e7394de409?source=rss----18fa961f1eff--solidity"/>
         <updated>2024-02-27T08:27:55.000Z</updated>
+        <summary type="html"><![CDATA[Ethernaut is a CTF challenge by Openzeppelin to learn about common solidity security issues. As I am going to complete all these levels, I…]]></summary>
         <author>
             <name>Shubham Nagar</name>
         </author>
@@ -143,6 +151,7 @@ The post What I learned starting a cryptocurrency podcast appeared first on cryp
         <id>https://medium.com/p/75ef98d1c904</id>
         <link href="https://coinsbench.com/a-guide-to-using-create2-opcode-on-klaytn-75ef98d1c904?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-21T19:18:00.000Z</updated>
+        <summary type="html"><![CDATA[the CREATE2 opcode has become a pivotal tool, empowering developers to create contracts at a predetermined address.]]></summary>
         <author>
             <name>Oluwole kayode</name>
         </author>
@@ -152,6 +161,7 @@ The post What I learned starting a cryptocurrency podcast appeared first on cryp
         <id>https://medium.com/p/f246532c6dc7</id>
         <link href="https://coinsbench.com/eip-1167-minimal-proxy-contract-on-klaytn-f246532c6dc7?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-21T19:17:57.000Z</updated>
+        <summary type="html"><![CDATA[What is the EIP-1167 Minimal Proxy Contract and how is it deployed on Klaytn?]]></summary>
         <author>
             <name>Oluwole kayode</name>
         </author>
@@ -161,6 +171,7 @@ The post What I learned starting a cryptocurrency podcast appeared first on cryp
         <id>https://medium.com/p/41816fb1bc6a</id>
         <link href="https://coinsbench.com/rareskills-solidity-interview-question-28-answered-what-is-access-control-and-why-is-it-important-41816fb1bc6a?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-21T19:17:55.000Z</updated>
+        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
         </author>
@@ -170,6 +181,7 @@ The post What I learned starting a cryptocurrency podcast appeared first on cryp
         <id>https://medium.com/p/e0656550d725</id>
         <link href="https://coinsbench.com/sandwich-attack-bot-j-e0656550d725?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-21T19:17:52.000Z</updated>
+        <summary type="html"><![CDATA[Learn how sandwich bot work and how to creat a one using JavaScript NodeJs and solidity Script to launch transactions .]]></summary>
         <author>
             <name>Dhouibi_MonTassar</name>
         </author>
@@ -179,6 +191,7 @@ The post What I learned starting a cryptocurrency podcast appeared first on cryp
         <id>https://medium.com/p/9e06b1621ab9</id>
         <link href="https://coinsbench.com/conquering-the-forge-understanding-and-using-basic-foundry-commands-9e06b1621ab9?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-19T16:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Welcome, Solidity warriors! Stepping into the realm of Foundry demands navigating a powerful toolkit filled with commands. Fret not, for…]]></summary>
         <author>
             <name>Joseph David</name>
         </author>
@@ -188,6 +201,7 @@ The post What I learned starting a cryptocurrency podcast appeared first on cryp
         <id>https://medium.com/p/4b097859ab15</id>
         <link href="https://coinsbench.com/installing-foundry-setting-up-your-solidity-development-environment-4b097859ab15?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-19T16:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Ready to dive into the powerful world of Foundry for writing, testing, and auditing your Solidity smart contracts? Let’s break down the…]]></summary>
         <author>
             <name>Joseph David</name>
         </author>
@@ -197,6 +211,7 @@ The post What I learned starting a cryptocurrency podcast appeared first on cryp
         <id>https://medium.com/p/bf0566813f4b</id>
         <link href="https://coinsbench.com/making-your-own-erc-20-token-bf0566813f4b?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-19T16:30:29.000Z</updated>
+        <summary type="html"><![CDATA[First start be making the smart contract with the OpenZeppelin framework in the Remix IDE. OpenZeppelin contracts helps you minimize risk…]]></summary>
         <author>
             <name>Max Benen</name>
         </author>
@@ -206,6 +221,7 @@ The post What I learned starting a cryptocurrency podcast appeared first on cryp
         <id>https://medium.com/p/8a1fb636fcd1</id>
         <link href="https://coinsbench.com/rareskills-solidity-interview-question-26-answered-what-is-the-difference-between-transferfrom-8a1fb636fcd1?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-02-19T16:30:26.000Z</updated>
+        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
         </author>
@@ -215,6 +231,7 @@ The post What I learned starting a cryptocurrency podcast appeared first on cryp
         <id>https://medium.com/p/3f4116a2b586</id>
         <link href="https://blog.blockmagnates.com/finding-treasure-in-the-ethereum-sea-3f4116a2b586?source=rss----18fa961f1eff--solidity"/>
         <updated>2024-02-19T16:28:34.000Z</updated>
+        <summary type="html"><![CDATA[1,525 days.]]></summary>
         <author>
             <name>MEVERICK</name>
         </author>
