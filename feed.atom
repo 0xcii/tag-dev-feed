@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-02T01:41:03.971Z</id>
+    <id>urn:2024-03-02T02:15:33.581Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-02T01:41:03.971Z</updated>
+    <updated>2024-03-02T02:15:33.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,6 @@
         <id>https://medium.com/p/4403230b469c</id>
         <link href="https://coinsbench.com/ethernaut-challenge-level-16-solution-preservation-4403230b469c?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-01T13:46:39.000Z</updated>
-        <summary type="html"><![CDATA[We have done a blog for the Fallback Function Challenge by Openzepplin (a wargame by Openzepplin). I thought, why not write about some…]]></summary>
         <author>
             <name>Shubham Nagar</name>
         </author>
@@ -20,7 +19,6 @@
         <id>https://medium.com/p/ec1c2e58abb9</id>
         <link href="https://coinsbench.com/ethernaut-challenge-solution-token-ec1c2e58abb9?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-01T13:46:37.000Z</updated>
-        <summary type="html"><![CDATA[This challenge serves as a practical lesson in understanding and identifying vulnerabilities, specifically integer underflow, in smart…]]></summary>
         <author>
             <name>Abdeldjalil Benharkat</name>
         </author>
@@ -30,7 +28,6 @@
         <id>https://medium.com/p/8fea3415b999</id>
         <link href="https://coinsbench.com/ethernaut-challenge-solution-telephone-8fea3415b999?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-01T13:46:34.000Z</updated>
-        <summary type="html"><![CDATA[The Ethernaut Telephone challenge is designed to test your understanding of two key Ethereum transaction properties: msg.sender and…]]></summary>
         <author>
             <name>Abdeldjalil Benharkat</name>
         </author>
@@ -40,7 +37,6 @@
         <id>https://medium.com/p/727f684d8c1a</id>
         <link href="https://coinsbench.com/ethernaut-challenge-coin-flip-727f684d8c1a?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-01T13:46:32.000Z</updated>
-        <summary type="html"><![CDATA[The goal is simple: guess the outcome of a coin flip correctly 10 times in a row. However, the catch lies in the mechanics of how the…]]></summary>
         <author>
             <name>Abdeldjalil Benharkat</name>
         </author>
@@ -50,7 +46,6 @@
         <id>https://medium.com/p/f75ccf2d6cfd</id>
         <link href="https://coinsbench.com/ethernaut-challenge-solution-hello-ethernaut-f75ccf2d6cfd?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-01T13:46:30.000Z</updated>
-        <summary type="html"><![CDATA[This challenge is about understanding and interacting with smart contracts in a meaningful way. Let’s dive into the critical steps:]]></summary>
         <author>
             <name>Abdeldjalil Benharkat</name>
         </author>
@@ -60,7 +55,6 @@
         <id>https://medium.com/p/96afe4e6cfd0</id>
         <link href="https://coinsbench.com/ethernaut-challenge-solution-fallout-96afe4e6cfd0?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-01T13:46:25.000Z</updated>
-        <summary type="html"><![CDATA[This challenge is all about noticing that the function commented out as a constructor]]></summary>
         <author>
             <name>Abdeldjalil Benharkat</name>
         </author>
@@ -70,7 +64,6 @@
         <id>https://medium.com/p/1fda445ce82b</id>
         <link href="https://coinsbench.com/ethernaut-challenge-solution-fallback-1fda445ce82b?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-01T13:44:16.000Z</updated>
-        <summary type="html"><![CDATA[The Fallback challenge in Ethernaut invites you into the world of smart contracts with a twist — taking ownership and draining the…]]></summary>
         <author>
             <name>Abdeldjalil Benharkat</name>
         </author>
@@ -80,7 +73,6 @@
         <id>https://medium.com/p/d5ed05dea359</id>
         <link href="https://coinsbench.com/an-in-depth-explanation-of-fastlybots-mev-sandwich-flashbot-unleashing-the-power-of-frontrunning-d5ed05dea359?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-01T13:44:14.000Z</updated>
-        <summary type="html"><![CDATA[Dive into the intricate workings of FastlyBot’s MEV Sandwich Flashbot and learn how this powerful tool can help you profit from…]]></summary>
         <author>
             <name>OUBADI Ahmed</name>
         </author>
@@ -90,7 +82,6 @@
         <id>https://medium.com/p/d307760dd8c2</id>
         <link href="https://coinsbench.com/how-ai-tokens-like-sora-reshape-the-blockchain-and-ai-landscape-d307760dd8c2?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-01T13:44:13.000Z</updated>
-        <summary type="html"><![CDATA[On February 15, 2024, OpenAI announced the Sora model. This model can generate highly realistic videos based on text prompts. It is opening…]]></summary>
         <author>
             <name>Crypton Studio</name>
         </author>
@@ -100,7 +91,6 @@
         <id>https://medium.com/p/954d1e07805d</id>
         <link href="https://coinsbench.com/rareskills-solidity-interview-question-32-answered-what-is-the-difference-between-transfer-and-954d1e07805d?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-01T13:44:11.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
         </author>
@@ -143,7 +133,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/320cac1e0ce8</id>
         <link href="https://medium.com/coinmonks/why-and-how-to-use-meteoras-dlmm-dynamic-liquidity-market-maker-320cac1e0ce8?source=rss----721b17443fd5---4"/>
         <updated>2024-03-01T09:53:11.000Z</updated>
-        <summary type="html"><![CDATA[On Twitter, Meteora’s bio reads, ‘Building the most dynamic liquidity protocols in DeFi.’ This is true, given their unique DeFi approach…]]></summary>
         <author>
             <name>Harvesto Orlando</name>
         </author>
@@ -195,7 +184,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/67affec86086</id>
         <link href="https://medium.com/coinmonks/the-complete-history-of-bitcoin-and-the-emergence-of-the-cryptocurrency-ecosystem-67affec86086?source=rss----721b17443fd5---4"/>
         <updated>2024-03-01T09:50:54.000Z</updated>
-        <summary type="html"><![CDATA[Uncover the fascinating history and exciting future of cryptocurrencies in this captivating article. From their enigmatic origins to the…]]></summary>
         <author>
             <name>Luis Carlos Morgado</name>
         </author>
@@ -216,7 +204,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/cabc572f6712</id>
         <link href="https://medium.com/coinmonks/endometriosis-self-care-strategies-cabc572f6712?source=rss----721b17443fd5---4"/>
         <updated>2024-03-01T09:50:51.000Z</updated>
-        <summary type="html"><![CDATA[Apple Cider Vinegar: Your Friendly Sip]]></summary>
         <author>
             <name>Sonam Yadav</name>
         </author>
@@ -226,7 +213,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/d1e7394de409</id>
         <link href="https://blog.blockmagnates.com/ethernaut-challenge-level-1-solution-fallback-function-abuse-d1e7394de409?source=rss----18fa961f1eff--solidity"/>
         <updated>2024-02-27T08:27:55.000Z</updated>
-        <summary type="html"><![CDATA[Ethernaut is a CTF challenge by Openzeppelin to learn about common solidity security issues. As I am going to complete all these levels, I…]]></summary>
         <author>
             <name>Shubham Nagar</name>
         </author>
@@ -247,7 +233,6 @@ The post What I learned starting a cryptocurrency podcast appeared first on cryp
         <id>https://medium.com/p/3f4116a2b586</id>
         <link href="https://blog.blockmagnates.com/finding-treasure-in-the-ethereum-sea-3f4116a2b586?source=rss----18fa961f1eff--solidity"/>
         <updated>2024-02-19T16:28:34.000Z</updated>
-        <summary type="html"><![CDATA[1,525 days.]]></summary>
         <author>
             <name>MEVERICK</name>
         </author>
