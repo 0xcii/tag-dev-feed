@@ -59,104 +59,104 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/8379e1674f43",
+          "author": "Abdeldjalil Benharkat",
+          "description": "The goal of this challenge is to claim the ownership of the contract Delegation and not Delegate.",
+          "link": "https://coinsbench.com/ethernaut-challenge-solution-delegation-8379e1674f43?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-04T12:46:02.000Z",
+          "wordCount": 1371,
+          "title": "Ethernaut Challenge Solution: Delegation",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8Ph5oGvJJ8Le0f5DRgrKhQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/d9b01b39fb21",
+          "author": "Abdeldjalil Benharkat",
+          "description": "This challenge is simply requiring you to find a way to make a contract receive ETH even if it doesn’t have any fallback or recieve or any…",
+          "link": "https://coinsbench.com/ethernaut-challange-solution-force-d9b01b39fb21?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-04T12:45:46.000Z",
+          "wordCount": 1369,
+          "title": "Ethernaut Challenge Solution: Force",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8Ph5oGvJJ8Le0f5DRgrKhQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/7048c068ad58",
+          "author": "Simeon Campbell",
+          "description": "A brief article on how and why to use structs and mappings together in Solidity contracts to manage complex data.",
+          "link": "https://coinsbench.com/using-structs-and-mappings-to-manage-complex-data-in-solidity-7048c068ad58?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-04T12:45:35.000Z",
+          "wordCount": 3646,
+          "title": "Using structs and mappings to manage complex data in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*hUIXpEu25_gkQQcphnr4qA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/06f4f909a38e",
+          "author": "Ranjithkumar C",
+          "description": "Smart contracts, the self-executing code on blockchains, require rigorous testing to ensure their security and functionality. Two primary approaches emerge: testing in Javascript and testing directly…",
+          "link": "https://coinsbench.com/smart-contract-testing-javascript-vs-solidity-06f4f909a38e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-04T12:45:32.000Z",
+          "wordCount": 2489,
+          "title": "Smart Contract Testing: Javascript vs Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*-jCKKrXEqY18JY4x.jpg"
+        },
+        {
+          "id": "https://medium.com/p/b931eaf6542c",
+          "author": "Ranjithkumar C",
+          "description": "In the ever-evolving world of blockchain technology, securing smart contracts is paramount. These contracts, essentially self-executing programs, hold and manage valuable assets, making them prime…",
+          "link": "https://coinsbench.com/fuzz-testing-for-smart-contracts-with-foundry-b931eaf6542c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-04T12:45:25.000Z",
+          "wordCount": 2635,
+          "title": "Fuzz Testing for Smart Contracts with Foundry",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*tgXm1e92GyvaxJet.jpg"
+        },
+        {
+          "id": "https://medium.com/p/688bd93a289b",
+          "author": "Ranjithkumar C",
+          "description": "Ethereum, a leading decentralized blockchain platform, is constantly evolving to meet the growing demands of its users. One of the key…",
+          "link": "https://coinsbench.com/ethereums-next-big-step-towards-scaling-danksharding-688bd93a289b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-04T12:45:19.000Z",
+          "wordCount": 2946,
+          "title": "What is Danksharding In Ethereum?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*kO3PhvAUQKf28-_j.png"
+        },
+        {
+          "id": "https://medium.com/p/5a5153ec9e15",
+          "author": "Ranjithkumar C",
+          "description": "In the realm of blockchain technology, oracles play a pivotal role in bridging the gap between the decentralized and immutable world of blockchains and the ever-evolving data landscape of the real…",
+          "link": "https://coinsbench.com/demystifying-blockchain-oracles-unlocking-the-power-of-real-world-data-on-blockchain-5a5153ec9e15?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-04T12:45:05.000Z",
+          "wordCount": 3136,
+          "title": "Demystifying Blockchain Oracles: Unlocking the Power of Real-World Data on Blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*LxwFzmzgQSWwNcjy.png"
+        },
+        {
           "id": "https://medium.com/p/4403230b469c",
           "author": "Shubham Nagar",
-          "description": "",
+          "description": "We have done a blog for the Fallback Function Challenge by Openzepplin (a wargame by Openzepplin). I thought, why not write about some…",
           "link": "https://coinsbench.com/ethernaut-challenge-level-16-solution-preservation-4403230b469c?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-01T13:46:39.000Z",
-          "wordCount": null,
+          "wordCount": 1857,
           "title": "Ethernaut Challenge Level 16: Solution (Preservation)",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:996/1*UzTvdSEW6YSpdnuHk2bjZg.png"
         },
         {
           "id": "https://medium.com/p/ec1c2e58abb9",
           "author": "Abdeldjalil Benharkat",
-          "description": "",
+          "description": "This challenge serves as a practical lesson in understanding and identifying vulnerabilities, specifically integer underflow, in smart…",
           "link": "https://coinsbench.com/ethernaut-challenge-solution-token-ec1c2e58abb9?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-01T13:46:37.000Z",
-          "wordCount": null,
+          "wordCount": 1046,
           "title": "Ethernaut Challenge Solution: Token",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8Ph5oGvJJ8Le0f5DRgrKhQ.jpeg"
         },
         {
           "id": "https://medium.com/p/8fea3415b999",
           "author": "Abdeldjalil Benharkat",
-          "description": "",
+          "description": "The Ethernaut Telephone challenge is designed to test your understanding of two key Ethereum transaction properties: msg.sender and…",
           "link": "https://coinsbench.com/ethernaut-challenge-solution-telephone-8fea3415b999?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-01T13:46:34.000Z",
-          "wordCount": null,
+          "wordCount": 1735,
           "title": "Ethernaut Challenge Solution: Telephone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/727f684d8c1a",
-          "author": "Abdeldjalil Benharkat",
-          "description": "",
-          "link": "https://coinsbench.com/ethernaut-challenge-coin-flip-727f684d8c1a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-01T13:46:32.000Z",
-          "wordCount": null,
-          "title": "Ethernaut Challenge Solution: Coin Flip",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f75ccf2d6cfd",
-          "author": "Abdeldjalil Benharkat",
-          "description": "",
-          "link": "https://coinsbench.com/ethernaut-challenge-solution-hello-ethernaut-f75ccf2d6cfd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-01T13:46:30.000Z",
-          "wordCount": null,
-          "title": "Ethernaut Challenge Solution: Hello Ethernaut",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/96afe4e6cfd0",
-          "author": "Abdeldjalil Benharkat",
-          "description": "",
-          "link": "https://coinsbench.com/ethernaut-challenge-solution-fallout-96afe4e6cfd0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-01T13:46:25.000Z",
-          "wordCount": null,
-          "title": "Ethernaut Challenge Solution: Fallout",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1fda445ce82b",
-          "author": "Abdeldjalil Benharkat",
-          "description": "",
-          "link": "https://coinsbench.com/ethernaut-challenge-solution-fallback-1fda445ce82b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-01T13:44:16.000Z",
-          "wordCount": null,
-          "title": "Ethernaut Challenge Solution: Fallback",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d5ed05dea359",
-          "author": "OUBADI Ahmed",
-          "description": "",
-          "link": "https://coinsbench.com/an-in-depth-explanation-of-fastlybots-mev-sandwich-flashbot-unleashing-the-power-of-frontrunning-d5ed05dea359?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-01T13:44:14.000Z",
-          "wordCount": null,
-          "title": "An In-Depth Explanation of FastlyBot’s MEV Sandwich Flashbot: Unleashing the Power of Frontrunning…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d307760dd8c2",
-          "author": "Crypton Studio",
-          "description": "",
-          "link": "https://coinsbench.com/how-ai-tokens-like-sora-reshape-the-blockchain-and-ai-landscape-d307760dd8c2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-01T13:44:13.000Z",
-          "wordCount": null,
-          "title": "How AI tokens like Sora reshape the blockchain and AI landscape?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/954d1e07805d",
-          "author": "Faybian Byrd",
-          "description": "",
-          "link": "https://coinsbench.com/rareskills-solidity-interview-question-32-answered-what-is-the-difference-between-transfer-and-954d1e07805d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-01T13:44:11.000Z",
-          "wordCount": null,
-          "title": "RareSkills Solidity Interview Question #32 Answered: What is the difference between transfer and…",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8Ph5oGvJJ8Le0f5DRgrKhQ.jpeg"
         }
       ]
     },
@@ -178,12 +178,12 @@
         {
           "id": "https://medium.com/p/d74f712fe756",
           "author": "Sovereign Crypto",
-          "description": "",
+          "description": "Bi-Weekly Update #12 — First Big Winner (13X), Seed & Private Sales, BRC20s",
           "link": "https://medium.com/coinmonks/turning-2k-into-100k-in-crypto-altcoin-portfolio-update-12-d74f712fe756?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-04T09:40:51.000Z",
-          "wordCount": null,
+          "wordCount": 1821,
           "title": "Turning $2K into $100K in Crypto — Altcoin Portfolio Update #12",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BWL0rewLqg3wtjnuV7ygBQ.png"
         },
         {
           "id": "https://medium.com/p/e72e98a520aa",
@@ -191,37 +191,37 @@
           "description": "In the realm of digital assets, the question on every investor’s mind reverberates like an echo in the vast expanse of the blockchain:\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/how-long-will-the-crypto-bull-run-last-e72e98a520aa?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-04T09:40:39.000Z",
-          "wordCount": null,
+          "wordCount": 1455,
           "title": "How Long Will The Crypto Bull run LAST?",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Iji7yGp_Uk2h1Mne.png"
         },
         {
           "id": "https://medium.com/p/6cde8ab5c1d6",
           "author": "Sovereign Crypto",
-          "description": "",
+          "description": "Part 1: Core Positions (Mid and Large Cap Altcoins)",
           "link": "https://medium.com/coinmonks/altcoin-portfolio-update-6cde8ab5c1d6?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-04T09:40:23.000Z",
-          "wordCount": null,
+          "wordCount": 4728,
           "title": "Altcoin Portfolio Update",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uaxBF8k9N9sPfPrtSh7WzQ.png"
         },
         {
           "id": "https://medium.com/p/05440ee59581",
           "author": "Coin Genetics",
-          "description": "",
+          "description": "Hey there crypto crew, it’s your favorite crypto comedian, Durgesh, back with another hilarious scoop from the wild world of…",
           "link": "https://medium.com/coinmonks/microstrategys-michael-saylor-a-billion-dollar-journey-through-bitcoin-s-surge-05440ee59581?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-04T09:40:20.000Z",
-          "wordCount": null,
+          "wordCount": 1683,
           "title": "MicroStrategy’s Michael Saylor: A Billion-Dollar Journey Through Bitcoin’s Surge.",
           "imageUrl": null
         },
         {
           "id": "https://medium.com/p/597fae7d5141",
           "author": "Coin Genetics",
-          "description": "",
+          "description": "🎉 Hey there, crypto crew! Big news from Robinhood: they’re teaming up with Arbitrum for some super-smooth crypto swaps! 🚀",
           "link": "https://medium.com/coinmonks/robinhood-partners-with-arbitrum-simplifying-crypto-swaps-for-defi-access-597fae7d5141?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-04T09:40:13.000Z",
-          "wordCount": null,
+          "wordCount": 1426,
           "title": "Robinhood Partners with Arbitrum: Simplifying Crypto Swaps for DeFi Access.",
           "imageUrl": null
         },
@@ -251,9 +251,9 @@
           "description": "Navigating the Crypto Tightrope\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/unlocking-crypto-success-my-exit-strategy-for-bitcoin-and-altcoins-revealed-a3e5203e3f4d?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-04T09:17:38.000Z",
-          "wordCount": null,
+          "wordCount": 1493,
           "title": "Unlocking Crypto Success: My Exit Strategy for Bitcoin and Altcoins Revealed!",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*kxPKXu2_a-UpwMVx"
         },
         {
           "id": "https://medium.com/p/931fe52af451",
@@ -275,22 +275,22 @@
         {
           "id": "https://medium.com/p/d1e7394de409",
           "author": "Shubham Nagar",
-          "description": "",
+          "description": "Ethernaut is a CTF challenge by Openzeppelin to learn about common solidity security issues. As I am going to complete all these levels, I…",
           "link": "https://blog.blockmagnates.com/ethernaut-challenge-level-1-solution-fallback-function-abuse-d1e7394de409?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-02-27T08:27:55.000Z",
-          "wordCount": null,
+          "wordCount": 1741,
           "title": "Ethernaut Challenge Level 1: Solution (Fallback Function Abuse)",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:527/1*q_Yiqo9aclmeu5KOcpt0bg.png"
         },
         {
           "id": "https://medium.com/p/3f4116a2b586",
           "author": "MEVERICK",
-          "description": "",
+          "description": "1,525 days.",
           "link": "https://blog.blockmagnates.com/finding-treasure-in-the-ethereum-sea-3f4116a2b586?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-02-19T16:28:34.000Z",
-          "wordCount": null,
+          "wordCount": 1794,
           "title": "Finding Treasure in the Ethereum Sea",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*L0iXRKtFu809RSpHpyP4Iw.png"
         }
       ]
     },
