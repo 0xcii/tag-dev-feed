@@ -59,6 +59,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/9971c6b521a3",
+          "author": "superical",
+          "description": "",
+          "link": "https://coinsbench.com/foundry-code-snippets-to-get-started-quickly-in-your-solidity-testing-9971c6b521a3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-11T15:48:26.000Z",
+          "wordCount": null,
+          "title": "Foundry code snippets to get started quickly in your Solidity Testing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c85ec7503bc1",
+          "author": "RickyYang",
+          "description": "In the Ethereum blockchain, every execution of smart contracts requires the consumption of Gas — a unit of measure that quantifies the…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/understanding-and-optimizing-gas-consumption-c85ec7503bc1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-11T15:48:24.000Z",
+          "wordCount": null,
+          "title": "Understanding and Optimizing Gas Consumption",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3031dd283f42",
+          "author": "RickyYang",
+          "description": "Smart contracts represent a cornerstone innovation within blockchain technology, autonomously executing, controlling, or documenting…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/smart-contracts-the-10-key-points-you-must-know-3031dd283f42?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-11T15:48:22.000Z",
+          "wordCount": null,
+          "title": "Smart Contracts: The 10 Key Points You Must Know",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c7426c3f2cb1",
+          "author": "RickyYang",
+          "description": "On May 8, 2023, the digital chatter around BRC20 tokens ignited from a single tweet. This tweet wasn’t just another drop in the ocean of…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/understand-the-brc20-by-watching-the-btc-transactions-c7426c3f2cb1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-11T15:48:19.000Z",
+          "wordCount": null,
+          "title": "Understand the BRC20 By Watching the BTC Transactions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0a3993d1cc15",
+          "author": "RickyYang",
+          "description": "At first glance, “404” might remind you of the HTTP 404 Not Found error, but in the Ethereum blockchain world, it represents a new…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/pandora-what-is-erc-404-0a3993d1cc15?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-11T15:48:17.000Z",
+          "wordCount": null,
+          "title": "Pandora, What is ERC-404?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b7215db4b633",
+          "author": "Abdeldjalil Benharkat",
+          "description": "",
+          "link": "https://coinsbench.com/ethernaut-challenge-solution-re-entrancy-b7215db4b633?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-11T15:48:15.000Z",
+          "wordCount": null,
+          "title": "Ethernaut Challenge Solution: Re-entrancy",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/f3d5a80685db",
           "author": "Ranjithkumar C",
           "description": "",
@@ -97,66 +157,6 @@
           "wordCount": null,
           "title": "Ethernaut Challenge Solution: King",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/98789bf03caf",
-          "author": "Pedro",
-          "description": "",
-          "link": "https://coinsbench.com/lnm-custom-cross-chain-erc20-token-98789bf03caf?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-05T16:30:47.000Z",
-          "wordCount": null,
-          "title": "LnM Custom Cross-Chain ERC20 TOKEN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0b6293e157c9",
-          "author": "Abdeldjalil Benharkat",
-          "description": "",
-          "link": "https://coinsbench.com/ethernaut-challenge-solution-vault-0b6293e157c9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-05T16:30:44.000Z",
-          "wordCount": null,
-          "title": "Ethernaut Challenge Solution: Vault",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/083686993848",
-          "author": "Ranjithkumar C",
-          "description": "",
-          "link": "https://coinsbench.com/patterns-for-upgradeable-smart-contracts-083686993848?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-05T16:30:41.000Z",
-          "wordCount": null,
-          "title": "Patterns for Upgradeable Smart Contracts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8379e1674f43",
-          "author": "Abdeldjalil Benharkat",
-          "description": "",
-          "link": "https://coinsbench.com/ethernaut-challenge-solution-delegation-8379e1674f43?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-04T12:46:02.000Z",
-          "wordCount": null,
-          "title": "Ethernaut Challenge Solution: Delegation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d9b01b39fb21",
-          "author": "Abdeldjalil Benharkat",
-          "description": "",
-          "link": "https://coinsbench.com/ethernaut-challange-solution-force-d9b01b39fb21?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-04T12:45:46.000Z",
-          "wordCount": null,
-          "title": "Ethernaut Challenge Solution: Force",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7048c068ad58",
-          "author": "Simeon Campbell",
-          "description": "",
-          "link": "https://coinsbench.com/using-structs-and-mappings-to-manage-complex-data-in-solidity-7048c068ad58?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-04T12:45:35.000Z",
-          "wordCount": null,
-          "title": "Using structs and mappings to manage complex data in Solidity",
-          "imageUrl": null
         }
       ]
     },
@@ -168,12 +168,12 @@
         {
           "id": "https://medium.com/p/3269f3c7147f",
           "author": "Harshita Katiyar",
-          "description": "",
+          "description": "Through leverage, forex traders may profit from changes in currency pairings. Leverage allows traders to start bigger positions with less…",
           "link": "https://medium.com/coinmonks/top-forex-brokers-3269f3c7147f?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-11T14:06:51.000Z",
-          "wordCount": null,
+          "wordCount": 4773,
           "title": "Top forex brokers",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*X2zzgyss4icfYEe3WhDnIw.png"
         },
         {
           "id": "https://medium.com/p/b34bde000cf1",
@@ -221,9 +221,9 @@
           "description": "Follow the publication Areas & Producers for more content about global commodities markets.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/the-latest-mining-agriculture-news-from-areas-producers-157e13783183?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-11T12:46:38.000Z",
-          "wordCount": null,
+          "wordCount": 1618,
           "title": "The Latest Mining & Agriculture News From Areas & Producers!",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:945/0*Uh_oiwJvPy-HBaZv"
         },
         {
           "id": "https://medium.com/p/315793f63e15",
@@ -272,6 +272,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/03dd0a7778ac",
+          "author": "Siddhant Kulkarni",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/building-a-dapp-using-scaffold-eth-2-and-the-graph-03dd0a7778ac?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-03-11T15:50:41.000Z",
+          "wordCount": null,
+          "title": "Building a dApp using Scaffold-ETH 2 and The Graph",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/d1e7394de409",
           "author": "Shubham Nagar",

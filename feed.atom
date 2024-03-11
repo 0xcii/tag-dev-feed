@@ -1,15 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-11T15:12:59.483Z</id>
+    <id>urn:2024-03-11T16:14:42.687Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-11T15:12:59.483Z</updated>
+    <updated>2024-03-11T16:14:42.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building a dApp using Scaffold-ETH 2 and The Graph]]></title>
+        <id>https://medium.com/p/03dd0a7778ac</id>
+        <link href="https://blog.blockmagnates.com/building-a-dapp-using-scaffold-eth-2-and-the-graph-03dd0a7778ac?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-03-11T15:50:41.000Z</updated>
+        <author>
+            <name>Siddhant Kulkarni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundry code snippets to get started quickly in your Solidity Testing]]></title>
+        <id>https://medium.com/p/9971c6b521a3</id>
+        <link href="https://coinsbench.com/foundry-code-snippets-to-get-started-quickly-in-your-solidity-testing-9971c6b521a3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-11T15:48:26.000Z</updated>
+        <author>
+            <name>superical</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding and Optimizing Gas Consumption]]></title>
+        <id>https://medium.com/p/c85ec7503bc1</id>
+        <link href="https://coinsbench.com/understanding-and-optimizing-gas-consumption-c85ec7503bc1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-11T15:48:24.000Z</updated>
+        <summary type="html"><![CDATA[In the Ethereum blockchain, every execution of smart contracts requires the consumption of Gas — a unit of measure that quantifies the…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>RickyYang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contracts: The 10 Key Points You Must Know]]></title>
+        <id>https://medium.com/p/3031dd283f42</id>
+        <link href="https://coinsbench.com/smart-contracts-the-10-key-points-you-must-know-3031dd283f42?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-11T15:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts represent a cornerstone innovation within blockchain technology, autonomously executing, controlling, or documenting…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>RickyYang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understand the BRC20 By Watching the BTC Transactions]]></title>
+        <id>https://medium.com/p/c7426c3f2cb1</id>
+        <link href="https://coinsbench.com/understand-the-brc20-by-watching-the-btc-transactions-c7426c3f2cb1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-11T15:48:19.000Z</updated>
+        <summary type="html"><![CDATA[On May 8, 2023, the digital chatter around BRC20 tokens ignited from a single tweet. This tweet wasn’t just another drop in the ocean of…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>RickyYang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandora, What is ERC-404?]]></title>
+        <id>https://medium.com/p/0a3993d1cc15</id>
+        <link href="https://coinsbench.com/pandora-what-is-erc-404-0a3993d1cc15?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-11T15:48:17.000Z</updated>
+        <summary type="html"><![CDATA[At first glance, “404” might remind you of the HTTP 404 Not Found error, but in the Ethereum blockchain world, it represents a new…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>RickyYang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethernaut Challenge Solution: Re-entrancy]]></title>
+        <id>https://medium.com/p/b7215db4b633</id>
+        <link href="https://coinsbench.com/ethernaut-challenge-solution-re-entrancy-b7215db4b633?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-11T15:48:15.000Z</updated>
+        <author>
+            <name>Abdeldjalil Benharkat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top forex brokers]]></title>
         <id>https://medium.com/p/3269f3c7147f</id>
         <link href="https://medium.com/coinmonks/top-forex-brokers-3269f3c7147f?source=rss----721b17443fd5---4"/>
         <updated>2024-03-11T14:06:51.000Z</updated>
+        <summary type="html"><![CDATA[Through leverage, forex traders may profit from changes in currency pairings. Leverage allows traders to start bigger positions with less…]]></summary>
         <author>
             <name>Harshita Katiyar</name>
         </author>
@@ -138,33 +210,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LnM Custom Cross-Chain ERC20 TOKEN]]></title>
-        <id>https://medium.com/p/98789bf03caf</id>
-        <link href="https://coinsbench.com/lnm-custom-cross-chain-erc20-token-98789bf03caf?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-05T16:30:47.000Z</updated>
-        <author>
-            <name>Pedro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethernaut Challenge Solution: Vault]]></title>
-        <id>https://medium.com/p/0b6293e157c9</id>
-        <link href="https://coinsbench.com/ethernaut-challenge-solution-vault-0b6293e157c9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-05T16:30:44.000Z</updated>
-        <author>
-            <name>Abdeldjalil Benharkat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patterns for Upgradeable Smart Contracts]]></title>
-        <id>https://medium.com/p/083686993848</id>
-        <link href="https://coinsbench.com/patterns-for-upgradeable-smart-contracts-083686993848?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-05T16:30:41.000Z</updated>
-        <author>
-            <name>Ranjithkumar C</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This crypto trading bot can take advantage of crypto market volatility]]></title>
         <id>https://www.cryptomaton.org/?p=1687</id>
         <link href="https://www.cryptomaton.org/2024/03/04/this-crypto-trading-bot-can-take-advantage-of-crypto-market-volatility/"/>
@@ -173,33 +218,6 @@ Continue reading on Coinmonks »]]></summary>
 The post This crypto trading bot can take advantage of crypto market volatility appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethernaut Challenge Solution: Delegation]]></title>
-        <id>https://medium.com/p/8379e1674f43</id>
-        <link href="https://coinsbench.com/ethernaut-challenge-solution-delegation-8379e1674f43?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-04T12:46:02.000Z</updated>
-        <author>
-            <name>Abdeldjalil Benharkat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethernaut Challenge Solution: Force]]></title>
-        <id>https://medium.com/p/d9b01b39fb21</id>
-        <link href="https://coinsbench.com/ethernaut-challange-solution-force-d9b01b39fb21?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-04T12:45:46.000Z</updated>
-        <author>
-            <name>Abdeldjalil Benharkat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using structs and mappings to manage complex data in Solidity]]></title>
-        <id>https://medium.com/p/7048c068ad58</id>
-        <link href="https://coinsbench.com/using-structs-and-mappings-to-manage-complex-data-in-solidity-7048c068ad58?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-04T12:45:35.000Z</updated>
-        <author>
-            <name>Simeon Campbell</name>
         </author>
     </entry>
     <entry>
