@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-12T14:10:57.300Z</id>
+    <id>urn:2024-03-12T15:11:51.474Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-12T14:10:57.300Z</updated>
+    <updated>2024-03-12T15:11:51.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Most promising AI token in 2024 in Web3]]></title>
+        <id>https://medium.com/p/83bd22747db5</id>
+        <link href="https://medium.com/coinmonks/gtai-is-the-most-hyped-and-promising-token-in-2024-83bd22747db5?source=rss----721b17443fd5---4"/>
+        <updated>2024-03-12T14:15:36.000Z</updated>
+        <author>
+            <name>Harshita Katiyar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hong Kong Monetary Authority Initiates Regulatory Sandbox for Stablecoin Issuers.]]></title>
         <id>https://medium.com/p/733ebe322a05</id>
@@ -20,7 +29,6 @@
         <id>https://medium.com/p/e4c693afa036</id>
         <link href="https://medium.com/coinmonks/bitcoin-blasts-past-its-all-time-high-70k-250k-on-its-way-e4c693afa036?source=rss----721b17443fd5---4"/>
         <updated>2024-03-12T10:46:26.000Z</updated>
-        <summary type="html"><![CDATA[PRDT Weekly Deep Dive — 12 March 2024]]></summary>
         <author>
             <name>PRDT Finance</name>
         </author>
@@ -30,7 +38,6 @@
         <id>https://medium.com/p/a14ad2f4c4bd</id>
         <link href="https://medium.com/coinmonks/unveiling-the-future-a-deep-dive-into-metamask-like-crypto-wallet-development-a14ad2f4c4bd?source=rss----721b17443fd5---4"/>
         <updated>2024-03-12T10:46:26.000Z</updated>
-        <summary type="html"><![CDATA[In the rapidly evolving landscape of blockchain and cryptocurrencies, the demand for secure, user-friendly, and versatile crypto wallets is…]]></summary>
         <author>
             <name>Allan Jackob</name>
         </author>
@@ -67,7 +74,6 @@
         <id>https://medium.com/p/0b50e64e9a5c</id>
         <link href="https://medium.com/coinmonks/ethereums-elephants-lido-0b50e64e9a5c?source=rss----721b17443fd5---4"/>
         <updated>2024-03-12T10:46:13.000Z</updated>
-        <summary type="html"><![CDATA[With centralization being Ethereum’s current state, it is its main problem. This elephant has manifested itself in different ways. In part…]]></summary>
         <author>
             <name>Jeremiah John</name>
         </author>
@@ -90,26 +96,6 @@
 Continue reading on Coinmonks »]]></summary>
         <author>
             <name>PVMihalache</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curious Cryptos’ Commentary 12th March 2024 — Wyoming & Bitwise.]]></title>
-        <id>https://medium.com/p/3063bb403c0e</id>
-        <link href="https://medium.com/coinmonks/curious-cryptos-commentary-12th-march-2024-wyoming-bitwise-3063bb403c0e?source=rss----721b17443fd5---4"/>
-        <updated>2024-03-12T08:49:11.000Z</updated>
-        <summary type="html"><![CDATA[tl;dr
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Mark Timmis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a dApp using Scaffold-ETH 2 and The Graph]]></title>
-        <id>https://medium.com/p/03dd0a7778ac</id>
-        <link href="https://blog.blockmagnates.com/building-a-dapp-using-scaffold-eth-2-and-the-graph-03dd0a7778ac?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-03-11T15:50:41.000Z</updated>
-        <author>
-            <name>Siddhant Kulkarni</name>
         </author>
     </entry>
     <entry>
@@ -233,15 +219,6 @@ The post It’s time to abstract from the complexity of blockchain | #13 POT: Th
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethernaut Challenge Level 1: Solution (Fallback Function Abuse)]]></title>
-        <id>https://medium.com/p/d1e7394de409</id>
-        <link href="https://blog.blockmagnates.com/ethernaut-challenge-level-1-solution-fallback-function-abuse-d1e7394de409?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-02-27T08:27:55.000Z</updated>
-        <author>
-            <name>Shubham Nagar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What I learned starting a cryptocurrency podcast]]></title>
         <id>https://www.cryptomaton.org/?p=1676</id>
         <link href="https://www.cryptomaton.org/2024/02/24/what-i-learned-starting-a-cryptocurrency-podcast/"/>
@@ -250,15 +227,6 @@ The post It’s time to abstract from the complexity of blockchain | #13 POT: Th
 The post What I learned starting a cryptocurrency podcast appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding Treasure in the Ethereum Sea]]></title>
-        <id>https://medium.com/p/3f4116a2b586</id>
-        <link href="https://blog.blockmagnates.com/finding-treasure-in-the-ethereum-sea-3f4116a2b586?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-02-19T16:28:34.000Z</updated>
-        <author>
-            <name>MEVERICK</name>
         </author>
     </entry>
     <entry>
