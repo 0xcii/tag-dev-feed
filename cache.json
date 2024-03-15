@@ -59,54 +59,74 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a3f7b0843627",
+          "author": "MLBot",
+          "description": "This post is going to be the fifblog of the MakeTheBlockchainSimpler series. When I started exploring this field, I felt so difficulty in…",
+          "link": "https://coinsbench.com/maketheblockchainsimpler-my-learnings-from-cryptozombies-part-1-a3f7b0843627?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-15T13:21:45.000Z",
+          "wordCount": 1807,
+          "title": "MakeTheBlockchainSimpler — My learnings from CryptoZombies Part#1",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*hFBItV5ZZ5CWl6pq"
+        },
+        {
+          "id": "https://medium.com/p/41a293fe7078",
+          "author": "Franck Maussand",
+          "description": "Let’s explore the visibility of functions in smart contracts written in Rust on Solana. We will draw parallels with contracts in Solidity.",
+          "link": "https://coinsbench.com/solana-ethereum-function-visibility-41a293fe7078?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-15T13:21:43.000Z",
+          "wordCount": 4931,
+          "title": "Solana / Ethereum: Function Visibility",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1059/1*UTElpXadd7jOVUdEHFSRCQ.png"
+        },
+        {
           "id": "https://medium.com/p/7445ce1e295f",
           "author": "RickyYang",
           "description": "In the past year, inscriptions have undoubtedly been a very hot digital asset, among which BRC-420 is a very influential project. So, what…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/what-is-brc-420-7445ce1e295f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-14T13:02:09.000Z",
-          "wordCount": null,
+          "wordCount": 1451,
           "title": "What is BRC-420",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*dFuPu6GIG0Sor2DRl39Zow.jpeg"
         },
         {
           "id": "https://medium.com/p/b9df634b89e1",
           "author": "typicalHuman",
-          "description": "",
+          "description": "Repository — https://github.com/typicalHuman/damn-vulnerable-defi-foundry-solutions",
           "link": "https://coinsbench.com/damn-vulnerable-defi-solutions-foundry-b9df634b89e1?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-14T13:02:06.000Z",
-          "wordCount": null,
+          "wordCount": 2617,
           "title": "Damn Vulnerable Defi Solutions (Foundry)",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1006/0*8tt1FQMy0mTTAFAO.png"
         },
         {
           "id": "https://medium.com/p/a4159fb34d19",
           "author": "Serdar Ulutas",
-          "description": "",
+          "description": "Blockchain is still a buzzword to most of us. Many people believe that blockchain is only about cryptocurrencies, where people buy and sell tokens to earn profits on crypto exchanges. Yes…",
           "link": "https://coinsbench.com/securing-the-vote-how-blockchain-can-safeguard-elections-a4159fb34d19?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-14T13:02:04.000Z",
-          "wordCount": null,
+          "wordCount": 7432,
           "title": "Securing the Vote: How Blockchain Can Safeguard Elections",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*UdDuEHp14313Bj75"
         },
         {
           "id": "https://medium.com/p/5b027097d5fd",
           "author": "Ranjithkumar C",
-          "description": "",
+          "description": "When it comes to building decentralized applications (dApps) on the Ethereum blockchain, two JavaScript libraries dominate the scene: Web3.js and Ethers.js. Both offer powerful functionalities, but…",
           "link": "https://coinsbench.com/web3-js-vs-ethers-js-ethereum-dapp-5b027097d5fd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-14T13:02:02.000Z",
-          "wordCount": null,
+          "wordCount": 2658,
           "title": "Web3.js vs. Ethers.js : Ethereum Dapp",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*cEH1e8EmV20_9uJF.jpg"
         },
         {
           "id": "https://medium.com/p/9971c6b521a3",
           "author": "superical",
-          "description": "",
+          "description": "I’ve spent a considerable amount of time using Hardhat for my Solidity smart contract development and it has proven to be a great tool with…",
           "link": "https://coinsbench.com/foundry-code-snippets-to-get-started-quickly-in-your-solidity-testing-9971c6b521a3?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-11T15:48:26.000Z",
-          "wordCount": null,
+          "wordCount": 3768,
           "title": "Foundry code snippets to get started quickly in your Solidity Testing",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*zTAZ75RmZTI-FhgK.png"
         },
         {
           "id": "https://medium.com/p/c85ec7503bc1",
@@ -114,9 +134,9 @@
           "description": "In the Ethereum blockchain, every execution of smart contracts requires the consumption of Gas — a unit of measure that quantifies the…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/understanding-and-optimizing-gas-consumption-c85ec7503bc1?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-11T15:48:24.000Z",
-          "wordCount": null,
+          "wordCount": 1524,
           "title": "Understanding and Optimizing Gas Consumption",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*L_BrZB04ZgAjiVyv3jsgWA.png"
         },
         {
           "id": "https://medium.com/p/3031dd283f42",
@@ -124,9 +144,9 @@
           "description": "Smart contracts represent a cornerstone innovation within blockchain technology, autonomously executing, controlling, or documenting…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/smart-contracts-the-10-key-points-you-must-know-3031dd283f42?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-11T15:48:22.000Z",
-          "wordCount": null,
+          "wordCount": 1228,
           "title": "Smart Contracts: The 10 Key Points You Must Know",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JnKQ9sR6NeXJ_Ca1JeMJjw.png"
         },
         {
           "id": "https://medium.com/p/c7426c3f2cb1",
@@ -134,29 +154,9 @@
           "description": "On May 8, 2023, the digital chatter around BRC20 tokens ignited from a single tweet. This tweet wasn’t just another drop in the ocean of…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/understand-the-brc20-by-watching-the-btc-transactions-c7426c3f2cb1?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-11T15:48:19.000Z",
-          "wordCount": null,
+          "wordCount": 1266,
           "title": "Understand the BRC20 By Watching the BTC Transactions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0a3993d1cc15",
-          "author": "RickyYang",
-          "description": "At first glance, “404” might remind you of the HTTP 404 Not Found error, but in the Ethereum blockchain world, it represents a new…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/pandora-what-is-erc-404-0a3993d1cc15?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-11T15:48:17.000Z",
-          "wordCount": null,
-          "title": "Pandora, What is ERC-404?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b7215db4b633",
-          "author": "Abdeldjalil Benharkat",
-          "description": "",
-          "link": "https://coinsbench.com/ethernaut-challenge-solution-re-entrancy-b7215db4b633?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-11T15:48:15.000Z",
-          "wordCount": null,
-          "title": "Ethernaut Challenge Solution: Re-entrancy",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*k0_eWktbE4ccd-8oGxe21Q.png"
         }
       ]
     },
@@ -168,102 +168,102 @@
         {
           "id": "https://medium.com/p/6c091058ea05",
           "author": "Thomsonrichard",
-          "description": "",
+          "description": "In the dynamic landscape of business operations, leveraging innovative technologies has become imperative for staying ahead of the curve…",
           "link": "https://medium.com/coinmonks/looking-for-the-perfect-erp-ai-chatbot-how-to-choose-the-right-one-for-your-business-6c091058ea05?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-15T12:54:48.000Z",
-          "wordCount": null,
+          "wordCount": 6631,
           "title": "Looking for the Perfect ERP AI Chatbot: How to Choose the Right One for Your Business",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Rulw9jl-5VQw9PqlmVaDGg.png"
         },
         {
           "id": "https://medium.com/p/52be09c56419",
           "author": "Thomsonrichard",
-          "description": "",
+          "description": "In the ever-evolving and dynamic landscape of finance, traditional investment vehicles are experiencing a profound metamorphosis, propelled…",
           "link": "https://medium.com/coinmonks/how-will-the-tokenization-of-open-end-and-closed-end-funds-transform-traditional-investments-52be09c56419?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-15T12:54:41.000Z",
-          "wordCount": null,
+          "wordCount": 4583,
           "title": "How Will the Tokenization of Open-End and Closed-End Funds Transform Traditional Investments?",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:931/1*Y14pVi8AWuRvAA_dllxl4g.png"
         },
         {
           "id": "https://medium.com/p/484ad4a86d1c",
           "author": "Andrew Miller",
-          "description": "",
+          "description": "The rise of online platforms has significantly expanded the potential growth opportunities for the gaming industry, particularly in the…",
           "link": "https://medium.com/coinmonks/multigaming-platform-development-how-does-it-benefit-your-business-484ad4a86d1c?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-15T12:32:11.000Z",
-          "wordCount": null,
+          "wordCount": 2386,
           "title": "Multigaming Platform Development: How Does it Benefit Your Business",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lnGLgIRk2tiTpY3ri-es1Q.jpeg"
         },
         {
           "id": "https://medium.com/p/fccc2b174fab",
           "author": "Aman Amarwal",
-          "description": "",
+          "description": "Here is the full guide for ICO development strategies, develop your own ICO platform with Technoloader that is best ICO development…",
           "link": "https://medium.com/coinmonks/what-are-the-ico-development-strategies-to-be-followed-in-2024-fccc2b174fab?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-15T12:32:08.000Z",
-          "wordCount": null,
+          "wordCount": 2364,
           "title": "What are the ICO development strategies to be followed in 2024?",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*QIWZJPjIZMEF6UmmddaJ0w.png"
         },
         {
           "id": "https://medium.com/p/527462c11264",
           "author": "MoneySourceDeals",
-          "description": "",
+          "description": "Post By MoneySourceDeals",
           "link": "https://medium.com/coinmonks/51-attack-definition-who-is-at-risk-example-and-cost-527462c11264?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-15T12:31:42.000Z",
-          "wordCount": null,
+          "wordCount": 3823,
           "title": "51% Attack: Definition, Who Is At Risk, Example, and Cost",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rhVvLkMWoDUIdoctFmoq0Q.jpeg"
         },
         {
           "id": "https://medium.com/p/656ca7a38a17",
           "author": "Systango",
-          "description": "",
+          "description": "The ever-evolving landscape of financial technology (Fintech) presents a wealth of opportunities for businesses to streamline operations…",
           "link": "https://medium.com/coinmonks/5-innovative-fintech-app-development-ideas-for-business-owners-656ca7a38a17?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-15T10:53:36.000Z",
-          "wordCount": null,
+          "wordCount": 2865,
           "title": "5 Innovative Fintech App Development Ideas for Business Owners",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WYxJFylmYxD5khdUnE-8UA.jpeg"
         },
         {
           "id": "https://medium.com/p/cb03cdd81a3c",
           "author": "Rachel Grace",
-          "description": "",
+          "description": "Understand carbon credit tokenization & its role in combating climate change. Explore benefits, applications, and the future of this…",
           "link": "https://medium.com/coinmonks/carbon-credit-tokenization-the-complete-guide-cb03cdd81a3c?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-15T10:53:36.000Z",
-          "wordCount": null,
+          "wordCount": 2476,
           "title": "Carbon Credit Tokenization: The Complete Guide",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Kacyo-ivyGF1Ehm667xNgA.jpeg"
         },
         {
           "id": "https://medium.com/p/1c95cf6c3ed0",
           "author": "Crypto with Roberto",
-          "description": "",
+          "description": "Join the Testnet Fun and Earn Rewards Just by Participating — No Dollars Needed, Just Your Crypto Spirit!",
           "link": "https://medium.com/coinmonks/enter-the-crypto-wonderland-monoswap-unveils-the-ultimate-decentralized-playground-1c95cf6c3ed0?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-15T10:53:30.000Z",
-          "wordCount": null,
+          "wordCount": 2046,
           "title": "Enter the Crypto Wonderland: MonoSwap Unveils the Ultimate Decentralized Playground!",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*XklIFrGB0KHXgCSC-JybZQ.png"
         },
         {
           "id": "https://medium.com/p/c24c40250e94",
           "author": "Deniz Tutku",
-          "description": "",
+          "description": "The cryptocurrency market is constantly evolving. Every day, new integrations, updates, and other important events take place that bring…",
           "link": "https://medium.com/coinmonks/weekly-crypto-news-mempool-solana-shuts-down-police-integrate-cardano-into-their-work-whitebit-c24c40250e94?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-15T10:53:27.000Z",
-          "wordCount": null,
+          "wordCount": 3171,
           "title": "Weekly Crypto News: Mempool Solana Shuts Down, Police Integrate Cardano Into Their Work, WhiteBIT…",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*zSkeempxLDsROxd-yIdLkg.jpeg"
         },
         {
           "id": "https://medium.com/p/d5e70ad3b170",
           "author": "36Crypto",
-          "description": "",
+          "description": "Following a massive bull run that saw the price of Bitcoin, the largest cryptocurrency by market cap, surge to a new all-time high, the…",
           "link": "https://medium.com/coinmonks/cardano-price-prediction-is-a-pump-above-0-80-imminent-d5e70ad3b170?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-15T10:53:23.000Z",
-          "wordCount": null,
+          "wordCount": 1846,
           "title": "Cardano Price Prediction: Is a Pump Above $0.80 Imminent?",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-3h1T8PpQDi1lfAcmQqUTw.jpeg"
         }
       ]
     },
@@ -275,32 +275,32 @@
         {
           "id": "https://medium.com/p/641e4e24f7af",
           "author": "Bytebots Systems",
-          "description": "",
+          "description": "In recent years, the concept of asset tokenization has gained significant traction in various industries. Asset tokenization involves…",
           "link": "https://blog.blockmagnates.com/unlocking-asset-tokenization-potential-the-role-and-impact-of-smart-contracts-in-bytebots-systems-641e4e24f7af?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-03-14T13:14:29.000Z",
-          "wordCount": null,
+          "wordCount": 1935,
           "title": "Unlocking Asset Tokenization Potential: The Role and Impact of Smart Contracts in Bytebots Systems",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:938/1*jP3fEVdpHYXZBnGxIbf0Sg.jpeg"
         },
         {
           "id": "https://medium.com/p/d1e7394de409",
           "author": "Shubham Nagar",
-          "description": "",
+          "description": "Ethernaut is a CTF challenge by Openzeppelin to learn about common solidity security issues. As I am going to complete all these levels, I…",
           "link": "https://blog.blockmagnates.com/ethernaut-challenge-level-1-solution-fallback-function-abuse-d1e7394de409?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-02-27T08:27:55.000Z",
-          "wordCount": null,
+          "wordCount": 1741,
           "title": "Ethernaut Challenge Level 1: Solution (Fallback Function Abuse)",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:527/1*q_Yiqo9aclmeu5KOcpt0bg.png"
         },
         {
           "id": "https://medium.com/p/3f4116a2b586",
           "author": "MEVERICK",
-          "description": "",
+          "description": "1,525 days.",
           "link": "https://blog.blockmagnates.com/finding-treasure-in-the-ethereum-sea-3f4116a2b586?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-02-19T16:28:34.000Z",
-          "wordCount": null,
+          "wordCount": 1794,
           "title": "Finding Treasure in the Ethereum Sea",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*L0iXRKtFu809RSpHpyP4Iw.png"
         }
       ]
     },
