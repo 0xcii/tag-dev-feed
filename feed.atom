@@ -1,16 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-22T17:10:16.473Z</id>
+    <id>urn:2024-03-22T18:14:55.059Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-22T17:10:16.473Z</updated>
+    <updated>2024-03-22T18:14:55.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[COMMON VULNERABILITIES: REENTRANCY PART — I]]></title>
+        <id>https://medium.com/p/3fe928489ef0</id>
+        <link href="https://coinsbench.com/common-vulnerabilities-reentrancy-part-i-3fe928489ef0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-22T17:20:20.000Z</updated>
+        <author>
+            <name>Logesh N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Historical Summary of Solana]]></title>
+        <id>https://medium.com/p/9bd664ef9a5b</id>
+        <link href="https://coinsbench.com/historical-summary-of-solana-9bd664ef9a5b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-22T17:20:18.000Z</updated>
+        <author>
+            <name>Judith Manyo Ogar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COMMON VULNERABILITIES: UNCHECKED EXTERNAL CALLS]]></title>
+        <id>https://medium.com/p/7eea119138b2</id>
+        <link href="https://coinsbench.com/common-vulnerabilities-unchecked-external-calls-7eea119138b2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-22T17:20:16.000Z</updated>
+        <author>
+            <name>Logesh N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COMMON VULNERABILITIES: INTEGER OVERFLOW / UNDERFLOW]]></title>
+        <id>https://medium.com/p/7ed958ba8ef9</id>
+        <link href="https://coinsbench.com/common-vulnerabilities-integer-overflow-underflow-7ed958ba8ef9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-22T17:20:14.000Z</updated>
+        <author>
+            <name>Logesh N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COMMON VULNERABILITIES: REENTRANCY PART — II]]></title>
+        <id>https://medium.com/p/98cb1719c0e2</id>
+        <link href="https://coinsbench.com/common-vulnerabilities-reentrancy-part-ii-98cb1719c0e2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-22T17:20:12.000Z</updated>
+        <author>
+            <name>Logesh N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing SmartContract Library: Simplifying interactions with EVM smart contracts for Swift Apps]]></title>
+        <id>https://medium.com/p/2c8f6bbc4152</id>
+        <link href="https://coinsbench.com/introducing-smartcontract-library-simplifying-interactions-with-evm-smart-contracts-for-swift-apps-2c8f6bbc4152?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-22T17:19:44.000Z</updated>
+        <author>
+            <name>Yury Dryhin, Lead iOS Developer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reddit’s Leap from Internet Front Page to NYSE]]></title>
         <id>https://medium.com/p/d88fa6a0f9e0</id>
         <link href="https://medium.com/coinmonks/reddits-leap-from-internet-front-page-to-nyse-d88fa6a0f9e0?source=rss----721b17443fd5---4"/>
         <updated>2024-03-22T16:59:48.000Z</updated>
-        <summary type="html"><![CDATA[In the rapidly changing digital world, Reddit, known as the “internet’s front page,” is making its debut on the New York Stock Exchange…]]></summary>
         <author>
             <name>Nauris Treigys</name>
         </author>
@@ -20,7 +73,6 @@
         <id>https://medium.com/p/3d86299a054a</id>
         <link href="https://medium.com/coinmonks/all-been-crypto-week-22-march-2024-3d86299a054a?source=rss----721b17443fd5---4"/>
         <updated>2024-03-22T16:59:14.000Z</updated>
-        <summary type="html"><![CDATA[A mixed week with BTC down -2.5% ETH underperforming with -5% but ALT L1s like SUI, APT, TON +20–25% and SOL also in the green 4%. Our…]]></summary>
         <author>
             <name>Bat Tai Chi</name>
         </author>
@@ -30,7 +82,6 @@
         <id>https://medium.com/p/70bdb9a531ec</id>
         <link href="https://medium.com/coinmonks/building-a-strong-crypto-community-management-for-project-success-in-2024-70bdb9a531ec?source=rss----721b17443fd5---4"/>
         <updated>2024-03-22T16:58:09.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build a strong crypto community for project success in 2024 with actionable strategies, including clear communication…]]></summary>
         <author>
             <name>Christinapaul</name>
         </author>
@@ -40,7 +91,6 @@
         <id>https://medium.com/p/112920ad3777</id>
         <link href="https://medium.com/coinmonks/b2b-influencer-marketing-a-comprehensive-guide-to-elevating-your-brands-reach-and-impact-112920ad3777?source=rss----721b17443fd5---4"/>
         <updated>2024-03-22T16:57:18.000Z</updated>
-        <summary type="html"><![CDATA[In today’s digital age, where social media dominates the landscape, influencer marketing has become a powerful tool for businesses to…]]></summary>
         <author>
             <name>Serenawilliams</name>
         </author>
@@ -50,7 +100,6 @@
         <id>https://medium.com/p/f829ab9e4f1f</id>
         <link href="https://medium.com/coinmonks/top-20-metaverse-game-development-companies-in-2024-f829ab9e4f1f?source=rss----721b17443fd5---4"/>
         <updated>2024-03-22T16:55:29.000Z</updated>
-        <summary type="html"><![CDATA[Experience the future of gaming with our compilation of the top 20 Metaverse Game Development Companies in 2024.]]></summary>
         <author>
             <name>Rachel Grace</name>
         </author>
@@ -60,7 +109,6 @@
         <id>https://medium.com/p/29b4a6c3d26e</id>
         <link href="https://medium.com/coinmonks/why-is-sustainable-token-development-gaining-momentum-in-the-crypto-space-29b4a6c3d26e?source=rss----721b17443fd5---4"/>
         <updated>2024-03-22T16:55:19.000Z</updated>
-        <summary type="html"><![CDATA[Explore the rise of sustainable token development in the crypto world and its impact on the environment and blockchain innovation]]></summary>
         <author>
             <name>Albert Peter</name>
         </author>
@@ -70,7 +118,6 @@
         <id>https://medium.com/p/dc901c075e0b</id>
         <link href="https://medium.com/coinmonks/forget-lambos-think-moonshots-why-bitcoin-is-the-ultimate-growth-asset-for-the-financially-dc901c075e0b?source=rss----721b17443fd5---4"/>
         <updated>2024-03-22T16:54:50.000Z</updated>
-        <summary type="html"><![CDATA[In the high-octane world of finance, most investments putter along like beat-up Civics. But then there are the Ferraris — the growth…]]></summary>
         <author>
             <name>Anthony Williams</name>
         </author>
@@ -80,7 +127,6 @@
         <id>https://medium.com/p/2a3b20f9f560</id>
         <link href="https://medium.com/coinmonks/the-essential-guide-to-portfolio-management-2a3b20f9f560?source=rss----721b17443fd5---4"/>
         <updated>2024-03-22T16:54:23.000Z</updated>
-        <summary type="html"><![CDATA[In an environment where the financial landscape is perpetually shifting, especially within the realm of cryptocurrencies, keeping a…]]></summary>
         <author>
             <name>36Crypto</name>
         </author>
@@ -101,7 +147,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/dbae0bf54e7c</id>
         <link href="https://medium.com/coinmonks/top-10-cryptocurrency-derivatives-exchanges-in-2024-navigating-the-futures-of-crypto-dbae0bf54e7c?source=rss----721b17443fd5---4"/>
         <updated>2024-03-22T16:52:51.000Z</updated>
-        <summary type="html"><![CDATA[Unleash Crypto’s Full Potential: Dive into the Top 10 Derivatives Exchanges of 2024! Leverage, Options, and Futures Explained — Your Guide…]]></summary>
         <author>
             <name>Christinapaul</name>
         </author>
@@ -111,7 +156,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/0e35181a7e19</id>
         <link href="https://coinsbench.com/ico-vs-ieo-vs-ido-crypto-fundraising-0e35181a7e19?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-21T15:17:38.000Z</updated>
-        <summary type="html"><![CDATA[The world of cryptocurrency can be a whirlwind of acronyms and technical jargon. If you’ve stumbled upon terms like ICO, IEO, and IDO, you might be wondering what they all mean and how they differ…]]></summary>
         <author>
             <name>Ranjithkumar C</name>
         </author>
@@ -121,7 +165,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/7e8c64c33841</id>
         <link href="https://coinsbench.com/rareskills-solidity-interview-question-36-answered-uint8-uint32-uint64-uint128-uint256-are-7e8c64c33841?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-21T15:17:36.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
         </author>
@@ -149,73 +192,10 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Utilizing Cloudflare Page technology to develop a DApp for Web3]]></title>
-        <id>https://medium.com/p/1176453f303e</id>
-        <link href="https://coinsbench.com/utilizing-cloudflare-page-technology-to-develop-a-dapp-for-web3-1176453f303e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-20T18:07:39.000Z</updated>
-        <summary type="html"><![CDATA[Developing a DApp (Decentralized Application) using a technology stack that incorporates Cloudflare for content delivery offers several…]]></summary>
-        <author>
-            <name>Alex Fuentes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is BOME???]]></title>
-        <id>https://medium.com/p/a5cef0df5098</id>
-        <link href="https://coinsbench.com/what-is-bome-a5cef0df5098?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-20T18:07:23.000Z</updated>
-        <summary type="html"><![CDATA[Lately, you must be somewhat bewildered by the sudden popularity of BOME on SOL, wondering what it is?
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>RickyYang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enabling Smart Contracts in Blockchain Networks: A Step-by-Step Guide]]></title>
-        <id>https://medium.com/p/7e8c874ce86d</id>
-        <link href="https://coinsbench.com/enabling-smart-contracts-in-blockchain-networks-a-step-by-step-guide-7e8c874ce86d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-20T18:07:17.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-Blockchain technology has revolutionized the way we conduct transactions and ensure data integrity, offering a decentralized…]]></summary>
-        <author>
-            <name>Dhanaseelan Subramani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signature Verification on Smart Contracts]]></title>
-        <id>https://medium.com/p/f5781a1804f1</id>
-        <link href="https://coinsbench.com/signature-verification-on-smart-contracts-f5781a1804f1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-20T18:07:14.000Z</updated>
-        <summary type="html"><![CDATA[In the realm of blockchain development, ensuring the legitimacy of off-chain actions is crucial. This becomes particularly important when integrating functionalities that require user interaction…]]></summary>
-        <author>
-            <name>Ranjithkumar C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakeTheBlockchainSimpler — My learnings from CryptoZombies Part#1]]></title>
-        <id>https://medium.com/p/a3f7b0843627</id>
-        <link href="https://coinsbench.com/maketheblockchainsimpler-my-learnings-from-cryptozombies-part-1-a3f7b0843627?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-15T13:21:45.000Z</updated>
-        <summary type="html"><![CDATA[This post is going to be the fifblog of the MakeTheBlockchainSimpler series. When I started exploring this field, I felt so difficulty in…]]></summary>
-        <author>
-            <name>7at</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana / Ethereum: Function Visibility]]></title>
-        <id>https://medium.com/p/41a293fe7078</id>
-        <link href="https://coinsbench.com/solana-ethereum-function-visibility-41a293fe7078?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-15T13:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Let’s explore the visibility of functions in smart contracts written in Rust on Solana. We will draw parallels with contracts in Solidity.]]></summary>
-        <author>
-            <name>Franck Maussand</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unlocking Asset Tokenization Potential: The Role and Impact of Smart Contracts in Bytebots Systems]]></title>
         <id>https://medium.com/p/641e4e24f7af</id>
         <link href="https://blog.blockmagnates.com/unlocking-asset-tokenization-potential-the-role-and-impact-of-smart-contracts-in-bytebots-systems-641e4e24f7af?source=rss----18fa961f1eff--solidity"/>
         <updated>2024-03-14T13:14:29.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, the concept of asset tokenization has gained significant traction in various industries. Asset tokenization involves…]]></summary>
         <author>
             <name>Bytebots Systems</name>
         </author>
@@ -247,7 +227,6 @@ The post It’s time to abstract from the complexity of blockchain | #13 POT: Th
         <id>https://medium.com/p/d1e7394de409</id>
         <link href="https://blog.blockmagnates.com/ethernaut-challenge-level-1-solution-fallback-function-abuse-d1e7394de409?source=rss----18fa961f1eff--solidity"/>
         <updated>2024-02-27T08:27:55.000Z</updated>
-        <summary type="html"><![CDATA[Ethernaut is a CTF challenge by Openzeppelin to learn about common solidity security issues. As I am going to complete all these levels, I…]]></summary>
         <author>
             <name>Shubham Nagar</name>
         </author>
