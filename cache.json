@@ -51,82 +51,82 @@
         {
           "id": "https://medium.com/p/3fe928489ef0",
           "author": "Logesh N",
-          "description": "",
+          "description": "Reentrancy is a vulnerability that can occur in smart contracts when they interact with other contracts. This vulnerability allows an…",
           "link": "https://coinsbench.com/common-vulnerabilities-reentrancy-part-i-3fe928489ef0?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-22T17:20:20.000Z",
-          "wordCount": null,
+          "wordCount": 3654,
           "title": "COMMON VULNERABILITIES: REENTRANCY PART — I",
           "imageUrl": null
         },
         {
           "id": "https://medium.com/p/9bd664ef9a5b",
           "author": "Judith Manyo Ogar",
-          "description": "",
+          "description": "Solana is known as a fast, scalable, and permissionless blockchain network, with a record of success stories and effectively navigating…",
           "link": "https://coinsbench.com/historical-summary-of-solana-9bd664ef9a5b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-22T17:20:18.000Z",
-          "wordCount": null,
+          "wordCount": 4505,
           "title": "Historical Summary of Solana",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uRO_PXW0p6yuBRExppQweA.png"
         },
         {
           "id": "https://medium.com/p/7eea119138b2",
           "author": "Logesh N",
-          "description": "",
+          "description": "The “Unchecked External Calls” vulnerability refers to situations in Solidity smart contracts where external calls are made to other…",
           "link": "https://coinsbench.com/common-vulnerabilities-unchecked-external-calls-7eea119138b2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-22T17:20:16.000Z",
-          "wordCount": null,
+          "wordCount": 4606,
           "title": "COMMON VULNERABILITIES: UNCHECKED EXTERNAL CALLS",
           "imageUrl": null
         },
         {
           "id": "https://medium.com/p/7ed958ba8ef9",
           "author": "Logesh N",
-          "description": "",
+          "description": "Integer overflow and underflow bugs in Solidity occur when the result of an arithmetic operation exceeds the maximum or minimum value…",
           "link": "https://coinsbench.com/common-vulnerabilities-integer-overflow-underflow-7ed958ba8ef9?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-22T17:20:14.000Z",
-          "wordCount": null,
+          "wordCount": 2540,
           "title": "COMMON VULNERABILITIES: INTEGER OVERFLOW / UNDERFLOW",
           "imageUrl": null
         },
         {
           "id": "https://medium.com/p/98cb1719c0e2",
           "author": "Logesh N",
-          "description": "",
+          "description": "To understand this concept please visit my previous post of COMMON VULNERABILITIES: REENTRANCY PART — I",
           "link": "https://coinsbench.com/common-vulnerabilities-reentrancy-part-ii-98cb1719c0e2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-22T17:20:12.000Z",
-          "wordCount": null,
+          "wordCount": 3925,
           "title": "COMMON VULNERABILITIES: REENTRANCY PART — II",
           "imageUrl": null
         },
         {
           "id": "https://medium.com/p/2c8f6bbc4152",
           "author": "Yury Dryhin, Lead iOS Developer",
-          "description": "",
+          "description": "This article was written with a little help from ChatGPT",
           "link": "https://coinsbench.com/introducing-smartcontract-library-simplifying-interactions-with-evm-smart-contracts-for-swift-apps-2c8f6bbc4152?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-22T17:19:44.000Z",
-          "wordCount": null,
+          "wordCount": 3616,
           "title": "Introducing SmartContract Library: Simplifying interactions with EVM smart contracts for Swift Apps",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*15ItvL091JQYwEanJVa9ZQ.png"
         },
         {
           "id": "https://medium.com/p/0e35181a7e19",
           "author": "Ranjithkumar C",
-          "description": "",
+          "description": "The world of cryptocurrency can be a whirlwind of acronyms and technical jargon. If you’ve stumbled upon terms like ICO, IEO, and IDO, you might be wondering what they all mean and how they differ…",
           "link": "https://coinsbench.com/ico-vs-ieo-vs-ido-crypto-fundraising-0e35181a7e19?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-21T15:17:38.000Z",
-          "wordCount": null,
+          "wordCount": 3946,
           "title": "ICO vs IEO vs IDO : Crypto fundraising",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*Dt0tKZbUHKiyt4JP.jpg"
         },
         {
           "id": "https://medium.com/p/7e8c64c33841",
           "author": "Faybian Byrd",
-          "description": "",
+          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
           "link": "https://coinsbench.com/rareskills-solidity-interview-question-36-answered-uint8-uint32-uint64-uint128-uint256-are-7e8c64c33841?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-21T15:17:36.000Z",
-          "wordCount": null,
+          "wordCount": 2127,
           "title": "RareSkills Solidity Interview Question #36 Answered: uint8, uint32, uint64, uint128, uint256 are…",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7wlHeIMwdnVBHAyjgVFKcw.png"
         },
         {
           "id": "https://medium.com/p/320dd8ef36fd",
@@ -134,9 +134,9 @@
           "description": "How about the transactions of inscription\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/a-comprehensive-guide-to-inscriptions-320dd8ef36fd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-21T15:17:33.000Z",
-          "wordCount": null,
+          "wordCount": 1041,
           "title": "A Comprehensive Guide to Inscriptions",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*hAnjQPCp_E5FIJaM9_SxUA.png"
         },
         {
           "id": "https://medium.com/p/e5c280f2d457",
@@ -144,9 +144,9 @@
           "description": "Block Chain Series 1\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/blockchain-for-beginners-understanding-the-basics-without-the-complexity-e5c280f2d457?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-03-21T15:17:31.000Z",
-          "wordCount": null,
+          "wordCount": 1083,
           "title": "Blockchain for Beginners: Understanding the Basics Without the Complexity",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*j5_WKe0_iwWU0M2zChNNRA.png"
         }
       ]
     },
@@ -158,82 +158,82 @@
         {
           "id": "https://medium.com/p/d88fa6a0f9e0",
           "author": "Nauris Treigys",
-          "description": "",
+          "description": "In the rapidly changing digital world, Reddit, known as the “internet’s front page,” is making its debut on the New York Stock Exchange…",
           "link": "https://medium.com/coinmonks/reddits-leap-from-internet-front-page-to-nyse-d88fa6a0f9e0?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-22T16:59:48.000Z",
-          "wordCount": null,
+          "wordCount": 1997,
           "title": "Reddit’s Leap from Internet Front Page to NYSE",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*urkshzZTrtkpHBj40bG0KA.jpeg"
         },
         {
           "id": "https://medium.com/p/3d86299a054a",
           "author": "Bat Tai Chi",
-          "description": "",
+          "description": "A mixed week with BTC down -2.5% ETH underperforming with -5% but ALT L1s like SUI, APT, TON +20–25% and SOL also in the green 4%. Our…",
           "link": "https://medium.com/coinmonks/all-been-crypto-week-22-march-2024-3d86299a054a?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-22T16:59:14.000Z",
-          "wordCount": null,
+          "wordCount": 2999,
           "title": "All Been Crypto — Week 22 March 2024",
           "imageUrl": null
         },
         {
           "id": "https://medium.com/p/70bdb9a531ec",
           "author": "Christinapaul",
-          "description": "",
+          "description": "Learn how to build a strong crypto community for project success in 2024 with actionable strategies, including clear communication…",
           "link": "https://medium.com/coinmonks/building-a-strong-crypto-community-management-for-project-success-in-2024-70bdb9a531ec?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-22T16:58:09.000Z",
-          "wordCount": null,
+          "wordCount": 3349,
           "title": "Building a Strong Crypto Community management for Project Success in 2024",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*e64r4SLhCDWQSMpuDLkopw.png"
         },
         {
           "id": "https://medium.com/p/112920ad3777",
           "author": "Serenawilliams",
-          "description": "",
+          "description": "In today’s digital age, where social media dominates the landscape, influencer marketing has become a powerful tool for businesses to…",
           "link": "https://medium.com/coinmonks/b2b-influencer-marketing-a-comprehensive-guide-to-elevating-your-brands-reach-and-impact-112920ad3777?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-22T16:57:18.000Z",
-          "wordCount": null,
+          "wordCount": 5662,
           "title": "B2B Influencer Marketing: A Comprehensive Guide to Elevating Your Brand’s Reach and Impact",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Uyic6l6my_ldnerW021lTw.jpeg"
         },
         {
           "id": "https://medium.com/p/f829ab9e4f1f",
           "author": "Rachel Grace",
-          "description": "",
+          "description": "Experience the future of gaming with our compilation of the top 20 Metaverse Game Development Companies in 2024.",
           "link": "https://medium.com/coinmonks/top-20-metaverse-game-development-companies-in-2024-f829ab9e4f1f?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-22T16:55:29.000Z",
-          "wordCount": null,
+          "wordCount": 3596,
           "title": "Top 20 Metaverse Game Development Companies in 2024",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1142/1*MTqmLsxK4GN9E6Qbk9ZzmQ.jpeg"
         },
         {
           "id": "https://medium.com/p/29b4a6c3d26e",
           "author": "Albert Peter",
-          "description": "",
+          "description": "Explore the rise of sustainable token development in the crypto world and its impact on the environment and blockchain innovation",
           "link": "https://medium.com/coinmonks/why-is-sustainable-token-development-gaining-momentum-in-the-crypto-space-29b4a6c3d26e?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-22T16:55:19.000Z",
-          "wordCount": null,
+          "wordCount": 3457,
           "title": "Why Is Sustainable Token Development Gaining Momentum in the Crypto Space?",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*p6b_WYFij-PSCKBFCCzIiA.png"
         },
         {
           "id": "https://medium.com/p/dc901c075e0b",
           "author": "Anthony Williams",
-          "description": "",
+          "description": "In the high-octane world of finance, most investments putter along like beat-up Civics. But then there are the Ferraris — the growth…",
           "link": "https://medium.com/coinmonks/forget-lambos-think-moonshots-why-bitcoin-is-the-ultimate-growth-asset-for-the-financially-dc901c075e0b?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-22T16:54:50.000Z",
-          "wordCount": null,
+          "wordCount": 2346,
           "title": "Forget Lambos, Think Moonshots: Why Bitcoin is the Ultimate Growth Asset for the Financially…",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*XlEOuB4attYfebPcJ4GZaQ.jpeg"
         },
         {
           "id": "https://medium.com/p/2a3b20f9f560",
           "author": "36Crypto",
-          "description": "",
+          "description": "In an environment where the financial landscape is perpetually shifting, especially within the realm of cryptocurrencies, keeping a…",
           "link": "https://medium.com/coinmonks/the-essential-guide-to-portfolio-management-2a3b20f9f560?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-22T16:54:23.000Z",
-          "wordCount": null,
+          "wordCount": 2516,
           "title": "The Essential Guide to Portfolio Management",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JOZKdqwkdQ-xMr50iMjmPw.jpeg"
         },
         {
           "id": "https://medium.com/p/9233638a1937",
@@ -241,19 +241,19 @@
           "description": "Former Advisor Slams Ethereum Founders for Alleged Fraudulent Practices\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/ethereum-a-house-of-deceit-9233638a1937?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-22T16:54:07.000Z",
-          "wordCount": null,
+          "wordCount": 1243,
           "title": "Ethereum: A House of Deceit?",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Dj93h6p7z8ljuPOjCA5YeA.jpeg"
         },
         {
           "id": "https://medium.com/p/dbae0bf54e7c",
           "author": "Christinapaul",
-          "description": "",
+          "description": "Unleash Crypto’s Full Potential: Dive into the Top 10 Derivatives Exchanges of 2024! Leverage, Options, and Futures Explained — Your Guide…",
           "link": "https://medium.com/coinmonks/top-10-cryptocurrency-derivatives-exchanges-in-2024-navigating-the-futures-of-crypto-dbae0bf54e7c?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-22T16:52:51.000Z",
-          "wordCount": null,
+          "wordCount": 4999,
           "title": "Top 10 Cryptocurrency Derivatives Exchanges in 2024: Navigating the Futures of Crypto",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*kYVi-8ZEnvdr6qPZbvIzgg.jpeg"
         }
       ]
     },
@@ -265,22 +265,22 @@
         {
           "id": "https://medium.com/p/641e4e24f7af",
           "author": "Bytebots Systems",
-          "description": "",
+          "description": "In recent years, the concept of asset tokenization has gained significant traction in various industries. Asset tokenization involves…",
           "link": "https://blog.blockmagnates.com/unlocking-asset-tokenization-potential-the-role-and-impact-of-smart-contracts-in-bytebots-systems-641e4e24f7af?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-03-14T13:14:29.000Z",
-          "wordCount": null,
+          "wordCount": 1934,
           "title": "Unlocking Asset Tokenization Potential: The Role and Impact of Smart Contracts in Bytebots Systems",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:938/1*jP3fEVdpHYXZBnGxIbf0Sg.jpeg"
         },
         {
           "id": "https://medium.com/p/d1e7394de409",
           "author": "Shubham Nagar",
-          "description": "",
+          "description": "Ethernaut is a CTF challenge by Openzeppelin to learn about common solidity security issues. As I am going to complete all these levels, I…",
           "link": "https://blog.blockmagnates.com/ethernaut-challenge-level-1-solution-fallback-function-abuse-d1e7394de409?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-02-27T08:27:55.000Z",
-          "wordCount": null,
+          "wordCount": 1740,
           "title": "Ethernaut Challenge Level 1: Solution (Fallback Function Abuse)",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:527/1*q_Yiqo9aclmeu5KOcpt0bg.png"
         }
       ]
     },
