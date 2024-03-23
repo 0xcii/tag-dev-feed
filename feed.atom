@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-23T19:09:18.036Z</id>
+    <id>urn:2024-03-23T20:12:19.147Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-23T19:09:18.036Z</updated>
+    <updated>2024-03-23T20:12:19.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -20,6 +20,7 @@
         <id>https://medium.com/p/492e88475233</id>
         <link href="https://medium.com/coinmonks/ethereums-next-leap-dencun-upgrade-progress-and-electra-s-potential-maxeb-addition-492e88475233?source=rss----721b17443fd5---4"/>
         <updated>2024-03-23T14:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s Dencun Upgrade progresses, discussing Electra’s potential MaxEB addition amid market concerns.]]></summary>
         <author>
             <name>Solidity Academy</name>
         </author>
@@ -49,6 +50,7 @@
         <id>https://medium.com/p/40f7e63b645b</id>
         <link href="https://medium.com/coinmonks/10-reasons-to-build-a-cryptocurrency-exchange-in-2024-40f7e63b645b?source=rss----721b17443fd5---4"/>
         <updated>2024-03-23T14:18:45.000Z</updated>
+        <summary type="html"><![CDATA[The Top 10 reasons behind cryptocurrency exchange creation in 2024. Learn why entrepreneurs are seizing the opportunity to build platforms…]]></summary>
         <author>
             <name>Aaron Abbott</name>
         </author>
@@ -58,6 +60,7 @@
         <id>https://medium.com/p/ea3388f99ce7</id>
         <link href="https://medium.com/coinmonks/how-ido-launchpad-development-offers-early-access-explosive-gains-in-2024-ea3388f99ce7?source=rss----721b17443fd5---4"/>
         <updated>2024-03-23T14:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Unlock early access & explosive gains in 2024 with IDO Launchpad Development. Learn how it offers exclusive opportunities in the crypto…]]></summary>
         <author>
             <name>Linda Flowers</name>
         </author>
@@ -67,6 +70,7 @@
         <id>https://medium.com/p/a9ac6f351f6d</id>
         <link href="https://medium.com/coinmonks/mint-forest-plant-your-nft-roots-harvest-your-digital-fortune-a9ac6f351f6d?source=rss----721b17443fd5---4"/>
         <updated>2024-03-23T14:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Experience the Green Revolution of NFTs in a World Where Every Tree Planted is a Step Towards Riches!]]></summary>
         <author>
             <name>Crypto with Roberto</name>
         </author>
@@ -76,6 +80,7 @@
         <id>https://medium.com/p/59b8c5d251cf</id>
         <link href="https://medium.com/coinmonks/top-10-cryptos-to-hold-become-a-millionaire-in-2025-59b8c5d251cf?source=rss----721b17443fd5---4"/>
         <updated>2024-03-23T14:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Don’t miss out on the next big crypto winners — discover our top 10 picks for holding your way to millionaire status by 2025.]]></summary>
         <author>
             <name>Williammarkerzz</name>
         </author>
@@ -85,6 +90,7 @@
         <id>https://medium.com/p/c376a24e8ae5</id>
         <link href="https://coinsbench.com/what-is-erc721a-how-to-use-it-c376a24e8ae5?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-23T11:12:21.000Z</updated>
+        <summary type="html"><![CDATA[ERC721A is a proposed standard for non-fungible tokens (NFTs) on the Ethereum blockchain. It is an extension of the widely used ERC721…]]></summary>
         <author>
             <name>Chris Kennedy</name>
         </author>
@@ -94,6 +100,7 @@
         <id>https://medium.com/p/3fe928489ef0</id>
         <link href="https://coinsbench.com/common-vulnerabilities-reentrancy-part-i-3fe928489ef0?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-22T17:20:20.000Z</updated>
+        <summary type="html"><![CDATA[Reentrancy is a vulnerability that can occur in smart contracts when they interact with other contracts. This vulnerability allows an…]]></summary>
         <author>
             <name>Logesh N</name>
         </author>
@@ -103,6 +110,7 @@
         <id>https://medium.com/p/9bd664ef9a5b</id>
         <link href="https://coinsbench.com/historical-summary-of-solana-9bd664ef9a5b?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-22T17:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Solana is known as a fast, scalable, and permissionless blockchain network, with a record of success stories and effectively navigating…]]></summary>
         <author>
             <name>Judith Manyo Ogar</name>
         </author>
@@ -112,6 +120,7 @@
         <id>https://medium.com/p/7eea119138b2</id>
         <link href="https://coinsbench.com/common-vulnerabilities-unchecked-external-calls-7eea119138b2?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-22T17:20:16.000Z</updated>
+        <summary type="html"><![CDATA[The “Unchecked External Calls” vulnerability refers to situations in Solidity smart contracts where external calls are made to other…]]></summary>
         <author>
             <name>Logesh N</name>
         </author>
@@ -121,6 +130,7 @@
         <id>https://medium.com/p/7ed958ba8ef9</id>
         <link href="https://coinsbench.com/common-vulnerabilities-integer-overflow-underflow-7ed958ba8ef9?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-22T17:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Integer overflow and underflow bugs in Solidity occur when the result of an arithmetic operation exceeds the maximum or minimum value…]]></summary>
         <author>
             <name>Logesh N</name>
         </author>
@@ -130,6 +140,7 @@
         <id>https://medium.com/p/98cb1719c0e2</id>
         <link href="https://coinsbench.com/common-vulnerabilities-reentrancy-part-ii-98cb1719c0e2?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-22T17:20:12.000Z</updated>
+        <summary type="html"><![CDATA[To understand this concept please visit my previous post of COMMON VULNERABILITIES: REENTRANCY PART — I]]></summary>
         <author>
             <name>Logesh N</name>
         </author>
@@ -139,6 +150,7 @@
         <id>https://medium.com/p/2c8f6bbc4152</id>
         <link href="https://coinsbench.com/introducing-smartcontract-library-simplifying-interactions-with-evm-smart-contracts-for-swift-apps-2c8f6bbc4152?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-22T17:19:44.000Z</updated>
+        <summary type="html"><![CDATA[This article was written with a little help from ChatGPT]]></summary>
         <author>
             <name>Yury Dryhin, Lead iOS Developer</name>
         </author>
@@ -148,6 +160,7 @@
         <id>https://medium.com/p/d88fa6a0f9e0</id>
         <link href="https://medium.com/coinmonks/reddits-leap-from-internet-front-page-to-nyse-d88fa6a0f9e0?source=rss----721b17443fd5---4"/>
         <updated>2024-03-22T16:59:48.000Z</updated>
+        <summary type="html"><![CDATA[In the rapidly changing digital world, Reddit, known as the “internet’s front page,” is making its debut on the New York Stock Exchange…]]></summary>
         <author>
             <name>Nauris Treigys</name>
         </author>
@@ -157,6 +170,7 @@
         <id>https://medium.com/p/3d86299a054a</id>
         <link href="https://medium.com/coinmonks/all-been-crypto-week-22-march-2024-3d86299a054a?source=rss----721b17443fd5---4"/>
         <updated>2024-03-22T16:59:14.000Z</updated>
+        <summary type="html"><![CDATA[A mixed week with BTC down -2.5% ETH underperforming with -5% but ALT L1s like SUI, APT, TON +20–25% and SOL also in the green 4%. Our…]]></summary>
         <author>
             <name>Bat Tai Chi</name>
         </author>
@@ -166,6 +180,7 @@
         <id>https://medium.com/p/0e35181a7e19</id>
         <link href="https://coinsbench.com/ico-vs-ieo-vs-ido-crypto-fundraising-0e35181a7e19?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-21T15:17:38.000Z</updated>
+        <summary type="html"><![CDATA[The world of cryptocurrency can be a whirlwind of acronyms and technical jargon. If you’ve stumbled upon terms like ICO, IEO, and IDO, you might be wondering what they all mean and how they differ…]]></summary>
         <author>
             <name>Ranjithkumar C</name>
         </author>
@@ -175,6 +190,7 @@
         <id>https://medium.com/p/7e8c64c33841</id>
         <link href="https://coinsbench.com/rareskills-solidity-interview-question-36-answered-uint8-uint32-uint64-uint128-uint256-are-7e8c64c33841?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-21T15:17:36.000Z</updated>
+        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
         </author>
@@ -195,6 +211,7 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/641e4e24f7af</id>
         <link href="https://blog.blockmagnates.com/unlocking-asset-tokenization-potential-the-role-and-impact-of-smart-contracts-in-bytebots-systems-641e4e24f7af?source=rss----18fa961f1eff--solidity"/>
         <updated>2024-03-14T13:14:29.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, the concept of asset tokenization has gained significant traction in various industries. Asset tokenization involves…]]></summary>
         <author>
             <name>Bytebots Systems</name>
         </author>
@@ -226,6 +243,7 @@ The post It’s time to abstract from the complexity of blockchain | #13 POT: Th
         <id>https://medium.com/p/d1e7394de409</id>
         <link href="https://blog.blockmagnates.com/ethernaut-challenge-level-1-solution-fallback-function-abuse-d1e7394de409?source=rss----18fa961f1eff--solidity"/>
         <updated>2024-02-27T08:27:55.000Z</updated>
+        <summary type="html"><![CDATA[Ethernaut is a CTF challenge by Openzeppelin to learn about common solidity security issues. As I am going to complete all these levels, I…]]></summary>
         <author>
             <name>Shubham Nagar</name>
         </author>
