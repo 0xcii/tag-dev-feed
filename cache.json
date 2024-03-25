@@ -39,6 +39,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/52ad6f61bba7",
+          "author": "Ajmal",
+          "description": "When programming in Rust, one of the most fundamental tasks is to manage collections of data. Rust, with its focus on performance and…",
+          "link": "https://coinsbench.com/a-practical-guide-to-rust-collection-52ad6f61bba7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-25T12:51:38.000Z",
+          "wordCount": 2364,
+          "title": "A Practical Guide to Rust Collection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/462de9a9fb28",
+          "author": "Fadehan Daniel",
+          "description": "Aptos is a cutting-edge blockchain technology created to revolutionize the concept of decentralized applications (dApps). With its…",
+          "link": "https://coinsbench.com/embarking-on-the-aptos-odyssey-a-quest-for-blockchain-enlightenment-462de9a9fb28?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-25T12:51:36.000Z",
+          "wordCount": 3031,
+          "title": "Embarking on the Aptos Odyssey: A Quest for Blockchain Enlightenment",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*n46RrfVl7KHNMfcIHisRFw.png"
+        },
+        {
+          "id": "https://medium.com/p/aebf2d4d2a0c",
+          "author": "Logesh N",
+          "description": "A contract that doesn’t check if the sender and recipient addresses are the same is vulnerable to an exploit similar to the Super Sushi…",
+          "link": "https://coinsbench.com/super-sushi-samurai-exploit-aebf2d4d2a0c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-25T12:51:26.000Z",
+          "wordCount": 1448,
+          "title": "Super Sushi Samurai Exploit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f9f0669dc852",
+          "author": "Logesh N",
+          "description": "Denial of Service (DoS) attacks in the context of Solidity and blockchain refer to malicious activities aimed at disrupting the normal…",
+          "link": "https://coinsbench.com/common-vulnerabilities-denial-of-service-dos-f9f0669dc852?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-25T12:51:24.000Z",
+          "wordCount": 3126,
+          "title": "COMMON VULNERABILITIES: Denial of Service (DoS)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0e8c25cccad5",
+          "author": "Sreerag U",
+          "description": "Solidity, the programming language of the Ethereum blockchain, offers a robust set of data types and operations to facilitate smart…",
+          "link": "https://coinsbench.com/mastering-solidity-data-types-value-types-reference-types-and-operations-0e8c25cccad5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-03-25T12:51:22.000Z",
+          "wordCount": 1994,
+          "title": "Mastering Solidity Data Types: Value Types, Reference Types, and Operations",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:628/1*i7kbw6zYvbfFZe198BXIZw.jpeg"
+        },
+        {
           "id": "https://medium.com/p/c376a24e8ae5",
           "author": "Chris Kennedy",
           "description": "ERC721A is a proposed standard for non-fungible tokens (NFTs) on the Ethereum blockchain. It is an extension of the widely used ERC721…",
@@ -87,56 +137,6 @@
           "wordCount": 2540,
           "title": "COMMON VULNERABILITIES: INTEGER OVERFLOW / UNDERFLOW",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/98cb1719c0e2",
-          "author": "Logesh N",
-          "description": "To understand this concept please visit my previous post of COMMON VULNERABILITIES: REENTRANCY PART — I",
-          "link": "https://coinsbench.com/common-vulnerabilities-reentrancy-part-ii-98cb1719c0e2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-22T17:20:12.000Z",
-          "wordCount": 3925,
-          "title": "COMMON VULNERABILITIES: REENTRANCY PART — II",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2c8f6bbc4152",
-          "author": "Yury Dryhin, Lead iOS Developer",
-          "description": "This article was written with a little help from ChatGPT",
-          "link": "https://coinsbench.com/introducing-smartcontract-library-simplifying-interactions-with-evm-smart-contracts-for-swift-apps-2c8f6bbc4152?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-22T17:19:44.000Z",
-          "wordCount": 3616,
-          "title": "Introducing SmartContract Library: Simplifying interactions with EVM smart contracts for Swift Apps",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*15ItvL091JQYwEanJVa9ZQ.png"
-        },
-        {
-          "id": "https://medium.com/p/0e35181a7e19",
-          "author": "Ranjithkumar C",
-          "description": "The world of cryptocurrency can be a whirlwind of acronyms and technical jargon. If you’ve stumbled upon terms like ICO, IEO, and IDO, you might be wondering what they all mean and how they differ…",
-          "link": "https://coinsbench.com/ico-vs-ieo-vs-ido-crypto-fundraising-0e35181a7e19?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-21T15:17:38.000Z",
-          "wordCount": 3946,
-          "title": "ICO vs IEO vs IDO : Crypto fundraising",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*Dt0tKZbUHKiyt4JP.jpg"
-        },
-        {
-          "id": "https://medium.com/p/7e8c64c33841",
-          "author": "Faybian Byrd",
-          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
-          "link": "https://coinsbench.com/rareskills-solidity-interview-question-36-answered-uint8-uint32-uint64-uint128-uint256-are-7e8c64c33841?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-21T15:17:36.000Z",
-          "wordCount": 2127,
-          "title": "RareSkills Solidity Interview Question #36 Answered: uint8, uint32, uint64, uint128, uint256 are…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7wlHeIMwdnVBHAyjgVFKcw.png"
-        },
-        {
-          "id": "https://medium.com/p/320dd8ef36fd",
-          "author": "RickyYang",
-          "description": "How about the transactions of inscription\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/a-comprehensive-guide-to-inscriptions-320dd8ef36fd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-21T15:17:33.000Z",
-          "wordCount": 1228,
-          "title": "A Comprehensive Guide to Inscriptions",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*hAnjQPCp_E5FIJaM9_SxUA.png"
         }
       ]
     },
@@ -151,7 +151,7 @@
           "description": "Crypto token development involves a series of steps aimed at creating and designing these digital assets within the blockchain networks.",
           "link": "https://medium.com/coinmonks/crypto-token-development-ab423054e48a?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-24T18:23:17.000Z",
-          "wordCount": 3616,
+          "wordCount": 3617,
           "title": "Crypto Token Development: Step-by-Step Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:720/1*VDqLAA-ZCiecd8QxARulbA.jpeg"
         },
@@ -221,7 +221,7 @@
           "description": "It goes without saying that the best Bitcoin to have is the Bitcoin that you can earn for Free.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/4-ways-you-can-be-earning-free-bitcoin-online-f1ec6160e961?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-24T18:21:24.000Z",
-          "wordCount": 1636,
+          "wordCount": 1117,
           "title": "4 Ways You Can Be Earning Free Bitcoin Online",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*UXpPufPznGXjm4I9"
         },

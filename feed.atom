@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-25T12:21:20.810Z</id>
+    <id>urn:2024-03-25T13:13:45.880Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-25T12:21:20.810Z</updated>
+    <updated>2024-03-25T13:13:45.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide to Rust Collection]]></title>
+        <id>https://medium.com/p/52ad6f61bba7</id>
+        <link href="https://coinsbench.com/a-practical-guide-to-rust-collection-52ad6f61bba7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-25T12:51:38.000Z</updated>
+        <summary type="html"><![CDATA[When programming in Rust, one of the most fundamental tasks is to manage collections of data. Rust, with its focus on performance and…]]></summary>
+        <author>
+            <name>Ajmal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embarking on the Aptos Odyssey: A Quest for Blockchain Enlightenment]]></title>
+        <id>https://medium.com/p/462de9a9fb28</id>
+        <link href="https://coinsbench.com/embarking-on-the-aptos-odyssey-a-quest-for-blockchain-enlightenment-462de9a9fb28?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-25T12:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Aptos is a cutting-edge blockchain technology created to revolutionize the concept of decentralized applications (dApps). With its…]]></summary>
+        <author>
+            <name>Fadehan Daniel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super Sushi Samurai Exploit]]></title>
+        <id>https://medium.com/p/aebf2d4d2a0c</id>
+        <link href="https://coinsbench.com/super-sushi-samurai-exploit-aebf2d4d2a0c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-25T12:51:26.000Z</updated>
+        <summary type="html"><![CDATA[A contract that doesn’t check if the sender and recipient addresses are the same is vulnerable to an exploit similar to the Super Sushi…]]></summary>
+        <author>
+            <name>Logesh N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COMMON VULNERABILITIES: Denial of Service (DoS)]]></title>
+        <id>https://medium.com/p/f9f0669dc852</id>
+        <link href="https://coinsbench.com/common-vulnerabilities-denial-of-service-dos-f9f0669dc852?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-25T12:51:24.000Z</updated>
+        <summary type="html"><![CDATA[Denial of Service (DoS) attacks in the context of Solidity and blockchain refer to malicious activities aimed at disrupting the normal…]]></summary>
+        <author>
+            <name>Logesh N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Solidity Data Types: Value Types, Reference Types, and Operations]]></title>
+        <id>https://medium.com/p/0e8c25cccad5</id>
+        <link href="https://coinsbench.com/mastering-solidity-data-types-value-types-reference-types-and-operations-0e8c25cccad5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-25T12:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, the programming language of the Ethereum blockchain, offers a robust set of data types and operations to facilitate smart…]]></summary>
+        <author>
+            <name>Sreerag U</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Token Development: Step-by-Step Guide]]></title>
         <id>https://medium.com/p/ab423054e48a</id>
@@ -156,57 +206,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Integer overflow and underflow bugs in Solidity occur when the result of an arithmetic operation exceeds the maximum or minimum value…]]></summary>
         <author>
             <name>Logesh N</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COMMON VULNERABILITIES: REENTRANCY PART — II]]></title>
-        <id>https://medium.com/p/98cb1719c0e2</id>
-        <link href="https://coinsbench.com/common-vulnerabilities-reentrancy-part-ii-98cb1719c0e2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-22T17:20:12.000Z</updated>
-        <summary type="html"><![CDATA[To understand this concept please visit my previous post of COMMON VULNERABILITIES: REENTRANCY PART — I]]></summary>
-        <author>
-            <name>Logesh N</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing SmartContract Library: Simplifying interactions with EVM smart contracts for Swift Apps]]></title>
-        <id>https://medium.com/p/2c8f6bbc4152</id>
-        <link href="https://coinsbench.com/introducing-smartcontract-library-simplifying-interactions-with-evm-smart-contracts-for-swift-apps-2c8f6bbc4152?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-22T17:19:44.000Z</updated>
-        <summary type="html"><![CDATA[This article was written with a little help from ChatGPT]]></summary>
-        <author>
-            <name>Yury Dryhin, Lead iOS Developer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICO vs IEO vs IDO : Crypto fundraising]]></title>
-        <id>https://medium.com/p/0e35181a7e19</id>
-        <link href="https://coinsbench.com/ico-vs-ieo-vs-ido-crypto-fundraising-0e35181a7e19?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-21T15:17:38.000Z</updated>
-        <summary type="html"><![CDATA[The world of cryptocurrency can be a whirlwind of acronyms and technical jargon. If you’ve stumbled upon terms like ICO, IEO, and IDO, you might be wondering what they all mean and how they differ…]]></summary>
-        <author>
-            <name>Ranjithkumar C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #36 Answered: uint8, uint32, uint64, uint128, uint256 are…]]></title>
-        <id>https://medium.com/p/7e8c64c33841</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-36-answered-uint8-uint32-uint64-uint128-uint256-are-7e8c64c33841?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-21T15:17:36.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Comprehensive Guide to Inscriptions]]></title>
-        <id>https://medium.com/p/320dd8ef36fd</id>
-        <link href="https://coinsbench.com/a-comprehensive-guide-to-inscriptions-320dd8ef36fd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-21T15:17:33.000Z</updated>
-        <summary type="html"><![CDATA[How about the transactions of inscription
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>RickyYang</name>
         </author>
     </entry>
     <entry>
