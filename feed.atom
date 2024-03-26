@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-26T18:15:28.329Z</id>
+    <id>urn:2024-03-26T19:10:46.033Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-26T18:15:28.329Z</updated>
+    <updated>2024-03-26T19:10:46.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is the Solana Virtual Machine (SVM)?]]></title>
+        <id>https://medium.com/p/133fabaa0153</id>
+        <link href="https://coinsbench.com/what-is-the-solana-virtual-machine-svm-133fabaa0153?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-26T18:37:13.000Z</updated>
+        <summary type="html"><![CDATA[The world of blockchain is full of complex terms, and the Solana Virtual Machine (SVM) is no exception. But behind the technical jargon lies a powerful engine that makes Solana one of the fastest…]]></summary>
+        <author>
+            <name>Ranjithkumar C</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Web3 Twitter Influencers You Should Follow in 2024]]></title>
         <id>https://medium.com/p/fdb67495e9ae</id>
@@ -193,16 +203,6 @@ Continue reading on Coinmonks »]]></summary>
         <link href="https://coinsbench.com/common-vulnerabilities-unchecked-external-calls-7eea119138b2?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-03-22T17:20:16.000Z</updated>
         <summary type="html"><![CDATA[The “Unchecked External Calls” vulnerability refers to situations in Solidity smart contracts where external calls are made to other…]]></summary>
-        <author>
-            <name>Logesh N</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COMMON VULNERABILITIES: INTEGER OVERFLOW / UNDERFLOW]]></title>
-        <id>https://medium.com/p/7ed958ba8ef9</id>
-        <link href="https://coinsbench.com/common-vulnerabilities-integer-overflow-underflow-7ed958ba8ef9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-22T17:20:14.000Z</updated>
-        <summary type="html"><![CDATA[Integer overflow and underflow bugs in Solidity occur when the result of an arithmetic operation exceeds the maximum or minimum value…]]></summary>
         <author>
             <name>Logesh N</name>
         </author>
