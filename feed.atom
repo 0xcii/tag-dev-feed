@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-27T14:11:56.882Z</id>
+    <id>urn:2024-03-27T15:13:18.516Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-27T14:11:56.882Z</updated>
+    <updated>2024-03-27T15:13:18.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Program -2: BlockHelloWorld]]></title>
+        <id>https://medium.com/p/2061773d1b9b</id>
+        <link href="https://coinsbench.com/solidity-program-2-blockhelloworld-2061773d1b9b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-27T14:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, the power behind smart contracts on the Ethereum blockchain, might seem complex at first glance. But fear not! By dissecting a…]]></summary>
+        <author>
+            <name>shubham kumar singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Curious Cryptos’ Commentary 27th March 2024 — The UK and ETNs]]></title>
         <id>https://medium.com/p/2cf17d5e574c</id>
@@ -198,16 +208,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Solana is known as a fast, scalable, and permissionless blockchain network, with a record of success stories and effectively navigating…]]></summary>
         <author>
             <name>Judith Manyo Ogar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COMMON VULNERABILITIES: UNCHECKED EXTERNAL CALLS]]></title>
-        <id>https://medium.com/p/7eea119138b2</id>
-        <link href="https://coinsbench.com/common-vulnerabilities-unchecked-external-calls-7eea119138b2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-22T17:20:16.000Z</updated>
-        <summary type="html"><![CDATA[The “Unchecked External Calls” vulnerability refers to situations in Solidity smart contracts where external calls are made to other…]]></summary>
-        <author>
-            <name>Logesh N</name>
         </author>
     </entry>
     <entry>
