@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-27T19:09:50.825Z</id>
+    <id>urn:2024-03-27T20:12:47.444Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-27T19:09:50.825Z</updated>
+    <updated>2024-03-27T20:12:47.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Creating a Token-Gated Web Page With Clarity]]></title>
+        <id>https://blog.developerdao.com/creating-a-token-gated-web-page-with-clarity</id>
+        <link href="https://blog.developerdao.com/creating-a-token-gated-web-page-with-clarity"/>
+        <updated>2024-03-27T18:43:03.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial shows how to create a token-gated website using Clarity as the smart contract language. A token-gated website serves content to users with a certain amount of tokens in their wallets.
+In this tutorial, we will create two Clarity smart contracts, FanToken and TokenGatedCommunity. Holders of the FanToken can join a community on-chain in the TokenGatedCommunity contract, and our frontend will serve users different content based on membership in the TokenGatedCommunity.
+The diagram below illustrates the functionalities of the smart contracts we will be creating.
+
+We will get up and running quickly on the front end by creating a NextJS application using a Stack.js template.
+
+Prerequisites
+The author assumes the following prerequisites:
+
+A beginner understanding of Clarity smart co…]]></summary>
+        <author>
+            <name>Osikhena Oshomah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solidity Program -2: BlockHelloWorld]]></title>
         <id>https://medium.com/p/2061773d1b9b</id>
