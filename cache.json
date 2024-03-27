@@ -7,6 +7,33 @@
       "articles": []
     },
     {
+      "title": "cryptomaton",
+      "feedUrl": "https://www.cryptomaton.org/feed/",
+      "siteUrl": "https://www.cryptomaton.org/",
+      "articles": [
+        {
+          "id": "https://www.cryptomaton.org/?p=1687",
+          "author": "Andrei",
+          "description": "Crypto markets have been pumping hard lately and the hype is strong once more. At the time of writing BTC is just shy of $65,000 and about to break to a new all time high. There’s never more opportunity in a market than in times of high volatility, and boy did the crypto markets over […]\nThe post This crypto trading bot can take advantage of crypto market volatility appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2024/03/04/this-crypto-trading-bot-can-take-advantage-of-crypto-market-volatility/",
+          "publishedOn": "2024-03-04T14:06:23.000Z",
+          "wordCount": 10001,
+          "title": "This crypto trading bot can take advantage of crypto market volatility",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/03/volatility-crypto-trading-bot.png"
+        },
+        {
+          "id": "https://www.cryptomaton.org/?p=1682",
+          "author": "Andrei",
+          "description": "True adoption for cryptocurrency and blockchain is still pretty far away. Bitcoin as legal tender is a step in the right direction but the real adoption will take place when this ecosystem gets less confusing, and more importantly — less fragmented. The state of crypto in 2024 is that there are thousands of chains, with specific applications […]\nThe post It’s time to abstract from the complexity of blockchain | #13 POT: The Cryptocurrency Podcast with OKX appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2024/03/01/its-time-to-abstract-from-the-complexity-of-blockchain-13-pot-the-cryptocurrency-podcast-with-okx/",
+          "publishedOn": "2024-03-01T13:20:47.000Z",
+          "wordCount": 9851,
+          "title": "It’s time to abstract from the complexity of blockchain | #13 POT: The Cryptocurrency Podcast with OKX",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/03/okx-podcast-gateway-complexity.png"
+        }
+      ]
+    },
+    {
       "title": "CoinsBench - Medium",
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
@@ -164,7 +191,7 @@
           "description": "Good question eh?\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/where-are-all-the-btc-515226e62abf?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-26T11:08:05.000Z",
-          "wordCount": 1430,
+          "wordCount": 1000,
           "title": "Where are all the BTC?",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*pNZLkvoCm0YVOspT"
         },
@@ -204,7 +231,7 @@
           "description": "tl;dr\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/curious-cryptos-commentary-25th-march-2024-the-eu-cash-cryptos-c1079100fdfb?source=rss----721b17443fd5---4",
           "publishedOn": "2024-03-26T11:07:07.000Z",
-          "wordCount": 1350,
+          "wordCount": 1036,
           "title": "Curious Cryptos’ Commentary 25th March 2024 — The EU, cash, & cryptos",
           "imageUrl": null
         },
