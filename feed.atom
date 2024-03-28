@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-28T16:14:28.606Z</id>
+    <id>urn:2024-03-28T17:12:14.942Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-28T16:14:28.606Z</updated>
+    <updated>2024-03-28T17:12:14.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3 Security: Demystifying Immutability and Raising Code Standards]]></title>
+        <id>https://medium.com/p/366c2222bbbb</id>
+        <link href="https://blog.blockmagnates.com/web3-security-demystifying-immutability-and-raising-code-standards-366c2222bbbb?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-03-28T17:00:46.000Z</updated>
+        <summary type="html"><![CDATA[This is the translation of the article “Segurança na Web3: Desmistificando Imutabilidade e Elevando Padrões de Código” from Bellum Galaxy.]]></summary>
+        <author>
+            <name>Patrick (Barba) Carneiro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating a Token-Gated Web Page With Clarity]]></title>
         <id>https://blog.developerdao.com/creating-a-token-gated-web-page-with-clarity</id>
