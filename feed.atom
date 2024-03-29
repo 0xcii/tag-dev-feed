@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-29T16:14:38.342Z</id>
+    <id>urn:2024-03-29T17:11:21.097Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-29T16:14:38.342Z</updated>
+    <updated>2024-03-29T17:11:21.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unlocking the Secrets of DEFI]]></title>
+        <id>https://medium.com/p/d905e6d5e2a9</id>
+        <link href="https://coinsbench.com/unlocking-the-secrets-of-defi-d905e6d5e2a9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-29T16:19:23.000Z</updated>
+        <summary type="html"><![CDATA[How to Make Money in the Decentralized Finance Revolution]]></summary>
+        <author>
+            <name>Ukezi Ebenezer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Interfaces — Facilitating interaction, modularity and Dapp upgradability]]></title>
+        <id>https://medium.com/p/baeb750cb37a</id>
+        <link href="https://coinsbench.com/solidity-interfaces-facilitating-interaction-modularity-and-dapp-upgradability-baeb750cb37a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-03-29T16:19:20.000Z</updated>
+        <summary type="html"><![CDATA[The power of interfaces in enhancing smart contract interaction, dApp modularity, upgradability, and shaping the future of blockchain tech.]]></summary>
+        <author>
+            <name>Simeon Campbell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[There is an Active Drain Attack on Solana Right Now]]></title>
         <id>https://www.cryptomaton.org/?p=1691</id>
@@ -224,26 +244,6 @@ A beginner understanding of Clarity smart co…]]></summary>
         <summary type="html"><![CDATA[ERC721A is a proposed standard for non-fungible tokens (NFTs) on the Ethereum blockchain. It is an extension of the widely used ERC721…]]></summary>
         <author>
             <name>Chris Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COMMON VULNERABILITIES: REENTRANCY PART — I]]></title>
-        <id>https://medium.com/p/3fe928489ef0</id>
-        <link href="https://coinsbench.com/common-vulnerabilities-reentrancy-part-i-3fe928489ef0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-22T17:20:20.000Z</updated>
-        <summary type="html"><![CDATA[Reentrancy is a vulnerability that can occur in smart contracts when they interact with other contracts. This vulnerability allows an…]]></summary>
-        <author>
-            <name>Logesh N</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Historical Summary of Solana]]></title>
-        <id>https://medium.com/p/9bd664ef9a5b</id>
-        <link href="https://coinsbench.com/historical-summary-of-solana-9bd664ef9a5b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-22T17:20:18.000Z</updated>
-        <summary type="html"><![CDATA[Solana is known as a fast, scalable, and permissionless blockchain network, with a record of success stories and effectively navigating…]]></summary>
-        <author>
-            <name>Judith Manyo Ogar</name>
         </author>
     </entry>
     <entry>
