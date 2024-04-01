@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-01T20:13:21.246Z</id>
+    <id>urn:2024-04-01T21:11:03.629Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-01T20:13:21.246Z</updated>
+    <updated>2024-04-01T21:11:03.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stop watching profits pass you by — maximize your blockchain trading today]]></title>
+        <id>https://medium.com/p/894e0935e551</id>
+        <link href="https://coinsbench.com/stop-watching-profits-pass-you-by-maximize-your-blockchain-trading-today-894e0935e551?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-01T20:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Are you sick of being left in the dust? While other traders are raking in massive profits from frontrunning opportunities, you’re stuck…]]></summary>
+        <author>
+            <name>OUBADI Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Uniswap Swap Router multiCall]]></title>
+        <id>https://medium.com/p/ef120b8ddced</id>
+        <link href="https://coinsbench.com/working-with-uniswap-swap-router-multicall-ef120b8ddced?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-01T20:18:24.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>arian salmanzadeh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity: Your Guide to Building Smart Contracts -1]]></title>
+        <id>https://medium.com/p/00b7760cac10</id>
+        <link href="https://coinsbench.com/solidity-your-guide-to-building-smart-contracts-1-00b7760cac10?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-01T20:18:22.000Z</updated>
+        <summary type="html"><![CDATA[The world of blockchain technology is abuzz with innovation, and at the heart of it all lies the concept of smart contracts. These…]]></summary>
+        <author>
+            <name>shubham kumar singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Solidity -2: Variables, Control Flow and loops]]></title>
+        <id>https://medium.com/p/fdb7abf21ab9</id>
+        <link href="https://coinsbench.com/learning-solidity-2-variables-control-flow-and-loops-fdb7abf21ab9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-01T20:18:20.000Z</updated>
+        <summary type="html"><![CDATA[Welcome, blockchain enthusiasts! In this journey towards building robust smart contracts, we’ll delve into the fundamentals of Solidity…]]></summary>
+        <author>
+            <name>shubham kumar singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Solana Token with Tax (Fee), Logo and Name.]]></title>
+        <id>https://medium.com/p/21fda2faf1f2</id>
+        <link href="https://coinsbench.com/create-a-solana-token-with-tax-fee-logo-and-name-21fda2faf1f2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-01T20:17:10.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to create a Solana SPL Token with Fee, Logo and Name using the Solana CLI.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>David Mansion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The $2 Trillion AI Disruption: Is Nvidia the New Amazon or the Next Dot-com Disaster?]]></title>
         <id>https://medium.com/p/7b54737157ac</id>
@@ -194,56 +245,6 @@ A beginner understanding of Clarity smart co…]]></summary>
         <summary type="html"><![CDATA[When programming in Rust, one of the most fundamental tasks is to manage collections of data. Rust, with its focus on performance and…]]></summary>
         <author>
             <name>Ajmal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embarking on the Aptos Odyssey: A Quest for Blockchain Enlightenment]]></title>
-        <id>https://medium.com/p/462de9a9fb28</id>
-        <link href="https://coinsbench.com/embarking-on-the-aptos-odyssey-a-quest-for-blockchain-enlightenment-462de9a9fb28?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-25T12:51:36.000Z</updated>
-        <summary type="html"><![CDATA[Aptos is a cutting-edge blockchain technology created to revolutionize the concept of decentralized applications (dApps). With its…]]></summary>
-        <author>
-            <name>Fadehan Daniel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Sushi Samurai Exploit]]></title>
-        <id>https://medium.com/p/aebf2d4d2a0c</id>
-        <link href="https://coinsbench.com/super-sushi-samurai-exploit-aebf2d4d2a0c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-25T12:51:26.000Z</updated>
-        <summary type="html"><![CDATA[A contract that doesn’t check if the sender and recipient addresses are the same is vulnerable to an exploit similar to the Super Sushi…]]></summary>
-        <author>
-            <name>Logesh N</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COMMON VULNERABILITIES: Denial of Service (DoS)]]></title>
-        <id>https://medium.com/p/f9f0669dc852</id>
-        <link href="https://coinsbench.com/common-vulnerabilities-denial-of-service-dos-f9f0669dc852?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-25T12:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Denial of Service (DoS) attacks in the context of Solidity and blockchain refer to malicious activities aimed at disrupting the normal…]]></summary>
-        <author>
-            <name>Logesh N</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Solidity Data Types: Value Types, Reference Types, and Operations]]></title>
-        <id>https://medium.com/p/0e8c25cccad5</id>
-        <link href="https://coinsbench.com/mastering-solidity-data-types-value-types-reference-types-and-operations-0e8c25cccad5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-25T12:51:22.000Z</updated>
-        <summary type="html"><![CDATA[Solidity, the programming language of the Ethereum blockchain, offers a robust set of data types and operations to facilitate smart…]]></summary>
-        <author>
-            <name>Sreerag U</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is ERC721A? How to use it?]]></title>
-        <id>https://medium.com/p/c376a24e8ae5</id>
-        <link href="https://coinsbench.com/what-is-erc721a-how-to-use-it-c376a24e8ae5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-23T11:12:21.000Z</updated>
-        <summary type="html"><![CDATA[ERC721A is a proposed standard for non-fungible tokens (NFTs) on the Ethereum blockchain. It is an extension of the widely used ERC721…]]></summary>
-        <author>
-            <name>Chris Kennedy</name>
         </author>
     </entry>
     <entry>
