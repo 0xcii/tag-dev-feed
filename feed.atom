@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-03T07:11:12.024Z</id>
+    <id>urn:2024-04-03T08:15:38.680Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-03T07:11:12.025Z</updated>
+    <updated>2024-04-03T08:15:38.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Withdrawal Pattern in Solidity]]></title>
+        <id>https://medium.com/p/26c755fc704b</id>
+        <link href="https://coinsbench.com/withdrawal-pattern-in-solidity-26c755fc704b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-03T08:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts deployed on blockchain platforms like Ethereum have revolutionized various industries by enabling decentralized and trustless transactions. However, ensuring the security of funds…]]></summary>
+        <author>
+            <name>Ranjithkumar C</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin WARNING: Here’s Why a Crypto Pump is a Bad Idea!]]></title>
         <id>https://medium.com/p/6240f718fab8</id>
@@ -238,16 +248,6 @@ A beginner understanding of Clarity smart co…]]></summary>
         <summary type="html"><![CDATA[The world of blockchain is full of complex terms, and the Solana Virtual Machine (SVM) is no exception. But behind the technical jargon lies a powerful engine that makes Solana one of the fastest…]]></summary>
         <author>
             <name>Ranjithkumar C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Practical Guide to Rust Collection]]></title>
-        <id>https://medium.com/p/52ad6f61bba7</id>
-        <link href="https://coinsbench.com/a-practical-guide-to-rust-collection-52ad6f61bba7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-03-25T12:51:38.000Z</updated>
-        <summary type="html"><![CDATA[When programming in Rust, one of the most fundamental tasks is to manage collections of data. Rust, with its focus on performance and…]]></summary>
-        <author>
-            <name>Ajmal</name>
         </author>
     </entry>
     <entry>
