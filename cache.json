@@ -29,6 +29,96 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a9362265bb0b",
+          "author": "Ranjithkumar C",
+          "description": "In the world of smart contract development, ensuring that contracts can interact with the outside world is crucial. One common challenge is accessing external data, such as the price of a…",
+          "link": "https://coinsbench.com/understanding-the-oracle-pattern-in-solidity-a9362265bb0b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-08T09:29:11.000Z",
+          "wordCount": 2534,
+          "title": "Understanding the Oracle Pattern in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*SRMS5OgO7bfm74IF.jpg"
+        },
+        {
+          "id": "https://medium.com/p/8ee1cc2bd8d3",
+          "author": "Logesh N",
+          "description": "Uninitialized storage variables (state variables) bugs in Solidity occur when storage variables are accessed or used without being properly…",
+          "link": "https://coinsbench.com/common-vulnerabilities-uninitialized-storage-variables-8ee1cc2bd8d3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-08T09:29:09.000Z",
+          "wordCount": 3564,
+          "title": "COMMON VULNERABILITIES: Uninitialized Storage Variables",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/37a72326b068",
+          "author": "Logesh N",
+          "description": "Access control issues in Solidity refer to vulnerabilities related to improper management of permissions and privileges within smart…",
+          "link": "https://coinsbench.com/common-vulnerabilities-access-control-37a72326b068?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-08T09:28:55.000Z",
+          "wordCount": 3270,
+          "title": "COMMON VULNERABILITIES: ACCESS CONTROL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2576b7ad12ec",
+          "author": "Joseph David",
+          "description": "Solidity, the programming language for Ethereum smart contracts, requires a solid grasp of variable scope to ensure secure and efficient…",
+          "link": "https://coinsbench.com/demystifying-variable-scope-in-solidity-keeping-your-smart-contracts-clean-and-secure-2576b7ad12ec?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-08T09:28:53.000Z",
+          "wordCount": 1705,
+          "title": "Demystifying Variable Scope in Solidity: Keeping Your Smart Contracts Clean and Secure",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*7jbjXROEjnI8tJPD1HvxRw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/66db52746915",
+          "author": "Jordan Type",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/deploying-your-first-smart-contract-on-lisk-with-hardhat-a-step-by-step-guide-66db52746915?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-08T09:28:51.000Z",
+          "wordCount": 1783,
+          "title": "Deploying Your First Smart Contract on Lisk with Hardhat: A Step-by-Step Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/93252988991d",
+          "author": "Logesh N",
+          "description": "In Solidity, if you declare a state variable or function without explicitly specifying its visibility (i.e., public, internal, private, or…",
+          "link": "https://coinsbench.com/common-vulnerabilities-default-visibility-93252988991d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-08T09:28:47.000Z",
+          "wordCount": 2749,
+          "title": "COMMON VULNERABILITIES: DEFAULT VISIBILITY",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*Gk-LxbTi0qwkj0AOoAOFeg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/f904162a0add",
+          "author": "Trym Thoren",
+          "description": "Navigating the cryptocurrency market in search of the next big thing requires a blend of technical savvy, market intuition, and an…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/how-to-find-the-next-10x-100x-or-1000x-cryptocurrency-before-it-blows-up-f904162a0add?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-08T09:28:44.000Z",
+          "wordCount": 893,
+          "title": "How to find the next 10x, 100x or 1000x cryptocurrency before it blows up!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:558/1*JZS8150rjbJyM4TNrPnfmQ.png"
+        },
+        {
+          "id": "https://medium.com/p/319cf35544ac",
+          "author": "0xAdnan",
+          "description": "This comprehensive guide will point you to strategies for minimizing gas usage for your Ethereum smart contracts.",
+          "link": "https://coinsbench.com/alpha-gas-optimization-hacks-319cf35544ac?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-08T09:28:42.000Z",
+          "wordCount": 3389,
+          "title": "Alpha: Gas optimization Hacks",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*dR9jMLT8hsHiitI0.jpg"
+        },
+        {
+          "id": "https://medium.com/p/c4a73634a688",
+          "author": "Alejo Lovallo",
+          "description": "— ERC-2771",
+          "link": "https://coinsbench.com/the-forgotten-ercs-eips-erc-2771-c4a73634a688?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-08T09:28:40.000Z",
+          "wordCount": 3688,
+          "title": "The Forgotten ERCs & EIPs: ERC 2771",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Qy4pzGkvXtOdE6v5QLGkjQ.png"
+        },
+        {
           "id": "https://medium.com/p/d2bf28e48262",
           "author": "Saxumfella",
           "description": "Ethernity Cloud is a decentralized cloud on web3, That’s all about providing a secure and efficient marketplace for users to buy and sell…",
@@ -37,96 +127,6 @@
           "wordCount": 2220,
           "title": "Ethernity Cloud is a decentralized cloud on web3, That’s all about providing a secure and efficient…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/1*HtqO7mMJRnqNtB-gd9JekQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/26c755fc704b",
-          "author": "Ranjithkumar C",
-          "description": "Smart contracts deployed on blockchain platforms like Ethereum have revolutionized various industries by enabling decentralized and trustless transactions. However, ensuring the security of funds…",
-          "link": "https://coinsbench.com/withdrawal-pattern-in-solidity-26c755fc704b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-03T08:00:55.000Z",
-          "wordCount": 2169,
-          "title": "Withdrawal Pattern in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*BJbZnNS3y9kcH3E9.jpg"
-        },
-        {
-          "id": "https://medium.com/p/894e0935e551",
-          "author": "OUBADI Ahmed",
-          "description": "Are you sick of being left in the dust? While other traders are raking in massive profits from frontrunning opportunities, you’re stuck…",
-          "link": "https://coinsbench.com/stop-watching-profits-pass-you-by-maximize-your-blockchain-trading-today-894e0935e551?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-01T20:18:28.000Z",
-          "wordCount": 1589,
-          "title": "Stop watching profits pass you by — maximize your blockchain trading today",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*HGyYaLr29yEd4P9v"
-        },
-        {
-          "id": "https://medium.com/p/ef120b8ddced",
-          "author": "arian salmanzadeh",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/working-with-uniswap-swap-router-multicall-ef120b8ddced?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-01T20:18:24.000Z",
-          "wordCount": 1638,
-          "title": "Working with Uniswap Swap Router multiCall",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:975/1*G0pazlmGVEobaxcGqitt4w.png"
-        },
-        {
-          "id": "https://medium.com/p/00b7760cac10",
-          "author": "shubham kumar singh",
-          "description": "The world of blockchain technology is abuzz with innovation, and at the heart of it all lies the concept of smart contracts. These…",
-          "link": "https://coinsbench.com/solidity-your-guide-to-building-smart-contracts-1-00b7760cac10?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-01T20:18:22.000Z",
-          "wordCount": 1744,
-          "title": "Solidity: Your Guide to Building Smart Contracts -1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/fdb7abf21ab9",
-          "author": "shubham kumar singh",
-          "description": "Welcome, blockchain enthusiasts! In this journey towards building robust smart contracts, we’ll delve into the fundamentals of Solidity…",
-          "link": "https://coinsbench.com/learning-solidity-2-variables-control-flow-and-loops-fdb7abf21ab9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-01T20:18:20.000Z",
-          "wordCount": 2168,
-          "title": "Learning Solidity -2: Variables, Control Flow and loops",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/21fda2faf1f2",
-          "author": "David Mansion",
-          "description": "Learn how to create a Solana SPL Token with Fee, Logo and Name using the Solana CLI.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/create-a-solana-token-with-tax-fee-logo-and-name-21fda2faf1f2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-01T20:17:10.000Z",
-          "wordCount": 930,
-          "title": "Create a Solana Token with Tax (Fee), Logo and Name.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d905e6d5e2a9",
-          "author": "Ukezi Ebenezer",
-          "description": "How to Make Money in the Decentralized Finance Revolution",
-          "link": "https://coinsbench.com/unlocking-the-secrets-of-defi-d905e6d5e2a9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-29T16:19:23.000Z",
-          "wordCount": 3991,
-          "title": "Unlocking the Secrets of DEFI",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZThszA9N6jdZCxdBFFAUnw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/baeb750cb37a",
-          "author": "Simeon Campbell",
-          "description": "The power of interfaces in enhancing smart contract interaction, dApp modularity, upgradability, and shaping the future of blockchain tech.",
-          "link": "https://coinsbench.com/solidity-interfaces-facilitating-interaction-modularity-and-dapp-upgradability-baeb750cb37a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-29T16:19:20.000Z",
-          "wordCount": 5393,
-          "title": "Solidity Interfaces — The Building Blocks of Modern dApps",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*iJxHV5mI2h6z85qgAZaHQQ.png"
-        },
-        {
-          "id": "https://medium.com/p/2061773d1b9b",
-          "author": "shubham kumar singh",
-          "description": "Solidity, the power behind smart contracts on the Ethereum blockchain, might seem complex at first glance. But fear not! By dissecting a…",
-          "link": "https://coinsbench.com/solidity-program-2-blockhelloworld-2061773d1b9b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-03-27T14:44:55.000Z",
-          "wordCount": 1946,
-          "title": "Solidity Program -2: BlockHelloWorld",
-          "imageUrl": null
         }
       ]
     },
@@ -136,104 +136,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/099a8ec642a4",
-          "author": "Abhishek Purohit",
-          "description": "Gold in a World of Shadows\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/gold-the-current-mood-part-3-099a8ec642a4?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-04-08T08:58:38.000Z",
-          "wordCount": 1547,
-          "title": "Gold — the current mood — Part 3",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:795/1*NP0NhfRDD1Hm9LUGfxHTrA.png"
+          "id": "https://medium.com/p/63e59a7b6f23",
+          "author": "Mark Timmis",
+          "description": "tl;dr\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-8th-april-2024-price-action-63e59a7b6f23?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-04-08T09:59:02.000Z",
+          "wordCount": 986,
+          "title": "Curious Cryptos’ Commentary 8th April 2024 — Price action",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1039/1*0j-uxORiZ9IqciW0q0CU1Q.png"
         },
         {
-          "id": "https://medium.com/p/7af3129faa6a",
-          "author": "NordFX",
-          "description": "EUR/USD: The Dollar Weakness Puzzle",
-          "link": "https://medium.com/coinmonks/forex-and-cryptocurrency-forecast-for-08-12-april-2024-7af3129faa6a?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-04-08T08:58:13.000Z",
-          "wordCount": 5857,
-          "title": "Forex and Cryptocurrency Forecast for 08–12 April 2024​",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/0*v7qzFYpV0IZXtKf1.jpeg"
+          "id": "https://medium.com/p/073d8bcf2517",
+          "author": "The Connecter Official",
+          "description": "In today’s rapidly evolving financial landscape, cryptocurrency has emerged as a disruptive force, offering a glimpse into a future where…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/making-money-as-accessible-as-the-internet-a-comparative-study-on-cryptocurrency-and-banking-073d8bcf2517?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-04-08T09:58:58.000Z",
+          "wordCount": 1303,
+          "title": "Making Money as Accessible as the Internet: A Comparative Study on Cryptocurrency and Banking…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*F8MN36lk7Yg41jxroEvDpA.png"
         },
         {
-          "id": "https://medium.com/p/b4f8330c9035",
-          "author": "Decaf",
-          "description": "Introduction:",
-          "link": "https://medium.com/coinmonks/unlocking-financial-freedom-with-butan-btn-on-cardano-a-comprehensive-overview-b4f8330c9035?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-04-08T08:58:00.000Z",
-          "wordCount": 2117,
-          "title": "Unlocking Financial Freedom with BUTAN (BTN) on Cardano: A Comprehensive Overview",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*gK1UcNgrg_VDMQQSq8fSiA.png"
+          "id": "https://medium.com/p/104222bcf627",
+          "author": "Williammarkerzz",
+          "description": "The Leading Crypto Mining Softwares for April 2024! Explore our top 10 picks for optimized mining operations and maximum profitability.",
+          "link": "https://medium.com/coinmonks/top-10-best-crypto-mining-softwares-for-april-2024-104222bcf627?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-04-08T09:58:30.000Z",
+          "wordCount": 2631,
+          "title": "Top 10 Best Crypto Mining Softwares for April 2024",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*anHz1xIygxqg84_Bg8aZbw.jpeg"
         },
         {
-          "id": "https://medium.com/p/b1b124f5c449",
-          "author": "Just Another Crypto Analyst",
-          "description": "Introduction",
-          "link": "https://medium.com/coinmonks/strategies-for-maximizing-crypto-airdrop-gains-2024-b1b124f5c449?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-04-08T08:57:54.000Z",
-          "wordCount": 2737,
-          "title": "Strategies for Maximizing Crypto Airdrop Gains (2024)",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*3CJByBA4S8BnfDcn"
+          "id": "https://medium.com/p/d672df9b0317",
+          "author": "Cressida Noah",
+          "description": "In the world of cryptocurrency, Binance emerged as a significant player in 2017, quickly establishing itself as a leading exchange…",
+          "link": "https://medium.com/coinmonks/predicting-binance-user-base-and-revenue-2024-2026-d672df9b0317?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-04-08T09:58:20.000Z",
+          "wordCount": 2607,
+          "title": "Predicting Binance User Base and Revenue: 2024–2026",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*OSOJVKzFgIADNeKtSUmbHw.jpeg"
         },
         {
-          "id": "https://medium.com/p/2dad33181262",
-          "author": "World As One 4PEACE",
-          "description": "The US Farm Bill & Top Global Energy Emissions Take ESG Headlines This Week\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/on-the-us-farm-bill-global-co2-emissions-report-2dad33181262?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-04-08T08:57:44.000Z",
-          "wordCount": 1056,
-          "title": "On the US Farm Bill & Global CO2 Emissions Report",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*ucN2Hot37BA6At0y"
+          "id": "https://medium.com/p/25dc8b26a607",
+          "author": "Rogers Mayaka",
+          "description": "The cryptocurrency market continues to evolve rapidly, capturing the interest of both seasoned investors and newcomers. This article…",
+          "link": "https://medium.com/coinmonks/trending-cryptocurrencies-a-deep-dive-in-2024-25dc8b26a607?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-04-08T09:57:41.000Z",
+          "wordCount": 1845,
+          "title": "Trending Cryptocurrencies: A Deep Dive in 2024",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1193/1*ZJqnn410wZcLAbUt8qVp7w.png"
         },
         {
-          "id": "https://medium.com/p/9cd1c9be1faf",
-          "author": "Mark",
-          "description": "Discover Ethereum’s performance highlights for March 2024! Gain insights into its positive growth in active daily wallets and concerning…",
-          "link": "https://medium.com/coinmonks/insights-into-growth-and-trends-of-ethereum-eth-blockchain-april-2024-9cd1c9be1faf?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-04-08T08:57:32.000Z",
-          "wordCount": 4488,
-          "title": "Insights into Growth and Trends of Ethereum (ETH) blockchain (April 2024)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TJ40NAVknYZDVTEQ62Qr6w.jpeg"
+          "id": "https://medium.com/p/bb8c5f9ef369",
+          "author": "Linda Flowers",
+          "description": "MEV bots play a crucial role in extracting maximal value from blockchain transactions. Learn how they operate and their impact on the…",
+          "link": "https://medium.com/coinmonks/whats-the-role-of-mev-bots-in-extracting-maximal-value-bb8c5f9ef369?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-04-08T09:57:36.000Z",
+          "wordCount": 4907,
+          "title": "What’s the Role of MEV Bots in Extracting Maximal Value?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:626/0*gMvix-o5SbSIMOGh.jpg"
         },
         {
-          "id": "https://medium.com/p/9eb5eb4f55cd",
-          "author": "Benjamin Duffield-Harding",
-          "description": "How to verify using build-info files in Hardhat ✅",
-          "link": "https://medium.com/coinmonks/verify-a-smart-contract-on-etherscan-9eb5eb4f55cd?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-04-08T08:57:27.000Z",
-          "wordCount": 1304,
-          "title": "Verify a Smart Contract on Etherscan",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*FbIC55EH0apm9c98"
+          "id": "https://medium.com/p/35a0b6f13d21",
+          "author": "David Smith",
+          "description": "Down the Rabbit Hole: 10 Reasons Why Phil Wilson is Satoshi Nakamoto",
+          "link": "https://medium.com/coinmonks/phil-pilled-35a0b6f13d21?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-04-08T09:56:23.000Z",
+          "wordCount": 2731,
+          "title": "PHIL-PILLED",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1040/1*_eQgGz7ATTYFNSUuUEzqPg.jpeg"
         },
         {
-          "id": "https://medium.com/p/ee13279a9cdc",
-          "author": "Mark",
-          "description": "Discover the latest developments in the Solana blockchain platform as of March 2024! Dive into this insightful document to explore the…",
-          "link": "https://medium.com/coinmonks/insights-into-growth-and-trends-of-solana-sol-blockchain-april-2024-ee13279a9cdc?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-04-08T08:56:54.000Z",
-          "wordCount": 4785,
-          "title": "Insights into Growth and Trends of Solana (SOL) blockchain (April 2024)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*SDBE_z_UJadSULACbM2IoQ.jpeg"
+          "id": "https://medium.com/p/336a295d3799",
+          "author": "Malav Patel",
+          "description": "Happy Easter",
+          "link": "https://medium.com/coinmonks/dont-put-all-your-eggs-in-one-crypto-basket-a-guide-to-diversification-336a295d3799?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-04-08T09:55:58.000Z",
+          "wordCount": 3146,
+          "title": "Don’t Put All Your Eggs in One Crypto Basket: A Guide to Diversification",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*IX2cbC1fDbswIppz"
         },
         {
-          "id": "https://medium.com/p/8c7927241e66",
-          "author": "Ervin Zubic",
-          "description": "Discover how Polkadot and Cosmos offer unique solutions for connecting blockchains. Learn about their approaches to interoperability and…",
-          "link": "https://medium.com/coinmonks/polkadot-vs-cosmos-the-battle-for-blockchain-interoperability-8c7927241e66?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-04-08T08:56:46.000Z",
-          "wordCount": 2255,
-          "title": "Polkadot vs. Cosmos: The Battle for Blockchain Interoperability",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*TQBaKJRQRlvhdNPCLoXUyg.png"
+          "id": "https://medium.com/p/de982afcb4df",
+          "author": "WolfOfAllVerse",
+          "description": "In the ever-evolving landscape of cryptocurrency, one trend has emerged as a powerful alternative to traditional fundraising methods…",
+          "link": "https://medium.com/coinmonks/how-airdrops-are-revolutionizing-early-crypto-adoption-while-staying-clear-of-regulatory-risks-de982afcb4df?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-04-08T09:12:24.000Z",
+          "wordCount": 2399,
+          "title": "How Airdrops are revolutionizing Early Crypto Adoption while staying clear of Regulatory Risks",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*FACFie0A6UE85Hrr-4ZwZA.jpeg"
         },
         {
-          "id": "https://medium.com/p/2dbc15e94485",
-          "author": "MoneySourceDeals",
-          "description": "Post By MoneySourceDeals",
-          "link": "https://medium.com/coinmonks/altcoin-explained-pros-and-cons-types-and-future-2dbc15e94485?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-04-08T08:55:51.000Z",
-          "wordCount": 3199,
-          "title": "Altcoin Explained: Pros and Cons, Types, and Future",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:750/1*7ssP6CnddhGo6AaaALsV2g.jpeg"
+          "id": "https://medium.com/p/a1e2d09cac3b",
+          "author": "PVMihalache",
+          "description": "Let’s talk about interoperability powered by intents, and how Across adapted to supply the best tools required by the current status quo…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/across-the-cryptoverse-40-staking-pre-for-across-keywords-a1e2d09cac3b?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-04-08T09:12:16.000Z",
+          "wordCount": 1095,
+          "title": "Across the Cryptoverse #40 — Staking $PRE For Across Keywords",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:680/0*F1PytIFa-NmqBH1f"
         }
       ]
     },
@@ -242,6 +242,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/a4cdf0f4353b",
+          "author": "Tomás",
+          "description": "In this article, we’ll see some basic stuff like numeral systems and we’ll code a little with solidity and javascript in order to…",
+          "link": "https://blog.blockmagnates.com/into-the-mind-of-a-web-3-black-hat-hacker-a4cdf0f4353b?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-04-08T09:31:34.000Z",
+          "wordCount": 4257,
+          "title": "Into the mind of a web 3 black-hat hacker",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*2eZxQ_Kcf5F8Dqq4l1Y3Sg.png"
+        },
         {
           "id": "https://medium.com/p/366c2222bbbb",
           "author": "Patrick (Barba) Carneiro",
