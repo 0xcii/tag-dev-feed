@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-10T08:17:40.717Z</id>
+    <id>urn:2024-04-10T09:13:50.515Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-10T08:17:40.717Z</updated>
+    <updated>2024-04-10T09:13:50.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Comparing Solidity With Clarity]]></title>
+        <id>https://blog.developerdao.com/comparing-solidity-with-clarity</id>
+        <link href="https://blog.developerdao.com/comparing-solidity-with-clarity"/>
+        <updated>2024-04-10T08:54:05.000Z</updated>
+        <summary type="html"><![CDATA[Writing smart contracts for Bitcoin was limited in the past, but with Stacks, this changed. Its Clarity programming language allows you to build Bitcoin smart contacts similar to those on the Ethereum network while being more secure than Solidity at the same time. At first glance, Clarity might seem a bit foreign, but the language has many similarities with Solidity, so don't get discouraged by its syntax.
+This article adds to our first Stacks workshop with Hiro, where we compared the two languages.
+What is Stacks?
+Stacks is a layer-2 blockchain network for Bitcoin that reads data from Bitcoin, settles on Bitcoin, and allows the creation of smart contracts similar to the ones on Ethereum.
+Besides being a smart contract platform, Stacks also offers several features and services you might kn…]]></summary>
+        <author>
+            <name>Ϗ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a Fun Blockchain Quiz App with HTML, CSS & JavaScript: A Step-by-Step Guide]]></title>
         <id>https://medium.com/p/7baad34c70e0</id>
