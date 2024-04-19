@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-19T13:13:41.046Z</id>
+    <id>urn:2024-04-19T14:11:22.539Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-19T13:13:41.046Z</updated>
+    <updated>2024-04-19T14:11:22.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Real-Time Blockchain Monitor with Rust]]></title>
+        <id>https://medium.com/p/86a510023fdd</id>
+        <link href="https://coinsbench.com/building-a-real-time-blockchain-monitor-with-rust-86a510023fdd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-19T13:23:13.000Z</updated>
+        <summary type="html"><![CDATA[Prerequisites]]></summary>
+        <author>
+            <name>Burgossrodrigo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing Advertising: The Power of Smart Contracts for Transparent Agreements]]></title>
+        <id>https://medium.com/p/79474508fdc4</id>
+        <link href="https://coinsbench.com/revolutionizing-advertising-the-power-of-smart-contracts-for-transparent-agreements-79474508fdc4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-19T13:23:10.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic world of advertising, transparency is key. Yet, traditional advertising agreements often lack the transparency needed to…]]></summary>
+        <author>
+            <name>rvaclassic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide to Deploy & Verify Smart Contract on Amoy using Hardhat]]></title>
+        <id>https://medium.com/p/1b4f26a2dc78</id>
+        <link href="https://coinsbench.com/guide-to-deploy-verify-smart-contract-on-amoy-using-hardhat-1b4f26a2dc78?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-19T13:23:08.000Z</updated>
+        <summary type="html"><![CDATA[Polygon Mumbai testnet for Polygon PoS uses Ethereum’s Goerli as its root chain. Since Goerli went through depreceation Mumbai is in tandem…]]></summary>
+        <author>
+            <name>Viraj Patva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Solidity — 3: Building Blocks of Smart Contracts — Constructors, Modifiers, and Built-in…]]></title>
+        <id>https://medium.com/p/2a2551cb8cb8</id>
+        <link href="https://coinsbench.com/learning-solidity-3-building-blocks-of-smart-contracts-constructors-modifiers-and-built-in-2a2551cb8cb8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-19T13:23:06.000Z</updated>
+        <summary type="html"><![CDATA[Welcome, blockchain enthusiasts, to the exciting world of Solidity! This versatile language empowers you to build smart contracts, the…]]></summary>
+        <author>
+            <name>shubham kumar singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What You Need to Know About Bitcoin Exchange-Traded Funds (ETF)]]></title>
+        <id>https://medium.com/p/687b91f384ba</id>
+        <link href="https://coinsbench.com/what-you-need-to-know-about-bitcoin-exchange-traded-funds-etf-687b91f384ba?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-19T13:22:50.000Z</updated>
+        <summary type="html"><![CDATA[While many may think that Bitcoin ETFs are a new concept, they are not. Bitcoin ETFs date back to 2013 when the Winklevoss twins attempted…]]></summary>
+        <author>
+            <name>Neville Munjogu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Access Restriction Patterns in Solidity]]></title>
+        <id>https://medium.com/p/99f85e3dee53</id>
+        <link href="https://coinsbench.com/access-restriction-patterns-in-solidity-99f85e3dee53?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-19T13:22:47.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, the programming language for Ethereum smart contracts, offers immense power and flexibility. But with great power comes great responsibility — the responsibility to secure your code and…]]></summary>
+        <author>
+            <name>Ranjithkumar C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Halving.]]></title>
+        <id>https://medium.com/p/7245f694295d</id>
+        <link href="https://coinsbench.com/bitcoin-halving-7245f694295d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-19T13:22:45.000Z</updated>
+        <summary type="html"><![CDATA[There are 21 million Bitcoins, but they are not all “issued” at once. Each Bitcoin is “issued” by mining. New Bitcoins are generated…]]></summary>
+        <author>
+            <name>Ushangi Matiashvili GCWine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Tips and Trick]]></title>
+        <id>https://medium.com/p/5201d08ce49f</id>
+        <link href="https://coinsbench.com/solidity-tips-and-trick-5201d08ce49f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-19T13:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Here are some tips and tricks to help you with Solidity]]></summary>
+        <author>
+            <name>Wesley Coetzee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Solidity -4: Building a Simple Blockchain Bank with Solidity]]></title>
+        <id>https://medium.com/p/b9d3d529ec48</id>
+        <link href="https://coinsbench.com/learning-solidity-4-building-a-simple-blockchain-bank-with-solidity-b9d3d529ec48?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-19T13:22:38.000Z</updated>
+        <summary type="html"><![CDATA[In the world of decentralized finance (DeFi), blockchain technology offers exciting possibilities for creating alternative financial…]]></summary>
+        <author>
+            <name>shubham kumar singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mastering the Art of Polygon Mining: Tips, Tricks, and Tools]]></title>
         <id>https://medium.com/p/b77fa6c3c0b5</id>
@@ -165,26 +255,6 @@ The post How I improved my crypto trading bot’s exit strategy appeared first o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unlocking the Future: Unleashing the Power of Smart Contracts for Endless Possibilities]]></title>
-        <id>https://medium.com/p/178cff511afd</id>
-        <link href="https://coinsbench.com/unlocking-the-future-unleashing-the-power-of-smart-contracts-for-endless-possibilities-178cff511afd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-11T09:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Smart Contract refers to a piece of computer program that gets executed by a quorum of Blockchain nodes independently to record the latest…]]></summary>
-        <author>
-            <name>Ukezi Ebenezer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain]]></title>
-        <id>https://medium.com/p/d0b4eb2dae30</id>
-        <link href="https://coinsbench.com/blockchain-d0b4eb2dae30?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-11T09:01:27.000Z</updated>
-        <summary type="html"><![CDATA[What I will cover?]]></summary>
-        <author>
-            <name>Md Tareq Shah Alam</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Comparing Solidity With Clarity]]></title>
         <id>https://blog.developerdao.com/comparing-solidity-with-clarity</id>
         <link href="https://blog.developerdao.com/comparing-solidity-with-clarity"/>
@@ -206,77 +276,6 @@ Besides being a smart contract platform, Stacks also offers several features and
         <summary type="html"><![CDATA[In this article, we’ll see some basic stuff like numeral systems and we’ll code a little with solidity and javascript in order to…]]></summary>
         <author>
             <name>Tomás</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Oracle Pattern in Solidity]]></title>
-        <id>https://medium.com/p/a9362265bb0b</id>
-        <link href="https://coinsbench.com/understanding-the-oracle-pattern-in-solidity-a9362265bb0b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-08T09:29:11.000Z</updated>
-        <summary type="html"><![CDATA[In the world of smart contract development, ensuring that contracts can interact with the outside world is crucial. One common challenge is accessing external data, such as the price of a…]]></summary>
-        <author>
-            <name>Ranjithkumar C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COMMON VULNERABILITIES: Uninitialized Storage Variables]]></title>
-        <id>https://medium.com/p/8ee1cc2bd8d3</id>
-        <link href="https://coinsbench.com/common-vulnerabilities-uninitialized-storage-variables-8ee1cc2bd8d3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-08T09:29:09.000Z</updated>
-        <summary type="html"><![CDATA[Uninitialized storage variables (state variables) bugs in Solidity occur when storage variables are accessed or used without being properly…]]></summary>
-        <author>
-            <name>Logesh N</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COMMON VULNERABILITIES: ACCESS CONTROL]]></title>
-        <id>https://medium.com/p/37a72326b068</id>
-        <link href="https://coinsbench.com/common-vulnerabilities-access-control-37a72326b068?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-08T09:28:55.000Z</updated>
-        <summary type="html"><![CDATA[Access control issues in Solidity refer to vulnerabilities related to improper management of permissions and privileges within smart…]]></summary>
-        <author>
-            <name>Logesh N</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying Variable Scope in Solidity: Keeping Your Smart Contracts Clean and Secure]]></title>
-        <id>https://medium.com/p/2576b7ad12ec</id>
-        <link href="https://coinsbench.com/demystifying-variable-scope-in-solidity-keeping-your-smart-contracts-clean-and-secure-2576b7ad12ec?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-08T09:28:53.000Z</updated>
-        <summary type="html"><![CDATA[Solidity, the programming language for Ethereum smart contracts, requires a solid grasp of variable scope to ensure secure and efficient…]]></summary>
-        <author>
-            <name>Joseph David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying Your First Smart Contract on Lisk with Hardhat: A Step-by-Step Guide]]></title>
-        <id>https://medium.com/p/66db52746915</id>
-        <link href="https://coinsbench.com/deploying-your-first-smart-contract-on-lisk-with-hardhat-a-step-by-step-guide-66db52746915?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-08T09:28:51.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Jordan Type</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COMMON VULNERABILITIES: DEFAULT VISIBILITY]]></title>
-        <id>https://medium.com/p/93252988991d</id>
-        <link href="https://coinsbench.com/common-vulnerabilities-default-visibility-93252988991d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-08T09:28:47.000Z</updated>
-        <summary type="html"><![CDATA[In Solidity, if you declare a state variable or function without explicitly specifying its visibility (i.e., public, internal, private, or…]]></summary>
-        <author>
-            <name>Logesh N</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to find the next 10x, 100x or 1000x cryptocurrency before it blows up!]]></title>
-        <id>https://medium.com/p/f904162a0add</id>
-        <link href="https://coinsbench.com/how-to-find-the-next-10x-100x-or-1000x-cryptocurrency-before-it-blows-up-f904162a0add?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-08T09:28:44.000Z</updated>
-        <summary type="html"><![CDATA[Navigating the cryptocurrency market in search of the next big thing requires a blend of technical savvy, market intuition, and an…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Trym Thoren</name>
         </author>
     </entry>
     <entry>

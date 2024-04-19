@@ -39,6 +39,96 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/86a510023fdd",
+          "author": "Burgossrodrigo",
+          "description": "Prerequisites",
+          "link": "https://coinsbench.com/building-a-real-time-blockchain-monitor-with-rust-86a510023fdd?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-19T13:23:13.000Z",
+          "wordCount": 1367,
+          "title": "Building a Real-Time Blockchain Monitor with Rust",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:709/1*tyM58al8yr9mpvQ2_jLA4A.png"
+        },
+        {
+          "id": "https://medium.com/p/79474508fdc4",
+          "author": "rvaclassic",
+          "description": "In the dynamic world of advertising, transparency is key. Yet, traditional advertising agreements often lack the transparency needed to…",
+          "link": "https://coinsbench.com/revolutionizing-advertising-the-power-of-smart-contracts-for-transparent-agreements-79474508fdc4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-19T13:23:10.000Z",
+          "wordCount": 1383,
+          "title": "Revolutionizing Advertising: The Power of Smart Contracts for Transparent Agreements",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Jg_IOxAPcy0dYwVesjXFxQ.png"
+        },
+        {
+          "id": "https://medium.com/p/1b4f26a2dc78",
+          "author": "Viraj Patva",
+          "description": "Polygon Mumbai testnet for Polygon PoS uses Ethereum’s Goerli as its root chain. Since Goerli went through depreceation Mumbai is in tandem…",
+          "link": "https://coinsbench.com/guide-to-deploy-verify-smart-contract-on-amoy-using-hardhat-1b4f26a2dc78?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-19T13:23:08.000Z",
+          "wordCount": 2828,
+          "title": "Guide to Deploy & Verify Smart Contract on Amoy using Hardhat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2a2551cb8cb8",
+          "author": "shubham kumar singh",
+          "description": "Welcome, blockchain enthusiasts, to the exciting world of Solidity! This versatile language empowers you to build smart contracts, the…",
+          "link": "https://coinsbench.com/learning-solidity-3-building-blocks-of-smart-contracts-constructors-modifiers-and-built-in-2a2551cb8cb8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-19T13:23:06.000Z",
+          "wordCount": 1788,
+          "title": "Learning Solidity — 3: Building Blocks of Smart Contracts — Constructors, Modifiers, and Built-in…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/687b91f384ba",
+          "author": "Neville Munjogu",
+          "description": "While many may think that Bitcoin ETFs are a new concept, they are not. Bitcoin ETFs date back to 2013 when the Winklevoss twins attempted…",
+          "link": "https://coinsbench.com/what-you-need-to-know-about-bitcoin-exchange-traded-funds-etf-687b91f384ba?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-19T13:22:50.000Z",
+          "wordCount": 3648,
+          "title": "What You Need to Know About Bitcoin Exchange-Traded Funds (ETF)",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*4f9EEkf-siPSP-7c"
+        },
+        {
+          "id": "https://medium.com/p/99f85e3dee53",
+          "author": "Ranjithkumar C",
+          "description": "Solidity, the programming language for Ethereum smart contracts, offers immense power and flexibility. But with great power comes great responsibility — the responsibility to secure your code and…",
+          "link": "https://coinsbench.com/access-restriction-patterns-in-solidity-99f85e3dee53?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-19T13:22:47.000Z",
+          "wordCount": 2355,
+          "title": "Access Restriction Patterns in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*jHLUTUSX70O7eMac.jpg"
+        },
+        {
+          "id": "https://medium.com/p/7245f694295d",
+          "author": "Ushangi Matiashvili GCWine",
+          "description": "There are 21 million Bitcoins, but they are not all “issued” at once. Each Bitcoin is “issued” by mining. New Bitcoins are generated…",
+          "link": "https://coinsbench.com/bitcoin-halving-7245f694295d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-19T13:22:45.000Z",
+          "wordCount": 1607,
+          "title": "Bitcoin Halving.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*5v2fvDvhKF2Zb4LEVro_jw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/5201d08ce49f",
+          "author": "Wesley Coetzee",
+          "description": "Here are some tips and tricks to help you with Solidity",
+          "link": "https://coinsbench.com/solidity-tips-and-trick-5201d08ce49f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-19T13:22:42.000Z",
+          "wordCount": 3741,
+          "title": "Solidity Tips and Trick",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:750/1*HX4H-JAQDICQBdi2ZmcQgw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/b9d3d529ec48",
+          "author": "shubham kumar singh",
+          "description": "In the world of decentralized finance (DeFi), blockchain technology offers exciting possibilities for creating alternative financial…",
+          "link": "https://coinsbench.com/learning-solidity-4-building-a-simple-blockchain-bank-with-solidity-b9d3d529ec48?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-19T13:22:38.000Z",
+          "wordCount": 1586,
+          "title": "Learning Solidity -4: Building a Simple Blockchain Bank with Solidity",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/01919652cb04",
           "author": "Ranjithkumar C",
           "description": "Solidity, the programming language for Ethereum smart contracts, offers a powerful toolkit for building decentralized applications. But as your projects grow, managing complex contract interactions…",
@@ -47,96 +137,6 @@
           "wordCount": 2076,
           "title": "The Factory Pattern in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*bis8kNHyz5hz9VrK.jpg"
-        },
-        {
-          "id": "https://medium.com/p/178cff511afd",
-          "author": "Ukezi Ebenezer",
-          "description": "Smart Contract refers to a piece of computer program that gets executed by a quorum of Blockchain nodes independently to record the latest…",
-          "link": "https://coinsbench.com/unlocking-the-future-unleashing-the-power-of-smart-contracts-for-endless-possibilities-178cff511afd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-11T09:01:29.000Z",
-          "wordCount": 3367,
-          "title": "Unlocking the Future: Unleashing the Power of Smart Contracts for Endless Possibilities",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*fZv5SAqeiOeAW2M8enlBYA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d0b4eb2dae30",
-          "author": "Md Tareq Shah Alam",
-          "description": "What I will cover?",
-          "link": "https://coinsbench.com/blockchain-d0b4eb2dae30?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-11T09:01:27.000Z",
-          "wordCount": 13009,
-          "title": "Blockchain",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*U30qUg3j1M8x0rWNBslmVQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/a9362265bb0b",
-          "author": "Ranjithkumar C",
-          "description": "In the world of smart contract development, ensuring that contracts can interact with the outside world is crucial. One common challenge is accessing external data, such as the price of a…",
-          "link": "https://coinsbench.com/understanding-the-oracle-pattern-in-solidity-a9362265bb0b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-08T09:29:11.000Z",
-          "wordCount": 2534,
-          "title": "Understanding the Oracle Pattern in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*SRMS5OgO7bfm74IF.jpg"
-        },
-        {
-          "id": "https://medium.com/p/8ee1cc2bd8d3",
-          "author": "Logesh N",
-          "description": "Uninitialized storage variables (state variables) bugs in Solidity occur when storage variables are accessed or used without being properly…",
-          "link": "https://coinsbench.com/common-vulnerabilities-uninitialized-storage-variables-8ee1cc2bd8d3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-08T09:29:09.000Z",
-          "wordCount": 3564,
-          "title": "COMMON VULNERABILITIES: Uninitialized Storage Variables",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/37a72326b068",
-          "author": "Logesh N",
-          "description": "Access control issues in Solidity refer to vulnerabilities related to improper management of permissions and privileges within smart…",
-          "link": "https://coinsbench.com/common-vulnerabilities-access-control-37a72326b068?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-08T09:28:55.000Z",
-          "wordCount": 3270,
-          "title": "COMMON VULNERABILITIES: ACCESS CONTROL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2576b7ad12ec",
-          "author": "Joseph David",
-          "description": "Solidity, the programming language for Ethereum smart contracts, requires a solid grasp of variable scope to ensure secure and efficient…",
-          "link": "https://coinsbench.com/demystifying-variable-scope-in-solidity-keeping-your-smart-contracts-clean-and-secure-2576b7ad12ec?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-08T09:28:53.000Z",
-          "wordCount": 1705,
-          "title": "Demystifying Variable Scope in Solidity: Keeping Your Smart Contracts Clean and Secure",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*7jbjXROEjnI8tJPD1HvxRw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/66db52746915",
-          "author": "Jordan Type",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/deploying-your-first-smart-contract-on-lisk-with-hardhat-a-step-by-step-guide-66db52746915?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-08T09:28:51.000Z",
-          "wordCount": 1783,
-          "title": "Deploying Your First Smart Contract on Lisk with Hardhat: A Step-by-Step Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/93252988991d",
-          "author": "Logesh N",
-          "description": "In Solidity, if you declare a state variable or function without explicitly specifying its visibility (i.e., public, internal, private, or…",
-          "link": "https://coinsbench.com/common-vulnerabilities-default-visibility-93252988991d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-08T09:28:47.000Z",
-          "wordCount": 2749,
-          "title": "COMMON VULNERABILITIES: DEFAULT VISIBILITY",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*Gk-LxbTi0qwkj0AOoAOFeg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f904162a0add",
-          "author": "Trym Thoren",
-          "description": "Navigating the cryptocurrency market in search of the next big thing requires a blend of technical savvy, market intuition, and an…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/how-to-find-the-next-10x-100x-or-1000x-cryptocurrency-before-it-blows-up-f904162a0add?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-08T09:28:44.000Z",
-          "wordCount": 1121,
-          "title": "How to find the next 10x, 100x or 1000x cryptocurrency before it blows up!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:558/1*JZS8150rjbJyM4TNrPnfmQ.png"
         }
       ]
     },
@@ -151,7 +151,7 @@
           "description": "Polygon, formerly known as Matic Network, is a layer 2 scaling solution for Ethereum that intends to improve its scalability and usability…",
           "link": "https://medium.com/coinmonks/mastering-the-art-of-polygon-mining-tips-tricks-and-tools-b77fa6c3c0b5?source=rss----721b17443fd5---4",
           "publishedOn": "2024-04-19T09:13:13.000Z",
-          "wordCount": 2242,
+          "wordCount": 2241,
           "title": "Mastering the Art of Polygon Mining: Tips, Tricks, and Tools",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*J1rH-gKb0wtOBUpL.jpeg"
         },
@@ -181,7 +181,7 @@
           "description": "Monero (XMR), the privacy-focused cryptocurrency, has become a favorite among miners looking for an alternative to Bitcoin. Unlike…",
           "link": "https://medium.com/coinmonks/best-monero-mining-software-tools-for-efficient-xmr-mining-3659497e6df9?source=rss----721b17443fd5---4",
           "publishedOn": "2024-04-19T09:13:00.000Z",
-          "wordCount": 2209,
+          "wordCount": 2210,
           "title": "Best Monero Mining Software: Tools for Efficient XMR Mining",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*b31hiO4ynbDLRrXWEFF4aQ.png"
         },
@@ -201,7 +201,7 @@
           "description": "Ever stare at a dessert and think, “Wow, that’s almost too pretty to eat”? These masterpieces, born from the collaboration between a master…",
           "link": "https://medium.com/coinmonks/a-baker-and-an-artist-walk-into-a-web-3-0-bakery-heres-the-delicious-result-c62837ab10b6?source=rss----721b17443fd5---4",
           "publishedOn": "2024-04-19T09:12:51.000Z",
-          "wordCount": 3201,
+          "wordCount": 3202,
           "title": "A Baker and an Artist Walk into a Web 3.0 Bakery: Here’s the Delicious Result!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cvlT86sts0Qot7XQ9BQaqw.png"
         },
@@ -221,7 +221,7 @@
           "description": "An inside look at cryptocurrency mining for hobbyists and at-home crypto miners in early 2024.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/what-its-like-mining-cryptocurrency-in-2024-fef59d386c30?source=rss----721b17443fd5---4",
           "publishedOn": "2024-04-19T09:12:43.000Z",
-          "wordCount": 1235,
+          "wordCount": 1003,
           "title": "What It’s Like Mining Cryptocurrency in 2024",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*EYjyZN5e_tbLhm8FbUPaaw.jpeg"
         },
