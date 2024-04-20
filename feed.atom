@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-20T14:09:57.976Z</id>
+    <id>urn:2024-04-20T15:12:00.687Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-20T14:09:57.976Z</updated>
+    <updated>2024-04-20T15:12:00.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mocking Addresses Without Private Keys in Hardhat Tests]]></title>
+        <id>https://medium.com/p/de35f960090a</id>
+        <link href="https://coinsbench.com/mocking-addresses-without-private-keys-in-hardhat-tests-de35f960090a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-20T14:27:09.000Z</updated>
+        <summary type="html"><![CDATA[One common testing scenario for smart contracts is verifying access control. But what if you need to test how a contract behaves with an…]]></summary>
+        <author>
+            <name>Lucca Martins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inheritance in Solidity — Comprehensive Guide for Advanced Smart Contracts]]></title>
         <id>https://medium.com/p/7eb1f84a54e2</id>
@@ -230,16 +240,6 @@ A Bitcoin wallet that can interact with the Stacks n…]]></summary>
         <summary type="html"><![CDATA[Attackers target the Erc-4626 token vault standard to exploit the vault’s share and cause depositors to lose their deposits.]]></summary>
         <author>
             <name>Mayowa Olatunji (@web3MIO)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Factory Pattern in Solidity]]></title>
-        <id>https://medium.com/p/01919652cb04</id>
-        <link href="https://coinsbench.com/the-factory-pattern-in-solidity-01919652cb04?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-12T12:36:15.000Z</updated>
-        <summary type="html"><![CDATA[Solidity, the programming language for Ethereum smart contracts, offers a powerful toolkit for building decentralized applications. But as your projects grow, managing complex contract interactions…]]></summary>
-        <author>
-            <name>Ranjithkumar C</name>
         </author>
     </entry>
     <entry>
