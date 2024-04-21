@@ -12,12 +12,22 @@
       "siteUrl": "https://www.cryptomaton.org/",
       "articles": [
         {
+          "id": "https://www.cryptomaton.org/?p=1700",
+          "author": "Andrei",
+          "description": "If you’re familiar with the r/CryptoCurrency subreddit, you’ve probably heard the phrase the phrase “inverse r/cc strategy”. This is very similar to the inverse Cramer strategy, in that it aims to place trades using the inverted sentiment of the Cryptocurrency subreddit. Basically, if the subreddit says that Solana sucks — we want to go all in. The […]\nThe post Open Source Crypto Sentiment Trading Bot for Reddit appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2024/04/21/open-source-crypto-sentiment-trading-bot-for-reddit/",
+          "publishedOn": "2024-04-21T18:36:46.000Z",
+          "wordCount": 9852,
+          "title": "Open Source Crypto Sentiment Trading Bot for Reddit",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/04/sentiment-trading-bot-reddit-crypto.jpg"
+        },
+        {
           "id": "https://www.cryptomaton.org/?p=1696",
           "author": "Andrei",
           "description": "This is a milestone that I’m quite proud of and I’m excited to share this with you all. I’ve been working on an algo trading platform alongside a small team of developers for about 3 years now. Between us we’ve put together the foundation for what we believe to be the future of investment and wealth management. […]\nThe post How I improved my crypto trading bot’s exit strategy appeared first on cryptomaton.",
           "link": "https://www.cryptomaton.org/2024/04/11/how-i-improved-my-crypto-trading-bots-exit-strategy/",
           "publishedOn": "2024-04-11T23:08:29.000Z",
-          "wordCount": 9547,
+          "wordCount": 9559,
           "title": "How I improved my crypto trading bot’s exit strategy",
           "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/04/best_crypto_trading_bot_features.webp"
         },
@@ -27,7 +37,7 @@
           "description": "There is currently widespread news of a large number of Solana wallets being drained due to unauthorized access. The alleged attack targets any wallet that may have been connected to a dApp, and according to CompendiumFi, it is recommended to disconnect your wallet from any dApp at this current time (time of writing 29/03/2024 13:18pm […]\nThe post There is an Active Drain Attack on Solana Right Now appeared first on cryptomaton.",
           "link": "https://www.cryptomaton.org/2024/03/29/there-is-an-active-drain-attack-on-solana-right-now/",
           "publishedOn": "2024-03-29T14:08:03.000Z",
-          "wordCount": 9422,
+          "wordCount": 9423,
           "title": "There is an Active Drain Attack on Solana Right Now",
           "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/03/solana-hack-2024.jpg"
         }
@@ -124,7 +134,7 @@
           "description": "Here are some tips and tricks to help you with Solidity",
           "link": "https://coinsbench.com/solidity-tips-and-trick-5201d08ce49f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-04-19T13:22:42.000Z",
-          "wordCount": 3736,
+          "wordCount": 3741,
           "title": "Solidity Tips and Trick",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:750/1*HX4H-JAQDICQBdi2ZmcQgw.jpeg"
         },
@@ -181,7 +191,7 @@
           "description": "The Evolution of Bitcoin Halving Rewards\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/bitcoin-halving-unleashed-9c02ee113971?source=rss----721b17443fd5---4",
           "publishedOn": "2024-04-19T15:22:31.000Z",
-          "wordCount": 1302,
+          "wordCount": 1214,
           "title": "Bitcoin Halving Unleashed",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*4dlPhFGw6Ddq0FZjKSRhBA.png"
         },
@@ -211,7 +221,7 @@
           "description": "The team behind Ondo (ONDO) is betting people will buy exchange-traded funds and government bonds through the blockchain.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/can-ondo-ondo-make-money-from-bonds-e59a4ca06aca?source=rss----721b17443fd5---4",
           "publishedOn": "2024-04-19T09:13:08.000Z",
-          "wordCount": 1103,
+          "wordCount": 1298,
           "title": "Can Ondo (ONDO) make money from bonds?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*b_JbND8dYdo23DlssG14pg.jpeg"
         },
