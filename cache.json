@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -42,6 +48,26 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/2e93e4609ab3",
+          "author": "Md Tareq Shah Alam",
+          "description": "This is a high-level statically type programming language for etherum. To develop smart contract, this will be needed.",
+          "link": "https://coinsbench.com/solidity-2e93e4609ab3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-23T14:18:50.000Z",
+          "wordCount": 8059,
+          "title": "Solidity Unleashed: Starting to Ending",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:351/1*q1Jc4smczG9MS0YGgKVKtA.png"
+        },
+        {
+          "id": "https://medium.com/p/4d6c5db24b59",
+          "author": "Deepaktomson",
+          "description": "Unlock the world of decentralized finance with our step-by-step guide to creating and deploying your own ERC20 token.",
+          "link": "https://coinsbench.com/creating-and-deploying-your-erc20-token-a-step-by-step-guide-4d6c5db24b59?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-23T14:18:48.000Z",
+          "wordCount": 1621,
+          "title": "Creating and Deploying Your ERC20 Token: A Step-by-Step Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1192/1*l5EwR8IWGXnQ8aMs1EBznA.jpeg"
+        },
         {
           "id": "https://medium.com/p/eefb231f4dc5",
           "author": "Balamurugannagarajan Vm",
@@ -121,26 +147,6 @@
           "wordCount": 1367,
           "title": "Building a Real-Time Blockchain Monitor with Rust",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:709/1*tyM58al8yr9mpvQ2_jLA4A.png"
-        },
-        {
-          "id": "https://medium.com/p/79474508fdc4",
-          "author": "rvaclassic",
-          "description": "In the dynamic world of advertising, transparency is key. Yet, traditional advertising agreements often lack the transparency needed to…",
-          "link": "https://coinsbench.com/revolutionizing-advertising-the-power-of-smart-contracts-for-transparent-agreements-79474508fdc4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-19T13:23:10.000Z",
-          "wordCount": 1383,
-          "title": "Revolutionizing Advertising: The Power of Smart Contracts for Transparent Agreements",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Jg_IOxAPcy0dYwVesjXFxQ.png"
-        },
-        {
-          "id": "https://medium.com/p/1b4f26a2dc78",
-          "author": "Viraj Patva",
-          "description": "Polygon Mumbai testnet for Polygon PoS uses Ethereum’s Goerli as its root chain. Since Goerli went through depreceation Mumbai is in tandem…",
-          "link": "https://coinsbench.com/guide-to-deploy-verify-smart-contract-on-amoy-using-hardhat-1b4f26a2dc78?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-19T13:23:08.000Z",
-          "wordCount": 2828,
-          "title": "Guide to Deploy & Verify Smart Contract on Amoy using Hardhat",
-          "imageUrl": null
         }
       ]
     },
