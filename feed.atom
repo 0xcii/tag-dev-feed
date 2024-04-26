@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-26T10:13:26.971Z</id>
+    <id>urn:2024-04-26T11:10:23.020Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-26T10:13:26.971Z</updated>
+    <updated>2024-04-26T11:10:23.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An approach on fetching ethereum block data with Go]]></title>
+        <id>https://medium.com/p/2f82f8358fd7</id>
+        <link href="https://coinsbench.com/an-approach-on-fetching-ethereum-block-data-with-go-2f82f8358fd7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-26T10:33:28.000Z</updated>
+        <summary type="html"><![CDATA[Between low level programing languages available for buiding your blockchain project, Go is the one with more resources and community…]]></summary>
+        <author>
+            <name>Burgossrodrigo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Raydium DEX APIs]]></title>
         <id>https://medium.com/p/3d2936993618</id>
@@ -206,16 +216,6 @@ The post Open Source Crypto Sentiment Trading Bot for Reddit appeared first on c
         <summary type="html"><![CDATA[One common testing scenario for smart contracts is verifying access control. But what if you need to test how a contract behaves with an…]]></summary>
         <author>
             <name>Lucca Martins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Real-Time Blockchain Monitor with Rust]]></title>
-        <id>https://medium.com/p/86a510023fdd</id>
-        <link href="https://coinsbench.com/building-a-real-time-blockchain-monitor-with-rust-86a510023fdd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-19T13:23:13.000Z</updated>
-        <summary type="html"><![CDATA[Prerequisites]]></summary>
-        <author>
-            <name>Burgossrodrigo</name>
         </author>
     </entry>
     <entry>

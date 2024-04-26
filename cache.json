@@ -49,6 +49,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/2f82f8358fd7",
+          "author": "Burgossrodrigo",
+          "description": "Between low level programing languages available for buiding your blockchain project, Go is the one with more resources and community…",
+          "link": "https://coinsbench.com/an-approach-on-fetching-ethereum-block-data-with-go-2f82f8358fd7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-04-26T10:33:28.000Z",
+          "wordCount": 1552,
+          "title": "An approach on fetching ethereum block data with Go",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*M0dvLzeOPKBhh8AwztkxsQ.png"
+        },
+        {
           "id": "https://medium.com/p/2e93e4609ab3",
           "author": "Md Tareq Shah Alam",
           "description": "This is a high-level statically type programming language for etherum. To develop smart contract, this will be needed.",
@@ -137,16 +147,6 @@
           "wordCount": 1116,
           "title": "Mocking Addresses Without Private Keys in Hardhat Tests",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*Z6SmHyDhbrJbzJ9PpcInig.png"
-        },
-        {
-          "id": "https://medium.com/p/86a510023fdd",
-          "author": "Burgossrodrigo",
-          "description": "Prerequisites",
-          "link": "https://coinsbench.com/building-a-real-time-blockchain-monitor-with-rust-86a510023fdd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-19T13:23:13.000Z",
-          "wordCount": 1367,
-          "title": "Building a Real-Time Blockchain Monitor with Rust",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:709/1*tyM58al8yr9mpvQ2_jLA4A.png"
         }
       ]
     },
