@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-30T15:10:37.797Z</id>
+    <id>urn:2024-04-30T16:16:02.818Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-30T15:10:37.797Z</updated>
+    <updated>2024-04-30T16:16:02.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity: Strict pragma vs Floating pragma]]></title>
+        <id>https://medium.com/p/26fee3a45c8a</id>
+        <link href="https://coinsbench.com/solidity-strict-pragma-vs-floating-pragma-26fee3a45c8a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-30T15:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Using a strict pragma is like sticking to a set plan, while floating pragmas are a bit more like going with the flow….]]></summary>
+        <author>
+            <name>Aapsi Khaira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Address(0) or Null Address in Solidity?]]></title>
+        <id>https://medium.com/p/03df1d4ee65d</id>
+        <link href="https://coinsbench.com/what-is-address-0-or-null-address-in-solidity-03df1d4ee65d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-30T15:53:18.000Z</updated>
+        <summary type="html"><![CDATA[The concept of Address(0) stands as a fascinating enigma, often referred to as the “null address” or “zero address.” But what exactly is…]]></summary>
+        <author>
+            <name>Aapsi Khaira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Hyperledger Fabric: Unraveling the Potential of Private Blockchain Technology]]></title>
+        <id>https://medium.com/p/ef33d0fcc82a</id>
+        <link href="https://coinsbench.com/introduction-to-hyperledger-fabric-private-blockchain-ef33d0fcc82a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-30T15:53:17.000Z</updated>
+        <summary type="html"><![CDATA[Hyperledger Fabric is a private blockchain framework that is built in a modular architecture way where each component is linked to the…]]></summary>
+        <author>
+            <name>Shahroz Abbas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Peacemaking: The New Frontier in Online Arbitration]]></title>
+        <id>https://medium.com/p/eeaae957aed2</id>
+        <link href="https://coinsbench.com/web3-peacemaking-the-new-frontier-in-online-arbitration-eeaae957aed2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-30T15:53:15.000Z</updated>
+        <summary type="html"><![CDATA[Embrace the future of conflict resolution with our online arbitration platform — transparent, trustless, and trailblazing]]></summary>
+        <author>
+            <name>Law Blocks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the State Machine Pattern in Solidity]]></title>
+        <id>https://medium.com/p/fb22206bef6e</id>
+        <link href="https://coinsbench.com/understanding-the-state-machine-pattern-in-solidity-fb22206bef6e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-30T15:53:13.000Z</updated>
+        <summary type="html"><![CDATA[In the realm of blockchain development, where every transaction and interaction is immutable and transparent, the need for precise and structured code is paramount. Enter the State Machine Pattern —…]]></summary>
+        <author>
+            <name>Ranjithkumar C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated test for Ethereum service on NestJS]]></title>
+        <id>https://medium.com/p/a217a1676807</id>
+        <link href="https://coinsbench.com/automated-test-for-ethereum-service-on-nestjs-a217a1676807?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-04-30T15:53:12.000Z</updated>
+        <summary type="html"><![CDATA[The use case of this approach is to avoid breaking your app in production due to basic errors on your script. It obviously can be extended…]]></summary>
+        <author>
+            <name>Burgossrodrigo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Agents are Here. Check this Tutorial.]]></title>
         <id>https://medium.com/p/3981a1085621</id>
@@ -154,66 +214,6 @@ The post 3 Year Update: Working on the best algorithmic crypto trading platform
         <summary type="html"><![CDATA[Unlock the world of decentralized finance with our step-by-step guide to creating and deploying your own ERC20 token.]]></summary>
         <author>
             <name>Deepaktomson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Formal Verification for Blockchain Smart Contracts: Ensuring Security from the Ground Up]]></title>
-        <id>https://medium.com/p/eefb231f4dc5</id>
-        <link href="https://coinsbench.com/formal-verification-for-blockchain-smart-contracts-ensuring-security-from-the-ground-up-eefb231f4dc5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-22T14:50:32.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone, I’m Balamurugan Nagarajan, and I’ve been immersed in the blockchain space for over a year now. Today, I’m excited to share…]]></summary>
-        <author>
-            <name>Balamurugannagarajan Vm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity: How to generate CreationCode from RuntimeCode]]></title>
-        <id>https://medium.com/p/293e1c7f28b1</id>
-        <link href="https://coinsbench.com/solidity-how-to-generate-creationcode-from-runtimecode-293e1c7f28b1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-22T14:50:28.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I encountered a tricky problem that took me a while to solve. I’m sharing my journey to solve it in this post, hoping it can save…]]></summary>
-        <author>
-            <name>Lucca Martins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code Mentat — code analysis w/ Claude 3]]></title>
-        <id>https://medium.com/p/4343b5c637dc</id>
-        <link href="https://coinsbench.com/code-mentat-code-analysis-w-claude-3-4343b5c637dc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-22T14:50:21.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone! It’s your favourite rabbit here. I have another crazy idea that I want to test. This time I’m working on a VSCode plugin…]]></summary>
-        <author>
-            <name>Tomasz Salacinski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“How to Deploy Smart Contracts with Brownie and Infura”]]></title>
-        <id>https://medium.com/p/a5d500629e59</id>
-        <link href="https://coinsbench.com/how-to-deploy-smart-contracts-with-brownie-and-infura-a5d500629e59?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-22T14:50:17.000Z</updated>
-        <summary type="html"><![CDATA[By the end of this tutorial, you’ll have the knowledge and confidence to deploy your own smart contracts to the Sepolia testnet.]]></summary>
-        <author>
-            <name>Deepaktomson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Programmable Wallets with Circle]]></title>
-        <id>https://medium.com/p/7f3e2821c128</id>
-        <link href="https://coinsbench.com/introducing-programmable-wallets-with-circle-7f3e2821c128?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-22T14:50:13.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered what the future holds concerning how we interact with online services and manage our online assets? The answer lies…]]></summary>
-        <author>
-            <name>Macgeorge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum gas costs, data types and control structures — A brief take]]></title>
-        <id>https://medium.com/p/7fd03aaa9a00</id>
-        <link href="https://coinsbench.com/ethereum-gas-costs-data-types-and-control-structures-a-brief-take-7fd03aaa9a00?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-04-22T14:50:08.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum gas is used when altering the state of the blockchain. Writing is expensive to carry out. General good practice for optimizing…]]></summary>
-        <author>
-            <name>Simeon Campbell</name>
         </author>
     </entry>
     <entry>
