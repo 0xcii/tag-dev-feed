@@ -49,6 +49,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e1763fe35343",
+          "author": "Burgossrodrigo",
+          "description": "This tutorial will guide you through setting up a NestJS API that interacts with Ethereum-based contracts to fetch and process token prices…",
+          "link": "https://coinsbench.com/building-a-nestjs-api-to-extract-prices-from-thena-protocol-e1763fe35343?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-03T12:08:40.000Z",
+          "wordCount": 2319,
+          "title": "Building a NestJS API to Extract Prices from Thena Protocol",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Meaq_9SP6M8p7yLB0CF-0Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c4458506f293",
+          "author": "Levai",
+          "description": "Auctions are events where items are spotlighted and put on sale for a period during which people can place bids on them. The highest bidder…",
+          "link": "https://coinsbench.com/how-to-write-a-simple-auction-smart-contract-in-solidity-c4458506f293?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-03T12:07:28.000Z",
+          "wordCount": 4196,
+          "title": "How to Write a Simple Auction Smart Contract in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LoK2Rlx-6Het8l1zhGd-bw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/388da664a76a",
+          "author": "Aapsi Khaira",
+          "description": "Solidity NatSpec Comments: the key to readable and maintainable Solidity code",
+          "link": "https://coinsbench.com/solidity-special-comments-natspec-documentation-format-388da664a76a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-03T12:07:26.000Z",
+          "wordCount": 2196,
+          "title": "Solidity special comments: NatSpec documentation format",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-VLa2u84xq0gx23BLjdQBQ.png"
+        },
+        {
+          "id": "https://medium.com/p/befc5415634c",
+          "author": "Simeon Campbell",
+          "description": "Why are there so many modifiers for functions in Solidity? To answer this, you must first understand what the Ethereum blockchain is.",
+          "link": "https://coinsbench.com/notes-on-view-and-pure-modifiers-in-solidity-befc5415634c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-03T12:07:24.000Z",
+          "wordCount": 2011,
+          "title": "Notes on View and Pure modifiers in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*u7sx48E2wgso0VJct1_MKw.png"
+        },
+        {
+          "id": "https://medium.com/p/bcc98e09411b",
+          "author": "RickyYang",
+          "description": "The Essence of Blockchain\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/understanding-blockchain-consensus-mechanisms-pow-pos-and-poh-bcc98e09411b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-03T12:07:22.000Z",
+          "wordCount": 833,
+          "title": "Understanding Blockchain Consensus Mechanisms: PoW, PoS, and PoH",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*m-h_scG4IUrSqriSpEx0ow.png"
+        },
+        {
           "id": "https://medium.com/p/26fee3a45c8a",
           "author": "Aapsi Khaira",
           "description": "Using a strict pragma is like sticking to a set plan, while floating pragmas are a bit more like going with the flow….",
@@ -97,56 +147,6 @@
           "wordCount": 3091,
           "title": "Understanding the State Machine Pattern in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*7xIJXiEQbJ38MFTO.jpg"
-        },
-        {
-          "id": "https://medium.com/p/a217a1676807",
-          "author": "Burgossrodrigo",
-          "description": "The use case of this approach is to avoid breaking your app in production due to basic errors on your script. It obviously can be extended…",
-          "link": "https://coinsbench.com/automated-test-for-ethereum-service-on-nestjs-a217a1676807?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-30T15:53:12.000Z",
-          "wordCount": 1287,
-          "title": "Automated test for Ethereum service on NestJS",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*T1lFC2sUIVRC5RmQGEW70w.png"
-        },
-        {
-          "id": "https://medium.com/p/e0026185b64",
-          "author": "Bug Bounty Degen",
-          "description": "All the basic and not-so-basic tools, you’ll need to succeed with your web3 career",
-          "link": "https://coinsbench.com/how-to-setup-in-30-min-your-web3-lab-in-windows-e0026185b64?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-27T07:52:10.000Z",
-          "wordCount": 1411,
-          "title": "How to setup in 30 min your Web3 lab in Windows",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vFI7eE2DoIws0mYwRplgCg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/2f82f8358fd7",
-          "author": "Burgossrodrigo",
-          "description": "Between low level programing languages available for buiding your blockchain project, Go is the one with more resources and community…",
-          "link": "https://coinsbench.com/an-approach-on-fetching-ethereum-block-data-with-go-2f82f8358fd7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-26T10:33:28.000Z",
-          "wordCount": 1552,
-          "title": "An approach on fetching ethereum block data with Go",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*M0dvLzeOPKBhh8AwztkxsQ.png"
-        },
-        {
-          "id": "https://medium.com/p/2e93e4609ab3",
-          "author": "Md Tareq Shah Alam",
-          "description": "This is a high-level statically type programming language for etherum. To develop smart contract, this will be needed.",
-          "link": "https://coinsbench.com/solidity-2e93e4609ab3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-23T14:18:50.000Z",
-          "wordCount": 8059,
-          "title": "Solidity Unleashed: Starting to Ending",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:351/1*q1Jc4smczG9MS0YGgKVKtA.png"
-        },
-        {
-          "id": "https://medium.com/p/4d6c5db24b59",
-          "author": "Deepaktomson",
-          "description": "Unlock the world of decentralized finance with our step-by-step guide to creating and deploying your own ERC20 token.",
-          "link": "https://coinsbench.com/creating-and-deploying-your-erc20-token-a-step-by-step-guide-4d6c5db24b59?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-23T14:18:48.000Z",
-          "wordCount": 1621,
-          "title": "Creating and Deploying Your ERC20 Token: A Step-by-Step Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1192/1*l5EwR8IWGXnQ8aMs1EBznA.jpeg"
         }
       ]
     },
@@ -156,12 +156,72 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/0dc4de219414",
+          "author": "Christinapaul",
+          "description": "Unlock the power of NFT marketing in 2024 with these top strategies! From leveraging social media influencers to creating immersive digital…",
+          "link": "https://medium.com/coinmonks/top-nft-marketing-strategies-for-2024-0dc4de219414?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-03T12:13:07.000Z",
+          "wordCount": 2979,
+          "title": "Top NFT Marketing Strategies For 2024",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*l2G7_p8RWY5NXi-V5BnNuQ.png"
+        },
+        {
+          "id": "https://medium.com/p/16dbe3505ab5",
+          "author": "World As One 4PEACE",
+          "description": "Global Energy & Commodities Markets on Areas & Producers\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-global-commodities-markets-update-from-areas-producers-16dbe3505ab5?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-03T12:12:58.000Z",
+          "wordCount": 1009,
+          "title": "The Global Commodities Markets Update From Areas & Producers",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*lPD1udu0XF-TfqVe"
+        },
+        {
+          "id": "https://medium.com/p/fd679a3c05c7",
+          "author": "Prreeya Narayanan",
+          "description": "Source",
+          "link": "https://medium.com/coinmonks/bitcoin-miners-will-be-pushed-to-the-point-of-selling-off-their-btcs-should-btcs-price-dip-any-fd679a3c05c7?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-03T12:12:55.000Z",
+          "wordCount": 1868,
+          "title": "Bitcoin Miners will be pushed to the point of selling off their BTCs should BTC’s price dip any…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*9LLssKJ5SrRhDtCL.jpg"
+        },
+        {
+          "id": "https://medium.com/p/380c413d3cc1",
+          "author": "Rachel Grace",
+          "description": "Get ready to dive into the world of Solana MEME coins! Explore our curated list of the top 10+ meme-inspired tokens making waves in 2024…",
+          "link": "https://medium.com/coinmonks/top-10-solana-meme-coins-to-watch-out-for-in-2024-380c413d3cc1?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-03T12:12:54.000Z",
+          "wordCount": 3215,
+          "title": "Top 10+ Solana MEME Coins to Watch Out for in 2024",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9vrDZSNoqzp0knAhlnQvwA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/214c418429e5",
+          "author": "Jesse",
+          "description": "TL;DR — Running a Solana RPC Node",
+          "link": "https://medium.com/coinmonks/how-to-run-a-solana-rpc-node-214c418429e5?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-03T12:12:49.000Z",
+          "wordCount": 2055,
+          "title": "How to run a Solana RPC Node",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1f7b5495c1ec",
+          "author": "Hannah",
+          "description": "What is Binance Clone Script?",
+          "link": "https://medium.com/coinmonks/binance-clone-script-solution-to-start-your-own-crypto-exchange-1f7b5495c1ec?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-03T12:12:46.000Z",
+          "wordCount": 3768,
+          "title": "Binance clone script — Solution to Start Your Own Crypto Exchange",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*M6MqUzn2bzB4vz8MiIrytQ.png"
+        },
+        {
           "id": "https://medium.com/p/2cd518d14a52",
           "author": "Coin Genetics",
           "description": "Hey there, fellow traders and crypto enthusiasts! It’s your buddy Durgesh, here to chat about everyone’s favorite topic: taxes! 📝💸 Now, I know what you’re thinking: “Taxes? Yawn!” But trust me…",
           "link": "https://medium.com/coinmonks/bitcoin-jesus-tax-nightmare-how-one-crypto-maverick-dodged-the-irs-until-he-couldn-t-2cd518d14a52?source=rss----721b17443fd5---4",
           "publishedOn": "2024-05-03T10:06:09.000Z",
-          "wordCount": 1756,
+          "wordCount": 1757,
           "title": "Bitcoin Jesus’ Tax Nightmare: How One Crypto Maverick Dodged the IRS…Until He Couldn’t!",
           "imageUrl": null
         },
@@ -171,7 +231,7 @@
           "description": "Alrighty, time to sprinkle some humor on this crypto news! 😄",
           "link": "https://medium.com/coinmonks/crypto-comedy-stronghold-digital-mining-faces-tough-choices-amid-bitcoin-halving-frenzy-bc2d0e3d8b60?source=rss----721b17443fd5---4",
           "publishedOn": "2024-05-03T10:06:07.000Z",
-          "wordCount": 1491,
+          "wordCount": 1492,
           "title": "Crypto Comedy: Stronghold Digital Mining Faces Tough Choices Amid Bitcoin Halving Frenzy!",
           "imageUrl": null
         },
@@ -181,7 +241,7 @@
           "description": "In recent years, the rise of non-fungible tokens (NFTs) has captured the imagination of creators, collectors, and investors worldwide…",
           "link": "https://medium.com/coinmonks/building-your-own-nft-marketplace-a-guide-to-creating-an-opensea-clone-for-business-0d1df431a885?source=rss----721b17443fd5---4",
           "publishedOn": "2024-05-03T10:06:06.000Z",
-          "wordCount": 2415,
+          "wordCount": 2416,
           "title": "Building Your Own NFT Marketplace: A Guide to Creating an OpenSea Clone for Business",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wNrkTGgW5fQmD4hL-_TQXQ.png"
         },
@@ -191,69 +251,9 @@
           "description": "The crypto market is constantly evolving, attracting the attention of the community. Every day, new cryptocurrencies, technological…",
           "link": "https://medium.com/coinmonks/crypto-news-recap-no-more-likes-on-x-avalanches-integration-ethereum-whale-wakes-up-and-more-c3afc56f3cec?source=rss----721b17443fd5---4",
           "publishedOn": "2024-05-03T10:06:02.000Z",
-          "wordCount": 3531,
+          "wordCount": 3532,
           "title": "Crypto News Recap: No More Likes on X, Avalanche’s Integration, Ethereum Whale Wakes Up, and More",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*PjCH_oWtaYkpAjoCtBdJgg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/30e8066123ae",
-          "author": "Coin Genetics",
-          "description": "Alright, time to sprinkle some humor on this crypto news! 😄",
-          "link": "https://medium.com/coinmonks/jack-dorseys-bitcoin-bonanza-inside-block-s-hilarious-crypto-comedy-show-30e8066123ae?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-03T10:06:00.000Z",
-          "wordCount": 1537,
-          "title": "“Jack Dorsey’s Bitcoin Bonanza: Inside Block’s Hilarious Crypto Comedy Show!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9819de933538",
-          "author": "Allan Jackob",
-          "description": "In the ever-evolving landscape of blockchain technology, the realm of digital assets continues to expand and diversify. Among the various…",
-          "link": "https://medium.com/coinmonks/unveiling-the-world-of-semi-fungible-token-development-a-comprehensive-guide-9819de933538?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-03T10:05:58.000Z",
-          "wordCount": 2208,
-          "title": "Unveiling the World of Semi-Fungible Token Development: A Comprehensive Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:826/1*oMbMWV3g4Oi5A5h9j-0luQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/186ec3f7ec57",
-          "author": "Markdomain",
-          "description": "Introducing Azuki: A Game-Changer in the NFT Universe",
-          "link": "https://medium.com/coinmonks/azuki-nft-sales-soar-to-new-heights-amid-crypto-market-slump-186ec3f7ec57?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-03T09:49:55.000Z",
-          "wordCount": 4876,
-          "title": "Azuki NFT Sales Soar to New Heights Amid Crypto Market Slump",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*fHNTl_EPqHH3aD9rcL5zXQ.png"
-        },
-        {
-          "id": "https://medium.com/p/f4008fe57f2d",
-          "author": "Stanley Thomas",
-          "description": "Build a Secure & Trusted Crypto Exchange! Master the Do’s & Don’ts of Crypto Exchange Platform Development. Ensure user safety, smooth…",
-          "link": "https://medium.com/coinmonks/dos-and-don-ts-of-crypto-exchange-platform-development-f4008fe57f2d?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-03T09:49:51.000Z",
-          "wordCount": 2897,
-          "title": "Do’s and Don’ts of Crypto Exchange Platform Development",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1119/1*0QCb0HcAjr9nnnxNdGJP5Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/08162a1461db",
-          "author": "Prateek Tripathi",
-          "description": "Introduction",
-          "link": "https://medium.com/coinmonks/this-simple-bridge-will-finally-make-blockchain-work-for-everyone-08162a1461db?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-03T09:49:46.000Z",
-          "wordCount": 2494,
-          "title": "This Simple ‘Bridge’ Will Finally Make Blockchain Work For Everyone",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QXsWHSJt28f5K7XqLFXSpA.png"
-        },
-        {
-          "id": "https://medium.com/p/c97a74f86fab",
-          "author": "Sudip Majumder",
-          "description": "Bitcoin, the progenitor of cryptocurrencies, has recently shown resilience, rebounding above the $59,000 threshold. This recovery is…",
-          "link": "https://medium.com/coinmonks/the-cryptocurrency-market-is-exhibiting-a-dynamic-interplay-of-factors-influencing-its-valuation-c97a74f86fab?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-03T09:49:44.000Z",
-          "wordCount": 2306,
-          "title": "The cryptocurrency market is exhibiting a dynamic interplay of factors influencing its valuation.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*D9BtKwtqqxWyXe5TK_u2AA.png"
         }
       ]
     },
