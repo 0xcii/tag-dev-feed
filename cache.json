@@ -49,6 +49,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/7c50bcf144b3",
+          "author": "Burgossrodrigo",
+          "description": "Using TypeChain for Ethereum Smart Contracts",
+          "link": "https://coinsbench.com/buiding-curve-finance-interactions-with-typescript-and-typechain-7c50bcf144b3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-06T14:55:21.000Z",
+          "wordCount": 1404,
+          "title": "Buiding Curve Finance Interactions with typescript and typechain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*b3sEIY35FZHQ6PbGQ4AUzQ.png"
+        },
+        {
+          "id": "https://medium.com/p/9d546a679c87",
+          "author": "Ajmal",
+          "description": "Rust’s memory safety guarantees without a garbage collector come from its unique approach to ownership, borrowing, and the memory model…",
+          "link": "https://coinsbench.com/understanding-rusts-ownership-borrowing-and-memory-management-9d546a679c87?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-06T14:55:19.000Z",
+          "wordCount": 1969,
+          "title": "Understanding Rust’s Ownership, Borrowing, and Memory Management",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fa4d41fa6073",
+          "author": "RickyYang",
+          "description": "Origin of Runes\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/what-are-runes-a-deep-dive-into-an-innovative-blockchain-protocol-fa4d41fa6073?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-06T14:55:17.000Z",
+          "wordCount": 842,
+          "title": "What are Runes? A Deep Dive into an Innovative Blockchain Protocol",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Ip8PMN-HadNCyXpTWGIbjQ.png"
+        },
+        {
+          "id": "https://medium.com/p/00a947ae581f",
+          "author": "42TechLabs",
+          "description": "Exploring Liquid Price Attack with Foundry Tests, Fuzz Testing Insights, and Practical Tips\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/foundry-testing-master-class-step-by-step-guides-to-smart-contract-security-episode-1-00a947ae581f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-06T14:55:15.000Z",
+          "wordCount": 828,
+          "title": "Foundry Testing Master Class: Step-by-Step Guides to Smart Contract Security-Episode 1",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:810/1*lQ3I5HwdTE381haHpnxbbA.png"
+        },
+        {
+          "id": "https://medium.com/p/01f8c147e5c7",
+          "author": "Manaan Ansari",
+          "description": "Can we compute a smart contract address before deployment? \nGo ahead, take a guess.\nIf you said yes, give yourself a pat on the back —…",
+          "link": "https://coinsbench.com/understanding-soliditys-create-create2-with-tornado-cash-1m-hack-01f8c147e5c7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-06T14:55:13.000Z",
+          "wordCount": 2117,
+          "title": "Understanding Solidity’s create & create2 with Tornado Cash $1M Hack",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0zQrPWgjnmO9viuGDskqeQ.png"
+        },
+        {
+          "id": "https://medium.com/p/5fb98a5e6446",
+          "author": "Ajmal",
+          "description": "Tokenomics, a blend of token and economics, involves the strategic design of a token’s economic model within the ecosystem it operates…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/introduction-to-tokenomics-design-process-5fb98a5e6446?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-06T14:55:13.000Z",
+          "wordCount": 910,
+          "title": "Introduction to Tokenomics Design Process",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*opR0Qs9bg4l8pbkuU6a7nA.png"
+        },
+        {
           "id": "https://medium.com/p/e1763fe35343",
           "author": "Burgossrodrigo",
           "description": "This tutorial will guide you through setting up a NestJS API that interacts with Ethereum-based contracts to fetch and process token prices…",
@@ -87,66 +147,6 @@
           "wordCount": 2011,
           "title": "Notes on View and Pure modifiers in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*u7sx48E2wgso0VJct1_MKw.png"
-        },
-        {
-          "id": "https://medium.com/p/bcc98e09411b",
-          "author": "RickyYang",
-          "description": "The Essence of Blockchain\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/understanding-blockchain-consensus-mechanisms-pow-pos-and-poh-bcc98e09411b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-03T12:07:22.000Z",
-          "wordCount": 833,
-          "title": "Understanding Blockchain Consensus Mechanisms: PoW, PoS, and PoH",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*m-h_scG4IUrSqriSpEx0ow.png"
-        },
-        {
-          "id": "https://medium.com/p/26fee3a45c8a",
-          "author": "Aapsi Khaira",
-          "description": "Using a strict pragma is like sticking to a set plan, while floating pragmas are a bit more like going with the flow….",
-          "link": "https://coinsbench.com/solidity-strict-pragma-vs-floating-pragma-26fee3a45c8a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-30T15:53:20.000Z",
-          "wordCount": 2057,
-          "title": "Solidity: Strict pragma vs Floating pragma",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1142/1*_c1_hHe_WwgL37FZnJQ1Zg.png"
-        },
-        {
-          "id": "https://medium.com/p/03df1d4ee65d",
-          "author": "Aapsi Khaira",
-          "description": "The concept of Address(0) stands as a fascinating enigma, often referred to as the “null address” or “zero address.” But what exactly is…",
-          "link": "https://coinsbench.com/what-is-address-0-or-null-address-in-solidity-03df1d4ee65d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-30T15:53:18.000Z",
-          "wordCount": 2346,
-          "title": "What is Address(0) or Null Address in Solidity?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1004/1*pCGy6UDhfwtuRryT57ievw.png"
-        },
-        {
-          "id": "https://medium.com/p/ef33d0fcc82a",
-          "author": "Shahroz Abbas",
-          "description": "Hyperledger Fabric is a private blockchain framework that is built in a modular architecture way where each component is linked to the…",
-          "link": "https://coinsbench.com/introduction-to-hyperledger-fabric-private-blockchain-ef33d0fcc82a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-30T15:53:17.000Z",
-          "wordCount": 1913,
-          "title": "Introduction to Hyperledger Fabric: Unraveling the Potential of Private Blockchain Technology",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*Ea6VMjMK3MoyfgI8FgsYjQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/eeaae957aed2",
-          "author": "Law Blocks",
-          "description": "Embrace the future of conflict resolution with our online arbitration platform — transparent, trustless, and trailblazing",
-          "link": "https://coinsbench.com/web3-peacemaking-the-new-frontier-in-online-arbitration-eeaae957aed2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-30T15:53:15.000Z",
-          "wordCount": 1635,
-          "title": "Web3 Peacemaking: The New Frontier in Online Arbitration",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*sAy4MQLNAc_CpayAoWOysw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/fb22206bef6e",
-          "author": "Ranjithkumar C",
-          "description": "In the realm of blockchain development, where every transaction and interaction is immutable and transparent, the need for precise and structured code is paramount. Enter the State Machine Pattern —…",
-          "link": "https://coinsbench.com/understanding-the-state-machine-pattern-in-solidity-fb22206bef6e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-04-30T15:53:13.000Z",
-          "wordCount": 3091,
-          "title": "Understanding the State Machine Pattern in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*7xIJXiEQbJ38MFTO.jpg"
         }
       ]
     },
@@ -156,104 +156,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/4d7d7cd26b48",
-          "author": "Allan Jackob",
-          "description": "In the ever-evolving landscape of digital finance, cryptocurrencies have emerged as a disruptive force, challenging traditional notions of…",
-          "link": "https://medium.com/coinmonks/unlocking-opportunities-developing-crypto-exchanges-as-a-lucrative-business-option-4d7d7cd26b48?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-06T10:29:36.000Z",
-          "wordCount": 2235,
-          "title": "Unlocking Opportunities: Developing Crypto Exchanges as a Lucrative Business Option",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:826/1*vWqmfmIuFRoNvpBA82Hz6w.jpeg"
+          "id": "https://medium.com/p/aa65f1bc9124",
+          "author": "Mezen",
+          "description": "Building a future unicorn might be challenging due to a lack of experience and financial constraints.",
+          "link": "https://medium.com/coinmonks/the-impact-of-startup-incubators-and-accelerators-on-fundraising-success-aa65f1bc9124?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-06T14:56:25.000Z",
+          "wordCount": 6084,
+          "title": "The impact of startup incubators and accelerators on fundraising success",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*AMPo1BAJI36GBnZ0leV4AQ.png"
         },
         {
-          "id": "https://medium.com/p/4d7a8096b7de",
-          "author": "Allan Jackob",
-          "description": "In recent years, Non-Fungible Tokens (NFTs) have surged in popularity, transforming the digital landscape and reshaping how we perceive…",
-          "link": "https://medium.com/coinmonks/unveiling-the-realm-of-nft-marketplaces-a-lucrative-business-avenue-4d7a8096b7de?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-06T10:29:32.000Z",
-          "wordCount": 2329,
-          "title": "Unveiling the Realm of NFT Marketplaces: A Lucrative Business Avenue",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:740/1*4yHV8eznUurErB6DfZsuNg.jpeg"
+          "id": "https://medium.com/p/8cfabb74aed8",
+          "author": "Rachel Grace",
+          "description": "Looking to edge out profits with minimal effort? Explore the Top 10 Best Crypto Arbitrage Trading Bots of 2024 and find your perfect…",
+          "link": "https://medium.com/coinmonks/top-10-best-crypto-arbitrage-trading-bots-of-2024-8cfabb74aed8?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-06T14:56:22.000Z",
+          "wordCount": 2505,
+          "title": "Top 10 Best Crypto Arbitrage Trading Bots of 2024",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tRGxRwnqcvErM6pYxuTxHg.jpeg"
         },
         {
-          "id": "https://medium.com/p/eb5f40519564",
-          "author": "Albert Peter",
-          "description": "Learn all about crypto swapping, its functions, and how it works in 2024. Get insights into the world of cryptocurrency exchanges and…",
-          "link": "https://medium.com/coinmonks/a-comprehensive-guide-on-crypto-swapping-and-its-functioning-2024-eb5f40519564?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-06T10:29:29.000Z",
-          "wordCount": 6185,
-          "title": "A Comprehensive Guide On Crypto Swapping And Its Functioning — 2024",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*04hrd38khaKhxUw0.jpeg"
+          "id": "https://medium.com/p/c3114a201871",
+          "author": "Mezen",
+          "description": "One Month of in-depth insights! Over the past month, we’ve delved into key topics in our research, providing you with comprehensive…",
+          "link": "https://medium.com/coinmonks/research-digest-april-c3114a201871?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-06T14:56:19.000Z",
+          "wordCount": 1401,
+          "title": "Research digest: April",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*E0KnaQSYPETgKs2r81csgw.png"
         },
         {
-          "id": "https://medium.com/p/f83f7956c41a",
-          "author": "Dr. Jason L. Benskin",
-          "description": "Understanding Bitcoin Mining Revenue: A Deep Dive into Post-Halving Yearly Lows\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/decoding-the-post-halving-yearly-slump-in-bitcoin-mining-revenue-f83f7956c41a?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-06T10:29:26.000Z",
-          "wordCount": 998,
-          "title": "Decoding the Post-Halving Yearly Slump in Bitcoin Mining Revenue",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UfFg89Y0cfwMeqixrzKb4Q.jpeg"
+          "id": "https://medium.com/p/33bc89e93667",
+          "author": "Bhupeshsahu",
+          "description": "Welcome to the world of “Smart Contracts”, where digital agreements come to life with the power of technology. If you’ve ever wondered how…",
+          "link": "https://medium.com/coinmonks/beginners-guide-to-smart-contracts-navigating-the-digital-frontier-33bc89e93667?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-06T14:56:14.000Z",
+          "wordCount": 2533,
+          "title": "“Beginner’s Guide to Smart Contracts: Navigating the Digital Frontier”",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*r5Twq_lSEqVdp_s4.jpeg"
         },
         {
-          "id": "https://medium.com/p/d8c6167b478a",
+          "id": "https://medium.com/p/224b909baaad",
+          "author": "Profit Sensor",
+          "description": "Pepe ($PEPE) is a cryptocurrency that rides the wave of the infamous Pepe the Frog meme. Launched in May 2023, it falls squarely in the category of a meme coin. This means its value isn't tied to any…",
+          "link": "https://medium.com/coinmonks/pepe-promises-to-make-you-rich-but-could-it-all-be-a-hilarious-illusion-224b909baaad?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-06T14:56:12.000Z",
+          "wordCount": 1623,
+          "title": "$PEPE promises to make you rich, but could it all be a hilarious illusion?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/39def69781fb",
+          "author": "Markdomain",
+          "description": "Let’s rewind the clock a bit to the Bitcoin halving, a pivotal moment in the cryptocurrency world. It was during this time that the Bitcoin…",
+          "link": "https://medium.com/coinmonks/what-next-after-bitcoin-runes-launch-will-it-outshine-ordinals-and-brc20-tokens-39def69781fb?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-06T14:56:11.000Z",
+          "wordCount": 4621,
+          "title": "What’s Next After Bitcoin Runes Launch? Will it Outshine Ordinals and BRC20 Tokens?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*eUkpNE-hh_bXcUtx4ee53A.png"
+        },
+        {
+          "id": "https://medium.com/p/4ca80aaa4658",
+          "author": "Stanley Thomas",
+          "description": "Learn how to start your own white label crypto exchange and enter the booming cryptocurrency market.",
+          "link": "https://medium.com/coinmonks/how-i-start-my-own-white-label-crypto-exchange-4ca80aaa4658?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-06T14:56:08.000Z",
+          "wordCount": 3044,
+          "title": "How I Start My Own White Label Crypto Exchange?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1178/1*jeZHlqtl4nd9wyDfx9F4YQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/40dd21cdd14c",
+          "author": "Ronwriter",
+          "description": "In the words of the king of Rock-n-Roll,\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-king-of-crypto-is-all-shook-up-40dd21cdd14c?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-06T14:56:03.000Z",
+          "wordCount": 1089,
+          "title": "The king of crypto is all shook up",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*wsw_FyIh0bwf2wIgw_dPIQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/2457f4b703c0",
           "author": "NEFTURE SECURITY I Blockchain Security",
-          "description": "A billion dollars’ worth of staked tokens could’ve been silently stolen if not for dWallet Labs’ preemptive investigation into validator…",
-          "link": "https://medium.com/coinmonks/the-billion-dollar-private-keys-exploit-validators-as-attack-vectors-d8c6167b478a?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-06T09:40:50.000Z",
-          "wordCount": 3084,
-          "title": "The Billion Dollar Private Keys  Exploit — Validators as Attack Vectors",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YJJqZlDZ-9pKWnS4wIfCtw.png"
+          "description": "A staggering $171.4 million was lost to crypto crimes in April 2024, pushing the total amount lost for the year past the $1 billion mark.",
+          "link": "https://medium.com/coinmonks/67m-rug-pulls-new-serial-crypto-hacker-and-the-zkasino-debacle-april-2024-crypto-crime-report-2457f4b703c0?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-06T14:56:01.000Z",
+          "wordCount": 4614,
+          "title": "$67M Rug Pulls, New Serial Crypto Hacker, and the ZKasino Debacle —  April 2024 Crypto Crime Report",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JXEE5DPLwXaNSz5Gi9HgYA.png"
         },
         {
-          "id": "https://medium.com/p/c842563bcebe",
-          "author": "Crypto with Bella",
-          "description": "10 Best Cryptocurrencies To Invest In 2024",
-          "link": "https://medium.com/coinmonks/top-10-coins-for-2024-c842563bcebe?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-06T09:40:27.000Z",
-          "wordCount": 3098,
-          "title": "Top 10 Coins For 2024",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*cn7yUufP9zXT0i7xsOJ_rw.png"
-        },
-        {
-          "id": "https://medium.com/p/40dcc8cb1125",
-          "author": "Cathrine Williams",
-          "description": "In the dynamic landscape of cryptocurrency, white-label crypto wallet development has emerged as a pivotal solution for businesses seeking…",
-          "link": "https://medium.com/coinmonks/a-look-into-the-future-of-white-label-crypto-wallet-development-in-2024-40dcc8cb1125?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-06T09:40:26.000Z",
-          "wordCount": 4187,
-          "title": "A Look into the Future of White-label Crypto Wallet Development in 2024",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JB_mHzcN8KQ84pIpOD_dSA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d27f2d7e9850",
-          "author": "InvestinCrypto",
-          "description": "I’ve been noticing the rapid surge in Bitcoin, and the discussions about the short duration of the current cycle have caught my attention…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/btc-exploding-bitcoin-price-prediction-d27f2d7e9850?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-06T09:40:25.000Z",
-          "wordCount": 976,
-          "title": "BTC Exploding! Bitcoin Price Prediction",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*nDvcCUEhBOuZHMuY"
-        },
-        {
-          "id": "https://medium.com/p/41cc64e3214b",
-          "author": "Sisu Mint Crypto",
-          "description": "The long-running issue over whether Ethereum is a commodity or a security was recently taken to trial. \n \nWhile the SEC maintains that…",
-          "link": "https://medium.com/coinmonks/bold-statements-for-ethereum-eth-xrp-and-altcoins-from-bitcoin-bull-michael-saylor-41cc64e3214b?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-06T09:40:19.000Z",
-          "wordCount": 1528,
-          "title": "Bold Statements for Ethereum (ETH), XRP and Altcoins from Bitcoin Bull Michael Saylor!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:310/1*5TcJuPitc-cJLkw_0D3MMg.png"
-        },
-        {
-          "id": "https://medium.com/p/3951b408955e",
-          "author": "Sisu Mint Crypto",
-          "description": "1. Buy when the market falls sharply in the morning, and sell when the market rises sharply in the morning. \n \n2. Do not chase when the…",
-          "link": "https://medium.com/coinmonks/highly-accurate-tips-for-trading-cryptocurrencies-3951b408955e?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-06T09:40:16.000Z",
-          "wordCount": 1321,
-          "title": "Highly accurate tips for trading cryptocurrencies",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:311/1*i75K9MDH9jeZu9OSy9h47Q.png"
+          "id": "https://medium.com/p/91f45346cbfb",
+          "author": "Probinar",
+          "description": "Technology is moving ahead at a faster pace! For instance: we’ve shifted from using button phones to AI phones as of now. What an…",
+          "link": "https://medium.com/coinmonks/from-novice-to-expert-navigating-the-path-to-blockchain-with-probinar-91f45346cbfb?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-06T14:55:58.000Z",
+          "wordCount": 2440,
+          "title": "From Novice to Expert: Navigating the path to blockchain with Probinar",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jtWsfRvRKDjCCEWgybD5hg.png"
         }
       ]
     },
