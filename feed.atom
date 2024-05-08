@@ -1,116 +1,134 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-08T10:14:10.447Z</id>
+    <id>urn:2024-05-08T11:11:31.482Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-08T10:14:10.447Z</updated>
+    <updated>2024-05-08T11:11:31.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Partner Chains of Cardano]]></title>
-        <id>https://medium.com/p/60d147443287</id>
-        <link href="https://medium.com/coinmonks/partner-chains-of-cardano-60d147443287?source=rss----721b17443fd5---4"/>
-        <updated>2024-05-08T10:11:58.000Z</updated>
-        <summary type="html"><![CDATA[In the Midnight Special video, Charles Hoskinson described the role of Cardano in the context of Midnight and partner chains. Midnight was…
+        <title type="html"><![CDATA[Step-by-Step Guide to Understanding SPL Token Roles: MintAccount,TokenAccount on Solana]]></title>
+        <id>https://medium.com/p/8bcd4a9688b8</id>
+        <link href="https://coinsbench.com/step-by-step-guide-to-understanding-spl-token-roles-mintaccount-tokenaccount-on-solana-8bcd4a9688b8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-08T10:23:38.000Z</updated>
+        <summary type="html"><![CDATA[Create a MintAuthorityAccount:
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>RickyYang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Balancer Price Retrieval API with NestJS]]></title>
+        <id>https://medium.com/p/5ad53e72e2cf</id>
+        <link href="https://coinsbench.com/building-a-balancer-price-retrieval-api-with-nestjs-5ad53e72e2cf?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-08T10:23:36.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will develop a simple API using NestJS that interacts with the Balancer Protocol to retrieve pool IDs and token…]]></summary>
+        <author>
+            <name>Burgossrodrigo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 AI Trading Bots In May 2024]]></title>
+        <id>https://medium.com/p/35a17ffdaf1f</id>
+        <link href="https://medium.com/coinmonks/top-5-ai-trading-bots-in-may-2024-35a17ffdaf1f?source=rss----721b17443fd5---4"/>
+        <updated>2024-05-08T10:17:12.000Z</updated>
+        <summary type="html"><![CDATA[Discover the top 5 AI trading bots for May 2024. Automate your trading and stay ahead in the crypto market with these advanced tools.]]></summary>
+        <author>
+            <name>Albert Peter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Winter Protocol: Expanding Cardano’s Reach into Real-World Assets and Supply Chain Management]]></title>
+        <id>https://medium.com/p/a4bf1cf73902</id>
+        <link href="https://medium.com/coinmonks/the-winter-protocol-expanding-cardanos-reach-into-real-world-assets-and-supply-chain-management-a4bf1cf73902?source=rss----721b17443fd5---4"/>
+        <updated>2024-05-08T10:17:07.000Z</updated>
+        <summary type="html"><![CDATA[The Winter Protocol is an open-source, ready-to-use solution for traceability and tokenization. It offers a range of APIs and toolsets…
 Continue reading on Coinmonks »]]></summary>
         <author>
             <name>Cardanians.io (CRDNS pool)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cardano Is A CS Platform]]></title>
-        <id>https://medium.com/p/7848575f4a70</id>
-        <link href="https://medium.com/coinmonks/cardano-is-a-cs-platform-7848575f4a70?source=rss----721b17443fd5---4"/>
-        <updated>2024-05-08T10:11:57.000Z</updated>
-        <summary type="html"><![CDATA[Cardano is a SC platform. What does it mean and how is it different from Bitcoin? Bitcoin is seen primarily as an immutable monetary…
+        <title type="html"><![CDATA[Bitcoin DeFi Revolution: Runes and BRC-20s Leading the Charge]]></title>
+        <id>https://medium.com/p/e0ba984676ca</id>
+        <link href="https://medium.com/coinmonks/bitcoin-defi-revolution-runes-and-brc-20s-leading-the-charge-e0ba984676ca?source=rss----721b17443fd5---4"/>
+        <updated>2024-05-08T10:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin, once envisioned as a peer-to-peer electronic cash system, has morphed into something far more significant over the years…]]></summary>
+        <author>
+            <name>Emily George</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano Resilience Against Spam Transactions]]></title>
+        <id>https://medium.com/p/ae318a13a66f</id>
+        <link href="https://medium.com/coinmonks/cardano-resilience-against-spam-transactions-ae318a13a66f?source=rss----721b17443fd5---4"/>
+        <updated>2024-05-08T10:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain networks, in their native form, face scalability challenges. The throughput of the network, often measured in transactions per…
 Continue reading on Coinmonks »]]></summary>
         <author>
             <name>Cardanians.io (CRDNS pool)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cardano Has Fixed And Predictable Fees]]></title>
-        <id>https://medium.com/p/20b4f8ff484a</id>
-        <link href="https://medium.com/coinmonks/cardano-has-fixed-and-predictable-fees-20b4f8ff484a?source=rss----721b17443fd5---4"/>
-        <updated>2024-05-08T10:11:55.000Z</updated>
-        <summary type="html"><![CDATA[Most blockchains use some form of fee market to calculate transaction fees. When a large number of people want to use the blockchain, the…
+        <title type="html"><![CDATA[Why Cardano Doesn’t Need Sequencers For ZK Rollups?]]></title>
+        <id>https://medium.com/p/18f8e6b6fbca</id>
+        <link href="https://medium.com/coinmonks/why-cardano-doesnt-need-sequencers-for-zk-rollups-18f8e6b6fbca?source=rss----721b17443fd5---4"/>
+        <updated>2024-05-08T10:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Cardano transactions rarely fail because validation is not dependent on a shared global state. This is a key distinction between Cardano’s…
 Continue reading on Coinmonks »]]></summary>
         <author>
             <name>Cardanians.io (CRDNS pool)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding The Cardano Mem-Pool]]></title>
-        <id>https://medium.com/p/28429135306e</id>
-        <link href="https://medium.com/coinmonks/understanding-the-cardano-mem-pool-28429135306e?source=rss----721b17443fd5---4"/>
-        <updated>2024-05-08T10:11:53.000Z</updated>
-        <summary type="html"><![CDATA[The mem-pool is where transactions wait to be inserted into a block. Each block producer node needs to maintain its mem-pool. Having…
+        <title type="html"><![CDATA[BinaBinance Clone Script — To Launch a Crypto Exchange With Multiple Features Instantly]]></title>
+        <id>https://medium.com/p/855eff36b382</id>
+        <link href="https://medium.com/coinmonks/binabinance-clone-script-to-launch-a-crypto-exchange-with-multiple-features-instantly-855eff36b382?source=rss----721b17443fd5---4"/>
+        <updated>2024-05-08T10:17:00.000Z</updated>
+        <summary type="html"><![CDATA[What is Binance Clone Script?]]></summary>
+        <author>
+            <name>John Benjamin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Dive Into Cardano’s UTxO And Ethereum’s Account-Based Models Models]]></title>
+        <id>https://medium.com/p/72187f01b9b0</id>
+        <link href="https://medium.com/coinmonks/deep-dive-into-cardanos-utxo-and-ethereum-s-account-based-models-models-72187f01b9b0?source=rss----721b17443fd5---4"/>
+        <updated>2024-05-08T10:16:56.000Z</updated>
+        <summary type="html"><![CDATA[The significance of the selected blockchain accounting model is often underestimated, despite its substantial influence on user experience…
 Continue reading on Coinmonks »]]></summary>
         <author>
             <name>Cardanians.io (CRDNS pool)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding The Finality Of Cardano Transactions]]></title>
-        <id>https://medium.com/p/324b8d835621</id>
-        <link href="https://medium.com/coinmonks/understanding-the-finality-of-cardano-transactions-324b8d835621?source=rss----721b17443fd5---4"/>
-        <updated>2024-05-08T10:11:52.000Z</updated>
-        <summary type="html"><![CDATA[Cardano’s Ouroboros PoS uses probabilistic finality, where a block is considered final when enough blocks have been appended behind it.
+        <title type="html"><![CDATA[Comparing Input Endorsers with Sharding]]></title>
+        <id>https://medium.com/p/9aa7e2bb61d5</id>
+        <link href="https://medium.com/coinmonks/comparing-input-endorsers-with-sharding-9aa7e2bb61d5?source=rss----721b17443fd5---4"/>
+        <updated>2024-05-08T10:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Input Endorsers will increase the scalability of the Cardano network. Sharding is a popular solution with the same goal. The article aims…
 Continue reading on Coinmonks »]]></summary>
         <author>
             <name>Cardanians.io (CRDNS pool)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Users Can Enjoy The Determinism of Cardano’s EUTxO Model]]></title>
-        <id>https://medium.com/p/fcbf94df8416</id>
-        <link href="https://medium.com/coinmonks/users-can-enjoy-the-determinism-of-cardanos-eutxo-model-fcbf94df8416?source=rss----721b17443fd5---4"/>
-        <updated>2024-05-08T10:11:47.000Z</updated>
-        <summary type="html"><![CDATA[From the perspective of application developers, the UTxO model is fundamentally different from the account-based model. The account-based…
-Continue reading on Coinmonks »]]></summary>
+        <title type="html"><![CDATA[Empower Your Digital Privacy and Connectivity with the IoTeX Blockchain: Building a Secure Future…]]></title>
+        <id>https://medium.com/p/2472ac618cfb</id>
+        <link href="https://medium.com/coinmonks/empower-your-digital-privacy-and-connectivity-with-the-iotex-blockchain-building-a-secure-future-2472ac618cfb?source=rss----721b17443fd5---4"/>
+        <updated>2024-05-08T10:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Introduction:]]></summary>
         <author>
-            <name>Cardanians.io (CRDNS pool)</name>
+            <name>BIKRAM BISWAS</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Challenges For Cardano Developers]]></title>
-        <id>https://medium.com/p/8097ef44e3ae</id>
-        <link href="https://medium.com/coinmonks/challenges-for-cardano-developers-8097ef44e3ae?source=rss----721b17443fd5---4"/>
-        <updated>2024-05-08T10:11:41.000Z</updated>
-        <summary type="html"><![CDATA[It can be difficult for developers to take full advantage of the UTxO model because they have to take parallelization into account.
-Continue reading on Coinmonks »]]></summary>
+        <title type="html"><![CDATA[How to Develop a Cryptocurrency Exchange Platform In 2024?]]></title>
+        <id>https://medium.com/p/832270a28891</id>
+        <link href="https://medium.com/coinmonks/how-to-develop-a-cryptocurrency-exchange-platform-in-2024-832270a28891?source=rss----721b17443fd5---4"/>
+        <updated>2024-05-08T10:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Currently, all entrepreneurs are using cryptocurrencies for their business transactions, which means we are officially entering the crypto…]]></summary>
         <author>
-            <name>Cardanians.io (CRDNS pool)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curious Cryptos’ Commentary 8th May 2024 — ENA & USDe.]]></title>
-        <id>https://medium.com/p/1a26eea633eb</id>
-        <link href="https://medium.com/coinmonks/curious-cryptos-commentary-8th-may-2024-ena-usde-1a26eea633eb?source=rss----721b17443fd5---4"/>
-        <updated>2024-05-08T10:11:37.000Z</updated>
-        <summary type="html"><![CDATA[tl;dr
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Mark Timmis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fantasy.top Docs & Gameplay]]></title>
-        <id>https://medium.com/p/7c55edf7797d</id>
-        <link href="https://medium.com/coinmonks/fantasy-top-docs-gameplay-7c55edf7797d?source=rss----721b17443fd5---4"/>
-        <updated>2024-05-08T10:11:33.000Z</updated>
-        <summary type="html"><![CDATA[Fantasy is a social trading card game that combines strategic play with the collection and trading of digital assets. Players build decks…]]></summary>
-        <author>
-            <name>fantasy.top</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major Asset Managers Tokenize US Treasuries On Public Blockchains]]></title>
-        <id>https://medium.com/p/b6c0bb149169</id>
-        <link href="https://medium.com/coinmonks/major-asset-managers-tokenize-us-treasuries-on-public-blockchains-b6c0bb149169?source=rss----721b17443fd5---4"/>
-        <updated>2024-05-08T10:11:19.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Wheatstones</name>
+            <name>Cressida Noah</name>
         </author>
     </entry>
     <entry>
@@ -196,26 +214,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Auctions are events where items are spotlighted and put on sale for a period during which people can place bids on them. The highest bidder…]]></summary>
         <author>
             <name>Levai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity special comments: NatSpec documentation format]]></title>
-        <id>https://medium.com/p/388da664a76a</id>
-        <link href="https://coinsbench.com/solidity-special-comments-natspec-documentation-format-388da664a76a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-03T12:07:26.000Z</updated>
-        <summary type="html"><![CDATA[Solidity NatSpec Comments: the key to readable and maintainable Solidity code]]></summary>
-        <author>
-            <name>Aapsi Khaira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on View and Pure modifiers in Solidity]]></title>
-        <id>https://medium.com/p/befc5415634c</id>
-        <link href="https://coinsbench.com/notes-on-view-and-pure-modifiers-in-solidity-befc5415634c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-03T12:07:24.000Z</updated>
-        <summary type="html"><![CDATA[Why are there so many modifiers for functions in Solidity? To answer this, you must first understand what the Ethereum blockchain is.]]></summary>
-        <author>
-            <name>Simeon Campbell</name>
         </author>
     </entry>
     <entry>

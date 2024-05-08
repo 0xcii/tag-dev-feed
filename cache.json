@@ -49,6 +49,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/8bcd4a9688b8",
+          "author": "RickyYang",
+          "description": "Create a MintAuthorityAccount:\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/step-by-step-guide-to-understanding-spl-token-roles-mintaccount-tokenaccount-on-solana-8bcd4a9688b8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-08T10:23:38.000Z",
+          "wordCount": 807,
+          "title": "Step-by-Step Guide to Understanding SPL Token Roles: MintAccount,TokenAccount on Solana",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*IlL5x_SS-rG9WCxDFSW2GA.png"
+        },
+        {
+          "id": "https://medium.com/p/5ad53e72e2cf",
+          "author": "Burgossrodrigo",
+          "description": "In this tutorial, we will develop a simple API using NestJS that interacts with the Balancer Protocol to retrieve pool IDs and token…",
+          "link": "https://coinsbench.com/building-a-balancer-price-retrieval-api-with-nestjs-5ad53e72e2cf?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-08T10:23:36.000Z",
+          "wordCount": 2002,
+          "title": "Building a Balancer Price Retrieval API with NestJS",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:801/1*s7z335eC4cnrX_16NGXqhg.png"
+        },
+        {
           "id": "https://medium.com/p/7c50bcf144b3",
           "author": "Burgossrodrigo",
           "description": "Using TypeChain for Ethereum Smart Contracts",
@@ -127,26 +147,6 @@
           "wordCount": 4196,
           "title": "How to Write a Simple Auction Smart Contract in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LoK2Rlx-6Het8l1zhGd-bw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/388da664a76a",
-          "author": "Aapsi Khaira",
-          "description": "Solidity NatSpec Comments: the key to readable and maintainable Solidity code",
-          "link": "https://coinsbench.com/solidity-special-comments-natspec-documentation-format-388da664a76a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-03T12:07:26.000Z",
-          "wordCount": 2196,
-          "title": "Solidity special comments: NatSpec documentation format",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-VLa2u84xq0gx23BLjdQBQ.png"
-        },
-        {
-          "id": "https://medium.com/p/befc5415634c",
-          "author": "Simeon Campbell",
-          "description": "Why are there so many modifiers for functions in Solidity? To answer this, you must first understand what the Ethereum blockchain is.",
-          "link": "https://coinsbench.com/notes-on-view-and-pure-modifiers-in-solidity-befc5415634c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-03T12:07:24.000Z",
-          "wordCount": 2011,
-          "title": "Notes on View and Pure modifiers in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*u7sx48E2wgso0VJct1_MKw.png"
         }
       ]
     },
@@ -156,104 +156,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/60d147443287",
+          "id": "https://medium.com/p/35a17ffdaf1f",
+          "author": "Albert Peter",
+          "description": "Discover the top 5 AI trading bots for May 2024. Automate your trading and stay ahead in the crypto market with these advanced tools.",
+          "link": "https://medium.com/coinmonks/top-5-ai-trading-bots-in-may-2024-35a17ffdaf1f?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-08T10:17:12.000Z",
+          "wordCount": 5531,
+          "title": "Top 5 AI Trading Bots In May 2024",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*qWgbglO1dWXFtZE2.jpg"
+        },
+        {
+          "id": "https://medium.com/p/a4bf1cf73902",
           "author": "Cardanians.io (CRDNS pool)",
-          "description": "In the Midnight Special video, Charles Hoskinson described the role of Cardano in the context of Midnight and partner chains. Midnight was…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/partner-chains-of-cardano-60d147443287?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-08T10:11:58.000Z",
-          "wordCount": 1062,
-          "title": "Partner Chains of Cardano",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*IOA0BWu_ZAxFupMO.jpg"
+          "description": "The Winter Protocol is an open-source, ready-to-use solution for traceability and tokenization. It offers a range of APIs and toolsets…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-winter-protocol-expanding-cardanos-reach-into-real-world-assets-and-supply-chain-management-a4bf1cf73902?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-08T10:17:07.000Z",
+          "wordCount": 1058,
+          "title": "The Winter Protocol: Expanding Cardano’s Reach into Real-World Assets and Supply Chain Management",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:780/0*RXBcBpwXJZTbqWsp.jpg"
         },
         {
-          "id": "https://medium.com/p/7848575f4a70",
+          "id": "https://medium.com/p/e0ba984676ca",
+          "author": "Emily George",
+          "description": "Bitcoin, once envisioned as a peer-to-peer electronic cash system, has morphed into something far more significant over the years…",
+          "link": "https://medium.com/coinmonks/bitcoin-defi-revolution-runes-and-brc-20s-leading-the-charge-e0ba984676ca?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-08T10:17:07.000Z",
+          "wordCount": 5051,
+          "title": "Bitcoin DeFi Revolution: Runes and BRC-20s Leading the Charge",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wohtQyGgUr6o1sa-JHqJ4Q.png"
+        },
+        {
+          "id": "https://medium.com/p/ae318a13a66f",
           "author": "Cardanians.io (CRDNS pool)",
-          "description": "Cardano is a SC platform. What does it mean and how is it different from Bitcoin? Bitcoin is seen primarily as an immutable monetary…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/cardano-is-a-cs-platform-7848575f4a70?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-08T10:11:57.000Z",
-          "wordCount": 1075,
-          "title": "Cardano Is A CS Platform",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:710/0*jREsqudcQp6HReKr"
+          "description": "Blockchain networks, in their native form, face scalability challenges. The throughput of the network, often measured in transactions per…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/cardano-resilience-against-spam-transactions-ae318a13a66f?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-08T10:17:02.000Z",
+          "wordCount": 1039,
+          "title": "Cardano Resilience Against Spam Transactions",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:644/0*VcjZ791DmtEkk9V_.jpg"
         },
         {
-          "id": "https://medium.com/p/20b4f8ff484a",
+          "id": "https://medium.com/p/18f8e6b6fbca",
           "author": "Cardanians.io (CRDNS pool)",
-          "description": "Most blockchains use some form of fee market to calculate transaction fees. When a large number of people want to use the blockchain, the…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/cardano-has-fixed-and-predictable-fees-20b4f8ff484a?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-08T10:11:55.000Z",
-          "wordCount": 1079,
-          "title": "Cardano Has Fixed And Predictable Fees",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:540/0*oqw26r8tSJ7mQuKg.jpg"
+          "description": "Cardano transactions rarely fail because validation is not dependent on a shared global state. This is a key distinction between Cardano’s…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/why-cardano-doesnt-need-sequencers-for-zk-rollups-18f8e6b6fbca?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-08T10:17:01.000Z",
+          "wordCount": 1046,
+          "title": "Why Cardano Doesn’t Need Sequencers For ZK Rollups?",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*cXylw7_qyaWhI_-X"
         },
         {
-          "id": "https://medium.com/p/28429135306e",
+          "id": "https://medium.com/p/855eff36b382",
+          "author": "John Benjamin",
+          "description": "What is Binance Clone Script?",
+          "link": "https://medium.com/coinmonks/binabinance-clone-script-to-launch-a-crypto-exchange-with-multiple-features-instantly-855eff36b382?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-08T10:17:00.000Z",
+          "wordCount": 4521,
+          "title": "BinaBinance Clone Script — To Launch a Crypto Exchange With Multiple Features Instantly",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*urHlmrB3pAjReqoyxke2Ag.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/72187f01b9b0",
           "author": "Cardanians.io (CRDNS pool)",
-          "description": "The mem-pool is where transactions wait to be inserted into a block. Each block producer node needs to maintain its mem-pool. Having…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/understanding-the-cardano-mem-pool-28429135306e?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-08T10:11:53.000Z",
-          "wordCount": 1031,
-          "title": "Understanding The Cardano Mem-Pool",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*KJtQZlfJmwjrRou2"
+          "description": "The significance of the selected blockchain accounting model is often underestimated, despite its substantial influence on user experience…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/deep-dive-into-cardanos-utxo-and-ethereum-s-account-based-models-models-72187f01b9b0?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-08T10:16:56.000Z",
+          "wordCount": 1044,
+          "title": "Deep Dive Into Cardano’s UTxO And Ethereum’s Account-Based Models Models",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*rmVeHuV2OCZ5MPtY.jpg"
         },
         {
-          "id": "https://medium.com/p/324b8d835621",
+          "id": "https://medium.com/p/9aa7e2bb61d5",
           "author": "Cardanians.io (CRDNS pool)",
-          "description": "Cardano’s Ouroboros PoS uses probabilistic finality, where a block is considered final when enough blocks have been appended behind it.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/understanding-the-finality-of-cardano-transactions-324b8d835621?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-08T10:11:52.000Z",
-          "wordCount": 1037,
-          "title": "Understanding The Finality Of Cardano Transactions",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:512/0*VDsj1M_8dU1bU-B2"
+          "description": "Input Endorsers will increase the scalability of the Cardano network. Sharding is a popular solution with the same goal. The article aims…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/comparing-input-endorsers-with-sharding-9aa7e2bb61d5?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-08T10:16:54.000Z",
+          "wordCount": 1046,
+          "title": "Comparing Input Endorsers with Sharding",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*-4n8VXR65Rkpbi70.jpg"
         },
         {
-          "id": "https://medium.com/p/fcbf94df8416",
-          "author": "Cardanians.io (CRDNS pool)",
-          "description": "From the perspective of application developers, the UTxO model is fundamentally different from the account-based model. The account-based…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/users-can-enjoy-the-determinism-of-cardanos-eutxo-model-fcbf94df8416?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-08T10:11:47.000Z",
-          "wordCount": 1040,
-          "title": "Users Can Enjoy The Determinism of Cardano’s EUTxO Model",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*hNCfSIAdUSaZSKzK.jpg"
+          "id": "https://medium.com/p/2472ac618cfb",
+          "author": "BIKRAM BISWAS",
+          "description": "Introduction:",
+          "link": "https://medium.com/coinmonks/empower-your-digital-privacy-and-connectivity-with-the-iotex-blockchain-building-a-secure-future-2472ac618cfb?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-08T10:16:52.000Z",
+          "wordCount": 6057,
+          "title": "Empower Your Digital Privacy and Connectivity with the IoTeX Blockchain: Building a Secure Future…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*5HhKexcQgYD7AEXDhHKQxA.jpeg"
         },
         {
-          "id": "https://medium.com/p/8097ef44e3ae",
-          "author": "Cardanians.io (CRDNS pool)",
-          "description": "It can be difficult for developers to take full advantage of the UTxO model because they have to take parallelization into account.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/challenges-for-cardano-developers-8097ef44e3ae?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-08T10:11:41.000Z",
-          "wordCount": 1054,
-          "title": "Challenges For Cardano Developers",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:612/0*JhPtKaWANHTBw72l"
-        },
-        {
-          "id": "https://medium.com/p/1a26eea633eb",
-          "author": "Mark Timmis",
-          "description": "tl;dr\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-8th-may-2024-ena-usde-1a26eea633eb?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-08T10:11:37.000Z",
-          "wordCount": 959,
-          "title": "Curious Cryptos’ Commentary 8th May 2024 — ENA & USDe.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1039/1*C7MI04I5zWY4UDsXts4DGg.png"
-        },
-        {
-          "id": "https://medium.com/p/7c55edf7797d",
-          "author": "fantasy.top",
-          "description": "Fantasy is a social trading card game that combines strategic play with the collection and trading of digital assets. Players build decks…",
-          "link": "https://medium.com/coinmonks/fantasy-top-docs-gameplay-7c55edf7797d?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-08T10:11:33.000Z",
-          "wordCount": 2145,
-          "title": "Fantasy.top Docs & Gameplay",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*HwAgJs1bfoEH71C1"
-        },
-        {
-          "id": "https://medium.com/p/b6c0bb149169",
-          "author": "Wheatstones",
-          "description": "Introduction",
-          "link": "https://medium.com/coinmonks/major-asset-managers-tokenize-us-treasuries-on-public-blockchains-b6c0bb149169?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-08T10:11:19.000Z",
-          "wordCount": 4620,
-          "title": "Major Asset Managers Tokenize US Treasuries On Public Blockchains",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*IUiYP6bQc5ZencxUjozncQ.jpeg"
+          "id": "https://medium.com/p/832270a28891",
+          "author": "Cressida Noah",
+          "description": "Currently, all entrepreneurs are using cryptocurrencies for their business transactions, which means we are officially entering the crypto…",
+          "link": "https://medium.com/coinmonks/how-to-develop-a-cryptocurrency-exchange-platform-in-2024-832270a28891?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-08T10:16:50.000Z",
+          "wordCount": 2697,
+          "title": "How to Develop a Cryptocurrency Exchange Platform In 2024?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*TPIuAxHSgR3z57Z_4whcnA.png"
         }
       ]
     },
