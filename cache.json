@@ -39,6 +39,76 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/9088849836a2",
+          "author": "Dhananjay Joshi",
+          "description": "In the ever-evolving landscape of blockchain technology, went under a transformative upgrade with the implementation of Ethereum…",
+          "link": "https://coinsbench.com/ethereums-evolution-understanding-eip-3675-and-the-transition-from-proof-of-work-to-9088849836a2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-14T12:29:43.000Z",
+          "wordCount": 1821,
+          "title": "Ethereum’s Evolution: Understanding EIP-3675 and the Transition from Proof-of-Work to…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cfd301f4ab5a",
+          "author": "Gimer Cervera",
+          "description": "I. Introduction\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/ethereum-blockchain-fundamentals-cfd301f4ab5a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-14T12:29:41.000Z",
+          "wordCount": 840,
+          "title": "Ethereum Blockchain Fundamentals",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:711/1*1nD89ozTHHAdhx5SIY1qjg.png"
+        },
+        {
+          "id": "https://medium.com/p/c0ca15717adc",
+          "author": "Dhananjay Joshi",
+          "description": "In the ever-evolving landscape of blockchain technology, one of the most discussed and challenging concepts is the Blockchain Trilemma…",
+          "link": "https://coinsbench.com/navigating-the-blockchain-trilemma-balancing-decentralization-security-and-scalability-c0ca15717adc?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-14T12:29:39.000Z",
+          "wordCount": 1754,
+          "title": "Navigating the Blockchain Trilemma: Balancing Decentralization, Security, and Scalability.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/647986a82af2",
+          "author": "Eli",
+          "description": "The primary purpose of these functions is to protect funds in the event that someone accidentally calls the contract instead of the…",
+          "link": "https://coinsbench.com/understanding-fallback-vs-receive-functions-in-solidity-647986a82af2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-14T12:29:37.000Z",
+          "wordCount": 3306,
+          "title": "Understanding fallback vs receive functions in Solidity.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*1b8vJUPsv2iO9BYjaCnu8w.png"
+        },
+        {
+          "id": "https://medium.com/p/ea2c29550772",
+          "author": "Abdullahi Aliyu",
+          "description": "Since its creation, blockchain technology has been an instrument of change in various industries, with the emergence of decentralized…",
+          "link": "https://coinsbench.com/smart-contracts-and-near-protocol-ea2c29550772?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-14T12:29:35.000Z",
+          "wordCount": 2026,
+          "title": "Smart Contracts and NEAR Protocol",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VzfSKj2r-I6HCpJVQzekSQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/a89172a04bfe",
+          "author": "Abdullahi Aliyu",
+          "description": "If you’ve heard about NEAR Protocol, you might have come across the term “nodes.” But what exactly is a node, and why would someone want to…",
+          "link": "https://coinsbench.com/understanding-nodes-a-beginners-guide-a89172a04bfe?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-14T12:29:33.000Z",
+          "wordCount": 1487,
+          "title": "Understanding Nodes: A Beginner’s Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*djzxn-azIyiZYks6OI31mg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/efc6e8151239",
+          "author": "Solidity Academy",
+          "description": "In Ethereum’s ecosystem, the concept of “gas” has long been pivotal, dictating the computational effort required for processing…",
+          "link": "https://coinsbench.com/unlocking-ethereums-potential-a-multidimensional-approach-to-gas-fees-efc6e8151239?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-14T12:29:30.000Z",
+          "wordCount": 1622,
+          "title": "Unlocking Ethereum’s Potential: A Multidimensional Approach to Gas Fees",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*Suyul-xx0KdUHwtL"
+        },
+        {
           "id": "https://medium.com/p/8bcd4a9688b8",
           "author": "RickyYang",
           "description": "Create a MintAuthorityAccount:\nContinue reading on CoinsBench »",
@@ -67,76 +137,6 @@
           "wordCount": 1404,
           "title": "Buiding Curve Finance Interactions with typescript and typechain",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*b3sEIY35FZHQ6PbGQ4AUzQ.png"
-        },
-        {
-          "id": "https://medium.com/p/9d546a679c87",
-          "author": "Ajmal",
-          "description": "Rust’s memory safety guarantees without a garbage collector come from its unique approach to ownership, borrowing, and the memory model…",
-          "link": "https://coinsbench.com/understanding-rusts-ownership-borrowing-and-memory-management-9d546a679c87?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-06T14:55:19.000Z",
-          "wordCount": 1969,
-          "title": "Understanding Rust’s Ownership, Borrowing, and Memory Management",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/fa4d41fa6073",
-          "author": "RickyYang",
-          "description": "Origin of Runes\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/what-are-runes-a-deep-dive-into-an-innovative-blockchain-protocol-fa4d41fa6073?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-06T14:55:17.000Z",
-          "wordCount": 842,
-          "title": "What are Runes? A Deep Dive into an Innovative Blockchain Protocol",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Ip8PMN-HadNCyXpTWGIbjQ.png"
-        },
-        {
-          "id": "https://medium.com/p/00a947ae581f",
-          "author": "42TechLabs",
-          "description": "Exploring Liquid Price Attack with Foundry Tests, Fuzz Testing Insights, and Practical Tips\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/foundry-testing-master-class-step-by-step-guides-to-smart-contract-security-episode-1-00a947ae581f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-06T14:55:15.000Z",
-          "wordCount": 828,
-          "title": "Foundry Testing Master Class: Step-by-Step Guides to Smart Contract Security-Episode 1",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:810/1*lQ3I5HwdTE381haHpnxbbA.png"
-        },
-        {
-          "id": "https://medium.com/p/01f8c147e5c7",
-          "author": "Manaan Ansari",
-          "description": "Can we compute a smart contract address before deployment? \nGo ahead, take a guess.\nIf you said yes, give yourself a pat on the back —…",
-          "link": "https://coinsbench.com/understanding-soliditys-create-create2-with-tornado-cash-1m-hack-01f8c147e5c7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-06T14:55:13.000Z",
-          "wordCount": 2106,
-          "title": "Understanding Solidity’s create & create2 with Tornado Cash $1M Hack",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0zQrPWgjnmO9viuGDskqeQ.png"
-        },
-        {
-          "id": "https://medium.com/p/5fb98a5e6446",
-          "author": "Ajmal",
-          "description": "Tokenomics, a blend of token and economics, involves the strategic design of a token’s economic model within the ecosystem it operates…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/introduction-to-tokenomics-design-process-5fb98a5e6446?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-06T14:55:13.000Z",
-          "wordCount": 910,
-          "title": "Introduction to Tokenomics Design Process",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*opR0Qs9bg4l8pbkuU6a7nA.png"
-        },
-        {
-          "id": "https://medium.com/p/e1763fe35343",
-          "author": "Burgossrodrigo",
-          "description": "This tutorial will guide you through setting up a NestJS API that interacts with Ethereum-based contracts to fetch and process token prices…",
-          "link": "https://coinsbench.com/building-a-nestjs-api-to-extract-prices-from-thena-protocol-e1763fe35343?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-03T12:08:40.000Z",
-          "wordCount": 2319,
-          "title": "Building a NestJS API to Extract Prices from Thena Protocol",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Meaq_9SP6M8p7yLB0CF-0Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/c4458506f293",
-          "author": "Levai",
-          "description": "Auctions are events where items are spotlighted and put on sale for a period during which people can place bids on them. The highest bidder…",
-          "link": "https://coinsbench.com/how-to-write-a-simple-auction-smart-contract-in-solidity-c4458506f293?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-03T12:07:28.000Z",
-          "wordCount": 4196,
-          "title": "How to Write a Simple Auction Smart Contract in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LoK2Rlx-6Het8l1zhGd-bw.jpeg"
         }
       ]
     },
