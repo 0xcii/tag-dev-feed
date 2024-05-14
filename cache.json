@@ -104,7 +104,7 @@
           "description": "Can we compute a smart contract address before deployment? \nGo ahead, take a guess.\nIf you said yes, give yourself a pat on the back —…",
           "link": "https://coinsbench.com/understanding-soliditys-create-create2-with-tornado-cash-1m-hack-01f8c147e5c7?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-05-06T14:55:13.000Z",
-          "wordCount": 2117,
+          "wordCount": 2106,
           "title": "Understanding Solidity’s create & create2 with Tornado Cash $1M Hack",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0zQrPWgjnmO9viuGDskqeQ.png"
         },
@@ -251,7 +251,18 @@
       "title": "Solidity in Block Magnates on Medium",
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://medium.com/p/066a42768085",
+          "author": "Ayo Omotayo",
+          "description": "Lately, I’ve found myself drawn to the intricate world of blockchain technology. This newfound passion has sparked a journey of exploration and research into its vast potential beyond its commonly…",
+          "link": "https://blog.blockmagnates.com/exploring-blockchain-technologys-diverse-applications-beyond-cryptocurrency-066a42768085?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-05-14T11:22:46.000Z",
+          "wordCount": 1916,
+          "title": "Applications of blockchain technology beyond cryptocurrency",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YBm7Qq-JEcpWNRxsZlIwaQ.jpeg"
+        }
+      ]
     },
     {
       "title": "Developer DAO Blog | Web3 Tutorials",
