@@ -268,18 +268,7 @@
       "title": "Developer DAO Blog | Web3 Tutorials",
       "feedUrl": "https://blog.developerdao.com/rss.xml",
       "siteUrl": "https://blog.developerdao.com",
-      "articles": [
-        {
-          "id": "https://blog.developerdao.com/building-on-bitcoin-layers-with-the-hiro-platform",
-          "author": "Ϗ",
-          "description": "Bitcoin is the highest-valued token on the planet, but building on the Bitcoin network was a hassle in the past; as the first blockchain, its support for smart contract development and apps was very basic. This changed with the rise of Bitcoin layer-2 networks like Stacks, which come with powerful smart contract platforms. \nIn the previous article, you learned the differences between Solidity and Clarity, the programming language used on Stacks. In this article, you will learn how to build smart contracts with Clarity on Stacks and send contract events to a web server with the Chainhook service. All powered by the Hiro Platform.\nIf you prefer video, check out our workshop with Hiro on YouTube; it contains the same content.\nPrerequisites\n\nA Bitcoin wallet that can interact with the Stacks n…",
-          "link": "https://blog.developerdao.com/building-on-bitcoin-layers-with-the-hiro-platform",
-          "publishedOn": "2024-04-16T22:00:00.000Z",
-          "wordCount": 20751,
-          "title": "Building on Bitcoin Layers With the Hiro Platform",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1712227564078%2F85f5c303-d030-4057-b87f-63a3b28cb2ed.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

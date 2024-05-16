@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-16T09:14:05.636Z</id>
+    <id>urn:2024-05-16T10:13:17.389Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-16T09:14:05.636Z</updated>
+    <updated>2024-05-16T10:13:17.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -238,21 +238,6 @@ The post 3 Year Update: Working on the best algorithmic crypto trading platform
 The post Open Source Crypto Sentiment Trading Bot for Reddit appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building on Bitcoin Layers With the Hiro Platform]]></title>
-        <id>https://blog.developerdao.com/building-on-bitcoin-layers-with-the-hiro-platform</id>
-        <link href="https://blog.developerdao.com/building-on-bitcoin-layers-with-the-hiro-platform"/>
-        <updated>2024-04-16T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is the highest-valued token on the planet, but building on the Bitcoin network was a hassle in the past; as the first blockchain, its support for smart contract development and apps was very basic. This changed with the rise of Bitcoin layer-2 networks like Stacks, which come with powerful smart contract platforms. 
-In the previous article, you learned the differences between Solidity and Clarity, the programming language used on Stacks. In this article, you will learn how to build smart contracts with Clarity on Stacks and send contract events to a web server with the Chainhook service. All powered by the Hiro Platform.
-If you prefer video, check out our workshop with Hiro on YouTube; it contains the same content.
-Prerequisites
-
-A Bitcoin wallet that can interact with the Stacks n…]]></summary>
-        <author>
-            <name>Ϗ</name>
         </author>
     </entry>
 </feed>
