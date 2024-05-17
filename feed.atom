@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-17T14:12:24.819Z</id>
+    <id>urn:2024-05-17T15:13:17.468Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-17T14:12:24.819Z</updated>
+    <updated>2024-05-17T15:13:17.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Integrating 0x API with FastHTTP and Gin in Go]]></title>
+        <id>https://medium.com/p/125b4872c11a</id>
+        <link href="https://coinsbench.com/integrating-0x-api-with-fasthttp-and-gin-in-go-125b4872c11a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-17T14:09:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll explore how to build a simple service in Go that interacts with the 0x API to fetch various data such as sources…]]></summary>
+        <author>
+            <name>Burgossrodrigo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Your Solana Development Environment on Windows]]></title>
+        <id>https://medium.com/p/57e174cc1977</id>
+        <link href="https://coinsbench.com/how-to-set-up-your-solana-development-environment-on-windows-57e174cc1977?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-17T14:09:33.000Z</updated>
+        <summary type="html"><![CDATA[This article will guide you through installing Windows Subsystem for Linux (WSL) , Rust, Solana Cli, Node.js, and Yarn.]]></summary>
+        <author>
+            <name>Judith Manyo Ogar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Smart Contract?]]></title>
         <id>https://medium.com/p/f2e6cc99b338</id>
@@ -197,27 +217,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Lately, I’ve found myself drawn to the intricate world of blockchain technology. This newfound passion has sparked a journey of exploration and research into its vast potential beyond its commonly…]]></summary>
         <author>
             <name>Ayo Omotayo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step-by-Step Guide to Understanding SPL Token Roles: MintAccount,TokenAccount on Solana]]></title>
-        <id>https://medium.com/p/8bcd4a9688b8</id>
-        <link href="https://coinsbench.com/step-by-step-guide-to-understanding-spl-token-roles-mintaccount-tokenaccount-on-solana-8bcd4a9688b8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-08T10:23:38.000Z</updated>
-        <summary type="html"><![CDATA[Create a MintAuthorityAccount:
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>RickyYang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Balancer Price Retrieval API with NestJS]]></title>
-        <id>https://medium.com/p/5ad53e72e2cf</id>
-        <link href="https://coinsbench.com/building-a-balancer-price-retrieval-api-with-nestjs-5ad53e72e2cf?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-08T10:23:36.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will develop a simple API using NestJS that interacts with the Balancer Protocol to retrieve pool IDs and token…]]></summary>
-        <author>
-            <name>Burgossrodrigo</name>
         </author>
     </entry>
     <entry>

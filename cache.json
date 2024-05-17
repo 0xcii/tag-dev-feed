@@ -39,6 +39,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/125b4872c11a",
+          "author": "Burgossrodrigo",
+          "description": "In this article, we’ll explore how to build a simple service in Go that interacts with the 0x API to fetch various data such as sources…",
+          "link": "https://coinsbench.com/integrating-0x-api-with-fasthttp-and-gin-in-go-125b4872c11a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-17T14:09:35.000Z",
+          "wordCount": 2342,
+          "title": "Integrating 0x API with FastHTTP and Gin in Go",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1132/1*8w7LfH4K8zJCOjgOf4IgBA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/57e174cc1977",
+          "author": "Judith Manyo Ogar",
+          "description": "This article will guide you through installing Windows Subsystem for Linux (WSL) , Rust, Solana Cli, Node.js, and Yarn.",
+          "link": "https://coinsbench.com/how-to-set-up-your-solana-development-environment-on-windows-57e174cc1977?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-17T14:09:33.000Z",
+          "wordCount": 2157,
+          "title": "How to Set Up Your Solana Development Environment on Windows",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*68EO0zirPFXh3TUMY6S4Ag.png"
+        },
+        {
           "id": "https://medium.com/p/3c3dd695360a",
           "author": "Samson JK",
           "description": "In the ever-evolving landscape of blockchain technology, smart contracts stand as the cornerstone of decentralized applications (dApps) and…",
@@ -117,26 +137,6 @@
           "wordCount": 1622,
           "title": "Unlocking Ethereum’s Potential: A Multidimensional Approach to Gas Fees",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*Suyul-xx0KdUHwtL"
-        },
-        {
-          "id": "https://medium.com/p/8bcd4a9688b8",
-          "author": "RickyYang",
-          "description": "Create a MintAuthorityAccount:\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/step-by-step-guide-to-understanding-spl-token-roles-mintaccount-tokenaccount-on-solana-8bcd4a9688b8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-08T10:23:38.000Z",
-          "wordCount": 807,
-          "title": "Step-by-Step Guide to Understanding SPL Token Roles: MintAccount,TokenAccount on Solana",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*IlL5x_SS-rG9WCxDFSW2GA.png"
-        },
-        {
-          "id": "https://medium.com/p/5ad53e72e2cf",
-          "author": "Burgossrodrigo",
-          "description": "In this tutorial, we will develop a simple API using NestJS that interacts with the Balancer Protocol to retrieve pool IDs and token…",
-          "link": "https://coinsbench.com/building-a-balancer-price-retrieval-api-with-nestjs-5ad53e72e2cf?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-08T10:23:36.000Z",
-          "wordCount": 2002,
-          "title": "Building a Balancer Price Retrieval API with NestJS",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:801/1*s7z335eC4cnrX_16NGXqhg.png"
         }
       ]
     },
@@ -221,7 +221,7 @@
           "description": "In the ever-evolving landscape of education technology, the concept of a Metaverse Education Platform represents a paradigm shift towards…",
           "link": "https://medium.com/coinmonks/how-metaverse-vr-field-trips-enhancing-geography-education-in-2024-29f7dfe0c333?source=rss----721b17443fd5---4",
           "publishedOn": "2024-05-17T13:26:56.000Z",
-          "wordCount": 3914,
+          "wordCount": 3915,
           "title": "How Metaverse VR Field Trips Enhancing Geography Education in 2024?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*c8dStRQbe9bGNVFYB4mpsA.jpeg"
         },
@@ -231,7 +231,7 @@
           "description": "We know the crypto market is a rollercoaster, but some currencies are built for the long haul. Whether you’re a seasoned hodler or a…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/top-5-crypto-to-hold-until-2025-1a18e1c64c77?source=rss----721b17443fd5---4",
           "publishedOn": "2024-05-17T13:26:53.000Z",
-          "wordCount": 1095,
+          "wordCount": 1096,
           "title": "Top 5 Crypto to Hold Until 2025!",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*NLA8QXRrbQFig0Zr"
         },
