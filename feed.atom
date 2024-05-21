@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-21T11:11:46.947Z</id>
+    <id>urn:2024-05-21T12:23:44.214Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-21T11:11:46.947Z</updated>
+    <updated>2024-05-21T12:23:44.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Your Development Environment for Solidity]]></title>
+        <id>https://medium.com/p/440c13e034cd</id>
+        <link href="https://coinsbench.com/how-to-set-up-your-development-environment-for-solidity-440c13e034cd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-21T12:08:47.000Z</updated>
+        <summary type="html"><![CDATA[Setting up your development environment for Solidity is the first crucial step to diving into the world of Ethereum smart contract…]]></summary>
+        <author>
+            <name>Fikri R.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PoW, PoS, PoH: A Simple Guide to Blockchain Consensus Mechanisms]]></title>
+        <id>https://medium.com/p/6985e983e0b2</id>
+        <link href="https://coinsbench.com/pow-pos-poh-a-simple-guide-to-blockchain-consensus-mechanisms-6985e983e0b2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-21T12:08:45.000Z</updated>
+        <summary type="html"><![CDATA[Consensus mechanisms enable agreement on a common and unique version of the data shared by a blockchain.]]></summary>
+        <author>
+            <name>Franck Maussand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is market capitalization and what is GCWine’s market capitalization?]]></title>
+        <id>https://medium.com/p/e73c25b1d57f</id>
+        <link href="https://coinsbench.com/what-is-market-capitalization-and-what-is-gcwines-market-capitalization-e73c25b1d57f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-21T12:08:41.000Z</updated>
+        <summary type="html"><![CDATA[Market capitalization occurs when someone is willing to pay a certain price for something and that price is multiplied by the total…]]></summary>
+        <author>
+            <name>Ushangi Matiashvili GCWine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OTC Crypto Exchange Development: A Detailed Overview]]></title>
         <id>https://medium.com/p/6998e59ea1a0</id>
@@ -174,36 +204,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[The primary purpose of these functions is to protect funds in the event that someone accidentally calls the contract instead of the…]]></summary>
         <author>
             <name>Eli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contracts and NEAR Protocol]]></title>
-        <id>https://medium.com/p/ea2c29550772</id>
-        <link href="https://coinsbench.com/smart-contracts-and-near-protocol-ea2c29550772?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-14T12:29:35.000Z</updated>
-        <summary type="html"><![CDATA[Since its creation, blockchain technology has been an instrument of change in various industries, with the emergence of decentralized…]]></summary>
-        <author>
-            <name>Abdullahi Aliyu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Nodes: A Beginner’s Guide]]></title>
-        <id>https://medium.com/p/a89172a04bfe</id>
-        <link href="https://coinsbench.com/understanding-nodes-a-beginners-guide-a89172a04bfe?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-14T12:29:33.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve heard about NEAR Protocol, you might have come across the term “nodes.” But what exactly is a node, and why would someone want to…]]></summary>
-        <author>
-            <name>Abdullahi Aliyu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking Ethereum’s Potential: A Multidimensional Approach to Gas Fees]]></title>
-        <id>https://medium.com/p/efc6e8151239</id>
-        <link href="https://coinsbench.com/unlocking-ethereums-potential-a-multidimensional-approach-to-gas-fees-efc6e8151239?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-14T12:29:30.000Z</updated>
-        <summary type="html"><![CDATA[In Ethereum’s ecosystem, the concept of “gas” has long been pivotal, dictating the computational effort required for processing…]]></summary>
-        <author>
-            <name>Solidity Academy</name>
         </author>
     </entry>
     <entry>
