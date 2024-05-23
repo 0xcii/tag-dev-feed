@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-23T22:11:59.646Z</id>
+    <id>urn:2024-05-23T23:13:32.246Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-23T22:11:59.646Z</updated>
+    <updated>2024-05-23T23:13:32.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,16 +33,6 @@
         <summary type="html"><![CDATA[Programming languages come and go, but a select few have managed to stand the test of time and establish themselves as industry standards…]]></summary>
         <author>
             <name>Dhananjay Joshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scam as a service: Pink Drainer]]></title>
-        <id>https://medium.com/p/5b4165371916</id>
-        <link href="https://coinsbench.com/scam-as-a-service-pink-drainer-5b4165371916?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-23T16:25:29.000Z</updated>
-        <summary type="html"><![CDATA[Analyzing the flow of money and related fraud services associated with PinkDrainer, we were able to identify a person strongly connected to…]]></summary>
-        <author>
-            <name>Heiner García</name>
         </author>
     </entry>
     <entry>
@@ -216,6 +206,16 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Market capitalization occurs when someone is willing to pay a certain price for something and that price is multiplied by the total…]]></summary>
         <author>
             <name>Ushangi Matiashvili GCWine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating 0x API with FastHTTP and Gin in Go]]></title>
+        <id>https://medium.com/p/125b4872c11a</id>
+        <link href="https://coinsbench.com/integrating-0x-api-with-fasthttp-and-gin-in-go-125b4872c11a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-17T14:09:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll explore how to build a simple service in Go that interacts with the 0x API to fetch various data such as sources…]]></summary>
+        <author>
+            <name>Burgossrodrigo</name>
         </author>
     </entry>
     <entry>
