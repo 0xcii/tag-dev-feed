@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-23T16:17:13.234Z</id>
+    <id>urn:2024-05-23T17:13:15.770Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-23T16:17:13.234Z</updated>
+    <updated>2024-05-23T17:13:15.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What You Need to Know About Permissioned Blockchains]]></title>
+        <id>https://medium.com/p/4d7c871aeb83</id>
+        <link href="https://coinsbench.com/what-you-need-to-know-about-permissioned-blockchains-4d7c871aeb83?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-23T16:25:40.000Z</updated>
+        <summary type="html"><![CDATA[The blockchain implementation is the brainchild of one Satoshi Nakamoto, who first brought it to life in the whitepaper that introduced…]]></summary>
+        <author>
+            <name>Neville Munjogu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Smart Contracts Security Best Practices]]></title>
+        <id>https://medium.com/p/220f60a3fba5</id>
+        <link href="https://coinsbench.com/solidity-smart-contracts-security-best-practice-220f60a3fba5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-23T16:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Cheick Zida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yes, Rust has a deeper learning curve, but here’s why you should still pursue it.]]></title>
+        <id>https://medium.com/p/618efb6e1819</id>
+        <link href="https://coinsbench.com/yes-rust-has-a-deeper-learning-curve-but-heres-why-you-should-still-pursue-it-618efb6e1819?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-23T16:25:31.000Z</updated>
+        <summary type="html"><![CDATA[Programming languages come and go, but a select few have managed to stand the test of time and establish themselves as industry standards…]]></summary>
+        <author>
+            <name>Dhananjay Joshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scam as a service: Pink Drainer]]></title>
+        <id>https://medium.com/p/5b4165371916</id>
+        <link href="https://coinsbench.com/scam-as-a-service-pink-drainer-5b4165371916?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-23T16:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Analyzing the flow of money and related fraud services associated with PinkDrainer, we were able to identify a person strongly connected to…]]></summary>
+        <author>
+            <name>Heiner García</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting started with Solidity development]]></title>
+        <id>https://medium.com/p/9930afc1132a</id>
+        <link href="https://coinsbench.com/getting-started-with-solidity-development-9930afc1132a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-23T16:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Initial setup and workbench]]></summary>
+        <author>
+            <name>Jo Vinkenroye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERC20 Tokens: A Developer’s Approach to Safe Investing]]></title>
+        <id>https://medium.com/p/bb34e7f9381d</id>
+        <link href="https://coinsbench.com/erc20-tokens-a-developers-approach-to-safe-investing-bb34e7f9381d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-23T16:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Investing in ERC20 tokens offers opportunities in DeFi but entails risks. Due diligence, vulnerability awareness, and safe practices…]]></summary>
+        <author>
+            <name>Jo Vinkenroye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to develop a smart contract on Berachain with Solidity]]></title>
+        <id>https://medium.com/p/6380452ec6e5</id>
+        <link href="https://coinsbench.com/how-to-develop-a-smart-contract-on-berachain-with-solidity-6380452ec6e5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-23T16:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome fellow developers, I’m Barış!]]></summary>
+        <author>
+            <name>Baris Ozer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to write and test a smart contract using the Hardhat environment and the Ethers.js library]]></title>
         <id>https://medium.com/p/c86f373e9593</id>
@@ -146,76 +216,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Market capitalization occurs when someone is willing to pay a certain price for something and that price is multiplied by the total…]]></summary>
         <author>
             <name>Ushangi Matiashvili GCWine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating 0x API with FastHTTP and Gin in Go]]></title>
-        <id>https://medium.com/p/125b4872c11a</id>
-        <link href="https://coinsbench.com/integrating-0x-api-with-fasthttp-and-gin-in-go-125b4872c11a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-17T14:09:35.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll explore how to build a simple service in Go that interacts with the 0x API to fetch various data such as sources…]]></summary>
-        <author>
-            <name>Burgossrodrigo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Your Solana Development Environment on Windows]]></title>
-        <id>https://medium.com/p/57e174cc1977</id>
-        <link href="https://coinsbench.com/how-to-set-up-your-solana-development-environment-on-windows-57e174cc1977?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-17T14:09:33.000Z</updated>
-        <summary type="html"><![CDATA[This article will guide you through installing Windows Subsystem for Linux (WSL) , Rust, Solana Cli, Node.js, and Yarn.]]></summary>
-        <author>
-            <name>Judith Manyo Ogar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner’s Guide to Creating and Deploying Smart Contracts with Hardhat]]></title>
-        <id>https://medium.com/p/3c3dd695360a</id>
-        <link href="https://coinsbench.com/a-beginners-guide-to-creating-and-deploying-smart-contracts-with-hardhat-3c3dd695360a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-15T14:53:53.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving landscape of blockchain technology, smart contracts stand as the cornerstone of decentralized applications (dApps) and…]]></summary>
-        <author>
-            <name>Samson JK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum’s Evolution: Understanding EIP-3675 and the Transition from Proof-of-Work to…]]></title>
-        <id>https://medium.com/p/9088849836a2</id>
-        <link href="https://coinsbench.com/ethereums-evolution-understanding-eip-3675-and-the-transition-from-proof-of-work-to-9088849836a2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-14T12:29:43.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving landscape of blockchain technology, went under a transformative upgrade with the implementation of Ethereum…]]></summary>
-        <author>
-            <name>Dhananjay Joshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Blockchain Fundamentals]]></title>
-        <id>https://medium.com/p/cfd301f4ab5a</id>
-        <link href="https://coinsbench.com/ethereum-blockchain-fundamentals-cfd301f4ab5a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-14T12:29:41.000Z</updated>
-        <summary type="html"><![CDATA[I. Introduction]]></summary>
-        <author>
-            <name>Gimer Cervera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating the Blockchain Trilemma: Balancing Decentralization, Security, and Scalability.]]></title>
-        <id>https://medium.com/p/c0ca15717adc</id>
-        <link href="https://coinsbench.com/navigating-the-blockchain-trilemma-balancing-decentralization-security-and-scalability-c0ca15717adc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-14T12:29:39.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving landscape of blockchain technology, one of the most discussed and challenging concepts is the Blockchain Trilemma…]]></summary>
-        <author>
-            <name>Dhananjay Joshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding fallback vs receive functions in Solidity.]]></title>
-        <id>https://medium.com/p/647986a82af2</id>
-        <link href="https://coinsbench.com/understanding-fallback-vs-receive-functions-in-solidity-647986a82af2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-14T12:29:37.000Z</updated>
-        <summary type="html"><![CDATA[The primary purpose of these functions is to protect funds in the event that someone accidentally calls the contract instead of the…]]></summary>
-        <author>
-            <name>Eli</name>
         </author>
     </entry>
     <entry>
