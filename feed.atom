@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-24T12:23:33.465Z</id>
+    <id>urn:2024-05-24T13:14:12.284Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-24T12:23:33.465Z</updated>
+    <updated>2024-05-24T13:14:12.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cross-Chain Blockchain Transfers using Solidity Smart Contracts]]></title>
+        <id>https://medium.com/p/58b9c9695a17</id>
+        <link href="https://coinsbench.com/cross-chain-blockchain-transfers-using-solidity-smart-contracts-58b9c9695a17?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-24T12:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology continues to evolve, creating new challenges and opportunities for interoperability and security. Today, we dive deep…]]></summary>
+        <author>
+            <name>Gustav Stieger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Layer 1  Layer 2  Layer 3 : Blockchain Layers]]></title>
         <id>https://medium.com/p/82a8cff88f91</id>
@@ -205,16 +215,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Market capitalization occurs when someone is willing to pay a certain price for something and that price is multiplied by the total…]]></summary>
         <author>
             <name>Ushangi Matiashvili GCWine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating 0x API with FastHTTP and Gin in Go]]></title>
-        <id>https://medium.com/p/125b4872c11a</id>
-        <link href="https://coinsbench.com/integrating-0x-api-with-fasthttp-and-gin-in-go-125b4872c11a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-17T14:09:35.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll explore how to build a simple service in Go that interacts with the 0x API to fetch various data such as sources…]]></summary>
-        <author>
-            <name>Burgossrodrigo</name>
         </author>
     </entry>
     <entry>
