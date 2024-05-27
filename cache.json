@@ -18,6 +18,36 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/f247208f4c8d",
+          "author": "Jo Vinkenroye",
+          "description": "Formatting code is essential for several reasons",
+          "link": "https://coinsbench.com/formatting-solidity-code-when-using-hardhat-f247208f4c8d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-27T16:00:58.000Z",
+          "wordCount": 1434,
+          "title": "Formatting solidity code when using Hardhat",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9viDZ2ujQjcueSRpP0ShxA.png"
+        },
+        {
+          "id": "https://medium.com/p/533d8647022c",
+          "author": "Eli",
+          "description": "Understanding TimeLock Contracts in Solidity",
+          "link": "https://coinsbench.com/locking-down-security-a-guide-to-timelocks-in-solidity-533d8647022c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-27T16:00:54.000Z",
+          "wordCount": 4276,
+          "title": "Locking Down Security: A Guide to TimeLocks in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*B4jULsIMUkeV_VBzF2_wgg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/d7e24d08a89a",
+          "author": "Alexander Koval",
+          "description": "How to build headless DApp using Telegram bot without compromising self-custody",
+          "link": "https://coinsbench.com/running-dapp-from-telegram-bot-d7e24d08a89a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-27T16:00:52.000Z",
+          "wordCount": 2303,
+          "title": "Running DApp from telegram bot",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*BOq2S2s0dSF34MNKcWiBIw.png"
+        },
+        {
           "id": "https://medium.com/p/58b9c9695a17",
           "author": "Gustav Stieger",
           "description": "Blockchain technology continues to evolve, creating new challenges and opportunities for interoperability and security. Today, we dive deep…",
@@ -73,7 +103,7 @@
           "description": "Investing in ERC20 tokens offers opportunities in DeFi but entails risks. Due diligence, vulnerability awareness, and safe practices…",
           "link": "https://coinsbench.com/erc20-tokens-a-developers-approach-to-safe-investing-bb34e7f9381d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-05-23T16:24:42.000Z",
-          "wordCount": 3463,
+          "wordCount": 3474,
           "title": "ERC20 Tokens: A Developer’s Approach to Safe Investing",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*5RSnrhO72ct7FlbDxZdgQQ.png"
         },
@@ -86,36 +116,6 @@
           "wordCount": 1645,
           "title": "How to develop a smart contract on Berachain with Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:960/1*x352i66y1hxSzwPth0Hmyw.png"
-        },
-        {
-          "id": "https://medium.com/p/440c13e034cd",
-          "author": "Fikri R.",
-          "description": "Setting up your development environment for Solidity is the first crucial step to diving into the world of Ethereum smart contract…",
-          "link": "https://coinsbench.com/how-to-set-up-your-development-environment-for-solidity-440c13e034cd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-21T12:08:47.000Z",
-          "wordCount": 1782,
-          "title": "How to Set Up Your Development Environment for Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*OIh2EUTZLNZY8AvMt-j1Ew.png"
-        },
-        {
-          "id": "https://medium.com/p/6985e983e0b2",
-          "author": "Franck Maussand",
-          "description": "Consensus mechanisms enable agreement on a common and unique version of the data shared by a blockchain.",
-          "link": "https://coinsbench.com/pow-pos-poh-a-simple-guide-to-blockchain-consensus-mechanisms-6985e983e0b2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-21T12:08:45.000Z",
-          "wordCount": 5368,
-          "title": "PoW, PoS, PoH: A Simple Guide to Blockchain Consensus Mechanisms",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:598/1*nNbxkKGSIq9C8c2Oicpy-w.png"
-        },
-        {
-          "id": "https://medium.com/p/e73c25b1d57f",
-          "author": "Ushangi Matiashvili GCWine",
-          "description": "Market capitalization occurs when someone is willing to pay a certain price for something and that price is multiplied by the total…",
-          "link": "https://coinsbench.com/what-is-market-capitalization-and-what-is-gcwines-market-capitalization-e73c25b1d57f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-21T12:08:41.000Z",
-          "wordCount": 1588,
-          "title": "What is market capitalization and what is GCWine’s market capitalization?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:927/1*eOja_03G-XxEMxO-3T2Fog.jpeg"
         }
       ]
     },
@@ -125,104 +125,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/f9d494ea4ab6",
-          "author": "Williammarkerzz",
-          "description": "The top 10 essential security features to implement in a crypto exchange to protect user assets and maintain a secure trading environment.",
-          "link": "https://medium.com/coinmonks/top-10-security-features-to-be-build-in-crypto-exchange-f9d494ea4ab6?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-24T14:06:15.000Z",
-          "wordCount": 2630,
-          "title": "Top 10 Security Features to be Build in Crypto Exchange",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ywj8GkmY3rPlAC4hBaevnA.jpeg"
+          "id": "https://medium.com/p/019c9c30ef22",
+          "author": "Douglas Lampi",
+          "description": "Using AI to Grow a Crypto Writing Side Hustle\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/how-crypto-authors-can-make-money-in-2024-019c9c30ef22?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-27T15:50:45.000Z",
+          "wordCount": 1011,
+          "title": "How Crypto Authors Can Make Money in 2024",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Nc7USIUWwBksCh03_LmBVA.png"
         },
         {
-          "id": "https://medium.com/p/6893a1e3799d",
-          "author": "Mohd Diah A.Karim",
-          "description": "Today, we’re diving into the world of Ethereum, a super cool platform that’s not just about money — it’s about building amazing things on…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/understanding-ethereum-a-guide-for-innovators-6893a1e3799d?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-24T14:06:10.000Z",
-          "wordCount": 1030,
-          "title": "Understanding Ethereum: A Guide for Innovators",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*DC7zFuf8M00Pdd29ifQ3cA.jpeg"
+          "id": "https://medium.com/p/2f7aeb43b9fc",
+          "author": "Nakuruwins",
+          "description": "The cryptocurrency market is known for its volatility and complexity, presenting both opportunities and challenges for traders. In recent…",
+          "link": "https://medium.com/coinmonks/chatgpts-impact-on-decision-making-processes-for-crypto-traders-2f7aeb43b9fc?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-27T15:48:12.000Z",
+          "wordCount": 2335,
+          "title": "ChatGPT’s Impact on Decision-Making Processes for Crypto Traders",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:320/0*MvVGkCyWYnzXCSGg.jpg"
         },
         {
-          "id": "https://medium.com/p/4589cd33fb70",
-          "author": "Lorae K WTF Crypto",
-          "description": "News just in. Ethereum can now officially be traded as an Exchange Traded Fund in the US markets now that the SEC has finally approved the…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/ethereum-spot-etf-approved-4589cd33fb70?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-24T14:06:08.000Z",
-          "wordCount": 1073,
-          "title": "ETHEREUM SPOT ETF…APPROVED!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:940/1*RTi8g-dE6JCG_u39urpUJw.png"
+          "id": "https://medium.com/p/158cb4b44885",
+          "author": "ShingW.eth",
+          "description": "Chinese Version (中文版本)：https://followin.io/zh-Hant/feed/10656682",
+          "link": "https://medium.com/coinmonks/the-ethereum-spot-etf-was-approved-by-the-sec-158cb4b44885?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-27T15:47:56.000Z",
+          "wordCount": 3218,
+          "title": "The Ethereum spot ETF was approved by the SEC.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*yz69ZVIlq-SlX7Cc.png"
         },
         {
-          "id": "https://medium.com/p/ee7782d43143",
-          "author": "John Benjamin",
-          "description": "After the launch of cryptocurrency, every business owner and entrepreneur started to use crypto payment gateway software to receive digital…",
-          "link": "https://medium.com/coinmonks/how-does-using-a-crypto-payment-gateway-help-to-overcome-the-challenges-ee7782d43143?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-24T14:06:07.000Z",
-          "wordCount": 2325,
-          "title": "How Does Using a Crypto Payment Gateway Help to Overcome the Challenges?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*9PJwMxMNdxJojdPjwUDZKg.png"
-        },
-        {
-          "id": "https://medium.com/p/bd116f579962",
-          "author": "Zara Zyana",
-          "description": "In today’s digital age, where information is readily available at our fingertips, content marketing has emerged as a powerful tool for…",
-          "link": "https://medium.com/coinmonks/top-10-effective-content-marketing-strategies-for-crypto-bd116f579962?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-24T14:06:04.000Z",
-          "wordCount": 3912,
-          "title": "Top 10 Effective Content Marketing Strategies for Crypto",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rrv4YJnvjLLx1RSVm9pQCQ.png"
-        },
-        {
-          "id": "https://medium.com/p/d1c78a4ba8ff",
-          "author": "Scott",
-          "description": "Alright, folks, let’s dive into some big news shaking up the crypto world. On May 24, 2024, the U.S. Securities and Exchange Commission…",
-          "link": "https://medium.com/coinmonks/sec-approves-ethereum-etfs-why-this-could-be-bigger-than-bitcoin-etfs-d1c78a4ba8ff?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-24T14:06:01.000Z",
-          "wordCount": 6769,
-          "title": "SEC Approves Ethereum ETFs: Why This Could Be Bigger Than Bitcoin ETFs?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*6hOPbX4SRgSt_TejWGLYhA.png"
-        },
-        {
-          "id": "https://medium.com/p/f3cc85097c5c",
-          "author": "Coin Genetics",
-          "description": "he Great Poloniex Heist 🎩",
-          "link": "https://medium.com/coinmonks/crypto-tornado-the-poloniex-heist-tornado-cash-and-a-hackers-whirlwind-adventure-f3cc85097c5c?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-24T14:05:57.000Z",
-          "wordCount": 1742,
-          "title": "Crypto Tornado: The Poloniex Heist, Tornado Cash, and a Hacker’s Whirlwind Adventure!",
+          "id": "https://medium.com/p/9b4f69288882",
+          "author": "Nakuruwins",
+          "description": "Technical analysis is a crucial tool for cryptocurrency investors, offering a systematic approach to forecasting price movements by…",
+          "link": "https://medium.com/coinmonks/technical-analysis-in-cryptocurrency-investment-9b4f69288882?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-27T15:47:50.000Z",
+          "wordCount": 2432,
+          "title": "Technical Analysis in Cryptocurrency Investment",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/18bad4a30748",
-          "author": "Coin Genetics",
-          "description": "Hey there, crypto fam! It’s Durgesh here, your favorite funny crypto blogger, ready to serve up some hot and spicy crypto news with a side…",
-          "link": "https://medium.com/coinmonks/caught-in-the-crypto-crosshairs-australias-tax-office-hunts-down-1-2-million-traders-18bad4a30748?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-24T14:05:55.000Z",
-          "wordCount": 1871,
-          "title": "Caught in the Crypto Crosshairs: Australia’s Tax Office Hunts Down 1.2 Million Traders",
-          "imageUrl": null
+          "id": "https://medium.com/p/93416b82399a",
+          "author": "Mark Timmis",
+          "description": "tl;dr\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-27th-may-2024-us-politics-93416b82399a?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-27T15:47:47.000Z",
+          "wordCount": 991,
+          "title": "Curious Cryptos’ Commentary 27th May 2024 — US politics",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1039/1*C7MI04I5zWY4UDsXts4DGg.png"
         },
         {
-          "id": "https://medium.com/p/597f98703bf9",
-          "author": "Coin Genetics",
-          "description": "Revolut X: The New Kid on the Crypto Block! 🎉",
-          "link": "https://medium.com/coinmonks/revolut-x-the-crypto-revolution-just-got-hotter-597f98703bf9?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-24T14:05:54.000Z",
-          "wordCount": 1615,
-          "title": "Revolut X: The Crypto Revolution Just Got Hotter!",
-          "imageUrl": null
+          "id": "https://medium.com/p/6ad71f31f5b6",
+          "author": "Ava Michelle",
+          "description": "In the dynamic landscape of investments, Bitcoin has emerged as a beacon of success, capturing the attention of savvy investors seeking…",
+          "link": "https://medium.com/coinmonks/are-meta-domains-the-next-bitcoin-6ad71f31f5b6?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-27T15:47:43.000Z",
+          "wordCount": 2376,
+          "title": "Are Meta Domains the next bitcoin?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ijob9rOituIadCyrsdNiwA.jpeg"
         },
         {
-          "id": "https://medium.com/p/57a05882c1c2",
-          "author": "Lucas Chloe",
-          "description": "Introduction",
-          "link": "https://medium.com/coinmonks/what-made-metaverse-app-development-simplified-57a05882c1c2?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-05-24T14:05:52.000Z",
-          "wordCount": 1972,
-          "title": "What Made Metaverse App Development Simplified?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3D1fkLfncICHphbnNVqF4g.jpeg"
+          "id": "https://medium.com/p/925c944834d6",
+          "author": "Elijah Henry",
+          "description": "The cryptocurrency market has experienced a notable surge, characterized by increased trading activity and heightened investor interest…",
+          "link": "https://medium.com/coinmonks/4-cryptocurrencies-set-to-shine-in-2024-925c944834d6?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-27T15:47:41.000Z",
+          "wordCount": 2474,
+          "title": "4 Cryptocurrencies Set to Shine in 2024",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*k7toxidmMc4W-xJ0.jpg"
+        },
+        {
+          "id": "https://medium.com/p/973a569046cd",
+          "author": "Spydra",
+          "description": "With information flowing at an unprecedented pace in today’s digital landscape, the need for transparency and trust has never been more…",
+          "link": "https://medium.com/coinmonks/transparency-and-trust-redefined-the-power-of-blockchain-973a569046cd?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-27T15:47:37.000Z",
+          "wordCount": 3524,
+          "title": "Transparency and Trust Redefined: The Power of Blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*V8DIujMw55vcz7UBOJy6Yw.png"
+        },
+        {
+          "id": "https://medium.com/p/194e30ef1b7a",
+          "author": "Web3 MKT Researcher",
+          "description": "PMF stands for Product-Market Fit, which refers to the degree of alignment between a product and market demand. Specifically, PMF is…",
+          "link": "https://medium.com/coinmonks/web3-project-growth-is-your-project-still-far-away-from-achieving-pmf-194e30ef1b7a?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-27T15:47:28.000Z",
+          "wordCount": 3251,
+          "title": "Web3 Project Growth: Is Your Project Still Far Away From Achieving PMF?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KfY4gfPDsOzPMXCmH4POxw.png"
+        },
+        {
+          "id": "https://medium.com/p/e98a5f5f361e",
+          "author": "Aaron Abbott",
+          "description": "Looking for a top-notch crypto exchange app developer? We’ve got you! Explore the Top 10 trusted companies for secure and efficient mobile…",
+          "link": "https://medium.com/coinmonks/top-10-crypto-exchange-mobile-app-development-companies-e98a5f5f361e?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-05-27T15:47:26.000Z",
+          "wordCount": 2979,
+          "title": "Top 10 Crypto Exchange Mobile App Development Companies",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*XmfSLuEWWXONuKbE0y8OJQ.jpeg"
         }
       ]
     },
