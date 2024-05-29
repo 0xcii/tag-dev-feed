@@ -29,6 +29,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/eb4e588400a8",
+          "author": "Imeth Vinnath",
+          "description": "Hey everyone! I’m here to simplify things so you can easily understand. I know there are tons of articles explaining how data structures…",
+          "link": "https://coinsbench.com/mappings-vs-iterable-mappings-simplified-eb4e588400a8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-29T16:09:16.000Z",
+          "wordCount": 2554,
+          "title": "Mappings vs. Iterable Mappings: Simplified",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:786/1*Zjcg7gD-VeCeebTTDviQwg.png"
+        },
+        {
+          "id": "https://medium.com/p/575ac7a90a51",
+          "author": "Imeth Vinnath",
+          "description": "As a developer who started out in web development, I find myself often thinking about the concepts that laid the foundation in the…",
+          "link": "https://coinsbench.com/understanding-structs-in-solidity-a-walkthrough-for-oop-developers-575ac7a90a51?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-29T16:09:14.000Z",
+          "wordCount": 3455,
+          "title": "Understanding Structs in Solidity: A Walkthrough for OOP Developers",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1094/1*bxibk-8Om1j9JsvpWDzP_w.png"
+        },
+        {
           "id": "https://medium.com/p/f247208f4c8d",
           "author": "Jo Vinkenroye",
           "description": "Formatting code is essential for several reasons",
@@ -107,26 +127,6 @@
           "wordCount": 1449,
           "title": "Getting started with Solidity development",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jWxmqXDbwZNIca1xYljKzQ.png"
-        },
-        {
-          "id": "https://medium.com/p/bb34e7f9381d",
-          "author": "Jo Vinkenroye",
-          "description": "Investing in ERC20 tokens offers opportunities in DeFi but entails risks. Due diligence, vulnerability awareness, and safe practices…",
-          "link": "https://coinsbench.com/erc20-tokens-a-developers-approach-to-safe-investing-bb34e7f9381d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-23T16:24:42.000Z",
-          "wordCount": 3474,
-          "title": "ERC20 Tokens: A Developer’s Approach to Safe Investing",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*5RSnrhO72ct7FlbDxZdgQQ.png"
-        },
-        {
-          "id": "https://medium.com/p/6380452ec6e5",
-          "author": "Baris Ozer",
-          "description": "Hello and welcome fellow developers, I’m Barış!",
-          "link": "https://coinsbench.com/how-to-develop-a-smart-contract-on-berachain-with-solidity-6380452ec6e5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-23T16:24:39.000Z",
-          "wordCount": 1645,
-          "title": "How to develop a smart contract on Berachain with Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:960/1*x352i66y1hxSzwPth0Hmyw.png"
         }
       ]
     },
@@ -151,7 +151,7 @@
           "description": "The world of digital art and collectibles is exploding, and at the heart of this revolution are non-fungible tokens, or NFTs. These unique…",
           "link": "https://medium.com/coinmonks/ethereum-vs-solana-in-depth-look-at-nft-power-struggle-5321051ef1fa?source=rss----721b17443fd5---4",
           "publishedOn": "2024-05-29T14:13:04.000Z",
-          "wordCount": 7297,
+          "wordCount": 7298,
           "title": "Ethereum vs. Solana: An In-Depth Look at the NFT Power Struggle",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NVGPQRjS5u6gGKgrM9A1ug.png"
         },
@@ -221,7 +221,7 @@
           "description": "To embark on the journey of constructing an institutional-grade crypto trading platform, it’s crucial to first demystify what exactly…",
           "link": "https://medium.com/coinmonks/how-to-build-institutional-grade-crypto-trading-platform-506d27410757?source=rss----721b17443fd5---4",
           "publishedOn": "2024-05-29T14:12:30.000Z",
-          "wordCount": 4566,
+          "wordCount": 4565,
           "title": "How to Build an Institutional-Grade Crypto Trading Platform?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tPzwLXrUkZ4ALGtu4R7lEQ.png"
         },

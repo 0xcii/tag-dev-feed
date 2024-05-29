@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-29T16:17:02.827Z</id>
+    <id>urn:2024-05-29T17:12:41.788Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-29T16:17:02.827Z</updated>
+    <updated>2024-05-29T17:12:41.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mappings vs. Iterable Mappings: Simplified]]></title>
+        <id>https://medium.com/p/eb4e588400a8</id>
+        <link href="https://coinsbench.com/mappings-vs-iterable-mappings-simplified-eb4e588400a8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-29T16:09:16.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! I’m here to simplify things so you can easily understand. I know there are tons of articles explaining how data structures…]]></summary>
+        <author>
+            <name>Imeth Vinnath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Structs in Solidity: A Walkthrough for OOP Developers]]></title>
+        <id>https://medium.com/p/575ac7a90a51</id>
+        <link href="https://coinsbench.com/understanding-structs-in-solidity-a-walkthrough-for-oop-developers-575ac7a90a51?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-29T16:09:14.000Z</updated>
+        <summary type="html"><![CDATA[As a developer who started out in web development, I find myself often thinking about the concepts that laid the foundation in the…]]></summary>
+        <author>
+            <name>Imeth Vinnath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[web3 cookbook for beginners]]></title>
         <id>https://medium.com/p/a8c3b792fc3b</id>
@@ -206,26 +226,6 @@ The post How Fully Homomorphic Encryption can create a new Internet standard wit
         <summary type="html"><![CDATA[Initial setup and workbench]]></summary>
         <author>
             <name>Jo Vinkenroye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERC20 Tokens: A Developer’s Approach to Safe Investing]]></title>
-        <id>https://medium.com/p/bb34e7f9381d</id>
-        <link href="https://coinsbench.com/erc20-tokens-a-developers-approach-to-safe-investing-bb34e7f9381d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-23T16:24:42.000Z</updated>
-        <summary type="html"><![CDATA[Investing in ERC20 tokens offers opportunities in DeFi but entails risks. Due diligence, vulnerability awareness, and safe practices…]]></summary>
-        <author>
-            <name>Jo Vinkenroye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to develop a smart contract on Berachain with Solidity]]></title>
-        <id>https://medium.com/p/6380452ec6e5</id>
-        <link href="https://coinsbench.com/how-to-develop-a-smart-contract-on-berachain-with-solidity-6380452ec6e5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-23T16:24:39.000Z</updated>
-        <summary type="html"><![CDATA[Hello and welcome fellow developers, I’m Barış!]]></summary>
-        <author>
-            <name>Baris Ozer</name>
         </author>
     </entry>
     <entry>
