@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-31T16:16:06.225Z</id>
+    <id>urn:2024-05-31T17:12:30.430Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-31T16:16:06.225Z</updated>
+    <updated>2024-05-31T17:12:30.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Navigating the World of Smart Contracts: A Developer’s Roadmap]]></title>
+        <id>https://medium.com/p/5f99719c5302</id>
+        <link href="https://coinsbench.com/navigating-the-world-of-smart-contracts-a-developers-roadmap-5f99719c5302?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-31T16:35:01.000Z</updated>
+        <summary type="html"><![CDATA[The buzz around smart contracts has reached a crescendo.]]></summary>
+        <author>
+            <name>Aniket Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Blockchain Security with Cold Staking: A Deep Dive into Stratis’ Innovative Script]]></title>
+        <id>https://medium.com/p/3f33f8cb4a14</id>
+        <link href="https://coinsbench.com/enhancing-blockchain-security-with-cold-staking-a-deep-dive-into-stratis-innovative-script-3f33f8cb4a14?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-31T16:34:58.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving landscape of blockchain technology, security remains a paramount concern. As part of my journey in blockchain…]]></summary>
+        <author>
+            <name>Gustav Stieger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ensuring Fair Power Distribution in Blockchain: A Case Study of the Cirrus Sidechain]]></title>
+        <id>https://medium.com/p/bf5b8d35a584</id>
+        <link href="https://coinsbench.com/ensuring-fair-power-distribution-in-blockchain-a-case-study-of-the-cirrus-sidechain-bf5b8d35a584?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-31T16:34:56.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology promises decentralization and fairness, yet achieving these ideals in practice requires careful design and…]]></summary>
+        <author>
+            <name>Gustav Stieger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity error handling — notes on require, revert and assert]]></title>
+        <id>https://medium.com/p/6fe8140f555c</id>
+        <link href="https://coinsbench.com/solidity-error-handling-notes-on-require-revert-and-assert-6fe8140f555c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-05-31T16:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to use require, revert, and assert in Solidity for efficient error handling and gas optimization in Ethereum smart contracts!]]></summary>
+        <author>
+            <name>Simeon Campbell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Latest Commodities Markets News From Areas & Producers!]]></title>
         <id>https://medium.com/p/7ff7320016b5</id>
@@ -188,46 +228,6 @@ The post How Fully Homomorphic Encryption can create a new Internet standard wit
         <summary type="html"><![CDATA[Blockchain technology continues to evolve, creating new challenges and opportunities for interoperability and security. Today, we dive deep…]]></summary>
         <author>
             <name>Gustav Stieger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What You Need to Know About Permissioned Blockchains]]></title>
-        <id>https://medium.com/p/4d7c871aeb83</id>
-        <link href="https://coinsbench.com/what-you-need-to-know-about-permissioned-blockchains-4d7c871aeb83?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-23T16:25:40.000Z</updated>
-        <summary type="html"><![CDATA[The blockchain implementation is the brainchild of one Satoshi Nakamoto, who first brought it to life in the whitepaper that introduced…]]></summary>
-        <author>
-            <name>Neville Munjogu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Smart Contracts Security Best Practices]]></title>
-        <id>https://medium.com/p/220f60a3fba5</id>
-        <link href="https://coinsbench.com/solidity-smart-contracts-security-best-practice-220f60a3fba5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-23T16:25:38.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Cheick Zida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yes, Rust has a deeper learning curve, but here’s why you should still pursue it.]]></title>
-        <id>https://medium.com/p/618efb6e1819</id>
-        <link href="https://coinsbench.com/yes-rust-has-a-deeper-learning-curve-but-heres-why-you-should-still-pursue-it-618efb6e1819?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-23T16:25:31.000Z</updated>
-        <summary type="html"><![CDATA[Programming languages come and go, but a select few have managed to stand the test of time and establish themselves as industry standards…]]></summary>
-        <author>
-            <name>Dhananjay Joshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting started with Solidity development]]></title>
-        <id>https://medium.com/p/9930afc1132a</id>
-        <link href="https://coinsbench.com/getting-started-with-solidity-development-9930afc1132a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-23T16:24:59.000Z</updated>
-        <summary type="html"><![CDATA[Initial setup and workbench]]></summary>
-        <author>
-            <name>Jo Vinkenroye</name>
         </author>
     </entry>
     <entry>

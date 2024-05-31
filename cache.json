@@ -29,6 +29,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/5f99719c5302",
+          "author": "Aniket Kumar",
+          "description": "The buzz around smart contracts has reached a crescendo.",
+          "link": "https://coinsbench.com/navigating-the-world-of-smart-contracts-a-developers-roadmap-5f99719c5302?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-31T16:35:01.000Z",
+          "wordCount": 2283,
+          "title": "Navigating the World of Smart Contracts: A Developer’s Roadmap",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*cWHawDZnHqvLJ4av"
+        },
+        {
+          "id": "https://medium.com/p/3f33f8cb4a14",
+          "author": "Gustav Stieger",
+          "description": "In the ever-evolving landscape of blockchain technology, security remains a paramount concern. As part of my journey in blockchain…",
+          "link": "https://coinsbench.com/enhancing-blockchain-security-with-cold-staking-a-deep-dive-into-stratis-innovative-script-3f33f8cb4a14?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-31T16:34:58.000Z",
+          "wordCount": 2170,
+          "title": "Enhancing Blockchain Security with Cold Staking: A Deep Dive into Stratis’ Innovative Script",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*MtlqEu7oCwBx6aS9"
+        },
+        {
+          "id": "https://medium.com/p/bf5b8d35a584",
+          "author": "Gustav Stieger",
+          "description": "Blockchain technology promises decentralization and fairness, yet achieving these ideals in practice requires careful design and…",
+          "link": "https://coinsbench.com/ensuring-fair-power-distribution-in-blockchain-a-case-study-of-the-cirrus-sidechain-bf5b8d35a584?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-31T16:34:56.000Z",
+          "wordCount": 1742,
+          "title": "Ensuring Fair Power Distribution in Blockchain: A Case Study of the Cirrus Sidechain",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*S4oSzELVIlP2HPf6"
+        },
+        {
+          "id": "https://medium.com/p/6fe8140f555c",
+          "author": "Simeon Campbell",
+          "description": "Discover how to use require, revert, and assert in Solidity for efficient error handling and gas optimization in Ethereum smart contracts!",
+          "link": "https://coinsbench.com/solidity-error-handling-notes-on-require-revert-and-assert-6fe8140f555c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-05-31T16:34:54.000Z",
+          "wordCount": 2816,
+          "title": "Solidity error handling — notes on require, revert and assert",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*W_TeiNXlH1j8GeEFTpIaDw.png"
+        },
+        {
           "id": "https://medium.com/p/eb4e588400a8",
           "author": "Imeth Vinnath",
           "description": "Hey everyone! I’m here to simplify things so you can easily understand. I know there are tons of articles explaining how data structures…",
@@ -87,46 +127,6 @@
           "wordCount": 3121,
           "title": "Cross-Chain Blockchain Transfers using Solidity Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*MQKuiyXpOhjUHQ5G"
-        },
-        {
-          "id": "https://medium.com/p/4d7c871aeb83",
-          "author": "Neville Munjogu",
-          "description": "The blockchain implementation is the brainchild of one Satoshi Nakamoto, who first brought it to life in the whitepaper that introduced…",
-          "link": "https://coinsbench.com/what-you-need-to-know-about-permissioned-blockchains-4d7c871aeb83?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-23T16:25:40.000Z",
-          "wordCount": 3832,
-          "title": "What You Need to Know About Permissioned Blockchains",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*8epu760ZmAOPOrZ5"
-        },
-        {
-          "id": "https://medium.com/p/220f60a3fba5",
-          "author": "Cheick Zida",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/solidity-smart-contracts-security-best-practice-220f60a3fba5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-23T16:25:38.000Z",
-          "wordCount": 4455,
-          "title": "Solidity Smart Contracts Security Best Practices",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*GFcy2GaNvY4UC2hTn96Plg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/618efb6e1819",
-          "author": "Dhananjay Joshi",
-          "description": "Programming languages come and go, but a select few have managed to stand the test of time and establish themselves as industry standards…",
-          "link": "https://coinsbench.com/yes-rust-has-a-deeper-learning-curve-but-heres-why-you-should-still-pursue-it-618efb6e1819?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-23T16:25:31.000Z",
-          "wordCount": 2553,
-          "title": "Yes, Rust has a deeper learning curve, but here’s why you should still pursue it.",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:860/0*XVokw14p84aWIMIo"
-        },
-        {
-          "id": "https://medium.com/p/9930afc1132a",
-          "author": "Jo Vinkenroye",
-          "description": "Initial setup and workbench",
-          "link": "https://coinsbench.com/getting-started-with-solidity-development-9930afc1132a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-23T16:24:59.000Z",
-          "wordCount": 1449,
-          "title": "Getting started with Solidity development",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jWxmqXDbwZNIca1xYljKzQ.png"
         }
       ]
     },
@@ -151,7 +151,7 @@
           "description": "In the vast landscape of cryptocurrency, memes have emerged as unexpected yet powerful players, transforming internet culture into digital…",
           "link": "https://medium.com/coinmonks/the-ultimate-guide-to-launching-meme-coin-on-solana-in-2024-6c134d3185c7?source=rss----721b17443fd5---4",
           "publishedOn": "2024-05-31T14:06:03.000Z",
-          "wordCount": 5405,
+          "wordCount": 5404,
           "title": "The Ultimate Guide to Launching Meme Coin on Solana in 2024",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WcpMmgeLcPETU4ccvc56mQ.png"
         },
