@@ -29,6 +29,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/7f595326dc74",
+          "author": "Alen Gronovski",
+          "description": "Just as money, according to the author’s subjective perception, is morally neutral (it all depends on whether you spent it on something…",
+          "link": "https://coinsbench.com/non-anonymous-anonymity-the-impact-of-arkhams-crypto-analytics-platform-on-the-blockchain-7f595326dc74?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-05T16:02:56.000Z",
+          "wordCount": 3100,
+          "title": "Non-anonymous anonymity: the impact of Arkham’s crypto-analytics platform on the blockchain…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*TwW4CstV_28EM-zQkGRq0A.png"
+        },
+        {
+          "id": "https://medium.com/p/f04a9cb9ac2a",
+          "author": "Alex Shevchuk",
+          "description": "Modern society lives in a world of advanced technologies and is inevitably influenced by them. The two driving forces behind the…",
+          "link": "https://coinsbench.com/ai-as-the-key-to-a-secure-web3-future-f04a9cb9ac2a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-05T16:02:54.000Z",
+          "wordCount": 2373,
+          "title": "AI as the key to a Secure Web3 future",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*nVdt2p6UnLGG6oGD_J9Nqw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/4a8e49d17842",
+          "author": "Gimer Cervera",
+          "description": "Learn to test your smart contracts with Hardhat.",
+          "link": "https://coinsbench.com/learn-to-test-your-smart-contracts-on-hardhat-4a8e49d17842?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-05T16:02:50.000Z",
+          "wordCount": 4387,
+          "title": "Learn to test your Smart Contracts on Hardhat",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*l7kriRWBibTHsAkRRJCZtA.png"
+        },
+        {
+          "id": "https://medium.com/p/cab23872cec7",
+          "author": "Judith Manyo Ogar",
+          "description": "In this guide, I’ll show you how to integrate the Huddle01 SDK into your apps with a step-by-step tutorial. Also, I’ll explore creative…",
+          "link": "https://coinsbench.com/a-developers-intro-to-huddle01-sdk-and-ideas-to-build-cab23872cec7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-05T16:02:48.000Z",
+          "wordCount": 4957,
+          "title": "A Developer’s Intro to Huddle01 SDK and Ideas to Build",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LudvnwTkSUk1GNocbRS5Dg.png"
+        },
+        {
           "id": "https://medium.com/p/5f99719c5302",
           "author": "Aniket Kumar",
           "description": "The buzz around smart contracts has reached a crescendo.",
@@ -87,46 +127,6 @@
           "wordCount": 3455,
           "title": "Understanding Structs in Solidity: A Walkthrough for OOP Developers",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1094/1*bxibk-8Om1j9JsvpWDzP_w.png"
-        },
-        {
-          "id": "https://medium.com/p/f247208f4c8d",
-          "author": "Jo Vinkenroye",
-          "description": "Formatting code is essential for several reasons",
-          "link": "https://coinsbench.com/formatting-solidity-code-when-using-hardhat-f247208f4c8d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-27T16:00:58.000Z",
-          "wordCount": 1434,
-          "title": "Formatting solidity code when using Hardhat",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9viDZ2ujQjcueSRpP0ShxA.png"
-        },
-        {
-          "id": "https://medium.com/p/533d8647022c",
-          "author": "Eli",
-          "description": "Understanding TimeLock Contracts in Solidity",
-          "link": "https://coinsbench.com/locking-down-security-a-guide-to-timelocks-in-solidity-533d8647022c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-27T16:00:54.000Z",
-          "wordCount": 4276,
-          "title": "Locking Down Security: A Guide to TimeLocks in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*B4jULsIMUkeV_VBzF2_wgg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d7e24d08a89a",
-          "author": "Alexander Koval",
-          "description": "How to build headless DApp using Telegram bot without compromising self-custody",
-          "link": "https://coinsbench.com/running-dapp-from-telegram-bot-d7e24d08a89a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-27T16:00:52.000Z",
-          "wordCount": 2303,
-          "title": "Running DApp from telegram bot",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*BOq2S2s0dSF34MNKcWiBIw.png"
-        },
-        {
-          "id": "https://medium.com/p/58b9c9695a17",
-          "author": "Gustav Stieger",
-          "description": "Blockchain technology continues to evolve, creating new challenges and opportunities for interoperability and security. Today, we dive deep…",
-          "link": "https://coinsbench.com/cross-chain-blockchain-transfers-using-solidity-smart-contracts-58b9c9695a17?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-24T12:58:39.000Z",
-          "wordCount": 3121,
-          "title": "Cross-Chain Blockchain Transfers using Solidity Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*MQKuiyXpOhjUHQ5G"
         }
       ]
     },
@@ -181,7 +181,7 @@
           "description": "The rapid evolution of the cryptocurrency market has significantly altered the landscape of digital marketing. Crypto paid advertising…",
           "link": "https://medium.com/coinmonks/mastering-crypto-paid-advertising-strategies-for-success-in-a-competitive-market-45dc239a2ce5?source=rss----721b17443fd5---4",
           "publishedOn": "2024-06-05T09:57:36.000Z",
-          "wordCount": 2475,
+          "wordCount": 2476,
           "title": "Mastering Crypto Paid Advertising: Strategies for Success in a Competitive Market",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:740/1*SdFaRBMEURkUPhnpxrHrxg.jpeg"
         },

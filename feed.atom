@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-05T15:13:29.726Z</id>
+    <id>urn:2024-06-05T16:16:37.940Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-05T15:13:29.726Z</updated>
+    <updated>2024-06-05T16:16:37.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Non-anonymous anonymity: the impact of Arkham’s crypto-analytics platform on the blockchain…]]></title>
+        <id>https://medium.com/p/7f595326dc74</id>
+        <link href="https://coinsbench.com/non-anonymous-anonymity-the-impact-of-arkhams-crypto-analytics-platform-on-the-blockchain-7f595326dc74?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-05T16:02:56.000Z</updated>
+        <summary type="html"><![CDATA[Just as money, according to the author’s subjective perception, is morally neutral (it all depends on whether you spent it on something…]]></summary>
+        <author>
+            <name>Alen Gronovski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI as the key to a Secure Web3 future]]></title>
+        <id>https://medium.com/p/f04a9cb9ac2a</id>
+        <link href="https://coinsbench.com/ai-as-the-key-to-a-secure-web3-future-f04a9cb9ac2a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-05T16:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Modern society lives in a world of advanced technologies and is inevitably influenced by them. The two driving forces behind the…]]></summary>
+        <author>
+            <name>Alex Shevchuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to test your Smart Contracts on Hardhat]]></title>
+        <id>https://medium.com/p/4a8e49d17842</id>
+        <link href="https://coinsbench.com/learn-to-test-your-smart-contracts-on-hardhat-4a8e49d17842?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-05T16:02:50.000Z</updated>
+        <summary type="html"><![CDATA[Learn to test your smart contracts with Hardhat.]]></summary>
+        <author>
+            <name>Gimer Cervera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Developer’s Intro to Huddle01 SDK and Ideas to Build]]></title>
+        <id>https://medium.com/p/cab23872cec7</id>
+        <link href="https://coinsbench.com/a-developers-intro-to-huddle01-sdk-and-ideas-to-build-cab23872cec7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-05T16:02:48.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, I’ll show you how to integrate the Huddle01 SDK into your apps with a step-by-step tutorial. Also, I’ll explore creative…]]></summary>
+        <author>
+            <name>Judith Manyo Ogar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 5 Cryptocurrency Data APIs in 2024]]></title>
         <id>https://medium.com/p/e4d46705c5ab</id>
@@ -195,46 +235,6 @@ Continue reading on Coinmonks »]]></summary>
 The post How Fully Homomorphic Encryption can create a new Internet standard with privacy at its core appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Formatting solidity code when using Hardhat]]></title>
-        <id>https://medium.com/p/f247208f4c8d</id>
-        <link href="https://coinsbench.com/formatting-solidity-code-when-using-hardhat-f247208f4c8d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-27T16:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Formatting code is essential for several reasons]]></summary>
-        <author>
-            <name>Jo Vinkenroye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Locking Down Security: A Guide to TimeLocks in Solidity]]></title>
-        <id>https://medium.com/p/533d8647022c</id>
-        <link href="https://coinsbench.com/locking-down-security-a-guide-to-timelocks-in-solidity-533d8647022c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-27T16:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Understanding TimeLock Contracts in Solidity]]></summary>
-        <author>
-            <name>Eli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running DApp from telegram bot]]></title>
-        <id>https://medium.com/p/d7e24d08a89a</id>
-        <link href="https://coinsbench.com/running-dapp-from-telegram-bot-d7e24d08a89a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-27T16:00:52.000Z</updated>
-        <summary type="html"><![CDATA[How to build headless DApp using Telegram bot without compromising self-custody]]></summary>
-        <author>
-            <name>Alexander Koval</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-Chain Blockchain Transfers using Solidity Smart Contracts]]></title>
-        <id>https://medium.com/p/58b9c9695a17</id>
-        <link href="https://coinsbench.com/cross-chain-blockchain-transfers-using-solidity-smart-contracts-58b9c9695a17?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-24T12:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology continues to evolve, creating new challenges and opportunities for interoperability and security. Today, we dive deep…]]></summary>
-        <author>
-            <name>Gustav Stieger</name>
         </author>
     </entry>
     <entry>
