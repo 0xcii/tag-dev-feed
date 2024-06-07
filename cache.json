@@ -29,6 +29,36 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/8d573388a92a",
+          "author": "Darlington Gospel",
+          "description": "Welcome to Dapp Mentors! In this article, we’ll delve into the top three programming languages for blockchain development: Solidity, Rust…",
+          "link": "https://coinsbench.com/top-smart-contract-languages-in-2024-solidity-rust-motoko-8d573388a92a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-07T15:59:34.000Z",
+          "wordCount": 1791,
+          "title": "Top Smart Contract Languages in 2024: Solidity, Rust, Motoko",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jlXNY5yagnhitTO1mGOVmA.png"
+        },
+        {
+          "id": "https://medium.com/p/c74e935cee0b",
+          "author": "Alpha Ng'ang'a",
+          "description": "Welcome to the wild world of Web3, where we’re not just talking about building websites — we’re creating decentralized applications that…",
+          "link": "https://coinsbench.com/learn-solidity-basics-part-1-ide-functions-and-variables-c74e935cee0b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-07T15:59:33.000Z",
+          "wordCount": 2291,
+          "title": "Learn Solidity Basics Part 1: IDE, Functions, and Variables",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LNe-kwXZFDw3zhpfHCOuFQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/29a42f49e862",
+          "author": "Web3Explorer",
+          "description": "In Solidity, fixed byte and dynamic byte refer to two ways of handling byte arrays, which are collections of binary data. Here's a detailed…",
+          "link": "https://coinsbench.com/byte-vs-bytes-in-solidity-29a42f49e862?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-07T15:59:31.000Z",
+          "wordCount": 1479,
+          "title": "Byte vs Bytes in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:583/1*Eo6gG1U8NflNOmrqvwB2VQ.png"
+        },
+        {
           "id": "https://medium.com/p/7f595326dc74",
           "author": "Alen Gronovski",
           "description": "Just as money, according to the author’s subjective perception, is morally neutral (it all depends on whether you spent it on something…",
@@ -97,36 +127,6 @@
           "wordCount": 1742,
           "title": "Ensuring Fair Power Distribution in Blockchain: A Case Study of the Cirrus Sidechain",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*S4oSzELVIlP2HPf6"
-        },
-        {
-          "id": "https://medium.com/p/6fe8140f555c",
-          "author": "Simeon Campbell",
-          "description": "Discover how to use require, revert, and assert in Solidity for efficient error handling and gas optimization in Ethereum smart contracts!",
-          "link": "https://coinsbench.com/solidity-error-handling-notes-on-require-revert-and-assert-6fe8140f555c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-31T16:34:54.000Z",
-          "wordCount": 2816,
-          "title": "Solidity error handling — notes on require, revert and assert",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*W_TeiNXlH1j8GeEFTpIaDw.png"
-        },
-        {
-          "id": "https://medium.com/p/eb4e588400a8",
-          "author": "Imeth Vinnath",
-          "description": "Hey everyone! I’m here to simplify things so you can easily understand. I know there are tons of articles explaining how data structures…",
-          "link": "https://coinsbench.com/mappings-vs-iterable-mappings-simplified-eb4e588400a8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-29T16:09:16.000Z",
-          "wordCount": 2554,
-          "title": "Mappings vs. Iterable Mappings: Simplified",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:786/1*Zjcg7gD-VeCeebTTDviQwg.png"
-        },
-        {
-          "id": "https://medium.com/p/575ac7a90a51",
-          "author": "Imeth Vinnath",
-          "description": "As a developer who started out in web development, I find myself often thinking about the concepts that laid the foundation in the…",
-          "link": "https://coinsbench.com/understanding-structs-in-solidity-a-walkthrough-for-oop-developers-575ac7a90a51?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-05-29T16:09:14.000Z",
-          "wordCount": 3455,
-          "title": "Understanding Structs in Solidity: A Walkthrough for OOP Developers",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1094/1*bxibk-8Om1j9JsvpWDzP_w.png"
         }
       ]
     },

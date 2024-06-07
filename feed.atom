@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-07T15:13:28.265Z</id>
+    <id>urn:2024-06-07T16:15:37.373Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-07T15:13:28.265Z</updated>
+    <updated>2024-06-07T16:15:37.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top Smart Contract Languages in 2024: Solidity, Rust, Motoko]]></title>
+        <id>https://medium.com/p/8d573388a92a</id>
+        <link href="https://coinsbench.com/top-smart-contract-languages-in-2024-solidity-rust-motoko-8d573388a92a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-07T15:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Dapp Mentors! In this article, we’ll delve into the top three programming languages for blockchain development: Solidity, Rust…]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Solidity Basics Part 1: IDE, Functions, and Variables]]></title>
+        <id>https://medium.com/p/c74e935cee0b</id>
+        <link href="https://coinsbench.com/learn-solidity-basics-part-1-ide-functions-and-variables-c74e935cee0b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-07T15:59:33.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the wild world of Web3, where we’re not just talking about building websites — we’re creating decentralized applications that…]]></summary>
+        <author>
+            <name>Alpha Ng'ang'a</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Byte vs Bytes in Solidity]]></title>
+        <id>https://medium.com/p/29a42f49e862</id>
+        <link href="https://coinsbench.com/byte-vs-bytes-in-solidity-29a42f49e862?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-07T15:59:31.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, fixed byte and dynamic byte refer to two ways of handling byte arrays, which are collections of binary data. Here's a detailed…]]></summary>
+        <author>
+            <name>Web3Explorer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Crypto Reconciliation Tools: A Close Analysis]]></title>
         <id>https://medium.com/p/bf6b12ac2913</id>
@@ -183,36 +213,6 @@
         <summary type="html"><![CDATA[Blockchain technology promises decentralization and fairness, yet achieving these ideals in practice requires careful design and…]]></summary>
         <author>
             <name>Gustav Stieger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity error handling — notes on require, revert and assert]]></title>
-        <id>https://medium.com/p/6fe8140f555c</id>
-        <link href="https://coinsbench.com/solidity-error-handling-notes-on-require-revert-and-assert-6fe8140f555c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-31T16:34:54.000Z</updated>
-        <summary type="html"><![CDATA[Discover how to use require, revert, and assert in Solidity for efficient error handling and gas optimization in Ethereum smart contracts!]]></summary>
-        <author>
-            <name>Simeon Campbell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mappings vs. Iterable Mappings: Simplified]]></title>
-        <id>https://medium.com/p/eb4e588400a8</id>
-        <link href="https://coinsbench.com/mappings-vs-iterable-mappings-simplified-eb4e588400a8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-29T16:09:16.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone! I’m here to simplify things so you can easily understand. I know there are tons of articles explaining how data structures…]]></summary>
-        <author>
-            <name>Imeth Vinnath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Structs in Solidity: A Walkthrough for OOP Developers]]></title>
-        <id>https://medium.com/p/575ac7a90a51</id>
-        <link href="https://coinsbench.com/understanding-structs-in-solidity-a-walkthrough-for-oop-developers-575ac7a90a51?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-05-29T16:09:14.000Z</updated>
-        <summary type="html"><![CDATA[As a developer who started out in web development, I find myself often thinking about the concepts that laid the foundation in the…]]></summary>
-        <author>
-            <name>Imeth Vinnath</name>
         </author>
     </entry>
     <entry>
