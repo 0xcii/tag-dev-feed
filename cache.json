@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -146,6 +140,56 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/24c10026c943",
+          "author": "Anshul Kummar",
+          "description": "\"Fundamental analysis is complex. Yes, but it doesn't have to be too complex.\"\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/how-besomebodyfx-is-making-fundamental-analysis-easier-for-forex-traders-24c10026c943?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-13T16:38:48.000Z",
+          "wordCount": 1051,
+          "title": "How 'BeSomebodyFX' is Making Fundamental Analysis Easier for Forex Traders",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*PeVpfH61lAPyBjnk.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/4cc0973aa4e0",
+          "author": "Sheldon",
+          "description": "Intro",
+          "link": "https://medium.com/coinmonks/navigating-cryptocurrency-a-users-guide-to-kyc-and-bitcoinbank-4cc0973aa4e0?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-13T16:38:45.000Z",
+          "wordCount": 2804,
+          "title": "Navigating Cryptocurrency: A User’s Guide to KYC and BitcoinBank",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:750/0*Tw01CwyTTTsO16nV"
+        },
+        {
+          "id": "https://medium.com/p/68566e6c89aa",
+          "author": "Sheldon",
+          "description": "Intro",
+          "link": "https://medium.com/coinmonks/secure-and-stable-how-aml-at-bitcoinbank-addresses-your-concerns-68566e6c89aa?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-13T16:38:42.000Z",
+          "wordCount": 2806,
+          "title": "Secure and Stable: How AML at BitcoinBank Addresses Your Concerns",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:800/0*rp5Qcu8PkxI2jC6q"
+        },
+        {
+          "id": "https://medium.com/p/2af199b14f07",
+          "author": "Sheldon",
+          "description": "Intro",
+          "link": "https://medium.com/coinmonks/stay-safe-in-crypto-uncover-the-aml-red-flags-you-must-know-2af199b14f07?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-13T16:38:40.000Z",
+          "wordCount": 2846,
+          "title": "Stay Safe in Crypto: Uncover the AML Red Flags You Must Know",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1120/0*rOCSCEvwkdEe6Z9r"
+        },
+        {
+          "id": "https://medium.com/p/a25a673a7cd5",
+          "author": "Sheldon",
+          "description": "Intro",
+          "link": "https://medium.com/coinmonks/staying-ahead-with-kyc-regulations-how-bitcoinbank-measures-up-a25a673a7cd5?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-13T16:38:38.000Z",
+          "wordCount": 2876,
+          "title": "Staying Ahead with KYC Regulations: How Bitcoinbank Measures Up",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1120/0*xegBXhzoDil1M11E"
+        },
+        {
           "id": "https://medium.com/p/631606466ba9",
           "author": "Jimena",
           "description": "Explore the latest AI business ideas for 2024–2025 with our updated guide. Discover innovative opportunities in AI and drive growth.",
@@ -191,59 +235,9 @@
           "description": "In the rapidly evolving world of blockchain technology, development remains a complex, expensive, and risky endeavor. For many…",
           "link": "https://medium.com/coinmonks/introducing-cryptodo-revolutionizing-blockchain-based-web3-applications-f8cbbc4b3b6d?source=rss----721b17443fd5---4",
           "publishedOn": "2024-06-13T16:10:29.000Z",
-          "wordCount": 1939,
+          "wordCount": 1940,
           "title": "Introducing CryptoDo: Revolutionizing Blockchain-Based Web3 Applications",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:960/1*WUXUD9vanaIsqGvAJGq8kQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/02bdac09e753",
-          "author": "Eduemmanuel",
-          "description": "CryptoDo is transforming the blockchain landscape by enabling anyone to create and manage web3 applications without programming skills…",
-          "link": "https://medium.com/coinmonks/unlocking-the-potential-of-blockchain-with-cryptodo-practical-use-cases-02bdac09e753?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-13T16:10:23.000Z",
-          "wordCount": 1984,
-          "title": "Unlocking the Potential of Blockchain with CryptoDo: Practical Use Cases",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:960/1*WUXUD9vanaIsqGvAJGq8kQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/6b83da38c287",
-          "author": "Cathrine Williams",
-          "description": "In today’s digital age, Smart Contracts have emerged as a revolutionary tool, promising to reshape how agreements are made and executed…",
-          "link": "https://medium.com/coinmonks/how-smart-contracts-are-reshaping-banking-financial-services-6b83da38c287?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-13T16:10:20.000Z",
-          "wordCount": 4147,
-          "title": "How Smart Contracts Are Reshaping Banking & Financial Services?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Yw_kw2OdZee7J6fNCXKXDQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/1df4c978e0d4",
-          "author": "Robert John",
-          "description": "Creating an NFT marketplace is like building a digital empire. It’s exciting, it’s innovative, and it’s a venture that can reap significant…",
-          "link": "https://medium.com/coinmonks/nft-marketplace-development-cost-analysis-how-much-does-it-really-cost-to-build-nft-marketplace-1df4c978e0d4?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-13T16:10:17.000Z",
-          "wordCount": 10992,
-          "title": "NFT Marketplace Development Cost Analysis: How Much Does It Really Cost to Build an NFT Marketplace?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*28Savwf6Z0lBbAL1w2Zdzg.png"
-        },
-        {
-          "id": "https://medium.com/p/ca4771fa53ca",
-          "author": "Catalinaquint",
-          "description": "Learn everything about crypto payment gateway development, from benefits to challenges, key components, and step-by-step development guide.",
-          "link": "https://medium.com/coinmonks/crypto-payment-gateway-development-ca4771fa53ca?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-13T16:10:14.000Z",
-          "wordCount": 3731,
-          "title": "Crypto Payment Gateway Development — An Ultimate Guide For Businesses",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5b37e1b05581",
-          "author": "Mezen",
-          "description": "Token — founder’s tool for achieving project goals",
-          "link": "https://medium.com/coinmonks/token-view-from-different-stakeholders-5b37e1b05581?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-13T16:10:11.000Z",
-          "wordCount": 3369,
-          "title": "Token: view from different stakeholders",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ikWP9pJuLdwZldZD5declA.png"
         }
       ]
     },
