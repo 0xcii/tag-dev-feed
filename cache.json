@@ -39,6 +39,86 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e2eb2520bbb5",
+          "author": "Alejo Lovallo",
+          "description": "Recently, Vitalik Buterin has released a new EIP describing the possibility of simple EOA (externally owned accounts) to behave as a smart…",
+          "link": "https://coinsbench.com/eoa-as-smart-wallet-notes-on-vitalik-eip-7702-e2eb2520bbb5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-14T21:20:53.000Z",
+          "wordCount": 1387,
+          "title": "EOA as Smart Wallet: Notes on Vitalik & EIP-7702",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*mo7xhgoCM135kOwtmQqICg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/410458d28d1b",
+          "author": "Faybian Byrd",
+          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
+          "link": "https://coinsbench.com/rareskills-solidity-interview-question-38-answered-what-is-frontrunning-410458d28d1b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-14T21:20:51.000Z",
+          "wordCount": 1696,
+          "title": "RareSkills Solidity Interview Question #38 Answered: What is frontrunning?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1BQYeKB-I5HoR4MigYQWdg.png"
+        },
+        {
+          "id": "https://medium.com/p/bf5e4b36bd31",
+          "author": "Burgossrodrigo",
+          "description": "When working with Ethereum transactions in Go, extracting the sender (the address that initiated the transaction) is not straightforward…",
+          "link": "https://coinsbench.com/extracting-the-sender-from-a-transaction-with-go-ethereum-bf5e4b36bd31?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-14T21:20:45.000Z",
+          "wordCount": 1531,
+          "title": "Extracting the Sender from a Transaction with Go-Ethereum",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*UC2tGzsceyRA9TNWaz5hPQ.png"
+        },
+        {
+          "id": "https://medium.com/p/5f88b653418c",
+          "author": "Burgossrodrigo",
+          "description": "Prerequisites",
+          "link": "https://coinsbench.com/extracting-and-converting-ethereum-transaction-input-data-in-go-5f88b653418c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-14T21:20:38.000Z",
+          "wordCount": 1310,
+          "title": "Extracting and Converting Ethereum Transaction Input Data in Go",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*3vXu3iy92FeZVrt_"
+        },
+        {
+          "id": "https://medium.com/p/c41d543b0fce",
+          "author": "Robert McMenemy",
+          "description": "Introduction\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/fuzz-testing-solidity-smart-contracts-with-afl-and-python-a-step-by-step-guide-c41d543b0fce?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-14T21:20:36.000Z",
+          "wordCount": 855,
+          "title": "Fuzz Testing Solidity Smart Contracts with AFL and Python: A Step-by-Step Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:795/0*adPHb3AOdY_bgWcE.png"
+        },
+        {
+          "id": "https://medium.com/p/b65de06258e3",
+          "author": "Naresh Mohanraj",
+          "description": "As blockchain technology continues to evolve, new concepts and applications emerge. One of these is DePIN, or Decentralized Physical…",
+          "link": "https://coinsbench.com/depin-decentralized-physical-infrastructure-networks-b65de06258e3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-14T21:20:35.000Z",
+          "wordCount": 1867,
+          "title": "DePIN : Decentralized Physical Infrastructure Networks",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:774/1*okMwwuTZd21KKxecot7kbw.png"
+        },
+        {
+          "id": "https://medium.com/p/757bd9416cf0",
+          "author": "Jack Klimov",
+          "description": "There are many ways to define pragma version in solidity and you will know them all!",
+          "link": "https://coinsbench.com/mastering-solidity-pragma-6-ways-to-specify-compiler-versions-757bd9416cf0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-14T21:20:29.000Z",
+          "wordCount": 2058,
+          "title": "Mastering Solidity Pragma: 6 Ways to Specify Compiler Versions",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*MDxy8ikiqFJX1thOc5ZDbQ.png"
+        },
+        {
+          "id": "https://medium.com/p/d30539207a8e",
+          "author": "Darlington Gospel",
+          "description": "In this article, we’ll explore decentralized blockchain storage networks, a crucial aspect of building decentralized applications (dApps).",
+          "link": "https://coinsbench.com/data-driven-dapps-storage-filecoin-sia-arweave-compared-d30539207a8e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-14T21:20:22.000Z",
+          "wordCount": 1673,
+          "title": "Data-Driven Dapps Storage: Filecoin, Sia, & Arweave Compared",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*dAm0FV25vLjN7zx-.png"
+        },
+        {
           "id": "https://medium.com/p/2f69ac99ee05",
           "author": "Imeth Vinnath",
           "description": "I’ve been dabbling my feet in the web3 Job market ever since we started the Jobcamp at Metana. Through my experience, I have encountered…",
@@ -57,86 +137,6 @@
           "wordCount": 2120,
           "title": "Deploying Your Own Ethereum Full Node on Amazon Managed Blockchain",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:262/1*lqrDcUe3otJJnv5p3HMjyw.png"
-        },
-        {
-          "id": "https://medium.com/p/fbf01d0613a7",
-          "author": "Jack Klimov",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/pull-over-push-pattern-in-solidity-fbf01d0613a7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-10T19:30:52.000Z",
-          "wordCount": 1474,
-          "title": "“Pull over Push” pattern in solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xnCW80MapHLFbArazcjo6g.png"
-        },
-        {
-          "id": "https://medium.com/p/8d573388a92a",
-          "author": "Darlington Gospel",
-          "description": "Welcome to Dapp Mentors! In this article, we’ll delve into the top three programming languages for blockchain development: Solidity, Rust…",
-          "link": "https://coinsbench.com/top-smart-contract-languages-in-2024-solidity-rust-motoko-8d573388a92a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-07T15:59:34.000Z",
-          "wordCount": 1791,
-          "title": "Top Smart Contract Languages in 2024: Solidity, Rust, Motoko",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jlXNY5yagnhitTO1mGOVmA.png"
-        },
-        {
-          "id": "https://medium.com/p/c74e935cee0b",
-          "author": "Alpha Ng'ang'a",
-          "description": "Welcome to the wild world of Web3, where we’re not just talking about building websites — we’re creating decentralized applications that…",
-          "link": "https://coinsbench.com/learn-solidity-basics-part-1-ide-functions-and-variables-c74e935cee0b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-07T15:59:33.000Z",
-          "wordCount": 2291,
-          "title": "Learn Solidity Basics Part 1: IDE, Functions, and Variables",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LNe-kwXZFDw3zhpfHCOuFQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/29a42f49e862",
-          "author": "Naresh Mohanraj",
-          "description": "In Solidity, fixed byte and dynamic byte refer to two ways of handling byte arrays, which are collections of binary data. Here's a detailed…",
-          "link": "https://coinsbench.com/byte-vs-bytes-in-solidity-29a42f49e862?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-07T15:59:31.000Z",
-          "wordCount": 1473,
-          "title": "Byte vs Bytes in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:583/1*Eo6gG1U8NflNOmrqvwB2VQ.png"
-        },
-        {
-          "id": "https://medium.com/p/7f595326dc74",
-          "author": "Alen Gronovski",
-          "description": "Just as money, according to the author’s subjective perception, is morally neutral (it all depends on whether you spent it on something…",
-          "link": "https://coinsbench.com/non-anonymous-anonymity-the-impact-of-arkhams-crypto-analytics-platform-on-the-blockchain-7f595326dc74?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-05T16:02:56.000Z",
-          "wordCount": 3100,
-          "title": "Non-anonymous anonymity: the impact of Arkham’s crypto-analytics platform on the blockchain…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*TwW4CstV_28EM-zQkGRq0A.png"
-        },
-        {
-          "id": "https://medium.com/p/f04a9cb9ac2a",
-          "author": "Alex Shevchuk",
-          "description": "Modern society lives in a world of advanced technologies and is inevitably influenced by them. The two driving forces behind the…",
-          "link": "https://coinsbench.com/ai-as-the-key-to-a-secure-web3-future-f04a9cb9ac2a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-05T16:02:54.000Z",
-          "wordCount": 2373,
-          "title": "AI as the key to a Secure Web3 future",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*nVdt2p6UnLGG6oGD_J9Nqw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/4a8e49d17842",
-          "author": "Gimer Cervera",
-          "description": "Learn to test your smart contracts with Hardhat.",
-          "link": "https://coinsbench.com/learn-to-test-your-smart-contracts-on-hardhat-4a8e49d17842?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-05T16:02:50.000Z",
-          "wordCount": 4387,
-          "title": "Learn to test your Smart Contracts on Hardhat",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*l7kriRWBibTHsAkRRJCZtA.png"
-        },
-        {
-          "id": "https://medium.com/p/cab23872cec7",
-          "author": "Judith Manyo Ogar",
-          "description": "In this guide, I’ll show you how to integrate the Huddle01 SDK into your apps with a step-by-step tutorial. Also, I’ll explore creative…",
-          "link": "https://coinsbench.com/a-developers-intro-to-huddle01-sdk-and-ideas-to-build-cab23872cec7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-05T16:02:48.000Z",
-          "wordCount": 4957,
-          "title": "A Developer’s Intro to Huddle01 SDK and Ideas to Build",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LudvnwTkSUk1GNocbRS5Dg.png"
         }
       ]
     },
@@ -241,7 +241,7 @@
           "description": "Bitcoin, since its inception in 2009, has captivated the global financial market and popular culture. From being valued at less than $0.01…",
           "link": "https://medium.com/coinmonks/bitcoin-in-modern-media-a-futurama-case-study-7dae25bf3a78?source=rss----721b17443fd5---4",
           "publishedOn": "2024-06-14T11:47:24.000Z",
-          "wordCount": 1875,
+          "wordCount": 1876,
           "title": "Bitcoin in Modern Media\nA ‘Futurama’ Case Study",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*cfvRM2zdiFg-1gD6"
         }
@@ -252,6 +252,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/a8851be593e4",
+          "author": "Discoursefy",
+          "description": "Blockchain and cryptocurrencies have captured the imagination of tech enthusiasts and innovators worldwide. If you’re curious about how to…",
+          "link": "https://blog.blockmagnates.com/building-blockchain-projects-the-basics-of-blockchain-and-cryptocurrencies-a8851be593e4?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-06-14T21:35:53.000Z",
+          "wordCount": 2037,
+          "title": "Building Blockchain Projects: The Basics of Blockchain and Cryptocurrencies",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:495/1*MHIytgCiWiBA7cAh13RSmA.jpeg"
+        },
         {
           "id": "https://medium.com/p/d202afd73450",
           "author": "Jo Vinkenroye",
