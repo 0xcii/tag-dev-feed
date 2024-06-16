@@ -7,6 +7,33 @@
       "articles": []
     },
     {
+      "title": "cryptomaton",
+      "feedUrl": "https://www.cryptomaton.org/feed/",
+      "siteUrl": "https://www.cryptomaton.org/",
+      "articles": [
+        {
+          "id": "https://www.cryptomaton.org/?p=1712",
+          "author": "Andrei",
+          "description": "The meme, the man, the legend Keith “The Roaring Kitty” Gill is back online and in full swing following the recent bullish movements of GameStop. After a long period of silence, Keith announced a livestream due to take place today, June 7 2024. There was no other information shared apart from what’s in the screenshot […]\nThe post The Kitten Roars Again – The Full Story of Keith Gill appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2024/06/07/the-kitten-roars-again-the-full-story-of-keith-gill/",
+          "publishedOn": "2024-06-07T19:16:11.000Z",
+          "wordCount": 9887,
+          "title": "The Kitten Roars Again – The Full Story of Keith Gill",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/06/roaring-kitty-keith-gill-story.jpg"
+        },
+        {
+          "id": "https://www.cryptomaton.org/?p=1708",
+          "author": "Andrei",
+          "description": "Fully Homomorphic Encryption (FHE) is one of those things that when you first hear about it, you can’t quite wrap your head around just how powerful this technology is. FHE is a type of encryption that allows computations to be performed on encrypted data, without ever needing to decrypt it. This might sound like magic, […]\nThe post How Fully Homomorphic Encryption can create a new Internet standard with privacy at its core appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2024/05/28/how-fully-homomorphic-encryption-can-create-a-new-internet-standard-with-privacy-at-its-core/",
+          "publishedOn": "2024-05-28T14:38:08.000Z",
+          "wordCount": 9719,
+          "title": "How Fully Homomorphic Encryption can create a new Internet standard with privacy at its core",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/05/what-is-fhe.png"
+        }
+      ]
+    },
+    {
       "title": "CoinsBench - Medium",
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
@@ -154,7 +181,7 @@
           "description": "Cryptocurrency coin development services meet diverse industry needs in 2024 with tailored solutions for gaming, finance, and more.",
           "link": "https://medium.com/coinmonks/how-do-cryptocurrency-coin-development-services-cater-to-different-industry-needs-in-2024-7af93ee0eedb?source=rss----721b17443fd5---4",
           "publishedOn": "2024-06-15T09:23:24.000Z",
-          "wordCount": 3443,
+          "wordCount": 3442,
           "title": "How Do Cryptocurrency Coin Development Services Cater to Different Industry Needs in 2024?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*xLnXpEKkxrqzhGioKbQyvw.png"
         },
