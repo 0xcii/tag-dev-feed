@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-17T15:15:02.873Z</id>
+    <id>urn:2024-06-17T16:16:55.483Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-17T15:15:02.873Z</updated>
+    <updated>2024-06-17T16:16:55.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Simple Fixed Deposit Application Using Solidity Smart Contracts]]></title>
+        <id>https://medium.com/p/16738351736b</id>
+        <link href="https://coinsbench.com/building-a-simple-fixed-deposit-application-using-solidity-smart-contracts-16738351736b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-17T15:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology has revolutionized the way we handle financial transactions, and the world of decentralized finance (DeFi) is growing…]]></summary>
+        <author>
+            <name>Umemba Victor (Crank)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Storage, Memory, and Calldata in Solidity]]></title>
+        <id>https://medium.com/p/46484c8c2bbe</id>
+        <link href="https://coinsbench.com/understanding-storage-memory-and-calldata-in-solidity-46484c8c2bbe?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-17T15:06:21.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, a language used for writing smart contracts on the Ethereum blockchain, understanding the different data locations is crucial…]]></summary>
+        <author>
+            <name>Naresh Mohanraj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning to Call Smart Contract Functions with Web3.js]]></title>
+        <id>https://medium.com/p/2744f7a80e9e</id>
+        <link href="https://coinsbench.com/learning-to-call-smart-contract-functions-with-web3-js-2744f7a80e9e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-17T15:06:14.000Z</updated>
+        <summary type="html"><![CDATA[This article aims to demonstrate the use of web3.js, a JavaScript library for interacting with smart contracts deployed on the Ethereum…]]></summary>
+        <author>
+            <name>Umemba Victor (Crank)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comprehending the Fundamentals of Solidity: A Concise Guide — An Additional Treasure for Your…]]></title>
+        <id>https://medium.com/p/5ec03a984fa3</id>
+        <link href="https://coinsbench.com/comprehending-the-fundamentals-of-solidity-a-concise-guide-an-additional-treasure-for-your-5ec03a984fa3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-17T15:06:10.000Z</updated>
+        <summary type="html"><![CDATA[Brief Overview of Solidity]]></summary>
+        <author>
+            <name>Umemba Victor (Crank)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Checking Whitelisted Addresses on a Solidity Smart Contract Using Merkle Tree Proofs]]></title>
+        <id>https://medium.com/p/b7b438a0aabe</id>
+        <link href="https://coinsbench.com/checking-whitelisted-addresses-on-a-solidity-smart-contract-using-merkle-tree-proofs-b7b438a0aabe?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-17T15:05:58.000Z</updated>
+        <summary type="html"><![CDATA[## Intro]]></summary>
+        <author>
+            <name>Murat Can Yüksel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap V3 — Part 1. Concept & Concentrated Liquidity]]></title>
+        <id>https://medium.com/p/0db9872d60e6</id>
+        <link href="https://coinsbench.com/uniswap-v3-part-1-concept-cpmm-0db9872d60e6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-17T15:05:53.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap]]></summary>
+        <author>
+            <name>Mr Contract</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differences in traditional and web3/blockchain front end development]]></title>
+        <id>https://medium.com/p/e3ca6a18dbb5</id>
+        <link href="https://coinsbench.com/differences-in-traditional-and-web3-blockchain-front-end-development-e3ca6a18dbb5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-17T15:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Web3/Blockchain front end development differs from traditional/web2 front end development in certain ways. Here we will look at how they differ in interacting with the back end, and how they handle…]]></summary>
+        <author>
+            <name>Murat Can Yüksel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap V3 — Part 2: Code Analysis]]></title>
+        <id>https://medium.com/p/8fe061d024d4</id>
+        <link href="https://coinsbench.com/uniswapv3-part-2-code-analysis-8fe061d024d4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-17T15:05:21.000Z</updated>
+        <summary type="html"><![CDATA[Flexible Fees and Multiple Pools]]></summary>
+        <author>
+            <name>Mr Contract</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About EigenLayer]]></title>
+        <id>https://medium.com/p/231744d3a17c</id>
+        <link href="https://coinsbench.com/about-eigenlayer-231744d3a17c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-17T15:05:18.000Z</updated>
+        <summary type="html"><![CDATA[1. Disclaimer]]></summary>
+        <author>
+            <name>Mr Contract</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pendle valuation]]></title>
+        <id>https://medium.com/p/f9474cc9b563</id>
+        <link href="https://coinsbench.com/pendle-valuation-f9474cc9b563?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-17T15:05:12.000Z</updated>
+        <summary type="html"><![CDATA[What is Pendle? Why the price is increased? …]]></summary>
+        <author>
+            <name>Mr Contract</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cryptocurrency Exchange Script | KIRHYIP]]></title>
         <id>https://medium.com/p/9359b69dcaf5</id>
@@ -126,107 +226,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Blockchain and cryptocurrencies have captured the imagination of tech enthusiasts and innovators worldwide. If you’re curious about how to…]]></summary>
         <author>
             <name>Discoursefy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EOA as Smart Wallet: Notes on Vitalik & EIP-7702]]></title>
-        <id>https://medium.com/p/e2eb2520bbb5</id>
-        <link href="https://coinsbench.com/eoa-as-smart-wallet-notes-on-vitalik-eip-7702-e2eb2520bbb5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-14T21:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Recently, Vitalik Buterin has released a new EIP describing the possibility of simple EOA (externally owned accounts) to behave as a smart…]]></summary>
-        <author>
-            <name>Alejo Lovallo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #38 Answered: What is frontrunning?]]></title>
-        <id>https://medium.com/p/410458d28d1b</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-38-answered-what-is-frontrunning-410458d28d1b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-14T21:20:51.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extracting the Sender from a Transaction with Go-Ethereum]]></title>
-        <id>https://medium.com/p/bf5e4b36bd31</id>
-        <link href="https://coinsbench.com/extracting-the-sender-from-a-transaction-with-go-ethereum-bf5e4b36bd31?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-14T21:20:45.000Z</updated>
-        <summary type="html"><![CDATA[When working with Ethereum transactions in Go, extracting the sender (the address that initiated the transaction) is not straightforward…]]></summary>
-        <author>
-            <name>Burgossrodrigo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extracting and Converting Ethereum Transaction Input Data in Go]]></title>
-        <id>https://medium.com/p/5f88b653418c</id>
-        <link href="https://coinsbench.com/extracting-and-converting-ethereum-transaction-input-data-in-go-5f88b653418c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-14T21:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Prerequisites]]></summary>
-        <author>
-            <name>Burgossrodrigo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fuzz Testing Solidity Smart Contracts with AFL and Python: A Step-by-Step Guide]]></title>
-        <id>https://medium.com/p/c41d543b0fce</id>
-        <link href="https://coinsbench.com/fuzz-testing-solidity-smart-contracts-with-afl-and-python-a-step-by-step-guide-c41d543b0fce?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-14T21:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Robert McMenemy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DePIN : Decentralized Physical Infrastructure Networks]]></title>
-        <id>https://medium.com/p/b65de06258e3</id>
-        <link href="https://coinsbench.com/depin-decentralized-physical-infrastructure-networks-b65de06258e3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-14T21:20:35.000Z</updated>
-        <summary type="html"><![CDATA[As blockchain technology continues to evolve, new concepts and applications emerge. One of these is DePIN, or Decentralized Physical…]]></summary>
-        <author>
-            <name>Naresh Mohanraj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Solidity Pragma: 6 Ways to Specify Compiler Versions]]></title>
-        <id>https://medium.com/p/757bd9416cf0</id>
-        <link href="https://coinsbench.com/mastering-solidity-pragma-6-ways-to-specify-compiler-versions-757bd9416cf0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-14T21:20:29.000Z</updated>
-        <summary type="html"><![CDATA[There are many ways to define pragma version in solidity and you will know them all!]]></summary>
-        <author>
-            <name>Jack Klimov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating the web3 Job market : Be aware of scammers]]></title>
-        <id>https://medium.com/p/2f69ac99ee05</id>
-        <link href="https://coinsbench.com/navigating-the-web3-job-market-be-aware-of-scammers-2f69ac99ee05?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-10T19:30:59.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been dabbling my feet in the web3 Job market ever since we started the Jobcamp at Metana. Through my experience, I have encountered…]]></summary>
-        <author>
-            <name>Imeth Vinnath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying Your Own Ethereum Full Node on Amazon Managed Blockchain]]></title>
-        <id>https://medium.com/p/2067aa268cf2</id>
-        <link href="https://coinsbench.com/deploying-your-own-ethereum-full-node-on-amazon-managed-blockchain-2067aa268cf2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-10T19:30:55.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum blockchain has revolutionized decentralized applications (dApps) and smart contract development. If you’re venturing into the…]]></summary>
-        <author>
-            <name>shubham kumar singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Pull over Push” pattern in solidity]]></title>
-        <id>https://medium.com/p/fbf01d0613a7</id>
-        <link href="https://coinsbench.com/pull-over-push-pattern-in-solidity-fbf01d0613a7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-10T19:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Jack Klimov</name>
         </author>
     </entry>
     <entry>

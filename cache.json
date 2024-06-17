@@ -50,104 +50,104 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
-          "id": "https://medium.com/p/e2eb2520bbb5",
-          "author": "Alejo Lovallo",
-          "description": "Recently, Vitalik Buterin has released a new EIP describing the possibility of simple EOA (externally owned accounts) to behave as a smart…",
-          "link": "https://coinsbench.com/eoa-as-smart-wallet-notes-on-vitalik-eip-7702-e2eb2520bbb5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-14T21:20:53.000Z",
-          "wordCount": 1387,
-          "title": "EOA as Smart Wallet: Notes on Vitalik & EIP-7702",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*mo7xhgoCM135kOwtmQqICg.jpeg"
+          "id": "https://medium.com/p/16738351736b",
+          "author": "Umemba Victor (Crank)",
+          "description": "Blockchain technology has revolutionized the way we handle financial transactions, and the world of decentralized finance (DeFi) is growing…",
+          "link": "https://coinsbench.com/building-a-simple-fixed-deposit-application-using-solidity-smart-contracts-16738351736b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-17T15:06:30.000Z",
+          "wordCount": 5607,
+          "title": "Building a Simple Fixed Deposit Application Using Solidity Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:658/1*5R4C_aTudIJSOillKc88JA.png"
         },
         {
-          "id": "https://medium.com/p/410458d28d1b",
-          "author": "Faybian Byrd",
-          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
-          "link": "https://coinsbench.com/rareskills-solidity-interview-question-38-answered-what-is-frontrunning-410458d28d1b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-14T21:20:51.000Z",
-          "wordCount": 1696,
-          "title": "RareSkills Solidity Interview Question #38 Answered: What is frontrunning?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1BQYeKB-I5HoR4MigYQWdg.png"
-        },
-        {
-          "id": "https://medium.com/p/bf5e4b36bd31",
-          "author": "Burgossrodrigo",
-          "description": "When working with Ethereum transactions in Go, extracting the sender (the address that initiated the transaction) is not straightforward…",
-          "link": "https://coinsbench.com/extracting-the-sender-from-a-transaction-with-go-ethereum-bf5e4b36bd31?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-14T21:20:45.000Z",
-          "wordCount": 1531,
-          "title": "Extracting the Sender from a Transaction with Go-Ethereum",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*UC2tGzsceyRA9TNWaz5hPQ.png"
-        },
-        {
-          "id": "https://medium.com/p/5f88b653418c",
-          "author": "Burgossrodrigo",
-          "description": "Prerequisites",
-          "link": "https://coinsbench.com/extracting-and-converting-ethereum-transaction-input-data-in-go-5f88b653418c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-14T21:20:38.000Z",
-          "wordCount": 1310,
-          "title": "Extracting and Converting Ethereum Transaction Input Data in Go",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*3vXu3iy92FeZVrt_"
-        },
-        {
-          "id": "https://medium.com/p/c41d543b0fce",
-          "author": "Robert McMenemy",
-          "description": "Introduction\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/fuzz-testing-solidity-smart-contracts-with-afl-and-python-a-step-by-step-guide-c41d543b0fce?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-14T21:20:36.000Z",
-          "wordCount": 855,
-          "title": "Fuzz Testing Solidity Smart Contracts with AFL and Python: A Step-by-Step Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:795/0*adPHb3AOdY_bgWcE.png"
-        },
-        {
-          "id": "https://medium.com/p/b65de06258e3",
+          "id": "https://medium.com/p/46484c8c2bbe",
           "author": "Naresh Mohanraj",
-          "description": "As blockchain technology continues to evolve, new concepts and applications emerge. One of these is DePIN, or Decentralized Physical…",
-          "link": "https://coinsbench.com/depin-decentralized-physical-infrastructure-networks-b65de06258e3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-14T21:20:35.000Z",
-          "wordCount": 1867,
-          "title": "DePIN : Decentralized Physical Infrastructure Networks",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:774/1*okMwwuTZd21KKxecot7kbw.png"
+          "description": "In Solidity, a language used for writing smart contracts on the Ethereum blockchain, understanding the different data locations is crucial…",
+          "link": "https://coinsbench.com/understanding-storage-memory-and-calldata-in-solidity-46484c8c2bbe?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-17T15:06:21.000Z",
+          "wordCount": 1866,
+          "title": "Understanding Storage, Memory, and Calldata in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:941/1*pT90cEgMl9nekrJmGoogMA.png"
         },
         {
-          "id": "https://medium.com/p/757bd9416cf0",
-          "author": "Jack Klimov",
-          "description": "There are many ways to define pragma version in solidity and you will know them all!",
-          "link": "https://coinsbench.com/mastering-solidity-pragma-6-ways-to-specify-compiler-versions-757bd9416cf0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-14T21:20:29.000Z",
-          "wordCount": 2058,
-          "title": "Mastering Solidity Pragma: 6 Ways to Specify Compiler Versions",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*MDxy8ikiqFJX1thOc5ZDbQ.png"
+          "id": "https://medium.com/p/2744f7a80e9e",
+          "author": "Umemba Victor (Crank)",
+          "description": "This article aims to demonstrate the use of web3.js, a JavaScript library for interacting with smart contracts deployed on the Ethereum…",
+          "link": "https://coinsbench.com/learning-to-call-smart-contract-functions-with-web3-js-2744f7a80e9e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-17T15:06:14.000Z",
+          "wordCount": 4145,
+          "title": "Learning to Call Smart Contract Functions with Web3.js",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vIuwkZMYI_Ic-cMG8ShbWQ.jpeg"
         },
         {
-          "id": "https://medium.com/p/2f69ac99ee05",
-          "author": "Imeth Vinnath",
-          "description": "I’ve been dabbling my feet in the web3 Job market ever since we started the Jobcamp at Metana. Through my experience, I have encountered…",
-          "link": "https://coinsbench.com/navigating-the-web3-job-market-be-aware-of-scammers-2f69ac99ee05?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-10T19:30:59.000Z",
-          "wordCount": 2721,
-          "title": "Navigating the web3 Job market : Be aware of scammers",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*imilJftqLQsOuDS8.jpg"
+          "id": "https://medium.com/p/5ec03a984fa3",
+          "author": "Umemba Victor (Crank)",
+          "description": "Brief Overview of Solidity",
+          "link": "https://coinsbench.com/comprehending-the-fundamentals-of-solidity-a-concise-guide-an-additional-treasure-for-your-5ec03a984fa3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-17T15:06:10.000Z",
+          "wordCount": 5089,
+          "title": "Comprehending the Fundamentals of Solidity: A Concise Guide — An Additional Treasure for Your…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6i2kng2qYJKU1CodTz-05Q.png"
         },
         {
-          "id": "https://medium.com/p/2067aa268cf2",
-          "author": "shubham kumar singh",
-          "description": "The Ethereum blockchain has revolutionized decentralized applications (dApps) and smart contract development. If you’re venturing into the…",
-          "link": "https://coinsbench.com/deploying-your-own-ethereum-full-node-on-amazon-managed-blockchain-2067aa268cf2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-10T19:30:55.000Z",
-          "wordCount": 2120,
-          "title": "Deploying Your Own Ethereum Full Node on Amazon Managed Blockchain",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:262/1*lqrDcUe3otJJnv5p3HMjyw.png"
+          "id": "https://medium.com/p/b7b438a0aabe",
+          "author": "Murat Can Yüksel",
+          "description": "## Intro",
+          "link": "https://coinsbench.com/checking-whitelisted-addresses-on-a-solidity-smart-contract-using-merkle-tree-proofs-b7b438a0aabe?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-17T15:05:58.000Z",
+          "wordCount": 4226,
+          "title": "Checking Whitelisted Addresses on a Solidity Smart Contract Using Merkle Tree Proofs",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/fbf01d0613a7",
-          "author": "Jack Klimov",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/pull-over-push-pattern-in-solidity-fbf01d0613a7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-10T19:30:52.000Z",
-          "wordCount": 1474,
-          "title": "“Pull over Push” pattern in solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xnCW80MapHLFbArazcjo6g.png"
+          "id": "https://medium.com/p/0db9872d60e6",
+          "author": "Mr Contract",
+          "description": "Uniswap",
+          "link": "https://coinsbench.com/uniswap-v3-part-1-concept-cpmm-0db9872d60e6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-17T15:05:53.000Z",
+          "wordCount": 2634,
+          "title": "Uniswap V3 — Part 1. Concept & Concentrated Liquidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/0*N91nkLbnEHPf2NAw.png"
+        },
+        {
+          "id": "https://medium.com/p/e3ca6a18dbb5",
+          "author": "Murat Can Yüksel",
+          "description": "Web3/Blockchain front end development differs from traditional/web2 front end development in certain ways. Here we will look at how they differ in interacting with the back end, and how they handle…",
+          "link": "https://coinsbench.com/differences-in-traditional-and-web3-blockchain-front-end-development-e3ca6a18dbb5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-17T15:05:51.000Z",
+          "wordCount": 1945,
+          "title": "Differences in traditional and web3/blockchain front end development",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8fe061d024d4",
+          "author": "Mr Contract",
+          "description": "Flexible Fees and Multiple Pools",
+          "link": "https://coinsbench.com/uniswapv3-part-2-code-analysis-8fe061d024d4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-17T15:05:21.000Z",
+          "wordCount": 3071,
+          "title": "Uniswap V3 — Part 2: Code Analysis",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:695/0*bVXU6gdhBLXhzuN8.png"
+        },
+        {
+          "id": "https://medium.com/p/231744d3a17c",
+          "author": "Mr Contract",
+          "description": "1. Disclaimer",
+          "link": "https://coinsbench.com/about-eigenlayer-231744d3a17c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-17T15:05:18.000Z",
+          "wordCount": 8193,
+          "title": "About EigenLayer",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:423/0*0ZMXgKLqi3zQSen5"
+        },
+        {
+          "id": "https://medium.com/p/f9474cc9b563",
+          "author": "Mr Contract",
+          "description": "What is Pendle? Why the price is increased? …",
+          "link": "https://coinsbench.com/pendle-valuation-f9474cc9b563?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-17T15:05:12.000Z",
+          "wordCount": 3380,
+          "title": "Pendle valuation",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:815/1*xIZBOxR2elHnSGzBdFjRtw.png"
         }
       ]
     },
