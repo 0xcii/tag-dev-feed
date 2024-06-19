@@ -60,6 +60,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/6c8d478dd22f",
+          "author": "Aardvark Infinity",
+          "description": "By Gerard King",
+          "link": "https://coinsbench.com/step-by-step-guide-to-setting-up-an-auto-wallet-6c8d478dd22f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-19T14:40:01.000Z",
+          "wordCount": 1652,
+          "title": "Step-by-Step Guide to Setting Up an Auto Wallet",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*QpuCZQInNQsOfJXZ"
+        },
+        {
+          "id": "https://medium.com/p/fd1176047e3a",
+          "author": "shubham kumar singh",
+          "description": "In the first part of this article, we explored the advantages of Solana and its potential to revolutionize the blockchain landscape. Now…",
+          "link": "https://coinsbench.com/unveiling-solana-part-2-deploying-solana-nodes-on-aws-fd1176047e3a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-19T14:39:58.000Z",
+          "wordCount": 2112,
+          "title": "Unveiling Solana: (Part 2) — Deploying Solana Nodes on AWS",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1111/1*_K18pqg5inNiYbjp3vvO4g.png"
+        },
+        {
+          "id": "https://medium.com/p/779472b86381",
+          "author": "Jack Klimov",
+          "description": "So, you’ve dipped your toes into the wild world of blockchain and built your first smart contract with Solidity. Kudos! But before you pop…",
+          "link": "https://coinsbench.com/how-to-stop-your-solidity-code-from-guzzling-gas-and-eth-779472b86381?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-19T14:39:35.000Z",
+          "wordCount": 2475,
+          "title": "How to Stop Your Solidity Code from Guzzling Gas (and ETH!)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*76mcFGGS00tEsbTQXVD2RQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/bbe46027861d",
+          "author": "Ranjithkumar C",
+          "description": "Solidity, the programming language for Ethereum smart contracts, offers a powerful tool for code organization and reusability: libraries. Libraries are collections of functions that can be integrated…",
+          "link": "https://coinsbench.com/building-blocks-of-smart-contracts-libraries-in-solidity-bbe46027861d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-19T14:39:29.000Z",
+          "wordCount": 2134,
+          "title": "Building Blocks of Smart Contracts: Libraries in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*A8CC4IDtxUEVicLM.jpg"
+        },
+        {
           "id": "https://medium.com/p/16738351736b",
           "author": "Umemba Victor (Crank)",
           "description": "Blockchain technology has revolutionized the way we handle financial transactions, and the world of decentralized finance (DeFi) is growing…",
@@ -118,46 +158,6 @@
           "wordCount": 2638,
           "title": "Uniswap V3 — Part 1. Concept & Concentrated Liquidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:700/0*N91nkLbnEHPf2NAw.png"
-        },
-        {
-          "id": "https://medium.com/p/e3ca6a18dbb5",
-          "author": "Murat Can Yüksel",
-          "description": "Web3/Blockchain front end development differs from traditional/web2 front end development in certain ways. Here we will look at how they differ in interacting with the back end, and how they handle…",
-          "link": "https://coinsbench.com/differences-in-traditional-and-web3-blockchain-front-end-development-e3ca6a18dbb5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-17T15:05:51.000Z",
-          "wordCount": 1945,
-          "title": "Differences in traditional and web3/blockchain front end development",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8fe061d024d4",
-          "author": "Mr Contract",
-          "description": "Flexible Fees and Multiple Pools",
-          "link": "https://coinsbench.com/uniswapv3-part-2-code-analysis-8fe061d024d4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-17T15:05:21.000Z",
-          "wordCount": 3075,
-          "title": "Uniswap V3 — Part 2: Code Analysis",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:695/0*bVXU6gdhBLXhzuN8.png"
-        },
-        {
-          "id": "https://medium.com/p/231744d3a17c",
-          "author": "Mr Contract",
-          "description": "1. Disclaimer",
-          "link": "https://coinsbench.com/about-eigenlayer-231744d3a17c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-17T15:05:18.000Z",
-          "wordCount": 8197,
-          "title": "About EigenLayer",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:423/0*0ZMXgKLqi3zQSen5"
-        },
-        {
-          "id": "https://medium.com/p/f9474cc9b563",
-          "author": "Mr Contract",
-          "description": "What is Pendle? Why the price is increased? …",
-          "link": "https://coinsbench.com/pendle-valuation-f9474cc9b563?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-17T15:05:12.000Z",
-          "wordCount": 3384,
-          "title": "Pendle valuation",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:815/1*xIZBOxR2elHnSGzBdFjRtw.png"
         }
       ]
     },
@@ -167,12 +167,22 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/8504cbb27d83",
+          "author": "Deniz Tutku",
+          "description": "Elon Musk’s social network X is not doing “enough” to prevent the spread of cryptocurrency fraud on the platform. Such an opinion was…",
+          "link": "https://medium.com/coinmonks/weekend-recap-solanas-loyalty-platform-buterin-backs-titok-ai-xlink-partners-fireblocks-and-8504cbb27d83?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-19T14:11:41.000Z",
+          "wordCount": 3120,
+          "title": "Weekend Recap: Solana’s Loyalty Platform, Buterin Backs TiTok AI, XLink Partners Fireblocks and…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LshnROCzvuMtwdO9Nepztw.jpeg"
+        },
+        {
           "id": "https://medium.com/p/ba7d6822ab6d",
           "author": "Cathrine Williams",
           "description": "In the dynamic landscape of digital entertainment, blockchain technology emerges as a revolutionary force, transforming the way games are…",
           "link": "https://medium.com/coinmonks/a-step-by-step-guide-to-developing-your-own-blockchain-game-like-pixels-ba7d6822ab6d?source=rss----721b17443fd5---4",
           "publishedOn": "2024-06-19T14:01:58.000Z",
-          "wordCount": 4897,
+          "wordCount": 4898,
           "title": "A Step-by-Step Guide to Developing Your Own Blockchain Game Like Pixels",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*XNnkNiysG6yNN-LKIF0f6Q.jpeg"
         },
@@ -182,7 +192,7 @@
           "description": "The rise of Non-Fungible Tokens (NFTs) has revolutionized the art world, providing artists with new avenues to showcase and monetize their…",
           "link": "https://medium.com/coinmonks/top-7-features-for-an-artist-focused-nft-marketplace-3dc968ecde1d?source=rss----721b17443fd5---4",
           "publishedOn": "2024-06-19T13:14:27.000Z",
-          "wordCount": 2041,
+          "wordCount": 2042,
           "title": "Top 7 Features for an Artist-Focused NFT Marketplace",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*VqQj4yZBpO5t2PLWEORcrw.jpeg"
         },
@@ -192,7 +202,7 @@
           "description": "Crypto tap to earn games development on Telegram represents a new frontier in the exciting online gaming landscape!",
           "link": "https://medium.com/coinmonks/crypto-tap-to-earn-games-development-on-telegram-c31e93fc55c4?source=rss----721b17443fd5---4",
           "publishedOn": "2024-06-19T13:14:25.000Z",
-          "wordCount": 2219,
+          "wordCount": 2220,
           "title": "Crypto Tap to Earn Games Development on Telegram",
           "imageUrl": null
         },
@@ -222,7 +232,7 @@
           "description": "Renzo has been making waves in the Ethereum ecosystem, and if you’re into crypto, you’ve probably heard the buzz. But what exactly is…",
           "link": "https://medium.com/coinmonks/renzo-secures-17-million-for-eth-restaking-expansion-deep-dive-into-renzo-2712d5691e19?source=rss----721b17443fd5---4",
           "publishedOn": "2024-06-19T13:14:02.000Z",
-          "wordCount": 7794,
+          "wordCount": 7795,
           "title": "Renzo Secures $17 Million for ETH Restaking Expansion: A Deep Dive into Renzo’s Liquid Restaking…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*dwEDtH8RI9WWmQ8P3b5KQg.png"
         },
@@ -242,7 +252,7 @@
           "description": "A Kucoin clone script is a ready-made software solution that replicates the core functionalities and features of the KuCoin exchange.",
           "link": "https://medium.com/coinmonks/kucoin-clone-script-kirhyip-d8910842a647?source=rss----721b17443fd5---4",
           "publishedOn": "2024-06-19T13:13:57.000Z",
-          "wordCount": 1956,
+          "wordCount": 1957,
           "title": "Kucoin Clone Script | KIRHYIP",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*duJzgkMv3ZD-ZOwCRYl7kA.png"
         },
@@ -255,16 +265,6 @@
           "wordCount": 3844,
           "title": "CryptoNews of the Week",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/0*Y8e0K2PxXgWIqKs5.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e97156263e20",
-          "author": "Crypto_Overt",
-          "description": "The whales profit-taking strategy",
-          "link": "https://medium.com/coinmonks/crypto-profit-taking-how-to-keep-what-you-earn-e97156263e20?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-19T13:13:52.000Z",
-          "wordCount": 1478,
-          "title": "Crypto Profit-Taking: How to Keep What You Earn",
-          "imageUrl": null
         }
       ]
     },
@@ -273,6 +273,46 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/dbe16888dac6",
+          "author": "Mr Contract",
+          "description": "Foundry is a framework for Ethereum smart contract development, similar to existing frameworks like Hardhat, Brownie, and Truffle. These…",
+          "link": "https://blog.blockmagnates.com/key-features-of-foundry-dbe16888dac6?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-06-19T14:31:41.000Z",
+          "wordCount": 4459,
+          "title": "Key Features of Foundry",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/0*gRoBuDo6veHl5CbX.png"
+        },
+        {
+          "id": "https://medium.com/p/204951ce9278",
+          "author": "Universal_Photon",
+          "description": "In this article, we’ll dive into two popular approaches many developers believe can help save on RPC consumption: batch requests and…",
+          "link": "https://blog.blockmagnates.com/batch-execution-and-multicall-contract-save-the-gas-with-users-204951ce9278?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-06-19T14:31:31.000Z",
+          "wordCount": 2041,
+          "title": "Batch execution And MultiCall Contract : Save the gas with users",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZIKQG18xknUNVrxW0D8Wpw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/ac9f817f10f0",
+          "author": "huzhanchi",
+          "description": "BackGround",
+          "link": "https://blog.blockmagnates.com/write-customized-mythrill-module-to-audit-phishing-contract-ac9f817f10f0?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-06-19T14:31:23.000Z",
+          "wordCount": 2906,
+          "title": "Write customized Mythrill module to audit Phishing contract",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1186/0*F4zg5jknvh2jXTNE"
+        },
+        {
+          "id": "https://medium.com/p/8f5b47751e45",
+          "author": "Suryansh Shrivastava",
+          "description": "Introduction",
+          "link": "https://blog.blockmagnates.com/erc-7521-core-concepts-explainer-8f5b47751e45?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-06-19T14:31:21.000Z",
+          "wordCount": 3277,
+          "title": "ERC 7521 Core Concepts Explainer",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8SvFr4b7f7ilzJ-APuYfjQ.png"
+        },
         {
           "id": "https://medium.com/p/a8851be593e4",
           "author": "Discoursefy",
@@ -332,16 +372,6 @@
           "wordCount": 1325,
           "title": "web3 cookbook for beginners",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KsqtOynjn6Ec87bxOYtzPg.png"
-        },
-        {
-          "id": "https://medium.com/p/c86f373e9593",
-          "author": "Ayo Seun Solomon",
-          "description": "Hardhat Hero: Write, Deploy, Verify Like a Hero",
-          "link": "https://blog.blockmagnates.com/how-to-write-and-test-a-smart-contract-using-the-hardhat-environment-and-the-ethers-js-library-c86f373e9593?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2024-05-23T16:16:39.000Z",
-          "wordCount": 5563,
-          "title": "How to write and test a smart contract using the Hardhat environment and the Ethers.js library",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*_R-89m-nbprDXBWFEpMaZw.jpeg"
         }
       ]
     },

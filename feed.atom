@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-19T14:12:23.075Z</id>
+    <id>urn:2024-06-19T15:14:52.596Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-19T14:12:23.075Z</updated>
+    <updated>2024-06-19T15:14:52.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Step-by-Step Guide to Setting Up an Auto Wallet]]></title>
+        <id>https://medium.com/p/6c8d478dd22f</id>
+        <link href="https://coinsbench.com/step-by-step-guide-to-setting-up-an-auto-wallet-6c8d478dd22f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-19T14:40:01.000Z</updated>
+        <summary type="html"><![CDATA[By Gerard King]]></summary>
+        <author>
+            <name>Aardvark Infinity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unveiling Solana: (Part 2) — Deploying Solana Nodes on AWS]]></title>
+        <id>https://medium.com/p/fd1176047e3a</id>
+        <link href="https://coinsbench.com/unveiling-solana-part-2-deploying-solana-nodes-on-aws-fd1176047e3a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-19T14:39:58.000Z</updated>
+        <summary type="html"><![CDATA[In the first part of this article, we explored the advantages of Solana and its potential to revolutionize the blockchain landscape. Now…]]></summary>
+        <author>
+            <name>shubham kumar singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Your Solidity Code from Guzzling Gas (and ETH!)]]></title>
+        <id>https://medium.com/p/779472b86381</id>
+        <link href="https://coinsbench.com/how-to-stop-your-solidity-code-from-guzzling-gas-and-eth-779472b86381?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-19T14:39:35.000Z</updated>
+        <summary type="html"><![CDATA[So, you’ve dipped your toes into the wild world of blockchain and built your first smart contract with Solidity. Kudos! But before you pop…]]></summary>
+        <author>
+            <name>Jack Klimov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Blocks of Smart Contracts: Libraries in Solidity]]></title>
+        <id>https://medium.com/p/bbe46027861d</id>
+        <link href="https://coinsbench.com/building-blocks-of-smart-contracts-libraries-in-solidity-bbe46027861d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-19T14:39:29.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, the programming language for Ethereum smart contracts, offers a powerful tool for code organization and reusability: libraries. Libraries are collections of functions that can be integrated…]]></summary>
+        <author>
+            <name>Ranjithkumar C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Features of Foundry]]></title>
+        <id>https://medium.com/p/dbe16888dac6</id>
+        <link href="https://blog.blockmagnates.com/key-features-of-foundry-dbe16888dac6?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-06-19T14:31:41.000Z</updated>
+        <summary type="html"><![CDATA[Foundry is a framework for Ethereum smart contract development, similar to existing frameworks like Hardhat, Brownie, and Truffle. These…]]></summary>
+        <author>
+            <name>Mr Contract</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Batch execution And MultiCall Contract : Save the gas with users]]></title>
+        <id>https://medium.com/p/204951ce9278</id>
+        <link href="https://blog.blockmagnates.com/batch-execution-and-multicall-contract-save-the-gas-with-users-204951ce9278?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-06-19T14:31:31.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll dive into two popular approaches many developers believe can help save on RPC consumption: batch requests and…]]></summary>
+        <author>
+            <name>Universal_Photon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write customized Mythrill module to audit Phishing contract]]></title>
+        <id>https://medium.com/p/ac9f817f10f0</id>
+        <link href="https://blog.blockmagnates.com/write-customized-mythrill-module-to-audit-phishing-contract-ac9f817f10f0?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-06-19T14:31:23.000Z</updated>
+        <summary type="html"><![CDATA[BackGround]]></summary>
+        <author>
+            <name>huzhanchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERC 7521 Core Concepts Explainer]]></title>
+        <id>https://medium.com/p/8f5b47751e45</id>
+        <link href="https://blog.blockmagnates.com/erc-7521-core-concepts-explainer-8f5b47751e45?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-06-19T14:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Suryansh Shrivastava</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend Recap: Solana’s Loyalty Platform, Buterin Backs TiTok AI, XLink Partners Fireblocks and…]]></title>
+        <id>https://medium.com/p/8504cbb27d83</id>
+        <link href="https://medium.com/coinmonks/weekend-recap-solanas-loyalty-platform-buterin-backs-titok-ai-xlink-partners-fireblocks-and-8504cbb27d83?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-19T14:11:41.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk’s social network X is not doing “enough” to prevent the spread of cryptocurrency fraud on the platform. Such an opinion was…]]></summary>
+        <author>
+            <name>Deniz Tutku</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Step-by-Step Guide to Developing Your Own Blockchain Game Like Pixels]]></title>
         <id>https://medium.com/p/ba7d6822ab6d</id>
@@ -98,16 +188,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Profit-Taking: How to Keep What You Earn]]></title>
-        <id>https://medium.com/p/e97156263e20</id>
-        <link href="https://medium.com/coinmonks/crypto-profit-taking-how-to-keep-what-you-earn-e97156263e20?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-19T13:13:52.000Z</updated>
-        <summary type="html"><![CDATA[The whales profit-taking strategy]]></summary>
-        <author>
-            <name>Crypto_Overt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vault inflation attack]]></title>
         <id>https://cryptomarketpool.com/?p=302582</id>
         <link href="https://cryptomarketpool.com/vault-inflation-attack/"/>
@@ -174,46 +254,6 @@ The post Vault inflation attack appeared first on Crypto Market Pool.]]></summar
         <link href="https://coinsbench.com/uniswap-v3-part-1-concept-cpmm-0db9872d60e6?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-06-17T15:05:53.000Z</updated>
         <summary type="html"><![CDATA[Uniswap]]></summary>
-        <author>
-            <name>Mr Contract</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Differences in traditional and web3/blockchain front end development]]></title>
-        <id>https://medium.com/p/e3ca6a18dbb5</id>
-        <link href="https://coinsbench.com/differences-in-traditional-and-web3-blockchain-front-end-development-e3ca6a18dbb5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-17T15:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Web3/Blockchain front end development differs from traditional/web2 front end development in certain ways. Here we will look at how they differ in interacting with the back end, and how they handle…]]></summary>
-        <author>
-            <name>Murat Can Yüksel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap V3 — Part 2: Code Analysis]]></title>
-        <id>https://medium.com/p/8fe061d024d4</id>
-        <link href="https://coinsbench.com/uniswapv3-part-2-code-analysis-8fe061d024d4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-17T15:05:21.000Z</updated>
-        <summary type="html"><![CDATA[Flexible Fees and Multiple Pools]]></summary>
-        <author>
-            <name>Mr Contract</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[About EigenLayer]]></title>
-        <id>https://medium.com/p/231744d3a17c</id>
-        <link href="https://coinsbench.com/about-eigenlayer-231744d3a17c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-17T15:05:18.000Z</updated>
-        <summary type="html"><![CDATA[1. Disclaimer]]></summary>
-        <author>
-            <name>Mr Contract</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pendle valuation]]></title>
-        <id>https://medium.com/p/f9474cc9b563</id>
-        <link href="https://coinsbench.com/pendle-valuation-f9474cc9b563?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-17T15:05:12.000Z</updated>
-        <summary type="html"><![CDATA[What is Pendle? Why the price is increased? …]]></summary>
         <author>
             <name>Mr Contract</name>
         </author>
@@ -309,16 +349,6 @@ The post The Kitten Roars Again – The Full Story of Keith Gill appeared first
 The post How Fully Homomorphic Encryption can create a new Internet standard with privacy at its core appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to write and test a smart contract using the Hardhat environment and the Ethers.js library]]></title>
-        <id>https://medium.com/p/c86f373e9593</id>
-        <link href="https://blog.blockmagnates.com/how-to-write-and-test-a-smart-contract-using-the-hardhat-environment-and-the-ethers-js-library-c86f373e9593?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-05-23T16:16:39.000Z</updated>
-        <summary type="html"><![CDATA[Hardhat Hero: Write, Deploy, Verify Like a Hero]]></summary>
-        <author>
-            <name>Ayo Seun Solomon</name>
         </author>
     </entry>
 </feed>
