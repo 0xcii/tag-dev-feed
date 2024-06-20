@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-20T20:14:06.541Z</id>
+    <id>urn:2024-06-20T21:14:31.828Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-20T20:14:06.541Z</updated>
+    <updated>2024-06-20T21:14:31.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[mstore and mload functions in Solidity]]></title>
+        <id>https://cryptomarketpool.com/?p=304429</id>
+        <link href="https://cryptomarketpool.com/mstore-and-mload-functions-in-solidity/"/>
+        <updated>2024-06-20T20:43:48.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, mstore and mload are crucial functions for handling low-level memory operations. These functions play a vital role in…
+The post mstore and mload functions in Solidity appeared first on Crypto Market Pool.]]></summary>
+        <author>
+            <name>Crypto Market Pool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Rise of Decentralized Exchanges: The Future of Secure and Transparent Crypto Trading]]></title>
         <id>https://medium.com/p/48430c70152a</id>
