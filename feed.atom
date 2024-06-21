@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-21T08:17:32.004Z</id>
+    <id>urn:2024-06-21T09:14:54.367Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-21T08:17:32.004Z</updated>
+    <updated>2024-06-21T09:14:54.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fraud Alert: Fake recruiters on GitHub and LinkedIn]]></title>
+        <id>https://medium.com/p/68d0d3bf297d</id>
+        <link href="https://medium.com/coinmonks/fake-recruiters-in-github-68d0d3bf297d?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-21T08:34:17.000Z</updated>
+        <summary type="html"><![CDATA[This investigation reveals a possible fraud campaign involving fake recruiters on GitHub, even using LinkedIn Premium accounts]]></summary>
+        <author>
+            <name>Heiner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[mstore and mload functions in Solidity]]></title>
         <id>https://cryptomarketpool.com/?p=304429</id>
@@ -107,16 +117,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[When I launched HeroBot.app, the initial excitement was palpable. The web3 space was burgeoning with innovation, and it felt like a new…]]></summary>
         <author>
             <name>Ayodeji Alo (Lore)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guide to Layer-2 smart contracts]]></title>
-        <id>https://medium.com/p/86a89591fd81</id>
-        <link href="https://medium.com/coinmonks/guide-to-layer-2-smart-contracts-86a89591fd81?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-20T11:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Layer 2 has revolutionized Ethereum with lightning-fast transactions and low costs. Ethereum pioneered smart contracts and dApps — today…]]></summary>
-        <author>
-            <name>EarnBIT</name>
         </author>
     </entry>
     <entry>
