@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-23T17:11:53.596Z</id>
+    <id>urn:2024-06-23T18:16:26.682Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-23T17:11:53.596Z</updated>
+    <updated>2024-06-23T18:16:26.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -128,26 +128,6 @@ The post mstore and mload functions in Solidity appeared first on Crypto Market 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[### Introduction to Hardhat: Simplifying Smart Contract and Full Stack Blockchain Development]]></title>
-        <id>https://medium.com/p/5de64408bf24</id>
-        <link href="https://coinsbench.com/introduction-to-hardhat-simplifying-smart-contract-and-full-stack-blockchain-development-5de64408bf24?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-20T10:24:55.000Z</updated>
-        <summary type="html"><![CDATA[As the blockchain ecosystem continues to evolve, the tools and frameworks supporting developers are also advancing rapidly. Among these…]]></summary>
-        <author>
-            <name>Joseph David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[**Why Hardhat is the Best Tool for Beginner Full-Stack Web3 Development**]]></title>
-        <id>https://medium.com/p/94b57bf7f28a</id>
-        <link href="https://coinsbench.com/why-hardhat-is-the-best-tool-for-beginner-full-stack-web3-development-94b57bf7f28a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-20T10:24:50.000Z</updated>
-        <summary type="html"><![CDATA[Hey there, fellow Web3 enthusiasts!]]></summary>
-        <author>
-            <name>Joseph David</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Build a Bitcoin Nerd Miner on a Microcontroller]]></title>
         <id>https://cryptomarketpool.com/?p=303172</id>
         <link href="https://cryptomarketpool.com/build-a-bitcoin-nerd-miner-on-a-microcontroller/"/>
@@ -156,86 +136,6 @@ The post mstore and mload functions in Solidity appeared first on Crypto Market 
 The post Build a Bitcoin Nerd Miner on a Microcontroller appeared first on Crypto Market Pool.]]></summary>
         <author>
             <name>Crypto Market Pool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step-by-Step Guide to Setting Up an Auto Wallet]]></title>
-        <id>https://medium.com/p/6c8d478dd22f</id>
-        <link href="https://coinsbench.com/step-by-step-guide-to-setting-up-an-auto-wallet-6c8d478dd22f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-19T14:40:01.000Z</updated>
-        <summary type="html"><![CDATA[By Gerard King]]></summary>
-        <author>
-            <name>Aardvark Infinity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unveiling Solana: (Part 2) — Deploying Solana Nodes on AWS]]></title>
-        <id>https://medium.com/p/fd1176047e3a</id>
-        <link href="https://coinsbench.com/unveiling-solana-part-2-deploying-solana-nodes-on-aws-fd1176047e3a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-19T14:39:58.000Z</updated>
-        <summary type="html"><![CDATA[In the first part of this article, we explored the advantages of Solana and its potential to revolutionize the blockchain landscape. Now…]]></summary>
-        <author>
-            <name>shubham kumar singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Stop Your Solidity Code from Guzzling Gas (and ETH!)]]></title>
-        <id>https://medium.com/p/779472b86381</id>
-        <link href="https://coinsbench.com/how-to-stop-your-solidity-code-from-guzzling-gas-and-eth-779472b86381?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-19T14:39:35.000Z</updated>
-        <summary type="html"><![CDATA[So, you’ve dipped your toes into the wild world of blockchain and built your first smart contract with Solidity. Kudos! But before you pop…]]></summary>
-        <author>
-            <name>Jack Klimov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Blocks of Smart Contracts: Libraries in Solidity]]></title>
-        <id>https://medium.com/p/bbe46027861d</id>
-        <link href="https://coinsbench.com/building-blocks-of-smart-contracts-libraries-in-solidity-bbe46027861d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-19T14:39:29.000Z</updated>
-        <summary type="html"><![CDATA[Solidity, the programming language for Ethereum smart contracts, offers a powerful tool for code organization and reusability: libraries. Libraries are collections of functions that can be integrated…]]></summary>
-        <author>
-            <name>Ranjithkumar C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Features of Foundry]]></title>
-        <id>https://medium.com/p/dbe16888dac6</id>
-        <link href="https://blog.blockmagnates.com/key-features-of-foundry-dbe16888dac6?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-19T14:31:41.000Z</updated>
-        <summary type="html"><![CDATA[Foundry is a framework for Ethereum smart contract development, similar to existing frameworks like Hardhat, Brownie, and Truffle. These…]]></summary>
-        <author>
-            <name>Mr Contract</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Batch execution And MultiCall Contract : Save the gas with users]]></title>
-        <id>https://medium.com/p/204951ce9278</id>
-        <link href="https://blog.blockmagnates.com/batch-execution-and-multicall-contract-save-the-gas-with-users-204951ce9278?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-19T14:31:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll dive into two popular approaches many developers believe can help save on RPC consumption: batch requests and…]]></summary>
-        <author>
-            <name>Universal_Photon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Write customized Mythrill module to audit Phishing contract]]></title>
-        <id>https://medium.com/p/ac9f817f10f0</id>
-        <link href="https://blog.blockmagnates.com/write-customized-mythrill-module-to-audit-phishing-contract-ac9f817f10f0?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-19T14:31:23.000Z</updated>
-        <summary type="html"><![CDATA[BackGround]]></summary>
-        <author>
-            <name>huzhanchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERC 7521 Core Concepts Explainer]]></title>
-        <id>https://medium.com/p/8f5b47751e45</id>
-        <link href="https://blog.blockmagnates.com/erc-7521-core-concepts-explainer-8f5b47751e45?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-19T14:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Suryansh Shrivastava</name>
         </author>
     </entry>
     <entry>
@@ -250,46 +150,6 @@ The post Vault inflation attack appeared first on Crypto Market Pool.]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Simple Fixed Deposit Application Using Solidity Smart Contracts]]></title>
-        <id>https://medium.com/p/16738351736b</id>
-        <link href="https://coinsbench.com/building-a-simple-fixed-deposit-application-using-solidity-smart-contracts-16738351736b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-17T15:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology has revolutionized the way we handle financial transactions, and the world of decentralized finance (DeFi) is growing…]]></summary>
-        <author>
-            <name>Umemba Victor (Crank)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Storage, Memory, and Calldata in Solidity]]></title>
-        <id>https://medium.com/p/46484c8c2bbe</id>
-        <link href="https://coinsbench.com/understanding-storage-memory-and-calldata-in-solidity-46484c8c2bbe?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-17T15:06:21.000Z</updated>
-        <summary type="html"><![CDATA[In Solidity, a language used for writing smart contracts on the Ethereum blockchain, understanding the different data locations is crucial…]]></summary>
-        <author>
-            <name>Naresh Mohanraj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning to Call Smart Contract Functions with Web3.js]]></title>
-        <id>https://medium.com/p/2744f7a80e9e</id>
-        <link href="https://coinsbench.com/learning-to-call-smart-contract-functions-with-web3-js-2744f7a80e9e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-17T15:06:14.000Z</updated>
-        <summary type="html"><![CDATA[This article aims to demonstrate the use of web3.js, a JavaScript library for interacting with smart contracts deployed on the Ethereum…]]></summary>
-        <author>
-            <name>Umemba Victor (Crank)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comprehending the Fundamentals of Solidity: A Concise Guide — An Additional Treasure for Your…]]></title>
-        <id>https://medium.com/p/5ec03a984fa3</id>
-        <link href="https://coinsbench.com/comprehending-the-fundamentals-of-solidity-a-concise-guide-an-additional-treasure-for-your-5ec03a984fa3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-17T15:06:10.000Z</updated>
-        <summary type="html"><![CDATA[Brief Overview of Solidity]]></summary>
-        <author>
-            <name>Umemba Victor (Crank)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Real world assets on Ethereum]]></title>
         <id>https://cryptomarketpool.com/?p=299593</id>
         <link href="https://cryptomarketpool.com/real-world-assets-on-ethereum/"/>
@@ -301,46 +161,6 @@ The post Real world assets on Ethereum appeared first on Crypto Market Pool.]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Blockchain Projects: The Basics of Blockchain and Cryptocurrencies]]></title>
-        <id>https://medium.com/p/a8851be593e4</id>
-        <link href="https://blog.blockmagnates.com/building-blockchain-projects-the-basics-of-blockchain-and-cryptocurrencies-a8851be593e4?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-14T21:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain and cryptocurrencies have captured the imagination of tech enthusiasts and innovators worldwide. If you’re curious about how to…]]></summary>
-        <author>
-            <name>Discoursefy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating your own NFT — Part I]]></title>
-        <id>https://medium.com/p/d202afd73450</id>
-        <link href="https://blog.blockmagnates.com/creating-your-own-nft-part-i-d202afd73450?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-10T18:31:48.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will go through the entire process of creating an NFT form start to finish and publishing it to OpenSea.]]></summary>
-        <author>
-            <name>Jo Vinkenroye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating your own NFT — Part II]]></title>
-        <id>https://medium.com/p/4c993e5802d9</id>
-        <link href="https://blog.blockmagnates.com/creating-your-own-nft-part-ii-4c993e5802d9?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-10T18:31:45.000Z</updated>
-        <summary type="html"><![CDATA[In the last post, we went through the generation of the images for the NFT. In this post we will take a look at how to generate metadata…]]></summary>
-        <author>
-            <name>Jo Vinkenroye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing a Voting Smart Contract on Ethereum Blockchain — Part 1]]></title>
-        <id>https://medium.com/p/5b96e5c9bb4a</id>
-        <link href="https://blog.blockmagnates.com/implementing-a-voting-smart-contract-on-ethereum-blockchain-part-1-5b96e5c9bb4a?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-08T10:37:10.000Z</updated>
-        <summary type="html"><![CDATA[In a previous post, I discussed the Applications of blockchain technology beyond cryptocurrency. Among these applications, I highlighted…]]></summary>
-        <author>
-            <name>Ayo Omotayo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Kitten Roars Again – The Full Story of Keith Gill]]></title>
         <id>https://www.cryptomaton.org/?p=1712</id>
         <link href="https://www.cryptomaton.org/2024/06/07/the-kitten-roars-again-the-full-story-of-keith-gill/"/>
@@ -349,26 +169,6 @@ The post Real world assets on Ethereum appeared first on Crypto Market Pool.]]><
 The post The Kitten Roars Again – The Full Story of Keith Gill appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking Cryptography: How Keccak-256 and Ed25519 Power Secure Blockchain Technology”]]></title>
-        <id>https://medium.com/p/d673f06b1b0b</id>
-        <link href="https://blog.blockmagnates.com/unlocking-cryptography-how-keccak-256-and-ed25519-power-secure-blockchain-technology-d673f06b1b0b?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-03T10:58:53.000Z</updated>
-        <summary type="html"><![CDATA[Cryptography, the approach of writing and solving codes, is at the heart of blockchain technology — a system that is revolutionizing…]]></summary>
-        <author>
-            <name>chinmaynawkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[web3 cookbook for beginners]]></title>
-        <id>https://medium.com/p/a8c3b792fc3b</id>
-        <link href="https://blog.blockmagnates.com/web3-cookbook-for-beginners-a8c3b792fc3b?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-05-29T16:02:30.000Z</updated>
-        <summary type="html"><![CDATA[In the rapidly evolving world of digital assets, understanding cryptocurrency, blockchain technology, and Non-Fungible Tokens (NFTs) is…]]></summary>
-        <author>
-            <name>Harishiv Singh</name>
         </author>
     </entry>
     <entry>
