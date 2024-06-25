@@ -1,110 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-25T06:18:45.075Z</id>
+    <id>urn:2024-06-25T07:12:51.472Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-25T06:18:45.075Z</updated>
+    <updated>2024-06-25T07:12:51.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Melinda’s Big Move]]></title>
-        <id>https://medium.com/p/d34e169a48ab</id>
-        <link href="https://medium.com/coinmonks/melindas-big-move-d34e169a48ab?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-24T15:45:13.000Z</updated>
-        <summary type="html"><![CDATA[A major milestone towards decentralized impact investing
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Melissa Menke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your little wiki in Web3 finance!]]></title>
-        <id>https://medium.com/p/4d98baf42d2b</id>
-        <link href="https://medium.com/coinmonks/your-little-wiki-in-web3-finance-4d98baf42d2b?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-24T15:45:11.000Z</updated>
-        <summary type="html"><![CDATA[The Future of Digital Finance: Web3 Payments Set to Revolutionize the Decade Ahead]]></summary>
-        <author>
-            <name>Entylabs Official (enterapp.io)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Dive into Thruster Finance: Earning Rewards with Thruster Credits]]></title>
-        <id>https://medium.com/p/9b319440d8e7</id>
-        <link href="https://medium.com/coinmonks/deep-dive-into-thruster-finance-earning-rewards-with-thruster-credits-9b319440d8e7?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-24T15:45:09.000Z</updated>
-        <summary type="html"><![CDATA[Thruster Finance isn’t just another DeFi platform; it’s a gateway to earning rewards while growing your crypto portfolio. This article…]]></summary>
-        <author>
-            <name>Brainstorm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Token Unlocks and Upcoming L2 Blockchain Events]]></title>
-        <id>https://medium.com/p/8ed3b022e0b4</id>
-        <link href="https://medium.com/coinmonks/token-unlocks-and-upcoming-l2-blockchain-events-8ed3b022e0b4?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-24T15:45:09.000Z</updated>
-        <summary type="html"><![CDATA[Token unlocks represent a significant event in the lifecycle of a cryptocurrency. Typically, these tokens are initially locked to ensure…]]></summary>
-        <author>
-            <name>DropsTab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Phenomenon of Pepe in Cryptocurrency]]></title>
-        <id>https://medium.com/p/5aa62a9a9d6f</id>
-        <link href="https://medium.com/coinmonks/the-phenomenon-of-pepe-in-cryptocurrency-5aa62a9a9d6f?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-24T15:45:06.000Z</updated>
-        <summary type="html"><![CDATA[In recent times, the intersection of meme culture and cryptocurrency has given rise to intriguing phenomena. Among them, the emergence of…]]></summary>
-        <author>
-            <name>DropsTab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Model Training: Leveraging Decentralized Computing Power]]></title>
-        <id>https://medium.com/p/8a931d3282a2</id>
-        <link href="https://medium.com/coinmonks/ai-model-training-leveraging-decentralized-computing-power-8a931d3282a2?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-24T15:45:02.000Z</updated>
-        <summary type="html"><![CDATA[Progress in Artificial Intelligence (AI) is revolutionizing different industries, like healthcare, finance, transportation, and…]]></summary>
-        <author>
-            <name>DcentAI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Address Lookup Tables in Solana: A Comprehensive Guide]]></title>
-        <id>https://medium.com/p/0d506fe6f70f</id>
-        <link href="https://medium.com/coinmonks/using-address-lookup-tables-in-solana-a-comprehensive-guide-0d506fe6f70f?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-24T15:44:59.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Shubh Kesharwani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Zero-Knowledge Proofs: Encoding Programs into zk-SNARKs]]></title>
-        <id>https://medium.com/p/843aa121a071</id>
-        <link href="https://medium.com/coinmonks/understanding-zero-knowledge-proofs-encoding-programs-into-zk-snarks-843aa121a071?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-24T13:24:29.000Z</updated>
-        <summary type="html"><![CDATA[What are Zero-Knowledge Proofs?
+        <title type="html"><![CDATA[Implementing an Arithmetic Circuit Compiler in Rust]]></title>
+        <id>https://medium.com/p/ea8cfd702bd2</id>
+        <link href="https://medium.com/coinmonks/implementing-an-arithmetic-circuit-compiler-in-rust-ea8cfd702bd2?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-25T06:53:48.000Z</updated>
+        <summary type="html"><![CDATA[Implementing an arithmetic circuit compiler in Rust involves creating a system that can parse a polynomial expression, construct an…
 Continue reading on Coinmonks »]]></summary>
         <author>
             <name>Luis Soares</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BlockccCrypto World Weekly Overview 23/06/2024]]></title>
-        <id>https://medium.com/p/a5ccf83a5d77</id>
-        <link href="https://medium.com/coinmonks/blockcccrypto-world-weekly-overview-23-06-2024-a5ccf83a5d77?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-24T13:24:09.000Z</updated>
-        <summary type="html"><![CDATA[It has been one more week of destructive heavy rains and heatwaves, horrific war acts, alarming reports on looming financial crises, and…]]></summary>
+        <title type="html"><![CDATA[How to trade SUPPORT and RESISTANCE levels]]></title>
+        <id>https://medium.com/p/a4dd302377ab</id>
+        <link href="https://medium.com/coinmonks/how-to-trade-support-and-resistance-levels-a4dd302377ab?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-25T06:53:41.000Z</updated>
+        <summary type="html"><![CDATA[Today’s FTSE gave a perfect sell signal shortly after the open.
+Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Observers.com</name>
+            <name>EasyTrader</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Base Chain Supercharges Your White-label DEX?]]></title>
-        <id>https://medium.com/p/fe651a0161ca</id>
-        <link href="https://medium.com/coinmonks/how-base-chain-supercharges-your-white-label-dex-fe651a0161ca?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-24T13:06:38.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized exchanges (DEXs) have emerged as pivotal infrastructure within the blockchain ecosystem, offering a peer-to-peer alternative…]]></summary>
+        <title type="html"><![CDATA[How AI is Revolutionizing Crypto Trading: Unlocking the Secrets of Automated Success]]></title>
+        <id>https://medium.com/p/fc5da28ac845</id>
+        <link href="https://medium.com/coinmonks/how-ai-is-revolutionizing-crypto-trading-unlocking-the-secrets-of-automated-success-fc5da28ac845?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-25T06:53:40.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence (AI) is revolutionizing many fields, and cryptocurrency trading is no exception. The fast-paced and unpredictable…]]></summary>
         <author>
-            <name>Cathrine Williams</name>
+            <name>Faizan Idrishi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Becomes the World’s Most Valuable Publicly Traded Company]]></title>
+        <id>https://medium.com/p/ddca60395f86</id>
+        <link href="https://medium.com/coinmonks/nvidia-becomes-the-worlds-most-valuable-publicly-traded-company-ddca60395f86?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-25T06:53:32.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia, a leading player in graphics processing and AI, supplies around 80% of the AI chips used in advanced data centers. The company has…]]></summary>
+        <author>
+            <name>CIFDAQ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Financial Stability Board Calls for Unified Global Crypto Regulation to Prevent Market Exploitation]]></title>
+        <id>https://medium.com/p/25e291cd71f6</id>
+        <link href="https://medium.com/coinmonks/financial-stability-board-calls-for-unified-global-crypto-regulation-to-prevent-market-exploitation-25e291cd71f6?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-25T06:53:27.000Z</updated>
+        <summary type="html"><![CDATA[The Financial Stability Board (FSB) held its Plenary meeting in Toronto on June 14, focusing on critical financial stability issues. Key…]]></summary>
+        <author>
+            <name>CIFDAQ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salvadoran Government Proposes Reforms to Bitcoin Banking Laws]]></title>
+        <id>https://medium.com/p/68ae879ad7dd</id>
+        <link href="https://medium.com/coinmonks/salvadoran-government-proposes-reforms-to-bitcoin-banking-laws-68ae879ad7dd?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-25T06:53:23.000Z</updated>
+        <summary type="html"><![CDATA[The Salvadoran government has unveiled a new legislative initiative aimed at integrating Bitcoin and other cryptocurrencies into its…]]></summary>
+        <author>
+            <name>CIFDAQ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are You Ready for Presidential Bitcoin Pumps?]]></title>
+        <id>https://medium.com/p/0c46c0acf316</id>
+        <link href="https://medium.com/coinmonks/are-you-ready-for-presidential-bitcoin-pumps-0c46c0acf316?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-25T06:53:18.000Z</updated>
+        <summary type="html"><![CDATA[What is Bitcoin? Bigger than you can ever imagine]]></summary>
+        <author>
+            <name>LIVING ON THE BITCOIN STANDARD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Court Declares Crypto Transactions Legal in India]]></title>
+        <id>https://medium.com/p/e726f1c6a4ec</id>
+        <link href="https://medium.com/coinmonks/high-court-declares-crypto-transactions-legal-in-india-e726f1c6a4ec?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-25T06:53:13.000Z</updated>
+        <summary type="html"><![CDATA[The Orissa High Court has issued a groundbreaking ruling, declaring that cryptocurrency dealings are not illegal under Indian law. This…]]></summary>
+        <author>
+            <name>CIFDAQ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Vows to Be The ‘Crypto President’]]></title>
+        <id>https://medium.com/p/d159e6067d32</id>
+        <link href="https://medium.com/coinmonks/trump-vows-to-be-the-crypto-president-d159e6067d32?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-25T06:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Former United States President Donald Trump is amplifying his support for cryptocurrency as a central theme in his 2024 presidential…]]></summary>
+        <author>
+            <name>CIFDAQ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Mining on Your Phone with POCKETFI on Telegram]]></title>
+        <id>https://medium.com/p/3692ccad8476</id>
+        <link href="https://medium.com/coinmonks/crypto-mining-on-your-phone-with-pocketfi-on-telegram-3692ccad8476?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-25T06:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Telegram apps that offer crypto mining provide users with the ability to mine cryptocurrencies directly from their mobile devices through…]]></summary>
+        <author>
+            <name>DABOTMON NUWZ</name>
         </author>
     </entry>
     <entry>
