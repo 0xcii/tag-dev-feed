@@ -31,7 +31,7 @@
           "description": "In Solidity, mstore and mload are crucial functions for handling low-level memory operations. These functions play a vital role in…\nThe post mstore and mload functions in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/mstore-and-mload-functions-in-solidity/",
           "publishedOn": "2024-06-20T20:43:48.000Z",
-          "wordCount": 3925,
+          "wordCount": 3930,
           "title": "mstore and mload functions in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -41,7 +41,7 @@
           "description": "A vault inflation attack is a malicious tactic that exploits a smart contract’s vulnerability, causing an excessive increase in the…\nThe post Vault inflation attack appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/vault-inflation-attack/",
           "publishedOn": "2024-06-18T22:22:18.000Z",
-          "wordCount": 3808,
+          "wordCount": 3812,
           "title": "Vault inflation attack",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -51,7 +51,7 @@
           "description": "Creating Real-World Assets on Ethereum: A Comprehensive Guide to Solidity In recent years, the Ethereum blockchain has gained significant traction…\nThe post Real world assets on Ethereum appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/real-world-assets-on-ethereum/",
           "publishedOn": "2024-06-17T12:59:30.000Z",
-          "wordCount": 4296,
+          "wordCount": 4292,
           "title": "Real world assets on Ethereum",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2024/06/image.png"
         }
@@ -108,16 +108,6 @@
           "wordCount": 1464,
           "title": "Smart Contract Vulnerabilities Unveiled: Access Control Issues",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:780/0*E0tmq2TEx8RLnnGm.png"
-        },
-        {
-          "id": "https://medium.com/p/7492df494651",
-          "author": "Mustafa Akbulut",
-          "description": "Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of…",
-          "link": "https://coinsbench.com/smart-contract-analysis-tools-7492df494651?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-26T10:35:53.000Z",
-          "wordCount": 1512,
-          "title": "Smart Contract Analysis Tools",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1096/0*NQ8BtvB8lEP5qAm2"
         },
         {
           "id": "https://medium.com/p/75e9a1d4311c",
@@ -188,6 +178,16 @@
           "wordCount": 2112,
           "title": "Unveiling Solana: (Part 2) — Deploying Solana Nodes on AWS",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1111/1*_K18pqg5inNiYbjp3vvO4g.png"
+        },
+        {
+          "id": "https://medium.com/p/779472b86381",
+          "author": "Jack Klimov",
+          "description": "So, you’ve dipped your toes into the wild world of blockchain and built your first smart contract with Solidity. Kudos! But before you pop…",
+          "link": "https://coinsbench.com/how-to-stop-your-solidity-code-from-guzzling-gas-and-eth-779472b86381?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-19T14:39:35.000Z",
+          "wordCount": 2449,
+          "title": "How to Stop Your Solidity Code from Guzzling Gas (and ETH!)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*76mcFGGS00tEsbTQXVD2RQ.jpeg"
         }
       ]
     },
@@ -197,104 +197,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/df01e1c41373",
-          "author": "WFH BZ",
-          "description": "In the rapidly evolving world of decentralized finance (DeFi), a new player has emerged, poised to revolutionize the way decentralized…",
-          "link": "https://medium.com/coinmonks/empowering-dexes-through-modularity-algebra-integrals-vision-for-the-next-generation-of-defi-df01e1c41373?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-26T06:39:00.000Z",
-          "wordCount": 3378,
-          "title": "Empowering DEXes Through Modularity: Algebra Integral’s Vision for the Next Generation of DeFi",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:765/1*Aa81esuXFXhbRmHAu33ALg.jpeg"
+          "id": "https://medium.com/p/406df02d8bb5",
+          "author": "NEFTURE SECURITY I Blockchain Security",
+          "description": "MEV bots preying on liquidity providers resulted in a staggering loss of $500 million in 2023.",
+          "link": "https://medium.com/coinmonks/frontrunning-understanding-mev-attacks-406df02d8bb5?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-26T11:44:14.000Z",
+          "wordCount": 2919,
+          "title": "Frontrunning: Understanding MEV Attacks",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uYlxLYhy-lLxO-h77JNfCg.png"
         },
         {
-          "id": "https://medium.com/p/e113d3f16eb4",
-          "author": "DABOTMON NUWZ",
-          "description": "Why is finding a DEFI MEME PLATFORM on Solana important right now? In the rapidly evolving world of decentralized finance (DeFi), the…",
-          "link": "https://medium.com/coinmonks/trojan-is-the-ultimate-defi-meme-platform-for-solana-e113d3f16eb4?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-26T06:38:58.000Z",
-          "wordCount": 8383,
-          "title": "TROJAN is the ULTIMATE DEFI MEME PLATFORM For SOLANA",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rm9S4L8PvtO2g9aMHXvEhA.jpeg"
+          "id": "https://medium.com/p/2481bbcf363c",
+          "author": "Georgi Plamenov",
+          "description": "Ethereum is the go-to blockchain platform for smart contracts, and it uses different storage methods to handle data effectively. You’ve got…",
+          "link": "https://medium.com/coinmonks/understanding-ethereum-storage-storage-memory-calldata-and-transient-storage-2481bbcf363c?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-26T11:42:11.000Z",
+          "wordCount": 2372,
+          "title": "Understanding Ethereum Storage: Storage, Memory, Calldata, and Transient Storage",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YugYn6GGP32xCr9EK8ucog.jpeg"
         },
         {
-          "id": "https://medium.com/p/99213c81c3e8",
+          "id": "https://medium.com/p/2680622ecba2",
+          "author": "Marshallalllen",
+          "description": "The NFT marketplace business model stands at the forefront of this groundbreaking movement, providing a dynamic platform for artists…",
+          "link": "https://medium.com/coinmonks/nft-marketplace-business-model-2680622ecba2?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-26T11:42:08.000Z",
+          "wordCount": 8543,
+          "title": "A Deep Dive into NFT Marketplace Business Models: Your Ultimate Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*q1F3Kp8I-bp06CQsfdyeQQ.png"
+        },
+        {
+          "id": "https://medium.com/p/e07d0ddc49d6",
           "author": "Mustafa Akbulut",
-          "description": "As blockchain technology evolves, smart contracts have become a cornerstone of decentralized applications. However, these contracts are…",
-          "link": "https://medium.com/coinmonks/smart-contract-vulnerabilities-unveiled-integer-overflow-and-underflow-99213c81c3e8?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-26T06:38:55.000Z",
-          "wordCount": 1641,
-          "title": "Smart Contract Vulnerabilities Unveiled: Integer Overflow and Underflow",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*sG1eRtKCeSmqLeXf.png"
+          "description": "Denial of Service (DoS) attacks are a significant threat to smart contracts, as they can disrupt the normal functioning of decentralized…",
+          "link": "https://medium.com/coinmonks/smart-contract-vulnerabilities-unveiled-denial-of-service-dos-attacks-e07d0ddc49d6?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-26T11:41:17.000Z",
+          "wordCount": 1909,
+          "title": "Smart Contract Vulnerabilities Unveiled: Denial of Service (DoS) Attacks",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*A5NapCC1HUgtZsUtVX7ikA.png"
         },
         {
-          "id": "https://medium.com/p/02c1682ecb9d",
-          "author": "Ether Crunch",
-          "description": "Blockchain interoperability is one of the major issues with blockchains; they are unable to communicate with other blockchains. However, to…",
-          "link": "https://medium.com/coinmonks/achieving-interoperability-on-blockchains-02c1682ecb9d?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-26T06:38:53.000Z",
-          "wordCount": 1852,
-          "title": "Achieving Interoperability on Blockchains",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*Ny5aqZA3SvpvBM6K"
+          "id": "https://medium.com/p/0aa94ca99e03",
+          "author": "Elijah Henry",
+          "description": "The cryptocurrency sector has undergone rapid evolution since the inception of Bitcoin, with innovations continually reshaping its…",
+          "link": "https://medium.com/coinmonks/top-cryptocurrency-picks-for-100x-returns-0aa94ca99e03?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-26T11:41:15.000Z",
+          "wordCount": 2965,
+          "title": "Top Cryptocurrency Picks for 100x Returns",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*VAdcXaoYZKOzsVQ9.jpeg"
         },
         {
-          "id": "https://medium.com/p/22d57e5dd1b4",
-          "author": "Solana Wallet Analyzer Bot",
-          "description": "The Solana ecosystem is characterized by a degenerate mentality and a lack of consistent approaches, leading to a small number of profitable traders. Most of the people making money here are…",
-          "link": "https://medium.com/coinmonks/enhancing-copytrading-in-the-solana-ecosystem-a-journey-towards-consistency-22d57e5dd1b4?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-26T06:38:52.000Z",
-          "wordCount": 1825,
-          "title": "Enhancing Copytrading in the Solana ecosystem: A Journey Towards Consistency",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*iQOu8q4BHxAMiES6WR4GMQ.jpeg"
+          "id": "https://medium.com/p/4f56b0f5cfab",
+          "author": "Santana Hummins",
+          "description": "Explore the main difference between Custodial vs Non Custodial Wallets and understand how to choose and develop one for your business.",
+          "link": "https://medium.com/coinmonks/custodial-vs-non-custodial-wallet-know-the-differences-4f56b0f5cfab?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-26T11:41:12.000Z",
+          "wordCount": 5689,
+          "title": "Custodial vs Non Custodial Wallet — Know the Differences",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:856/1*QlSu0_vZOC79dfiAc7c5iQ.png"
         },
         {
-          "id": "https://medium.com/p/96ac9d5b841b",
-          "author": "PVMihalache",
-          "description": "I have a long history with Elrond, long time before they rebranded into MultiversX! Let’s say I discovered this gem when it was more like…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/multiversx-journey-egld-and-one-year-of-xportal-96ac9d5b841b?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-26T06:38:50.000Z",
-          "wordCount": 1123,
-          "title": "MultiversX Journey — $eGLD And One Year Of xPortal",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*vBKe5tYg08uOrz8XmQr20Q.png"
+          "id": "https://medium.com/p/2ab53bdcc455",
+          "author": "Williammarkerzz",
+          "description": "Discover the ultimate guide to Crypto Telegram Marketing! Learn how to build, engage, and grow your crypto community using Telegram’s…",
+          "link": "https://medium.com/coinmonks/crypto-telegram-marketing-the-complete-guide-2ab53bdcc455?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-26T11:41:09.000Z",
+          "wordCount": 2995,
+          "title": "Crypto Telegram Marketing — The Complete Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*MvZVP7zlMW6DQW4RC1VFUg.jpeg"
         },
         {
-          "id": "https://medium.com/p/73ca1ce88595",
-          "author": "Johnwege",
-          "description": "One of the most important things you need to know in crypto is that we are still very early in this market. This might seem hard to…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/we-are-on-the-ground-floor-of-cryptocurrency-73ca1ce88595?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-26T06:38:46.000Z",
-          "wordCount": 1038,
-          "title": "We are on the Ground Floor of Cryptocurrency",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1152/1*i4NiA7TXkI6y4vxmdgJh5g.png"
+          "id": "https://medium.com/p/b992336eb3a3",
+          "author": "Allen Dev Blog",
+          "description": "In recent discussions on the Telegram Dev Channel, a common question has been raised: “How can I determine the outcome of a transaction…",
+          "link": "https://medium.com/coinmonks/understanding-ton-transactions-how-to-track-transaction-results-and-utilize-tonclient-b992336eb3a3?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-26T11:41:01.000Z",
+          "wordCount": 2508,
+          "title": "Understanding TON Transactions: How to Track Transaction Results and Utilize TonClient",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:945/1*5vz7Kr8oWbf8exM7Fiy7Pg.png"
         },
         {
-          "id": "https://medium.com/p/e16347d6c171",
-          "author": "Crypto Big Stories",
-          "description": "2021 Was My First Bull Market: Here Are Things I Wish I Knew.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/many-will-miss-this-but-here-are-9-lessons-i-wish-i-knew-as-a-beginner-before-investing-in-e16347d6c171?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-26T06:38:43.000Z",
-          "wordCount": 1090,
-          "title": "Many Will Miss This: But Here Are 9 Lessons I Wish I Knew as a Beginner Before Investing in…",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*eSnU83eU2PAf2ePS"
+          "id": "https://medium.com/p/81cc68c7fb4c",
+          "author": "Albert Peter",
+          "description": "Discover when businesses should embrace multi-chain strategies for effective cryptocurrency development solutions. Learn more now!",
+          "link": "https://medium.com/coinmonks/when-should-businesses-adopt-multi-chain-strategies-in-cryptocurrency-development-solutions-81cc68c7fb4c?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-26T11:40:58.000Z",
+          "wordCount": 5126,
+          "title": "When Should Businesses Adopt Multi-chain Strategies In Cryptocurrency Development Solutions?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*pI3LSQ2PqusVHeipBzHXcA.png"
         },
         {
-          "id": "https://medium.com/p/18dca8f6efc6",
-          "author": "Diwakar Thakore",
-          "description": "The internet we know today, often referred to as Web2, is dominated by a handful of tech giants. This centralized control has led to a web…",
-          "link": "https://medium.com/coinmonks/the-dawn-of-a-new-web-how-web3-ushers-in-an-era-of-user-empowerment-and-ethical-interaction-18dca8f6efc6?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-26T06:38:42.000Z",
-          "wordCount": 2199,
-          "title": "The Dawn of a New Web: How Web3 Ushers in an Era of User Empowerment and Ethical Interaction",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*Okyax0iaRVnbsvuW"
-        },
-        {
-          "id": "https://medium.com/p/c207e6a075e7",
-          "author": "Diwakar Thakore",
-          "description": "Blockchain and AI integration offers transformative potential by combining decentralization with advanced computation, enhancing security…",
-          "link": "https://medium.com/coinmonks/an-overview-of-blockchain-and-ai-synergies-and-contrasts-c207e6a075e7?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-26T06:38:40.000Z",
-          "wordCount": 2533,
-          "title": "An Overview of Blockchain and AI: Synergies and Contrasts",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*ooC-B6pbkFbXWMvo"
+          "id": "https://medium.com/p/610ee1e48964",
+          "author": "Muhamad Yusup / Cupi Crypto",
+          "description": "Discover the talented individual who secured the 2nd place prize in Meta Force’s “Best Blogger” contest, standing out among over 500…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/meta-force-best-blogger-contest-2nd-place-winner-takes-the-spotlight-610ee1e48964?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-26T11:40:49.000Z",
+          "wordCount": 1059,
+          "title": "Meta Force “Best Blogger” Contest: 2nd Place Winner Takes the Spotlight",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*vD0tVJEMa8xw7OCbG6GJ7g.jpeg"
         }
       ]
     },

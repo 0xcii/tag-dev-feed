@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-26T11:12:37.950Z</id>
+    <id>urn:2024-06-26T12:27:11.893Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-26T11:12:37.950Z</updated>
+    <updated>2024-06-26T12:27:11.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Frontrunning: Understanding MEV Attacks]]></title>
+        <id>https://medium.com/p/406df02d8bb5</id>
+        <link href="https://medium.com/coinmonks/frontrunning-understanding-mev-attacks-406df02d8bb5?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-26T11:44:14.000Z</updated>
+        <summary type="html"><![CDATA[MEV bots preying on liquidity providers resulted in a staggering loss of $500 million in 2023.]]></summary>
+        <author>
+            <name>NEFTURE SECURITY I Blockchain Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Ethereum Storage: Storage, Memory, Calldata, and Transient Storage]]></title>
+        <id>https://medium.com/p/2481bbcf363c</id>
+        <link href="https://medium.com/coinmonks/understanding-ethereum-storage-storage-memory-calldata-and-transient-storage-2481bbcf363c?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-26T11:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum is the go-to blockchain platform for smart contracts, and it uses different storage methods to handle data effectively. You’ve got…]]></summary>
+        <author>
+            <name>Georgi Plamenov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Dive into NFT Marketplace Business Models: Your Ultimate Guide]]></title>
+        <id>https://medium.com/p/2680622ecba2</id>
+        <link href="https://medium.com/coinmonks/nft-marketplace-business-model-2680622ecba2?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-26T11:42:08.000Z</updated>
+        <summary type="html"><![CDATA[The NFT marketplace business model stands at the forefront of this groundbreaking movement, providing a dynamic platform for artists…]]></summary>
+        <author>
+            <name>Marshallalllen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Vulnerabilities Unveiled: Denial of Service (DoS) Attacks]]></title>
+        <id>https://medium.com/p/e07d0ddc49d6</id>
+        <link href="https://medium.com/coinmonks/smart-contract-vulnerabilities-unveiled-denial-of-service-dos-attacks-e07d0ddc49d6?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-26T11:41:17.000Z</updated>
+        <summary type="html"><![CDATA[Denial of Service (DoS) attacks are a significant threat to smart contracts, as they can disrupt the normal functioning of decentralized…]]></summary>
+        <author>
+            <name>Mustafa Akbulut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Cryptocurrency Picks for 100x Returns]]></title>
+        <id>https://medium.com/p/0aa94ca99e03</id>
+        <link href="https://medium.com/coinmonks/top-cryptocurrency-picks-for-100x-returns-0aa94ca99e03?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-26T11:41:15.000Z</updated>
+        <summary type="html"><![CDATA[The cryptocurrency sector has undergone rapid evolution since the inception of Bitcoin, with innovations continually reshaping its…]]></summary>
+        <author>
+            <name>Elijah Henry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custodial vs Non Custodial Wallet — Know the Differences]]></title>
+        <id>https://medium.com/p/4f56b0f5cfab</id>
+        <link href="https://medium.com/coinmonks/custodial-vs-non-custodial-wallet-know-the-differences-4f56b0f5cfab?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-26T11:41:12.000Z</updated>
+        <summary type="html"><![CDATA[Explore the main difference between Custodial vs Non Custodial Wallets and understand how to choose and develop one for your business.]]></summary>
+        <author>
+            <name>Santana Hummins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Telegram Marketing — The Complete Guide]]></title>
+        <id>https://medium.com/p/2ab53bdcc455</id>
+        <link href="https://medium.com/coinmonks/crypto-telegram-marketing-the-complete-guide-2ab53bdcc455?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-26T11:41:09.000Z</updated>
+        <summary type="html"><![CDATA[Discover the ultimate guide to Crypto Telegram Marketing! Learn how to build, engage, and grow your crypto community using Telegram’s…]]></summary>
+        <author>
+            <name>Williammarkerzz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding TON Transactions: How to Track Transaction Results and Utilize TonClient]]></title>
+        <id>https://medium.com/p/b992336eb3a3</id>
+        <link href="https://medium.com/coinmonks/understanding-ton-transactions-how-to-track-transaction-results-and-utilize-tonclient-b992336eb3a3?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-26T11:41:01.000Z</updated>
+        <summary type="html"><![CDATA[In recent discussions on the Telegram Dev Channel, a common question has been raised: “How can I determine the outcome of a transaction…]]></summary>
+        <author>
+            <name>Allen Dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Should Businesses Adopt Multi-chain Strategies In Cryptocurrency Development Solutions?]]></title>
+        <id>https://medium.com/p/81cc68c7fb4c</id>
+        <link href="https://medium.com/coinmonks/when-should-businesses-adopt-multi-chain-strategies-in-cryptocurrency-development-solutions-81cc68c7fb4c?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-26T11:40:58.000Z</updated>
+        <summary type="html"><![CDATA[Discover when businesses should embrace multi-chain strategies for effective cryptocurrency development solutions. Learn more now!]]></summary>
+        <author>
+            <name>Albert Peter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Force “Best Blogger” Contest: 2nd Place Winner Takes the Spotlight]]></title>
+        <id>https://medium.com/p/610ee1e48964</id>
+        <link href="https://medium.com/coinmonks/meta-force-best-blogger-contest-2nd-place-winner-takes-the-spotlight-610ee1e48964?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-26T11:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Discover the talented individual who secured the 2nd place prize in Meta Force’s “Best Blogger” contest, standing out among over 500…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Muhamad Yusup / Cupi Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smart Contract Vulnerabilities Unveiled: Timestamp Dependence]]></title>
         <id>https://medium.com/p/6a5f09326dc2</id>
@@ -21,16 +122,6 @@
         <link href="https://coinsbench.com/smart-contract-vulnerabilities-unveiled-access-control-issues-5fae9b01b929?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-06-26T10:35:55.000Z</updated>
         <summary type="html"><![CDATA[In the world of smart contracts, ensuring that only authorized users can execute certain functions is paramount. Access control issues are…]]></summary>
-        <author>
-            <name>Mustafa Akbulut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract Analysis Tools]]></title>
-        <id>https://medium.com/p/7492df494651</id>
-        <link href="https://coinsbench.com/smart-contract-analysis-tools-7492df494651?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-26T10:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of…]]></summary>
         <author>
             <name>Mustafa Akbulut</name>
         </author>
@@ -63,109 +154,6 @@
         <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empowering DEXes Through Modularity: Algebra Integral’s Vision for the Next Generation of DeFi]]></title>
-        <id>https://medium.com/p/df01e1c41373</id>
-        <link href="https://medium.com/coinmonks/empowering-dexes-through-modularity-algebra-integrals-vision-for-the-next-generation-of-defi-df01e1c41373?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-26T06:39:00.000Z</updated>
-        <summary type="html"><![CDATA[In the rapidly evolving world of decentralized finance (DeFi), a new player has emerged, poised to revolutionize the way decentralized…]]></summary>
-        <author>
-            <name>WFH BZ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TROJAN is the ULTIMATE DEFI MEME PLATFORM For SOLANA]]></title>
-        <id>https://medium.com/p/e113d3f16eb4</id>
-        <link href="https://medium.com/coinmonks/trojan-is-the-ultimate-defi-meme-platform-for-solana-e113d3f16eb4?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-26T06:38:58.000Z</updated>
-        <summary type="html"><![CDATA[Why is finding a DEFI MEME PLATFORM on Solana important right now? In the rapidly evolving world of decentralized finance (DeFi), the…]]></summary>
-        <author>
-            <name>DABOTMON NUWZ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract Vulnerabilities Unveiled: Integer Overflow and Underflow]]></title>
-        <id>https://medium.com/p/99213c81c3e8</id>
-        <link href="https://medium.com/coinmonks/smart-contract-vulnerabilities-unveiled-integer-overflow-and-underflow-99213c81c3e8?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-26T06:38:55.000Z</updated>
-        <summary type="html"><![CDATA[As blockchain technology evolves, smart contracts have become a cornerstone of decentralized applications. However, these contracts are…]]></summary>
-        <author>
-            <name>Mustafa Akbulut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achieving Interoperability on Blockchains]]></title>
-        <id>https://medium.com/p/02c1682ecb9d</id>
-        <link href="https://medium.com/coinmonks/achieving-interoperability-on-blockchains-02c1682ecb9d?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-26T06:38:53.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain interoperability is one of the major issues with blockchains; they are unable to communicate with other blockchains. However, to…]]></summary>
-        <author>
-            <name>Ether Crunch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Copytrading in the Solana ecosystem: A Journey Towards Consistency]]></title>
-        <id>https://medium.com/p/22d57e5dd1b4</id>
-        <link href="https://medium.com/coinmonks/enhancing-copytrading-in-the-solana-ecosystem-a-journey-towards-consistency-22d57e5dd1b4?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-26T06:38:52.000Z</updated>
-        <summary type="html"><![CDATA[The Solana ecosystem is characterized by a degenerate mentality and a lack of consistent approaches, leading to a small number of profitable traders. Most of the people making money here are…]]></summary>
-        <author>
-            <name>Solana Wallet Analyzer Bot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MultiversX Journey — $eGLD And One Year Of xPortal]]></title>
-        <id>https://medium.com/p/96ac9d5b841b</id>
-        <link href="https://medium.com/coinmonks/multiversx-journey-egld-and-one-year-of-xportal-96ac9d5b841b?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-26T06:38:50.000Z</updated>
-        <summary type="html"><![CDATA[I have a long history with Elrond, long time before they rebranded into MultiversX! Let’s say I discovered this gem when it was more like…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>PVMihalache</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We are on the Ground Floor of Cryptocurrency]]></title>
-        <id>https://medium.com/p/73ca1ce88595</id>
-        <link href="https://medium.com/coinmonks/we-are-on-the-ground-floor-of-cryptocurrency-73ca1ce88595?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-26T06:38:46.000Z</updated>
-        <summary type="html"><![CDATA[One of the most important things you need to know in crypto is that we are still very early in this market. This might seem hard to…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Johnwege</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Many Will Miss This: But Here Are 9 Lessons I Wish I Knew as a Beginner Before Investing in…]]></title>
-        <id>https://medium.com/p/e16347d6c171</id>
-        <link href="https://medium.com/coinmonks/many-will-miss-this-but-here-are-9-lessons-i-wish-i-knew-as-a-beginner-before-investing-in-e16347d6c171?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-26T06:38:43.000Z</updated>
-        <summary type="html"><![CDATA[2021 Was My First Bull Market: Here Are Things I Wish I Knew.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Crypto Big Stories</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Dawn of a New Web: How Web3 Ushers in an Era of User Empowerment and Ethical Interaction]]></title>
-        <id>https://medium.com/p/18dca8f6efc6</id>
-        <link href="https://medium.com/coinmonks/the-dawn-of-a-new-web-how-web3-ushers-in-an-era-of-user-empowerment-and-ethical-interaction-18dca8f6efc6?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-26T06:38:42.000Z</updated>
-        <summary type="html"><![CDATA[The internet we know today, often referred to as Web2, is dominated by a handful of tech giants. This centralized control has led to a web…]]></summary>
-        <author>
-            <name>Diwakar Thakore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Overview of Blockchain and AI: Synergies and Contrasts]]></title>
-        <id>https://medium.com/p/c207e6a075e7</id>
-        <link href="https://medium.com/coinmonks/an-overview-of-blockchain-and-ai-synergies-and-contrasts-c207e6a075e7?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-26T06:38:40.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain and AI integration offers transformative potential by combining decentralization with advanced computation, enhancing security…]]></summary>
-        <author>
-            <name>Diwakar Thakore</name>
         </author>
     </entry>
     <entry>
@@ -239,6 +227,16 @@ The post mstore and mload functions in Solidity appeared first on Crypto Market 
         <summary type="html"><![CDATA[In the first part of this article, we explored the advantages of Solana and its potential to revolutionize the blockchain landscape. Now…]]></summary>
         <author>
             <name>shubham kumar singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Your Solidity Code from Guzzling Gas (and ETH!)]]></title>
+        <id>https://medium.com/p/779472b86381</id>
+        <link href="https://coinsbench.com/how-to-stop-your-solidity-code-from-guzzling-gas-and-eth-779472b86381?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-19T14:39:35.000Z</updated>
+        <summary type="html"><![CDATA[So, you’ve dipped your toes into the wild world of blockchain and built your first smart contract with Solidity. Kudos! But before you pop…]]></summary>
+        <author>
+            <name>Jack Klimov</name>
         </author>
     </entry>
     <entry>
