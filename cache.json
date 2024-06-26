@@ -21,7 +21,7 @@
           "description": "Bitcoin solo mining and pool mining is the process of validating and adding transaction records to the blockchain. Miners compete…\nThe post Bitcoin Solo Mining appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/bitcoin-solo-mining/",
           "publishedOn": "2024-06-23T16:15:40.000Z",
-          "wordCount": 4290,
+          "wordCount": 4295,
           "title": "Bitcoin Solo Mining",
           "imageUrl": null
         },
@@ -31,7 +31,7 @@
           "description": "In Solidity, mstore and mload are crucial functions for handling low-level memory operations. These functions play a vital role in…\nThe post mstore and mload functions in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/mstore-and-mload-functions-in-solidity/",
           "publishedOn": "2024-06-20T20:43:48.000Z",
-          "wordCount": 3930,
+          "wordCount": 3925,
           "title": "mstore and mload functions in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -41,7 +41,7 @@
           "description": "A vault inflation attack is a malicious tactic that exploits a smart contract’s vulnerability, causing an excessive increase in the…\nThe post Vault inflation attack appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/vault-inflation-attack/",
           "publishedOn": "2024-06-18T22:22:18.000Z",
-          "wordCount": 3820,
+          "wordCount": 3808,
           "title": "Vault inflation attack",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -90,6 +90,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/6a5f09326dc2",
+          "author": "Mustafa Akbulut",
+          "description": "In smart contract development, relying on block timestamps for critical operations can introduce significant vulnerabilities. Timestamp…",
+          "link": "https://coinsbench.com/smart-contract-vulnerabilities-unveiled-timestamp-dependence-6a5f09326dc2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-26T10:35:58.000Z",
+          "wordCount": 1473,
+          "title": "Smart Contract Vulnerabilities Unveiled: Timestamp Dependence",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*Rfn4Lcohmnbve5ZMZvVRDA.png"
+        },
+        {
+          "id": "https://medium.com/p/5fae9b01b929",
+          "author": "Mustafa Akbulut",
+          "description": "In the world of smart contracts, ensuring that only authorized users can execute certain functions is paramount. Access control issues are…",
+          "link": "https://coinsbench.com/smart-contract-vulnerabilities-unveiled-access-control-issues-5fae9b01b929?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-26T10:35:55.000Z",
+          "wordCount": 1464,
+          "title": "Smart Contract Vulnerabilities Unveiled: Access Control Issues",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:780/0*E0tmq2TEx8RLnnGm.png"
+        },
+        {
+          "id": "https://medium.com/p/7492df494651",
+          "author": "Mustafa Akbulut",
+          "description": "Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of…",
+          "link": "https://coinsbench.com/smart-contract-analysis-tools-7492df494651?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-26T10:35:53.000Z",
+          "wordCount": 1512,
+          "title": "Smart Contract Analysis Tools",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1096/0*NQ8BtvB8lEP5qAm2"
+        },
+        {
+          "id": "https://medium.com/p/75e9a1d4311c",
+          "author": "Mustafa Akbulut",
+          "description": "Smart contracts are the backbone of decentralized applications on the blockchain. However, like any code, they can be vulnerable to…",
+          "link": "https://coinsbench.com/smart-contract-vulnerabilities-unveiled-reentrancy-attack-75e9a1d4311c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-26T10:35:51.000Z",
+          "wordCount": 1631,
+          "title": "Smart Contract Vulnerabilities Unveiled: Reentrancy Attack",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:848/0*_v01DmyLlWl4vFAD.jpg"
+        },
+        {
+          "id": "https://medium.com/p/cd8a84074b20",
+          "author": "Milun Radonjic",
+          "description": "In Solidity, functions can be categorized into multiple types based on their interaction with the state of the blockchain. Two of the most…",
+          "link": "https://coinsbench.com/understanding-view-and-pure-functions-in-solidity-cd8a84074b20?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-26T10:35:49.000Z",
+          "wordCount": 1847,
+          "title": "Understanding View and Pure Functions in Solidity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e4703aa72758",
+          "author": "Faybian Byrd",
+          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
+          "link": "https://coinsbench.com/rareskills-solidity-interview-question-40-answered-under-what-circumstances-could-abi-encodepacked-e4703aa72758?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-26T10:35:46.000Z",
+          "wordCount": 2204,
+          "title": "RareSkills Solidity Interview Question #40 Answered: Under what circumstances could abi.encodePacked",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*3mH7i43P3wIk_5nk1bsbtw.png"
+        },
+        {
           "id": "https://medium.com/p/5de64408bf24",
           "author": "Joseph David",
           "description": "As the blockchain ecosystem continues to evolve, the tools and frameworks supporting developers are also advancing rapidly. Among these…",
@@ -128,66 +188,6 @@
           "wordCount": 2112,
           "title": "Unveiling Solana: (Part 2) — Deploying Solana Nodes on AWS",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1111/1*_K18pqg5inNiYbjp3vvO4g.png"
-        },
-        {
-          "id": "https://medium.com/p/779472b86381",
-          "author": "Jack Klimov",
-          "description": "So, you’ve dipped your toes into the wild world of blockchain and built your first smart contract with Solidity. Kudos! But before you pop…",
-          "link": "https://coinsbench.com/how-to-stop-your-solidity-code-from-guzzling-gas-and-eth-779472b86381?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-19T14:39:35.000Z",
-          "wordCount": 2449,
-          "title": "How to Stop Your Solidity Code from Guzzling Gas (and ETH!)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*76mcFGGS00tEsbTQXVD2RQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/bbe46027861d",
-          "author": "Ranjithkumar C",
-          "description": "Solidity, the programming language for Ethereum smart contracts, offers a powerful tool for code organization and reusability: libraries. Libraries are collections of functions that can be integrated…",
-          "link": "https://coinsbench.com/building-blocks-of-smart-contracts-libraries-in-solidity-bbe46027861d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-19T14:39:29.000Z",
-          "wordCount": 2134,
-          "title": "Building Blocks of Smart Contracts: Libraries in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*A8CC4IDtxUEVicLM.jpg"
-        },
-        {
-          "id": "https://medium.com/p/16738351736b",
-          "author": "Umemba Victor (Crank)",
-          "description": "Blockchain technology has revolutionized the way we handle financial transactions, and the world of decentralized finance (DeFi) is growing…",
-          "link": "https://coinsbench.com/building-a-simple-fixed-deposit-application-using-solidity-smart-contracts-16738351736b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-17T15:06:30.000Z",
-          "wordCount": 5607,
-          "title": "Building a Simple Fixed Deposit Application Using Solidity Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:658/1*5R4C_aTudIJSOillKc88JA.png"
-        },
-        {
-          "id": "https://medium.com/p/46484c8c2bbe",
-          "author": "Naresh Mohanraj",
-          "description": "In Solidity, a language used for writing smart contracts on the Ethereum blockchain, understanding the different data locations is crucial…",
-          "link": "https://coinsbench.com/understanding-storage-memory-and-calldata-in-solidity-46484c8c2bbe?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-17T15:06:21.000Z",
-          "wordCount": 1866,
-          "title": "Understanding Storage, Memory, and Calldata in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:941/1*pT90cEgMl9nekrJmGoogMA.png"
-        },
-        {
-          "id": "https://medium.com/p/2744f7a80e9e",
-          "author": "Umemba Victor (Crank)",
-          "description": "This article aims to demonstrate the use of web3.js, a JavaScript library for interacting with smart contracts deployed on the Ethereum…",
-          "link": "https://coinsbench.com/learning-to-call-smart-contract-functions-with-web3-js-2744f7a80e9e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-17T15:06:14.000Z",
-          "wordCount": 4145,
-          "title": "Learning to Call Smart Contract Functions with Web3.js",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vIuwkZMYI_Ic-cMG8ShbWQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/5ec03a984fa3",
-          "author": "Umemba Victor (Crank)",
-          "description": "Brief Overview of Solidity",
-          "link": "https://coinsbench.com/comprehending-the-fundamentals-of-solidity-a-concise-guide-an-additional-treasure-for-your-5ec03a984fa3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-17T15:06:10.000Z",
-          "wordCount": 5089,
-          "title": "Comprehending the Fundamentals of Solidity: A Concise Guide — An Additional Treasure for Your…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6i2kng2qYJKU1CodTz-05Q.png"
         }
       ]
     },
