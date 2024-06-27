@@ -11,7 +11,7 @@
           "description": "Welcome to the Bitcoin Nerd Miner setup and configuration guide. Follow these steps to connect your device to your Wi-Fi…\nThe post Bitcoin Nerd Miner Setup and Configuration appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/bitcoin-nerd-miner-setup-and-configuration/",
           "publishedOn": "2024-06-25T19:56:34.000Z",
-          "wordCount": 3623,
+          "wordCount": 3622,
           "title": "Bitcoin Nerd Miner Setup and Configuration",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2024/06/NerdMiner-configureWifi-v2.jpg"
         },
@@ -41,7 +41,7 @@
           "description": "A vault inflation attack is a malicious tactic that exploits a smart contract’s vulnerability, causing an excessive increase in the…\nThe post Vault inflation attack appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/vault-inflation-attack/",
           "publishedOn": "2024-06-18T22:22:18.000Z",
-          "wordCount": 3571,
+          "wordCount": 3570,
           "title": "Vault inflation attack",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -187,12 +187,82 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/c5d6e305187f",
+          "author": "John Benjamin",
+          "description": "Yes, you read it correctly! Regardless of the sort of business, many entrepreneurs want to get started quickly. You know, every industry is…",
+          "link": "https://medium.com/coinmonks/can-you-build-an-app-like-metamask-wallet-in-12-days-on-a-budget-find-out-how-c5d6e305187f?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-27T15:38:17.000Z",
+          "wordCount": 2713,
+          "title": "Can You Build an App Like MetaMask Wallet in 12 Days on a Budget? Find Out How!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*vS68Xt_f64lI1-kLbe8nqg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/dcae04f6e3c5",
+          "author": "Vlad Hryniv",
+          "description": "In today’s world, technological innovations are shaping the future, opening up new opportunities for various industries. Blockchain…",
+          "link": "https://medium.com/coinmonks/exclusive-interview-with-vanshika-srivastava-building-the-future-with-blockchain-dcae04f6e3c5?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-27T15:38:13.000Z",
+          "wordCount": 4179,
+          "title": "Exclusive Interview with Vanshika Srivastava: Building the Future with Blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-fRSQyZ93Wel0bLxDXQgnw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/a330ae73a44a",
+          "author": "Dayana Aleksandrova",
+          "description": "Here’s how to be a speaker, panel moderator, and MC at Web3, crypto, and blockchain events (tips + insider stories)",
+          "link": "https://medium.com/coinmonks/speaking-gigs-guide-a330ae73a44a?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-27T15:38:10.000Z",
+          "wordCount": 4787,
+          "title": "The Ultimate guide to speaking at Web3 and crypto events",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ndYAvkDD5hNcs_CKADVO6g.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3c6f8e151cdd",
+          "author": "Mustafa Akbulut",
+          "description": "Smart contracts often rely on external data to execute their logic, and this data is usually provided by oracles. However, if these oracles…",
+          "link": "https://medium.com/coinmonks/smart-contract-vulnerabilities-unveiled-oracle-manipulation-3c6f8e151cdd?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-27T15:38:08.000Z",
+          "wordCount": 1796,
+          "title": "Smart Contract Vulnerabilities Unveiled: Oracle Manipulation",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*PxmOH6Zs_HuJUu3lT2rVOg.png"
+        },
+        {
+          "id": "https://medium.com/p/85e6f718aa65",
+          "author": "Libertex (Europe)",
+          "description": "It’s been a while since oil’s last major surge back in the summer of 2022, but after a precipitous correction in early 2023, the energy…",
+          "link": "https://medium.com/coinmonks/oil-eyeing-next-move-as-opec-extends-cuts-85e6f718aa65?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-27T15:38:07.000Z",
+          "wordCount": 2787,
+          "title": "Oil eyeing next move as OPEC extends cuts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*fo_R-yuEQ7tV5HBz8NrKEA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/f2ba5fba0158",
+          "author": "BloxBytes",
+          "description": "Blockchain technology has quickly become a cornerstone of modern business innovation. From its origins in cryptocurrency, blockchain has…",
+          "link": "https://medium.com/coinmonks/why-do-businesses-need-blockchain-f2ba5fba0158?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-27T15:38:06.000Z",
+          "wordCount": 3185,
+          "title": "Why Do Businesses Need Blockchain?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b6aa29337828",
+          "author": "Jason Schwarz",
+          "description": "In this tutorial, we demonstrate how to create a reentrancy exploit in Solidity, including detailed setup, code examples, and execution…",
+          "link": "https://medium.com/coinmonks/exploiting-smart-contracts-understanding-and-performing-reentrancy-attacks-in-solidity-b6aa29337828?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-27T15:38:04.000Z",
+          "wordCount": 2995,
+          "title": "Exploiting Smart Contracts: Understanding and Performing Reentrancy Attacks in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zdXBkPp4iTgSRvmbyaKY7Q.png"
+        },
+        {
           "id": "https://medium.com/p/84086d185bab",
           "author": "Deniz Tutku",
           "description": "In the crypto industry, every day brings new challenges, achievements, and interesting news. From illegal schemes using celebrity names to…",
           "link": "https://medium.com/coinmonks/weekly-crypto-news-strike-enters-uk-50-cent-in-da-club-of-hacker-victims-solanas-new-feature-84086d185bab?source=rss----721b17443fd5---4",
           "publishedOn": "2024-06-27T13:19:51.000Z",
-          "wordCount": 2874,
+          "wordCount": 2875,
           "title": "Weekly Crypto News: Strike Enters UK, 50 Cent In Da Club of Hacker Victims, Solana’s New Feature",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1vMTCk4tngbqIIDY8vA-ng.jpeg"
         },
@@ -202,7 +272,7 @@
           "description": "How to build the next billion dollar NFT project:\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/cyberbrokers-ideas-and-vision-54821ccc3174?source=rss----721b17443fd5---4",
           "publishedOn": "2024-06-27T13:19:47.000Z",
-          "wordCount": 1057,
+          "wordCount": 1058,
           "title": "CyberBrokers Ideas and Vision",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1080/0*QgHxSPK3Z7-bNfM1"
         },
@@ -212,79 +282,9 @@
           "description": "Discover the top AI marketing agencies of 2024–2025. Explore innovative solutions from industry leaders and transform your marketing…",
           "link": "https://medium.com/coinmonks/top-10-best-ai-marketing-agencies-for-2024-2025-551dd1a64a23?source=rss----721b17443fd5---4",
           "publishedOn": "2024-06-27T13:19:42.000Z",
-          "wordCount": 3064,
+          "wordCount": 3065,
           "title": "Top 10 Best AI Marketing Agencies for 2024–2025",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TTaG8kSRaVy_Xk692Whn2A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/0d0488cd6973",
-          "author": "Robert John",
-          "description": "Hi, I’m Robert John, the author of this blog. I’ve had the privilege of assisting numerous crypto ventures through their initial phases…",
-          "link": "https://medium.com/coinmonks/bybit-clone-how-to-launch-a-crypto-exchange-like-bybit-in-uae-0d0488cd6973?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-27T13:19:33.000Z",
-          "wordCount": 3425,
-          "title": "Bybit Clone — How to Launch a Crypto Exchange Like Bybit in UAE?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:686/1*f21Luufn8JI2LoBAAVK4eg.png"
-        },
-        {
-          "id": "https://medium.com/p/b5e5ad2418fc",
-          "author": "Henrywilliam",
-          "description": "Blockchain technology, while revolutionary, is often criticized for its scalability issues. The limitations in transaction throughput and…",
-          "link": "https://medium.com/coinmonks/future-of-blockchain-scalability-exploring-power-of-layer-2-scaling-solutions-b5e5ad2418fc?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-27T13:19:19.000Z",
-          "wordCount": 4039,
-          "title": "The Future of Blockchain Scalability: Exploring the Power of Layer-2 Scaling Solutions",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*li8CwKhmz8emEngWMga1Sw.png"
-        },
-        {
-          "id": "https://medium.com/p/89875b8dc167",
-          "author": "Merlin Lisa",
-          "description": "The digital landscape is undergoing a significant transformation with the emergence of SocialFi, a novel concept that merges social media…",
-          "link": "https://medium.com/coinmonks/the-rise-of-socialfi-integrating-social-media-and-decentralized-finance-89875b8dc167?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-27T13:19:03.000Z",
-          "wordCount": 3986,
-          "title": "The Rise of SocialFi: Integrating Social Media and Decentralized Finance",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*t9I8u00hEynCrc__q_O5lA.png"
-        },
-        {
-          "id": "https://medium.com/p/acf6549aca4e",
-          "author": "Rachel Grace",
-          "description": "Learn about the process of tokenizing real estate: from legal considerations to asset structuring and investor onboarding. Dive into the…",
-          "link": "https://medium.com/coinmonks/what-are-the-steps-involved-in-tokenizing-real-estate-acf6549aca4e?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-27T13:18:58.000Z",
-          "wordCount": 2630,
-          "title": "What Are the Steps Involved in Tokenizing Real Estate?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*djYPNJdXpIp5lkSlPlvxFw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/1e3990e05193",
-          "author": "Charlie",
-          "description": "Random Fantasy Team Name Selector Part 1",
-          "link": "https://medium.com/coinmonks/building-randomness-with-chainlink-vrf-1e3990e05193?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-27T13:18:53.000Z",
-          "wordCount": 6408,
-          "title": "Building Randomness with Chainlink VRF",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*L2vllR27eGjvLqxEE9b-1A.png"
-        },
-        {
-          "id": "https://medium.com/p/01cc66b7030c",
-          "author": "World As One 4PEACE",
-          "description": "Stay up to date on the relevant agriculture, energy and mining industry trends, as well as the latest news stories, by following the…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/ai-power-demand-us-drought-concerns-are-put-into-focus-by-bloomberg-and-politico-this-week-01cc66b7030c?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-27T10:13:45.000Z",
-          "wordCount": 1065,
-          "title": "AI Power Demand & US Drought Concerns are put into focus by Bloomberg and Politico this week",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*hDNYNb8Cgdyl4Zzq"
-        },
-        {
-          "id": "https://medium.com/p/4a8e343d449d",
-          "author": "NordFX",
-          "description": "– On Monday, 24th June, for the first time since 3rd May, the price of bitcoin fell below $60,000, reaching $58,468 at one point. Ethereum…",
-          "link": "https://medium.com/coinmonks/cryptonews-of-the-week-4a8e343d449d?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-27T10:11:08.000Z",
-          "wordCount": 3989,
-          "title": "CryptoNews of the Week",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/0*aHFPjygEu6kCSjHG.jpeg"
         }
       ]
     },
