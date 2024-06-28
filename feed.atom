@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-28T11:11:20.275Z</id>
+    <id>urn:2024-06-28T12:25:22.404Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-28T11:11:20.275Z</updated>
+    <updated>2024-06-28T12:25:22.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Simple Explanation of Ethereum Gas And Fees]]></title>
+        <id>https://medium.com/p/2766f25c683c</id>
+        <link href="https://coinsbench.com/simple-explanation-of-ethereum-gas-and-fees-2766f25c683c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-28T12:04:43.000Z</updated>
+        <summary type="html"><![CDATA[When I first started learning about Ethereum, this was something I knew I needed to understand and I wanted to simplify it for myself…]]></summary>
+        <author>
+            <name>Milun Radonjic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating the Fee Economy: A Deep Dive into Solana’s Network Economics and Spam Reduction…]]></title>
+        <id>https://medium.com/p/c08d483e9763</id>
+        <link href="https://coinsbench.com/navigating-the-fee-economy-a-deep-dive-into-solanas-network-economics-and-spam-reduction-c08d483e9763?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-28T12:04:33.000Z</updated>
+        <summary type="html"><![CDATA[Understanding the Complex Impacts of Fee Economics: An In-Depth Exploration of How Transaction Incentives Shape Blockchain Networks]]></summary>
+        <author>
+            <name>Hanif Olayiwola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Flash Loans in DeFi]]></title>
+        <id>https://medium.com/p/e57f30a634ab</id>
+        <link href="https://coinsbench.com/understanding-flash-loans-in-defi-e57f30a634ab?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-28T12:04:19.000Z</updated>
+        <summary type="html"><![CDATA[In the realm of decentralized finance (DeFi), opportunities often arise that demand swift action to capitalize on them. One such…]]></summary>
+        <author>
+            <name>Jason Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Whitelist Overload: Ensuring Effective NFT drops with Proof of Funds]]></title>
+        <id>https://medium.com/p/d1f5d08943fe</id>
+        <link href="https://coinsbench.com/managing-whitelist-overload-ensuring-effective-nft-drops-with-proof-of-funds-d1f5d08943fe?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-28T12:04:13.000Z</updated>
+        <summary type="html"><![CDATA[How often have you curated a whitelist based on partners and community members, only to find the user count far exceeds the total supply of…]]></summary>
+        <author>
+            <name>Jason Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to sign and verify messages with Ethers]]></title>
+        <id>https://medium.com/p/5df43414d0d8</id>
+        <link href="https://coinsbench.com/how-to-sign-and-verify-messages-with-ethers-5df43414d0d8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-06-28T12:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Digital signatures play a crucial role in ensuring the security, authenticity, and authorization of various operations within a…]]></summary>
+        <author>
+            <name>Jason Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Week in Crypto: Major Highlights and Insights]]></title>
+        <id>https://medium.com/p/a82cea9cd0c7</id>
+        <link href="https://medium.com/coinmonks/this-week-in-crypto-major-highlights-and-insights-a82cea9cd0c7?source=rss----721b17443fd5---4"/>
+        <updated>2024-06-28T12:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to our weekly roundup of the most significant happenings in the crypto space. This edition covers groundbreaking partnerships…]]></summary>
+        <author>
+            <name>PRDT Finance</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notcoin: Revolutionizing the Play-to-Earn Crypto Space]]></title>
         <id>https://medium.com/p/86c0d43aed32</id>
@@ -96,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[More mega-cap stocks setting up breakouts.]]></title>
-        <id>https://medium.com/p/de66ecfde69e</id>
-        <link href="https://medium.com/coinmonks/more-mega-cap-stocks-setting-up-breakouts-de66ecfde69e?source=rss----721b17443fd5---4"/>
-        <updated>2024-06-28T11:03:08.000Z</updated>
-        <summary type="html"><![CDATA[In this post, I’ll focus on setups that I’m monitoring for both long and short positions. With a chart and short write-up, this is a quick…]]></summary>
-        <author>
-            <name>Mosaic Asset</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Merkel Root in a Blockchain Transaction]]></title>
         <id>https://medium.com/p/8a71a8b39526</id>
         <link href="https://coinsbench.com/merkel-root-in-a-blockchain-transaction-8a71a8b39526?source=rss----f1cfd22cde3e---4"/>
@@ -156,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #40 Answered: Under what circumstances could abi.encodePacked]]></title>
-        <id>https://medium.com/p/e4703aa72758</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-40-answered-under-what-circumstances-could-abi-encodepacked-e4703aa72758?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-26T10:35:46.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bitcoin Nerd Miner Setup and Configuration]]></title>
         <id>https://cryptomarketpool.com/?p=309505</id>
         <link href="https://cryptomarketpool.com/bitcoin-nerd-miner-setup-and-configuration/"/>
@@ -196,46 +236,6 @@ The post Bitcoin Solo Mining appeared first on Crypto Market Pool.]]></summary>
 The post mstore and mload functions in Solidity appeared first on Crypto Market Pool.]]></summary>
         <author>
             <name>Crypto Market Pool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[### Introduction to Hardhat: Simplifying Smart Contract and Full Stack Blockchain Development]]></title>
-        <id>https://medium.com/p/5de64408bf24</id>
-        <link href="https://coinsbench.com/introduction-to-hardhat-simplifying-smart-contract-and-full-stack-blockchain-development-5de64408bf24?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-20T10:24:55.000Z</updated>
-        <summary type="html"><![CDATA[As the blockchain ecosystem continues to evolve, the tools and frameworks supporting developers are also advancing rapidly. Among these…]]></summary>
-        <author>
-            <name>Joseph David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[**Why Hardhat is the Best Tool for Beginner Full-Stack Web3 Development**]]></title>
-        <id>https://medium.com/p/94b57bf7f28a</id>
-        <link href="https://coinsbench.com/why-hardhat-is-the-best-tool-for-beginner-full-stack-web3-development-94b57bf7f28a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-20T10:24:50.000Z</updated>
-        <summary type="html"><![CDATA[Hey there, fellow Web3 enthusiasts!]]></summary>
-        <author>
-            <name>Joseph David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step-by-Step Guide to Setting Up an Auto Wallet]]></title>
-        <id>https://medium.com/p/6c8d478dd22f</id>
-        <link href="https://coinsbench.com/step-by-step-guide-to-setting-up-an-auto-wallet-6c8d478dd22f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-19T14:40:01.000Z</updated>
-        <summary type="html"><![CDATA[By Gerard King]]></summary>
-        <author>
-            <name>Aardvark Infinity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unveiling Solana: (Part 2) — Deploying Solana Nodes on AWS]]></title>
-        <id>https://medium.com/p/fd1176047e3a</id>
-        <link href="https://coinsbench.com/unveiling-solana-part-2-deploying-solana-nodes-on-aws-fd1176047e3a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-19T14:39:58.000Z</updated>
-        <summary type="html"><![CDATA[In the first part of this article, we explored the advantages of Solana and its potential to revolutionize the blockchain landscape. Now…]]></summary>
-        <author>
-            <name>shubham kumar singh</name>
         </author>
     </entry>
     <entry>

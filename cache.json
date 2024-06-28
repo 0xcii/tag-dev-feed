@@ -31,7 +31,7 @@
           "description": "In Solidity, mstore and mload are crucial functions for handling low-level memory operations. These functions play a vital role in…\nThe post mstore and mload functions in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/mstore-and-mload-functions-in-solidity/",
           "publishedOn": "2024-06-20T20:43:48.000Z",
-          "wordCount": 3676,
+          "wordCount": 3675,
           "title": "mstore and mload functions in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -51,7 +51,7 @@
           "description": "Creating Real-World Assets on Ethereum: A Comprehensive Guide to Solidity In recent years, the Ethereum blockchain has gained significant traction…\nThe post Real world assets on Ethereum appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/real-world-assets-on-ethereum/",
           "publishedOn": "2024-06-17T12:59:30.000Z",
-          "wordCount": 4019,
+          "wordCount": 4020,
           "title": "Real world assets on Ethereum",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2024/06/image.png"
         }
@@ -79,6 +79,56 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/2766f25c683c",
+          "author": "Milun Radonjic",
+          "description": "When I first started learning about Ethereum, this was something I knew I needed to understand and I wanted to simplify it for myself…",
+          "link": "https://coinsbench.com/simple-explanation-of-ethereum-gas-and-fees-2766f25c683c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-28T12:04:43.000Z",
+          "wordCount": 1989,
+          "title": "Simple Explanation of Ethereum Gas And Fees",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mPYOB6OUmaj-l2BZB44_HA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c08d483e9763",
+          "author": "Hanif Olayiwola",
+          "description": "Understanding the Complex Impacts of Fee Economics: An In-Depth Exploration of How Transaction Incentives Shape Blockchain Networks",
+          "link": "https://coinsbench.com/navigating-the-fee-economy-a-deep-dive-into-solanas-network-economics-and-spam-reduction-c08d483e9763?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-28T12:04:33.000Z",
+          "wordCount": 6474,
+          "title": "Navigating the Fee Economy: A Deep Dive into Solana’s Network Economics and Spam Reduction…",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/1*1BJALpfmUgw1bkM-P_kVdw.gif"
+        },
+        {
+          "id": "https://medium.com/p/e57f30a634ab",
+          "author": "Jason Schwarz",
+          "description": "In the realm of decentralized finance (DeFi), opportunities often arise that demand swift action to capitalize on them. One such…",
+          "link": "https://coinsbench.com/understanding-flash-loans-in-defi-e57f30a634ab?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-28T12:04:19.000Z",
+          "wordCount": 2103,
+          "title": "Understanding Flash Loans in DeFi",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6e0SaQ3AlRL6Du996Qvozw.png"
+        },
+        {
+          "id": "https://medium.com/p/d1f5d08943fe",
+          "author": "Jason Schwarz",
+          "description": "How often have you curated a whitelist based on partners and community members, only to find the user count far exceeds the total supply of…",
+          "link": "https://coinsbench.com/managing-whitelist-overload-ensuring-effective-nft-drops-with-proof-of-funds-d1f5d08943fe?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-28T12:04:13.000Z",
+          "wordCount": 1806,
+          "title": "Managing Whitelist Overload: Ensuring Effective NFT drops with Proof of Funds",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JImqfDsAtMvQARGVTv1jHA.png"
+        },
+        {
+          "id": "https://medium.com/p/5df43414d0d8",
+          "author": "Jason Schwarz",
+          "description": "Digital signatures play a crucial role in ensuring the security, authenticity, and authorization of various operations within a…",
+          "link": "https://coinsbench.com/how-to-sign-and-verify-messages-with-ethers-5df43414d0d8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-06-28T12:04:08.000Z",
+          "wordCount": 2531,
+          "title": "How to sign and verify messages with Ethers",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LJKkMjsiEThGOlyrEPEPuw.png"
+        },
         {
           "id": "https://medium.com/p/8a71a8b39526",
           "author": "Naresh Mohanraj",
@@ -128,56 +178,6 @@
           "wordCount": 1818,
           "title": "Understanding View and Pure Functions in Solidity",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e4703aa72758",
-          "author": "Faybian Byrd",
-          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
-          "link": "https://coinsbench.com/rareskills-solidity-interview-question-40-answered-under-what-circumstances-could-abi-encodepacked-e4703aa72758?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-26T10:35:46.000Z",
-          "wordCount": 2175,
-          "title": "RareSkills Solidity Interview Question #40 Answered: Under what circumstances could abi.encodePacked",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*3mH7i43P3wIk_5nk1bsbtw.png"
-        },
-        {
-          "id": "https://medium.com/p/5de64408bf24",
-          "author": "Joseph David",
-          "description": "As the blockchain ecosystem continues to evolve, the tools and frameworks supporting developers are also advancing rapidly. Among these…",
-          "link": "https://coinsbench.com/introduction-to-hardhat-simplifying-smart-contract-and-full-stack-blockchain-development-5de64408bf24?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-20T10:24:55.000Z",
-          "wordCount": 2330,
-          "title": "### Introduction to Hardhat: Simplifying Smart Contract and Full Stack Blockchain Development",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*AF_EHMH3BDql3joUgjZcYA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/94b57bf7f28a",
-          "author": "Joseph David",
-          "description": "Hey there, fellow Web3 enthusiasts!",
-          "link": "https://coinsbench.com/why-hardhat-is-the-best-tool-for-beginner-full-stack-web3-development-94b57bf7f28a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-20T10:24:50.000Z",
-          "wordCount": 2236,
-          "title": "**Why Hardhat is the Best Tool for Beginner Full-Stack Web3 Development**",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*Zp8y1BzGEJiHqguEMevlTQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/6c8d478dd22f",
-          "author": "Aardvark Infinity",
-          "description": "By Gerard King",
-          "link": "https://coinsbench.com/step-by-step-guide-to-setting-up-an-auto-wallet-6c8d478dd22f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-19T14:40:01.000Z",
-          "wordCount": 1623,
-          "title": "Step-by-Step Guide to Setting Up an Auto Wallet",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*QpuCZQInNQsOfJXZ"
-        },
-        {
-          "id": "https://medium.com/p/fd1176047e3a",
-          "author": "shubham kumar singh",
-          "description": "In the first part of this article, we explored the advantages of Solana and its potential to revolutionize the blockchain landscape. Now…",
-          "link": "https://coinsbench.com/unveiling-solana-part-2-deploying-solana-nodes-on-aws-fd1176047e3a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-19T14:39:58.000Z",
-          "wordCount": 2083,
-          "title": "Unveiling Solana: (Part 2) — Deploying Solana Nodes on AWS",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1111/1*_K18pqg5inNiYbjp3vvO4g.png"
         }
       ]
     },
@@ -186,6 +186,16 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/a82cea9cd0c7",
+          "author": "PRDT Finance",
+          "description": "Welcome to our weekly roundup of the most significant happenings in the crypto space. This edition covers groundbreaking partnerships…",
+          "link": "https://medium.com/coinmonks/this-week-in-crypto-major-highlights-and-insights-a82cea9cd0c7?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-06-28T12:01:41.000Z",
+          "wordCount": 2387,
+          "title": "This Week in Crypto: Major Highlights and Insights",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lfGfaqhdnc_GfjR2K5H93Q.png"
+        },
         {
           "id": "https://medium.com/p/86c0d43aed32",
           "author": "Rogers Mayaka",
@@ -275,16 +285,6 @@
           "wordCount": 2171,
           "title": "Why Logistics Needs Web3 Tech",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:772/1*4JtNNzWSKqa4z2BomxcL8g.png"
-        },
-        {
-          "id": "https://medium.com/p/de66ecfde69e",
-          "author": "Mosaic Asset",
-          "description": "In this post, I’ll focus on setups that I’m monitoring for both long and short positions. With a chart and short write-up, this is a quick…",
-          "link": "https://medium.com/coinmonks/more-mega-cap-stocks-setting-up-breakouts-de66ecfde69e?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-06-28T11:03:08.000Z",
-          "wordCount": 3220,
-          "title": "More mega-cap stocks setting up breakouts.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:683/0*lI_YoQu1YlkOatZG.png"
         }
       ]
     },
