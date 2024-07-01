@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-01T11:11:51.144Z</id>
+    <id>urn:2024-07-01T12:27:29.906Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-01T11:11:51.144Z</updated>
+    <updated>2024-07-01T12:27:29.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Basic Solidity Smart Contract]]></title>
+        <id>https://medium.com/p/3470570c0d01</id>
+        <link href="https://blog.blockmagnates.com/basic-solidity-smart-contract-3470570c0d01?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-07-01T12:13:14.000Z</updated>
+        <summary type="html"><![CDATA[This is a contract for making a basic calculator with solidity.]]></summary>
+        <author>
+            <name>Ahmad Raza Khokhar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Consensus Mechanisms: Ensuring Agreement in Decentralized AI Networks]]></title>
         <id>https://medium.com/p/ec48d72286ae</id>
