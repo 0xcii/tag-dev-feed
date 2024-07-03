@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-03T12:26:37.029Z</id>
+    <id>urn:2024-07-03T13:16:19.406Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-03T12:26:37.029Z</updated>
+    <updated>2024-07-03T13:16:19.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smart Contracts: Discover the future of business automation!]]></title>
+        <id>https://medium.com/p/e2ec47b81a75</id>
+        <link href="https://coinsbench.com/smart-contracts-discover-the-future-of-business-automation-e2ec47b81a75?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-03T12:34:37.000Z</updated>
+        <summary type="html"><![CDATA[Hello friends! Today I want to talk about such an interesting and innovative tool as smart contracts.]]></summary>
+        <author>
+            <name>Stan BLK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain: Is it a miracle technology or just hype?]]></title>
+        <id>https://medium.com/p/adc417a20263</id>
+        <link href="https://coinsbench.com/blockchain-is-it-a-miracle-technology-or-just-a-hype-adc417a20263?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-03T12:34:34.000Z</updated>
+        <summary type="html"><![CDATA[Hi! Today I want to talk about blockchain, a technology that has been widely heard over the past few years.]]></summary>
+        <author>
+            <name>Stan BLK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying Interfaces in Solidity]]></title>
+        <id>https://medium.com/p/e28c359e5268</id>
+        <link href="https://coinsbench.com/demystifying-interfaces-in-solidity-e28c359e5268?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-03T12:34:07.000Z</updated>
+        <summary type="html"><![CDATA[Interfaces in Solidity are like blueprints that tell different contracts how to talk to each other. They define what functions a contract…]]></summary>
+        <author>
+            <name>Naresh Mohanraj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ERC20 Tokens, Oracles, ICOs, and More!]]></title>
         <id>https://medium.com/p/49aff3ff8534</id>
@@ -196,36 +226,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[In smart contract development, relying on block timestamps for critical operations can introduce significant vulnerabilities. Timestamp…]]></summary>
         <author>
             <name>Mustafa Akbulut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract Vulnerabilities Unveiled: Access Control Issues]]></title>
-        <id>https://medium.com/p/5fae9b01b929</id>
-        <link href="https://coinsbench.com/smart-contract-vulnerabilities-unveiled-access-control-issues-5fae9b01b929?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-26T10:35:55.000Z</updated>
-        <summary type="html"><![CDATA[In the world of smart contracts, ensuring that only authorized users can execute certain functions is paramount. Access control issues are…]]></summary>
-        <author>
-            <name>Mustafa Akbulut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract Vulnerabilities Unveiled: Reentrancy Attack]]></title>
-        <id>https://medium.com/p/75e9a1d4311c</id>
-        <link href="https://coinsbench.com/smart-contract-vulnerabilities-unveiled-reentrancy-attack-75e9a1d4311c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-26T10:35:51.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts are the backbone of decentralized applications on the blockchain. However, like any code, they can be vulnerable to…]]></summary>
-        <author>
-            <name>Mustafa Akbulut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding View and Pure Functions in Solidity]]></title>
-        <id>https://medium.com/p/cd8a84074b20</id>
-        <link href="https://coinsbench.com/understanding-view-and-pure-functions-in-solidity-cd8a84074b20?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-26T10:35:49.000Z</updated>
-        <summary type="html"><![CDATA[In Solidity, functions can be categorized into multiple types based on their interaction with the state of the blockchain. Two of the most…]]></summary>
-        <author>
-            <name>Milun Radonjic</name>
         </author>
     </entry>
     <entry>

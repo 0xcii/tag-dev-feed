@@ -80,6 +80,36 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e2ec47b81a75",
+          "author": "Stan BLK",
+          "description": "Hello friends! Today I want to talk about such an interesting and innovative tool as smart contracts.",
+          "link": "https://coinsbench.com/smart-contracts-discover-the-future-of-business-automation-e2ec47b81a75?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-03T12:34:37.000Z",
+          "wordCount": 1333,
+          "title": "Smart Contracts: Discover the future of business automation!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*68ewb5MdrMT744tYTvhV3A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/adc417a20263",
+          "author": "Stan BLK",
+          "description": "Hi! Today I want to talk about blockchain, a technology that has been widely heard over the past few years.",
+          "link": "https://coinsbench.com/blockchain-is-it-a-miracle-technology-or-just-a-hype-adc417a20263?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-03T12:34:34.000Z",
+          "wordCount": 1652,
+          "title": "Blockchain: Is it a miracle technology or just hype?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*_VucFu7g0GAn-8cHTmcfzg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/e28c359e5268",
+          "author": "Naresh Mohanraj",
+          "description": "Interfaces in Solidity are like blueprints that tell different contracts how to talk to each other. They define what functions a contract…",
+          "link": "https://coinsbench.com/demystifying-interfaces-in-solidity-e28c359e5268?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-03T12:34:07.000Z",
+          "wordCount": 2065,
+          "title": "Demystifying Interfaces in Solidity",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/2766f25c683c",
           "author": "Milun Radonjic",
           "description": "When I first started learning about Ethereum, this was something I knew I needed to understand and I wanted to simplify it for myself…",
@@ -148,36 +178,6 @@
           "wordCount": 1438,
           "title": "Smart Contract Vulnerabilities Unveiled: Timestamp Dependence",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*Rfn4Lcohmnbve5ZMZvVRDA.png"
-        },
-        {
-          "id": "https://medium.com/p/5fae9b01b929",
-          "author": "Mustafa Akbulut",
-          "description": "In the world of smart contracts, ensuring that only authorized users can execute certain functions is paramount. Access control issues are…",
-          "link": "https://coinsbench.com/smart-contract-vulnerabilities-unveiled-access-control-issues-5fae9b01b929?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-26T10:35:55.000Z",
-          "wordCount": 1429,
-          "title": "Smart Contract Vulnerabilities Unveiled: Access Control Issues",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:780/0*E0tmq2TEx8RLnnGm.png"
-        },
-        {
-          "id": "https://medium.com/p/75e9a1d4311c",
-          "author": "Mustafa Akbulut",
-          "description": "Smart contracts are the backbone of decentralized applications on the blockchain. However, like any code, they can be vulnerable to…",
-          "link": "https://coinsbench.com/smart-contract-vulnerabilities-unveiled-reentrancy-attack-75e9a1d4311c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-26T10:35:51.000Z",
-          "wordCount": 1596,
-          "title": "Smart Contract Vulnerabilities Unveiled: Reentrancy Attack",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:848/0*_v01DmyLlWl4vFAD.jpg"
-        },
-        {
-          "id": "https://medium.com/p/cd8a84074b20",
-          "author": "Milun Radonjic",
-          "description": "In Solidity, functions can be categorized into multiple types based on their interaction with the state of the blockchain. Two of the most…",
-          "link": "https://coinsbench.com/understanding-view-and-pure-functions-in-solidity-cd8a84074b20?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-26T10:35:49.000Z",
-          "wordCount": 1816,
-          "title": "Understanding View and Pure Functions in Solidity",
-          "imageUrl": null
         }
       ]
     },
