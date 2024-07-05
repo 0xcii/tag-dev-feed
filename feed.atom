@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-05T11:11:50.309Z</id>
+    <id>urn:2024-07-05T12:24:56.195Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-05T11:11:50.309Z</updated>
+    <updated>2024-07-05T12:24:56.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Modifiers : Part 1]]></title>
+        <id>https://medium.com/p/60294242db7b</id>
+        <link href="https://coinsbench.com/solidity-modifiers-part-1-60294242db7b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-05T11:15:11.000Z</updated>
+        <summary type="html"><![CDATA[1. Modifier : onlyOwner]]></summary>
+        <author>
+            <name>Naresh Mohanraj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speed Up Your Smart Contract Development in VSCode]]></title>
+        <id>https://medium.com/p/b7eb5b25466c</id>
+        <link href="https://coinsbench.com/speed-up-your-smart-contract-development-in-vscode-b7eb5b25466c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-05T11:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever faced the issue of not remembering the import path when using third-party Solidity smart contracts? Many developers struggle to remember all the import paths and end up just copying and…]]></summary>
+        <author>
+            <name>Ryan Holanda</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Ethereum Staking Rate]]></title>
         <id>https://cryptomarketpool.com/?p=318805</id>
@@ -214,26 +234,6 @@ The post Understanding Ethereum Staking Rate appeared first on Crypto Market Poo
         <summary type="html"><![CDATA[Digital signatures play a crucial role in ensuring the security, authenticity, and authorization of various operations within a…]]></summary>
         <author>
             <name>Jason Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merkel Root in a Blockchain Transaction]]></title>
-        <id>https://medium.com/p/8a71a8b39526</id>
-        <link href="https://coinsbench.com/merkel-root-in-a-blockchain-transaction-8a71a8b39526?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-27T10:23:44.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a block in a blockchain is like a big box filled with receipts, each receipt representing a transaction. A Merkle root helps verify…]]></summary>
-        <author>
-            <name>Naresh Mohanraj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract Vulnerabilities Unveiled: Timestamp Dependence]]></title>
-        <id>https://medium.com/p/6a5f09326dc2</id>
-        <link href="https://coinsbench.com/smart-contract-vulnerabilities-unveiled-timestamp-dependence-6a5f09326dc2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-26T10:35:58.000Z</updated>
-        <summary type="html"><![CDATA[In smart contract development, relying on block timestamps for critical operations can introduce significant vulnerabilities. Timestamp…]]></summary>
-        <author>
-            <name>Mustafa Akbulut</name>
         </author>
     </entry>
     <entry>
