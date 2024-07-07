@@ -11,7 +11,7 @@
           "description": "What is the Ethereum Staking Rate? The Ethereum staking rate is the annual percentage yield (APY) for staking ETH. It…\nThe post Understanding Ethereum Staking Rate appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/understanding-ethereum-staking-rate/",
           "publishedOn": "2024-07-04T16:58:05.000Z",
-          "wordCount": 3453,
+          "wordCount": 3454,
           "title": "Understanding Ethereum Staking Rate",
           "imageUrl": null
         },
@@ -41,7 +41,7 @@
           "description": "In Solidity, mstore and mload are crucial functions for handling low-level memory operations. These functions play a vital role in…\nThe post mstore and mload functions in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/mstore-and-mload-functions-in-solidity/",
           "publishedOn": "2024-06-20T20:43:48.000Z",
-          "wordCount": 3666,
+          "wordCount": 3665,
           "title": "mstore and mload functions in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -61,7 +61,7 @@
           "description": "Creating Real-World Assets on Ethereum: A Comprehensive Guide to Solidity In recent years, the Ethereum blockchain has gained significant traction…\nThe post Real world assets on Ethereum appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/real-world-assets-on-ethereum/",
           "publishedOn": "2024-06-17T12:59:30.000Z",
-          "wordCount": 4009,
+          "wordCount": 4010,
           "title": "Real world assets on Ethereum",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2024/06/image.png"
         }
@@ -78,6 +78,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/b9e9b4607eac",
+          "author": "Christianinyekaka",
+          "description": "Rotating savings and credit association (ROSCA). This traditional form of cooperative savings and lending involves a group of individuals…",
+          "link": "https://coinsbench.com/blockchain-based-rosca-implementing-on-chain-verification-for-secure-fund-claims-b9e9b4607eac?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-07T12:16:43.000Z",
+          "wordCount": 1793,
+          "title": "Blockchain-Based ROSCA: Implementing On-Chain Verification for Secure Fund Claims",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*B4pb8iOBBwRE9a36Rs5-XQ.jpeg"
+        },
         {
           "id": "https://medium.com/p/60294242db7b",
           "author": "Naresh Mohanraj",
@@ -167,16 +177,6 @@
           "wordCount": 1804,
           "title": "Managing Whitelist Overload: Ensuring Effective NFT drops with Proof of Funds",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JImqfDsAtMvQARGVTv1jHA.png"
-        },
-        {
-          "id": "https://medium.com/p/5df43414d0d8",
-          "author": "Jason Schwarz",
-          "description": "Digital signatures play a crucial role in ensuring the security, authenticity, and authorization of various operations within a…",
-          "link": "https://coinsbench.com/how-to-sign-and-verify-messages-with-ethers-5df43414d0d8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-28T12:04:08.000Z",
-          "wordCount": 2529,
-          "title": "How to sign and verify messages with Ethers",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LJKkMjsiEThGOlyrEPEPuw.png"
         }
       ]
     },
@@ -388,7 +388,7 @@
           "description": "In a previous post, I discussed the Applications of blockchain technology beyond cryptocurrency. Among these applications, I highlighted…",
           "link": "https://blog.blockmagnates.com/implementing-a-voting-smart-contract-on-ethereum-blockchain-part-1-5b96e5c9bb4a?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-06-08T10:37:10.000Z",
-          "wordCount": 3089,
+          "wordCount": 3102,
           "title": "Implementing a Voting Smart Contract on Ethereum Blockchain — Part 1",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*Ot0Urpm1WvWgwZjFVYscdQ.jpeg"
         }
