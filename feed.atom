@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-08T14:13:01.777Z</id>
+    <id>urn:2024-07-08T15:14:26.567Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-08T14:13:01.777Z</updated>
+    <updated>2024-07-08T15:14:26.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Ethers.js]]></title>
+        <id>https://medium.com/p/8e2ea4865246</id>
+        <link href="https://coinsbench.com/understanding-ethers-js-8e2ea4865246?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-08T14:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Welcome, fellow developers and blockchain enthusiasts! My name is David Joseph, and today, I’m excited to dive into the world of Ethers.js…]]></summary>
+        <author>
+            <name>Joseph David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RareSkills Solidity Interview Question #42 Answered: What is the difference between a cold read and…]]></title>
+        <id>https://medium.com/p/96cb349b8c57</id>
+        <link href="https://coinsbench.com/rareskills-solidity-interview-question-42-answered-what-is-the-difference-between-a-cold-read-and-96cb349b8c57?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-08T14:30:57.000Z</updated>
+        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
+        <author>
+            <name>Faybian Byrd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 2 — Implementing a Voting Smart Contract on Ethereum Blockchain]]></title>
+        <id>https://medium.com/p/8c1a3bbb25e5</id>
+        <link href="https://blog.blockmagnates.com/part-2-implementing-a-voting-smart-contract-on-ethereum-blockchain-8c1a3bbb25e5?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-07-08T14:26:37.000Z</updated>
+        <summary type="html"><![CDATA[In Part 1, we explored the Solidity code for our voting smart contract, detailing its declaration, state variables, and essential structs…]]></summary>
+        <author>
+            <name>Ayo Omotayo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jumpstarting Your Journey into Solidity: A Beginner’s Guide to Blockchain Smart Contracts]]></title>
         <id>https://medium.com/p/e06f34d3ac67</id>
@@ -246,26 +276,6 @@ The post Understanding Ethereum Staking Rate appeared first on Crypto Market Poo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding Flash Loans in DeFi]]></title>
-        <id>https://medium.com/p/e57f30a634ab</id>
-        <link href="https://coinsbench.com/understanding-flash-loans-in-defi-e57f30a634ab?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-28T12:04:19.000Z</updated>
-        <summary type="html"><![CDATA[In the realm of decentralized finance (DeFi), opportunities often arise that demand swift action to capitalize on them. One such…]]></summary>
-        <author>
-            <name>Jason Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing Whitelist Overload: Ensuring Effective NFT drops with Proof of Funds]]></title>
-        <id>https://medium.com/p/d1f5d08943fe</id>
-        <link href="https://coinsbench.com/managing-whitelist-overload-ensuring-effective-nft-drops-with-proof-of-funds-d1f5d08943fe?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-28T12:04:13.000Z</updated>
-        <summary type="html"><![CDATA[How often have you curated a whitelist based on partners and community members, only to find the user count far exceeds the total supply of…]]></summary>
-        <author>
-            <name>Jason Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bitcoin Nerd Miner Setup and Configuration]]></title>
         <id>https://cryptomarketpool.com/?p=309505</id>
         <link href="https://cryptomarketpool.com/bitcoin-nerd-miner-setup-and-configuration/"/>
@@ -368,16 +378,6 @@ The post Real world assets on Ethereum appeared first on Crypto Market Pool.]]><
         <summary type="html"><![CDATA[Blockchain and cryptocurrencies have captured the imagination of tech enthusiasts and innovators worldwide. If you’re curious about how to…]]></summary>
         <author>
             <name>Discoursefy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating your own NFT — Part I]]></title>
-        <id>https://medium.com/p/d202afd73450</id>
-        <link href="https://blog.blockmagnates.com/creating-your-own-nft-part-i-d202afd73450?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-10T18:31:48.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will go through the entire process of creating an NFT form start to finish and publishing it to OpenSea.]]></summary>
-        <author>
-            <name>Jo Vinkenroye</name>
         </author>
     </entry>
 </feed>
