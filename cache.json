@@ -41,7 +41,7 @@
           "description": "In Solidity, mstore and mload are crucial functions for handling low-level memory operations. These functions play a vital role in…\nThe post mstore and mload functions in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/mstore-and-mload-functions-in-solidity/",
           "publishedOn": "2024-06-20T20:43:48.000Z",
-          "wordCount": 3676,
+          "wordCount": 3677,
           "title": "mstore and mload functions in Solidity",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -51,7 +51,7 @@
           "description": "A vault inflation attack is a malicious tactic that exploits a smart contract’s vulnerability, causing an excessive increase in the…\nThe post Vault inflation attack appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/vault-inflation-attack/",
           "publishedOn": "2024-06-18T22:22:18.000Z",
-          "wordCount": 3560,
+          "wordCount": 3559,
           "title": "Vault inflation attack",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -293,6 +293,26 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/e06f34d3ac67",
+          "author": "Yasir Bashir - Software Engineer",
+          "description": "Introduction",
+          "link": "https://blog.blockmagnates.com/title-jumpstarting-your-journey-into-solidity-a-beginners-guide-to-blockchain-smart-contracts-e06f34d3ac67?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-07-08T13:26:47.000Z",
+          "wordCount": 2039,
+          "title": "Jumpstarting Your Journey into Solidity: A Beginner’s Guide to Blockchain Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:596/1*AD2YDLGpQHh-XtMnZ0krEQ.png"
+        },
+        {
+          "id": "https://medium.com/p/b5ffbfde2678",
+          "author": "Joseph David",
+          "description": "Introduction",
+          "link": "https://blog.blockmagnates.com/what-is-ethers-js-and-how-it-works-with-hardhat-to-make-smart-web3-dapps-b5ffbfde2678?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-07-08T13:26:29.000Z",
+          "wordCount": 1901,
+          "title": "What is Ethers.js and How It Works with Hardhat to Make Smart Web3 DApps",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*zsXkBXmOSSYyIkiu4GNhPA.jpeg"
+        },
+        {
           "id": "https://medium.com/p/49aff3ff8534",
           "author": "bustedware",
           "description": "In this tutorial, learn how to run a private ethereum blockchain and deploy your very own ERC20 token. We’ll also cover getting real world…",
@@ -371,16 +391,6 @@
           "wordCount": 2729,
           "title": "Creating your own NFT — Part I",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:250/1*1FZ53yJwiGAs2uY_LmjQ4w.gif"
-        },
-        {
-          "id": "https://medium.com/p/4c993e5802d9",
-          "author": "Jo Vinkenroye",
-          "description": "In the last post, we went through the generation of the images for the NFT. In this post we will take a look at how to generate metadata…",
-          "link": "https://blog.blockmagnates.com/creating-your-own-nft-part-ii-4c993e5802d9?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2024-06-10T18:31:45.000Z",
-          "wordCount": 3003,
-          "title": "Creating your own NFT — Part II",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*u1AMpz-eTKtB4ak4GWjuOw.png"
         }
       ]
     },

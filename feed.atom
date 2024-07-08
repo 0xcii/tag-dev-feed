@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-08T13:17:13.101Z</id>
+    <id>urn:2024-07-08T14:13:01.777Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-08T13:17:13.101Z</updated>
+    <updated>2024-07-08T14:13:01.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jumpstarting Your Journey into Solidity: A Beginner’s Guide to Blockchain Smart Contracts]]></title>
+        <id>https://medium.com/p/e06f34d3ac67</id>
+        <link href="https://blog.blockmagnates.com/title-jumpstarting-your-journey-into-solidity-a-beginners-guide-to-blockchain-smart-contracts-e06f34d3ac67?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-07-08T13:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Yasir Bashir - Software Engineer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Ethers.js and How It Works with Hardhat to Make Smart Web3 DApps]]></title>
+        <id>https://medium.com/p/b5ffbfde2678</id>
+        <link href="https://blog.blockmagnates.com/what-is-ethers-js-and-how-it-works-with-hardhat-to-make-smart-web3-dapps-b5ffbfde2678?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-07-08T13:26:29.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Joseph David</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Best Crypto SEO Agencies in 2024]]></title>
         <id>https://medium.com/p/873997e0517f</id>
@@ -356,16 +376,6 @@ The post Real world assets on Ethereum appeared first on Crypto Market Pool.]]><
         <link href="https://blog.blockmagnates.com/creating-your-own-nft-part-i-d202afd73450?source=rss----18fa961f1eff--solidity"/>
         <updated>2024-06-10T18:31:48.000Z</updated>
         <summary type="html"><![CDATA[In this tutorial, we will go through the entire process of creating an NFT form start to finish and publishing it to OpenSea.]]></summary>
-        <author>
-            <name>Jo Vinkenroye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating your own NFT — Part II]]></title>
-        <id>https://medium.com/p/4c993e5802d9</id>
-        <link href="https://blog.blockmagnates.com/creating-your-own-nft-part-ii-4c993e5802d9?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-10T18:31:45.000Z</updated>
-        <summary type="html"><![CDATA[In the last post, we went through the generation of the images for the NFT. In this post we will take a look at how to generate metadata…]]></summary>
         <author>
             <name>Jo Vinkenroye</name>
         </author>
