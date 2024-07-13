@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-13T15:13:01.379Z</id>
+    <id>urn:2024-07-13T16:15:01.771Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-13T15:13:01.379Z</updated>
+    <updated>2024-07-13T16:15:01.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UniswapV3 Swapping ERC20’s with SwapRouter02 BaseL2]]></title>
+        <id>https://medium.com/p/083c10875abb</id>
+        <link href="https://blog.blockmagnates.com/swapping-erc20s-with-swaprouter02-basel2-083c10875abb?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-07-13T15:51:03.000Z</updated>
+        <summary type="html"><![CDATA[hope this helps!]]></summary>
+        <author>
+            <name>Yahdiiel Saldana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identity Hijacking: The Silent Threat That Could Destroy Everything You’ve Worked For]]></title>
+        <id>https://medium.com/p/300493ed2fc2</id>
+        <link href="https://coinsbench.com/identity-hijacking-the-silent-threat-that-could-destroy-everything-youve-worked-for-300493ed2fc2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-13T15:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Is someone using your personal or financial information to purchase, get benefits, file taxes, or commit fraud? Do you know that can…]]></summary>
+        <author>
+            <name>Ukezi Ebenezer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RWA Tokenization: A Comprehensive Trial Run]]></title>
+        <id>https://medium.com/p/851449ddfcbd</id>
+        <link href="https://coinsbench.com/rwa-tokenization-a-comprehensive-trial-run-851449ddfcbd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-13T15:50:06.000Z</updated>
+        <summary type="html"><![CDATA[ERC-3643: Converting Real-World Assets into Digital Assets
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>luckyStars</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Robust API Server with Rust: A Comprehensive Guide]]></title>
+        <id>https://medium.com/p/743d71f627cc</id>
+        <link href="https://coinsbench.com/building-a-robust-api-server-with-rust-a-comprehensive-guide-743d71f627cc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-13T15:50:03.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, Rust has gained significant traction in the software development community due to its performance, safety, and…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Ashish Sharda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing the Power of Machine Learning with Rust: A Deep Dive into the Linfa Library]]></title>
+        <id>https://medium.com/p/0fceddbec801</id>
+        <link href="https://coinsbench.com/unleashing-the-power-of-machine-learning-with-rust-a-deep-dive-into-the-linfa-library-0fceddbec801?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-13T15:50:01.000Z</updated>
+        <summary type="html"><![CDATA[The quest for efficiency and safety in machine learning (ML) brings us to Rust, a language renowned for its performance and reliability…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Ashish Sharda</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A brief history of Smart Contracts]]></title>
         <id>https://www.cryptomaton.org/?p=1717</id>
@@ -230,36 +283,6 @@ The post Understanding Ethereum Staking Rate appeared first on Crypto Market Poo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smart Contracts: Discover the future of business automation!]]></title>
-        <id>https://medium.com/p/e2ec47b81a75</id>
-        <link href="https://coinsbench.com/smart-contracts-discover-the-future-of-business-automation-e2ec47b81a75?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-03T12:34:37.000Z</updated>
-        <summary type="html"><![CDATA[Hello friends! Today I want to talk about such an interesting and innovative tool as smart contracts.]]></summary>
-        <author>
-            <name>Stan BLK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain: Is it a miracle technology or just hype?]]></title>
-        <id>https://medium.com/p/adc417a20263</id>
-        <link href="https://coinsbench.com/blockchain-is-it-a-miracle-technology-or-just-a-hype-adc417a20263?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-03T12:34:34.000Z</updated>
-        <summary type="html"><![CDATA[Hi! Today I want to talk about blockchain, a technology that has been widely heard over the past few years.]]></summary>
-        <author>
-            <name>Stan BLK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying Interfaces in Solidity]]></title>
-        <id>https://medium.com/p/e28c359e5268</id>
-        <link href="https://coinsbench.com/demystifying-interfaces-in-solidity-e28c359e5268?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-03T12:34:07.000Z</updated>
-        <summary type="html"><![CDATA[Interfaces in Solidity are like blueprints that tell different contracts how to talk to each other. They define what functions a contract…]]></summary>
-        <author>
-            <name>Naresh Mohanraj</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ERC20 Tokens, Oracles, ICOs, and More!]]></title>
         <id>https://medium.com/p/49aff3ff8534</id>
         <link href="https://blog.blockmagnates.com/erc20-tokens-oracles-icos-and-more-49aff3ff8534?source=rss----18fa961f1eff--solidity"/>
@@ -277,16 +300,6 @@ The post Understanding Ethereum Staking Rate appeared first on Crypto Market Poo
         <summary type="html"><![CDATA[This is a contract for making a basic calculator with solidity.]]></summary>
         <author>
             <name>Ahmad Raza Khokhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple Explanation of Ethereum Gas And Fees]]></title>
-        <id>https://medium.com/p/2766f25c683c</id>
-        <link href="https://coinsbench.com/simple-explanation-of-ethereum-gas-and-fees-2766f25c683c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-06-28T12:04:43.000Z</updated>
-        <summary type="html"><![CDATA[When I first started learning about Ethereum, this was something I knew I needed to understand and I wanted to simplify it for myself…]]></summary>
-        <author>
-            <name>Milun Radonjic</name>
         </author>
     </entry>
     <entry>
@@ -350,16 +363,6 @@ The post mstore and mload functions in Solidity appeared first on Crypto Market 
         <summary type="html"><![CDATA[BackGround]]></summary>
         <author>
             <name>huzhanchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERC 7521 Core Concepts Explainer]]></title>
-        <id>https://medium.com/p/8f5b47751e45</id>
-        <link href="https://blog.blockmagnates.com/erc-7521-core-concepts-explainer-8f5b47751e45?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-19T14:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Suryansh Shrivastava</name>
         </author>
     </entry>
     <entry>

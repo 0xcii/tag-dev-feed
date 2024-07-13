@@ -61,7 +61,7 @@
           "description": "Creating Real-World Assets on Ethereum: A Comprehensive Guide to Solidity In recent years, the Ethereum blockchain has gained significant traction…\nThe post Real world assets on Ethereum appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/real-world-assets-on-ethereum/",
           "publishedOn": "2024-06-17T12:59:30.000Z",
-          "wordCount": 4066,
+          "wordCount": 4067,
           "title": "Real world assets on Ethereum",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2024/06/image.png"
         }
@@ -89,6 +89,46 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/300493ed2fc2",
+          "author": "Ukezi Ebenezer",
+          "description": "Is someone using your personal or financial information to purchase, get benefits, file taxes, or commit fraud? Do you know that can…",
+          "link": "https://coinsbench.com/identity-hijacking-the-silent-threat-that-could-destroy-everything-youve-worked-for-300493ed2fc2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-13T15:50:08.000Z",
+          "wordCount": 4278,
+          "title": "Identity Hijacking: The Silent Threat That Could Destroy Everything You’ve Worked For",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:313/1*t75SEcDFVtHD8Zo3RfcmLg.png"
+        },
+        {
+          "id": "https://medium.com/p/851449ddfcbd",
+          "author": "luckyStars",
+          "description": "ERC-3643: Converting Real-World Assets into Digital Assets\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/rwa-tokenization-a-comprehensive-trial-run-851449ddfcbd?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-13T15:50:06.000Z",
+          "wordCount": 937,
+          "title": "RWA Tokenization: A Comprehensive Trial Run",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*N8hlTR2S-CoRW9kWv7cvzQ.png"
+        },
+        {
+          "id": "https://medium.com/p/743d71f627cc",
+          "author": "Ashish Sharda",
+          "description": "In recent years, Rust has gained significant traction in the software development community due to its performance, safety, and…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/building-a-robust-api-server-with-rust-a-comprehensive-guide-743d71f627cc?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-13T15:50:03.000Z",
+          "wordCount": 1047,
+          "title": "Building a Robust API Server with Rust: A Comprehensive Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*zZeAGozimwpFMka02BwzgQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/0fceddbec801",
+          "author": "Ashish Sharda",
+          "description": "The quest for efficiency and safety in machine learning (ML) brings us to Rust, a language renowned for its performance and reliability…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/unleashing-the-power-of-machine-learning-with-rust-a-deep-dive-into-the-linfa-library-0fceddbec801?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-13T15:50:01.000Z",
+          "wordCount": 1092,
+          "title": "Unleashing the Power of Machine Learning with Rust: A Deep Dive into the Linfa Library",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*YUd-azXk7pc9C01b6oISKg.jpeg"
+        },
         {
           "id": "https://medium.com/p/d5e983a8d5fb",
           "author": "Darlington Gospel",
@@ -148,46 +188,6 @@
           "wordCount": 1598,
           "title": "Speed Up Your Smart Contract Development in VSCode",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*TqlVL-bnCpEQ4yii"
-        },
-        {
-          "id": "https://medium.com/p/e2ec47b81a75",
-          "author": "Stan BLK",
-          "description": "Hello friends! Today I want to talk about such an interesting and innovative tool as smart contracts.",
-          "link": "https://coinsbench.com/smart-contracts-discover-the-future-of-business-automation-e2ec47b81a75?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-03T12:34:37.000Z",
-          "wordCount": 1333,
-          "title": "Smart Contracts: Discover the future of business automation!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*68ewb5MdrMT744tYTvhV3A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/adc417a20263",
-          "author": "Stan BLK",
-          "description": "Hi! Today I want to talk about blockchain, a technology that has been widely heard over the past few years.",
-          "link": "https://coinsbench.com/blockchain-is-it-a-miracle-technology-or-just-a-hype-adc417a20263?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-03T12:34:34.000Z",
-          "wordCount": 1652,
-          "title": "Blockchain: Is it a miracle technology or just hype?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*_VucFu7g0GAn-8cHTmcfzg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e28c359e5268",
-          "author": "Naresh Mohanraj",
-          "description": "Interfaces in Solidity are like blueprints that tell different contracts how to talk to each other. They define what functions a contract…",
-          "link": "https://coinsbench.com/demystifying-interfaces-in-solidity-e28c359e5268?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-03T12:34:07.000Z",
-          "wordCount": 2065,
-          "title": "Demystifying Interfaces in Solidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2766f25c683c",
-          "author": "Milun Radonjic",
-          "description": "When I first started learning about Ethereum, this was something I knew I needed to understand and I wanted to simplify it for myself…",
-          "link": "https://coinsbench.com/simple-explanation-of-ethereum-gas-and-fees-2766f25c683c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-06-28T12:04:43.000Z",
-          "wordCount": 1987,
-          "title": "Simple Explanation of Ethereum Gas And Fees",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mPYOB6OUmaj-l2BZB44_HA.jpeg"
         }
       ]
     },
@@ -304,6 +304,16 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/083c10875abb",
+          "author": "Yahdiiel Saldana",
+          "description": "hope this helps!",
+          "link": "https://blog.blockmagnates.com/swapping-erc20s-with-swaprouter02-basel2-083c10875abb?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-07-13T15:51:03.000Z",
+          "wordCount": 2369,
+          "title": "UniswapV3 Swapping ERC20’s with SwapRouter02 BaseL2",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yN0qHstzt3_AA3mdIWugDQ.png"
+        },
+        {
           "id": "https://medium.com/p/1270e2091fb3",
           "author": "Tanuj Gupta",
           "description": "Introduction",
@@ -392,16 +402,6 @@
           "wordCount": 2885,
           "title": "Write customized Mythrill module to audit Phishing contract",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1186/0*F4zg5jknvh2jXTNE"
-        },
-        {
-          "id": "https://medium.com/p/8f5b47751e45",
-          "author": "Suryansh Shrivastava",
-          "description": "Introduction",
-          "link": "https://blog.blockmagnates.com/erc-7521-core-concepts-explainer-8f5b47751e45?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2024-06-19T14:31:21.000Z",
-          "wordCount": 3246,
-          "title": "ERC 7521 Core Concepts Explainer",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8SvFr4b7f7ilzJ-APuYfjQ.png"
         }
       ]
     },
