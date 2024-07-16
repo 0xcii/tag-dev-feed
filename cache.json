@@ -11,7 +11,7 @@
           "description": "What is the Ethereum Staking Rate? The Ethereum staking rate is the annual percentage yield (APY) for staking ETH. It…\nThe post Understanding Ethereum Staking Rate appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/understanding-ethereum-staking-rate/",
           "publishedOn": "2024-07-04T16:58:05.000Z",
-          "wordCount": null,
+          "wordCount": 3473,
           "title": "Understanding Ethereum Staking Rate",
           "imageUrl": null
         },
@@ -21,9 +21,9 @@
           "description": "Welcome to the Bitcoin Nerd Miner setup and configuration guide. Follow these steps to connect your device to your Wi-Fi…\nThe post Bitcoin Nerd Miner Setup and Configuration appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/bitcoin-nerd-miner-setup-and-configuration/",
           "publishedOn": "2024-06-25T19:56:34.000Z",
-          "wordCount": null,
+          "wordCount": 3648,
           "title": "Bitcoin Nerd Miner Setup and Configuration",
-          "imageUrl": null
+          "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2024/06/NerdMiner-configureWifi-v2.jpg"
         },
         {
           "id": "https://cryptomarketpool.com/?p=306165",
@@ -31,7 +31,7 @@
           "description": "Bitcoin solo mining and pool mining is the process of validating and adding transaction records to the blockchain. Miners compete…\nThe post Bitcoin Solo Mining appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/bitcoin-solo-mining/",
           "publishedOn": "2024-06-23T16:15:40.000Z",
-          "wordCount": null,
+          "wordCount": 4098,
           "title": "Bitcoin Solo Mining",
           "imageUrl": null
         },
@@ -41,9 +41,9 @@
           "description": "In Solidity, mstore and mload are crucial functions for handling low-level memory operations. These functions play a vital role in…\nThe post mstore and mload functions in Solidity appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/mstore-and-mload-functions-in-solidity/",
           "publishedOn": "2024-06-20T20:43:48.000Z",
-          "wordCount": null,
+          "wordCount": 3685,
           "title": "mstore and mload functions in Solidity",
-          "imageUrl": null
+          "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
         {
           "id": "https://cryptomarketpool.com/?p=302582",
@@ -51,9 +51,9 @@
           "description": "A vault inflation attack is a malicious tactic that exploits a smart contract’s vulnerability, causing an excessive increase in the…\nThe post Vault inflation attack appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/vault-inflation-attack/",
           "publishedOn": "2024-06-18T22:22:18.000Z",
-          "wordCount": null,
+          "wordCount": 3568,
           "title": "Vault inflation attack",
-          "imageUrl": null
+          "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
         {
           "id": "https://cryptomarketpool.com/?p=299593",
@@ -61,9 +61,9 @@
           "description": "Creating Real-World Assets on Ethereum: A Comprehensive Guide to Solidity In recent years, the Ethereum blockchain has gained significant traction…\nThe post Real world assets on Ethereum appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/real-world-assets-on-ethereum/",
           "publishedOn": "2024-06-17T12:59:30.000Z",
-          "wordCount": null,
+          "wordCount": 4029,
           "title": "Real world assets on Ethereum",
-          "imageUrl": null
+          "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2024/06/image.png"
         }
       ]
     },
@@ -89,6 +89,36 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/4b8e54d8caa5",
+          "author": "Ranjithkumar C",
+          "description": "Welcome to the world of blockchain development! If you’re interested in building decentralized applications (dApps) on a scalable and efficient platform, Polygon is an excellent choice. In this blog…",
+          "link": "https://coinsbench.com/introduction-to-polygon-development-a-beginner-8217-s-guide-4b8e54d8caa5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-16T14:55:53.000Z",
+          "wordCount": 2025,
+          "title": "Introduction to Polygon Development: A Beginner’s Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*Q-UjW9M_kQJO06MO.jpg"
+        },
+        {
+          "id": "https://medium.com/p/656ae3150aac",
+          "author": "Ashish Sharda",
+          "description": "In the world of software engineering, where security is paramount, the choice of programming language is crucial. As technology advances…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/security-aspects-of-rust-enhancing-software-security-with-modern-language-design-656ae3150aac?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-16T14:55:51.000Z",
+          "wordCount": 1071,
+          "title": "Security Aspects of Rust: Enhancing Software Security with Modern Language Design",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*7PSlNX35Q8W1Od2xH8PY9Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/dfa41923febe",
+          "author": "Ashish Sharda",
+          "description": "In the ever-evolving landscape of web development, the tools and frameworks we choose significantly influence the efficiency, performance…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/svelte-vs-next-js-a-detailed-comparison-for-engineers-dfa41923febe?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-16T14:55:49.000Z",
+          "wordCount": 1039,
+          "title": "Svelte vs Next.js: A Detailed Comparison for Engineers",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*JQsdJBXASbdq98wCJBdJzw.jpeg"
+        },
         {
           "id": "https://medium.com/p/300493ed2fc2",
           "author": "Ukezi Ebenezer",
@@ -158,36 +188,6 @@
           "wordCount": 1638,
           "title": "RareSkills Solidity Interview Question #42 Answered: What is the difference between a cold read and…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*f-VJlmXGAN8dYuYB5NNsWQ.png"
-        },
-        {
-          "id": "https://medium.com/p/b9e9b4607eac",
-          "author": "Christianinyekaka",
-          "description": "Rotating savings and credit association (ROSCA). This traditional form of cooperative savings and lending involves a group of individuals…",
-          "link": "https://coinsbench.com/blockchain-based-rosca-implementing-on-chain-verification-for-secure-fund-claims-b9e9b4607eac?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-07T12:16:43.000Z",
-          "wordCount": 1794,
-          "title": "Blockchain-Based ROSCA: Implementing On-Chain Verification for Secure Fund Claims",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*B4pb8iOBBwRE9a36Rs5-XQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/60294242db7b",
-          "author": "Naresh Mohanraj",
-          "description": "1. Modifier : onlyOwner",
-          "link": "https://coinsbench.com/solidity-modifiers-part-1-60294242db7b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-05T11:15:11.000Z",
-          "wordCount": 2378,
-          "title": "Solidity Modifiers : Part 1",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tXWofDpf-8o-AtJbFtkJ4Q.png"
-        },
-        {
-          "id": "https://medium.com/p/b7eb5b25466c",
-          "author": "Ryan Holanda",
-          "description": "Have you ever faced the issue of not remembering the import path when using third-party Solidity smart contracts? Many developers struggle to remember all the import paths and end up just copying and…",
-          "link": "https://coinsbench.com/speed-up-your-smart-contract-development-in-vscode-b7eb5b25466c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-05T11:15:08.000Z",
-          "wordCount": 1598,
-          "title": "Speed Up Your Smart Contract Development in VSCode",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*TqlVL-bnCpEQ4yii"
         }
       ]
     },
