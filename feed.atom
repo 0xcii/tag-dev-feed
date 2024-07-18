@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-18T10:14:37.283Z</id>
+    <id>urn:2024-07-18T11:12:38.423Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-18T10:14:37.283Z</updated>
+    <updated>2024-07-18T11:12:38.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -365,17 +365,6 @@ The post mstore and mload functions in Solidity appeared first on Crypto Market 
         <summary type="html"><![CDATA[BackGround]]></summary>
         <author>
             <name>huzhanchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vault inflation attack]]></title>
-        <id>https://cryptomarketpool.com/?p=302582</id>
-        <link href="https://cryptomarketpool.com/vault-inflation-attack/"/>
-        <updated>2024-06-18T22:22:18.000Z</updated>
-        <summary type="html"><![CDATA[A vault inflation attack is a malicious tactic that exploits a smart contract’s vulnerability, causing an excessive increase in the…
-The post Vault inflation attack appeared first on Crypto Market Pool.]]></summary>
-        <author>
-            <name>Crypto Market Pool</name>
         </author>
     </entry>
 </feed>
