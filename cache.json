@@ -31,7 +31,7 @@
           "description": "Bitcoin solo mining and pool mining is the process of validating and adding transaction records to the blockchain. Miners compete…\nThe post Bitcoin Solo Mining appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/bitcoin-solo-mining/",
           "publishedOn": "2024-06-23T16:15:40.000Z",
-          "wordCount": 4116,
+          "wordCount": 4115,
           "title": "Bitcoin Solo Mining",
           "imageUrl": null
         },
@@ -85,7 +85,7 @@
           "description": "In the world of software engineering, where security is paramount, the choice of programming language is crucial. As technology advances…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/security-aspects-of-rust-enhancing-software-security-with-modern-language-design-656ae3150aac?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-07-16T14:55:51.000Z",
-          "wordCount": 1071,
+          "wordCount": 1060,
           "title": "Security Aspects of Rust: Enhancing Software Security with Modern Language Design",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*7PSlNX35Q8W1Od2xH8PY9Q.jpeg"
         },
@@ -135,7 +135,7 @@
           "description": "The quest for efficiency and safety in machine learning (ML) brings us to Rust, a language renowned for its performance and reliability…\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/unleashing-the-power-of-machine-learning-with-rust-a-deep-dive-into-the-linfa-library-0fceddbec801?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-07-13T15:50:01.000Z",
-          "wordCount": 1092,
+          "wordCount": 1081,
           "title": "Unleashing the Power of Machine Learning with Rust: A Deep Dive into the Linfa Library",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*YUd-azXk7pc9C01b6oISKg.jpeg"
         },
@@ -177,12 +177,52 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/2af7c03aae54",
+          "author": "Maddy",
+          "description": "As a Solidity developer, you’re likely familiar with deploying contracts using Remix. However, a nuanced yet critical distinction to grasp…",
+          "link": "https://medium.com/coinmonks/runtime-bytecode-vs-bytecode-in-solidity-deployments-with-remix-2af7c03aae54?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-07-19T16:39:22.000Z",
+          "wordCount": 1246,
+          "title": "Runtime Bytecode vs. Bytecode in Solidity Deployments with Remix",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:961/1*tNKPWWjamBG0E1A1sZER4Q.png"
+        },
+        {
+          "id": "https://medium.com/p/197bdd7055a2",
+          "author": "YAROCELIS.eth - Tech Trends",
+          "description": "Get in Front of 50k Tech Leaders: Grow With Us",
+          "link": "https://medium.com/coinmonks/apple-dominates-wall-streets-ai-market-samsung-not-far-behind-197bdd7055a2?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-07-19T16:39:20.000Z",
+          "wordCount": 3465,
+          "title": "Apple Dominates Wall Street’s AI Market, Samsung Not Far Behind.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1058/0*oMJE7Hf1RkOQehhE.png"
+        },
+        {
+          "id": "https://medium.com/p/6ae465f367fe",
+          "author": "HEALE Network",
+          "description": "In the ever-evolving landscape of logistics, the integration of digital technologies has become crucial for enhancing operational…",
+          "link": "https://medium.com/coinmonks/tokenizing-logistics-assets-how-heale-leverages-nfts-and-sfts-to-represent-real-world-entities-6ae465f367fe?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-07-19T16:39:17.000Z",
+          "wordCount": 2001,
+          "title": "Tokenizing Logistics Assets: How HEALE Leverages NFTs and SFTs to Represent Real-World Entities",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1017/0*3DCiQneAdVIhSLbZ"
+        },
+        {
+          "id": "https://medium.com/p/4c097f2edada",
+          "author": "Depin Daily",
+          "description": "Sender Labs, a key player in the NEAR ecosystem, has announced an exciting new airdrop under their innovative SenderDAO initiative. Known…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/sender-labs-senderdao-airdrop-join-the-revolution-in-decentralized-finance-4c097f2edada?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-07-19T16:39:14.000Z",
+          "wordCount": 1197,
+          "title": "Sender Lab’s SenderDAO Airdrop: Join the Revolution in Decentralized Finance",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bx92jaqm3RUYU2_AndBryw.png"
+        },
+        {
           "id": "https://medium.com/p/7c97b5fe0ddb",
           "author": "DailyPanda",
           "description": "Today we will analyze a video that caught my attention on my YouTube main page.",
           "link": "https://medium.com/coinmonks/backtesting-the-hype-can-youtube-indicators-deliver-part-1-7c97b5fe0ddb?source=rss----721b17443fd5---4",
           "publishedOn": "2024-07-19T14:15:04.000Z",
-          "wordCount": 2131,
+          "wordCount": 2132,
           "title": "Backtesting the Hype: Can YouTube Indicators Deliver? (Part 1)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*5ON3OEFY4mN8rT5dKqmzOQ.png"
         },
@@ -235,46 +275,6 @@
           "wordCount": 2872,
           "title": "Top 5 Non-KYC & AML Crypto Exchanges for 2024 Reviewed",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1120/0*ORFJy9LAYjLMQ4VV"
-        },
-        {
-          "id": "https://medium.com/p/a1e54bdb45f2",
-          "author": "Sheldon",
-          "description": "Intro",
-          "link": "https://medium.com/coinmonks/top-5-non-kyc-aml-crypto-exchanges-for-privacy-in-2024-a1e54bdb45f2?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-07-19T13:14:58.000Z",
-          "wordCount": 2791,
-          "title": "Top 5 Non-KYC & AML Crypto Exchanges for Privacy in 2024",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1120/0*PMuCLEB5O4cuY57V"
-        },
-        {
-          "id": "https://medium.com/p/72be2daf9a34",
-          "author": "Sheldon",
-          "description": "Intro",
-          "link": "https://medium.com/coinmonks/top-5-non-kyc-aml-crypto-exchanges-for-secure-trades-in-2024-72be2daf9a34?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-07-19T13:14:57.000Z",
-          "wordCount": 2831,
-          "title": "Top 5 Non-KYC & AML Crypto Exchanges for Secure Trades in 2024",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:929/0*cYGZFLVjyayixy_H"
-        },
-        {
-          "id": "https://medium.com/p/8d473162ec5b",
-          "author": "Paul Osadchuk",
-          "description": "Mt.Gox repayments shock pacifies as the market enters the ‘Greed’ zone. But will upticks endure?",
-          "link": "https://medium.com/coinmonks/bitcoin-recovery-revives-the-market-altcoins-charting-green-8d473162ec5b?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-07-19T13:14:57.000Z",
-          "wordCount": 2731,
-          "title": "Bitcoin Recovery Revives the Market, Altcoins Charting Green",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*fzW642nHGQaoPvDd34Jylw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/6cf1217dfdcb",
-          "author": "Stephen McBride",
-          "description": "Investing in early-stage altcoins is the most asymmetric opportunity today.",
-          "link": "https://medium.com/coinmonks/bitcoin-vs-altcoins-finding-the-most-promising-crypto-6cf1217dfdcb?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-07-19T13:14:53.000Z",
-          "wordCount": 2742,
-          "title": "Bitcoin vs altcoins: finding the most-promising crypto",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*iQZHfi4qHrsIkJICiSt1zw.jpeg"
         }
       ]
     },
