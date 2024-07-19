@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-19T01:56:50.390Z</id>
+    <id>urn:2024-07-19T02:32:18.276Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-19T01:56:50.390Z</updated>
+    <updated>2024-07-19T02:32:18.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -333,36 +333,6 @@ The post Bitcoin Solo Mining appeared first on Crypto Market Pool.]]></summary>
 The post mstore and mload functions in Solidity appeared first on Crypto Market Pool.]]></summary>
         <author>
             <name>Crypto Market Pool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Features of Foundry]]></title>
-        <id>https://medium.com/p/dbe16888dac6</id>
-        <link href="https://blog.blockmagnates.com/key-features-of-foundry-dbe16888dac6?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-19T14:31:41.000Z</updated>
-        <summary type="html"><![CDATA[Foundry is a framework for Ethereum smart contract development, similar to existing frameworks like Hardhat, Brownie, and Truffle. These…]]></summary>
-        <author>
-            <name>Henry Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Batch execution And MultiCall Contract : Save the gas with users]]></title>
-        <id>https://medium.com/p/204951ce9278</id>
-        <link href="https://blog.blockmagnates.com/batch-execution-and-multicall-contract-save-the-gas-with-users-204951ce9278?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-19T14:31:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll dive into two popular approaches many developers believe can help save on RPC consumption: batch requests and…]]></summary>
-        <author>
-            <name>Universal_Photon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Write customized Mythrill module to audit Phishing contract]]></title>
-        <id>https://medium.com/p/ac9f817f10f0</id>
-        <link href="https://blog.blockmagnates.com/write-customized-mythrill-module-to-audit-phishing-contract-ac9f817f10f0?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-06-19T14:31:23.000Z</updated>
-        <summary type="html"><![CDATA[BackGround]]></summary>
-        <author>
-            <name>huzhanchi</name>
         </author>
     </entry>
 </feed>
