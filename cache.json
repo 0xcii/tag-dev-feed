@@ -11,7 +11,7 @@
           "description": "What is the Ethereum Staking Rate? The Ethereum staking rate is the annual percentage yield (APY) for staking ETH. It…\nThe post Understanding Ethereum Staking Rate appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/understanding-ethereum-staking-rate/",
           "publishedOn": "2024-07-04T16:58:05.000Z",
-          "wordCount": 3478,
+          "wordCount": 3477,
           "title": "Understanding Ethereum Staking Rate",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Welcome to the Bitcoin Nerd Miner setup and configuration guide. Follow these steps to connect your device to your Wi-Fi…\nThe post Bitcoin Nerd Miner Setup and Configuration appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/bitcoin-nerd-miner-setup-and-configuration/",
           "publishedOn": "2024-06-25T19:56:34.000Z",
-          "wordCount": 3661,
+          "wordCount": 3652,
           "title": "Bitcoin Nerd Miner Setup and Configuration",
           "imageUrl": "https://cryptomarketpool.com/wp-content/uploads/2024/06/NerdMiner-configureWifi-v2.jpg"
         },
@@ -59,6 +59,56 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/ca6115098352",
+          "author": "luckyStars",
+          "description": "Introduction\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/chasing-alpha-on-the-solana-chain-with-your-own-bot-ca6115098352?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-22T15:07:24.000Z",
+          "wordCount": 934,
+          "title": "Chasing Alpha on the Solana Chain with Your Own Bot",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:624/0*RKumNR2_odWsExEb.png"
+        },
+        {
+          "id": "https://medium.com/p/24f2239efc1f",
+          "author": "Adeyemi Olaoye",
+          "description": "In my previous post, I discussed how I used Reactjs, Tailwind CSS, and Solidity to construct my first decentralized application on…",
+          "link": "https://coinsbench.com/how-i-build-my-first-dapp-project-web3-nft-marketplace-using-reactjs-tailwind-css-and-solidity-24f2239efc1f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-22T15:06:59.000Z",
+          "wordCount": 5427,
+          "title": "How I build my first DApp project (Web3 NFT Marketplace) using Reactjs, Tailwind CSS, and Solidity…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*SpNb2fB55fLdVBiDKTAW7A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/bf878258fa5e",
+          "author": "Adeyemi Olaoye",
+          "description": "For the past few years, I have been willing to dive into the world of Web 3.0, but I have been held back due to a lack of concentration…",
+          "link": "https://coinsbench.com/how-i-build-my-first-dapp-project-web3-nft-marketplace-using-reactjs-tailwind-css-and-solidity-bf878258fa5e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-22T15:06:56.000Z",
+          "wordCount": 5112,
+          "title": "How I build my first DApp project (Web3 NFT Marketplace) using Reactjs, Tailwind CSS, and Solidity…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*aAAHb9mkt0CcmAiXEanrBw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/e32d05653615",
+          "author": "Ashish Sharda",
+          "description": "Rust, known for its performance, reliability, and productivity, has rapidly gained popularity among developers. Its ecosystem is rich with…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/rusts-ecosystem-must-know-libraries-and-tools-e32d05653615?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-22T15:06:54.000Z",
+          "wordCount": 973,
+          "title": "Rust’s Ecosystem: Must-Know Libraries and Tools",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*oG_3ch4wvdMA4vw26gj32A.png"
+        },
+        {
+          "id": "https://medium.com/p/061790ed132f",
+          "author": "Ashish Sharda",
+          "description": "Welcome to the first part of our series on building a neural network in Rust! This series is designed to guide you through the process of…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/part-1-introduction-to-building-a-neural-network-in-rust-061790ed132f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-22T15:06:52.000Z",
+          "wordCount": 1074,
+          "title": "Part 1: Introduction to Building a Neural Network in Rust",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*qEg00Is6dgZ_CI6NpJJE5Q.jpeg"
+        },
         {
           "id": "https://medium.com/p/4b8e54d8caa5",
           "author": "Ranjithkumar C",
@@ -108,56 +158,6 @@
           "wordCount": 937,
           "title": "RWA Tokenization: A Comprehensive Trial Run",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*N8hlTR2S-CoRW9kWv7cvzQ.png"
-        },
-        {
-          "id": "https://medium.com/p/743d71f627cc",
-          "author": "Ashish Sharda",
-          "description": "In recent years, Rust has gained significant traction in the software development community due to its performance, safety, and…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/building-a-robust-api-server-with-rust-a-comprehensive-guide-743d71f627cc?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-13T15:50:03.000Z",
-          "wordCount": 1047,
-          "title": "Building a Robust API Server with Rust: A Comprehensive Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*zZeAGozimwpFMka02BwzgQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/0fceddbec801",
-          "author": "Ashish Sharda",
-          "description": "The quest for efficiency and safety in machine learning (ML) brings us to Rust, a language renowned for its performance and reliability…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/unleashing-the-power-of-machine-learning-with-rust-a-deep-dive-into-the-linfa-library-0fceddbec801?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-13T15:50:01.000Z",
-          "wordCount": 1081,
-          "title": "Unleashing the Power of Machine Learning with Rust: A Deep Dive into the Linfa Library",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*YUd-azXk7pc9C01b6oISKg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d5e983a8d5fb",
-          "author": "Darlington Gospel",
-          "description": "In this guide, I’ll outline six critical steps to help you shorten your learning curve and achieve success in this field.",
-          "link": "https://coinsbench.com/how-to-learn-blockchain-development-a-step-by-step-guide-d5e983a8d5fb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-11T14:03:07.000Z",
-          "wordCount": 2828,
-          "title": "How to Learn Blockchain Development: A Step-by-Step Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*rAvu4-espVK6LfRc.png"
-        },
-        {
-          "id": "https://medium.com/p/8e2ea4865246",
-          "author": "Joseph David",
-          "description": "Welcome, fellow developers and blockchain enthusiasts! My name is David Joseph, and today, I’m excited to dive into the world of Ethers.js…",
-          "link": "https://coinsbench.com/understanding-ethers-js-8e2ea4865246?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-08T14:30:59.000Z",
-          "wordCount": 1862,
-          "title": "Understanding Ethers.js",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*zsXkBXmOSSYyIkiu4GNhPA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/96cb349b8c57",
-          "author": "Faybian Byrd",
-          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
-          "link": "https://coinsbench.com/rareskills-solidity-interview-question-42-answered-what-is-the-difference-between-a-cold-read-and-96cb349b8c57?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-08T14:30:57.000Z",
-          "wordCount": 1638,
-          "title": "RareSkills Solidity Interview Question #42 Answered: What is the difference between a cold read and…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*f-VJlmXGAN8dYuYB5NNsWQ.png"
         }
       ]
     },

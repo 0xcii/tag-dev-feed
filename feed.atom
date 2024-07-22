@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-22T14:13:36.699Z</id>
+    <id>urn:2024-07-22T15:15:38.386Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-22T14:13:36.699Z</updated>
+    <updated>2024-07-22T15:15:38.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chasing Alpha on the Solana Chain with Your Own Bot]]></title>
+        <id>https://medium.com/p/ca6115098352</id>
+        <link href="https://coinsbench.com/chasing-alpha-on-the-solana-chain-with-your-own-bot-ca6115098352?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-22T15:07:24.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>luckyStars</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I build my first DApp project (Web3 NFT Marketplace) using Reactjs, Tailwind CSS, and Solidity…]]></title>
+        <id>https://medium.com/p/24f2239efc1f</id>
+        <link href="https://coinsbench.com/how-i-build-my-first-dapp-project-web3-nft-marketplace-using-reactjs-tailwind-css-and-solidity-24f2239efc1f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-22T15:06:59.000Z</updated>
+        <summary type="html"><![CDATA[In my previous post, I discussed how I used Reactjs, Tailwind CSS, and Solidity to construct my first decentralized application on…]]></summary>
+        <author>
+            <name>Adeyemi Olaoye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I build my first DApp project (Web3 NFT Marketplace) using Reactjs, Tailwind CSS, and Solidity…]]></title>
+        <id>https://medium.com/p/bf878258fa5e</id>
+        <link href="https://coinsbench.com/how-i-build-my-first-dapp-project-web3-nft-marketplace-using-reactjs-tailwind-css-and-solidity-bf878258fa5e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-22T15:06:56.000Z</updated>
+        <summary type="html"><![CDATA[For the past few years, I have been willing to dive into the world of Web 3.0, but I have been held back due to a lack of concentration…]]></summary>
+        <author>
+            <name>Adeyemi Olaoye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust’s Ecosystem: Must-Know Libraries and Tools]]></title>
+        <id>https://medium.com/p/e32d05653615</id>
+        <link href="https://coinsbench.com/rusts-ecosystem-must-know-libraries-and-tools-e32d05653615?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-22T15:06:54.000Z</updated>
+        <summary type="html"><![CDATA[Rust, known for its performance, reliability, and productivity, has rapidly gained popularity among developers. Its ecosystem is rich with…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Ashish Sharda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 1: Introduction to Building a Neural Network in Rust]]></title>
+        <id>https://medium.com/p/061790ed132f</id>
+        <link href="https://coinsbench.com/part-1-introduction-to-building-a-neural-network-in-rust-061790ed132f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-22T15:06:52.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the first part of our series on building a neural network in Rust! This series is designed to guide you through the process of…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Ashish Sharda</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Comprehensive Guide to Developing Your Own Crypto Trading Bot]]></title>
         <id>https://medium.com/p/2eff8037e9c8</id>
@@ -173,28 +226,6 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Robust API Server with Rust: A Comprehensive Guide]]></title>
-        <id>https://medium.com/p/743d71f627cc</id>
-        <link href="https://coinsbench.com/building-a-robust-api-server-with-rust-a-comprehensive-guide-743d71f627cc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-13T15:50:03.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, Rust has gained significant traction in the software development community due to its performance, safety, and…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Ashish Sharda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleashing the Power of Machine Learning with Rust: A Deep Dive into the Linfa Library]]></title>
-        <id>https://medium.com/p/0fceddbec801</id>
-        <link href="https://coinsbench.com/unleashing-the-power-of-machine-learning-with-rust-a-deep-dive-into-the-linfa-library-0fceddbec801?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-13T15:50:01.000Z</updated>
-        <summary type="html"><![CDATA[The quest for efficiency and safety in machine learning (ML) brings us to Rust, a language renowned for its performance and reliability…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Ashish Sharda</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A brief history of Smart Contracts]]></title>
         <id>https://www.cryptomaton.org/?p=1717</id>
         <link href="https://www.cryptomaton.org/2024/07/13/a-brief-history-of-smart-contracts/"/>
@@ -206,16 +237,6 @@ The post A brief history of Smart Contracts appeared first on cryptomaton.]]></s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Learn Blockchain Development: A Step-by-Step Guide]]></title>
-        <id>https://medium.com/p/d5e983a8d5fb</id>
-        <link href="https://coinsbench.com/how-to-learn-blockchain-development-a-step-by-step-guide-d5e983a8d5fb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-11T14:03:07.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, I’ll outline six critical steps to help you shorten your learning curve and achieve success in this field.]]></summary>
-        <author>
-            <name>Darlington Gospel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Part 1: Demystifying Ethereum: Transactions, Account States, Transaction Types, and Events]]></title>
         <id>https://medium.com/p/1270e2091fb3</id>
         <link href="https://blog.blockmagnates.com/part-1-getting-started-with-ethereum-key-concepts-and-basics-1270e2091fb3?source=rss----18fa961f1eff--solidity"/>
@@ -223,26 +244,6 @@ The post A brief history of Smart Contracts appeared first on cryptomaton.]]></s
         <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Tanuj Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Ethers.js]]></title>
-        <id>https://medium.com/p/8e2ea4865246</id>
-        <link href="https://coinsbench.com/understanding-ethers-js-8e2ea4865246?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-08T14:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Welcome, fellow developers and blockchain enthusiasts! My name is David Joseph, and today, I’m excited to dive into the world of Ethers.js…]]></summary>
-        <author>
-            <name>Joseph David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #42 Answered: What is the difference between a cold read and…]]></title>
-        <id>https://medium.com/p/96cb349b8c57</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-42-answered-what-is-the-difference-between-a-cold-read-and-96cb349b8c57?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-08T14:30:57.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
         </author>
     </entry>
     <entry>
