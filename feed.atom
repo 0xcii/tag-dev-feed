@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-29T12:27:04.048Z</id>
+    <id>urn:2024-07-29T13:17:34.802Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-29T12:27:04.048Z</updated>
+    <updated>2024-07-29T13:17:34.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap V3 - A Deep Dive: Using Inheritance and Interfaces to Produce Re-usable Smart-Contract…]]></title>
+        <id>https://medium.com/p/855c5bb83602</id>
+        <link href="https://coinsbench.com/uniswap-v3-a-deep-dive-using-inheritance-and-interfaces-to-produce-re-usable-smart-contract-855c5bb83602?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-29T12:54:44.000Z</updated>
+        <summary type="html"><![CDATA[Here we will explore why, implementing reusable libraries, like openZeppelin or Uniswap, is a no-brainer when deploying code on-chain.]]></summary>
+        <author>
+            <name>Simeon Campbell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Sniper Bot and how to snipe Tokens in Crypto ?]]></title>
         <id>https://medium.com/p/93a143bf8acf</id>
@@ -222,17 +232,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Welcome to the world of blockchain development! If you’re interested in building decentralized applications (dApps) on a scalable and efficient platform, Polygon is an excellent choice. In this blog…]]></summary>
         <author>
             <name>Ranjithkumar C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Aspects of Rust: Enhancing Software Security with Modern Language Design]]></title>
-        <id>https://medium.com/p/656ae3150aac</id>
-        <link href="https://coinsbench.com/security-aspects-of-rust-enhancing-software-security-with-modern-language-design-656ae3150aac?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-16T14:55:51.000Z</updated>
-        <summary type="html"><![CDATA[In the world of software engineering, where security is paramount, the choice of programming language is crucial. As technology advances…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Ashish Sharda</name>
         </author>
     </entry>
     <entry>

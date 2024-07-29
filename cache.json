@@ -21,7 +21,7 @@
           "description": "What is the Ethereum Staking Rate? The Ethereum staking rate is the annual percentage yield (APY) for staking ETH. It…\nThe post Understanding Ethereum Staking Rate appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/understanding-ethereum-staking-rate/",
           "publishedOn": "2024-07-04T16:58:05.000Z",
-          "wordCount": 3505,
+          "wordCount": 3506,
           "title": "Understanding Ethereum Staking Rate",
           "imageUrl": null
         }
@@ -49,6 +49,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/855c5bb83602",
+          "author": "Simeon Campbell",
+          "description": "Here we will explore why, implementing reusable libraries, like openZeppelin or Uniswap, is a no-brainer when deploying code on-chain.",
+          "link": "https://coinsbench.com/uniswap-v3-a-deep-dive-using-inheritance-and-interfaces-to-produce-re-usable-smart-contract-855c5bb83602?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-29T12:54:44.000Z",
+          "wordCount": 12837,
+          "title": "Uniswap V3 - A Deep Dive: Using Inheritance and Interfaces to Produce Re-usable Smart-Contract…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*4Yp63w9BiEuOTbaeeD_8Fg.png"
+        },
         {
           "id": "https://medium.com/p/095a1a252432",
           "author": "Solidity Academy",
@@ -138,16 +148,6 @@
           "wordCount": 2025,
           "title": "Introduction to Polygon Development: A Beginner’s Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*Q-UjW9M_kQJO06MO.jpg"
-        },
-        {
-          "id": "https://medium.com/p/656ae3150aac",
-          "author": "Ashish Sharda",
-          "description": "In the world of software engineering, where security is paramount, the choice of programming language is crucial. As technology advances…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/security-aspects-of-rust-enhancing-software-security-with-modern-language-design-656ae3150aac?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-16T14:55:51.000Z",
-          "wordCount": 1071,
-          "title": "Security Aspects of Rust: Enhancing Software Security with Modern Language Design",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*7PSlNX35Q8W1Od2xH8PY9Q.jpeg"
         }
       ]
     },
