@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-30T18:17:56.761Z</id>
+    <id>urn:2024-07-30T19:11:39.550Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-30T18:17:56.761Z</updated>
+    <updated>2024-07-30T19:11:39.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solving Fragmented Liquidity with Agoric’s Orchestration API]]></title>
+        <id>https://medium.com/p/5e31dd627957</id>
+        <link href="https://coinsbench.com/solving-fragmented-liquidity-with-agorics-orchestration-api-5e31dd627957?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-30T18:11:01.000Z</updated>
+        <summary type="html"><![CDATA[The blockchain ecosystem is vast and growing, with over $2 trillion in liquidity spread across multiple networks like Ethereum, Solana…]]></summary>
+        <author>
+            <name>Siegfried Kamgo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exposing Solana: Everything they don’t want you to know!]]></title>
         <id>https://medium.com/p/5ed4b2e56679</id>
@@ -214,16 +224,6 @@ Continue reading on CoinsBench »]]></summary>
         <link href="https://coinsbench.com/how-i-build-my-first-dapp-project-web3-nft-marketplace-using-reactjs-tailwind-css-and-solidity-24f2239efc1f?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-07-22T15:06:59.000Z</updated>
         <summary type="html"><![CDATA[In my previous post, I discussed how I used Reactjs, Tailwind CSS, and Solidity to construct my first decentralized application on…]]></summary>
-        <author>
-            <name>Adeyemi Olaoye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I build my first DApp project (Web3 NFT Marketplace) using Reactjs, Tailwind CSS, and Solidity…]]></title>
-        <id>https://medium.com/p/bf878258fa5e</id>
-        <link href="https://coinsbench.com/how-i-build-my-first-dapp-project-web3-nft-marketplace-using-reactjs-tailwind-css-and-solidity-bf878258fa5e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-22T15:06:56.000Z</updated>
-        <summary type="html"><![CDATA[For the past few years, I have been willing to dive into the world of Web 3.0, but I have been held back due to a lack of concentration…]]></summary>
         <author>
             <name>Adeyemi Olaoye</name>
         </author>
