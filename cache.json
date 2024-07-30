@@ -11,7 +11,7 @@
           "description": "What is Gas? Gas is a unit of measurement on the Ethereum network. It quantifies the computational effort required to…\nThe post How Memory Impacts the Cost of Ethereum Gas appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/how-memory-impacts-the-cost-of-ethereum-gas/",
           "publishedOn": "2024-07-24T13:39:58.000Z",
-          "wordCount": 3724,
+          "wordCount": 3734,
           "title": "How Memory Impacts the Cost of Ethereum Gas",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -21,7 +21,7 @@
           "description": "What is the Ethereum Staking Rate? The Ethereum staking rate is the annual percentage yield (APY) for staking ETH. It…\nThe post Understanding Ethereum Staking Rate appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/understanding-ethereum-staking-rate/",
           "publishedOn": "2024-07-04T16:58:05.000Z",
-          "wordCount": 3521,
+          "wordCount": 3531,
           "title": "Understanding Ethereum Staking Rate",
           "imageUrl": null
         }
@@ -49,6 +49,36 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/0a99b91926bb",
+          "author": "Esther Oche",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/cairos-uint256-0a99b91926bb?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-30T11:46:24.000Z",
+          "wordCount": 1342,
+          "title": "Cairo’s Uint256",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*UuAvhGhANl1t45Vt.png"
+        },
+        {
+          "id": "https://medium.com/p/2dc5947cf65d",
+          "author": "The Bean Effect",
+          "description": "Randomness is an important component of numerous web3 applications. However, there are a lot of ways to get it wrong. How to get it right?",
+          "link": "https://coinsbench.com/insecure-randomness-in-smart-contracts-2dc5947cf65d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-30T11:42:44.000Z",
+          "wordCount": 3233,
+          "title": "Insecure Randomness in Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*DBbcXnX0s6fcrLKQz2s1oQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/de885dcf0b6d",
+          "author": "Faybian Byrd",
+          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
+          "link": "https://coinsbench.com/rareskills-solidity-interview-question-44-answered-what-is-a-function-selector-clash-in-a-proxy-de885dcf0b6d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-07-30T11:42:40.000Z",
+          "wordCount": 1608,
+          "title": "RareSkills Solidity Interview Question #44 Answered: What is a function selector clash in a proxy…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QhFXKiGHETfQR56CQU7FRg.png"
+        },
         {
           "id": "https://medium.com/p/855c5bb83602",
           "author": "Simeon Campbell",
@@ -118,36 +148,6 @@
           "wordCount": 5112,
           "title": "How I build my first DApp project (Web3 NFT Marketplace) using Reactjs, Tailwind CSS, and Solidity…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*aAAHb9mkt0CcmAiXEanrBw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e32d05653615",
-          "author": "Ashish Sharda",
-          "description": "Rust, known for its performance, reliability, and productivity, has rapidly gained popularity among developers. Its ecosystem is rich with…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/rusts-ecosystem-must-know-libraries-and-tools-e32d05653615?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-22T15:06:54.000Z",
-          "wordCount": 973,
-          "title": "Rust’s Ecosystem: Must-Know Libraries and Tools",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*oG_3ch4wvdMA4vw26gj32A.png"
-        },
-        {
-          "id": "https://medium.com/p/061790ed132f",
-          "author": "Ashish Sharda",
-          "description": "Welcome to the first part of our series on building a neural network in Rust! This series is designed to guide you through the process of…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/part-1-introduction-to-building-a-neural-network-in-rust-061790ed132f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-22T15:06:52.000Z",
-          "wordCount": 1085,
-          "title": "Part 1: Introduction to Building a Neural Network in Rust",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*qEg00Is6dgZ_CI6NpJJE5Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/4b8e54d8caa5",
-          "author": "Ranjithkumar C",
-          "description": "Welcome to the world of blockchain development! If you’re interested in building decentralized applications (dApps) on a scalable and efficient platform, Polygon is an excellent choice. In this blog…",
-          "link": "https://coinsbench.com/introduction-to-polygon-development-a-beginner-8217-s-guide-4b8e54d8caa5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-16T14:55:53.000Z",
-          "wordCount": 2025,
-          "title": "Introduction to Polygon Development: A Beginner’s Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*Q-UjW9M_kQJO06MO.jpg"
         }
       ]
     },

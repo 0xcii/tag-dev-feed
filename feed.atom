@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-30T11:12:38.088Z</id>
+    <id>urn:2024-07-30T12:26:12.663Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-30T11:12:38.088Z</updated>
+    <updated>2024-07-30T12:26:12.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cairo’s Uint256]]></title>
+        <id>https://medium.com/p/0a99b91926bb</id>
+        <link href="https://coinsbench.com/cairos-uint256-0a99b91926bb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-30T11:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Esther Oche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insecure Randomness in Smart Contracts]]></title>
+        <id>https://medium.com/p/2dc5947cf65d</id>
+        <link href="https://coinsbench.com/insecure-randomness-in-smart-contracts-2dc5947cf65d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-30T11:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Randomness is an important component of numerous web3 applications. However, there are a lot of ways to get it wrong. How to get it right?]]></summary>
+        <author>
+            <name>The Bean Effect</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RareSkills Solidity Interview Question #44 Answered: What is a function selector clash in a proxy…]]></title>
+        <id>https://medium.com/p/de885dcf0b6d</id>
+        <link href="https://coinsbench.com/rareskills-solidity-interview-question-44-answered-what-is-a-function-selector-clash-in-a-proxy-de885dcf0b6d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-07-30T11:42:40.000Z</updated>
+        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
+        <author>
+            <name>Faybian Byrd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Ultimate Guide to Solana NFT Marketplaces: Top Platforms for Buying and Selling]]></title>
         <id>https://medium.com/p/6e542e98ec27</id>
@@ -199,38 +229,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[For the past few years, I have been willing to dive into the world of Web 3.0, but I have been held back due to a lack of concentration…]]></summary>
         <author>
             <name>Adeyemi Olaoye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust’s Ecosystem: Must-Know Libraries and Tools]]></title>
-        <id>https://medium.com/p/e32d05653615</id>
-        <link href="https://coinsbench.com/rusts-ecosystem-must-know-libraries-and-tools-e32d05653615?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-22T15:06:54.000Z</updated>
-        <summary type="html"><![CDATA[Rust, known for its performance, reliability, and productivity, has rapidly gained popularity among developers. Its ecosystem is rich with…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Ashish Sharda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 1: Introduction to Building a Neural Network in Rust]]></title>
-        <id>https://medium.com/p/061790ed132f</id>
-        <link href="https://coinsbench.com/part-1-introduction-to-building-a-neural-network-in-rust-061790ed132f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-22T15:06:52.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the first part of our series on building a neural network in Rust! This series is designed to guide you through the process of…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Ashish Sharda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Polygon Development: A Beginner’s Guide]]></title>
-        <id>https://medium.com/p/4b8e54d8caa5</id>
-        <link href="https://coinsbench.com/introduction-to-polygon-development-a-beginner-8217-s-guide-4b8e54d8caa5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-16T14:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the world of blockchain development! If you’re interested in building decentralized applications (dApps) on a scalable and efficient platform, Polygon is an excellent choice. In this blog…]]></summary>
-        <author>
-            <name>Ranjithkumar C</name>
         </author>
     </entry>
     <entry>
