@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-30T23:12:02.780Z</id>
+    <id>urn:2024-07-31T00:52:42.937Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-30T23:12:02.780Z</updated>
+    <updated>2024-07-31T00:52:42.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -308,16 +308,6 @@ The post Understanding Ethereum Staking Rate appeared first on Crypto Market Poo
         <summary type="html"><![CDATA[In this tutorial, learn how to run a private ethereum blockchain and deploy your very own ERC20 token. We’ll also cover getting real world…]]></summary>
         <author>
             <name>bustedware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basic Solidity Smart Contract]]></title>
-        <id>https://medium.com/p/3470570c0d01</id>
-        <link href="https://blog.blockmagnates.com/basic-solidity-smart-contract-3470570c0d01?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-07-01T12:13:14.000Z</updated>
-        <summary type="html"><![CDATA[This is a contract for making a basic calculator with solidity.]]></summary>
-        <author>
-            <name>Ahmad Raza Khokhar</name>
         </author>
     </entry>
 </feed>
