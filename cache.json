@@ -11,7 +11,7 @@
           "description": "What is Gas? Gas is a unit of measurement on the Ethereum network. It quantifies the computational effort required to…\nThe post How Memory Impacts the Cost of Ethereum Gas appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/how-memory-impacts-the-cost-of-ethereum-gas/",
           "publishedOn": "2024-07-24T13:39:58.000Z",
-          "wordCount": 2959,
+          "wordCount": 2960,
           "title": "How Memory Impacts the Cost of Ethereum Gas",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         },
@@ -21,7 +21,7 @@
           "description": "What is the Ethereum Staking Rate? The Ethereum staking rate is the annual percentage yield (APY) for staking ETH. It…\nThe post Understanding Ethereum Staking Rate appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/understanding-ethereum-staking-rate/",
           "publishedOn": "2024-07-04T16:58:05.000Z",
-          "wordCount": 2756,
+          "wordCount": 2757,
           "title": "Understanding Ethereum Staking Rate",
           "imageUrl": null
         }
@@ -157,12 +157,92 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/ff3e1ff87d0b",
+          "author": "Uri Itai",
+          "description": "A few years back, my young son received an invitation to his friend’s birthday bash, where we relished a delightful celebration brimming…",
+          "link": "https://medium.com/coinmonks/the-markov-card-trick-ff3e1ff87d0b?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-08-01T10:56:48.000Z",
+          "wordCount": 2450,
+          "title": "The Markov Card Trick!",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:656/0*wwGP049vouvMeNHr"
+        },
+        {
+          "id": "https://medium.com/p/11c6af76d817",
+          "author": "Uri Itai",
+          "description": "After completing three interviews, the CEO reached out to inform me of their decision to offer me the job. However, before finalizing the…",
+          "link": "https://medium.com/coinmonks/the-clash-between-data-science-and-biology-culture-a-data-scientists-tale-11c6af76d817?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-08-01T10:56:08.000Z",
+          "wordCount": 5057,
+          "title": "The clash between data science and biology culture: A data scientist’s tale.",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:720/0*qqrJdnwKpEEqTiWu"
+        },
+        {
+          "id": "https://medium.com/p/c4ed2bb2c346",
+          "author": "RealmAi",
+          "description": "RealmAi emerges as a beacon of innovation, revolutionizing the way investors approach asset management. With its cutting-edge artificial…",
+          "link": "https://medium.com/coinmonks/empowering-investors-one-asset-at-a-time-c4ed2bb2c346?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-08-01T10:56:07.000Z",
+          "wordCount": 1494,
+          "title": "Empowering Investors One Asset at a Time",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zAVXpUuIrrAImj2T3diE6w.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/1d87570777e1",
+          "author": "Emily George",
+          "description": "The DeFi landscape is evolving at a breakneck pace, with liquid restaking tokens (LRTs) emerging as a transformative force in 2024. The…",
+          "link": "https://medium.com/coinmonks/explosive-growth-of-liquid-restaking-tokens-2024-why-lrt-future-of-defi-1d87570777e1?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-08-01T10:53:46.000Z",
+          "wordCount": 5103,
+          "title": "The Explosive Growth of Liquid Restaking Tokens in 2024: Why LRTs are the Future of DeFi?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Kz0m8VfpLIwDF1fXeGoMEQ.png"
+        },
+        {
+          "id": "https://medium.com/p/e40a689ff720",
+          "author": "Uri Itai",
+          "description": "Art had never been a passion of mine. However, my friend, a wildly successful artist who explored various mediums, extended an invitation…",
+          "link": "https://medium.com/coinmonks/all-strings-attached-e40a689ff720?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-08-01T10:53:42.000Z",
+          "wordCount": 2845,
+          "title": "All Strings Attached",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:850/0*m6yRY3qCF4-kmZQf"
+        },
+        {
+          "id": "https://medium.com/p/213a029edf1b",
+          "author": "Uri Itai",
+          "description": "A few years ago, I was employed at a startup specializing in automotive cybersecurity. Our project involved monitoring regular driving…",
+          "link": "https://medium.com/coinmonks/how-did-i-drive-200-kmh-in-the-city-or-why-it-is-important-to-analyze-special-values-213a029edf1b?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-08-01T10:53:39.000Z",
+          "wordCount": 1657,
+          "title": "How did I drive 200 KMH in the city? Or why it is important to analyze special values",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1110/0*MdMGYdZZItN9O1cO"
+        },
+        {
+          "id": "https://medium.com/p/ed7cacb4f661",
+          "author": "Aaron Abbott",
+          "description": "Ready to create your own crypto coin? Our comprehensive guide for 2024 covers everything from development to fundraising, ensuring your…",
+          "link": "https://medium.com/coinmonks/how-to-build-a-crypto-coin-and-raise-funding-in-2024-ed7cacb4f661?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-08-01T10:53:36.000Z",
+          "wordCount": 3488,
+          "title": "How to Build a Crypto Coin and Raise Funding in 2024?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UZ-VA67WntyjgJTnJUHFRw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/e55e73cce87d",
+          "author": "Stanley Thomas",
+          "description": "Discover how to develop a secure and user-friendly crypto wallet for your business. Our complete guide covers types, benefits, and…",
+          "link": "https://medium.com/coinmonks/crypto-wallet-development-for-businesses-a-complete-guide-e55e73cce87d?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-08-01T10:07:36.000Z",
+          "wordCount": 3150,
+          "title": "Crypto Wallet Development for Businesses — A Complete Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*n22WbUvy6G9JxgJ0Hk4jwA.jpeg"
+        },
+        {
           "id": "https://medium.com/p/2e92a48e11c9",
           "author": "Mark Timmis",
           "description": "tl;dr\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/curious-cryptos-commentary-1st-august-2024-taxes-2e92a48e11c9?source=rss----721b17443fd5---4",
           "publishedOn": "2024-08-01T09:56:50.000Z",
-          "wordCount": 1199,
+          "wordCount": 1200,
           "title": "Curious Cryptos’ Commentary 1st August 2024 — Taxes",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1039/1*C7MI04I5zWY4UDsXts4DGg.png"
         },
@@ -175,86 +255,6 @@
           "wordCount": 1502,
           "title": "Understanding the UTXO Model: How Unspent Transaction Outputs Work",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:480/1*1-s79T7HdYB_39aeOBJxXA.png"
-        },
-        {
-          "id": "https://medium.com/p/442034afc80e",
-          "author": "Bartek @ Caishen",
-          "description": "A common scenario: You find a promising coin on Solana. The market cap is still low ($50K) with high growth potential. You decide to pull…",
-          "link": "https://medium.com/coinmonks/exploring-sandwich-attacks-on-solana-442034afc80e?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-08-01T09:53:31.000Z",
-          "wordCount": 4027,
-          "title": "Exploring Sandwich Attacks on Solana",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YLJvUmi929lKOYJMVrdioA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/75ff50284ad4",
-          "author": "YAROCELIS.eth - Tech Trends",
-          "description": "Get in Front of 50k Tech Leaders: Grow With Us",
-          "link": "https://medium.com/coinmonks/will-open-sourced-ai-models-be-more-profitable-than-their-counterparts-75ff50284ad4?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-08-01T09:53:28.000Z",
-          "wordCount": 2741,
-          "title": "Will Open-Sourced AI Models be More Profitable Than Their Counterparts?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:688/0*zsEVagYEEYzIvt3v.png"
-        },
-        {
-          "id": "https://medium.com/p/1d115c11a85c",
-          "author": "Gain Gain Crypto",
-          "description": "In this article, we’re diving into the new play of shorting meme coins. While the term “shorting” might sound complex, it can be a…",
-          "link": "https://medium.com/coinmonks/you-can-now-short-meme-coins-a-dream-come-true-or-a-risky-bet-1d115c11a85c?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-08-01T09:53:26.000Z",
-          "wordCount": 2828,
-          "title": "You Can Now Short Meme Coins: A Dream Come True or a Risky Bet?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:720/1*C6NzTICo6axTaufFBpdx0w.png"
-        },
-        {
-          "id": "https://medium.com/p/8e513d6a5209",
-          "author": "Mihalache Catalin (aspiring polymath)",
-          "description": "I got some hope for the new all-in-one app from Elrond, but for now, I am trying to sell some projects where I have small amounts of…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/heruvim1978s-cryptocurrency-income-report-july-2024-8e513d6a5209?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-08-01T09:53:23.000Z",
-          "wordCount": 1352,
-          "title": "Heruvim1978’s Cryptocurrency Income Report — July 2024",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:630/0*pPhHAtIXN0aXs12C.jpg"
-        },
-        {
-          "id": "https://medium.com/p/0b66775852a1",
-          "author": "Eye Of Unity",
-          "description": "Finance has traditionally been a sector dominated by banks and financial institutions, leaving many individuals without access to basic…",
-          "link": "https://medium.com/coinmonks/democratizing-finance-how-defi-is-empowering-individuals-worldwide-0b66775852a1?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-08-01T09:53:21.000Z",
-          "wordCount": 1897,
-          "title": "Democratizing Finance: How DeFi is Empowering Individuals Worldwide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*AGXkl12MJxuA0lwcdmBr5w.png"
-        },
-        {
-          "id": "https://medium.com/p/755958b27bbe",
-          "author": "Sebastian Macina",
-          "description": "In the ever-evolving world of cryptocurrency, having the right tools can make a significant difference in your trading and development…",
-          "link": "https://medium.com/coinmonks/from-pump-fun-to-profits-leveraging-dogwiftools-for-crypto-success-755958b27bbe?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-08-01T09:53:20.000Z",
-          "wordCount": 2524,
-          "title": "From Pump.Fun to Profits: Leveraging DogWifTools for Crypto Success",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jaNo3MLrEVhu9tkdC4TF1Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/bc12d2f4ee87",
-          "author": "PrivatePoolsNetwork",
-          "description": "Introducing the Private Pools Network",
-          "link": "https://medium.com/coinmonks/private-pools-network-harnessing-volatility-with-capital-efficient-crypto-indexes-and-private-bc12d2f4ee87?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-08-01T09:53:18.000Z",
-          "wordCount": 3199,
-          "title": "Private Pools Network: Harnessing Volatility with Capital Efficient Crypto Indexes and Private…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uMHSopLCoWxTkaqvO_7XIw.png"
-        },
-        {
-          "id": "https://medium.com/p/bfa6acba78ea",
-          "author": "PVMihalache",
-          "description": "I published my first draft proposal for the Horizen ecosystem, a request for $ZEN migration. The ZEN IP 42405 draft came as a follow-up to…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-journey-to-horizen-2-0-huge-community-support-roadmap-and-snapshots-bfa6acba78ea?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-08-01T09:53:14.000Z",
-          "wordCount": 1291,
-          "title": "The Journey To Horizen 2.0 — Huge Community Support, Roadmap And Snapshots",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1080/0*_U8yoi0BgYUht1NM"
         }
       ]
     },
