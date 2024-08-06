@@ -11,7 +11,7 @@
           "description": "What is Gas? Gas is a unit of measurement on the Ethereum network. It quantifies the computational effort required to…\nThe post How Memory Impacts the Cost of Ethereum Gas appeared first on Crypto Market Pool.",
           "link": "https://cryptomarketpool.com/how-memory-impacts-the-cost-of-ethereum-gas/",
           "publishedOn": "2024-07-24T13:39:58.000Z",
-          "wordCount": 2970,
+          "wordCount": 2965,
           "title": "How Memory Impacts the Cost of Ethereum Gas",
           "imageUrl": "http://cryptomarketpool.com/wp-content/uploads/2021/07/eth-1.png"
         }
@@ -39,6 +39,56 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/b16022419308",
+          "author": "James Siswanto",
+          "description": "Smart contracts are a fundamental part of blockchain technology, enabling decentralized applications to execute code automatically. In this…",
+          "link": "https://coinsbench.com/understanding-solidity-a-simple-simplestorage-contract-b16022419308?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-08-06T13:28:26.000Z",
+          "wordCount": 1405,
+          "title": "Understanding Solidity: A Simple simpleStorage Contract",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:893/1*q90S6Iu7lqAyRHw8tmWWrg.png"
+        },
+        {
+          "id": "https://medium.com/p/224f6c08c0d0",
+          "author": "James Siswanto",
+          "description": "Discover the history, potential, and future of blockchain technology, its energy implications, and its transformative impact on industries",
+          "link": "https://coinsbench.com/blockchain-technology-revolutionizing-the-digital-landscape-224f6c08c0d0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-08-06T13:28:24.000Z",
+          "wordCount": 2982,
+          "title": "Blockchain Technology: Revolutionizing the Digital Landscape",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:564/1*-Dlf7N_KrmHjjaH3TlwR4Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3806313d5a70",
+          "author": "Olisedem Nkechi Wealth",
+          "description": "In Solidity, contract addresses are used to identify and interact with smart contracts on the Ethereum blockchain. However, there are…",
+          "link": "https://coinsbench.com/detecting-contract-addresses-using-assembly-in-solidity-3806313d5a70?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-08-06T13:28:18.000Z",
+          "wordCount": 1670,
+          "title": "Detecting Contract Addresses using Assembly in Solidity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d21c41366238",
+          "author": "Olisedem Nkechi Wealth",
+          "description": "What is Blockchain?",
+          "link": "https://coinsbench.com/blockchain-and-its-applications-d21c41366238?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-08-06T13:28:16.000Z",
+          "wordCount": 2954,
+          "title": "Blockchain and it’s applications",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b012212b0583",
+          "author": "Olisedem Nkechi Wealth",
+          "description": "Elliptic Curve Cryptography (ECC)",
+          "link": "https://coinsbench.com/public-private-key-generation-using-ecc-b012212b0583?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-08-06T13:28:10.000Z",
+          "wordCount": 1343,
+          "title": "PUBLIC-PRIVATE KEY GENERATION USING ECC",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/d0c10e255e48",
           "author": "Root0ne",
@@ -88,56 +138,6 @@
           "wordCount": 1342,
           "title": "Cairo’s Uint256",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/0*UuAvhGhANl1t45Vt.png"
-        },
-        {
-          "id": "https://medium.com/p/2dc5947cf65d",
-          "author": "The Bean Effect",
-          "description": "Randomness is an important component of numerous web3 applications. However, there are a lot of ways to get it wrong. How to get it right?",
-          "link": "https://coinsbench.com/insecure-randomness-in-smart-contracts-2dc5947cf65d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-30T11:42:44.000Z",
-          "wordCount": 3233,
-          "title": "Insecure Randomness in Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*DBbcXnX0s6fcrLKQz2s1oQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/de885dcf0b6d",
-          "author": "Faybian Byrd",
-          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
-          "link": "https://coinsbench.com/rareskills-solidity-interview-question-44-answered-what-is-a-function-selector-clash-in-a-proxy-de885dcf0b6d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-30T11:42:40.000Z",
-          "wordCount": 1608,
-          "title": "RareSkills Solidity Interview Question #44 Answered: What is a function selector clash in a proxy…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QhFXKiGHETfQR56CQU7FRg.png"
-        },
-        {
-          "id": "https://medium.com/p/855c5bb83602",
-          "author": "Simeon Campbell",
-          "description": "Here we will explore why, implementing reusable libraries, like openZeppelin or Uniswap, is a no-brainer when deploying code on-chain.",
-          "link": "https://coinsbench.com/uniswap-v3-a-deep-dive-using-inheritance-and-interfaces-to-produce-re-usable-smart-contract-855c5bb83602?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-29T12:54:44.000Z",
-          "wordCount": 12837,
-          "title": "Uniswap V3 - A Deep Dive: Using Inheritance and Interfaces to Produce Re-usable Smart-Contract…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*4Yp63w9BiEuOTbaeeD_8Fg.png"
-        },
-        {
-          "id": "https://medium.com/p/095a1a252432",
-          "author": "Solidity Academy",
-          "description": "Revolutionizing Industries: The Power and Potential of Smart Contracts 🚀",
-          "link": "https://coinsbench.com/revolutionizing-industries-with-smart-contracts-latest-advances-and-future-trends-095a1a252432?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-27T11:11:43.000Z",
-          "wordCount": 2339,
-          "title": "Revolutionizing Industries with Smart Contracts: Latest Advances and Future Trends",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*TedC0zttxMJmjaYq"
-        },
-        {
-          "id": "https://medium.com/p/2ddaa575c2ca",
-          "author": "Stan BLK",
-          "description": "IntroductiIn this article, we will explore how Utopia P2P is changing the future of untraceable transactions, providing real-world examples",
-          "link": "https://coinsbench.com/how-utopia-p2p-is-changing-the-future-of-untraceable-transactions-2ddaa575c2ca?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-07-26T10:52:20.000Z",
-          "wordCount": 1866,
-          "title": "How Utopia P2P is Changing the Future of Untraceable Transactions",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:951/1*T9aCI2AQDjHsWybWYWsmig.jpeg"
         }
       ]
     },

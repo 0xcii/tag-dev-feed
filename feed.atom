@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-06T13:18:12.369Z</id>
+    <id>urn:2024-08-06T14:12:53.726Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-06T13:18:12.369Z</updated>
+    <updated>2024-08-06T14:12:53.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Solidity: A Simple simpleStorage Contract]]></title>
+        <id>https://medium.com/p/b16022419308</id>
+        <link href="https://coinsbench.com/understanding-solidity-a-simple-simplestorage-contract-b16022419308?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-06T13:28:26.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts are a fundamental part of blockchain technology, enabling decentralized applications to execute code automatically. In this…]]></summary>
+        <author>
+            <name>James Siswanto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Technology: Revolutionizing the Digital Landscape]]></title>
+        <id>https://medium.com/p/224f6c08c0d0</id>
+        <link href="https://coinsbench.com/blockchain-technology-revolutionizing-the-digital-landscape-224f6c08c0d0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-06T13:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Discover the history, potential, and future of blockchain technology, its energy implications, and its transformative impact on industries]]></summary>
+        <author>
+            <name>James Siswanto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting Contract Addresses using Assembly in Solidity]]></title>
+        <id>https://medium.com/p/3806313d5a70</id>
+        <link href="https://coinsbench.com/detecting-contract-addresses-using-assembly-in-solidity-3806313d5a70?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-06T13:28:18.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, contract addresses are used to identify and interact with smart contracts on the Ethereum blockchain. However, there are…]]></summary>
+        <author>
+            <name>Olisedem Nkechi Wealth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain and it’s applications]]></title>
+        <id>https://medium.com/p/d21c41366238</id>
+        <link href="https://coinsbench.com/blockchain-and-its-applications-d21c41366238?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-06T13:28:16.000Z</updated>
+        <summary type="html"><![CDATA[What is Blockchain?]]></summary>
+        <author>
+            <name>Olisedem Nkechi Wealth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PUBLIC-PRIVATE KEY GENERATION USING ECC]]></title>
+        <id>https://medium.com/p/b012212b0583</id>
+        <link href="https://coinsbench.com/public-private-key-generation-using-ecc-b012212b0583?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-06T13:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Elliptic Curve Cryptography (ECC)]]></summary>
+        <author>
+            <name>Olisedem Nkechi Wealth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Node Sale Service Providers of 2024: Revolutionizing Decentralized Networks]]></title>
         <id>https://medium.com/p/901c5060c865</id>
@@ -153,56 +203,6 @@
         <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Esther Oche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insecure Randomness in Smart Contracts]]></title>
-        <id>https://medium.com/p/2dc5947cf65d</id>
-        <link href="https://coinsbench.com/insecure-randomness-in-smart-contracts-2dc5947cf65d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-30T11:42:44.000Z</updated>
-        <summary type="html"><![CDATA[Randomness is an important component of numerous web3 applications. However, there are a lot of ways to get it wrong. How to get it right?]]></summary>
-        <author>
-            <name>The Bean Effect</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #44 Answered: What is a function selector clash in a proxy…]]></title>
-        <id>https://medium.com/p/de885dcf0b6d</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-44-answered-what-is-a-function-selector-clash-in-a-proxy-de885dcf0b6d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-30T11:42:40.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap V3 - A Deep Dive: Using Inheritance and Interfaces to Produce Re-usable Smart-Contract…]]></title>
-        <id>https://medium.com/p/855c5bb83602</id>
-        <link href="https://coinsbench.com/uniswap-v3-a-deep-dive-using-inheritance-and-interfaces-to-produce-re-usable-smart-contract-855c5bb83602?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-29T12:54:44.000Z</updated>
-        <summary type="html"><![CDATA[Here we will explore why, implementing reusable libraries, like openZeppelin or Uniswap, is a no-brainer when deploying code on-chain.]]></summary>
-        <author>
-            <name>Simeon Campbell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolutionizing Industries with Smart Contracts: Latest Advances and Future Trends]]></title>
-        <id>https://medium.com/p/095a1a252432</id>
-        <link href="https://coinsbench.com/revolutionizing-industries-with-smart-contracts-latest-advances-and-future-trends-095a1a252432?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-27T11:11:43.000Z</updated>
-        <summary type="html"><![CDATA[Revolutionizing Industries: The Power and Potential of Smart Contracts 🚀]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Utopia P2P is Changing the Future of Untraceable Transactions]]></title>
-        <id>https://medium.com/p/2ddaa575c2ca</id>
-        <link href="https://coinsbench.com/how-utopia-p2p-is-changing-the-future-of-untraceable-transactions-2ddaa575c2ca?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-26T10:52:20.000Z</updated>
-        <summary type="html"><![CDATA[IntroductiIn this article, we will explore how Utopia P2P is changing the future of untraceable transactions, providing real-world examples]]></summary>
-        <author>
-            <name>Stan BLK</name>
         </author>
     </entry>
     <entry>
