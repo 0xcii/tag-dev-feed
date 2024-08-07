@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-07T01:03:35.804Z</id>
+    <id>urn:2024-08-07T02:34:38.565Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-07T01:03:35.804Z</updated>
+    <updated>2024-08-07T02:34:38.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -255,36 +255,6 @@ The post A brief history of Smart Contracts appeared first on cryptomaton.]]></s
         <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Tanuj Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 2 — Implementing a Voting Smart Contract on Ethereum Blockchain]]></title>
-        <id>https://medium.com/p/8c1a3bbb25e5</id>
-        <link href="https://blog.blockmagnates.com/part-2-implementing-a-voting-smart-contract-on-ethereum-blockchain-8c1a3bbb25e5?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-07-08T14:26:37.000Z</updated>
-        <summary type="html"><![CDATA[In Part 1, we explored the Solidity code for our voting smart contract, detailing its declaration, state variables, and essential structs…]]></summary>
-        <author>
-            <name>Ayo Omotayo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jumpstarting Your Journey into Solidity: A Beginner’s Guide to Blockchain Smart Contracts]]></title>
-        <id>https://medium.com/p/e06f34d3ac67</id>
-        <link href="https://blog.blockmagnates.com/title-jumpstarting-your-journey-into-solidity-a-beginners-guide-to-blockchain-smart-contracts-e06f34d3ac67?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-07-08T13:26:47.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Yasir Bashir - Software Engineer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Ethers.js and How It Works with Hardhat to Make Smart Web3 DApps]]></title>
-        <id>https://medium.com/p/b5ffbfde2678</id>
-        <link href="https://blog.blockmagnates.com/what-is-ethers-js-and-how-it-works-with-hardhat-to-make-smart-web3-dapps-b5ffbfde2678?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-07-08T13:26:29.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Joseph David</name>
         </author>
     </entry>
 </feed>
