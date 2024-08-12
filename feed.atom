@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-12T20:14:38.134Z</id>
+    <id>urn:2024-08-12T21:13:31.993Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-12T20:14:38.134Z</updated>
+    <updated>2024-08-12T21:13:31.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building and Deploying a Solidity Smart Contract with Foundry: A Step-by-Step Guide]]></title>
+        <id>https://medium.com/p/e4e8aba956cb</id>
+        <link href="https://coinsbench.com/building-and-deploying-a-solidity-smart-contract-with-foundry-a-step-by-step-guide-e4e8aba956cb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-12T20:06:10.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Magda  Jankowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Dive Into Smart Contract Wallet (EIP6492) Verification]]></title>
+        <id>https://medium.com/p/57c4f88cfb9c</id>
+        <link href="https://coinsbench.com/deep-dive-into-smart-contract-wallet-eip6492-verification-57c4f88cfb9c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-12T20:06:07.000Z</updated>
+        <summary type="html"><![CDATA[EIP1271 Signature Verification]]></summary>
+        <author>
+            <name>Sajad Salehi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to add Jupiter Terminal Widget to your React App.]]></title>
         <id>https://medium.com/p/bc3b25c1fa38</id>
@@ -196,26 +216,6 @@ Continue reading on Block Magnates »]]></summary>
         <summary type="html"><![CDATA[Cryptocurrencies have revolutionized the financial landscape, offering a decentralized way to store and transfer value. However, with great power comes great responsibility, particularly when it…]]></summary>
         <author>
             <name>Ranjithkumar C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Restaking and AVS in Solidity]]></title>
-        <id>https://medium.com/p/9198c4aeb285</id>
-        <link href="https://coinsbench.com/introduction-to-restaking-and-avs-in-solidity-9198c4aeb285?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-31T09:33:23.000Z</updated>
-        <summary type="html"><![CDATA[The blockchain ecosystem is evolving rapidly, with novel concepts and mechanisms being introduced to enhance its functionality and…]]></summary>
-        <author>
-            <name>Kunal Dhongade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving Fragmented Liquidity with Agoric’s Orchestration API]]></title>
-        <id>https://medium.com/p/5e31dd627957</id>
-        <link href="https://coinsbench.com/solving-fragmented-liquidity-with-agorics-orchestration-api-5e31dd627957?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-07-30T18:11:01.000Z</updated>
-        <summary type="html"><![CDATA[The blockchain ecosystem is vast and growing, with over $2 trillion in liquidity spread across multiple networks like Ethereum, Solana…]]></summary>
-        <author>
-            <name>Siegfried Kamgo</name>
         </author>
     </entry>
     <entry>
