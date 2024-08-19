@@ -29,6 +29,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/c3b672e67781",
+          "author": "Magda  Jankowska",
+          "description": "Test Your Knowledge",
+          "link": "https://coinsbench.com/mastering-solidity-quzi-and-task-c3b672e67781?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-08-19T12:19:48.000Z",
+          "wordCount": 3312,
+          "title": "Mastering Solidity: Quzi and Task",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qHwzziwPy9G2-tX6YJglAg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/caa71ac06752",
+          "author": "Magda  Jankowska",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/becoming-a-web3-security-researcher-a-comprehensive-roadmap-caa71ac06752?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-08-19T12:19:46.000Z",
+          "wordCount": 4792,
+          "title": "Becoming a Web3 Security Researcher: A Comprehensive Roadmap",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:867/1*larfU_rDBC5K9uQy4-fIIw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/a2fad20fc686",
+          "author": "Ukezi Ebenezer",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/layer-2-rollup-technology-is-transforming-matchains-infrastructure-a2fad20fc686?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-08-19T12:19:44.000Z",
+          "wordCount": 4056,
+          "title": "Layer-2 Rollup Technology is Transforming Matchain’s Infrastructure",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:735/1*OSOHJlxU4a6-oO46SAzqbA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/f3a863b43d34",
+          "author": "Franck Maussand",
+          "description": "As part of the Solana Summer Fellowship 2024, I was tasked with writing a blog post on the security of Solana programs. Here is what I…",
+          "link": "https://coinsbench.com/securing-solana-programs-avoiding-common-pitfalls-in-rust-and-anchor-development-f3a863b43d34?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-08-19T12:19:42.000Z",
+          "wordCount": 3380,
+          "title": "Securing Solana Programs: Avoiding Common Pitfalls in Rust and Anchor Development",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*QXXjWIBubraNkNBVe3NCrQ.png"
+        },
+        {
           "id": "https://medium.com/p/a3b0534c28d9",
           "author": "James Siswanto",
           "description": "Introduction",
@@ -54,7 +94,7 @@
           "description": "Introduction",
           "link": "https://coinsbench.com/deploying-a-smart-contract-on-zksync-testnet-using-remix-c924936ca662?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-08-14T10:02:53.000Z",
-          "wordCount": 3260,
+          "wordCount": 3271,
           "title": "Deploying a Smart Contract on zkSync Testnet Using Remix",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:835/1*e5ey2_TKT0biIi2SkyLb-g.jpeg"
         },
@@ -87,46 +127,6 @@
           "wordCount": 1923,
           "title": "RareSkills Solidity Interview Question #46 Answered: What is a signature replay attack?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*OtNqnl7Bnwcupi5KlUi81A.png"
-        },
-        {
-          "id": "https://medium.com/p/b16022419308",
-          "author": "James Siswanto",
-          "description": "Smart contracts are a fundamental part of blockchain technology, enabling decentralized applications to execute code automatically. In this…",
-          "link": "https://coinsbench.com/understanding-solidity-a-simple-simplestorage-contract-b16022419308?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-08-06T13:28:26.000Z",
-          "wordCount": 1412,
-          "title": "Understanding Solidity: A Simple simpleStorage Contract",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:893/1*q90S6Iu7lqAyRHw8tmWWrg.png"
-        },
-        {
-          "id": "https://medium.com/p/224f6c08c0d0",
-          "author": "James Siswanto",
-          "description": "Discover the history, potential, and future of blockchain technology, its energy implications, and its transformative impact on industries",
-          "link": "https://coinsbench.com/blockchain-technology-revolutionizing-the-digital-landscape-224f6c08c0d0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-08-06T13:28:24.000Z",
-          "wordCount": 2989,
-          "title": "Blockchain Technology: Revolutionizing the Digital Landscape",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:564/1*-Dlf7N_KrmHjjaH3TlwR4Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3806313d5a70",
-          "author": "Olisedem Nkechi Wealth",
-          "description": "In Solidity, contract addresses are used to identify and interact with smart contracts on the Ethereum blockchain. However, there are…",
-          "link": "https://coinsbench.com/detecting-contract-addresses-using-assembly-in-solidity-3806313d5a70?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-08-06T13:28:18.000Z",
-          "wordCount": 1677,
-          "title": "Detecting Contract Addresses using Assembly in Solidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d21c41366238",
-          "author": "Olisedem Nkechi Wealth",
-          "description": "What is Blockchain?",
-          "link": "https://coinsbench.com/blockchain-and-its-applications-d21c41366238?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-08-06T13:28:16.000Z",
-          "wordCount": 2961,
-          "title": "Blockchain and it’s applications",
-          "imageUrl": null
         }
       ]
     },
