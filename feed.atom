@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-21T12:26:34.709Z</id>
+    <id>urn:2024-08-21T13:18:25.705Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-21T12:26:34.709Z</updated>
+    <updated>2024-08-21T13:18:25.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My Journey as a Newbie Blockchain Developer: Overcoming Obstacles and Finding My Way]]></title>
+        <id>https://medium.com/p/d5283755c74d</id>
+        <link href="https://coinsbench.com/my-journey-as-a-newbie-blockchain-developer-overcoming-obstacles-and-finding-my-way-d5283755c74d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-21T12:26:54.000Z</updated>
+        <summary type="html"><![CDATA[I’m just a few weeks into my blockchain development journey, and I’m still trying to find my footing. As a complete newbie, I’m facing a…]]></summary>
+        <author>
+            <name>Olisedem Nkechi Wealth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using a Token in a Bank Contract in Solidity: A Step-by-Step Guide]]></title>
+        <id>https://medium.com/p/df9f16a6a994</id>
+        <link href="https://coinsbench.com/using-a-token-in-a-bank-contract-in-solidity-a-step-by-step-guide-df9f16a6a994?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-21T12:26:51.000Z</updated>
+        <summary type="html"><![CDATA[In the world of decentralized finance (DeFi), tokens and bank contracts are essential components of a robust and secure financial…]]></summary>
+        <author>
+            <name>Olisedem Nkechi Wealth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Polygon PoS: Scaling Ethereum for the Future]]></title>
+        <id>https://medium.com/p/8c34d6e307bf</id>
+        <link href="https://coinsbench.com/introduction-to-polygon-pos-scaling-ethereum-for-the-future-8c34d6e307bf?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-21T12:26:50.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Ranjithkumar C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenZeppelin and Solidity: A Developer’s Guide to Building Secure Smart Contracts]]></title>
+        <id>https://medium.com/p/927faef40a26</id>
+        <link href="https://coinsbench.com/openzeppelin-and-solidity-a-developers-guide-to-building-secure-smart-contracts-927faef40a26?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-21T12:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Ranjithkumar C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Use Cases of ERC20 Tokens]]></title>
+        <id>https://medium.com/p/88f796a1694b</id>
+        <link href="https://coinsbench.com/top-10-use-cases-of-erc20-tokens-88f796a1694b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-21T12:26:44.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Ranjithkumar C</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Moonshot APIs]]></title>
         <id>https://medium.com/p/4a67270856ee</id>
@@ -153,56 +204,6 @@
         <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>James Siswanto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guide to Creating, Testing, and Deploying a Smart Contract with Foundry (HelloBlockchain)]]></title>
-        <id>https://medium.com/p/8c9eeedf780e</id>
-        <link href="https://coinsbench.com/guide-to-creating-testing-and-deploying-a-smart-contract-with-foundry-helloblockchain-8c9eeedf780e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-16T10:29:42.000Z</updated>
-        <summary type="html"><![CDATA[1. Introduction to Foundry]]></summary>
-        <author>
-            <name>Magda  Jankowska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying a Smart Contract on zkSync Testnet Using Remix]]></title>
-        <id>https://medium.com/p/c924936ca662</id>
-        <link href="https://coinsbench.com/deploying-a-smart-contract-on-zksync-testnet-using-remix-c924936ca662?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-14T10:02:53.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Magda  Jankowska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building and Deploying a Solidity Smart Contract with Foundry: A Step-by-Step Guide]]></title>
-        <id>https://medium.com/p/e4e8aba956cb</id>
-        <link href="https://coinsbench.com/building-and-deploying-a-solidity-smart-contract-with-foundry-a-step-by-step-guide-e4e8aba956cb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-12T20:06:10.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Magda  Jankowska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Dive Into Smart Contract Wallet (EIP6492) Verification]]></title>
-        <id>https://medium.com/p/57c4f88cfb9c</id>
-        <link href="https://coinsbench.com/deep-dive-into-smart-contract-wallet-eip6492-verification-57c4f88cfb9c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-12T20:06:07.000Z</updated>
-        <summary type="html"><![CDATA[EIP1271 Signature Verification]]></summary>
-        <author>
-            <name>Sajad Salehi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #46 Answered: What is a signature replay attack?]]></title>
-        <id>https://medium.com/p/0d24bd2beecd</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-46-answered-what-is-a-signature-replay-attack-0d24bd2beecd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-09T10:30:19.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
         </author>
     </entry>
     <entry>
