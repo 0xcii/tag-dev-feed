@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-26T16:18:55.885Z</id>
+    <id>urn:2024-08-26T17:12:59.698Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-26T16:18:55.885Z</updated>
+    <updated>2024-08-26T17:12:59.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Employers Test Solidity Developers: What to Expect and How to Prepare (including the Solidity…]]></title>
+        <id>https://medium.com/p/039322f8422d</id>
+        <link href="https://blog.blockmagnates.com/how-employers-test-solidity-developers-what-to-expect-and-how-to-prepare-including-the-solidity-039322f8422d?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-08-26T16:51:46.000Z</updated>
+        <summary type="html"><![CDATA[This article is designed to be informative and practical, offering Solidity developers a clear understanding of what to expect during the…]]></summary>
+        <author>
+            <name>Magda  Jankowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[️ Mastering Ethereum Security: A Step-by-Step Guide to Documenting the SecureBank Contract for…]]></title>
+        <id>https://medium.com/p/48316ed618a4</id>
+        <link href="https://blog.blockmagnates.com/%EF%B8%8F-mastering-ethereum-security-a-step-by-step-guide-to-documenting-the-securebank-contract-for-48316ed618a4?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-08-26T16:51:44.000Z</updated>
+        <summary type="html"><![CDATA[📚 Introduction]]></summary>
+        <author>
+            <name>Magda  Jankowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Solidity: Must-Know Interview Questions for Ethereum Developers ️ (Practical Only)]]></title>
+        <id>https://medium.com/p/00cc15a9b9bf</id>
+        <link href="https://coinsbench.com/master-solidity-must-know-interview-questions-for-ethereum-developers-%EF%B8%8F-practical-only-00cc15a9b9bf?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-26T16:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Magda  Jankowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Web3 Movie Streaming dApp using NextJs, Tailwind, and Sia Renterd: Part Three]]></title>
+        <id>https://medium.com/p/3d20822100c0</id>
+        <link href="https://coinsbench.com/build-a-web3-movie-streaming-dapp-using-nextjs-tailwind-and-sia-renterd-part-three-3d20822100c0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-26T16:47:58.000Z</updated>
+        <summary type="html"><![CDATA[Let’s dive into the final part of this tutorial series, where we’ll integrate the backend with the Frontend, connecting the pieces to…]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Web3 Movie Streaming dApp using NextJs, Tailwind, and Sia Renterd: Part One]]></title>
+        <id>https://medium.com/p/7c43bb3b29a2</id>
+        <link href="https://coinsbench.com/build-a-web3-movie-streaming-dapp-using-nextjs-tailwind-and-sia-renterd-part-one-7c43bb3b29a2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-26T16:47:55.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial series will guide you in creating a decentralized application that leverages Sia’s blockchain technology to ensure user data…]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Web3 Movie Streaming dApp using NextJs, Tailwind, and Sia Renterd: Part Two]]></title>
+        <id>https://medium.com/p/5e11ed80f7a1</id>
+        <link href="https://coinsbench.com/build-a-web3-movie-streaming-dapp-using-nextjs-tailwind-and-sia-renterd-part-two-5e11ed80f7a1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-26T16:47:53.000Z</updated>
+        <summary type="html"><![CDATA[Welcome Back! Please read through Part 1 if you haven’t already. Now, let’s dive into Part 2: Building the backend service for our web3…]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Blockchain as Popular as the WWW? A Timeline of Technology and Adaptability]]></title>
+        <id>https://medium.com/p/54a03adce511</id>
+        <link href="https://coinsbench.com/is-blockchain-as-popular-as-the-www-a-timeline-of-technology-and-adaptability-54a03adce511?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-26T16:47:50.000Z</updated>
+        <summary type="html"><![CDATA[WWW vs BLOCKCHAIN
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>ismail</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RWA Staking Platform Development: The Hottest Trend in Crypto Right Now!]]></title>
         <id>https://medium.com/p/3b8853d7b247</id>
@@ -156,56 +227,6 @@ Continue reading on CoinsBench »]]></summary>
 Continue reading on CoinsBench »]]></summary>
         <author>
             <name>Ranjithkumar C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Use Cases of ERC20 Tokens]]></title>
-        <id>https://medium.com/p/88f796a1694b</id>
-        <link href="https://coinsbench.com/top-10-use-cases-of-erc20-tokens-88f796a1694b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-21T12:26:44.000Z</updated>
-        <summary type="html"><![CDATA[Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Ranjithkumar C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Solidity: Quzi and Task]]></title>
-        <id>https://medium.com/p/c3b672e67781</id>
-        <link href="https://coinsbench.com/mastering-solidity-quzi-and-task-c3b672e67781?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-19T12:19:48.000Z</updated>
-        <summary type="html"><![CDATA[Test Your Knowledge]]></summary>
-        <author>
-            <name>Magda  Jankowska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Becoming a Web3 Security Researcher: A Comprehensive Roadmap]]></title>
-        <id>https://medium.com/p/caa71ac06752</id>
-        <link href="https://coinsbench.com/becoming-a-web3-security-researcher-a-comprehensive-roadmap-caa71ac06752?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-19T12:19:46.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Magda  Jankowska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer-2 Rollup Technology is Transforming Matchain’s Infrastructure]]></title>
-        <id>https://medium.com/p/a2fad20fc686</id>
-        <link href="https://coinsbench.com/layer-2-rollup-technology-is-transforming-matchains-infrastructure-a2fad20fc686?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-19T12:19:44.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Ukezi Ebenezer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing Solana Programs: Avoiding Common Pitfalls in Rust and Anchor Development]]></title>
-        <id>https://medium.com/p/f3a863b43d34</id>
-        <link href="https://coinsbench.com/securing-solana-programs-avoiding-common-pitfalls-in-rust-and-anchor-development-f3a863b43d34?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-19T12:19:42.000Z</updated>
-        <summary type="html"><![CDATA[As part of the Solana Summer Fellowship 2024, I was tasked with writing a blog post on the security of Solana programs. Here is what I…]]></summary>
-        <author>
-            <name>Franck Maussand</name>
         </author>
     </entry>
     <entry>
