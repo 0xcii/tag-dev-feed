@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-27T10:14:38.673Z</id>
+    <id>urn:2024-08-27T11:13:05.769Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-27T10:14:38.673Z</updated>
+    <updated>2024-08-27T11:13:05.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Implementing ERC20 for Fundraising: A Comprehensive Guide]]></title>
+        <id>https://medium.com/p/7eb68ad52b3c</id>
+        <link href="https://coinsbench.com/implementing-erc20-for-fundraising-a-comprehensive-guide-7eb68ad52b3c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-08-27T10:49:20.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Ranjithkumar C</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Employers Test Solidity Developers: What to Expect and How to Prepare (including the Solidity…]]></title>
         <id>https://medium.com/p/039322f8422d</id>
@@ -217,17 +227,6 @@ Continue reading on CoinsBench »]]></summary>
         <link href="https://coinsbench.com/introduction-to-polygon-pos-scaling-ethereum-for-the-future-8c34d6e307bf?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-08-21T12:26:50.000Z</updated>
         <summary type="html"><![CDATA[Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Ranjithkumar C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenZeppelin and Solidity: A Developer’s Guide to Building Secure Smart Contracts]]></title>
-        <id>https://medium.com/p/927faef40a26</id>
-        <link href="https://coinsbench.com/openzeppelin-and-solidity-a-developers-guide-to-building-secure-smart-contracts-927faef40a26?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-21T12:26:47.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-Continue reading on CoinsBench »]]></summary>
         <author>
             <name>Ranjithkumar C</name>
         </author>
