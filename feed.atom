@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-02T07:14:02.868Z</id>
+    <id>urn:2024-09-02T08:19:23.026Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-02T07:14:02.868Z</updated>
+    <updated>2024-09-02T08:19:23.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sending ETH in Smart Contracts]]></title>
+        <id>https://medium.com/p/06e9a47bdd47</id>
+        <link href="https://blog.blockmagnates.com/sending-eth-in-smart-contracts-06e9a47bdd47?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-09-02T07:46:56.000Z</updated>
+        <summary type="html"><![CDATA[An indepth look at the available methods to send ETH as a solidity developer.]]></summary>
+        <author>
+            <name>Obaloluwa Olusoji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethernaut Challenge Level 28: Solution (Gatekeeper Three)]]></title>
+        <id>https://medium.com/p/8b9164eebc41</id>
+        <link href="https://blog.blockmagnates.com/ethernaut-challenge-level-28-solution-gatekeeper-three-8b9164eebc41?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-09-02T07:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Ethernaut is an interactive platform by OpenZeppelin designed for learning about Ethereum smart contract security. It features a series of…]]></summary>
+        <author>
+            <name>Shubham Nagar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beginner’s Guide: Launching a Validator Node on the Story (IIIAD) Testnet]]></title>
+        <id>https://medium.com/p/ab3d25c15ef5</id>
+        <link href="https://coinsbench.com/beginners-guide-launching-a-validator-node-on-the-story-iiiad-testnet-ab3d25c15ef5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-02T07:46:12.000Z</updated>
+        <summary type="html"><![CDATA[To go straight to the beginner’s guide on how to launch your validator on the Iliad testnet of the Story blockchain, click here
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>DigitalDidactica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Blockchain Technology]]></title>
+        <id>https://medium.com/p/89bb1a30963e</id>
+        <link href="https://coinsbench.com/mastering-blockchain-technology-89bb1a30963e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-02T07:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Mastering Blockchain Technology: Understanding Smart Contracts, Gas Fees, and More with Python and Solidity
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracing the Speed and Safety of Web Development with Rust and Rocket]]></title>
+        <id>https://medium.com/p/af9a7e957307</id>
+        <link href="https://coinsbench.com/embracing-the-speed-and-safety-of-web-development-with-rust-and-rocket-af9a7e957307?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-02T07:46:08.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Ashish Sharda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transient Storage in Solidity: A Closer Look at EIP-1153]]></title>
+        <id>https://medium.com/p/f5db99b3698d</id>
+        <link href="https://coinsbench.com/transient-storage-in-solidity-a-closer-look-at-eip-1153-f5db99b3698d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-02T07:46:07.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum ecosystem is constantly evolving, with each hardfork introducing new features and optimizations to the Ethereum Virtual…]]></summary>
+        <author>
+            <name>Ali Mert BOSTAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Common Bitcoin scams and how to avoid them?]]></title>
         <id>https://medium.com/p/b383b19a93ee</id>
@@ -207,48 +270,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[This tutorial series will guide you in creating a decentralized application that leverages Sia’s blockchain technology to ensure user data…]]></summary>
         <author>
             <name>Darlington Gospel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Web3 Movie Streaming dApp using NextJs, Tailwind, and Sia Renterd: Part Two]]></title>
-        <id>https://medium.com/p/5e11ed80f7a1</id>
-        <link href="https://coinsbench.com/build-a-web3-movie-streaming-dapp-using-nextjs-tailwind-and-sia-renterd-part-two-5e11ed80f7a1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-26T16:47:53.000Z</updated>
-        <summary type="html"><![CDATA[Welcome Back! Please read through Part 1 if you haven’t already. Now, let’s dive into Part 2: Building the backend service for our web3…]]></summary>
-        <author>
-            <name>Darlington Gospel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Blockchain as Popular as the WWW? A Timeline of Technology and Adaptability]]></title>
-        <id>https://medium.com/p/54a03adce511</id>
-        <link href="https://coinsbench.com/is-blockchain-as-popular-as-the-www-a-timeline-of-technology-and-adaptability-54a03adce511?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-26T16:47:50.000Z</updated>
-        <summary type="html"><![CDATA[WWW vs BLOCKCHAIN
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Blockchain Developer Roadmap: Your Guide to Becoming a Pro in Web3]]></title>
-        <id>https://medium.com/p/6367f4750414</id>
-        <link href="https://coinsbench.com/2024-blockchain-developer-roadmap-your-guide-to-becoming-a-pro-in-web3-6367f4750414?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-23T10:21:26.000Z</updated>
-        <summary type="html"><![CDATA[The blockchain industry is one of the most dynamic and rapidly evolving fields in technology today. With the rise of decentralized finance…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>ismail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Journey as a Newbie Blockchain Developer: Overcoming Obstacles and Finding My Way]]></title>
-        <id>https://medium.com/p/d5283755c74d</id>
-        <link href="https://coinsbench.com/my-journey-as-a-newbie-blockchain-developer-overcoming-obstacles-and-finding-my-way-d5283755c74d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-21T12:26:54.000Z</updated>
-        <summary type="html"><![CDATA[I’m just a few weeks into my blockchain development journey, and I’m still trying to find my footing. As a complete newbie, I’m facing a…]]></summary>
-        <author>
-            <name>Olisedem Nkechi Wealth</name>
         </author>
     </entry>
     <entry>
