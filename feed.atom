@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-09T10:16:36.812Z</id>
+    <id>urn:2024-09-09T11:12:17.986Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-09T10:16:36.812Z</updated>
+    <updated>2024-09-09T11:12:17.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Smart Contract for a New Coin Using Solidity]]></title>
+        <id>https://medium.com/p/c2954116aa42</id>
+        <link href="https://coinsbench.com/how-to-create-a-smart-contract-for-a-new-coin-using-solidity-c2954116aa42?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-09T10:40:20.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology has garnered significant attention in recent years, transforming various industries. Among its many applications, the…]]></summary>
+        <author>
+            <name>Bytebots Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with Solidity: A Beginner’s Guide to Smart Contract Development]]></title>
+        <id>https://medium.com/p/ebc55a7850a3</id>
+        <link href="https://coinsbench.com/getting-started-with-solidity-a-beginners-guide-to-smart-contract-development-ebc55a7850a3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-09T10:40:18.000Z</updated>
+        <summary type="html"><![CDATA[With the rise of blockchain technology, Solidity has emerged as the go-to programming language for developing smart contracts on the…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Neurogoop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Solidity: Must-Know Interview Questions for Ethereum Developers ️ (Theory Only)]]></title>
+        <id>https://medium.com/p/39d11cb7c625</id>
+        <link href="https://coinsbench.com/master-solidity-must-know-interview-questions-for-ethereum-developers-%EF%B8%8F-theory-only-39d11cb7c625?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-09T10:40:16.000Z</updated>
+        <summary type="html"><![CDATA[As blockchain technology evolves, the demand for skilled Ethereum developers, particularly those proficient in Solidity, continues to rise…]]></summary>
+        <author>
+            <name>Magda  Jankowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing Your Solidity Knowledge: A Practical Guide with Simple Contracts]]></title>
+        <id>https://medium.com/p/7f20b26216e3</id>
+        <link href="https://coinsbench.com/testing-your-solidity-knowledge-a-practical-guide-with-simple-contracts-7f20b26216e3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-09T10:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Solidity, the programming language for writing smart contracts on the Ethereum blockchain, is a key skill for any blockchain developer. As…]]></summary>
+        <author>
+            <name>Magda  Jankowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Proxy Contracts for Existing Smart Contracts: A Comprehensive Introduction]]></title>
+        <id>https://medium.com/p/0af82c279bf9</id>
+        <link href="https://coinsbench.com/creating-proxy-contracts-for-existing-smart-contracts-a-comprehensive-introduction-0af82c279bf9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-09T10:40:11.000Z</updated>
+        <summary type="html"><![CDATA[In the world of blockchain and decentralized applications, proxy contracts are a powerful tool for managing upgradable contracts. They…]]></summary>
+        <author>
+            <name>Gregory Magnusson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflections on the basics of Foundry for Solidity development.]]></title>
+        <id>https://medium.com/p/33f9dc9b882c</id>
+        <link href="https://coinsbench.com/reflections-on-the-basic-of-foundry-for-solidity-development-33f9dc9b882c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-09T10:40:09.000Z</updated>
+        <summary type="html"><![CDATA[While I have done my share of hardhat with yarn I much prefer Foundry with npm. There is nothing really wrong with hardhat… but Foundry is…]]></summary>
+        <author>
+            <name>Gregory Magnusson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RareSkills Solidity Interview Question #49 Answered: What is the free memory pointer and where is…]]></title>
+        <id>https://medium.com/p/aab02e8507cc</id>
+        <link href="https://coinsbench.com/rareskills-solidity-interview-question-49-answered-what-is-the-free-memory-pointer-and-where-is-aab02e8507cc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-09T10:40:06.000Z</updated>
+        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
+        <author>
+            <name>Faybian Byrd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INTERFACES]]></title>
         <id>https://medium.com/p/1534c56f736a</id>
@@ -180,16 +251,6 @@ Continue reading on Block Magnates »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethereum Offers a Superior Alternative to Traditional Financial Systems]]></title>
-        <id>https://medium.com/p/6172941c402d</id>
-        <link href="https://coinsbench.com/ethereum-offers-a-superior-alternative-to-traditional-financial-systems-6172941c402d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-04T12:56:53.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum's Role in the Evolution of Financial Systems]]></summary>
-        <author>
-            <name>Ukezi Ebenezer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sending ETH in Smart Contracts]]></title>
         <id>https://medium.com/p/06e9a47bdd47</id>
         <link href="https://blog.blockmagnates.com/sending-eth-in-smart-contracts-06e9a47bdd47?source=rss----18fa961f1eff--solidity"/>
@@ -210,49 +271,6 @@ Continue reading on Block Magnates »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beginner’s Guide: Launching a Validator Node on the Story (IIIAD) Testnet]]></title>
-        <id>https://medium.com/p/ab3d25c15ef5</id>
-        <link href="https://coinsbench.com/beginners-guide-launching-a-validator-node-on-the-story-iiiad-testnet-ab3d25c15ef5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-02T07:46:12.000Z</updated>
-        <summary type="html"><![CDATA[To go straight to the beginner’s guide on how to launch your validator on the Iliad testnet of the Story blockchain, click here
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>DigitalDidactica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Blockchain Technology]]></title>
-        <id>https://medium.com/p/89bb1a30963e</id>
-        <link href="https://coinsbench.com/mastering-blockchain-technology-89bb1a30963e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-02T07:46:10.000Z</updated>
-        <summary type="html"><![CDATA[Mastering Blockchain Technology: Understanding Smart Contracts, Gas Fees, and More with Python and Solidity
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embracing the Speed and Safety of Web Development with Rust and Rocket]]></title>
-        <id>https://medium.com/p/af9a7e957307</id>
-        <link href="https://coinsbench.com/embracing-the-speed-and-safety-of-web-development-with-rust-and-rocket-af9a7e957307?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-02T07:46:08.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Ashish Sharda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transient Storage in Solidity: A Closer Look at EIP-1153]]></title>
-        <id>https://medium.com/p/f5db99b3698d</id>
-        <link href="https://coinsbench.com/transient-storage-in-solidity-a-closer-look-at-eip-1153-f5db99b3698d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-02T07:46:07.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum ecosystem is constantly evolving, with each hardfork introducing new features and optimizations to the Ethereum Virtual…]]></summary>
-        <author>
-            <name>Ali Mert BOSTAN</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RareSkills Solidity Interview Question #47 Answered: What is gas griefing?]]></title>
         <id>https://medium.com/p/310a373e840d</id>
         <link href="https://blog.blockmagnates.com/rareskills-solidity-interview-question-47-answered-what-is-gas-griefing-310a373e840d?source=rss----18fa961f1eff--solidity"/>
@@ -260,26 +278,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing a Stablecoin Using ERC-20: A Comprehensive Guide]]></title>
-        <id>https://medium.com/p/771d47e1471b</id>
-        <link href="https://coinsbench.com/implementing-a-stablecoin-using-erc-20-a-comprehensive-guide-771d47e1471b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-28T13:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Ranjithkumar C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethernaut Challenge Level 24: Solution (Puzzle Wallet)]]></title>
-        <id>https://medium.com/p/7c7551b0e07a</id>
-        <link href="https://coinsbench.com/ethernaut-challenge-level-24-solution-puzzle-wallet-7c7551b0e07a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-08-28T13:42:42.000Z</updated>
-        <summary type="html"><![CDATA[Back gain with the most complex challenge on OpenZeppelin Ethernaut! Today I am going to write about Level 24: Puzzle Wallet Challenge…]]></summary>
-        <author>
-            <name>Shubham Nagar</name>
         </author>
     </entry>
     <entry>
