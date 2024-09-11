@@ -18,6 +18,76 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/0a4a59034e72",
+          "author": "Neurogoop",
+          "description": "In Solidity, one of the most powerful and commonly used data structures is the mapping. Mappings allow for efficient and dynamic…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/understanding-mappings-in-solidity-a-deep-dive-0a4a59034e72?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-09-11T13:39:23.000Z",
+          "wordCount": 1119,
+          "title": "Understanding Mappings in Solidity: A Deep Dive",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1100/1*OnxzAb_A2Wo1zWyYKn_brQ.png"
+        },
+        {
+          "id": "https://medium.com/p/3f4790f7658e",
+          "author": "Ranjithkumar C",
+          "description": "Continue reading on CoinsBench »",
+          "link": "https://coinsbench.com/building-a-decentralized-lending-platform-using-erc20-3f4790f7658e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-09-11T13:39:21.000Z",
+          "wordCount": 1079,
+          "title": "Building a Decentralized Lending Platform Using ERC20",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*ylWLRvBbkR8Wlz21.jpg"
+        },
+        {
+          "id": "https://medium.com/p/c7b648804d16",
+          "author": "Lara Taiwo",
+          "description": "A guide on essential tools needed to build your smart contract development environment.",
+          "link": "https://coinsbench.com/a-quick-guide-on-installing-foundry-vscode-git-npm-and-node-js-c7b648804d16?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-09-11T13:39:09.000Z",
+          "wordCount": 2693,
+          "title": "A quick guide on installing foundry, vscode, git, npm and node.js",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*XeQYlcinvC1MJu59"
+        },
+        {
+          "id": "https://medium.com/p/e4d47e87cc44",
+          "author": "Lara Taiwo",
+          "description": "When getting started with smart contract development, many developers find themselves using Remix IDE, a browser-based tool designed for…",
+          "link": "https://coinsbench.com/why-smart-contract-developers-should-choose-vscode-and-foundry-over-remix-ide-e4d47e87cc44?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-09-11T13:39:08.000Z",
+          "wordCount": 2223,
+          "title": "Why smart contract developers should choose VSCode and Foundry over Remix IDE",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*_SAdatSayvZ8owtf"
+        },
+        {
+          "id": "https://medium.com/p/fd19effefa6c",
+          "author": "Magda  Jankowska",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/exploring-the-power-of-solidity-merkle-trees-and-real-world-applications-fd19effefa6c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-09-11T13:39:07.000Z",
+          "wordCount": 7736,
+          "title": "Exploring the Power of Solidity: Merkle Trees and Real-World Applications",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b3850b478ea8",
+          "author": "Yessin_at_meduim",
+          "description": "Best guide for Developing, Deploying and Testing Smart Contracts using truffle and ganache .",
+          "link": "https://coinsbench.com/smart-contract-dev-hands-on-with-truffle-ganache-and-solidity-b3850b478ea8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-09-11T13:39:05.000Z",
+          "wordCount": 3302,
+          "title": "Smart Contract Dev : Hands-On with Truffle, Ganache and Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:686/1*AjvxG9m05dux-SATnBWMpA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/7efd0eae2e04",
+          "author": "ʇndɾɐꓤ uᴉqoꓤ",
+          "description": "it’s like saying, “trust me, i know what i’m talking about,” and everyone just goes along with it, no questions asked.",
+          "link": "https://coinsbench.com/i-am-zk-based-7efd0eae2e04?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-09-11T13:39:03.000Z",
+          "wordCount": 2279,
+          "title": "I am ZK-Based",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*-CbOQWGj_hsuy5aQi3gLEQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/c2954116aa42",
           "author": "Bytebots Systems",
           "description": "Blockchain technology has garnered significant attention in recent years, transforming various industries. Among its many applications, the…",
@@ -46,76 +116,6 @@
           "wordCount": 4857,
           "title": "Master Solidity: Must-Know Interview Questions for Ethereum Developers ️ (Theory Only)",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7f20b26216e3",
-          "author": "Magda  Jankowska",
-          "description": "Solidity, the programming language for writing smart contracts on the Ethereum blockchain, is a key skill for any blockchain developer. As…",
-          "link": "https://coinsbench.com/testing-your-solidity-knowledge-a-practical-guide-with-simple-contracts-7f20b26216e3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-09-09T10:40:14.000Z",
-          "wordCount": 2642,
-          "title": "Testing Your Solidity Knowledge: A Practical Guide with Simple Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*iO9qbOknhnc4qTrSu2cM2A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/0af82c279bf9",
-          "author": "Gregory Magnusson",
-          "description": "In the world of blockchain and decentralized applications, proxy contracts are a powerful tool for managing upgradable contracts. They…",
-          "link": "https://coinsbench.com/creating-proxy-contracts-for-existing-smart-contracts-a-comprehensive-introduction-0af82c279bf9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-09-09T10:40:11.000Z",
-          "wordCount": 3270,
-          "title": "Creating Proxy Contracts for Existing Smart Contracts: A Comprehensive Introduction",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*r8Ffq91mUzeF1kNZ"
-        },
-        {
-          "id": "https://medium.com/p/33f9dc9b882c",
-          "author": "Gregory Magnusson",
-          "description": "While I have done my share of hardhat with yarn I much prefer Foundry with npm. There is nothing really wrong with hardhat… but Foundry is…",
-          "link": "https://coinsbench.com/reflections-on-the-basic-of-foundry-for-solidity-development-33f9dc9b882c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-09-09T10:40:09.000Z",
-          "wordCount": 2997,
-          "title": "Reflections on the basics of Foundry for Solidity development.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*KsVvcldj6vu4_vUwnFu68A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/aab02e8507cc",
-          "author": "Faybian Byrd",
-          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
-          "link": "https://coinsbench.com/rareskills-solidity-interview-question-49-answered-what-is-the-free-memory-pointer-and-where-is-aab02e8507cc?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-09-09T10:40:06.000Z",
-          "wordCount": 1820,
-          "title": "RareSkills Solidity Interview Question #49 Answered: What is the free memory pointer and where is…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*hV30zOQtISfSa9YWw8Fj1w.png"
-        },
-        {
-          "id": "https://medium.com/p/1534c56f736a",
-          "author": "Franklin Ejezie",
-          "description": "Interfaces in solidity , what they are and how they work.",
-          "link": "https://coinsbench.com/interfaces-1534c56f736a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-09-08T09:56:46.000Z",
-          "wordCount": 1794,
-          "title": "INTERFACES",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1022/1*6fL32NNcB4oP-9obNVIC-A.png"
-        },
-        {
-          "id": "https://medium.com/p/b61cc48410ec",
-          "author": "Levai",
-          "description": "Presently, there are tons of existing blockchains with new ones coming up each day. All of these blockchains are either part of an…",
-          "link": "https://coinsbench.com/into-the-wormhole-a-deep-dive-into-wormhole-protocol-b61cc48410ec?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-09-07T11:57:27.000Z",
-          "wordCount": 4837,
-          "title": "Into the Wormhole: A deep-dive into Wormhole Protocol",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*P_5j8UDXMCaO2vEzWIih1w.png"
-        },
-        {
-          "id": "https://medium.com/p/73b26d26e943",
-          "author": "Harshil Jani",
-          "description": "Managing blockchain nodes isn’t easy. It feels like there’s always something that needs attention, and it’s about dealing with long sync…",
-          "link": "https://coinsbench.com/my-experience-using-node-snapshots-by-public-node-73b26d26e943?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-09-04T19:54:19.000Z",
-          "wordCount": 2990,
-          "title": "My Experience Using Node Snapshots by Public Node",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:649/0*f7HJINHrdU5cC2l0"
         }
       ]
     },

@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-11T13:20:27.307Z</id>
+    <id>urn:2024-09-11T14:13:25.824Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-11T13:20:27.307Z</updated>
+    <updated>2024-09-11T14:13:25.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Mappings in Solidity: A Deep Dive]]></title>
+        <id>https://medium.com/p/0a4a59034e72</id>
+        <link href="https://coinsbench.com/understanding-mappings-in-solidity-a-deep-dive-0a4a59034e72?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-11T13:39:23.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, one of the most powerful and commonly used data structures is the mapping. Mappings allow for efficient and dynamic…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Neurogoop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Decentralized Lending Platform Using ERC20]]></title>
+        <id>https://medium.com/p/3f4790f7658e</id>
+        <link href="https://coinsbench.com/building-a-decentralized-lending-platform-using-erc20-3f4790f7658e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-11T13:39:21.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Ranjithkumar C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A quick guide on installing foundry, vscode, git, npm and node.js]]></title>
+        <id>https://medium.com/p/c7b648804d16</id>
+        <link href="https://coinsbench.com/a-quick-guide-on-installing-foundry-vscode-git-npm-and-node-js-c7b648804d16?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-11T13:39:09.000Z</updated>
+        <summary type="html"><![CDATA[A guide on essential tools needed to build your smart contract development environment.]]></summary>
+        <author>
+            <name>Lara Taiwo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why smart contract developers should choose VSCode and Foundry over Remix IDE]]></title>
+        <id>https://medium.com/p/e4d47e87cc44</id>
+        <link href="https://coinsbench.com/why-smart-contract-developers-should-choose-vscode-and-foundry-over-remix-ide-e4d47e87cc44?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-11T13:39:08.000Z</updated>
+        <summary type="html"><![CDATA[When getting started with smart contract development, many developers find themselves using Remix IDE, a browser-based tool designed for…]]></summary>
+        <author>
+            <name>Lara Taiwo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Power of Solidity: Merkle Trees and Real-World Applications]]></title>
+        <id>https://medium.com/p/fd19effefa6c</id>
+        <link href="https://coinsbench.com/exploring-the-power-of-solidity-merkle-trees-and-real-world-applications-fd19effefa6c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-11T13:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Magda  Jankowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Dev : Hands-On with Truffle, Ganache and Solidity]]></title>
+        <id>https://medium.com/p/b3850b478ea8</id>
+        <link href="https://coinsbench.com/smart-contract-dev-hands-on-with-truffle-ganache-and-solidity-b3850b478ea8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-11T13:39:05.000Z</updated>
+        <summary type="html"><![CDATA[Best guide for Developing, Deploying and Testing Smart Contracts using truffle and ganache .]]></summary>
+        <author>
+            <name>Yessin_at_meduim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I am ZK-Based]]></title>
+        <id>https://medium.com/p/7efd0eae2e04</id>
+        <link href="https://coinsbench.com/i-am-zk-based-7efd0eae2e04?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-11T13:39:03.000Z</updated>
+        <summary type="html"><![CDATA[it’s like saying, “trust me, i know what i’m talking about,” and everyone just goes along with it, no questions asked.]]></summary>
+        <author>
+            <name>ʇndɾɐꓤ uᴉqoꓤ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Liquidity in Smart Money Trading]]></title>
         <id>https://medium.com/p/99700ba6ae73</id>
@@ -144,66 +215,6 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Testing Your Solidity Knowledge: A Practical Guide with Simple Contracts]]></title>
-        <id>https://medium.com/p/7f20b26216e3</id>
-        <link href="https://coinsbench.com/testing-your-solidity-knowledge-a-practical-guide-with-simple-contracts-7f20b26216e3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-09T10:40:14.000Z</updated>
-        <summary type="html"><![CDATA[Solidity, the programming language for writing smart contracts on the Ethereum blockchain, is a key skill for any blockchain developer. As…]]></summary>
-        <author>
-            <name>Magda  Jankowska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Proxy Contracts for Existing Smart Contracts: A Comprehensive Introduction]]></title>
-        <id>https://medium.com/p/0af82c279bf9</id>
-        <link href="https://coinsbench.com/creating-proxy-contracts-for-existing-smart-contracts-a-comprehensive-introduction-0af82c279bf9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-09T10:40:11.000Z</updated>
-        <summary type="html"><![CDATA[In the world of blockchain and decentralized applications, proxy contracts are a powerful tool for managing upgradable contracts. They…]]></summary>
-        <author>
-            <name>Gregory Magnusson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reflections on the basics of Foundry for Solidity development.]]></title>
-        <id>https://medium.com/p/33f9dc9b882c</id>
-        <link href="https://coinsbench.com/reflections-on-the-basic-of-foundry-for-solidity-development-33f9dc9b882c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-09T10:40:09.000Z</updated>
-        <summary type="html"><![CDATA[While I have done my share of hardhat with yarn I much prefer Foundry with npm. There is nothing really wrong with hardhat… but Foundry is…]]></summary>
-        <author>
-            <name>Gregory Magnusson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #49 Answered: What is the free memory pointer and where is…]]></title>
-        <id>https://medium.com/p/aab02e8507cc</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-49-answered-what-is-the-free-memory-pointer-and-where-is-aab02e8507cc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-09T10:40:06.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INTERFACES]]></title>
-        <id>https://medium.com/p/1534c56f736a</id>
-        <link href="https://coinsbench.com/interfaces-1534c56f736a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-08T09:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Interfaces in solidity , what they are and how they work.]]></summary>
-        <author>
-            <name>Franklin Ejezie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Into the Wormhole: A deep-dive into Wormhole Protocol]]></title>
-        <id>https://medium.com/p/b61cc48410ec</id>
-        <link href="https://coinsbench.com/into-the-wormhole-a-deep-dive-into-wormhole-protocol-b61cc48410ec?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-07T11:57:27.000Z</updated>
-        <summary type="html"><![CDATA[Presently, there are tons of existing blockchains with new ones coming up each day. All of these blockchains are either part of an…]]></summary>
-        <author>
-            <name>Levai</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building a Robust NFT Smart Contract: From OpenZeppelin Wizard to Custom Features]]></title>
         <id>https://medium.com/p/17f04f120652</id>
         <link href="https://blog.blockmagnates.com/building-a-robust-nft-smart-contract-from-openzeppelin-wizard-to-custom-features-17f04f120652?source=rss----18fa961f1eff--solidity"/>
@@ -242,16 +253,6 @@ Continue reading on Block Magnates »]]></summary>
         <summary type="html"><![CDATA[Introduced through the Ethereum improvement proposal 4337 (EIP-4337), account abstraction is an Ethereum update that treats user accounts…]]></summary>
         <author>
             <name>Ayush Ranjan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Experience Using Node Snapshots by Public Node]]></title>
-        <id>https://medium.com/p/73b26d26e943</id>
-        <link href="https://coinsbench.com/my-experience-using-node-snapshots-by-public-node-73b26d26e943?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-04T19:54:19.000Z</updated>
-        <summary type="html"><![CDATA[Managing blockchain nodes isn’t easy. It feels like there’s always something that needs attention, and it’s about dealing with long sync…]]></summary>
-        <author>
-            <name>Harshil Jani</name>
         </author>
     </entry>
     <entry>
