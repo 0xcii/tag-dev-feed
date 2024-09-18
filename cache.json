@@ -29,6 +29,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1154c0482902",
+          "author": "Infect 3ds",
+          "description": "When working with Solidity it is important to understand how Ether is transferred between contracts. Solidity gives us three primary…",
+          "link": "https://coinsbench.com/understanding-ether-transfers-in-solidity-send-transfer-and-call-1154c0482902?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-09-18T11:21:50.000Z",
+          "wordCount": 2623,
+          "title": "Understanding Ether Transfers in Solidity: send, transfer and call.",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/02a0f0c60774",
           "author": "Magda  Jankowska",
           "description": "As a Solidity developer, you may often seek ways to optimize gas costs and improve scalability for decentralized applications (dApps). With…",
@@ -117,16 +127,6 @@
           "wordCount": 2223,
           "title": "Why smart contract developers should choose VSCode and Foundry over Remix IDE",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*_SAdatSayvZ8owtf"
-        },
-        {
-          "id": "https://medium.com/p/fd19effefa6c",
-          "author": "Magda  Jankowska",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/exploring-the-power-of-solidity-merkle-trees-and-real-world-applications-fd19effefa6c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-09-11T13:39:07.000Z",
-          "wordCount": 7736,
-          "title": "Exploring the Power of Solidity: Merkle Trees and Real-World Applications",
-          "imageUrl": null
         }
       ]
     },
@@ -141,7 +141,7 @@
           "description": "In the evolving world of cryptocurrency, tracing transactions has become a crucial task for companies, investigators, and legal…",
           "link": "https://medium.com/coinmonks/crypto-tracing-tools-627d3cf7191a?source=rss----721b17443fd5---4",
           "publishedOn": "2024-09-18T09:23:38.000Z",
-          "wordCount": 8326,
+          "wordCount": 8327,
           "title": "Crypto Tracing Tools",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*LA7pIFU3VlMoCiOy"
         },

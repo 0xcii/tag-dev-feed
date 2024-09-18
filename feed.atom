@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-18T11:13:04.668Z</id>
+    <id>urn:2024-09-18T12:28:51.735Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-18T11:13:04.668Z</updated>
+    <updated>2024-09-18T12:28:51.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Ether Transfers in Solidity: send, transfer and call.]]></title>
+        <id>https://medium.com/p/1154c0482902</id>
+        <link href="https://coinsbench.com/understanding-ether-transfers-in-solidity-send-transfer-and-call-1154c0482902?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-18T11:21:50.000Z</updated>
+        <summary type="html"><![CDATA[When working with Solidity it is important to understand how Ether is transferred between contracts. Solidity gives us three primary…]]></summary>
+        <author>
+            <name>Infect 3ds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Tracing Tools]]></title>
         <id>https://medium.com/p/627d3cf7191a</id>
@@ -214,16 +224,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[When getting started with smart contract development, many developers find themselves using Remix IDE, a browser-based tool designed for…]]></summary>
         <author>
             <name>Lara Taiwo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Power of Solidity: Merkle Trees and Real-World Applications]]></title>
-        <id>https://medium.com/p/fd19effefa6c</id>
-        <link href="https://coinsbench.com/exploring-the-power-of-solidity-merkle-trees-and-real-world-applications-fd19effefa6c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-11T13:39:07.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Magda  Jankowska</name>
         </author>
     </entry>
     <entry>
