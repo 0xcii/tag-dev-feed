@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-26T19:11:56.281Z</id>
+    <id>urn:2024-09-26T20:16:02.269Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-26T19:11:56.281Z</updated>
+    <updated>2024-09-26T20:16:02.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -107,17 +107,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[In this universe, everyone will forget their problems, issues, and sadness at one moment that is playing games with their friends. Whether…]]></summary>
         <author>
             <name>John Benjamin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding ERC-4337: What It Means for the Future of Smart Contracts]]></title>
-        <id>https://medium.com/p/03c8a4e36ef0</id>
-        <link href="https://coinsbench.com/decoding-erc-4337-what-it-means-for-the-future-of-smart-contracts-03c8a4e36ef0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-25T14:52:03.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts have revolutionized how developers build applications on the Ethereum blockchain, enabling decentralized finance (DeFi)…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Neurogoop</name>
         </author>
     </entry>
     <entry>
@@ -260,6 +249,16 @@ The post Ethereum losing ground against Bitcoin has nothing to do with Ethereum 
         <summary type="html"><![CDATA[When working with Solidity it is important to understand how Ether is transferred between contracts. Solidity gives us three primary…]]></summary>
         <author>
             <name>Infect 3ds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blob Gas Unleashed: How to Optimize a Company's Blockchain Data Strategy with Solidity as a…]]></title>
+        <id>https://medium.com/p/02a0f0c60774</id>
+        <link href="https://coinsbench.com/blob-gas-unleashed-how-to-optimize-a-companys-blockchain-data-strategy-with-solidity-as-a-02a0f0c60774?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-09-16T12:21:18.000Z</updated>
+        <summary type="html"><![CDATA[As a Solidity developer, you may often seek ways to optimize gas costs and improve scalability for decentralized applications (dApps). With…]]></summary>
+        <author>
+            <name>Magda  Jankowska</name>
         </author>
     </entry>
     <entry>
