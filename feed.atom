@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-01T08:20:26.645Z</id>
+    <id>urn:2024-10-01T09:16:49.468Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-01T08:20:26.645Z</updated>
+    <updated>2024-10-01T09:16:49.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bringing your USD-Collateralized Stablecoin to Linea: A Guide for Developers]]></title>
+        <id>https://medium.com/p/9784e830a695</id>
+        <link href="https://blog.blockmagnates.com/bringing-your-usd-collateralized-stablecoin-to-linea-a-guide-for-developers-9784e830a695?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-10-01T08:56:58.000Z</updated>
+        <summary type="html"><![CDATA[For developers interested in bringing a USD-collateralized stablecoin to Linea from the Ethereum layer 1, there are several important…]]></summary>
+        <author>
+            <name>TheNewAutonomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer’s Guide to ERC-4337 #1 | Developing Simple Account]]></title>
+        <id>https://medium.com/p/4cfbd089d756</id>
+        <link href="https://blog.blockmagnates.com/developers-guide-to-erc-4337-1-developing-simple-account-4cfbd089d756?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-10-01T08:56:53.000Z</updated>
+        <summary type="html"><![CDATA[Lately, I’ve been exploring ERC-4337, which introduces account abstraction with an alternative mempool. It’s a really exciting topic…]]></summary>
+        <author>
+            <name>Nikhil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Basic Guide to Smart Contract Auditing for Beginners]]></title>
+        <id>https://medium.com/p/bf6e0fc6a2f5</id>
+        <link href="https://coinsbench.com/a-basic-guide-to-smart-contract-auditing-for-beginners-bf6e0fc6a2f5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-01T08:51:44.000Z</updated>
+        <summary type="html"><![CDATA[Essential Tips for Conducting an Effective and Thorough Audit on Ethereum]]></summary>
+        <author>
+            <name>z0L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETH bridging]]></title>
+        <id>https://medium.com/p/a6494bbb0ca2</id>
+        <link href="https://coinsbench.com/ff-a6494bbb0ca2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-01T08:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Ether (ETH) is the native currency of Ethereum and all Arbitrum chains. It is used to pay the necessary fees to execute a transaction in…]]></summary>
+        <author>
+            <name>Esther Oche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[token-withdraw Tutorial]]></title>
+        <id>https://medium.com/p/7232f41b5bd1</id>
+        <link href="https://coinsbench.com/token-withdraw-tutorial-7232f41b5bd1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-01T08:51:40.000Z</updated>
+        <summary type="html"><![CDATA[token-withdraw shows how to move ERC20 tokens from Arbitrum (Layer 2) into Ethereum (Layer 1).]]></summary>
+        <author>
+            <name>Esther Oche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Social: The Dawn of Decentralized Communication Platforms]]></title>
+        <id>https://medium.com/p/c028dfca225b</id>
+        <link href="https://coinsbench.com/web3-social-the-dawn-of-decentralized-communication-platforms-c028dfca225b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-01T08:51:37.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Ukezi Ebenezer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Use Circom to Generate Solidity Contracts for Zero-Knowledge Proofs?]]></title>
+        <id>https://medium.com/p/263cea122b7d</id>
+        <link href="https://coinsbench.com/why-use-circom-to-generate-solidity-contracts-for-zero-knowledge-proofs-263cea122b7d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-01T08:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Zero-knowledge proofs (ZK proofs) have become quite popular in the blockchain space, but for many, they still seem a bit abstract. If…]]></summary>
+        <author>
+            <name>darkty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Security Feature in Contract Wallets You Don’t Know About]]></title>
+        <id>https://medium.com/p/4ec65342adbf</id>
+        <link href="https://coinsbench.com/the-hidden-security-feature-in-contract-wallets-you-dont-know-about-4ec65342adbf?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-01T08:51:33.000Z</updated>
+        <summary type="html"><![CDATA[With all the buzz surrounding contract wallets — especially when it comes to account abstraction (EIP-4337) — it’s no surprise that they…]]></summary>
+        <author>
+            <name>Lucca Martins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battle of the Smart Contract Titans: Solidity vs Move vs Rust vs Anchor vs Cairo]]></title>
+        <id>https://medium.com/p/5d7aa82f757d</id>
+        <link href="https://coinsbench.com/battle-of-the-smart-contract-titans-solidity-vs-move-vs-rust-vs-anchor-vs-cairo-5d7aa82f757d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-01T08:51:31.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Udaykiran Kallem</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SoneFi Confirmed Airdrop]]></title>
         <id>https://medium.com/p/89a70a35f42c</id>
@@ -177,16 +267,6 @@ Continue reading on Block Magnates »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Real-World Applications of Smart Contracts: How to Generate Effortless Revenue Using Blockchain]]></title>
-        <id>https://medium.com/p/a9a35b0c2a4e</id>
-        <link href="https://coinsbench.com/real-world-applications-of-smart-contracts-how-to-generate-effortless-revenue-using-blockchain-a9a35b0c2a4e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-23T13:45:42.000Z</updated>
-        <summary type="html"><![CDATA[Introduction:]]></summary>
-        <author>
-            <name>Magda  Jankowska</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ethereum losing ground against Bitcoin has nothing to do with Ethereum (or Vitalik)]]></title>
         <id>https://www.cryptomaton.org/?p=1725</id>
         <link href="https://www.cryptomaton.org/2024/09/22/ethereum-losing-ground-against-bitcoin/"/>
@@ -205,66 +285,6 @@ The post Ethereum losing ground against Bitcoin has nothing to do with Ethereum 
         <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
         <author>
             <name>Faybian Byrd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decentralization: The Heart of Blockchain’s Power  looks at real-world scenarios and potential…]]></title>
-        <id>https://medium.com/p/4defb3a60a7d</id>
-        <link href="https://coinsbench.com/decentralization-the-heart-of-blockchains-power-looks-at-real-world-scenarios-and-potential-4defb3a60a7d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-20T13:40:59.000Z</updated>
-        <summary type="html"><![CDATA[As a Solidity developer and smart contract auditor, your role in helping companies transition to decentralized systems involves…]]></summary>
-        <author>
-            <name>Magda  Jankowska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Code to Crypto: Writing Your First Smart Contract with Solidity]]></title>
-        <id>https://medium.com/p/d89e85578e32</id>
-        <link href="https://coinsbench.com/from-code-to-crypto-writing-your-first-smart-contract-with-solidity-d89e85578e32?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-20T13:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain, Web3, Proof-of-work, Proof-of-stake Distributed ledger, Mining, Miners, Gas, Eth, Wei….. Oops what the heck are you boasting…]]></summary>
-        <author>
-            <name>Muhammed Aslam C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenizing Real-World Assets with ERC20 Tokens]]></title>
-        <id>https://medium.com/p/b09be83cddb0</id>
-        <link href="https://coinsbench.com/tokenizing-real-world-assets-with-erc20-tokens-b09be83cddb0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-20T13:40:53.000Z</updated>
-        <summary type="html"><![CDATA[Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Ranjithkumar C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[️ Transforming Loyalty Programs with Blockchain: A Step-by-Step Guide to Implementing ShopCoin at…]]></title>
-        <id>https://medium.com/p/0f569db2fe54</id>
-        <link href="https://coinsbench.com/%EF%B8%8F-transforming-loyalty-programs-with-blockchain-a-step-by-step-guide-to-implementing-shopcoin-at-0f569db2fe54?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-20T13:40:51.000Z</updated>
-        <summary type="html"><![CDATA[📋 Introduction]]></summary>
-        <author>
-            <name>Magda  Jankowska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Ether Transfers in Solidity: send, transfer and call.]]></title>
-        <id>https://medium.com/p/1154c0482902</id>
-        <link href="https://coinsbench.com/understanding-ether-transfers-in-solidity-send-transfer-and-call-1154c0482902?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-18T11:21:50.000Z</updated>
-        <summary type="html"><![CDATA[When working with Solidity it is important to understand how Ether is transferred between contracts. Solidity gives us three primary…]]></summary>
-        <author>
-            <name>Infect 3ds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blob Gas Unleashed: How to Optimize a Company's Blockchain Data Strategy with Solidity as a…]]></title>
-        <id>https://medium.com/p/02a0f0c60774</id>
-        <link href="https://coinsbench.com/blob-gas-unleashed-how-to-optimize-a-companys-blockchain-data-strategy-with-solidity-as-a-02a0f0c60774?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-09-16T12:21:18.000Z</updated>
-        <summary type="html"><![CDATA[As a Solidity developer, you may often seek ways to optimize gas costs and improve scalability for decentralized applications (dApps). With…]]></summary>
-        <author>
-            <name>Magda  Jankowska</name>
         </author>
     </entry>
     <entry>
@@ -317,26 +337,6 @@ Continue reading on Block Magnates »]]></summary>
         <summary type="html"><![CDATA[Introduced through the Ethereum improvement proposal 4337 (EIP-4337), account abstraction is an Ethereum update that treats user accounts…]]></summary>
         <author>
             <name>Ayush Ranjan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sending ETH in Smart Contracts]]></title>
-        <id>https://medium.com/p/06e9a47bdd47</id>
-        <link href="https://blog.blockmagnates.com/sending-eth-in-smart-contracts-06e9a47bdd47?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-09-02T07:46:56.000Z</updated>
-        <summary type="html"><![CDATA[An indepth look at the available methods to send ETH as a solidity developer.]]></summary>
-        <author>
-            <name>Obaloluwa Olusoji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethernaut Challenge Level 28: Solution (Gatekeeper Three)]]></title>
-        <id>https://medium.com/p/8b9164eebc41</id>
-        <link href="https://blog.blockmagnates.com/ethernaut-challenge-level-28-solution-gatekeeper-three-8b9164eebc41?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-09-02T07:46:53.000Z</updated>
-        <summary type="html"><![CDATA[Ethernaut is an interactive platform by OpenZeppelin designed for learning about Ethereum smart contract security. It features a series of…]]></summary>
-        <author>
-            <name>Shubham Nagar</name>
         </author>
     </entry>
 </feed>
