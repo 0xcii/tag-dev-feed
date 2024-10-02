@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-02T06:21:33.872Z</id>
+    <id>urn:2024-10-02T07:14:11.588Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-02T06:21:33.872Z</updated>
+    <updated>2024-10-02T07:14:11.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -110,6 +110,26 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bringing your USD-Collateralized Stablecoin to Linea: A Guide for Developers]]></title>
+        <id>https://medium.com/p/9784e830a695</id>
+        <link href="https://blog.blockmagnates.com/bringing-your-usd-collateralized-stablecoin-to-linea-a-guide-for-developers-9784e830a695?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-10-01T08:56:58.000Z</updated>
+        <summary type="html"><![CDATA[For developers interested in bringing a USD-collateralized stablecoin to Linea from the Ethereum layer 1, there are several important…]]></summary>
+        <author>
+            <name>TheNewAutonomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer’s Guide to ERC-4337 #1 | Developing Simple Account]]></title>
+        <id>https://medium.com/p/4cfbd089d756</id>
+        <link href="https://blog.blockmagnates.com/developers-guide-to-erc-4337-1-developing-simple-account-4cfbd089d756?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-10-01T08:56:53.000Z</updated>
+        <summary type="html"><![CDATA[Lately, I’ve been exploring ERC-4337, which introduces account abstraction with an alternative mempool. It’s a really exciting topic…]]></summary>
+        <author>
+            <name>Nikhil</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Basic Guide to Smart Contract Auditing for Beginners]]></title>
         <id>https://medium.com/p/bf6e0fc6a2f5</id>
         <link href="https://coinsbench.com/a-basic-guide-to-smart-contract-auditing-for-beginners-bf6e0fc6a2f5?source=rss----f1cfd22cde3e---4"/>
@@ -190,6 +210,37 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[️ Real-Life Scenario: How solidity developer Earned $10,000 Solving a Smart Contract Bug Bounty…]]></title>
+        <id>https://medium.com/p/035167d79a42</id>
+        <link href="https://blog.blockmagnates.com/%EF%B8%8F-real-life-scenario-how-solidity-developer-earned-10-000-solving-a-smart-contract-bug-bounty-035167d79a42?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-09-25T14:39:52.000Z</updated>
+        <summary type="html"><![CDATA[🔍 Step 1: Discovering the Challenge]]></summary>
+        <author>
+            <name>Magda  Jankowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understand Chainlink Data Feeds.]]></title>
+        <id>https://medium.com/p/43a19b309764</id>
+        <link href="https://blog.blockmagnates.com/understand-chainlink-data-feeds-43a19b309764?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-09-25T14:39:50.000Z</updated>
+        <summary type="html"><![CDATA[Chainlink data feeds allow smart contracts to access real-world data such as cryptocurrency prices, weather information, or any other type…]]></summary>
+        <author>
+            <name>Unnati gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Masterpiece]]></title>
+        <id>https://medium.com/p/95024a250cdd</id>
+        <link href="https://blog.blockmagnates.com/blockchain-masterpiece-95024a250cdd?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-09-25T14:39:46.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Rainhard Wiesinger on Pixabay
+Continue reading on Block Magnates »]]></summary>
+        <author>
+            <name>Milaim Delija</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From Ethereum to Non-EVM Chains]]></title>
         <id>https://medium.com/p/d6be5614e568</id>
         <link href="https://coinsbench.com/from-ethereum-to-non-evm-chains-d6be5614e568?source=rss----f1cfd22cde3e---4"/>
@@ -221,6 +272,16 @@ The post Ethereum losing ground against Bitcoin has nothing to do with Ethereum 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RareSkills Solidity Interview Question #50 Answered: What function modifiers are valid for…]]></title>
+        <id>https://medium.com/p/56f4b912aaa6</id>
+        <link href="https://blog.blockmagnates.com/rareskills-solidity-interview-question-50-answered-what-function-modifiers-are-valid-for-56f4b912aaa6?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-09-20T13:57:09.000Z</updated>
+        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
+        <author>
+            <name>Faybian Byrd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Today’s Cryptocurrency Sentiment]]></title>
         <id>https://www.cryptomaton.org/?p=1721</id>
         <link href="https://www.cryptomaton.org/2024/09/14/todays-cryptocurrency-sentiment/"/>
@@ -229,6 +290,47 @@ The post Ethereum losing ground against Bitcoin has nothing to do with Ethereum 
 The post Today’s Cryptocurrency Sentiment appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Robust NFT Smart Contract: From OpenZeppelin Wizard to Custom Features]]></title>
+        <id>https://medium.com/p/17f04f120652</id>
+        <link href="https://blog.blockmagnates.com/building-a-robust-nft-smart-contract-from-openzeppelin-wizard-to-custom-features-17f04f120652?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-09-06T12:54:07.000Z</updated>
+        <summary type="html"><![CDATA[I. Introduction
+Continue reading on Block Magnates »]]></summary>
+        <author>
+            <name>Gimer Cervera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving Damn Vulnerable DeFi #11: Backdoor]]></title>
+        <id>https://medium.com/p/b205a4345a35</id>
+        <link href="https://blog.blockmagnates.com/solving-damn-vulnerable-defi-11-backdoor-b205a4345a35?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-09-06T12:54:06.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll take a deep dive into Damn Vulnerable DeFi’s “Backdoor” puzzle. I will share my thought process in solving this…]]></summary>
+        <author>
+            <name>Huw Grano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Blockchain-Enabled Federated Learning System with Incentives]]></title>
+        <id>https://medium.com/p/99a2cda11d3d</id>
+        <link href="https://blog.blockmagnates.com/building-a-blockchain-enabled-federated-learning-system-with-incentives-99a2cda11d3d?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-09-06T12:53:45.000Z</updated>
+        <summary type="html"><![CDATA[In today’s world, data privacy is a growing concern. Companies are increasingly collecting user data to improve their products, but this…]]></summary>
+        <author>
+            <name>Gourav Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Account Abstraction — A UX Solution.]]></title>
+        <id>https://medium.com/p/da62ebef45f7</id>
+        <link href="https://blog.blockmagnates.com/account-abstraction-a-ux-solution-da62ebef45f7?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-09-06T12:53:44.000Z</updated>
+        <summary type="html"><![CDATA[Introduced through the Ethereum improvement proposal 4337 (EIP-4337), account abstraction is an Ethereum update that treats user accounts…]]></summary>
+        <author>
+            <name>Ayush Ranjan</name>
         </author>
     </entry>
 </feed>

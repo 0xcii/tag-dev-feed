@@ -248,6 +248,113 @@
       ]
     },
     {
+      "title": "Solidity in Block Magnates on Medium",
+      "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
+      "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
+      "articles": [
+        {
+          "id": "https://medium.com/p/9784e830a695",
+          "author": "TheNewAutonomy",
+          "description": "For developers interested in bringing a USD-collateralized stablecoin to Linea from the Ethereum layer 1, there are several important…",
+          "link": "https://blog.blockmagnates.com/bringing-your-usd-collateralized-stablecoin-to-linea-a-guide-for-developers-9784e830a695?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-10-01T08:56:58.000Z",
+          "wordCount": 3274,
+          "title": "Bringing your USD-Collateralized Stablecoin to Linea: A Guide for Developers",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*oMK8zOHht5zrAmzHvNoV6g.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/4cfbd089d756",
+          "author": "Nikhil",
+          "description": "Lately, I’ve been exploring ERC-4337, which introduces account abstraction with an alternative mempool. It’s a really exciting topic…",
+          "link": "https://blog.blockmagnates.com/developers-guide-to-erc-4337-1-developing-simple-account-4cfbd089d756?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-10-01T08:56:53.000Z",
+          "wordCount": 5794,
+          "title": "Developer’s Guide to ERC-4337 #1 | Developing Simple Account",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BoREy27DLVMTqy5IzmxYPw.png"
+        },
+        {
+          "id": "https://medium.com/p/035167d79a42",
+          "author": "Magda  Jankowska",
+          "description": "🔍 Step 1: Discovering the Challenge",
+          "link": "https://blog.blockmagnates.com/%EF%B8%8F-real-life-scenario-how-solidity-developer-earned-10-000-solving-a-smart-contract-bug-bounty-035167d79a42?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-09-25T14:39:52.000Z",
+          "wordCount": 3035,
+          "title": "️ Real-Life Scenario: How solidity developer Earned $10,000 Solving a Smart Contract Bug Bounty…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:910/1*y-vI90Mtq8XsiGb33UrayA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/43a19b309764",
+          "author": "Unnati gupta",
+          "description": "Chainlink data feeds allow smart contracts to access real-world data such as cryptocurrency prices, weather information, or any other type…",
+          "link": "https://blog.blockmagnates.com/understand-chainlink-data-feeds-43a19b309764?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-09-25T14:39:50.000Z",
+          "wordCount": 1946,
+          "title": "Understand Chainlink Data Feeds.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NN1_dprmAHDE4uCbHHTd4g.png"
+        },
+        {
+          "id": "https://medium.com/p/95024a250cdd",
+          "author": "Milaim Delija",
+          "description": "Photo by Rainhard Wiesinger on Pixabay\nContinue reading on Block Magnates »",
+          "link": "https://blog.blockmagnates.com/blockchain-masterpiece-95024a250cdd?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-09-25T14:39:46.000Z",
+          "wordCount": 1189,
+          "title": "Blockchain Masterpiece",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*DNhJmpjmY1xbuRKVMjARbA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/56f4b912aaa6",
+          "author": "Faybian Byrd",
+          "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
+          "link": "https://blog.blockmagnates.com/rareskills-solidity-interview-question-50-answered-what-function-modifiers-are-valid-for-56f4b912aaa6?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-09-20T13:57:09.000Z",
+          "wordCount": 1411,
+          "title": "RareSkills Solidity Interview Question #50 Answered: What function modifiers are valid for…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*NcT6G3I7zKVbFVLAz-2eig.png"
+        },
+        {
+          "id": "https://medium.com/p/17f04f120652",
+          "author": "Gimer Cervera",
+          "description": "I. Introduction\nContinue reading on Block Magnates »",
+          "link": "https://blog.blockmagnates.com/building-a-robust-nft-smart-contract-from-openzeppelin-wizard-to-custom-features-17f04f120652?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-09-06T12:54:07.000Z",
+          "wordCount": 1100,
+          "title": "Building a Robust NFT Smart Contract: From OpenZeppelin Wizard to Custom Features",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*RM53KpSjEWoLlIE7O5bpPw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/b205a4345a35",
+          "author": "Huw Grano",
+          "description": "In this article, we’ll take a deep dive into Damn Vulnerable DeFi’s “Backdoor” puzzle. I will share my thought process in solving this…",
+          "link": "https://blog.blockmagnates.com/solving-damn-vulnerable-defi-11-backdoor-b205a4345a35?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-09-06T12:54:06.000Z",
+          "wordCount": 4111,
+          "title": "Solving Damn Vulnerable DeFi #11: Backdoor",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LahP8P-X1qqvPmbrIMqTmQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/99a2cda11d3d",
+          "author": "Gourav Kumar",
+          "description": "In today’s world, data privacy is a growing concern. Companies are increasingly collecting user data to improve their products, but this…",
+          "link": "https://blog.blockmagnates.com/building-a-blockchain-enabled-federated-learning-system-with-incentives-99a2cda11d3d?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-09-06T12:53:45.000Z",
+          "wordCount": 1972,
+          "title": "Building a Blockchain-Enabled Federated Learning System with Incentives",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VefUZyfG1GMam6Av2DLyHw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/da62ebef45f7",
+          "author": "Ayush Ranjan",
+          "description": "Introduced through the Ethereum improvement proposal 4337 (EIP-4337), account abstraction is an Ethereum update that treats user accounts…",
+          "link": "https://blog.blockmagnates.com/account-abstraction-a-ux-solution-da62ebef45f7?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-09-06T12:53:44.000Z",
+          "wordCount": 3394,
+          "title": "Account Abstraction — A UX Solution.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:811/1*EXpWvVbuNeCAKAsrIzl5Vw.jpeg"
+        }
+      ]
+    },
+    {
       "title": "Developer DAO Blog | Web3 Tutorials",
       "feedUrl": "https://blog.developerdao.com/rss.xml",
       "siteUrl": "https://blog.developerdao.com",
