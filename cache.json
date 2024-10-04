@@ -39,6 +39,76 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/25a39c77ba8b",
+          "author": "Rafsunsheikh",
+          "description": "This is the continuation of my study of stablecoin smart contract.\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/dissection-of-an-erc-20-stablecoin-understanding-the-stablecoin-smart-contract-part-two-25a39c77ba8b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-04T13:34:25.000Z",
+          "wordCount": 981,
+          "title": "Dissection of an ERC-20 StableCoin: Understanding the stablecoin smart contract (Part Two)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*GF0_G_vC_67KV_Jz5RLBlA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/72cdcb41b61c",
+          "author": "Rafsunsheikh",
+          "description": "I have started studying a Stablecoin smart contract that is already running in Ethereum Mainnet. To better understand it, I think it is…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/dissection-of-an-erc-20-stablecoin-understanding-the-stablecoin-smart-contract-part-one-72cdcb41b61c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-04T13:34:24.000Z",
+          "wordCount": 1014,
+          "title": "Dissection of an ERC-20 StableCoin: Understanding the stablecoin smart contract (Part One)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:766/1*ED3Hinbdp5z-P8GpURYQ7g.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/52599eb29b41",
+          "author": "Drraghavendra",
+          "description": "Research Article: How AI, Data Science, and DNA Computing Intersect with Binance and Cryptography",
+          "link": "https://coinsbench.com/convergence-of-ai-data-science-and-dna-computing-a-new-frontier-for-binance-and-cryptography-52599eb29b41?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-04T13:34:22.000Z",
+          "wordCount": 4400,
+          "title": "Convergence of AI, Data Science, and DNA Computing: A New Frontier for Binance and Cryptography",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*NrVLm2WaqsTZIbAyqxw0gw.png"
+        },
+        {
+          "id": "https://medium.com/p/24e42ab02cac",
+          "author": "Drraghavendra",
+          "description": "Abstract",
+          "link": "https://coinsbench.com/web3-and-the-bootstrap-economy-a-comprehensive-analysis-of-layer-2-l2s-impact-24e42ab02cac?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-04T13:34:21.000Z",
+          "wordCount": 5525,
+          "title": "Web3 and the Bootstrap Economy: A Comprehensive Analysis of Layer 2 L2’s Impact",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1120/1*MgeQMCZdck4LJxH0IxNNYw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/545581f427dc",
+          "author": "Martin Maina",
+          "description": "Security Practices on Soroban",
+          "link": "https://coinsbench.com/security-best-practices-for-soroban-smart-contracts-545581f427dc?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-04T13:34:20.000Z",
+          "wordCount": 5448,
+          "title": "Security Best Practices for Soroban Smart Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8ejmRmS6ZgHx29wbmfGYww.png"
+        },
+        {
+          "id": "https://medium.com/p/f468791213aa",
+          "author": "Martin Maina",
+          "description": "Soroban Vs EVM",
+          "link": "https://coinsbench.com/unlock-the-future-of-blockchain-why-soroban-is-the-smart-contract-platform-youve-been-waiting-for-f468791213aa?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-04T13:34:18.000Z",
+          "wordCount": 3785,
+          "title": "Unlock the Future of Blockchain: Why Soroban is the Smart Contract Platform You’ve Been Waiting For.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*boXKN1BR6FGU7HxgnMslzA.png"
+        },
+        {
+          "id": "https://medium.com/p/32142695992c",
+          "author": "Rafsunsheikh",
+          "description": "It feels great to start writing part three. In the previous part, we started discussing the ERC20Upgradeable contract. After the initial…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/dissection-of-an-erc-20-stablecoin-understanding-the-stablecoin-smart-contract-part-three-32142695992c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-04T13:34:16.000Z",
+          "wordCount": 1055,
+          "title": "Dissection of an ERC-20 StableCoin: Understanding the stablecoin smart contract (Part Three)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*DDH7Zq4qLT4_gwy4rCZ1gA.png"
+        },
+        {
           "id": "https://medium.com/p/bf6e0fc6a2f5",
           "author": "z0L",
           "description": "Essential Tips for Conducting an Effective and Thorough Audit on Ethereum",
@@ -67,76 +137,6 @@
           "wordCount": 1021,
           "title": "token-withdraw Tutorial",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yIwoawppulPj3Fyax3b_Zw.png"
-        },
-        {
-          "id": "https://medium.com/p/c028dfca225b",
-          "author": "Ukezi Ebenezer",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/web3-social-the-dawn-of-decentralized-communication-platforms-c028dfca225b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-01T08:51:37.000Z",
-          "wordCount": 5853,
-          "title": "Web3 Social: The Dawn of Decentralized Communication Platforms",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*a3ZrTuhnlfP0ZrxTEa0z1g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/263cea122b7d",
-          "author": "darkty",
-          "description": "Zero-knowledge proofs (ZK proofs) have become quite popular in the blockchain space, but for many, they still seem a bit abstract. If…",
-          "link": "https://coinsbench.com/why-use-circom-to-generate-solidity-contracts-for-zero-knowledge-proofs-263cea122b7d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-01T08:51:35.000Z",
-          "wordCount": 1945,
-          "title": "Why Use Circom to Generate Solidity Contracts for Zero-Knowledge Proofs?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4ec65342adbf",
-          "author": "Lucca Martins",
-          "description": "With all the buzz surrounding contract wallets — especially when it comes to account abstraction (EIP-4337) — it’s no surprise that they…",
-          "link": "https://coinsbench.com/the-hidden-security-feature-in-contract-wallets-you-dont-know-about-4ec65342adbf?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-01T08:51:33.000Z",
-          "wordCount": 1764,
-          "title": "The Hidden Security Feature in Contract Wallets You Don’t Know About",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*byixEUphvXVuvs-C"
-        },
-        {
-          "id": "https://medium.com/p/5d7aa82f757d",
-          "author": "Udaykiran Kallem",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/battle-of-the-smart-contract-titans-solidity-vs-move-vs-rust-vs-anchor-vs-cairo-5d7aa82f757d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-01T08:51:31.000Z",
-          "wordCount": 2345,
-          "title": "Battle of the Smart Contract Titans: Solidity vs Move vs Rust vs Anchor vs Cairo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ef175593cb65",
-          "author": "Burgossrodrigo",
-          "description": "In the rapidly evolving world of decentralized finance (DeFi), protocols like Polymarket offer innovative ways to engage with prediction…",
-          "link": "https://coinsbench.com/building-a-nestjs-service-to-interact-with-the-polymarket-protocol-ef175593cb65?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-09-25T14:51:45.000Z",
-          "wordCount": 2506,
-          "title": "Building a NestJS Service to Interact with the Polymarket Protocol",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vArrhosSSDbYAYcP3UXjUg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d6be5614e568",
-          "author": "Ukezi Ebenezer",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/from-ethereum-to-non-evm-chains-d6be5614e568?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-09-23T13:45:47.000Z",
-          "wordCount": 4426,
-          "title": "From Ethereum to Non-EVM Chains",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TlWx0Yil8IjI9PiVchw2ZA.png"
-        },
-        {
-          "id": "https://medium.com/p/96fb2033b6df",
-          "author": "Ukezi Ebenezer",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/defi-security-101-a-beginners-guide-96fb2033b6df?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-09-23T13:45:45.000Z",
-          "wordCount": 3682,
-          "title": "Defi Security 101: A Beginners Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*4cxINRK-CByBk2yRme7jmQ.jpeg"
         }
       ]
     },
@@ -298,7 +298,7 @@
           "description": "Photo by Rainhard Wiesinger on Pixabay\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/blockchain-masterpiece-95024a250cdd?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-09-25T14:39:46.000Z",
-          "wordCount": 1189,
+          "wordCount": 1180,
           "title": "Blockchain Masterpiece",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*DNhJmpjmY1xbuRKVMjARbA.jpeg"
         },
