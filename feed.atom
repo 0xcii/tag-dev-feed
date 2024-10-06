@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-06T09:15:33.368Z</id>
+    <id>urn:2024-10-06T10:15:25.044Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-06T09:15:33.368Z</updated>
+    <updated>2024-10-06T10:15:25.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -140,28 +140,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dissection of an ERC-20 StableCoin: Understanding the stablecoin smart contract (Part Two)]]></title>
-        <id>https://medium.com/p/25a39c77ba8b</id>
-        <link href="https://coinsbench.com/dissection-of-an-erc-20-stablecoin-understanding-the-stablecoin-smart-contract-part-two-25a39c77ba8b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-04T13:34:25.000Z</updated>
-        <summary type="html"><![CDATA[This is the continuation of my study of stablecoin smart contract.
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Rafsunsheikh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dissection of an ERC-20 StableCoin: Understanding the stablecoin smart contract (Part One)]]></title>
-        <id>https://medium.com/p/72cdcb41b61c</id>
-        <link href="https://coinsbench.com/dissection-of-an-erc-20-stablecoin-understanding-the-stablecoin-smart-contract-part-one-72cdcb41b61c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-04T13:34:24.000Z</updated>
-        <summary type="html"><![CDATA[I have started studying a Stablecoin smart contract that is already running in Ethereum Mainnet. To better understand it, I think it is…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Rafsunsheikh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Convergence of AI, Data Science, and DNA Computing: A New Frontier for Binance and Cryptography]]></title>
         <id>https://medium.com/p/52599eb29b41</id>
         <link href="https://coinsbench.com/convergence-of-ai-data-science-and-dna-computing-a-new-frontier-for-binance-and-cryptography-52599eb29b41?source=rss----f1cfd22cde3e---4"/>
@@ -199,17 +177,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Soroban Vs EVM]]></summary>
         <author>
             <name>Martin Maina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dissection of an ERC-20 StableCoin: Understanding the stablecoin smart contract (Part Three)]]></title>
-        <id>https://medium.com/p/32142695992c</id>
-        <link href="https://coinsbench.com/dissection-of-an-erc-20-stablecoin-understanding-the-stablecoin-smart-contract-part-three-32142695992c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-04T13:34:16.000Z</updated>
-        <summary type="html"><![CDATA[It feels great to start writing part three. In the previous part, we started discussing the ERC20Upgradeable contract. After the initial…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Rafsunsheikh</name>
         </author>
     </entry>
     <entry>
@@ -260,6 +227,36 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[token-withdraw shows how to move ERC20 tokens from Arbitrum (Layer 2) into Ethereum (Layer 1).]]></summary>
         <author>
             <name>Esther Oche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Social: The Dawn of Decentralized Communication Platforms]]></title>
+        <id>https://medium.com/p/c028dfca225b</id>
+        <link href="https://coinsbench.com/web3-social-the-dawn-of-decentralized-communication-platforms-c028dfca225b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-01T08:51:37.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Ukezi Ebenezer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Use Circom to Generate Solidity Contracts for Zero-Knowledge Proofs?]]></title>
+        <id>https://medium.com/p/263cea122b7d</id>
+        <link href="https://coinsbench.com/why-use-circom-to-generate-solidity-contracts-for-zero-knowledge-proofs-263cea122b7d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-01T08:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Zero-knowledge proofs (ZK proofs) have become quite popular in the blockchain space, but for many, they still seem a bit abstract. If…]]></summary>
+        <author>
+            <name>darkty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Security Feature in Contract Wallets You Don’t Know About]]></title>
+        <id>https://medium.com/p/4ec65342adbf</id>
+        <link href="https://coinsbench.com/the-hidden-security-feature-in-contract-wallets-you-dont-know-about-4ec65342adbf?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-01T08:51:33.000Z</updated>
+        <summary type="html"><![CDATA[With all the buzz surrounding contract wallets — especially when it comes to account abstraction (EIP-4337) — it’s no surprise that they…]]></summary>
+        <author>
+            <name>Lucca Martins</name>
         </author>
     </entry>
     <entry>

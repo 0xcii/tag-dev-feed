@@ -39,26 +39,6 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
-          "id": "https://medium.com/p/25a39c77ba8b",
-          "author": "Rafsunsheikh",
-          "description": "This is the continuation of my study of stablecoin smart contract.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/dissection-of-an-erc-20-stablecoin-understanding-the-stablecoin-smart-contract-part-two-25a39c77ba8b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-04T13:34:25.000Z",
-          "wordCount": 970,
-          "title": "Dissection of an ERC-20 StableCoin: Understanding the stablecoin smart contract (Part Two)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*aUsICTqjhVBye00DE6VnDQ.png"
-        },
-        {
-          "id": "https://medium.com/p/72cdcb41b61c",
-          "author": "Rafsunsheikh",
-          "description": "I have started studying a Stablecoin smart contract that is already running in Ethereum Mainnet. To better understand it, I think it is…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/dissection-of-an-erc-20-stablecoin-understanding-the-stablecoin-smart-contract-part-one-72cdcb41b61c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-04T13:34:24.000Z",
-          "wordCount": 1003,
-          "title": "Dissection of an ERC-20 StableCoin: Understanding the stablecoin smart contract (Part One)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*UiCfGqUQZ8zP2CxXgKo5fQ.png"
-        },
-        {
           "id": "https://medium.com/p/52599eb29b41",
           "author": "Drraghavendra",
           "description": "Research Article: How AI, Data Science, and DNA Computing Intersect with Binance and Cryptography",
@@ -99,16 +79,6 @@
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*boXKN1BR6FGU7HxgnMslzA.png"
         },
         {
-          "id": "https://medium.com/p/32142695992c",
-          "author": "Rafsunsheikh",
-          "description": "It feels great to start writing part three. In the previous part, we started discussing the ERC20Upgradeable contract. After the initial…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/dissection-of-an-erc-20-stablecoin-understanding-the-stablecoin-smart-contract-part-three-32142695992c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-04T13:34:16.000Z",
-          "wordCount": 1044,
-          "title": "Dissection of an ERC-20 StableCoin: Understanding the stablecoin smart contract (Part Three)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*DDH7Zq4qLT4_gwy4rCZ1gA.png"
-        },
-        {
           "id": "https://medium.com/p/bf6e0fc6a2f5",
           "author": "z0L",
           "description": "Essential Tips for Conducting an Effective and Thorough Audit on Ethereum",
@@ -137,6 +107,36 @@
           "wordCount": 1021,
           "title": "token-withdraw Tutorial",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yIwoawppulPj3Fyax3b_Zw.png"
+        },
+        {
+          "id": "https://medium.com/p/c028dfca225b",
+          "author": "Ukezi Ebenezer",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/web3-social-the-dawn-of-decentralized-communication-platforms-c028dfca225b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-01T08:51:37.000Z",
+          "wordCount": 5853,
+          "title": "Web3 Social: The Dawn of Decentralized Communication Platforms",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*a3ZrTuhnlfP0ZrxTEa0z1g.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/263cea122b7d",
+          "author": "darkty",
+          "description": "Zero-knowledge proofs (ZK proofs) have become quite popular in the blockchain space, but for many, they still seem a bit abstract. If…",
+          "link": "https://coinsbench.com/why-use-circom-to-generate-solidity-contracts-for-zero-knowledge-proofs-263cea122b7d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-01T08:51:35.000Z",
+          "wordCount": 1945,
+          "title": "Why Use Circom to Generate Solidity Contracts for Zero-Knowledge Proofs?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4ec65342adbf",
+          "author": "Lucca Martins",
+          "description": "With all the buzz surrounding contract wallets — especially when it comes to account abstraction (EIP-4337) — it’s no surprise that they…",
+          "link": "https://coinsbench.com/the-hidden-security-feature-in-contract-wallets-you-dont-know-about-4ec65342adbf?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-01T08:51:33.000Z",
+          "wordCount": 1764,
+          "title": "The Hidden Security Feature in Contract Wallets You Don’t Know About",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*byixEUphvXVuvs-C"
         }
       ]
     },
@@ -171,7 +171,7 @@
           "description": "AI is transforming industries worldwide. Dive into the top 20 sectors leading the charge in AI adoption and discover the future of work and…",
           "link": "https://medium.com/coinmonks/top-20-industries-shaping-the-future-with-ai-adoption-52f1029f1e30?source=rss----721b17443fd5---4",
           "publishedOn": "2024-10-05T13:27:54.000Z",
-          "wordCount": 4029,
+          "wordCount": 4030,
           "title": "Top 20 Industries Shaping the Future with AI Adoption",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*EZ5GxXs4nSa3OJ0jRIkCSg.jpeg"
         },
@@ -181,7 +181,7 @@
           "description": "Discover the top 10 blockchain development companies that are are going to revolutionizing the tech landscape in 2025.",
           "link": "https://medium.com/coinmonks/best-blockchain-development-companies-e99e4a36a803?source=rss----721b17443fd5---4",
           "publishedOn": "2024-10-05T13:27:24.000Z",
-          "wordCount": 3220,
+          "wordCount": 3221,
           "title": "Top 10 Blockchain Development Companies in 2024–2025",
           "imageUrl": null
         },
@@ -191,7 +191,7 @@
           "description": "I won a Moody Mights NFT during the AMA hosted by Across, and was sitting in my bag since 2023. However, this is not the average NFT ……\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/flexing-my-moody-mights-nft-and-enjoying-crypto-maze-and-zksync-perks-5b1b7837fe96?source=rss----721b17443fd5---4",
           "publishedOn": "2024-10-05T13:27:21.000Z",
-          "wordCount": 1350,
+          "wordCount": 1351,
           "title": "Flexing My Moody Mights NFT And Enjoying Crypto Maze And zkSync Perks",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:872/1*oX1ZbON8c6UxRi380Wm4Hg.png"
         },
@@ -201,7 +201,7 @@
           "description": "Explore the true costs of integrating AI into your business operations. Understand the initial investments and ongoing expenses you need to…",
           "link": "https://medium.com/coinmonks/what-is-the-cost-of-implementing-ai-into-your-business-2c1815c3bf4d?source=rss----721b17443fd5---4",
           "publishedOn": "2024-10-05T13:27:17.000Z",
-          "wordCount": 3275,
+          "wordCount": 3276,
           "title": "What is the Cost of Implementing AI into Your Business?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7GwmEQZNrBHcmuuf8_87cA.jpeg"
         },
@@ -221,7 +221,7 @@
           "description": "Explore the top 15 RWA trading platform providers in the United States, offering innovative solutions for seamless trading experiences.",
           "link": "https://medium.com/coinmonks/leading-15-rwa-trading-platform-in-united-states-0e3400a8800a?source=rss----721b17443fd5---4",
           "publishedOn": "2024-10-05T13:27:09.000Z",
-          "wordCount": 9141,
+          "wordCount": 9142,
           "title": "Leading 15 RWA Trading Platform in United States",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/1*KlD5nU5-JyDI1-tNUgjfYA.gif"
         },
