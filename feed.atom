@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-09T12:30:00.607Z</id>
+    <id>urn:2024-10-09T13:23:19.782Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-09T12:30:00.607Z</updated>
+    <updated>2024-10-09T13:23:19.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Evaluating the Effectiveness of the CatBoost Classifier in Distinguishing Benign Traffic, FTP…]]></title>
+        <id>https://medium.com/p/d747e63b3cfa</id>
+        <link href="https://coinsbench.com/evaluating-the-effectiveness-of-the-catboost-classifier-in-distinguishing-benign-traffic-ftp-d747e63b3cfa?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-09T12:28:13.000Z</updated>
+        <summary type="html"><![CDATA[🚀 Excited to Share My Latest Research Contribution! 🚀]]></summary>
+        <author>
+            <name>Abdulkader Hajjouz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[️ Understanding Compiler Optimizations in Solidity Smart Contracts]]></title>
+        <id>https://medium.com/p/74511f5e23c6</id>
+        <link href="https://coinsbench.com/%EF%B8%8F-understanding-compiler-optimizations-in-solidity-smart-contracts-74511f5e23c6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-09T12:28:11.000Z</updated>
+        <summary type="html"><![CDATA[In the world of Ethereum and decentralized applications, smart contracts are at the heart of many innovations. However, with great power…]]></summary>
+        <author>
+            <name>Magda  Jankowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractional NFTs: A Technical Dive into Solidity Smart Contracts]]></title>
+        <id>https://medium.com/p/8efe67eac1ff</id>
+        <link href="https://coinsbench.com/fractional-nfts-a-technical-dive-into-solidity-smart-contracts-8efe67eac1ff?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-09T12:27:56.000Z</updated>
+        <summary type="html"><![CDATA[Fractionalized NFTs (F-NFTs) are revolutionizing the world of digital assets, particularly in the NFT (Non-Fungible Token) space. They…]]></summary>
+        <author>
+            <name>Shubham Yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity vs Rust vs Go: The Top Programming Language for Blockchain Technology]]></title>
+        <id>https://medium.com/p/6ad3e5d9eecc</id>
+        <link href="https://coinsbench.com/solidity-vs-rust-vs-go-the-top-programming-language-for-blockchain-technology-6ad3e5d9eecc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-09T12:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Programming languages play an essential position in the development and implementation of blockchain technology. As the blockchain…]]></summary>
+        <author>
+            <name>Decentrablock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Cases of Decentralized Physical Infrastructure Networks (DePIN)]]></title>
+        <id>https://medium.com/p/35751864510f</id>
+        <link href="https://coinsbench.com/use-cases-of-decentralized-physical-infrastructure-networks-depin-35751864510f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-09T12:27:52.000Z</updated>
+        <summary type="html"><![CDATA[In 2024, decentralized Physical Infrastructure Networks (DePINs) will be an essential trend in the ever-changing landscape of technology…]]></summary>
+        <author>
+            <name>Decentrablock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a CRUD Smart Contract with Hardhat, Ignition and Testing iton a Local Network]]></title>
+        <id>https://medium.com/p/568ad24da1c6</id>
+        <link href="https://coinsbench.com/building-a-crud-smart-contract-with-hardhat-ignition-and-testing-on-a-local-network-568ad24da1c6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-09T12:27:51.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we’ll explore how to build a basic CRUD (Create, Read, Update, Delete) smart contract using Hardhat, and deploy it using Ignition, with comprehensive testing on a local blockchain…]]></summary>
+        <author>
+            <name>Marouane Afroukh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A CatBoost-Based Approach for High-Accuracy Botnet Detection]]></title>
+        <id>https://medium.com/p/e38ce2f1b5ed</id>
+        <link href="https://coinsbench.com/a-catboost-based-approach-for-high-accuracy-botnet-detection-e38ce2f1b5ed?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-09T12:27:42.000Z</updated>
+        <summary type="html"><![CDATA[Abstract]]></summary>
+        <author>
+            <name>Abdulkader Hajjouz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[$EIGEN has launched, setting the stage for what’s to come]]></title>
         <id>https://medium.com/p/65e3339cb13d</id>
@@ -169,26 +239,6 @@ Continue reading on Block Magnates »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beginners 101: Introduction to Vyper]]></title>
-        <id>https://medium.com/p/bca89c955127</id>
-        <link href="https://coinsbench.com/beginners-101-introduction-to-vyper-bca89c955127?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-07T10:32:31.000Z</updated>
-        <summary type="html"><![CDATA[Overview of Smart Contracts]]></summary>
-        <author>
-            <name>Ukezi Ebenezer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concordium Full Stack Smart Contract Account Tutorial- Part Two]]></title>
-        <id>https://medium.com/p/2aa6fb81f2b7</id>
-        <link href="https://coinsbench.com/concordium-full-stack-smart-contract-account-tutorial-part-two-2aa6fb81f2b7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-07T10:32:27.000Z</updated>
-        <summary type="html"><![CDATA[Building a cis-5 standard wallet application]]></summary>
-        <author>
-            <name>Ebuka Offor</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Ethereum Foundation: A Catalyst for Economic Evolution]]></title>
         <id>https://medium.com/p/a185f6425015</id>
         <link href="https://blog.blockmagnates.com/the-ethereum-foundation-a-catalyst-for-economic-evolution-a185f6425015?source=rss----18fa961f1eff--solidity"/>
@@ -219,46 +269,6 @@ Continue reading on Block Magnates »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Convergence of AI, Data Science, and DNA Computing: A New Frontier for Binance and Cryptography]]></title>
-        <id>https://medium.com/p/52599eb29b41</id>
-        <link href="https://coinsbench.com/convergence-of-ai-data-science-and-dna-computing-a-new-frontier-for-binance-and-cryptography-52599eb29b41?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-04T13:34:22.000Z</updated>
-        <summary type="html"><![CDATA[Research Article: How AI, Data Science, and DNA Computing Intersect with Binance and Cryptography]]></summary>
-        <author>
-            <name>Drraghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 and the Bootstrap Economy: A Comprehensive Analysis of Layer 2 L2’s Impact]]></title>
-        <id>https://medium.com/p/24e42ab02cac</id>
-        <link href="https://coinsbench.com/web3-and-the-bootstrap-economy-a-comprehensive-analysis-of-layer-2-l2s-impact-24e42ab02cac?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-04T13:34:21.000Z</updated>
-        <summary type="html"><![CDATA[Abstract]]></summary>
-        <author>
-            <name>Drraghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Best Practices for Soroban Smart Contracts]]></title>
-        <id>https://medium.com/p/545581f427dc</id>
-        <link href="https://coinsbench.com/security-best-practices-for-soroban-smart-contracts-545581f427dc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-04T13:34:20.000Z</updated>
-        <summary type="html"><![CDATA[Security Practices on Soroban]]></summary>
-        <author>
-            <name>Martin Maina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlock the Future of Blockchain: Why Soroban is the Smart Contract Platform You’ve Been Waiting For.]]></title>
-        <id>https://medium.com/p/f468791213aa</id>
-        <link href="https://coinsbench.com/unlock-the-future-of-blockchain-why-soroban-is-the-smart-contract-platform-youve-been-waiting-for-f468791213aa?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-04T13:34:18.000Z</updated>
-        <summary type="html"><![CDATA[Soroban Vs EVM]]></summary>
-        <author>
-            <name>Martin Maina</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bringing your USD-Collateralized Stablecoin to Linea: A Guide for Developers]]></title>
         <id>https://medium.com/p/9784e830a695</id>
         <link href="https://blog.blockmagnates.com/bringing-your-usd-collateralized-stablecoin-to-linea-a-guide-for-developers-9784e830a695?source=rss----18fa961f1eff--solidity"/>
@@ -276,16 +286,6 @@ Continue reading on Block Magnates »]]></summary>
         <summary type="html"><![CDATA[Lately, I’ve been exploring ERC-4337, which introduces account abstraction with an alternative mempool. It’s a really exciting topic…]]></summary>
         <author>
             <name>Nikhil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Basic Guide to Smart Contract Auditing for Beginners]]></title>
-        <id>https://medium.com/p/bf6e0fc6a2f5</id>
-        <link href="https://coinsbench.com/a-basic-guide-to-smart-contract-auditing-for-beginners-bf6e0fc6a2f5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-01T08:51:44.000Z</updated>
-        <summary type="html"><![CDATA[Essential Tips for Conducting an Effective and Thorough Audit on Ethereum]]></summary>
-        <author>
-            <name>z0L</name>
         </author>
     </entry>
     <entry>
