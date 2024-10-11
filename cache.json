@@ -39,6 +39,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/ca283d0f3a82",
+          "author": "Judith Manyo Ogar",
+          "description": "This piece attempts to explain Proof of History: What it is, how it works, and the role it plays in making Solana scalable.",
+          "link": "https://coinsbench.com/proof-of-history-ca283d0f3a82?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-11T10:41:53.000Z",
+          "wordCount": 3155,
+          "title": "Proof of History",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LY7ttWCxcJ_VrExgLUB1dw.png"
+        },
+        {
+          "id": "https://medium.com/p/4f129875a98d",
+          "author": "Decentrablock",
+          "description": "Blockchain and AI are the two most essential and emerging technologies. Blockchain is versatile and clean to apply, whereas AI has passed…",
+          "link": "https://coinsbench.com/the-future-of-decentralized-ai-and-blockchain-technology-4f129875a98d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-11T10:41:36.000Z",
+          "wordCount": 4241,
+          "title": "The Future of Decentralized AI and Blockchain Technology",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*XOj80e4dq1WanTKg7FWIDA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/38c6dea29dff",
+          "author": "Decentrablock",
+          "description": "Ethereum, the second-biggest blockchain via marketplace capitalization, has performed a pivotal role in advancing blockchain technology and…",
+          "link": "https://coinsbench.com/what-is-the-ethereum-erc-404-token-standard-38c6dea29dff?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-11T10:41:34.000Z",
+          "wordCount": 2878,
+          "title": "What is The Ethereum ERC-404 Token Standard?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*woJjF5PZIO5MszouqtfY5A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/26607f54ac1c",
+          "author": "Decentrablock",
+          "description": "Cryptocurrencies and blockchain technology continuously evolve, delivering new traits and innovations frequently. Two of the most popular…",
+          "link": "https://coinsbench.com/erc20-vs-erc721-key-differences-and-use-cases-in-ethereum-tokens-26607f54ac1c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-11T10:41:33.000Z",
+          "wordCount": 4293,
+          "title": "ERC20 vs ERC721: Key Differences and Use Cases in Ethereum Tokens",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*C-QGAh4cBw5kRJia7QaW9Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/d20f0def8958",
+          "author": "Ishayvilroel",
+          "description": "As blockchain technology continues to grow, smart contracts are increasingly becoming the foundation of decentralized applications (dApps) and decentralized finance (DeFi) platforms. However, the…",
+          "link": "https://coinsbench.com/solidity-smart-contract-code-vulnerabilities-and-mitigations-d20f0def8958?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-11T10:41:31.000Z",
+          "wordCount": 3121,
+          "title": "Solidity Smart Contract Code Vulnerabilities And Mitigations",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*aATFT_MJv4CdqbcV"
+        },
+        {
           "id": "https://medium.com/p/d747e63b3cfa",
           "author": "Abdulkader Hajjouz",
           "description": "🚀 Excited to Share My Latest Research Contribution! 🚀",
@@ -87,56 +137,6 @@
           "wordCount": 2827,
           "title": "Use Cases of Decentralized Physical Infrastructure Networks (DePIN)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*GRgx75qYwUYPxCgImD6LSA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/568ad24da1c6",
-          "author": "Marouane Afroukh",
-          "description": "In this post, we’ll explore how to build a basic CRUD (Create, Read, Update, Delete) smart contract using Hardhat, and deploy it using Ignition, with comprehensive testing on a local blockchain…",
-          "link": "https://coinsbench.com/building-a-crud-smart-contract-with-hardhat-ignition-and-testing-on-a-local-network-568ad24da1c6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-09T12:27:51.000Z",
-          "wordCount": 2301,
-          "title": "Building a CRUD Smart Contract with Hardhat, Ignition and Testing iton a Local Network",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*SpR6Ctgkw2n71UtmNWzGKg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e38ce2f1b5ed",
-          "author": "Abdulkader Hajjouz",
-          "description": "Abstract",
-          "link": "https://coinsbench.com/a-catboost-based-approach-for-high-accuracy-botnet-detection-e38ce2f1b5ed?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-09T12:27:42.000Z",
-          "wordCount": 1964,
-          "title": "A CatBoost-Based Approach for High-Accuracy Botnet Detection",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:719/1*06yrU1ftM3g6N6mLmtcBcg.png"
-        },
-        {
-          "id": "https://medium.com/p/41a33fa24c83",
-          "author": "Harshil Jani",
-          "description": "Learn about building orchaestration dapps using Agoric",
-          "link": "https://coinsbench.com/develop-faster-with-agorics-dapp-orchestration-tools-41a33fa24c83?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-08T08:15:00.000Z",
-          "wordCount": 3637,
-          "title": "Develop Faster with Agoric’s dApp Orchestration Tools",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*RtDLP5KFK68BMGmA"
-        },
-        {
-          "id": "https://medium.com/p/f1d058eca57b",
-          "author": "Magda  Jankowska",
-          "description": "As the digital landscape continues to expand, security has become a top concern for individuals, businesses, and governments. With this…",
-          "link": "https://coinsbench.com/the-key-differences-between-cybersecurity-and-blockchain-security-a-guide-for-job-seekers-and-f1d058eca57b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-07T10:34:38.000Z",
-          "wordCount": 4301,
-          "title": "The Key Differences Between Cybersecurity and Blockchain Security: A Guide for Job Seekers and…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:938/1*BCzzO0UttUNMBL-JpScWYA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/08f3f7ee0bd5",
-          "author": "Drraghavendra",
-          "description": "Abstract",
-          "link": "https://coinsbench.com/programming-ai-behavior-a-guide-to-programmable-cypher-based-neuro-symbolic-agi-08f3f7ee0bd5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-07T10:33:54.000Z",
-          "wordCount": 3405,
-          "title": "Programming AI Behavior: A Guide to Programmable Cypher-based Neuro-Symbolic AGI",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1120/1*rePIwHZgscIWCkrcGFljcw.jpeg"
         }
       ]
     },
@@ -146,104 +146,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/ef2a7681bc8c",
-          "author": "CryptoLola",
-          "description": "Recently, the Chinese stock market has been volatile.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/confusion-and-thinking-of-crypto-market-players-in-the-past-3-years-ef2a7681bc8c?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-10-10T16:58:12.000Z",
-          "wordCount": 1330,
-          "title": "Confusion and thinking of crypto market players in the past 3 years",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:553/1*BaDKJEXt-8dHVw9d5hToWA.jpeg"
+          "id": "https://medium.com/p/b5988a0b3e7a",
+          "author": "World As One 4PEACE",
+          "description": "Follow Global Energy & Commodities Markets on Areas & Producers\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-net-zero-2050-vision-for-carbon-emissions-was-discussed-at-the-bloombergnef-summit-in-london-b5988a0b3e7a?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-10-11T10:22:15.000Z",
+          "wordCount": 1317,
+          "title": "The Net Zero 2050 vision for carbon emissions was discussed at the BloombergNEF summit in London!",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*Jo1HuxalxO9sNh2P"
         },
         {
-          "id": "https://medium.com/p/69cd9a0d8241",
-          "author": "Ronnie Magara",
-          "description": "Effortlessly accept crypto payments and experience seamless global payment solutions with Coinpal",
-          "link": "https://medium.com/coinmonks/coinpal-the-best-crypto-payment-gateway-for-individuals-and-businesses-69cd9a0d8241?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-10-10T16:58:09.000Z",
-          "wordCount": 2953,
-          "title": "Coinpal: The Best Crypto Payment Gateway for Individuals and Businesses",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:529/1*0j1J95epqk7aYUPTWB-I4w.png"
+          "id": "https://medium.com/p/1615142b004b",
+          "author": "MWC",
+          "description": "Hey folks, so the much anticipated release of the $EIGEN token has finally come around, and you may have been debating whether or not to…",
+          "link": "https://medium.com/coinmonks/all-things-eigen-1615142b004b?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-10-11T10:22:13.000Z",
+          "wordCount": 2735,
+          "title": "All Things $EIGEN",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:720/1*2eFpoNgoZ0nzW48cTKqrkw.png"
         },
         {
-          "id": "https://medium.com/p/4ed47aef9a6c",
-          "author": "DcentAI",
-          "description": "In today’s highly competitive commercial setting, accurately anticipating customer behavior is critical for driving growth and conserving…",
-          "link": "https://medium.com/coinmonks/decentralized-ai-for-predicting-consumer-behavior-4ed47aef9a6c?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-10-10T15:27:50.000Z",
-          "wordCount": 3567,
-          "title": "Decentralized AI for Predicting Consumer Behavior",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*PBMdvXgETGRv7eWfLEGwpw.png"
+          "id": "https://medium.com/p/776e12ebcff9",
+          "author": "Solidity Academy",
+          "description": "Unlock faster, more efficient token swaps with Omniston — STON.fi’s revolutionary liquidity aggregation protocol",
+          "link": "https://medium.com/coinmonks/revolutionizing-defi-on-ton-blockchain-with-omniston-by-ston-fi-776e12ebcff9?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-10-11T10:22:13.000Z",
+          "wordCount": 2754,
+          "title": "Revolutionizing DeFi on TON Blockchain with Omniston by STON.fi",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*G01G28KVFOXYxO7KYCFI5w.png"
         },
         {
-          "id": "https://medium.com/p/d7af82caacfe",
-          "author": "Jimena",
-          "description": "Find out how AI technology in drones enhances environmental conservation, surveillance, and security through smarter, autonomous…",
-          "link": "https://medium.com/coinmonks/what-are-the-key-benefits-of-using-ai-in-drones-d7af82caacfe?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-10-10T13:54:59.000Z",
-          "wordCount": 3753,
-          "title": "What Are the Key Benefits of Using AI in Drones?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ViZ-62a-VwegXWvPLP_SIg.jpeg"
+          "id": "https://medium.com/p/763319dfd65c",
+          "author": "Kevin Finnerty",
+          "description": "On October 9, 2024, U.S. federal prosecutors, alongside the FBI and the SEC, announced the first-ever criminal charges for market…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-first-ever-criminal-charges-for-cryptocurrency-market-manipulation-a-detailed-look-763319dfd65c?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-10-11T10:22:08.000Z",
+          "wordCount": 1238,
+          "title": "The First-Ever Criminal Charges for Cryptocurrency Market Manipulation: A Detailed Look",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0qcWx9UGcREqdUbzbI_zNg.jpeg"
         },
         {
-          "id": "https://medium.com/p/9f46bdff3a8e",
-          "author": "Camilla Rantsen",
-          "description": "Explore how BSC Fork Development is revolutionizing blockchain technology, enhancing scalability, and fostering innovation in the industry.",
-          "link": "https://medium.com/coinmonks/how-is-bsc-fork-development-shaping-the-next-generation-of-blockchain-technology-9f46bdff3a8e?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-10-10T13:54:57.000Z",
-          "wordCount": 8582,
-          "title": "How is BSC Fork Development Shaping the Next Generation of Blockchain Technology?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*QBDaytZqew6_fCEu.jpg"
+          "id": "https://medium.com/p/2d227b822ef8",
+          "author": "Kevin Finnerty",
+          "description": "The recent HBO documentary attempting to link Peter Todd, a prominent Bitcoin developer, with the identity of Satoshi Nakamoto — the…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/hbo-satoshi-hunting-2d227b822ef8?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-10-11T10:22:06.000Z",
+          "wordCount": 1238,
+          "title": "HBO Satoshi Hunting",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*E6Adek1B4kGQyOJMma8bkg.jpeg"
         },
         {
-          "id": "https://medium.com/p/cabd3a1876cf",
-          "author": "Divyasshree",
-          "description": "Memecoins are often created as internet jokes or copies of existing cryptocurrencies. Some are inspired by political figures or events…",
-          "link": "https://medium.com/coinmonks/top-10-meme-coin-trading-platforms-cabd3a1876cf?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-10-10T13:17:39.000Z",
-          "wordCount": 5524,
-          "title": "Top 10 Meme Coin Trading Platforms",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*qh0JWF11DB_o7VNV"
+          "id": "https://medium.com/p/314983bad83d",
+          "author": "Sophia Lopez",
+          "description": "In the ever-expanding world of cryptocurrency mining, finding the right audience for your referral links can be a challenge. Enter…",
+          "link": "https://medium.com/coinmonks/cryptophia-amplify-your-crypto-mining-rewards-through-community-power-314983bad83d?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-10-11T10:22:04.000Z",
+          "wordCount": 1749,
+          "title": "Cryptophia: Amplify Your Crypto Mining Rewards Through Community Power",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*MvbY-BEKGetY7v9PgsZrJg.jpeg"
         },
         {
-          "id": "https://medium.com/p/396a4defd2d0",
-          "author": "Camilla Rantsen",
-          "description": "Explore how future partnerships are revolutionizing AI video conferencing platform development and enhancing virtual communication.",
-          "link": "https://medium.com/coinmonks/how-are-future-associations-shaping-ai-video-conferencing-platform-development-396a4defd2d0?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-10-10T13:17:34.000Z",
-          "wordCount": 8518,
-          "title": "How Are Future Associations Shaping AI Video Conferencing Platform Development?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Ihy-njH4GO6RGqmSf6-jzA.png"
+          "id": "https://medium.com/p/92fb92886b92",
+          "author": "Kevin Finnerty",
+          "description": "A Decade-Long Battle for Value\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/bitcoin-vs-gold-in-2029-92fb92886b92?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-10-11T10:22:02.000Z",
+          "wordCount": 1286,
+          "title": "Bitcoin vs Gold in 2029",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zfumRhNNoqQfcdHnvynS6w.jpeg"
         },
         {
-          "id": "https://medium.com/p/a4c8a98cba64",
-          "author": "Gwen Adele",
-          "description": "Building Rome might have taken ages but your NFT Marketplaces won’t !",
-          "link": "https://medium.com/coinmonks/nft-marketplace-development-your-step-by-step-guide-a4c8a98cba64?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-10-10T13:17:31.000Z",
-          "wordCount": 4979,
-          "title": "NFT Marketplace Development-Your Step by Step Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:856/1*Tma6EKAq7E-UVkorzHjFRg.png"
+          "id": "https://medium.com/p/0b7eb88b4a6a",
+          "author": "Mark Timmis",
+          "description": "tl;dr\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-10th-october-2024-scams-miners-0b7eb88b4a6a?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-10-11T10:22:00.000Z",
+          "wordCount": 1194,
+          "title": "Curious Cryptos’ Commentary 10th October 2024 — Scams & miners",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1039/1*C7MI04I5zWY4UDsXts4DGg.png"
         },
         {
-          "id": "https://medium.com/p/009cde464621",
-          "author": "Gabrielle",
-          "description": "ChatGPT represents a significant advancement in the field of Natural Language Processing (NLP), which focuses on the interaction between…",
-          "link": "https://medium.com/coinmonks/how-chatgpt-is-influencing-the-future-of-nlp-technologies-009cde464621?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-10-10T12:42:13.000Z",
-          "wordCount": 6443,
-          "title": "How ChatGPT is Influencing the Future of NLP Technologies?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*xuu_0cuiVffFNei0DUzALg.jpeg"
+          "id": "https://medium.com/p/f3b0ab116fe5",
+          "author": "Mark Timmis",
+          "description": "tl;dr\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-11th-october-2024-ohio-the-sec-f3b0ab116fe5?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-10-11T10:21:58.000Z",
+          "wordCount": 1195,
+          "title": "Curious Cryptos’ Commentary 11th October 2024 — Ohio & the SEC",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1039/1*C7MI04I5zWY4UDsXts4DGg.png"
         },
         {
-          "id": "https://medium.com/p/d26a42bf6991",
-          "author": "Rachel Grace",
-          "description": "Learn how AI development can help small businesses streamline processes, improve customer engagement, and gain a competitive edge.",
-          "link": "https://medium.com/coinmonks/how-small-businesses-can-get-started-with-ai-d26a42bf6991?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-10-10T12:42:09.000Z",
-          "wordCount": 3766,
-          "title": "How Small Businesses Can Get Started With AI?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tGr5Pnv1d2ggXAGDkFErww.jpeg"
+          "id": "https://medium.com/p/92509a749ca5",
+          "author": "Nauris Treigys",
+          "description": "Home Depot is the largest home improvement retailer in the U.S., offering a wide range of products including building materials, home…",
+          "link": "https://medium.com/coinmonks/home-depot-stock-price-forecast-a-investment-with-growth-92509a749ca5?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-10-11T10:21:55.000Z",
+          "wordCount": 1313,
+          "title": "Home Depot Stock Price Forecast: A Investment with Growth",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*zaK_-GqL2uNm6A-GA96Zuw.jpeg"
         }
       ]
     },
@@ -252,6 +252,26 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/534c3f4150c6",
+          "author": "Nikhil",
+          "description": "This is part 2 of the “Developer’s Guide to ERC-4337” series. If you haven’t read the last article, check it out here: Developer’s Guide to…",
+          "link": "https://blog.blockmagnates.com/developers-guide-to-erc-4337-2-testing-simple-account-534c3f4150c6?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-10-11T10:54:25.000Z",
+          "wordCount": 6245,
+          "title": "Developer’s Guide to ERC-4337 #2 | Testing Simple Account",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/aade8dd5ecfb",
+          "author": "Magda  Jankowska",
+          "description": "In recent years, the demand for blockchain technology and smart contracts has skyrocketed. As a Solidity developer, you have a unique skill…",
+          "link": "https://blog.blockmagnates.com/turning-solidity-skills-into-a-six-figure-consulting-business-tips-and-tricks-aade8dd5ecfb?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-10-11T10:54:21.000Z",
+          "wordCount": 2460,
+          "title": "Turning Solidity Skills into a Six-Figure Consulting Business: Tips and Tricks",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:381/1*WqcALfJqGWTtpRzTa7kt9w.jpeg"
+        },
         {
           "id": "https://medium.com/p/e92989db7c53",
           "author": "Milaim Delija",
@@ -331,26 +351,6 @@
           "wordCount": 5802,
           "title": "Developer’s Guide to ERC-4337 #1 | Developing Simple Account",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BoREy27DLVMTqy5IzmxYPw.png"
-        },
-        {
-          "id": "https://medium.com/p/035167d79a42",
-          "author": "Magda  Jankowska",
-          "description": "🔍 Step 1: Discovering the Challenge",
-          "link": "https://blog.blockmagnates.com/%EF%B8%8F-real-life-scenario-how-solidity-developer-earned-10-000-solving-a-smart-contract-bug-bounty-035167d79a42?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2024-09-25T14:39:52.000Z",
-          "wordCount": 3035,
-          "title": "️ Real-Life Scenario: How solidity developer Earned $10,000 Solving a Smart Contract Bug Bounty…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:910/1*y-vI90Mtq8XsiGb33UrayA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/43a19b309764",
-          "author": "Unnati gupta",
-          "description": "Chainlink data feeds allow smart contracts to access real-world data such as cryptocurrency prices, weather information, or any other type…",
-          "link": "https://blog.blockmagnates.com/understand-chainlink-data-feeds-43a19b309764?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2024-09-25T14:39:50.000Z",
-          "wordCount": 1946,
-          "title": "Understand Chainlink Data Feeds.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NN1_dprmAHDE4uCbHHTd4g.png"
         }
       ]
     },
