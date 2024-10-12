@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-12T11:12:33.368Z</id>
+    <id>urn:2024-10-12T12:27:34.136Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-12T11:12:33.368Z</updated>
+    <updated>2024-10-12T12:27:34.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Navigating the Future: Legal Implications of Smart Contracts in the Digital Age]]></title>
+        <id>https://medium.com/p/4787e1c12011</id>
+        <link href="https://coinsbench.com/navigating-the-future-legal-implications-of-smart-contracts-in-the-digital-age-4787e1c12011?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-12T11:41:51.000Z</updated>
+        <summary type="html"><![CDATA[Exploring the opportunities and challenges posed by smart contracts in contemporary contract law.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Role of Blockchain in RealmAi’s Tokenization Process]]></title>
         <id>https://medium.com/p/eee4b3205c47</id>
@@ -217,16 +228,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[In 2024, decentralized Physical Infrastructure Networks (DePINs) will be an essential trend in the ever-changing landscape of technology…]]></summary>
         <author>
             <name>Decentrablock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a CRUD Smart Contract with Hardhat, Ignition and Testing iton a Local Network]]></title>
-        <id>https://medium.com/p/568ad24da1c6</id>
-        <link href="https://coinsbench.com/building-a-crud-smart-contract-with-hardhat-ignition-and-testing-on-a-local-network-568ad24da1c6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-09T12:27:51.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we’ll explore how to build a basic CRUD (Create, Read, Update, Delete) smart contract using Hardhat, and deploy it using Ignition, with comprehensive testing on a local blockchain…]]></summary>
-        <author>
-            <name>Marouane Afroukh</name>
         </author>
     </entry>
     <entry>
