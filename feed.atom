@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-14T11:13:53.752Z</id>
+    <id>urn:2024-10-14T12:30:42.677Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-14T11:13:53.752Z</updated>
+    <updated>2024-10-14T12:30:42.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is ERC20? My learning journey]]></title>
+        <id>https://medium.com/p/576c4e96351b</id>
+        <link href="https://blog.blockmagnates.com/what-is-erc20-my-learning-journey-576c4e96351b?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-10-14T12:23:09.000Z</updated>
+        <summary type="html"><![CDATA[Background]]></summary>
+        <author>
+            <name>Boyi Yao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Your Own “OnlineShop” Smart Contract with Solidity]]></title>
+        <id>https://medium.com/p/11e0f2503924</id>
+        <link href="https://coinsbench.com/building-your-own-onlineshop-smart-contract-with-solidity-11e0f2503924?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-14T11:53:36.000Z</updated>
+        <summary type="html"><![CDATA[Hey there! Welcome to this tutorial on building a smart contract for a marketplace called “OnlineShop.” This contract will allow users to…]]></summary>
+        <author>
+            <name>Khoirul Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Challenges Faced by Web3 Startups in Scaling and Acquiring Users]]></title>
+        <id>https://medium.com/p/858a5071f482</id>
+        <link href="https://coinsbench.com/challenges-faced-by-web3-startups-in-scaling-and-acquiring-users-858a5071f482?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-14T11:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Web3 startups face a myriad of challenges in scaling and user acquisition due to the unique nature of decentralized technologies. Founders…]]></summary>
+        <author>
+            <name>Ukezi Ebenezer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About the SNIPs category]]></title>
+        <id>https://medium.com/p/10943d55646c</id>
+        <link href="https://coinsbench.com/about-the-snips-category-10943d55646c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-14T11:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Discussions about SNIPs (Starknet Improvement Proposals)]]></summary>
+        <author>
+            <name>Esther Oche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Staking Overview]]></title>
+        <id>https://medium.com/p/b6d31e44b2ac</id>
+        <link href="https://coinsbench.com/staking-overview-b6d31e44b2ac?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-14T11:53:16.000Z</updated>
+        <summary type="html"><![CDATA[Staking on Starknet involves locking STRK tokens in the staking protocol, contributing to network security and performance. Users can…]]></summary>
+        <author>
+            <name>Esther Oche</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Do Customized Large Language Models Enhance Business Performance?]]></title>
         <id>https://medium.com/p/403e7fb589da</id>
@@ -178,53 +228,13 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Evaluating the Effectiveness of the CatBoost Classifier in Distinguishing Benign Traffic, FTP…]]></title>
-        <id>https://medium.com/p/d747e63b3cfa</id>
-        <link href="https://coinsbench.com/evaluating-the-effectiveness-of-the-catboost-classifier-in-distinguishing-benign-traffic-ftp-d747e63b3cfa?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-09T12:28:13.000Z</updated>
-        <summary type="html"><![CDATA[🚀 Excited to Share My Latest Research Contribution! 🚀]]></summary>
+        <title type="html"><![CDATA[Solidity Smart Contract Code Vulnerabilities And Mitigations]]></title>
+        <id>https://medium.com/p/d20f0def8958</id>
+        <link href="https://coinsbench.com/solidity-smart-contract-code-vulnerabilities-and-mitigations-d20f0def8958?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-11T10:41:31.000Z</updated>
+        <summary type="html"><![CDATA[As blockchain technology continues to grow, smart contracts are increasingly becoming the foundation of decentralized applications (dApps) and decentralized finance (DeFi) platforms. However, the…]]></summary>
         <author>
-            <name>Abdulkader Hajjouz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[️ Understanding Compiler Optimizations in Solidity Smart Contracts]]></title>
-        <id>https://medium.com/p/74511f5e23c6</id>
-        <link href="https://coinsbench.com/%EF%B8%8F-understanding-compiler-optimizations-in-solidity-smart-contracts-74511f5e23c6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-09T12:28:11.000Z</updated>
-        <summary type="html"><![CDATA[In the world of Ethereum and decentralized applications, smart contracts are at the heart of many innovations. However, with great power…]]></summary>
-        <author>
-            <name>Magda  Jankowska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fractional NFTs: A Technical Dive into Solidity Smart Contracts]]></title>
-        <id>https://medium.com/p/8efe67eac1ff</id>
-        <link href="https://coinsbench.com/fractional-nfts-a-technical-dive-into-solidity-smart-contracts-8efe67eac1ff?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-09T12:27:56.000Z</updated>
-        <summary type="html"><![CDATA[Fractionalized NFTs (F-NFTs) are revolutionizing the world of digital assets, particularly in the NFT (Non-Fungible Token) space. They…]]></summary>
-        <author>
-            <name>Shubham Yadav</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity vs Rust vs Go: The Top Programming Language for Blockchain Technology]]></title>
-        <id>https://medium.com/p/6ad3e5d9eecc</id>
-        <link href="https://coinsbench.com/solidity-vs-rust-vs-go-the-top-programming-language-for-blockchain-technology-6ad3e5d9eecc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-09T12:27:54.000Z</updated>
-        <summary type="html"><![CDATA[Programming languages play an essential position in the development and implementation of blockchain technology. As the blockchain…]]></summary>
-        <author>
-            <name>Decentrablock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Cases of Decentralized Physical Infrastructure Networks (DePIN)]]></title>
-        <id>https://medium.com/p/35751864510f</id>
-        <link href="https://coinsbench.com/use-cases-of-decentralized-physical-infrastructure-networks-depin-35751864510f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-09T12:27:52.000Z</updated>
-        <summary type="html"><![CDATA[In 2024, decentralized Physical Infrastructure Networks (DePINs) will be an essential trend in the ever-changing landscape of technology…]]></summary>
-        <author>
-            <name>Decentrablock</name>
+            <name>Ishayvilroel</name>
         </author>
     </entry>
     <entry>
@@ -296,16 +306,6 @@ Continue reading on Block Magnates »]]></summary>
         <summary type="html"><![CDATA[For developers interested in bringing a USD-collateralized stablecoin to Linea from the Ethereum layer 1, there are several important…]]></summary>
         <author>
             <name>TheNewAutonomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer’s Guide to ERC-4337 #1 | Developing Simple Account]]></title>
-        <id>https://medium.com/p/4cfbd089d756</id>
-        <link href="https://blog.blockmagnates.com/developers-guide-to-erc-4337-1-developing-simple-account-4cfbd089d756?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-10-01T08:56:53.000Z</updated>
-        <summary type="html"><![CDATA[Lately, I’ve been exploring ERC-4337, which introduces account abstraction with an alternative mempool. It’s a really exciting topic…]]></summary>
-        <author>
-            <name>Nikhil</name>
         </author>
     </entry>
     <entry>
