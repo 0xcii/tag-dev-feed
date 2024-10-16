@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-16T11:13:27.197Z</id>
+    <id>urn:2024-10-16T12:30:23.665Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-16T11:13:27.197Z</updated>
+    <updated>2024-10-16T12:30:23.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with Solidity]]></title>
+        <id>https://medium.com/p/468ad380d225</id>
+        <link href="https://coinsbench.com/getting-started-with-solidity-468ad380d225?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-16T11:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Over 20 Key Concepts, Including Events, Constructors, and Self-Destruct (Part 1)]]></summary>
+        <author>
+            <name>0xNazu.sol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Basic Data Types in Solidity: A Simple Guide]]></title>
+        <id>https://medium.com/p/d09b48c15a5f</id>
+        <link href="https://coinsbench.com/understanding-basic-data-types-in-solidity-a-simple-guide-d09b48c15a5f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-16T11:26:12.000Z</updated>
+        <summary type="html"><![CDATA[Solidity is the programming language at the heart of Ethereum’s smart contract ecosystem. Smart contracts are self-executing contracts where the terms are written directly into code, offering…]]></summary>
+        <author>
+            <name>Kaundal K K</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beginners Guide to Invest in Cryptocurrency]]></title>
         <id>https://medium.com/p/d4797548cd75</id>
@@ -216,26 +236,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Ethereum, the second-biggest blockchain via marketplace capitalization, has performed a pivotal role in advancing blockchain technology and…]]></summary>
         <author>
             <name>Decentrablock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERC20 vs ERC721: Key Differences and Use Cases in Ethereum Tokens]]></title>
-        <id>https://medium.com/p/26607f54ac1c</id>
-        <link href="https://coinsbench.com/erc20-vs-erc721-key-differences-and-use-cases-in-ethereum-tokens-26607f54ac1c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-11T10:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrencies and blockchain technology continuously evolve, delivering new traits and innovations frequently. Two of the most popular…]]></summary>
-        <author>
-            <name>Decentrablock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Smart Contract Code Vulnerabilities And Mitigations]]></title>
-        <id>https://medium.com/p/d20f0def8958</id>
-        <link href="https://coinsbench.com/solidity-smart-contract-code-vulnerabilities-and-mitigations-d20f0def8958?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-11T10:41:31.000Z</updated>
-        <summary type="html"><![CDATA[As blockchain technology continues to grow, smart contracts are increasingly becoming the foundation of decentralized applications (dApps) and decentralized finance (DeFi) platforms. However, the…]]></summary>
-        <author>
-            <name>Ishayvilroel</name>
         </author>
     </entry>
     <entry>

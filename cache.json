@@ -29,6 +29,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/468ad380d225",
+          "author": "0xNazu.sol",
+          "description": "Over 20 Key Concepts, Including Events, Constructors, and Self-Destruct (Part 1)",
+          "link": "https://coinsbench.com/getting-started-with-solidity-468ad380d225?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-16T11:26:14.000Z",
+          "wordCount": 4743,
+          "title": "Getting Started with Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wcrUG0Jy-MAf_k726D5Ixw.png"
+        },
+        {
+          "id": "https://medium.com/p/d09b48c15a5f",
+          "author": "Kaundal K K",
+          "description": "Solidity is the programming language at the heart of Ethereum’s smart contract ecosystem. Smart contracts are self-executing contracts where the terms are written directly into code, offering…",
+          "link": "https://coinsbench.com/understanding-basic-data-types-in-solidity-a-simple-guide-d09b48c15a5f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-16T11:26:12.000Z",
+          "wordCount": 1747,
+          "title": "Understanding Basic Data Types in Solidity: A Simple Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:628/0*-0-AHYu7QE86uaKy.png"
+        },
+        {
           "id": "https://medium.com/p/11e0f2503924",
           "author": "Khoirul Aziz",
           "description": "Hey there! Welcome to this tutorial on building a smart contract for a marketplace called “OnlineShop.” This contract will allow users to…",
@@ -107,26 +127,6 @@
           "wordCount": 2878,
           "title": "What is The Ethereum ERC-404 Token Standard?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*woJjF5PZIO5MszouqtfY5A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/26607f54ac1c",
-          "author": "Decentrablock",
-          "description": "Cryptocurrencies and blockchain technology continuously evolve, delivering new traits and innovations frequently. Two of the most popular…",
-          "link": "https://coinsbench.com/erc20-vs-erc721-key-differences-and-use-cases-in-ethereum-tokens-26607f54ac1c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-11T10:41:33.000Z",
-          "wordCount": 4293,
-          "title": "ERC20 vs ERC721: Key Differences and Use Cases in Ethereum Tokens",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*C-QGAh4cBw5kRJia7QaW9Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d20f0def8958",
-          "author": "Ishayvilroel",
-          "description": "As blockchain technology continues to grow, smart contracts are increasingly becoming the foundation of decentralized applications (dApps) and decentralized finance (DeFi) platforms. However, the…",
-          "link": "https://coinsbench.com/solidity-smart-contract-code-vulnerabilities-and-mitigations-d20f0def8958?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-11T10:41:31.000Z",
-          "wordCount": 3793,
-          "title": "Solidity Smart Contract Code Vulnerabilities And Mitigations",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*fVccg0qKCUVoyRQ7_j2VvQ@2x.jpeg"
         }
       ]
     },
