@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-20T11:13:56.895Z</id>
+    <id>urn:2024-10-20T12:29:06.568Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-20T11:13:56.895Z</updated>
+    <updated>2024-10-20T12:29:06.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Advanced Strategies for Smart Contract Security]]></title>
+        <id>https://medium.com/p/ece6ba0aceb2</id>
+        <link href="https://coinsbench.com/advanced-strategies-for-smart-contract-security-ece6ba0aceb2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-20T11:57:37.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Ukezi Ebenezer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BloFin vs Bitget vs HTX]]></title>
         <id>https://medium.com/p/a84532a086c1</id>
@@ -226,16 +236,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[In recent years, the demand for blockchain technology and smart contracts has skyrocketed. As a Solidity developer, you have a unique skill…]]></summary>
         <author>
             <name>Magda  Jankowska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proof of History]]></title>
-        <id>https://medium.com/p/ca283d0f3a82</id>
-        <link href="https://coinsbench.com/proof-of-history-ca283d0f3a82?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-11T10:41:53.000Z</updated>
-        <summary type="html"><![CDATA[This piece attempts to explain Proof of History: What it is, how it works, and the role it plays in making Solana scalable.]]></summary>
-        <author>
-            <name>Judith Manyo Ogar</name>
         </author>
     </entry>
     <entry>
