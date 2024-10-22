@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-22T11:13:13.135Z</id>
+    <id>urn:2024-10-22T12:30:44.592Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-22T11:13:13.135Z</updated>
+    <updated>2024-10-22T12:30:44.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Alternative to Moralis NFT API]]></title>
+        <id>https://medium.com/p/5f5f5e811e94</id>
+        <link href="https://medium.com/coinmonks/alternative-to-moralis-nft-api-5f5f5e811e94?source=rss----721b17443fd5---4"/>
+        <updated>2024-10-22T11:30:37.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will introduce Bitquery’s Streaming APIs as an alternative to Moralis, which is deprecating some of its NFT endpoints…]]></summary>
+        <author>
+            <name>Divyasshree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to participate and Earn from $HMSTR Farm On STON.fi]]></title>
+        <id>https://medium.com/p/421f5cbbd8ea</id>
+        <link href="https://medium.com/coinmonks/how-to-participate-and-earn-from-hmstr-farm-on-ston-fi-421f5cbbd8ea?source=rss----721b17443fd5---4"/>
+        <updated>2024-10-22T11:19:55.000Z</updated>
+        <summary type="html"><![CDATA[The $HMSTR token by Hamster Kombat is now available for Liquidity provision and farming.]]></summary>
+        <author>
+            <name>Abasido Tom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Receive and Fallback Functions Security Best Practices]]></title>
+        <id>https://medium.com/p/eaac21ba0387</id>
+        <link href="https://coinsbench.com/solidity-receive-and-fallback-functions-security-best-practices-eaac21ba0387?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-22T11:14:24.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, two special functions, receive() and fallback(), play crucial roles in how contracts handle Ether and interactions with…]]></summary>
+        <author>
+            <name>Ishayvilroel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setter and Getter Functions in Solidity]]></title>
+        <id>https://medium.com/p/cf74281ead2a</id>
+        <link href="https://coinsbench.com/setter-and-getter-functions-in-solidity-cf74281ead2a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-22T11:14:22.000Z</updated>
+        <summary type="html"><![CDATA[Writing a basic storage smart contract]]></summary>
+        <author>
+            <name>Halimah Olaolohun Abdul-Azeez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Up: The Power of Rollups in Transforming Blockchain]]></title>
+        <id>https://medium.com/p/3a2f5c51b07d</id>
+        <link href="https://coinsbench.com/scaling-up-the-power-of-rollups-in-transforming-blockchain-3a2f5c51b07d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-22T11:14:21.000Z</updated>
+        <summary type="html"><![CDATA[Discover how Rollups Are Leading for Faster, Cheaper, and More Secure Transactions]]></summary>
+        <author>
+            <name>Yessin_at_meduim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Developer’s Guide to ERC-4337 #3 | Integration Test For Simple Account]]></title>
         <id>https://medium.com/p/2bd79cde8aab</id>
@@ -111,28 +161,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yesterday, I made $5k in a minute using GPT and PumpFun!]]></title>
-        <id>https://medium.com/p/ba2b08032ed6</id>
-        <link href="https://medium.com/coinmonks/yesterday-i-made-5k-in-a-minute-using-gpt-and-pumpfun-ba2b08032ed6?source=rss----721b17443fd5---4"/>
-        <updated>2024-10-22T08:49:08.000Z</updated>
-        <summary type="html"><![CDATA[But I spent ~5 hours so u can do it for 20 mins: Here is how to make $5k per day(no coding skills requires)
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Depin Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TON is giving away $2M to founders & devs to build the next big dApps!]]></title>
-        <id>https://medium.com/p/0fe2cfeac9d4</id>
-        <link href="https://medium.com/coinmonks/ton-is-giving-away-2m-to-founders-devs-to-build-the-next-big-dapps-0fe2cfeac9d4?source=rss----721b17443fd5---4"/>
-        <updated>2024-10-22T08:49:06.000Z</updated>
-        <summary type="html"><![CDATA[It’s a great opportunity for builders and also for GEM hunters looking for the next big thing: Here’s everything you need to know
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Depin Daily</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Router Protocols and Decentralized Web Nodes (DWN): Pioneering the Future of Data Sovereignty and…]]></title>
         <id>https://medium.com/p/f22d4a201e56</id>
         <link href="https://blog.blockmagnates.com/decentralized-web-nodes-dwn-and-router-protocols-pioneering-the-future-of-data-sovereignty-and-f22d4a201e56?source=rss----18fa961f1eff--solidity"/>
@@ -220,37 +248,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Web3 startups face a myriad of challenges in scaling and user acquisition due to the unique nature of decentralized technologies. Founders…]]></summary>
         <author>
             <name>Ukezi Ebenezer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[About the SNIPs category]]></title>
-        <id>https://medium.com/p/10943d55646c</id>
-        <link href="https://coinsbench.com/about-the-snips-category-10943d55646c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-14T11:53:19.000Z</updated>
-        <summary type="html"><![CDATA[Discussions about SNIPs (Starknet Improvement Proposals)]]></summary>
-        <author>
-            <name>Esther Oche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Staking Overview]]></title>
-        <id>https://medium.com/p/b6d31e44b2ac</id>
-        <link href="https://coinsbench.com/staking-overview-b6d31e44b2ac?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-14T11:53:16.000Z</updated>
-        <summary type="html"><![CDATA[Staking on Starknet involves locking STRK tokens in the staking protocol, contributing to network security and performance. Users can…]]></summary>
-        <author>
-            <name>Esther Oche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating the Future: Legal Implications of Smart Contracts in the Digital Age]]></title>
-        <id>https://medium.com/p/4787e1c12011</id>
-        <link href="https://coinsbench.com/navigating-the-future-legal-implications-of-smart-contracts-in-the-digital-age-4787e1c12011?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-12T11:41:51.000Z</updated>
-        <summary type="html"><![CDATA[Exploring the opportunities and challenges posed by smart contracts in contemporary contract law.
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Solidity Academy</name>
         </author>
     </entry>
     <entry>

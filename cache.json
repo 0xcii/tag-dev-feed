@@ -18,12 +18,42 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/eaac21ba0387",
+          "author": "Ishayvilroel",
+          "description": "In Solidity, two special functions, receive() and fallback(), play crucial roles in how contracts handle Ether and interactions with…",
+          "link": "https://coinsbench.com/solidity-receive-and-fallback-functions-security-best-practices-eaac21ba0387?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-22T11:14:24.000Z",
+          "wordCount": 2891,
+          "title": "Solidity Receive and Fallback Functions Security Best Practices",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*HgseLIYazxRE2oncKzy_iw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/cf74281ead2a",
+          "author": "Halimah Olaolohun Abdul-Azeez",
+          "description": "Writing a basic storage smart contract",
+          "link": "https://coinsbench.com/setter-and-getter-functions-in-solidity-cf74281ead2a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-22T11:14:22.000Z",
+          "wordCount": 1408,
+          "title": "Setter and Getter Functions in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Fn-bwI6Tp4vKAMsRDOHuUA.png"
+        },
+        {
+          "id": "https://medium.com/p/3a2f5c51b07d",
+          "author": "Yessin_at_meduim",
+          "description": "Discover how Rollups Are Leading for Faster, Cheaper, and More Secure Transactions",
+          "link": "https://coinsbench.com/scaling-up-the-power-of-rollups-in-transforming-blockchain-3a2f5c51b07d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-22T11:14:21.000Z",
+          "wordCount": 3775,
+          "title": "Scaling Up: The Power of Rollups in Transforming Blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*DEw0pvvfGPTaHJGYr-sngQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/ece6ba0aceb2",
           "author": "Ukezi Ebenezer",
           "description": "Introduction",
           "link": "https://coinsbench.com/advanced-strategies-for-smart-contract-security-ece6ba0aceb2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-20T11:57:37.000Z",
-          "wordCount": 5054,
+          "wordCount": 5057,
           "title": "Advanced Strategies for Smart Contract Security",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:550/1*fMxJpCdAjAlYZFnWZswNwg.jpeg"
         },
@@ -33,7 +63,7 @@
           "description": "Are you ready to take your first step into the exciting realm of Web3 and blockchain development? Today, we’re going to embark on a journey…",
           "link": "https://coinsbench.com/dive-into-web3-your-first-smart-contract-adventure-with-solidity-e8cb053ade87?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-18T11:09:53.000Z",
-          "wordCount": 1936,
+          "wordCount": 1939,
           "title": "Dive into Web3: Your First Smart Contract Adventure with Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Yod75-1QbPGRTyZCCX4tUw.png"
         },
@@ -43,7 +73,7 @@
           "description": "Imagine this: You’re a developer stepping into the world of decentralized marketplaces. You’ve decided to build a marketplace where users…",
           "link": "https://coinsbench.com/building-the-laptop-marketplace-contract-a-journey-in-solidity-c47fee5c3953?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-18T11:09:50.000Z",
-          "wordCount": 3473,
+          "wordCount": 3476,
           "title": "Building the Laptop Marketplace Contract: A Journey in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*6vPD5Ug36wj1Nb7KlPjXTg.jpeg"
         },
@@ -53,7 +83,7 @@
           "description": "Over 20 Key Concepts, Including Events, Constructors, and Self-Destruct (Part 1)",
           "link": "https://coinsbench.com/getting-started-with-solidity-468ad380d225?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-16T11:26:14.000Z",
-          "wordCount": 4748,
+          "wordCount": 4751,
           "title": "Getting Started with Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wcrUG0Jy-MAf_k726D5Ixw.png"
         },
@@ -63,7 +93,7 @@
           "description": "Solidity is the programming language at the heart of Ethereum’s smart contract ecosystem. Smart contracts are self-executing contracts where the terms are written directly into code, offering…",
           "link": "https://coinsbench.com/understanding-basic-data-types-in-solidity-a-simple-guide-d09b48c15a5f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-16T11:26:12.000Z",
-          "wordCount": 1752,
+          "wordCount": 1755,
           "title": "Understanding Basic Data Types in Solidity: A Simple Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:628/0*-0-AHYu7QE86uaKy.png"
         },
@@ -73,7 +103,7 @@
           "description": "Hey there! Welcome to this tutorial on building a smart contract for a marketplace called “OnlineShop.” This contract will allow users to…",
           "link": "https://coinsbench.com/building-your-own-onlineshop-smart-contract-with-solidity-11e0f2503924?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-14T11:53:36.000Z",
-          "wordCount": 3418,
+          "wordCount": 3421,
           "title": "Building Your Own “OnlineShop” Smart Contract with Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*9CvkDi2vEEFvgXziutjmxg.jpeg"
         },
@@ -83,39 +113,9 @@
           "description": "Web3 startups face a myriad of challenges in scaling and user acquisition due to the unique nature of decentralized technologies. Founders…",
           "link": "https://coinsbench.com/challenges-faced-by-web3-startups-in-scaling-and-acquiring-users-858a5071f482?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-14T11:53:33.000Z",
-          "wordCount": 4036,
+          "wordCount": 4039,
           "title": "Challenges Faced by Web3 Startups in Scaling and Acquiring Users",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*C_qoNhmovbphzxKPI0YXAQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/10943d55646c",
-          "author": "Esther Oche",
-          "description": "Discussions about SNIPs (Starknet Improvement Proposals)",
-          "link": "https://coinsbench.com/about-the-snips-category-10943d55646c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-14T11:53:19.000Z",
-          "wordCount": 6206,
-          "title": "About the SNIPs category",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:690/0*TV2qyTkF7siGgruc.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/b6d31e44b2ac",
-          "author": "Esther Oche",
-          "description": "Staking on Starknet involves locking STRK tokens in the staking protocol, contributing to network security and performance. Users can…",
-          "link": "https://coinsbench.com/staking-overview-b6d31e44b2ac?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-14T11:53:16.000Z",
-          "wordCount": 1724,
-          "title": "Staking Overview",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*oxS944nOEb7BVEOJb0UlFA.png"
-        },
-        {
-          "id": "https://medium.com/p/4787e1c12011",
-          "author": "Solidity Academy",
-          "description": "Exploring the opportunities and challenges posed by smart contracts in contemporary contract law.\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/navigating-the-future-legal-implications-of-smart-contracts-in-the-digital-age-4787e1c12011?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-12T11:41:51.000Z",
-          "wordCount": 1028,
-          "title": "Navigating the Future: Legal Implications of Smart Contracts in the Digital Age",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*Qlxov4qpnmeLnF1a"
         }
       ]
     },
@@ -125,12 +125,32 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/5f5f5e811e94",
+          "author": "Divyasshree",
+          "description": "In this article, I will introduce Bitquery’s Streaming APIs as an alternative to Moralis, which is deprecating some of its NFT endpoints…",
+          "link": "https://medium.com/coinmonks/alternative-to-moralis-nft-api-5f5f5e811e94?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-10-22T11:30:37.000Z",
+          "wordCount": 1262,
+          "title": "Alternative to Moralis NFT API",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OoZMtmUXHobR7VArXR04wQ.png"
+        },
+        {
+          "id": "https://medium.com/p/421f5cbbd8ea",
+          "author": "Abasido Tom",
+          "description": "The $HMSTR token by Hamster Kombat is now available for Liquidity provision and farming.",
+          "link": "https://medium.com/coinmonks/how-to-participate-and-earn-from-hmstr-farm-on-ston-fi-421f5cbbd8ea?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-10-22T11:19:55.000Z",
+          "wordCount": 2702,
+          "title": "How to participate and Earn from $HMSTR Farm On STON.fi",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YvMQ74jN-2xIvcmZpAZTEQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/3f134c01834c",
           "author": "Solidity Academy",
           "description": "Crowdfunding has revolutionized how projects are funded, allowing creators to connect with potential supporters directly.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/the-ultimate-guide-to-launching-your-own-crowd-fund-campaign-3f134c01834c?source=rss----721b17443fd5---4",
           "publishedOn": "2024-10-22T08:49:30.000Z",
-          "wordCount": 1244,
+          "wordCount": 1238,
           "title": "The Ultimate Guide to Launching Your Own Crowd Fund Campaign",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*JyNAz3R_i5uXb0WU"
         },
@@ -140,7 +160,7 @@
           "description": "As the gaming landscape continues to evolve, Telegram has emerged as a vibrant platform for game enthusiasts.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/the-rise-of-telegram-games-in-q3-2024-key-trends-and-insights-3d38485f7965?source=rss----721b17443fd5---4",
           "publishedOn": "2024-10-22T08:49:25.000Z",
-          "wordCount": 1256,
+          "wordCount": 1250,
           "title": "The Rise of Telegram Games in Q3 2024: Key Trends and Insights",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*EpxNqravF8hgbKkpTrME_Q.png"
         },
@@ -150,7 +170,7 @@
           "description": "Understand How To Earn Money With DeFi through active and passive income generation and choose the best way for your DeFi investment.",
           "link": "https://medium.com/coinmonks/how-to-earn-money-with-defi-smart-ways-to-explore-3757e43d3271?source=rss----721b17443fd5---4",
           "publishedOn": "2024-10-22T08:49:21.000Z",
-          "wordCount": 5585,
+          "wordCount": 5579,
           "title": "How to Earn Money With DeFi — Smart Ways to Explore",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:856/1*MzIc3Hu1K2GDXqNhiBKpDw.png"
         },
@@ -160,7 +180,7 @@
           "description": "Explore the transformative impact of Conversational AI in Healthcare for 2025, revolutionizing patient care, diagnostics, and efficiency.",
           "link": "https://medium.com/coinmonks/conversational-ai-in-healthcare-a-complete-guide-for-2025-4cfb892ddec7?source=rss----721b17443fd5---4",
           "publishedOn": "2024-10-22T08:49:20.000Z",
-          "wordCount": 9230,
+          "wordCount": 9224,
           "title": "Conversational AI in Healthcare: A Complete Guide For 2025",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*j5pj61IFkpiyoTtmvFDqhg.png"
         },
@@ -170,7 +190,7 @@
           "description": "In this post, I’ll focus on setups that I’m monitoring for both long and short positions. With a chart and short write-up, this is a quick…",
           "link": "https://medium.com/coinmonks/s-p-500-broadening-earnings-growth-can-support-the-rally-55eb2db18873?source=rss----721b17443fd5---4",
           "publishedOn": "2024-10-22T08:49:15.000Z",
-          "wordCount": 3355,
+          "wordCount": 3349,
           "title": "S&P 500: Broadening earnings growth can support the rally.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*JFEKkdcEjDEvXIKk.png"
         },
@@ -180,7 +200,7 @@
           "description": "A few key details can change everything: Whales are not going to like this one\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/most-traders-miss-500x-memecoins-by-using-wrong-strategy-05205803794b?source=rss----721b17443fd5---4",
           "publishedOn": "2024-10-22T08:49:13.000Z",
-          "wordCount": 1164,
+          "wordCount": 1158,
           "title": "Most traders miss 500x memecoins by using WRONG strategy",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:900/0*BXfi7QEz7kpIwhqf"
         },
@@ -190,7 +210,7 @@
           "description": "Install OCEAN PROTOCOL node is 2 clicks: Check detailed guide\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/asi-airdrop-will-be-huge-21dbc0d4c550?source=rss----721b17443fd5---4",
           "publishedOn": "2024-10-22T08:49:11.000Z",
-          "wordCount": 1129,
+          "wordCount": 1123,
           "title": "$ASI Airdrop will be HUGE!",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:900/0*lu4gydpe9LdnAHnJ"
         },
@@ -200,29 +220,9 @@
           "description": "I spent 12 hours researching the top projects, and now you can leverage them too: Here’s the full guide\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/earn-20-50-a-day-in-passive-income-with-depin-all-you-need-is-a-smartphone-and-internet-d463e0d6410a?source=rss----721b17443fd5---4",
           "publishedOn": "2024-10-22T08:49:09.000Z",
-          "wordCount": 1193,
+          "wordCount": 1187,
           "title": "Earn $20-$50 a day in passive income with DePIN — all you need is a smartphone and internet",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:900/0*kncIc6NyoMOLMp2_"
-        },
-        {
-          "id": "https://medium.com/p/ba2b08032ed6",
-          "author": "Depin Daily",
-          "description": "But I spent ~5 hours so u can do it for 20 mins: Here is how to make $5k per day(no coding skills requires)\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/yesterday-i-made-5k-in-a-minute-using-gpt-and-pumpfun-ba2b08032ed6?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-10-22T08:49:08.000Z",
-          "wordCount": 1189,
-          "title": "Yesterday, I made $5k in a minute using GPT and PumpFun!",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:900/0*AI6FQn6sqm9lgTSI"
-        },
-        {
-          "id": "https://medium.com/p/0fe2cfeac9d4",
-          "author": "Depin Daily",
-          "description": "It’s a great opportunity for builders and also for GEM hunters looking for the next big thing: Here’s everything you need to know\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/ton-is-giving-away-2m-to-founders-devs-to-build-the-next-big-dapps-0fe2cfeac9d4?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-10-22T08:49:06.000Z",
-          "wordCount": 1172,
-          "title": "TON is giving away $2M to founders & devs to build the next big dApps!",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:900/0*0GDa2F03Jn0LVTuq"
         }
       ]
     },
