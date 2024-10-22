@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-22T10:16:48.683Z</id>
+    <id>urn:2024-10-22T11:13:13.135Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-22T10:16:48.683Z</updated>
+    <updated>2024-10-22T11:13:13.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Developer’s Guide to ERC-4337 #3 | Integration Test For Simple Account]]></title>
+        <id>https://medium.com/p/2bd79cde8aab</id>
+        <link href="https://blog.blockmagnates.com/developers-guide-to-erc-4337-3-integration-test-for-simple-account-2bd79cde8aab?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-10-22T10:22:47.000Z</updated>
+        <summary type="html"><![CDATA[This is part 2 of the “Developer’s Guide to ERC-4337” series. If you haven’t read the last article, check it out here: Developer’s Guide to…]]></summary>
+        <author>
+            <name>Nikhil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer’s Guide to ERC-4337 #4 | Understanding Bundler Refunds]]></title>
+        <id>https://medium.com/p/0e7d2bca1217</id>
+        <link href="https://blog.blockmagnates.com/developers-guide-to-erc-4337-4-understanding-bundler-refunds-0e7d2bca1217?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-10-22T10:22:43.000Z</updated>
+        <summary type="html"><![CDATA[In the previous sections of this series, we developed and tested the SimpleAccount, an account contract which follows ERC-4337…]]></summary>
+        <author>
+            <name>Nikhil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Ultimate Guide to Launching Your Own Crowd Fund Campaign]]></title>
         <id>https://medium.com/p/3f134c01834c</id>
@@ -292,26 +312,6 @@ Continue reading on Block Magnates »]]></summary>
         <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Drraghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comprehensive Research and Analysis: Router Protocol’s Audits by Leading Blockchain Security Firms]]></title>
-        <id>https://medium.com/p/960103ced457</id>
-        <link href="https://blog.blockmagnates.com/comprehensive-research-and-analysis-router-protocols-audits-by-leading-blockchain-security-firms-960103ced457?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-10-04T14:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Drraghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALL ABOUT ERCs — ERC20 TOKEN STANDARD]]></title>
-        <id>https://medium.com/p/f223cbfe8dd3</id>
-        <link href="https://blog.blockmagnates.com/all-about-ercs-erc20-token-standard-f223cbfe8dd3?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-10-04T14:30:38.000Z</updated>
-        <summary type="html"><![CDATA[A deep dive into the specification and Implementation of ERC20 token standard .]]></summary>
-        <author>
-            <name>IAM0TI</name>
         </author>
     </entry>
 </feed>

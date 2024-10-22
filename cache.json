@@ -160,7 +160,7 @@
           "description": "Explore the transformative impact of Conversational AI in Healthcare for 2025, revolutionizing patient care, diagnostics, and efficiency.",
           "link": "https://medium.com/coinmonks/conversational-ai-in-healthcare-a-complete-guide-for-2025-4cfb892ddec7?source=rss----721b17443fd5---4",
           "publishedOn": "2024-10-22T08:49:20.000Z",
-          "wordCount": 9229,
+          "wordCount": 9230,
           "title": "Conversational AI in Healthcare: A Complete Guide For 2025",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*j5pj61IFkpiyoTtmvFDqhg.png"
         },
@@ -232,12 +232,32 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/2bd79cde8aab",
+          "author": "Nikhil",
+          "description": "This is part 2 of the “Developer’s Guide to ERC-4337” series. If you haven’t read the last article, check it out here: Developer’s Guide to…",
+          "link": "https://blog.blockmagnates.com/developers-guide-to-erc-4337-3-integration-test-for-simple-account-2bd79cde8aab?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-10-22T10:22:47.000Z",
+          "wordCount": 5940,
+          "title": "Developer’s Guide to ERC-4337 #3 | Integration Test For Simple Account",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0e7d2bca1217",
+          "author": "Nikhil",
+          "description": "In the previous sections of this series, we developed and tested the SimpleAccount, an account contract which follows ERC-4337…",
+          "link": "https://blog.blockmagnates.com/developers-guide-to-erc-4337-4-understanding-bundler-refunds-0e7d2bca1217?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-10-22T10:22:43.000Z",
+          "wordCount": 2504,
+          "title": "Developer’s Guide to ERC-4337 #4 | Understanding Bundler Refunds",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:971/1*VNJpKopoLWZxEE84pCHDrQ.png"
+        },
+        {
           "id": "https://medium.com/p/f22d4a201e56",
           "author": "Drraghavendra",
           "description": "Abstract:",
           "link": "https://blog.blockmagnates.com/decentralized-web-nodes-dwn-and-router-protocols-pioneering-the-future-of-data-sovereignty-and-f22d4a201e56?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-10-21T10:37:22.000Z",
-          "wordCount": 3408,
+          "wordCount": 3403,
           "title": "Router Protocols and Decentralized Web Nodes (DWN): Pioneering the Future of Data Sovereignty and…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NpTrk_-bfv5qizDzew4sEw.jpeg"
         },
@@ -247,7 +267,7 @@
           "description": "Background",
           "link": "https://blog.blockmagnates.com/what-is-erc20-my-learning-journey-576c4e96351b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-10-14T12:23:09.000Z",
-          "wordCount": 4987,
+          "wordCount": 4982,
           "title": "What is ERC20? My learning journey",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zmIV2cLqZjrEfcib7TtUEg.png"
         },
@@ -257,7 +277,7 @@
           "description": "This is part 2 of the “Developer’s Guide to ERC-4337” series. If you haven’t read the last article, check it out here: Developer’s Guide to…",
           "link": "https://blog.blockmagnates.com/developers-guide-to-erc-4337-2-testing-simple-account-534c3f4150c6?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-10-11T10:54:25.000Z",
-          "wordCount": 6258,
+          "wordCount": 6253,
           "title": "Developer’s Guide to ERC-4337 #2 | Testing Simple Account",
           "imageUrl": null
         },
@@ -267,7 +287,7 @@
           "description": "In recent years, the demand for blockchain technology and smart contracts has skyrocketed. As a Solidity developer, you have a unique skill…",
           "link": "https://blog.blockmagnates.com/turning-solidity-skills-into-a-six-figure-consulting-business-tips-and-tricks-aade8dd5ecfb?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-10-11T10:54:21.000Z",
-          "wordCount": 2473,
+          "wordCount": 2468,
           "title": "Turning Solidity Skills into a Six-Figure Consulting Business: Tips and Tricks",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:381/1*WqcALfJqGWTtpRzTa7kt9w.jpeg"
         },
@@ -277,7 +297,7 @@
           "description": "From Basics to Smart Contracts and DApps\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/web-apis-in-c-and-blockchain-e92989db7c53?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-10-07T10:57:33.000Z",
-          "wordCount": 1091,
+          "wordCount": 1086,
           "title": "Web-APIs in C# and Blockchain",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qds4sJWEFKdKyHW7pmSh9A.png"
         },
@@ -287,7 +307,7 @@
           "description": "Okay, so you’ve probably heard about Ethereum, right? It’s that big deal in the crypto world, home to everything from decentralized finance…",
           "link": "https://blog.blockmagnates.com/what-is-the-ethereum-virtual-machine-evm-a-beginners-guide-to-the-heart-of-ethereum-32276524767b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-10-07T10:57:21.000Z",
-          "wordCount": 2553,
+          "wordCount": 2548,
           "title": "What is the Ethereum Virtual Machine (EVM)? A Beginner’s Guide to the Heart of Ethereum",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:856/1*fKyzZ9z9elwRtB1IXSQnLQ.jpeg"
         },
@@ -297,7 +317,7 @@
           "description": "#web3#css#javascript#node",
           "link": "https://blog.blockmagnates.com/building-mystic-vault-a-step-by-step-guide-to-creating-a-simple-ethereum-dapp-from-scratch-0cd10e9f1202?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-10-07T10:57:15.000Z",
-          "wordCount": 5418,
+          "wordCount": 5413,
           "title": "Building Mystic Vault: A Step-by-Step Guide to Creating a Simple Ethereum DApp from Scratch ✨ (…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/0*d1OrGcQjag_KIaL-.png"
         },
@@ -307,29 +327,9 @@
           "description": "Introduction",
           "link": "https://blog.blockmagnates.com/the-ethereum-foundation-a-catalyst-for-economic-evolution-a185f6425015?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-10-04T14:30:41.000Z",
-          "wordCount": 5246,
+          "wordCount": 5241,
           "title": "The Ethereum Foundation: A Catalyst for Economic Evolution",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1120/1*10dqJGKvhCYWX4n2eh4eaQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/960103ced457",
-          "author": "Drraghavendra",
-          "description": "Introduction",
-          "link": "https://blog.blockmagnates.com/comprehensive-research-and-analysis-router-protocols-audits-by-leading-blockchain-security-firms-960103ced457?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2024-10-04T14:30:40.000Z",
-          "wordCount": 4821,
-          "title": "Comprehensive Research and Analysis: Router Protocol’s Audits by Leading Blockchain Security Firms",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:603/1*9QsbsQ37413Q4gq6kr-VXQ.png"
-        },
-        {
-          "id": "https://medium.com/p/f223cbfe8dd3",
-          "author": "IAM0TI",
-          "description": "A deep dive into the specification and Implementation of ERC20 token standard .",
-          "link": "https://blog.blockmagnates.com/all-about-ercs-erc20-token-standard-f223cbfe8dd3?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2024-10-04T14:30:38.000Z",
-          "wordCount": 5765,
-          "title": "ALL ABOUT ERCs — ERC20 TOKEN STANDARD",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*AV0bwPQ9OrmtWxAU"
         }
       ]
     },
