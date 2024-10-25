@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-25T10:16:26.975Z</id>
+    <id>urn:2024-10-25T11:13:36.544Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-25T10:16:26.975Z</updated>
+    <updated>2024-10-25T11:13:36.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Remove Liquidity through Live SmartContract]]></title>
+        <id>https://medium.com/p/28f01efe8506</id>
+        <link href="https://coinsbench.com/remove-liquidity-through-live-smartcontract-28f01efe8506?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-25T10:22:02.000Z</updated>
+        <summary type="html"><![CDATA[This’s my experience Removing liquidity at Linkswap.finance success with Remix and 2 SmartContract | zklinknova chain]]></summary>
+        <author>
+            <name>George West</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hamster Kombat to Launch NFTs — How to Build Your Own Market with a Rarible Clone Script]]></title>
         <id>https://medium.com/p/690054d9bf2e</id>
@@ -230,16 +240,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Imagine this: You’re a developer stepping into the world of decentralized marketplaces. You’ve decided to build a marketplace where users…]]></summary>
         <author>
             <name>Ras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with Solidity]]></title>
-        <id>https://medium.com/p/468ad380d225</id>
-        <link href="https://coinsbench.com/getting-started-with-solidity-468ad380d225?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-16T11:26:14.000Z</updated>
-        <summary type="html"><![CDATA[Over 20 Key Concepts, Including Events, Constructors, and Self-Destruct (Part 1)]]></summary>
-        <author>
-            <name>0xNazu.sol</name>
         </author>
     </entry>
     <entry>
