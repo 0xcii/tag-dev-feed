@@ -18,12 +18,22 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1b84812c8799",
+          "author": "Solidity Academy",
+          "description": "How the HotelRoom Smart Contract Revolutionizes Hotel Rentals\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/rent-a-room-in-seconds-the-future-of-hotel-bookings-with-smart-contracts-1b84812c8799?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-10-27T10:56:41.000Z",
+          "wordCount": 1086,
+          "title": "Rent a Room in Seconds: The Future of Hotel Bookings with Smart Contracts!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7VwuiNj3rp_V7UAXy9OcEA.png"
+        },
+        {
           "id": "https://medium.com/p/28f01efe8506",
           "author": "George West",
           "description": "This’s my experience Removing liquidity at Linkswap.finance success with Remix and 2 SmartContract | zklinknova chain",
           "link": "https://coinsbench.com/remove-liquidity-through-live-smartcontract-28f01efe8506?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-25T10:22:02.000Z",
-          "wordCount": 1626,
+          "wordCount": 1633,
           "title": "Remove Liquidity through Live SmartContract",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*7ISFgGdWjWzkdFhT"
         },
@@ -33,7 +43,7 @@
           "description": "In this article, we’ll break down the recent cyber attack on RadiantCapital, a leading decentralized finance (DeFi) protocol. Using information from RadiantCapital’s official post-mortem report…",
           "link": "https://coinsbench.com/radiantcapital-attack-31929ffcb211?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-23T14:54:37.000Z",
-          "wordCount": 2629,
+          "wordCount": 2636,
           "title": "RadiantCapital Attack",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*sF4ZR_AhSehcyPyL_XIg9Q.jpeg"
         },
@@ -43,7 +53,7 @@
           "description": "In the fast-changing world of technology, blockchain adoption has become a key player in how we interact and conduct transactions. Telegram…",
           "link": "https://coinsbench.com/how-to-use-layer-1-and-layer-2-in-a-telegram-mini-app-for-2025-6ddb3d4150d6?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-23T14:54:09.000Z",
-          "wordCount": 3244,
+          "wordCount": 3251,
           "title": "How to Use Layer 1 and Layer 2 in a Telegram Mini App for 2025",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uHAaQStTO8nbm5rvvDcF5A.jpeg"
         },
@@ -53,7 +63,7 @@
           "description": "Hey! In our last writing (which is part1), we learned a lot, including integers, smart contract theory, variables, data types, and so on.",
           "link": "https://coinsbench.com/getting-started-with-solidity-mappings-part-2-46bafaeba098?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-23T14:54:07.000Z",
-          "wordCount": 4059,
+          "wordCount": 4066,
           "title": "Getting Started with Solidity Mappings (Part 2)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:630/1*Ms5EHg0-kgX7ufD9WDbpog.png"
         },
@@ -63,7 +73,7 @@
           "description": "In Solidity, two special functions, receive() and fallback(), play crucial roles in how contracts handle Ether and interactions with…",
           "link": "https://coinsbench.com/solidity-receive-and-fallback-functions-security-best-practices-eaac21ba0387?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-22T11:14:24.000Z",
-          "wordCount": 2889,
+          "wordCount": 2896,
           "title": "Solidity Receive and Fallback Functions Security Best Practices",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*HgseLIYazxRE2oncKzy_iw.jpeg"
         },
@@ -73,7 +83,7 @@
           "description": "Writing a basic storage smart contract",
           "link": "https://coinsbench.com/setter-and-getter-functions-in-solidity-cf74281ead2a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-22T11:14:22.000Z",
-          "wordCount": 1406,
+          "wordCount": 1413,
           "title": "Setter and Getter Functions in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Fn-bwI6Tp4vKAMsRDOHuUA.png"
         },
@@ -83,7 +93,7 @@
           "description": "Discover how Rollups Are Leading for Faster, Cheaper, and More Secure Transactions",
           "link": "https://coinsbench.com/scaling-up-the-power-of-rollups-in-transforming-blockchain-3a2f5c51b07d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-22T11:14:21.000Z",
-          "wordCount": 3773,
+          "wordCount": 3780,
           "title": "Scaling Up: The Power of Rollups in Transforming Blockchain",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*DEw0pvvfGPTaHJGYr-sngQ.jpeg"
         },
@@ -93,7 +103,7 @@
           "description": "Introduction",
           "link": "https://coinsbench.com/advanced-strategies-for-smart-contract-security-ece6ba0aceb2?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-20T11:57:37.000Z",
-          "wordCount": 5055,
+          "wordCount": 5062,
           "title": "Advanced Strategies for Smart Contract Security",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:550/1*fMxJpCdAjAlYZFnWZswNwg.jpeg"
         },
@@ -103,19 +113,9 @@
           "description": "Are you ready to take your first step into the exciting realm of Web3 and blockchain development? Today, we’re going to embark on a journey…",
           "link": "https://coinsbench.com/dive-into-web3-your-first-smart-contract-adventure-with-solidity-e8cb053ade87?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-10-18T11:09:53.000Z",
-          "wordCount": 1937,
+          "wordCount": 1944,
           "title": "Dive into Web3: Your First Smart Contract Adventure with Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Yod75-1QbPGRTyZCCX4tUw.png"
-        },
-        {
-          "id": "https://medium.com/p/c47fee5c3953",
-          "author": "Ras",
-          "description": "Imagine this: You’re a developer stepping into the world of decentralized marketplaces. You’ve decided to build a marketplace where users…",
-          "link": "https://coinsbench.com/building-the-laptop-marketplace-contract-a-journey-in-solidity-c47fee5c3953?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-10-18T11:09:50.000Z",
-          "wordCount": 3474,
-          "title": "Building the Laptop Marketplace Contract: A Journey in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*6vPD5Ug36wj1Nb7KlPjXTg.jpeg"
         }
       ]
     },
