@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-31T18:20:41.073Z</id>
+    <id>urn:2024-10-31T19:12:43.362Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-31T18:20:41.073Z</updated>
+    <updated>2024-10-31T19:12:43.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Enhancement of the OnlineShop Contract: Transitioning Transactions from Ether to ERC-20 Tokens]]></title>
+        <id>https://medium.com/p/21702ae8d613</id>
+        <link href="https://coinsbench.com/enhancement-of-the-onlineshop-contract-transitioning-transactions-from-ether-to-erc-20-tokens-21702ae8d613?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-10-31T18:24:29.000Z</updated>
+        <summary type="html"><![CDATA[In the world of blockchain and decentralized applications (dApps), the shift from Ether-based transactions to token-based transactions…]]></summary>
+        <author>
+            <name>Khoirul Aziz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitmart Review]]></title>
         <id>https://medium.com/p/cf37796e4453</id>
@@ -221,16 +231,6 @@ Continue reading on Coinmonks »]]></summary>
 Continue reading on CoinsBench »]]></summary>
         <author>
             <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove Liquidity through Live SmartContract]]></title>
-        <id>https://medium.com/p/28f01efe8506</id>
-        <link href="https://coinsbench.com/remove-liquidity-through-live-smartcontract-28f01efe8506?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-25T10:22:02.000Z</updated>
-        <summary type="html"><![CDATA[This’s my experience Removing liquidity at Linkswap.finance success with Remix and 2 SmartContract | zklinknova chain]]></summary>
-        <author>
-            <name>George West</name>
         </author>
     </entry>
     <entry>
