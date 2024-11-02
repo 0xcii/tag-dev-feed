@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-02T04:18:49.320Z</id>
+    <id>urn:2024-11-02T05:14:20.891Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-02T04:18:49.320Z</updated>
+    <updated>2024-11-02T05:14:20.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[✨ Clean Code in Solidity: Structuring the Token2024 Contract for Readability, Functionality…]]></title>
+        <id>https://medium.com/p/8f266c1f0172</id>
+        <link href="https://coinsbench.com/clean-code-in-solidity-structuring-the-token2024-contract-for-readability-functionality-8f266c1f0172?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-02T04:36:03.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, as in any programming language, clean code principles ensure that code is easy to read, maintain, and scale. For smart…]]></summary>
+        <author>
+            <name>Jordan Type</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon Protocols EnablingPolygon Miden and Decentralized Web Nodes: Pioneering the Future of Data…]]></title>
         <id>https://medium.com/p/e1f04a2f67f2</id>
@@ -230,17 +240,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Blockchain is more than just a buzzword in today’s financial world — it’s a technological revolution reshaping the foundations of banking…]]></summary>
         <author>
             <name>James Siswanto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rent a Room in Seconds: The Future of Hotel Bookings with Smart Contracts!]]></title>
-        <id>https://medium.com/p/1b84812c8799</id>
-        <link href="https://coinsbench.com/rent-a-room-in-seconds-the-future-of-hotel-bookings-with-smart-contracts-1b84812c8799?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-27T10:56:41.000Z</updated>
-        <summary type="html"><![CDATA[How the HotelRoom Smart Contract Revolutionizes Hotel Rentals
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Solidity Academy</name>
         </author>
     </entry>
     <entry>
