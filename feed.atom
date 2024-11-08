@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-08T11:12:52.546Z</id>
+    <id>urn:2024-11-08T12:29:32.036Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-08T11:12:52.546Z</updated>
+    <updated>2024-11-08T12:29:32.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create and Deploy an ERC-20 Token in 10 Minutes with Remix and OpenZeppelin]]></title>
+        <id>https://medium.com/p/d2987b185b1f</id>
+        <link href="https://coinsbench.com/create-and-deploy-an-erc-20-token-in-10-minutes-with-remix-and-openzeppelin-d2987b185b1f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-08T11:11:30.000Z</updated>
+        <summary type="html"><![CDATA[An ERC-20 token is a standard for creating and managing fungible tokens on the Ethereum blockchain, meaning each token is identical in…]]></summary>
+        <author>
+            <name>Ras</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Impact of Blockchain on Peer-to-Peer Lending and Crowdfunding]]></title>
+        <id>https://medium.com/p/57940e8273fa</id>
+        <link href="https://coinsbench.com/the-impact-of-blockchain-on-peer-to-peer-lending-and-crowdfunding-57940e8273fa?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-08T11:10:22.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Ukezi Ebenezer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[distributed tracing in next.js]]></title>
+        <id>https://medium.com/p/5ed5a180d171</id>
+        <link href="https://coinsbench.com/distributed-tracing-in-next-js-5ed5a180d171?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-08T11:10:17.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a comprehensive guide on implementing distributed tracing in your Next.js applications. This article aims to equip you with the knowledge and practical techniques to effectively monitor…]]></summary>
+        <author>
+            <name>TEJESWAR REDDY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Blockchain in BFSI Bring a Changeover to the Global Economic Workflow?]]></title>
+        <id>https://medium.com/p/1de5026dd4cc</id>
+        <link href="https://coinsbench.com/how-does-blockchain-in-bfsi-bring-a-changeover-to-the-global-economic-workflow-1de5026dd4cc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-08T11:10:14.000Z</updated>
+        <summary type="html"><![CDATA[The commercial enterprise possibilities of blockchain development for BFSI in today’s marketplace state of affairs.]]></summary>
+        <author>
+            <name>Decentrablock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Web3 Games with Infinite Features in Unique Development]]></title>
         <id>https://medium.com/p/6d3b9429fcdc</id>
@@ -209,46 +249,6 @@ All the praises and thanks be to Allah, the Lord of the ‘Alamin (mankind…]]>
         <summary type="html"><![CDATA[OVERVIEW]]></summary>
         <author>
             <name>Ukezi Ebenezer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beginner’s Guide to Semantic Technologies in the Semantic Web]]></title>
-        <id>https://medium.com/p/1ac7acaeceea</id>
-        <link href="https://coinsbench.com/beginners-guide-to-semantic-technologies-in-the-semantic-web-1ac7acaeceea?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-29T17:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Getting Started with Semantic Technologies]]></summary>
-        <author>
-            <name>Ukezi Ebenezer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reviewing the activity of GitHub accounts associated with Lazarus]]></title>
-        <id>https://medium.com/p/635cb47881dc</id>
-        <link href="https://coinsbench.com/reviewing-the-activity-of-github-accounts-associated-with-lazarus-635cb47881dc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-29T17:00:33.000Z</updated>
-        <summary type="html"><![CDATA[There is a network of GitHub accounts tied to threat actors associated with the Democratic People’s Republic of Korea (DPRK), used for…]]></summary>
-        <author>
-            <name>Heiner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naming Conventions Across Languages (part one JS)]]></title>
-        <id>https://medium.com/p/d96065aa97ff</id>
-        <link href="https://coinsbench.com/naming-conventions-across-languages-part-one-js-d96065aa97ff?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-29T17:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Writing clean code is more than just making the code work — it’s about making it readable, understandable, and maintainable. One of the…]]></summary>
-        <author>
-            <name>Jordan Type</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RareSkills Solidity Interview Question #52 Answered: Describe the three types of storage gas costs…]]></title>
-        <id>https://medium.com/p/5134bbd2f8d1</id>
-        <link href="https://coinsbench.com/rareskills-solidity-interview-question-52-answered-describe-the-three-types-of-storage-gas-costs-5134bbd2f8d1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-10-29T17:00:27.000Z</updated>
-        <summary type="html"><![CDATA[This series will provide answers to the list of Solidity interview questions that were published by RareSkills..]]></summary>
-        <author>
-            <name>Faybian Byrd</name>
         </author>
     </entry>
     <entry>
