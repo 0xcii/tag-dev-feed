@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-18T11:13:50.453Z</id>
+    <id>urn:2024-11-18T12:33:06.940Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-18T11:13:50.453Z</updated>
+    <updated>2024-11-18T12:33:06.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Transient Storage: An Efficient Temporary Data Solution in Solidity]]></title>
+        <id>https://medium.com/p/b2fdd3563625</id>
+        <link href="https://coinsbench.com/transient-storage-an-efficient-temporary-data-solution-in-solidity-b2fdd3563625?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-18T12:25:15.000Z</updated>
+        <summary type="html"><![CDATA[Transient Storage is a newly introduced data location type in Solidity version 0.8.24. It provides a mechanism for temporarily storing data…]]></summary>
+        <author>
+            <name>dwong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Blockchain: Mastering How Blockchain Works :)]]></title>
+        <id>https://medium.com/p/a8c2ff3fbb5f</id>
+        <link href="https://coinsbench.com/advanced-blockchain-mastering-how-blockchain-works-a8c2ff3fbb5f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-18T12:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Simplifying the Complexities of Blockchain Technology Through Simple Explanation and Illustrative Diagrams]]></summary>
+        <author>
+            <name>0xNazu.sol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum: Introduction to ERC20 Token]]></title>
+        <id>https://medium.com/p/103f133b7c73</id>
+        <link href="https://coinsbench.com/ethereum-introduction-to-erc20-token-103f133b7c73?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-18T12:25:11.000Z</updated>
+        <summary type="html"><![CDATA[In order to become a better Ethereum developer or smart contract hacker, one must first understand fungible tokens and the ERC-20 standard…]]></summary>
+        <author>
+            <name>0xNazu.sol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 8: Remix and Writing Your First Smart Contract]]></title>
+        <id>https://medium.com/p/5880d2f60155</id>
+        <link href="https://coinsbench.com/day-8-remix-and-writing-your-first-smart-contract-5880d2f60155?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-18T12:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Solidity and Remix]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 10: Solidity Arrays, Structs, and Mappings]]></title>
+        <id>https://medium.com/p/377a8e08842d</id>
+        <link href="https://coinsbench.com/day-10-solidity-arrays-structs-and-mappings-377a8e08842d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-18T12:25:05.000Z</updated>
+        <summary type="html"><![CDATA[We’ll learn about arrays, structs, mappings, and how to work with them in Solidity. We’ll also dive into memory, calldata, and storage…]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the NFT Marketplace for Books: A Solidity Walkthrough]]></title>
+        <id>https://medium.com/p/762579b34394</id>
+        <link href="https://coinsbench.com/exploring-the-nft-marketplace-for-books-a-solidity-walkthrough-762579b34394?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-18T12:25:03.000Z</updated>
+        <summary type="html"><![CDATA[This Solidity smart contract implements an NFT Marketplace specifically for books using the ERC-721 standard. Here’s a detailed breakdown…]]></summary>
+        <author>
+            <name>Ras</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop Thinking You’ll Get Rich With Bitcoin]]></title>
         <id>https://medium.com/p/7ea8985114a6</id>
@@ -158,66 +218,6 @@ Continue reading on Block Magnates »]]></summary>
         <summary type="html"><![CDATA[Blockchain technology continues to evolve, and the choice of architecture can have a profound impact on the functionality and scalability…]]></summary>
         <author>
             <name>Aleksandr Korolev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon’s Subtle Strategy: Building a Sustainable Ecosystem]]></title>
-        <id>https://medium.com/p/e68e6676bf8a</id>
-        <link href="https://coinsbench.com/polygons-subtle-strategy-building-a-sustainable-ecosystem-e68e6676bf8a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-12T08:38:56.000Z</updated>
-        <summary type="html"><![CDATA[Introduction:]]></summary>
-        <author>
-            <name>Drraghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the SafeMath Library Is Becoming Obsolete in Solidity Development]]></title>
-        <id>https://medium.com/p/1717928d2970</id>
-        <link href="https://coinsbench.com/why-the-safemath-library-is-becoming-obsolete-in-solidity-development-1717928d2970?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-12T08:38:54.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Anuraag Chetia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upgrade Laptop Marketplace Contract with ERC-20 Payment]]></title>
-        <id>https://medium.com/p/e5c01c26451b</id>
-        <link href="https://coinsbench.com/upgrade-laptop-marketplace-contract-with-erc-20-payment-e5c01c26451b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-11T09:31:51.000Z</updated>
-        <summary type="html"><![CDATA[In our previous two articles, we embarked on a journey to build blockchain-based applications using Solidity. First, in Building the Laptop…]]></summary>
-        <author>
-            <name>Ras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create and Deploy an ERC-20 Token in 10 Minutes with Remix and OpenZeppelin]]></title>
-        <id>https://medium.com/p/d2987b185b1f</id>
-        <link href="https://coinsbench.com/create-and-deploy-an-erc-20-token-in-10-minutes-with-remix-and-openzeppelin-d2987b185b1f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-08T11:11:30.000Z</updated>
-        <summary type="html"><![CDATA[An ERC-20 token is a standard for creating and managing fungible tokens on the Ethereum blockchain, meaning each token is identical in…]]></summary>
-        <author>
-            <name>Ras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Impact of Blockchain on Peer-to-Peer Lending and Crowdfunding]]></title>
-        <id>https://medium.com/p/57940e8273fa</id>
-        <link href="https://coinsbench.com/the-impact-of-blockchain-on-peer-to-peer-lending-and-crowdfunding-57940e8273fa?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-08T11:10:22.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Ukezi Ebenezer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[distributed tracing in next.js]]></title>
-        <id>https://medium.com/p/5ed5a180d171</id>
-        <link href="https://coinsbench.com/distributed-tracing-in-next-js-5ed5a180d171?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-08T11:10:17.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to a comprehensive guide on implementing distributed tracing in your Next.js applications. This article aims to equip you with the knowledge and practical techniques to effectively monitor…]]></summary>
-        <author>
-            <name>TEJESWAR REDDY</name>
         </author>
     </entry>
     <entry>
