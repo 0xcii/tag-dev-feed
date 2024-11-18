@@ -43,7 +43,7 @@
           "description": "In order to become a better Ethereum developer or smart contract hacker, one must first understand fungible tokens and the ERC-20 standard…",
           "link": "https://coinsbench.com/ethereum-introduction-to-erc20-token-103f133b7c73?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-18T12:25:11.000Z",
-          "wordCount": 3408,
+          "wordCount": 3376,
           "title": "Ethereum: Introduction to ERC20 Token",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*OpTCr1b-C1wXv7AR.jpg"
         },
@@ -53,7 +53,7 @@
           "description": "Introduction to Solidity and Remix",
           "link": "https://coinsbench.com/day-8-remix-and-writing-your-first-smart-contract-5880d2f60155?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-18T12:25:08.000Z",
-          "wordCount": 1879,
+          "wordCount": 1911,
           "title": "Day 8: Remix and Writing Your First Smart Contract",
           "imageUrl": null
         },
@@ -63,7 +63,7 @@
           "description": "We’ll learn about arrays, structs, mappings, and how to work with them in Solidity. We’ll also dive into memory, calldata, and storage…",
           "link": "https://coinsbench.com/day-10-solidity-arrays-structs-and-mappings-377a8e08842d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-18T12:25:05.000Z",
-          "wordCount": 1714,
+          "wordCount": 1746,
           "title": "Day 10: Solidity Arrays, Structs, and Mappings",
           "imageUrl": null
         },
@@ -73,7 +73,7 @@
           "description": "This Solidity smart contract implements an NFT Marketplace specifically for books using the ERC-721 standard. Here’s a detailed breakdown…",
           "link": "https://coinsbench.com/exploring-the-nft-marketplace-for-books-a-solidity-walkthrough-762579b34394?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-18T12:25:03.000Z",
-          "wordCount": 3766,
+          "wordCount": 3734,
           "title": "Exploring the NFT Marketplace for Books: A Solidity Walkthrough",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*zkdyRp5wMYuBZpJiMse_OQ.jpeg"
         },
@@ -93,7 +93,7 @@
           "description": "In the blockchain space, innovation is constant, but so are the challenges. Here are three of the biggest issues that demand creative…",
           "link": "https://coinsbench.com/three-major-challenges-in-blockchain-today-eec27dc2eac4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-12T08:39:03.000Z",
-          "wordCount": 1325,
+          "wordCount": 1293,
           "title": "Three Major Challenges in Blockchain Today",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*gO4sIIc75O4hW1EV"
         },
@@ -130,7 +130,7 @@
           "description": "Forget the Banana zones, S2Fs, and Power Laws. Here’s the real deal.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/stop-thinking-youll-get-rich-with-bitcoin-7ea8985114a6?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-15T07:24:23.000Z",
-          "wordCount": 1218,
+          "wordCount": 1217,
           "title": "Stop Thinking You’ll Get Rich With Bitcoin",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ul9qqjq3q-ZXc7KDahypRg.jpeg"
         },
@@ -232,6 +232,16 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/08c7121dab01",
+          "author": "0xNazu.sol",
+          "description": "The engine behind Ethereum",
+          "link": "https://blog.blockmagnates.com/evm-08c7121dab01?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-11-18T12:49:05.000Z",
+          "wordCount": 4236,
+          "title": "EVM",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:905/1*NTxg-MtFG46XvcpO68YJow.png"
+        },
+        {
           "id": "https://medium.com/p/a420bec70105",
           "author": "Scofield O. Idehen",
           "description": "In my learning time on cyfrin updraft, I came across the different types of payment, and it was quite interesting as I took more time to…\nContinue reading on Block Magnates »",
@@ -247,7 +257,7 @@
           "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
           "link": "https://blog.blockmagnates.com/rareskills-solidity-interview-question-53-answered-why-shouldnt-upgradeable-contracts-use-the-89c1f6f1ebf1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-06T12:29:54.000Z",
-          "wordCount": 2313,
+          "wordCount": 2343,
           "title": "RareSkills Solidity Interview Question #53 Answered: Why shouldn’t upgradeable contracts use the…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xa6RJFkUdREepuB602MAbg.png"
         },
@@ -257,7 +267,7 @@
           "description": "Introduction:",
           "link": "https://blog.blockmagnates.com/polygon-protocols-with-polygon-miden-and-decentralized-web-nodes-pioneering-the-future-of-data-e1f04a2f67f2?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-01T18:44:44.000Z",
-          "wordCount": 3793,
+          "wordCount": 3763,
           "title": "Polygon Protocols EnablingPolygon Miden and Decentralized Web Nodes: Pioneering the Future of Data…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1120/1*uBfO7sPpah1sAgC0RtakhA.jpeg"
         },
