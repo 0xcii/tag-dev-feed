@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-20T22:14:55.296Z</id>
+    <id>urn:2024-11-20T23:15:07.777Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-20T22:14:55.296Z</updated>
+    <updated>2024-11-20T23:15:07.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -268,26 +268,6 @@ Continue reading on Block Magnates »]]></summary>
         <summary type="html"><![CDATA[My writeup for the Imaginary CTF]]></summary>
         <author>
             <name>princeoftm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer’s Guide to ERC-4337 #3 | Integration Test For Simple Account]]></title>
-        <id>https://medium.com/p/2bd79cde8aab</id>
-        <link href="https://blog.blockmagnates.com/developers-guide-to-erc-4337-3-integration-test-for-simple-account-2bd79cde8aab?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-10-22T10:22:47.000Z</updated>
-        <summary type="html"><![CDATA[This is part 2 of the “Developer’s Guide to ERC-4337” series. If you haven’t read the last article, check it out here: Developer’s Guide to…]]></summary>
-        <author>
-            <name>Nikhil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer’s Guide to ERC-4337 #4 | Understanding Bundler Refunds]]></title>
-        <id>https://medium.com/p/0e7d2bca1217</id>
-        <link href="https://blog.blockmagnates.com/developers-guide-to-erc-4337-4-understanding-bundler-refunds-0e7d2bca1217?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-10-22T10:22:43.000Z</updated>
-        <summary type="html"><![CDATA[In the previous sections of this series, we developed and tested the SimpleAccount, an account contract which follows ERC-4337…]]></summary>
-        <author>
-            <name>Nikhil</name>
         </author>
     </entry>
 </feed>
