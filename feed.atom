@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-22T13:24:05.507Z</id>
+    <id>urn:2024-11-22T14:14:37.151Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-22T13:24:05.508Z</updated>
+    <updated>2024-11-22T14:14:37.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Future of Financial Payment Apps in Web3: Leveraging Polygon Miden]]></title>
+        <id>https://medium.com/p/1545bcbfbcd3</id>
+        <link href="https://blog.blockmagnates.com/the-future-of-financial-payment-apps-in-web3-leveraging-polygon-miden-1545bcbfbcd3?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-11-22T13:41:37.000Z</updated>
+        <summary type="html"><![CDATA[Introduction :]]></summary>
+        <author>
+            <name>Drraghavendra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing Crypto Off-ramping: A Decentralized Approach with UPI Using Polygon Miden]]></title>
+        <id>https://medium.com/p/35d2c2d4ce90</id>
+        <link href="https://blog.blockmagnates.com/revolutionizing-crypto-off-ramping-a-decentralized-approach-with-upi-using-polygon-miden-35d2c2d4ce90?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-11-22T13:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Abstract:]]></summary>
+        <author>
+            <name>Drraghavendra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 12: Storage Factory — Building Composable Smart Contracts]]></title>
+        <id>https://medium.com/p/89ec5bd2448b</id>
+        <link href="https://coinsbench.com/day-12-storage-factory-building-composable-smart-contracts-89ec5bd2448b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-22T13:21:17.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts in Solidity are inherently composable, meaning they can seamlessly interact with one another. This feature is crucial for…]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Your Own NFT(ERC-721) Marketplace on Ethereum Network with Solidity]]></title>
+        <id>https://medium.com/p/73c738a6a713</id>
+        <link href="https://coinsbench.com/building-your-own-nft-erc-721-marketplace-on-ethereum-network-with-solidity-73c738a6a713?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-22T13:21:15.000Z</updated>
+        <summary type="html"><![CDATA[Hi there! in this tutorial we will learn about NFT (ERC-721) and how we can build our NFT Markerplace on the Ethereum network. check it…]]></summary>
+        <author>
+            <name>Khoirul Aziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing Clean Code with Solidity Functions ✨]]></title>
+        <id>https://medium.com/p/ee417266120f</id>
+        <link href="https://coinsbench.com/writing-clean-code-with-solidity-functions-ee417266120f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-22T13:21:12.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, following a clean code approach for functions helps in creating readable, maintainable, and efficient smart contracts. Here…]]></summary>
+        <author>
+            <name>Jordan Type</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basic Smart Contracts]]></title>
+        <id>https://medium.com/p/f994a2e3eaa3</id>
+        <link href="https://coinsbench.com/basic-smart-contracts-f994a2e3eaa3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-22T13:21:10.000Z</updated>
+        <summary type="html"><![CDATA[Deploying Your Own ERC-20 Token]]></summary>
+        <author>
+            <name>The Web3 Book</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Are Smart Contracts on the Sui Blockchain a Turning Point?]]></title>
         <id>https://medium.com/p/68a845f06f30</id>
@@ -175,46 +235,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Transient Storage is a newly introduced data location type in Solidity version 0.8.24. It provides a mechanism for temporarily storing data…]]></summary>
         <author>
             <name>dwong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Blockchain: Mastering How Blockchain Works :)]]></title>
-        <id>https://medium.com/p/a8c2ff3fbb5f</id>
-        <link href="https://coinsbench.com/advanced-blockchain-mastering-how-blockchain-works-a8c2ff3fbb5f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-18T12:25:13.000Z</updated>
-        <summary type="html"><![CDATA[Simplifying the Complexities of Blockchain Technology Through Simple Explanation and Illustrative Diagrams]]></summary>
-        <author>
-            <name>0xNazu.sol</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 8: Remix and Writing Your First Smart Contract]]></title>
-        <id>https://medium.com/p/5880d2f60155</id>
-        <link href="https://coinsbench.com/day-8-remix-and-writing-your-first-smart-contract-5880d2f60155?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-18T12:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Introduction to Solidity and Remix]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 10: Solidity Arrays, Structs, and Mappings]]></title>
-        <id>https://medium.com/p/377a8e08842d</id>
-        <link href="https://coinsbench.com/day-10-solidity-arrays-structs-and-mappings-377a8e08842d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-18T12:25:05.000Z</updated>
-        <summary type="html"><![CDATA[We’ll learn about arrays, structs, mappings, and how to work with them in Solidity. We’ll also dive into memory, calldata, and storage…]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the NFT Marketplace for Books: A Solidity Walkthrough]]></title>
-        <id>https://medium.com/p/762579b34394</id>
-        <link href="https://coinsbench.com/exploring-the-nft-marketplace-for-books-a-solidity-walkthrough-762579b34394?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-18T12:25:03.000Z</updated>
-        <summary type="html"><![CDATA[This Solidity smart contract implements an NFT Marketplace specifically for books using the ERC-721 standard. Here’s a detailed breakdown…]]></summary>
-        <author>
-            <name>Ras</name>
         </author>
     </entry>
     <entry>
