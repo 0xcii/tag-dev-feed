@@ -33,7 +33,7 @@
           "description": "Hi there! in this tutorial we will learn about NFT (ERC-721) and how we can build our NFT Markerplace on the Ethereum network. check it…",
           "link": "https://coinsbench.com/building-your-own-nft-erc-721-marketplace-on-ethereum-network-with-solidity-73c738a6a713?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-22T13:21:15.000Z",
-          "wordCount": 4514,
+          "wordCount": 4506,
           "title": "Building Your Own NFT(ERC-721) Marketplace on Ethereum Network with Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bF6RapyM1QqmZooTmsLA7g.jpeg"
         },
@@ -43,7 +43,7 @@
           "description": "In Solidity, following a clean code approach for functions helps in creating readable, maintainable, and efficient smart contracts. Here…",
           "link": "https://coinsbench.com/writing-clean-code-with-solidity-functions-ee417266120f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-22T13:21:12.000Z",
-          "wordCount": 2024,
+          "wordCount": 2015,
           "title": "Writing Clean Code with Solidity Functions ✨",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*G-aLXn01S2N8eonXdqy2yA.png"
         },
@@ -63,7 +63,7 @@
           "description": "UniswapV2 still relevant, most of the degen games happens there, so here’s my 2024 ultimate guide on how to, perfectly, tested, extract…",
           "link": "https://coinsbench.com/best-way-ever-to-extract-token-price-from-uniswapv2-750ef3923f7d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-20T11:49:35.000Z",
-          "wordCount": 1506,
+          "wordCount": 1498,
           "title": "Best way ever to extract token price from UniswapV2",
           "imageUrl": null
         },
@@ -73,7 +73,7 @@
           "description": "What is an EIP?",
           "link": "https://coinsbench.com/day-1eip-1559-lowering-ethereum-gas-fees-and-its-deflationary-potential-55c453c9b82a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-20T11:49:32.000Z",
-          "wordCount": 2161,
+          "wordCount": 2153,
           "title": "Day 1EIP 1559 — Lowering Ethereum Gas Fees and Its Deflationary Potential",
           "imageUrl": null
         },
@@ -93,7 +93,7 @@
           "description": "Introduction:\nContinue reading on CoinsBench »",
           "link": "https://coinsbench.com/why-blind-75-leetcode-in-solidity-was-a-fatal-mistake-a-lesson-in-basics-2fecd09f1657?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-20T11:49:26.000Z",
-          "wordCount": 1177,
+          "wordCount": 1185,
           "title": "Why Blind 75 LeetCode in Solidity Was a Fatal Mistake: A Lesson in Basics",
           "imageUrl": null
         },
@@ -103,7 +103,7 @@
           "description": "if you are reading this, I want to say thanks, and hope this saves you some hours of finding out.",
           "link": "https://coinsbench.com/swapping-tokens-on-aerodrome-with-solidity-20ce5e2c1e9f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-20T11:49:22.000Z",
-          "wordCount": 2298,
+          "wordCount": 2306,
           "title": "Swapping tokens on AeroDrome with solidity",
           "imageUrl": null
         },
@@ -125,12 +125,42 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/16ad2a27a754",
+          "author": "Coinmonks Team",
+          "description": "Telegram trading bots are automated tools designed to perform cryptocurrency trades directly within the Telegram app. These bots execute…",
+          "link": "https://medium.com/coinmonks/how-to-choose-the-best-solana-telegram-trading-bot-16ad2a27a754?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-23T11:55:14.000Z",
+          "wordCount": 3525,
+          "title": "How to choose the best Solana Telegram Trading Bot",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:540/0*oyp9w3GMCqhsHHVL"
+        },
+        {
+          "id": "https://medium.com/p/9de6d1f6576c",
+          "author": "Coinmonks Team",
+          "description": "Solana is a blockchain platform designed to prioritize speed, efficiency, and affordability. Think of it as a public digital ledger, much…",
+          "link": "https://medium.com/coinmonks/top-5-telegram-bots-for-solana-meme-trading-9de6d1f6576c?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-23T11:41:25.000Z",
+          "wordCount": 4390,
+          "title": "TOP 5 Telegram Bots For Solana Meme Trading",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:736/0*evoMyyHbZAb_98Vz"
+        },
+        {
+          "id": "https://medium.com/p/b28fb3deed55",
+          "author": "Coinmonks Team",
+          "description": "Imagine you’re at a store where a highly anticipated product goes on sale at a specific time, and everyone is eager to grab it first. But…",
+          "link": "https://medium.com/coinmonks/what-is-token-sniping-measures-to-stop-token-sniping-b28fb3deed55?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-23T11:00:42.000Z",
+          "wordCount": 3620,
+          "title": "What is Token Sniping — Measures to Stop Token Sniping",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:626/0*B8SgnGBWFK2asJLL"
+        },
+        {
           "id": "https://medium.com/p/25f13e313ef1",
           "author": "Coinmonks Team",
           "description": "Imagine if you had a helper who could keep an eye on the cryptocurrency market 24/7, instantly buying or selling your coins when the…",
           "link": "https://medium.com/coinmonks/boost-crypto-trading-with-telegram-trading-bots-complete-guide-25f13e313ef1?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-23T10:38:26.000Z",
-          "wordCount": 11767,
+          "wordCount": 11826,
           "title": "Boost Crypto Trading with Telegram Trading Bots — COMPLETE GUIDE",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:736/0*piSLoixeI_4Lusgf"
         },
@@ -170,7 +200,7 @@
           "description": "How ORM works:",
           "link": "https://medium.com/coinmonks/orm-object-relational-mapping-is-a-programming-technique-that-relates-objects-used-in-9d48061dbeb5?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-22T16:36:37.000Z",
-          "wordCount": 1658,
+          "wordCount": 1666,
           "title": "ORM (Object-Relational Mapping) is a programming technique that relates objects used in…",
           "imageUrl": null
         },
@@ -190,39 +220,9 @@
           "description": "During the last altseason, Ethereum outperformed bitcoin about 8 to 1.",
           "link": "https://medium.com/coinmonks/its-time-to-buy-ethereum-b25d89e4d6ee?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-22T16:36:30.000Z",
-          "wordCount": 2002,
+          "wordCount": 2010,
           "title": "It’s time to buy Ethereum.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:630/0*8CfbZMUNO89a_Idr.png"
-        },
-        {
-          "id": "https://medium.com/p/03b926ad96a9",
-          "author": "Mitchell Bassett",
-          "description": "If you’ve been keeping an eye on the news lately, you’ve probably noticed the surge in UFO chatter. Congressional hearings, mysterious…",
-          "link": "https://medium.com/coinmonks/ufopepe-when-ufo-sightings-meet-meme-coins-03b926ad96a9?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-22T16:36:12.000Z",
-          "wordCount": 2156,
-          "title": "UFOPEPE: When UFO Sightings Meet Meme Coins",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*l1sg7habfX9f_J1pXuaJKQ.png"
-        },
-        {
-          "id": "https://medium.com/p/995565d9bb39",
-          "author": "PVMihalache",
-          "description": "Splinterlands stands out as a pioneering title in the blockchain gaming landscape, blending fun, strategy, and the benefits of…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/another-remarkbale-splinterlands-season-epic-cards-nidhoggr-and-the-night-reaper-995565d9bb39?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-22T16:36:11.000Z",
-          "wordCount": 1305,
-          "title": "Another Remarkbale Splinterlands Season — Epic Cards, Nidhoggr and The Night Reaper",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:768/0*h4aoH-nSrj8jUznd.png"
-        },
-        {
-          "id": "https://medium.com/p/af1d48fa6e5f",
-          "author": "DcentAI",
-          "description": "Biometric authentication has become a vital identity management method in an increasingly digital environment, offering secure and…",
-          "link": "https://medium.com/coinmonks/decentralized-ai-in-biometric-authentication-and-identity-management-af1d48fa6e5f?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-22T16:35:31.000Z",
-          "wordCount": 3970,
-          "title": "Decentralized AI in Biometric Authentication and Identity Management",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lLHNlIJxxK9i03fn87WhOA.png"
         }
       ]
     },
@@ -257,7 +257,7 @@
           "description": "The engine behind Ethereum",
           "link": "https://blog.blockmagnates.com/evm-08c7121dab01?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-18T12:49:05.000Z",
-          "wordCount": 4236,
+          "wordCount": 4244,
           "title": "EVM",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:905/1*NTxg-MtFG46XvcpO68YJow.png"
         },
@@ -307,7 +307,7 @@
           "description": "My writeup for the Imaginary CTF",
           "link": "https://blog.blockmagnates.com/imaginary-ctf-write-ups-26a9677fec8e?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-10-29T17:07:29.000Z",
-          "wordCount": 1572,
+          "wordCount": 1564,
           "title": "Imaginary CTF write-ups",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*tECnYsqQ-FcKApDg.jpg"
         }
