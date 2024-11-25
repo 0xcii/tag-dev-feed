@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-25T12:32:22.484Z</id>
+    <id>urn:2024-11-25T13:25:41.048Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-25T12:32:22.484Z</updated>
+    <updated>2024-11-25T13:25:41.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Basic Smart Contracts]]></title>
+        <id>https://medium.com/p/4f985764fe84</id>
+        <link href="https://coinsbench.com/basic-smart-contracts-4f985764fe84?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-25T12:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Decentralized Voting System]]></summary>
+        <author>
+            <name>The Web3 Book</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building on Our Laptop Token Smart Contract Journey]]></title>
+        <id>https://medium.com/p/204b6b3a2b27</id>
+        <link href="https://coinsbench.com/building-on-our-laptop-token-smart-contract-journey-204b6b3a2b27?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-25T12:32:15.000Z</updated>
+        <summary type="html"><![CDATA[In our previous article, “Create and Deploy an ERC-20 Token in 10 Minutes with Remix and OpenZeppelin”, we explored how to create and…]]></summary>
+        <author>
+            <name>Ras</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft Huh TCP1P]]></title>
+        <id>https://medium.com/p/000e83283f69</id>
+        <link href="https://coinsbench.com/minecraft-huh-tcp1p-000e83283f69?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-25T12:32:13.000Z</updated>
+        <summary type="html"><![CDATA[Hellow h4ckers. So this is my 4th solve is TCP1P . Well this is a slightly different one. So let’s first go through the challenge…]]></summary>
+        <author>
+            <name>DSG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 14]]></title>
+        <id>https://medium.com/p/a0ddc4ea7ed4</id>
+        <link href="https://coinsbench.com/day-14-a0ddc4ea7ed4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-25T12:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Overloading Functions in Solidity]]></summary>
+        <author>
+            <name>The Web3 Book</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Future of Video Game Development with Decentralized AI]]></title>
         <id>https://medium.com/p/2a8bc76414d4</id>
@@ -191,37 +231,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arweave: Capturing the Future of Data with Permanent Storage and Smart Contracts]]></title>
-        <id>https://medium.com/p/cd0334510bf0</id>
-        <link href="https://coinsbench.com/arweave-capturing-the-future-of-data-with-permanent-storage-and-smart-contracts-cd0334510bf0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-20T11:49:29.000Z</updated>
-        <summary type="html"><![CDATA[Introduction:]]></summary>
-        <author>
-            <name>Drraghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Blind 75 LeetCode in Solidity Was a Fatal Mistake: A Lesson in Basics]]></title>
-        <id>https://medium.com/p/2fecd09f1657</id>
-        <link href="https://coinsbench.com/why-blind-75-leetcode-in-solidity-was-a-fatal-mistake-a-lesson-in-basics-2fecd09f1657?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-20T11:49:26.000Z</updated>
-        <summary type="html"><![CDATA[Introduction:
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Sai Nitish Reddy Kapa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swapping tokens on AeroDrome with solidity]]></title>
-        <id>https://medium.com/p/20ce5e2c1e9f</id>
-        <link href="https://coinsbench.com/swapping-tokens-on-aerodrome-with-solidity-20ce5e2c1e9f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-20T11:49:22.000Z</updated>
-        <summary type="html"><![CDATA[if you are reading this, I want to say thanks, and hope this saves you some hours of finding out.]]></summary>
-        <author>
-            <name>Yahdiiel Saldana</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EVM]]></title>
         <id>https://medium.com/p/08c7121dab01</id>
         <link href="https://blog.blockmagnates.com/evm-08c7121dab01?source=rss----18fa961f1eff--solidity"/>
@@ -229,16 +238,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[The engine behind Ethereum]]></summary>
         <author>
             <name>0xNazu.sol</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transient Storage: An Efficient Temporary Data Solution in Solidity]]></title>
-        <id>https://medium.com/p/b2fdd3563625</id>
-        <link href="https://coinsbench.com/transient-storage-an-efficient-temporary-data-solution-in-solidity-b2fdd3563625?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-18T12:25:15.000Z</updated>
-        <summary type="html"><![CDATA[Transient Storage is a newly introduced data location type in Solidity version 0.8.24. It provides a mechanism for temporarily storing data…]]></summary>
-        <author>
-            <name>dwong</name>
         </author>
     </entry>
     <entry>
