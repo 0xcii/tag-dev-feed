@@ -73,7 +73,7 @@
           "description": "Hi there! in this tutorial we will learn about NFT (ERC-721) and how we can build our NFT Markerplace on the Ethereum network. check it…",
           "link": "https://coinsbench.com/building-your-own-nft-erc-721-marketplace-on-ethereum-network-with-solidity-73c738a6a713?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-22T13:21:15.000Z",
-          "wordCount": 4514,
+          "wordCount": 4506,
           "title": "Building Your Own NFT(ERC-721) Marketplace on Ethereum Network with Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bF6RapyM1QqmZooTmsLA7g.jpeg"
         },
@@ -83,7 +83,7 @@
           "description": "In Solidity, following a clean code approach for functions helps in creating readable, maintainable, and efficient smart contracts. Here…",
           "link": "https://coinsbench.com/writing-clean-code-with-solidity-functions-ee417266120f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-22T13:21:12.000Z",
-          "wordCount": 2024,
+          "wordCount": 2015,
           "title": "Writing Clean Code with Solidity Functions ✨",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*G-aLXn01S2N8eonXdqy2yA.png"
         },
@@ -113,7 +113,7 @@
           "description": "What is an EIP?",
           "link": "https://coinsbench.com/day-1eip-1559-lowering-ethereum-gas-fees-and-its-deflationary-potential-55c453c9b82a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-20T11:49:32.000Z",
-          "wordCount": 2153,
+          "wordCount": 2161,
           "title": "Day 1EIP 1559 — Lowering Ethereum Gas Fees and Its Deflationary Potential",
           "imageUrl": null
         }
@@ -124,6 +124,86 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/1e8c9084a0de",
+          "author": "Linda Flowers",
+          "description": "Explore how generative AI is transforming internal audit processes in 2025 with this comprehensive guide on benefits, tools, and…",
+          "link": "https://medium.com/coinmonks/generative-ai-in-internal-audit-a-complete-guide-for-2025-1e8c9084a0de?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-25T15:59:15.000Z",
+          "wordCount": 11580,
+          "title": "Generative AI In Internal Audit: A Complete Guide For 2025",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*-BwB6uKZhMsD4bd9.jpg"
+        },
+        {
+          "id": "https://medium.com/p/179832cfb345",
+          "author": "Jimena",
+          "description": "Improve your marketing efforts with these 10 AI-based digital marketing strategies for 2025, designed to optimize content, automate tasks…",
+          "link": "https://medium.com/coinmonks/top-10-ai-based-digital-marketing-strategies-for-2025-179832cfb345?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-25T15:59:12.000Z",
+          "wordCount": 3854,
+          "title": "Top 10 AI-Based Digital Marketing Strategies for 2025",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Kkd1NCcDBziwoqtlje1V5Q.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/5bbb094f369d",
+          "author": "Gabrielle",
+          "description": "Top ERC20 Wallets for 2025: Ensuring Security and Ease of Use",
+          "link": "https://medium.com/coinmonks/2025s-best-erc20-wallets-to-secure-your-tokens-5bbb094f369d?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-25T15:59:08.000Z",
+          "wordCount": 7836,
+          "title": "2025’s Best ERC20 Wallets to Secure Your Tokens",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*no-IdaJESYNhyCuv1lPxnA.png"
+        },
+        {
+          "id": "https://medium.com/p/4046aa7e3a6a",
+          "author": "NordFX",
+          "description": "🚀 The Week Ahead: Risk is Back On! 📈",
+          "link": "https://medium.com/coinmonks/the-week-ahead-risk-is-back-on-4046aa7e3a6a?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-25T15:59:04.000Z",
+          "wordCount": 1528,
+          "title": "The Week Ahead: Risk is Back On!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/50a4b2ece613",
+          "author": "ZeroRequiem",
+          "description": "On August 5th, Odysee announced that advertisements have been completely removed from the largest web3 video-sharing platform.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/odysee-goes-ad-free-a-bold-move-that-challenges-the-youtube-empire-50a4b2ece613?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-25T15:59:02.000Z",
+          "wordCount": 1257,
+          "title": "Odysee Goes Ad-Free: A Bold Move that Challenges the YouTube Empire",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Bf4CmTrKxyNlMefklMuyFg.png"
+        },
+        {
+          "id": "https://medium.com/p/c344c77e1c88",
+          "author": "ZeroRequiem",
+          "description": "Kraken’s upcoming delisting of Monero (XMR) from Europe reflects the growing regulatory crackdown on…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/kraken-delists-monero-the-future-of-privacy-coins-are-under-attack-c344c77e1c88?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-25T15:59:00.000Z",
+          "wordCount": 1216,
+          "title": "Kraken Delists Monero: The Future of Privacy Coins Are Under Attack",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*OighQqNq1WxKVFHPiL3qEQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/03d738820882",
+          "author": "ZeroRequiem",
+          "description": "Liberland’s recent election of blockchain pioneer Justin Sun as Prime Minister marks a groundbreaking step toward…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/justin-sun-elected-as-prime-minster-of-liberland-a-new-frontier-for-blockchain-governance-03d738820882?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-25T15:58:58.000Z",
+          "wordCount": 1180,
+          "title": "Justin Sun Elected as Prime Minster of Liberland: A New Frontier for Blockchain Governance",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*pXvLPFdcKm35ROaYpkXmCg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/bd0cddff5314",
+          "author": "Blend Visions",
+          "description": "The cryptocurrency market is buzzing with excitement as Bitcoin approaches new heights, but many investors are asking the same question…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/when-will-altcoin-season-begin-a-data-driven-analysis-bd0cddff5314?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-25T15:58:56.000Z",
+          "wordCount": 1195,
+          "title": "When Will Altcoin Season Begin? A Data-Driven Analysis",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*57b8nEtV0NStB1R9cJbqeA.png"
+        },
         {
           "id": "https://medium.com/p/2a8bc76414d4",
           "author": "DcentAI",
@@ -140,89 +220,9 @@
           "description": "Introduction",
           "link": "https://medium.com/coinmonks/three-thoughts-on-the-cryptocurrency-phenomenon-6afb3e7bf4be?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-25T11:28:11.000Z",
-          "wordCount": 5196,
+          "wordCount": 5188,
           "title": "Three Thoughts on the Cryptocurrency Phenomenon",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*9ku6uNmNMAcYxbr4-nJZgg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/92196c6b2806",
-          "author": "0xf3rret",
-          "description": "Ah, the crypto world—where dreams of Lambos and moonshots are served alongside FOMO and memes. If you're reading this, you’ve likely been…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/hopium-detox-how-to-stay-grounded-in-the-wild-west-of-crypto-and-defi-92196c6b2806?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-25T11:28:10.000Z",
-          "wordCount": 1269,
-          "title": "Hopium Detox: How to Stay Grounded in the Wild West of Crypto and DeFi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2cf5f5723fa2",
-          "author": "Web3 Trends",
-          "description": "Grass Airdrop Season 2\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/grass-airdrop-season-2-2cf5f5723fa2?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-25T11:28:01.000Z",
-          "wordCount": 1176,
-          "title": "Grass Airdrop Season 2",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:450/0*O5jPsHjxTzdq-_bf"
-        },
-        {
-          "id": "https://medium.com/p/f87ac36dc9aa",
-          "author": "Lera",
-          "description": "Tips & Tricks",
-          "link": "https://medium.com/coinmonks/trading-rituals-the-key-to-successful-crypto-trading-f87ac36dc9aa?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-25T11:28:00.000Z",
-          "wordCount": 1909,
-          "title": "Trading Rituals: The Key to Successful Crypto Trading",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*2s20LuEnBXYltK4U.png"
-        },
-        {
-          "id": "https://medium.com/p/4ce6c359afd5",
-          "author": "Graphtronauts",
-          "description": "The missing key to unlocking the decentralized web",
-          "link": "https://medium.com/coinmonks/sintroducing-grc-20-redefining-knowledge-in-web3-4ce6c359afd5?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-25T11:27:55.000Z",
-          "wordCount": 2697,
-          "title": "sIntroducing GRC-20: Redefining Knowledge in Web3",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:766/1*ruO4GiwiAGh01mYBeAmOng.png"
-        },
-        {
-          "id": "https://medium.com/p/ff471e5539d3",
-          "author": "Johnwege",
-          "description": "Time is running out to be Early in Bitcoin..\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-sacrifice-today-for-a-better-future-ff471e5539d3?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-25T11:27:52.000Z",
-          "wordCount": 1353,
-          "title": "Bitcoin: Sacrifice Today For a Better Future",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*sq_dcd2Me_zT36s780qQiA.png"
-        },
-        {
-          "id": "https://medium.com/p/1f2fdb5a4be9",
-          "author": "Jesiel Deshpande",
-          "description": "Meme coins have always been an exciting part of the crypto market.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/exploring-of-meme-coins-top-picks-for-2025-1f2fdb5a4be9?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-25T11:27:50.000Z",
-          "wordCount": 1263,
-          "title": "Exploring of Meme Coins: Top picks for 2025",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*x3_OUneT_VIqVhgD"
-        },
-        {
-          "id": "https://medium.com/p/b26309377c5e",
-          "author": "Alertforalpha",
-          "description": "Ever wondered what blockchain really is? Let me simplify it for you!\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/blockchain-made-simple-its-not-hard-as-you-think-b26309377c5e?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-25T11:27:18.000Z",
-          "wordCount": 1246,
-          "title": "Blockchain Made Simple: It’s Not Hard as you Think",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*Nq3tcA3xC7EtB9mkS1793A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3b21f98644e5",
-          "author": "Solidity Academy",
-          "description": "Earn Crypto, Play Games, and Explore Telegram’s Best Airdrops!",
-          "link": "https://medium.com/coinmonks/discover-the-best-telegram-airdrop-bots-games-earn-crypto-while-you-play-3b21f98644e5?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-25T11:27:14.000Z",
-          "wordCount": 2203,
-          "title": "Discover the Best Telegram Airdrop BOTs & Games: Earn Crypto While You Play!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ojTlIKI5epqobODg8IwR3A.png"
         }
       ]
     },
@@ -237,7 +237,7 @@
           "description": "Introduction :",
           "link": "https://blog.blockmagnates.com/the-future-of-financial-payment-apps-in-web3-leveraging-polygon-miden-1545bcbfbcd3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:37.000Z",
-          "wordCount": 3262,
+          "wordCount": 3294,
           "title": "The Future of Financial Payment Apps in Web3: Leveraging Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1120/1*Vysgrw41u6PZ_MWwm8n7Gw.jpeg"
         },
@@ -247,7 +247,7 @@
           "description": "Abstract:",
           "link": "https://blog.blockmagnates.com/revolutionizing-crypto-off-ramping-a-decentralized-approach-with-upi-using-polygon-miden-35d2c2d4ce90?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:33.000Z",
-          "wordCount": 3313,
+          "wordCount": 3321,
           "title": "Revolutionizing Crypto Off-ramping: A Decentralized Approach with UPI Using Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WFx9CjxRc3CBXwyc9YCYqg.jpeg"
         },
@@ -277,7 +277,7 @@
           "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
           "link": "https://blog.blockmagnates.com/rareskills-solidity-interview-question-53-answered-why-shouldnt-upgradeable-contracts-use-the-89c1f6f1ebf1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-06T12:29:54.000Z",
-          "wordCount": 2351,
+          "wordCount": 2343,
           "title": "RareSkills Solidity Interview Question #53 Answered: Why shouldn’t upgradeable contracts use the…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xa6RJFkUdREepuB602MAbg.png"
         },
