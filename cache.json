@@ -53,7 +53,7 @@
           "description": "Overloading Functions in Solidity",
           "link": "https://coinsbench.com/day-14-a0ddc4ea7ed4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-25T12:32:10.000Z",
-          "wordCount": 1296,
+          "wordCount": 1288,
           "title": "Day 14",
           "imageUrl": null
         },
@@ -63,7 +63,7 @@
           "description": "Smart contracts in Solidity are inherently composable, meaning they can seamlessly interact with one another. This feature is crucial for…",
           "link": "https://coinsbench.com/day-12-storage-factory-building-composable-smart-contracts-89ec5bd2448b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-22T13:21:17.000Z",
-          "wordCount": 1639,
+          "wordCount": 1647,
           "title": "Day 12: Storage Factory — Building Composable Smart Contracts",
           "imageUrl": null
         },
@@ -73,7 +73,7 @@
           "description": "Hi there! in this tutorial we will learn about NFT (ERC-721) and how we can build our NFT Markerplace on the Ethereum network. check it…",
           "link": "https://coinsbench.com/building-your-own-nft-erc-721-marketplace-on-ethereum-network-with-solidity-73c738a6a713?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-22T13:21:15.000Z",
-          "wordCount": 4514,
+          "wordCount": 4506,
           "title": "Building Your Own NFT(ERC-721) Marketplace on Ethereum Network with Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bF6RapyM1QqmZooTmsLA7g.jpeg"
         },
@@ -93,7 +93,7 @@
           "description": "Deploying Your Own ERC-20 Token",
           "link": "https://coinsbench.com/basic-smart-contracts-f994a2e3eaa3?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-22T13:21:10.000Z",
-          "wordCount": 1568,
+          "wordCount": 1576,
           "title": "Basic Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1170/1*c95FdNI6sCI5UjKD75kVkw.jpeg"
         },
@@ -125,6 +125,16 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/efec2cebc1ea",
+          "author": "Coinmonks Team",
+          "description": "Telegram bots have changed crypto trading. Here are 10 of the best Telegram bots that support Ethereum trading in 2024. These bots…",
+          "link": "https://medium.com/coinmonks/8-best-telegram-bots-to-trade-on-ethereum-best-crypto-trading-bots-2024-efec2cebc1ea?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-28T16:32:15.000Z",
+          "wordCount": 2615,
+          "title": "9 Best Telegram Bots to Trade on Ethereum — Best Crypto Trading Bots 2024",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:878/1*wAPaZ7xp2mRFSvasPPT9eA.png"
+        },
+        {
           "id": "https://medium.com/p/076d6ccc5b11",
           "author": "0xf3rret",
           "description": "Continue reading on Coinmonks »",
@@ -140,7 +150,7 @@
           "description": "Cryptocurrency is at a tipping point, and platforms like Rango Exchange are leading the charge toward mass adoption. If you haven’t heard…",
           "link": "https://medium.com/coinmonks/rango-exchange-mass-crypto-adoption-5f3fc284436a?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-28T15:42:59.000Z",
-          "wordCount": 2117,
+          "wordCount": 2116,
           "title": "Rango Exchange: Mass Crypto Adoption",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BCfS2gneZjn3hZZRt5jOBg.jpeg"
         },
@@ -170,7 +180,7 @@
           "description": "(If you want to skip to screenshot examples go to the end)\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/creating-the-ultimate-crypto-trading-strategy-ict-indicators-0f13da2cfa27?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-28T15:42:45.000Z",
-          "wordCount": 1283,
+          "wordCount": 1282,
           "title": "Creating the Ultimate Crypto Trading Strategy: ICT + Indicators",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*AAOS4pqrZwuCmVhvnEobYg.png"
         },
@@ -180,7 +190,7 @@
           "description": "Unveiling Morpho’s $230K Oracle Vulnerability! See our analysis here",
           "link": "https://medium.com/coinmonks/decoding-morphoblues-230k-exploit-6296565ced40?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-28T15:42:26.000Z",
-          "wordCount": 1615,
+          "wordCount": 1614,
           "title": "Decoding MorphoBlue’s $230K Exploit",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*DhZp7fFDI69JXyE1m7JylQ.png"
         },
@@ -190,7 +200,7 @@
           "description": "On October 21, 2024, the VISTA Finance contract on Binance Smart Chain (BSC) was exploited due to a vulnerability in its integration of ERC20FlashMint with custom staking logic. This exploit allowed…",
           "link": "https://medium.com/coinmonks/decoding-vista-finances-28k-exploit-0ce54deffe09?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-28T15:42:19.000Z",
-          "wordCount": 1809,
+          "wordCount": 1801,
           "title": "Decoding Vista Finance’s $28K Exploit",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*R6Oqhut8df022x0BWYDEnA.png"
         },
@@ -200,7 +210,7 @@
           "description": "Overview",
           "link": "https://medium.com/coinmonks/decoding-deltaprimedefis-4-75-million-exploit-838c46e4daf8?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-28T15:42:13.000Z",
-          "wordCount": 2149,
+          "wordCount": 2156,
           "title": "Decoding DeltaPrimeDefi’s $4.75 Million Exploit",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*i53uITcaWgIW_ah3UMBQLQ.png"
         },
@@ -210,19 +220,9 @@
           "description": "Explore the future of Multi-Agent Systems in 2025. A complete guide to understanding, applications, and advancements in AI technology.",
           "link": "https://medium.com/coinmonks/multi-agent-system-an-complete-guide-for-2025-5861b7fa9797?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-28T13:42:07.000Z",
-          "wordCount": 14553,
+          "wordCount": 14560,
           "title": "Multi-Agent System: An Complete Guide For 2025",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*4HTNTQiE4UYt05WV.jpg"
-        },
-        {
-          "id": "https://medium.com/p/bd60bedec2f9",
-          "author": "Rachel Grace",
-          "description": "Implementing AI for workplace productivity improves team collaboration, decision-making, and task management. Learn how AI benefits every…",
-          "link": "https://medium.com/coinmonks/10-benefits-of-implementing-ai-for-workplace-productivity-bd60bedec2f9?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-28T13:42:05.000Z",
-          "wordCount": 3583,
-          "title": "10 Benefits of Implementing AI for Workplace Productivity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9mAsGk9Rs9Snodep1tAd4g.jpeg"
         }
       ]
     },
