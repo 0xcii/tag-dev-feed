@@ -63,7 +63,7 @@
           "description": "Smart contracts in Solidity are inherently composable, meaning they can seamlessly interact with one another. This feature is crucial for…",
           "link": "https://coinsbench.com/day-12-storage-factory-building-composable-smart-contracts-89ec5bd2448b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-22T13:21:17.000Z",
-          "wordCount": 1647,
+          "wordCount": 1639,
           "title": "Day 12: Storage Factory — Building Composable Smart Contracts",
           "imageUrl": null
         },
@@ -73,7 +73,7 @@
           "description": "Hi there! in this tutorial we will learn about NFT (ERC-721) and how we can build our NFT Markerplace on the Ethereum network. check it…",
           "link": "https://coinsbench.com/building-your-own-nft-erc-721-marketplace-on-ethereum-network-with-solidity-73c738a6a713?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-22T13:21:15.000Z",
-          "wordCount": 4506,
+          "wordCount": 4514,
           "title": "Building Your Own NFT(ERC-721) Marketplace on Ethereum Network with Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bF6RapyM1QqmZooTmsLA7g.jpeg"
         },
@@ -83,7 +83,7 @@
           "description": "In Solidity, following a clean code approach for functions helps in creating readable, maintainable, and efficient smart contracts. Here…",
           "link": "https://coinsbench.com/writing-clean-code-with-solidity-functions-ee417266120f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-22T13:21:12.000Z",
-          "wordCount": 2015,
+          "wordCount": 2024,
           "title": "Writing Clean Code with Solidity Functions ✨",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*G-aLXn01S2N8eonXdqy2yA.png"
         },
@@ -93,7 +93,7 @@
           "description": "Deploying Your Own ERC-20 Token",
           "link": "https://coinsbench.com/basic-smart-contracts-f994a2e3eaa3?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-22T13:21:10.000Z",
-          "wordCount": 1568,
+          "wordCount": 1576,
           "title": "Basic Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1170/1*c95FdNI6sCI5UjKD75kVkw.jpeg"
         },
@@ -113,7 +113,7 @@
           "description": "What is an EIP?",
           "link": "https://coinsbench.com/day-1eip-1559-lowering-ethereum-gas-fees-and-its-deflationary-potential-55c453c9b82a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-20T11:49:32.000Z",
-          "wordCount": 2161,
+          "wordCount": 2153,
           "title": "Day 1EIP 1559 — Lowering Ethereum Gas Fees and Its Deflationary Potential",
           "imageUrl": null
         }
@@ -125,12 +125,62 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/f291f716d192",
+          "author": "Rachel Grace",
+          "description": "Multimodal AI is revolutionizing industries by combining text, voice, and visual data, driving smarter decision-making and improving user…",
+          "link": "https://medium.com/coinmonks/how-multimodal-ai-is-transforming-industries-f291f716d192?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-28T09:50:41.000Z",
+          "wordCount": 3882,
+          "title": "How Multimodal AI is Transforming Industries?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*AcIAsCv0VOMVsDxx9skQIA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/7190b79b9e1f",
+          "author": "Aaron Abbott",
+          "description": "AI for order intelligence is revolutionizing retail and e-commerce by streamlining order management, boosting efficiency, and improving…",
+          "link": "https://medium.com/coinmonks/ai-for-order-intelligence-a-game-changer-for-retail-and-e-commerce-7190b79b9e1f?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-28T09:49:57.000Z",
+          "wordCount": 3746,
+          "title": "AI for Order Intelligence: A Game Changer for Retail and E-commerce",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*j7qkq2Xa09ijO5909-Rp7g.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/baf173527457",
+          "author": "Dinastafi",
+          "description": "DePIN sectors shaping future profits in 2025",
+          "link": "https://medium.com/coinmonks/top-10-depin-sectors-that-will-transform-the-profit-landscape-in-2025-baf173527457?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-28T09:49:47.000Z",
+          "wordCount": 7706,
+          "title": "Top 10 DePIN Sectors That Will Transform the Profit Landscape in 2025",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:768/1*jf1bvztwqsa-jtUayi_dgw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/316d626a7b01",
+          "author": "Justmy2Satoshis",
+          "description": "This fundamental analysis was published in a paywall restricted newsletter for cryptocurrency investors on July 11th 2024. The…",
+          "link": "https://medium.com/coinmonks/in-sync-with-the-scalability-narrative-zksync-fundamental-analysis-316d626a7b01?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-28T09:41:21.000Z",
+          "wordCount": 12783,
+          "title": "In-Sync with the Scalability Narrative — zkSync Fundamental Analysis",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1151/0*Nh0MXMMIPjXx1Kqt"
+        },
+        {
+          "id": "https://medium.com/p/1486af3aab3d",
+          "author": "Mark Timmis",
+          "description": "tl;dr\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-28th-november-2024-watford-f-c-tornado-cash-1486af3aab3d?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-11-28T09:40:17.000Z",
+          "wordCount": 1165,
+          "title": "Curious Cryptos’ Commentary 28th November 2024 — Watford F.C. & Tornado Cash",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1039/1*C7MI04I5zWY4UDsXts4DGg.png"
+        },
+        {
           "id": "https://medium.com/p/ff0eaab68c3b",
           "author": "Jimena",
           "description": "See how the top AI Agent Developers in the USA are setting benchmarks in innovation and performance for AI-powered business solutions in…",
           "link": "https://medium.com/coinmonks/top-20-ai-agent-builders-in-the-us-for-2024-2025-ff0eaab68c3b?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-28T07:54:23.000Z",
-          "wordCount": 4355,
+          "wordCount": 4354,
           "title": "Top 20 AI Agent Builders in the US for 2024–2025",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*FBaMqPs1mS4IkbVC2-_DNA.jpeg"
         },
@@ -150,7 +200,7 @@
           "description": "Cross-chain bridges enable blockchains to communicate and transfer assets across different networks, addressing the fragmentation in DeFi",
           "link": "https://medium.com/coinmonks/cross-chain-bridges-101-how-do-tokens-flow-between-blockchains-fd3615a879fb?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-28T07:20:24.000Z",
-          "wordCount": 3563,
+          "wordCount": 3555,
           "title": "Cross-Chain Bridges 101 — How do tokens flow between blockchains?",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*JEgppJ3WYyVqcXfp"
         },
@@ -173,56 +223,6 @@
           "wordCount": 6561,
           "title": "Satoshi’s Gift to the World: A Trojan Horse for Peace",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*w2crBz_4UubpIybgfBZI2g.png"
-        },
-        {
-          "id": "https://medium.com/p/472c4a3c56e1",
-          "author": "PVMihalache",
-          "description": "The destination was close! He could feel that every step on the road was getting him closer to the end of the adventure! The sadness was…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/a-holozing-inspired-story-the-destination-472c4a3c56e1?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-28T07:20:00.000Z",
-          "wordCount": 1404,
-          "title": "A Holozing Inspired Story! The Destination",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:582/0*1E3l0mNE5agZQc8a.png"
-        },
-        {
-          "id": "https://medium.com/p/4647a01c2069",
-          "author": "Anthony J Lynch",
-          "description": "Learn How To Claim Your Share of a Legendary Prize\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/can-you-solve-the-real-life-treasure-hunt-worth-over-2-million-4647a01c2069?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-28T07:19:55.000Z",
-          "wordCount": 1343,
-          "title": "Can You Solve the Real Life Treasure Hunt Worth Over $2 Million?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:612/1*3pLiDm1ICI9l0R9z23XpyQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/62bef1a28bdb",
-          "author": "Johnwege",
-          "description": "Time is running out.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-secret-to-building-generational-wealth-in-crypto-62bef1a28bdb?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-28T07:19:53.000Z",
-          "wordCount": 1295,
-          "title": "The Secret to Building Generational Wealth in Crypto",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*Fn3p4RBBaewDEoQuaFAIgw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d9b334082807",
-          "author": "Mathibharathi Mariselvan",
-          "description": "In an era where Crypto prices are on the rise, let’s not forget the importance of Crypto Payment Gateway in it. They have played a big…",
-          "link": "https://medium.com/coinmonks/top-crypto-payment-gateway-development-companies-d9b334082807?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-28T07:19:53.000Z",
-          "wordCount": 3847,
-          "title": "Top Crypto Payment Gateway Development Companies for 2025",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:856/1*GeZcmiorYUkukF-DjNHIvA.png"
-        },
-        {
-          "id": "https://medium.com/p/b5a3fec02864",
-          "author": "Linda Flowers",
-          "description": "Discover how LLM development services help build scalable AI models, driving innovation, efficiency, and growth for your business.",
-          "link": "https://medium.com/coinmonks/how-can-llm-development-services-create-scalable-ai-models-b5a3fec02864?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-11-28T07:19:49.000Z",
-          "wordCount": 8383,
-          "title": "How Can LLM Development Services Create Scalable AI Models?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*iXQSLDQTbbvcyDmsdOZhlQ.jpeg"
         }
       ]
     },
@@ -257,7 +257,7 @@
           "description": "The engine behind Ethereum",
           "link": "https://blog.blockmagnates.com/evm-08c7121dab01?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-18T12:49:05.000Z",
-          "wordCount": 4236,
+          "wordCount": 4244,
           "title": "EVM",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:905/1*NTxg-MtFG46XvcpO68YJow.png"
         },
@@ -267,7 +267,7 @@
           "description": "In my learning time on cyfrin updraft, I came across the different types of payment, and it was quite interesting as I took more time to…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/call-send-and-transfer-the-payment-gateway-for-web3-a420bec70105?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-12T08:41:13.000Z",
-          "wordCount": 1048,
+          "wordCount": 1056,
           "title": "Call, Send, and Transfer: The Payment gateway for Web3",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YoMN2shMOsCzJapr4_OujA.png"
         },
