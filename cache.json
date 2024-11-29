@@ -18,6 +18,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a5d093eb3b45",
+          "author": "Eshu Manohare",
+          "description": "Here I am documenting all the solutions to the riddles by rareskills (https://github.com/RareSkills/solidity-riddles/tree/main/contracts)",
+          "link": "https://coinsbench.com/rareskills-solidity-riddles-solutions-in-foundry-a5d093eb3b45?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-11-29T13:47:28.000Z",
+          "wordCount": 2157,
+          "title": "Rareskills Solidity Riddles Solutions in Foundry",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*y2rjw4q7ppR3rZ4Abw1t2A.png"
+        },
+        {
+          "id": "https://medium.com/p/cc436a4a1361",
+          "author": "Gurnoor Singh",
+          "description": "What is the Goal of the Contract?",
+          "link": "https://coinsbench.com/day-18-usage-of-libraries-in-solidity-the-key-to-modular-and-reusable-smart-contracts-cc436a4a1361?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-11-29T13:47:25.000Z",
+          "wordCount": 2014,
+          "title": "Day 18: Usage of Libraries in Solidity: The Key to Modular and Reusable Smart Contracts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b4ae908dd7dd",
+          "author": "Gabriel Rossi Lopes",
+          "description": "In the rapidly evolving world of blockchain technology, automating the deployment of smart contracts has become essential for developers…",
+          "link": "https://coinsbench.com/effortless-smart-contract-deployments-b4ae908dd7dd?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-11-29T13:47:22.000Z",
+          "wordCount": 3220,
+          "title": "Effortless Smart Contract Deployments",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1000/0*2TI_VZ6BnJjTRdbk"
+        },
+        {
+          "id": "https://medium.com/p/967077f491dd",
+          "author": "Jordan Type",
+          "description": "Writing smart contracts in Solidity requires careful attention to detail, not just for functionality, but also for maintainability…",
+          "link": "https://coinsbench.com/clean-code-in-solidity-building-a-smart-bookstore-contract-with-style-967077f491dd?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-11-29T13:47:19.000Z",
+          "wordCount": 2536,
+          "title": "Clean Code in Solidity: Building a Smart BookStore Contract with Style",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e45b735595a6",
+          "author": "Carine Insights",
+          "description": "Smart contracts, the revolutionary building blocks of blockchain technology, have transformed industries by automating trust and…",
+          "link": "https://coinsbench.com/how-to-identify-and-prevent-10-hidden-smart-contract-vulnerabilities-that-could-cost-you-millions-e45b735595a6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-11-29T13:47:15.000Z",
+          "wordCount": 3183,
+          "title": "How to Identify and Prevent 10 Hidden Smart Contract Vulnerabilities That Could Cost You Millions",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1112/0*cQqRW0deyeVgYp6x"
+        },
+        {
           "id": "https://medium.com/p/4f985764fe84",
           "author": "The Web3 Book",
           "description": "Decentralized Voting System",
@@ -53,7 +103,7 @@
           "description": "Overloading Functions in Solidity",
           "link": "https://coinsbench.com/day-14-a0ddc4ea7ed4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-25T12:32:10.000Z",
-          "wordCount": 1280,
+          "wordCount": 1296,
           "title": "Day 14",
           "imageUrl": null
         },
@@ -63,58 +113,8 @@
           "description": "Smart contracts in Solidity are inherently composable, meaning they can seamlessly interact with one another. This feature is crucial for…",
           "link": "https://coinsbench.com/day-12-storage-factory-building-composable-smart-contracts-89ec5bd2448b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-22T13:21:17.000Z",
-          "wordCount": 1639,
+          "wordCount": 1647,
           "title": "Day 12: Storage Factory — Building Composable Smart Contracts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/73c738a6a713",
-          "author": "Khoirul Aziz",
-          "description": "Hi there! in this tutorial we will learn about NFT (ERC-721) and how we can build our NFT Markerplace on the Ethereum network. check it…",
-          "link": "https://coinsbench.com/building-your-own-nft-erc-721-marketplace-on-ethereum-network-with-solidity-73c738a6a713?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-11-22T13:21:15.000Z",
-          "wordCount": 4506,
-          "title": "Building Your Own NFT(ERC-721) Marketplace on Ethereum Network with Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bF6RapyM1QqmZooTmsLA7g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ee417266120f",
-          "author": "Jordan Type",
-          "description": "In Solidity, following a clean code approach for functions helps in creating readable, maintainable, and efficient smart contracts. Here…",
-          "link": "https://coinsbench.com/writing-clean-code-with-solidity-functions-ee417266120f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-11-22T13:21:12.000Z",
-          "wordCount": 2024,
-          "title": "Writing Clean Code with Solidity Functions ✨",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*G-aLXn01S2N8eonXdqy2yA.png"
-        },
-        {
-          "id": "https://medium.com/p/f994a2e3eaa3",
-          "author": "The Web3 Book",
-          "description": "Deploying Your Own ERC-20 Token",
-          "link": "https://coinsbench.com/basic-smart-contracts-f994a2e3eaa3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-11-22T13:21:10.000Z",
-          "wordCount": 1576,
-          "title": "Basic Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1170/1*c95FdNI6sCI5UjKD75kVkw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/750ef3923f7d",
-          "author": "Burgossrodrigo",
-          "description": "UniswapV2 still relevant, most of the degen games happens there, so here’s my 2024 ultimate guide on how to, perfectly, tested, extract…",
-          "link": "https://coinsbench.com/best-way-ever-to-extract-token-price-from-uniswapv2-750ef3923f7d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-11-20T11:49:35.000Z",
-          "wordCount": 1498,
-          "title": "Best way ever to extract token price from UniswapV2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/55c453c9b82a",
-          "author": "Gurnoor Singh",
-          "description": "What is an EIP?",
-          "link": "https://coinsbench.com/day-1eip-1559-lowering-ethereum-gas-fees-and-its-deflationary-potential-55c453c9b82a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-11-20T11:49:32.000Z",
-          "wordCount": 2153,
-          "title": "Day 1EIP 1559 — Lowering Ethereum Gas Fees and Its Deflationary Potential",
           "imageUrl": null
         }
       ]
@@ -140,7 +140,7 @@
           "description": "or: Rethinking the Rules of the Bitcoin Economy",
           "link": "https://medium.com/coinmonks/bitcoin-and-the-future-of-investment-98c30249c1cc?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-29T06:37:34.000Z",
-          "wordCount": 3651,
+          "wordCount": 3658,
           "title": "Bitcoin And The Future Of Investment",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*gzzBFfcq-6FW2wTIYVdvDQ.jpeg"
         },
@@ -170,7 +170,7 @@
           "description": "It’s a memecoin frenzy: Shrub (SHRUB), up 113,335%… Nutcoin (NUT) +3,876%… Peanut the Squirrel (PNUT) +1,949%…",
           "link": "https://medium.com/coinmonks/are-memecoins-worth-investing-in-ffe26ead6311?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-29T06:37:09.000Z",
-          "wordCount": 2742,
+          "wordCount": 2735,
           "title": "Are memecoins worth investing in?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:883/1*q7PnI2y_rSdxPk5yRy7pMg.png"
         },
@@ -180,7 +180,7 @@
           "description": "Unlock Your Earning Potential with TONchi — Mine, Earn, and Thrive!",
           "link": "https://medium.com/coinmonks/discover-tonchi-the-ultimate-mine-to-earn-experience-f27357131660?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-29T06:37:05.000Z",
-          "wordCount": 1956,
+          "wordCount": 1948,
           "title": "Discover TONchi: The Ultimate Mine-to-Earn Experience! ✨",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wn9dNrhw7mxrn2Ofe3ifIw.png"
         },
@@ -190,7 +190,7 @@
           "description": "Follow Global Commodities News on Areas & Producers\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/market-news-bp-conocophillips-take-positions-in-global-energy-transition-5b414d6c3ef0?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-29T06:36:55.000Z",
-          "wordCount": 1301,
+          "wordCount": 1300,
           "title": "Market News: BP & ConocoPhillips Take Positions in Global Energy Transition",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*Wo3wOpFMHip0Tqwt"
         },
@@ -200,7 +200,7 @@
           "description": "Thanks Giving week and prices are relatively unchanged BTC still hovering just under 100k currently at 97k while ETH +8% Wow at 3600 and…",
           "link": "https://medium.com/coinmonks/all-been-crypto-week-29-nov-2024-38cec644bf3c?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-29T06:36:50.000Z",
-          "wordCount": 2717,
+          "wordCount": 2716,
           "title": "All Been Crypto — Week 29 Nov 2024",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*dm4c7wyeQnCojIJPvPZt8A.jpeg"
         },
@@ -210,7 +210,7 @@
           "description": "KIRHYIP, a premier AI crypto trading bot development company, and redefine your trading journey with intelligence, efficiency, and success.",
           "link": "https://medium.com/coinmonks/the-role-of-an-ai-crypto-trading-bot-development-company-febbb23a76b4?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-29T06:36:47.000Z",
-          "wordCount": 1864,
+          "wordCount": 1872,
           "title": "The Role of an AI Crypto Trading Bot Development Company",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-afURAmdAFjtzzVaWYlVwg.png"
         },
@@ -220,7 +220,7 @@
           "description": "Imagine a world where the boundaries between physical and digital reality blur, where you can express yourself, build businesses, connect…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/holiverse-mvs-your-gateway-to-the-future-of-digital-living-1d82993cbe47?source=rss----721b17443fd5---4",
           "publishedOn": "2024-11-29T06:36:17.000Z",
-          "wordCount": 1231,
+          "wordCount": 1239,
           "title": "Holiverse MVS: Your Gateway to the Future of Digital Living",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*et0JAMWqRHWSGfJzxB3bKg.jpeg"
         }
@@ -237,7 +237,7 @@
           "description": "Abstract",
           "link": "https://blog.blockmagnates.com/blockchain-cryptography-merkle-root-hash-and-nonce-in-polygon-miden-and-zk-ecosystems-22a4ead81305?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-29T13:05:05.000Z",
-          "wordCount": 2652,
+          "wordCount": 2660,
           "title": "Blockchain Cryptography: Merkle Root, Hash, and Nonce in Polygon Miden and ZK Ecosystems",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*2oyZ9h23Jysw2FsQx4_Q2w.jpeg"
         },
@@ -247,7 +247,7 @@
           "description": "Introduction :",
           "link": "https://blog.blockmagnates.com/the-future-of-financial-payment-apps-in-web3-leveraging-polygon-miden-1545bcbfbcd3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:37.000Z",
-          "wordCount": 3294,
+          "wordCount": 3286,
           "title": "The Future of Financial Payment Apps in Web3: Leveraging Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1120/1*Vysgrw41u6PZ_MWwm8n7Gw.jpeg"
         },
@@ -257,7 +257,7 @@
           "description": "Abstract:",
           "link": "https://blog.blockmagnates.com/revolutionizing-crypto-off-ramping-a-decentralized-approach-with-upi-using-polygon-miden-35d2c2d4ce90?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:33.000Z",
-          "wordCount": 3321,
+          "wordCount": 3313,
           "title": "Revolutionizing Crypto Off-ramping: A Decentralized Approach with UPI Using Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WFx9CjxRc3CBXwyc9YCYqg.jpeg"
         },
@@ -267,7 +267,7 @@
           "description": "The engine behind Ethereum",
           "link": "https://blog.blockmagnates.com/evm-08c7121dab01?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-18T12:49:05.000Z",
-          "wordCount": 4244,
+          "wordCount": 4236,
           "title": "EVM",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:905/1*NTxg-MtFG46XvcpO68YJow.png"
         },
@@ -277,7 +277,7 @@
           "description": "In my learning time on cyfrin updraft, I came across the different types of payment, and it was quite interesting as I took more time to…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/call-send-and-transfer-the-payment-gateway-for-web3-a420bec70105?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-12T08:41:13.000Z",
-          "wordCount": 1048,
+          "wordCount": 1056,
           "title": "Call, Send, and Transfer: The Payment gateway for Web3",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YoMN2shMOsCzJapr4_OujA.png"
         },
@@ -297,7 +297,7 @@
           "description": "Introduction:",
           "link": "https://blog.blockmagnates.com/polygon-protocols-with-polygon-miden-and-decentralized-web-nodes-pioneering-the-future-of-data-e1f04a2f67f2?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-01T18:44:44.000Z",
-          "wordCount": 3801,
+          "wordCount": 3793,
           "title": "Polygon Protocols EnablingPolygon Miden and Decentralized Web Nodes: Pioneering the Future of Data…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1120/1*uBfO7sPpah1sAgC0RtakhA.jpeg"
         }

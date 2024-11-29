@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-29T13:25:19.768Z</id>
+    <id>urn:2024-11-29T14:14:59.660Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-29T13:25:19.768Z</updated>
+    <updated>2024-11-29T14:14:59.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rareskills Solidity Riddles Solutions in Foundry]]></title>
+        <id>https://medium.com/p/a5d093eb3b45</id>
+        <link href="https://coinsbench.com/rareskills-solidity-riddles-solutions-in-foundry-a5d093eb3b45?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-29T13:47:28.000Z</updated>
+        <summary type="html"><![CDATA[Here I am documenting all the solutions to the riddles by rareskills (https://github.com/RareSkills/solidity-riddles/tree/main/contracts)]]></summary>
+        <author>
+            <name>Eshu Manohare</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 18: Usage of Libraries in Solidity: The Key to Modular and Reusable Smart Contracts]]></title>
+        <id>https://medium.com/p/cc436a4a1361</id>
+        <link href="https://coinsbench.com/day-18-usage-of-libraries-in-solidity-the-key-to-modular-and-reusable-smart-contracts-cc436a4a1361?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-29T13:47:25.000Z</updated>
+        <summary type="html"><![CDATA[What is the Goal of the Contract?]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effortless Smart Contract Deployments]]></title>
+        <id>https://medium.com/p/b4ae908dd7dd</id>
+        <link href="https://coinsbench.com/effortless-smart-contract-deployments-b4ae908dd7dd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-29T13:47:22.000Z</updated>
+        <summary type="html"><![CDATA[In the rapidly evolving world of blockchain technology, automating the deployment of smart contracts has become essential for developers…]]></summary>
+        <author>
+            <name>Gabriel Rossi Lopes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clean Code in Solidity: Building a Smart BookStore Contract with Style]]></title>
+        <id>https://medium.com/p/967077f491dd</id>
+        <link href="https://coinsbench.com/clean-code-in-solidity-building-a-smart-bookstore-contract-with-style-967077f491dd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-29T13:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Writing smart contracts in Solidity requires careful attention to detail, not just for functionality, but also for maintainability…]]></summary>
+        <author>
+            <name>Jordan Type</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Identify and Prevent 10 Hidden Smart Contract Vulnerabilities That Could Cost You Millions]]></title>
+        <id>https://medium.com/p/e45b735595a6</id>
+        <link href="https://coinsbench.com/how-to-identify-and-prevent-10-hidden-smart-contract-vulnerabilities-that-could-cost-you-millions-e45b735595a6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-29T13:47:15.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts, the revolutionary building blocks of blockchain technology, have transformed industries by automating trust and…]]></summary>
+        <author>
+            <name>Carine Insights</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blockchain Cryptography: Merkle Root, Hash, and Nonce in Polygon Miden and ZK Ecosystems]]></title>
         <id>https://medium.com/p/22a4ead81305</id>
@@ -185,56 +235,6 @@ Continue reading on Coinmonks »]]></summary>
         <link href="https://coinsbench.com/day-12-storage-factory-building-composable-smart-contracts-89ec5bd2448b?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-11-22T13:21:17.000Z</updated>
         <summary type="html"><![CDATA[Smart contracts in Solidity are inherently composable, meaning they can seamlessly interact with one another. This feature is crucial for…]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Your Own NFT(ERC-721) Marketplace on Ethereum Network with Solidity]]></title>
-        <id>https://medium.com/p/73c738a6a713</id>
-        <link href="https://coinsbench.com/building-your-own-nft-erc-721-marketplace-on-ethereum-network-with-solidity-73c738a6a713?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-22T13:21:15.000Z</updated>
-        <summary type="html"><![CDATA[Hi there! in this tutorial we will learn about NFT (ERC-721) and how we can build our NFT Markerplace on the Ethereum network. check it…]]></summary>
-        <author>
-            <name>Khoirul Aziz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing Clean Code with Solidity Functions ✨]]></title>
-        <id>https://medium.com/p/ee417266120f</id>
-        <link href="https://coinsbench.com/writing-clean-code-with-solidity-functions-ee417266120f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-22T13:21:12.000Z</updated>
-        <summary type="html"><![CDATA[In Solidity, following a clean code approach for functions helps in creating readable, maintainable, and efficient smart contracts. Here…]]></summary>
-        <author>
-            <name>Jordan Type</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basic Smart Contracts]]></title>
-        <id>https://medium.com/p/f994a2e3eaa3</id>
-        <link href="https://coinsbench.com/basic-smart-contracts-f994a2e3eaa3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-22T13:21:10.000Z</updated>
-        <summary type="html"><![CDATA[Deploying Your Own ERC-20 Token]]></summary>
-        <author>
-            <name>The Web3 Book</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best way ever to extract token price from UniswapV2]]></title>
-        <id>https://medium.com/p/750ef3923f7d</id>
-        <link href="https://coinsbench.com/best-way-ever-to-extract-token-price-from-uniswapv2-750ef3923f7d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-20T11:49:35.000Z</updated>
-        <summary type="html"><![CDATA[UniswapV2 still relevant, most of the degen games happens there, so here’s my 2024 ultimate guide on how to, perfectly, tested, extract…]]></summary>
-        <author>
-            <name>Burgossrodrigo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 1EIP 1559 — Lowering Ethereum Gas Fees and Its Deflationary Potential]]></title>
-        <id>https://medium.com/p/55c453c9b82a</id>
-        <link href="https://coinsbench.com/day-1eip-1559-lowering-ethereum-gas-fees-and-its-deflationary-potential-55c453c9b82a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-20T11:49:32.000Z</updated>
-        <summary type="html"><![CDATA[What is an EIP?]]></summary>
         <author>
             <name>Gurnoor Singh</name>
         </author>
