@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-30T13:21:07.613Z</id>
+    <id>urn:2024-11-30T14:12:55.245Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-30T13:21:07.613Z</updated>
+    <updated>2024-11-30T14:12:55.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mastering Blockchain Nodes: A Complete Guide ✨]]></title>
+        <id>https://medium.com/p/54e743fdc905</id>
+        <link href="https://coinsbench.com/mastering-blockchain-nodes-a-complete-guide-54e743fdc905?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-11-30T13:32:12.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology forms the backbone of decentralized systems, and nodes are the building blocks of this innovation. Whether you’re new…]]></summary>
+        <author>
+            <name>Solidity Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI and Blockchain: Redefining Smart Contracts for a Decentralized Future]]></title>
         <id>https://medium.com/p/4cb7edae5164</id>
@@ -235,16 +245,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Abstract:]]></summary>
         <author>
             <name>Drraghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 12: Storage Factory — Building Composable Smart Contracts]]></title>
-        <id>https://medium.com/p/89ec5bd2448b</id>
-        <link href="https://coinsbench.com/day-12-storage-factory-building-composable-smart-contracts-89ec5bd2448b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-22T13:21:17.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts in Solidity are inherently composable, meaning they can seamlessly interact with one another. This feature is crucial for…]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
         </author>
     </entry>
     <entry>
