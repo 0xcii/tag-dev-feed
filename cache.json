@@ -18,6 +18,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/c10611c02a4e",
+          "author": "Dery K. Yahya",
+          "description": "The concept and foundation of blockchain operations are referred to as consensus algorithms. These algorithms ensure data integrity…",
+          "link": "https://coinsbench.com/evaluating-blockchain-consensus-algorithms-c10611c02a4e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-02T13:24:43.000Z",
+          "wordCount": 2384,
+          "title": "Evaluating Blockchain Consensus Algorithms",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tlojV8LxbTb2pK9KFtW3Ig.png"
+        },
+        {
+          "id": "https://medium.com/p/232a169a9d0a",
+          "author": "Gurnoor Singh",
+          "description": "When working with Solidity, optimizing gas usage is a critical part of smart contract development. Two powerful tools for this optimization…",
+          "link": "https://coinsbench.com/day-23-gas-optimization-in-solidity-constant-vs-immutable-232a169a9d0a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-02T13:24:41.000Z",
+          "wordCount": 2077,
+          "title": "Day 23: Gas Optimization in Solidity: Constant vs. Immutable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0835a0cd1434",
+          "author": "Gurnoor Singh",
+          "description": "Gas efficiency is a key focus in Solidity development, and even seemingly small improvements can lead to significant savings. One such…",
+          "link": "https://coinsbench.com/day-24-optimizing-gas-in-solidity-with-custom-errors-and-reverts-0835a0cd1434?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-02T13:24:38.000Z",
+          "wordCount": 2186,
+          "title": "Day 24: Optimizing Gas in Solidity with Custom Errors and Reverts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/06d800bfb955",
+          "author": "Gurnoor Singh",
+          "description": "In Solidity, the receive() and fallback() functions play a crucial role in handling unexpected or direct interactions with smart contracts…",
+          "link": "https://coinsbench.com/day25-understanding-receive-and-fallback-in-solidity-a-deep-dive-06d800bfb955?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-02T13:24:36.000Z",
+          "wordCount": 2402,
+          "title": "Day 25: Understanding receive() and fallback() in Solidity: A Deep Dive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/db2d0ff3710b",
+          "author": "Magda  Jankowska",
+          "description": "You are using your smartphone to trade rare items in a video game, own a work of art, or invest in real estate. Sounds futuristic? This is…",
+          "link": "https://coinsbench.com/simplifying-the-digital-asset-the-tokens-db2d0ff3710b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-02T13:24:33.000Z",
+          "wordCount": 2306,
+          "title": "Simplifying the Digital Asset: The Tokens.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:926/1*A1Dlbm5mm3ehY1yGSK-MTA.jpeg"
+        },
+        {
           "id": "https://medium.com/p/54e743fdc905",
           "author": "Solidity Academy",
           "description": "Blockchain technology forms the backbone of decentralized systems, and nodes are the building blocks of this innovation. Whether you’re new…",
@@ -33,7 +83,7 @@
           "description": "Here I am documenting all the solutions to the riddles by rareskills (https://github.com/RareSkills/solidity-riddles/tree/main/contracts)",
           "link": "https://coinsbench.com/rareskills-solidity-riddles-solutions-in-foundry-a5d093eb3b45?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-29T13:47:28.000Z",
-          "wordCount": 2761,
+          "wordCount": 2753,
           "title": "Rareskills Solidity Riddles Solutions in Foundry",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*y2rjw4q7ppR3rZ4Abw1t2A.png"
         },
@@ -53,7 +103,7 @@
           "description": "In the rapidly evolving world of blockchain technology, automating the deployment of smart contracts has become essential for developers…",
           "link": "https://coinsbench.com/effortless-smart-contract-deployments-b4ae908dd7dd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-29T13:47:22.000Z",
-          "wordCount": 3220,
+          "wordCount": 3228,
           "title": "Effortless Smart Contract Deployments",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1000/0*2TI_VZ6BnJjTRdbk"
         },
@@ -63,58 +113,8 @@
           "description": "Writing smart contracts in Solidity requires careful attention to detail, not just for functionality, but also for maintainability…",
           "link": "https://coinsbench.com/clean-code-in-solidity-building-a-smart-bookstore-contract-with-style-967077f491dd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-29T13:47:19.000Z",
-          "wordCount": 2528,
+          "wordCount": 2536,
           "title": "Clean Code in Solidity: Building a Smart BookStore Contract with Style",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e45b735595a6",
-          "author": "Carine Insights",
-          "description": "Smart contracts, the revolutionary building blocks of blockchain technology, have transformed industries by automating trust and…",
-          "link": "https://coinsbench.com/how-to-identify-and-prevent-10-hidden-smart-contract-vulnerabilities-that-could-cost-you-millions-e45b735595a6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-11-29T13:47:15.000Z",
-          "wordCount": 3175,
-          "title": "How to Identify and Prevent 10 Hidden Smart Contract Vulnerabilities That Could Cost You Millions",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1112/0*cQqRW0deyeVgYp6x"
-        },
-        {
-          "id": "https://medium.com/p/4f985764fe84",
-          "author": "The Web3 Book",
-          "description": "Decentralized Voting System",
-          "link": "https://coinsbench.com/basic-smart-contracts-4f985764fe84?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-11-25T12:32:18.000Z",
-          "wordCount": 2146,
-          "title": "Basic Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YKAnmrs-j8q23TzH8D2jOg.png"
-        },
-        {
-          "id": "https://medium.com/p/204b6b3a2b27",
-          "author": "Ras",
-          "description": "In our previous article, “Create and Deploy an ERC-20 Token in 10 Minutes with Remix and OpenZeppelin”, we explored how to create and…",
-          "link": "https://coinsbench.com/building-on-our-laptop-token-smart-contract-journey-204b6b3a2b27?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-11-25T12:32:15.000Z",
-          "wordCount": 1775,
-          "title": "Building on Our Laptop Token Smart Contract Journey",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*n3VtkwUBIpt1NBW8i3ZhxQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/000e83283f69",
-          "author": "DSG",
-          "description": "Hellow h4ckers. So this is my 4th solve is TCP1P . Well this is a slightly different one. So let’s first go through the challenge…",
-          "link": "https://coinsbench.com/minecraft-huh-tcp1p-000e83283f69?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-11-25T12:32:13.000Z",
-          "wordCount": 1436,
-          "title": "Minecraft Huh TCP1P",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a0ddc4ea7ed4",
-          "author": "The Web3 Book",
-          "description": "Overloading Functions in Solidity",
-          "link": "https://coinsbench.com/day-14-a0ddc4ea7ed4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-11-25T12:32:10.000Z",
-          "wordCount": 1296,
-          "title": "Day 14",
           "imageUrl": null
         }
       ]
@@ -125,104 +125,104 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/b75f164b53d5",
-          "author": "Rachel Grace",
-          "description": "Ready to launch your AI business? Here are the top 10 AI startup ideas for 2025 that offer incredible growth potential and impact across…",
-          "link": "https://medium.com/coinmonks/top-10-best-ai-startup-ideas-to-start-in-2025-b75f164b53d5?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-02T07:52:58.000Z",
-          "wordCount": 3828,
-          "title": "Top 10 Best AI Startup Ideas to Start in 2025",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*f6N-3te5Gw7opT6adRC8ng.jpeg"
+          "id": "https://medium.com/p/560323dfeaed",
+          "author": "Codezeros",
+          "description": "In the rapidly evolving landscape of technology, blockchain stands out as a transformative force, particularly for enterprises. Custom…",
+          "link": "https://medium.com/coinmonks/why-custom-blockchain-solutions-are-key-for-enterprise-innovation-560323dfeaed?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-02T14:01:38.000Z",
+          "wordCount": 4227,
+          "title": "Why Custom Blockchain Solutions Are Key for Enterprise Innovation",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:768/1*4ueOlc0wCX3De4U238eM_g.jpeg"
         },
         {
-          "id": "https://medium.com/p/930f9a24236a",
-          "author": "Etherland",
-          "description": "In the 21st century, everyone needs a better data management solution for the real estate sector",
-          "link": "https://medium.com/coinmonks/decentralized-land-governance-a-game-changer-930f9a24236a?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-02T07:52:32.000Z",
-          "wordCount": 2957,
-          "title": "Decentralized Land Governance: A Game Changer?",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*_KluG2GvLCiLvPut"
-        },
-        {
-          "id": "https://medium.com/p/81497e724beb",
-          "author": "GeniusBot",
-          "description": "In the fast-paced world of cryptocurrencies, staying ahead of the market is crucial. But as the demand for 24/7 trading grows, manually…",
-          "link": "https://medium.com/coinmonks/geniusbot-your-smart-automated-trading-bot-for-solana-directly-on-telegram-81497e724beb?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-02T07:52:27.000Z",
-          "wordCount": 2597,
-          "title": "GeniusBot: Your Smart, Automated Trading Bot for Solana — Directly on Telegram",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*WyCXdjJM_HFOXenTVewfFg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/4dcb54788459",
-          "author": "Josephvj",
-          "description": "AI in manufacturing helps reduce waste, optimize processes, and enhance sustainability by improving efficiency and resource management.",
-          "link": "https://medium.com/coinmonks/the-role-of-ai-in-manufacturing-for-reducing-waste-and-improving-sustainability-4dcb54788459?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-02T07:52:26.000Z",
-          "wordCount": 4525,
-          "title": "The Role of AI in Manufacturing for Reducing Waste and Improving Sustainability",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1155/1*XIrlfDzjukmDFsduAt3AuA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/6d9938f6fd28",
-          "author": "GeniusBot",
-          "description": "Ready to automate your trading with GeniusBot? Follow this step-by-step guide to set up your bot and start trading in no time. Let’s dive…",
-          "link": "https://medium.com/coinmonks/how-to-set-up-a-geniusbot-trading-bot-in-4-simple-steps-6d9938f6fd28?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-02T07:52:22.000Z",
-          "wordCount": 1859,
-          "title": "How to Set Up a GeniusBot Trading Bot in 4 Simple Steps",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:335/1*VqbMdwjhnLYpL1QvUA3veQ.png"
-        },
-        {
-          "id": "https://medium.com/p/641a8a25c4c0",
+          "id": "https://medium.com/p/dcbe5535e743",
           "author": "Dinastafi",
-          "description": "Revolutionizing Crypto Trading with P2E Games",
-          "link": "https://medium.com/coinmonks/how-can-play-to-earn-games-revolutionize-crypto-exchange-apps-641a8a25c4c0?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-02T07:52:21.000Z",
-          "wordCount": 9798,
-          "title": "How Can Play-to-Earn Games Revolutionize Crypto Exchange Apps?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*44rLFy_Qs0e-HxEHh9QqCg.png"
+          "description": "Begin Your NFT Investment Journey in 2025",
+          "link": "https://medium.com/coinmonks/how-can-you-start-investing-in-nfts-in-2025-dcbe5535e743?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-02T14:01:34.000Z",
+          "wordCount": 9542,
+          "title": "How Can You Start Investing in NFTs in 2025?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YT8PYFXfme7hUkWULKvZcg.jpeg"
         },
         {
-          "id": "https://medium.com/p/16c14b92112f",
-          "author": "Marcochatt",
-          "description": "Tokenomics plays a Improtant role in determining the success of a cryptocurrency token by defining its utility, supply, and incentive…",
-          "link": "https://medium.com/coinmonks/how-tokenomics-shapes-the-success-of-your-cryptocurrency-token-16c14b92112f?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-02T07:52:18.000Z",
-          "wordCount": 2724,
-          "title": "How Tokenomics Shapes the Success of Your Cryptocurrency Token",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ikahpPKhU4OeGQwMvx99rA.png"
+          "id": "https://medium.com/p/3956c341be21",
+          "author": "Stanley Thomas",
+          "description": "AI-assisted support agents offer 24/7 customer service, reduce operational costs, and improve efficiency — transforming the way businesses…",
+          "link": "https://medium.com/coinmonks/how-can-ai-assisted-support-agents-improve-customer-service-3956c341be21?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-02T14:01:29.000Z",
+          "wordCount": 3730,
+          "title": "How Can AI-Assisted Support Agents Improve Customer Service?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BnSiXji10VxHdXIIkvPVKw.jpeg"
         },
         {
-          "id": "https://medium.com/p/1892c9e41993",
-          "author": "PVMihalache",
-          "description": "Few days ago I wrote about Straddl, and the extremely fast and low-cost bridging between Ethereum mainnet and layer2 chains! This is…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/across-the-cryptoverse-61-crypto-bonanza-with-straddl-x-across-x-intract-1892c9e41993?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-02T07:52:15.000Z",
-          "wordCount": 1337,
-          "title": "Across The Cryptoverse #61 — Crypto Bonanza With Straddl x Across x Intract",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:680/0*xWybcaggjm9L84dD"
+          "id": "https://medium.com/p/c5ea87e3e713",
+          "author": "Josephvj",
+          "description": "Explore key strategies for creating powerful AI code generation software that enhances efficiency, accuracy, and scalability in…",
+          "link": "https://medium.com/coinmonks/top-strategies-for-building-robust-ai-code-generation-software-c5ea87e3e713?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-02T14:01:22.000Z",
+          "wordCount": 4504,
+          "title": "Top Strategies for Building Robust AI Code Generation Software",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Iv_0A65fbNbNjVxd3Fok-w.jpeg"
         },
         {
-          "id": "https://medium.com/p/03e5cb2bd3c4",
+          "id": "https://medium.com/p/8e0d22ba3b11",
+          "author": "Coin Lore",
+          "description": "Discover the top blockchain gaming tokens revolutionizing the industry with play-to-earn mechanics, NFTs, and metaverse integration",
+          "link": "https://medium.com/coinmonks/leveling-up-9-gaming-coins-set-to-dominate-in-2025-plus-a-bonus-pick-8e0d22ba3b11?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-02T14:01:14.000Z",
+          "wordCount": 2395,
+          "title": "Leveling Up: 9 Gaming Coins Set to Dominate in 2025 (Plus a Bonus Pick!)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d9310c3aa650",
+          "author": "Trader FX",
+          "description": "Bandwidth Monetisation: Turning Data Into Dollars\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-art-of-bandwidth-monetisation-turning-data-into-dollars-d9310c3aa650?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-02T14:01:06.000Z",
+          "wordCount": 1256,
+          "title": "The Art of Bandwidth Monetisation: Turning Data Into Dollars",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:811/1*oFH_MRcLKCCZHL9fCTSCFg.png"
+        },
+        {
+          "id": "https://medium.com/p/74c15f9a3865",
+          "author": "CRYPTO BOTMON NUWZ",
+          "description": "The XRP cryptocurrency landscape has evolved, and meme coins have emerged as a prominent category within the market. As traders seek…",
+          "link": "https://medium.com/coinmonks/trading-meme-coins-on-the-xrp-ledger-74c15f9a3865?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-02T14:00:57.000Z",
+          "wordCount": 2537,
+          "title": "Trading Meme Coins On the XRP Ledger",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*scUVSLL-S-MmU7R6cSLV5A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/8608905a239b",
+          "author": "Wasiu Akindoyin",
+          "description": "Most explanations of blockchain platforms focus on technical details, but what drew me to Velas was discovering that these details are just…",
+          "link": "https://medium.com/coinmonks/velas-for-developers-8608905a239b?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-02T14:00:50.000Z",
+          "wordCount": 2108,
+          "title": "Velas for Developers",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1120/1*HWUNlHOJ0WcG8oPY0SFeTg.png"
+        },
+        {
+          "id": "https://medium.com/p/0537437e8fd4",
           "author": "Aaron Abbott",
-          "description": "Get an in-depth guide to Ludo game development costs and how factors like features, design, and platform impact the final price.",
-          "link": "https://medium.com/coinmonks/how-much-does-it-cost-to-develop-a-ludo-game-03e5cb2bd3c4?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-02T07:52:12.000Z",
-          "wordCount": 3559,
-          "title": "How Much Does It Cost to Develop a Ludo Game?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LSGGe8pFGfkcVSnmW1P9pQ.jpeg"
+          "description": "Dive into the top AI capabilities transforming industries and giving businesses a significant edge in the marketplace.",
+          "link": "https://medium.com/coinmonks/ai-capabilities-changing-the-way-businesses-compete-0537437e8fd4?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-02T14:00:42.000Z",
+          "wordCount": 2990,
+          "title": "AI Capabilities Changing the Way Businesses Compete",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*DytydEWc1HdGxOhGbsZxTw.jpeg"
         },
         {
-          "id": "https://medium.com/p/3de4a0ac822a",
-          "author": "Jimena",
-          "description": "AI service desk solutions deliver consistent, error-free support, ensuring customers experience faster resolutions and efficient service…",
-          "link": "https://medium.com/coinmonks/how-ai-service-desk-solutions-improve-customer-experience-3de4a0ac822a?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-02T07:52:04.000Z",
-          "wordCount": 3454,
-          "title": "How AI Service Desk Solutions Improve Customer Experience?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*X04DqiMBUq1kqP8s-9iWzA.jpeg"
+          "id": "https://medium.com/p/ba6ad9dcf99a",
+          "author": "Linda Flowers",
+          "description": "Learn how to build a robust private LLM for real-time applications with scalable, secure, and efficient solutions.",
+          "link": "https://medium.com/coinmonks/how-to-build-a-robust-private-llm-for-real-time-applications-ba6ad9dcf99a?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-02T14:00:37.000Z",
+          "wordCount": 11644,
+          "title": "How to Build a Robust Private LLM for Real-Time Applications?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*H3HjUumjl2t-96Sn.png"
         }
       ]
     },
@@ -231,6 +231,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/eaf076d9c78b",
+          "author": "0xNazu.sol",
+          "description": "In our EVM article, we mentioned that smart contracts can call each other. This time, we’re focusing on another case: smart contracts can…",
+          "link": "https://blog.blockmagnates.com/evm-smart-contract-calls-part-2-eaf076d9c78b?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-12-02T13:36:45.000Z",
+          "wordCount": 2220,
+          "title": "EVM: Smart Contract Calls (Part 2)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1L0OvTXxCkF7J5YMXJIVaQ.png"
+        },
         {
           "id": "https://medium.com/p/4cb7edae5164",
           "author": "Saksham Verma",
@@ -257,7 +267,7 @@
           "description": "Introduction :",
           "link": "https://blog.blockmagnates.com/the-future-of-financial-payment-apps-in-web3-leveraging-polygon-miden-1545bcbfbcd3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:37.000Z",
-          "wordCount": 3294,
+          "wordCount": 3286,
           "title": "The Future of Financial Payment Apps in Web3: Leveraging Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1120/1*Vysgrw41u6PZ_MWwm8n7Gw.jpeg"
         },
@@ -267,7 +277,7 @@
           "description": "Abstract:",
           "link": "https://blog.blockmagnates.com/revolutionizing-crypto-off-ramping-a-decentralized-approach-with-upi-using-polygon-miden-35d2c2d4ce90?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:33.000Z",
-          "wordCount": 3313,
+          "wordCount": 3321,
           "title": "Revolutionizing Crypto Off-ramping: A Decentralized Approach with UPI Using Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WFx9CjxRc3CBXwyc9YCYqg.jpeg"
         },
@@ -277,7 +287,7 @@
           "description": "The engine behind Ethereum",
           "link": "https://blog.blockmagnates.com/evm-08c7121dab01?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-18T12:49:05.000Z",
-          "wordCount": 4244,
+          "wordCount": 4236,
           "title": "EVM",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:905/1*NTxg-MtFG46XvcpO68YJow.png"
         },
@@ -287,7 +297,7 @@
           "description": "In my learning time on cyfrin updraft, I came across the different types of payment, and it was quite interesting as I took more time to…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/call-send-and-transfer-the-payment-gateway-for-web3-a420bec70105?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-12T08:41:13.000Z",
-          "wordCount": 1048,
+          "wordCount": 1056,
           "title": "Call, Send, and Transfer: The Payment gateway for Web3",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YoMN2shMOsCzJapr4_OujA.png"
         },
