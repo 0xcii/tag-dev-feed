@@ -63,7 +63,7 @@
           "description": "You are using your smartphone to trade rare items in a video game, own a work of art, or invest in real estate. Sounds futuristic? This is…",
           "link": "https://coinsbench.com/simplifying-the-digital-asset-the-tokens-db2d0ff3710b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:33.000Z",
-          "wordCount": 2314,
+          "wordCount": 2306,
           "title": "Simplifying the Digital Asset: The Tokens.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:926/1*A1Dlbm5mm3ehY1yGSK-MTA.jpeg"
         },
@@ -73,7 +73,7 @@
           "description": "Blockchain technology forms the backbone of decentralized systems, and nodes are the building blocks of this innovation. Whether you’re new…",
           "link": "https://coinsbench.com/mastering-blockchain-nodes-a-complete-guide-54e743fdc905?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-30T13:32:12.000Z",
-          "wordCount": 2024,
+          "wordCount": 2016,
           "title": "Mastering Blockchain Nodes: A Complete Guide ✨",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*eBb4WicUbj2UcCOt"
         },
@@ -83,7 +83,7 @@
           "description": "Here I am documenting all the solutions to the riddles by rareskills (https://github.com/RareSkills/solidity-riddles/tree/main/contracts)",
           "link": "https://coinsbench.com/rareskills-solidity-riddles-solutions-in-foundry-a5d093eb3b45?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-29T13:47:28.000Z",
-          "wordCount": 2761,
+          "wordCount": 2753,
           "title": "Rareskills Solidity Riddles Solutions in Foundry",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*y2rjw4q7ppR3rZ4Abw1t2A.png"
         },
@@ -93,7 +93,7 @@
           "description": "What is the Goal of the Contract?",
           "link": "https://coinsbench.com/day-18-usage-of-libraries-in-solidity-the-key-to-modular-and-reusable-smart-contracts-cc436a4a1361?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-29T13:47:25.000Z",
-          "wordCount": 2022,
+          "wordCount": 2014,
           "title": "Day 18: Usage of Libraries in Solidity: The Key to Modular and Reusable Smart Contracts",
           "imageUrl": null
         },
@@ -125,12 +125,62 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/6bd70d472502",
+          "author": "Marcomega",
+          "description": "In this blog we’ll explain cost of both private and public blockchain development, everything from development to maintanance.",
+          "link": "https://medium.com/coinmonks/how-much-cost-of-building-a-private-blockchain-compared-to-public-blockchain-6bd70d472502?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-03T15:36:28.000Z",
+          "wordCount": 3060,
+          "title": "How Much Cost Of Building A Private Blockchain Compared To Public Blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*a7vV44LdQK9XJr89JGJu9g.png"
+        },
+        {
+          "id": "https://medium.com/p/972a34576d22",
+          "author": "Stanley Thomas",
+          "description": "10 top firms are leading AI Development with $100M+ investments, fueling innovations in enterprise tools, healthcare AI, and transformative…",
+          "link": "https://medium.com/coinmonks/top-10-companies-raising-over-100-million-in-ai-investments-972a34576d22?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-03T15:36:26.000Z",
+          "wordCount": 2039,
+          "title": "Top 10 Companies Raising Over $100 Million in AI Investments",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vanfpEkwh_JpcK4g7bORwg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/1358904c7ea3",
+          "author": "Fadai Mammadov",
+          "description": "In the previous articles I showed how you can fetch price data on MetaTrader 5, a popular trading platform. It’s easy to do it for a…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/how-to-export-price-data-from-metatrader-5-with-python-1358904c7ea3?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-03T15:36:21.000Z",
+          "wordCount": 1237,
+          "title": "How to export price data from MetaTrader 5 with Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0eeed07007c0",
+          "author": "Jordan Bonnici",
+          "description": "Or is Ethereum the Calm Before the Storm?\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/are-altcoins-racing-ahead-of-reality-0eeed07007c0?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-03T15:36:21.000Z",
+          "wordCount": 1252,
+          "title": "Are Altcoins Racing Ahead of Reality?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*RstHEBGY7jZg5GQ50YdECQ.png"
+        },
+        {
+          "id": "https://medium.com/p/9301295c8386",
+          "author": "NEFTURE SECURITY I Blockchain Security",
+          "description": "In November 2024, $132 million was stolen through various crypto crimes, with hacks alone accounting for over $99 million. Of this, $25.2…",
+          "link": "https://medium.com/coinmonks/132m-stolen-through-crypto-crimes-top-5-crypto-hacks-of-november-2024-9301295c8386?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-03T15:36:16.000Z",
+          "wordCount": 2230,
+          "title": "$132M Stolen Through Crypto Crimes — Top 5 Crypto Hacks of November 2024",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NV_cdkaVhbehoS32LJnOKw.png"
+        },
+        {
           "id": "https://medium.com/p/a1a6a39e51a5",
           "author": "Josephvj",
           "description": "Explore key strategies for integrating generative AI into customer service to enhance efficiency, personalization, and customer…",
           "link": "https://medium.com/coinmonks/top-strategies-for-building-generative-ai-in-customer-service-a1a6a39e51a5?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T14:58:13.000Z",
-          "wordCount": 4443,
+          "wordCount": 4444,
           "title": "Top Strategies for Building Generative AI in Customer Service",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0awb2JfyWSrlTBdTzIZmng.jpeg"
         },
@@ -140,7 +190,7 @@
           "description": "Have you ever scrolled through social media and stumbled upon the lavish life of Bobby Saputra?\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/no-bobby-saputra-is-not-really-a-billionaire-4bf27e6f3252?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T14:58:09.000Z",
-          "wordCount": 1131,
+          "wordCount": 1123,
           "title": "No, Bobby Saputra is not really a billionaire.",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*sCVfKpiPeD-kRc5H"
         },
@@ -150,7 +200,7 @@
           "description": "Stocks are making both headlines and fortunes once again. But this time, the growth isn’t just limited to the US and Europe; long-suffering…",
           "link": "https://medium.com/coinmonks/chinese-stocks-catch-investors-eyes-5649d5247558?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T14:58:06.000Z",
-          "wordCount": 2570,
+          "wordCount": 2578,
           "title": "Chinese stocks catch investors’ eyes",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*WLuhPD5--OSd3ZrtOpatwQ.jpeg"
         },
@@ -170,59 +220,9 @@
           "description": "Wondering how Web3 compares to the internet we know? The future starts now.”\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/web3-adoption-the-internets-next-evolution-f88edef69a52?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T14:57:57.000Z",
-          "wordCount": 1145,
+          "wordCount": 1153,
           "title": "Web3 Adoption: The Internet’s Next Evolution",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*fDXjuzkQ0ze54iZQ-kQXIA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/710284124129",
-          "author": "Jimena",
-          "description": "AI marketing strategies for 2024–2025: Improve customer targeting, automate tasks, and create personalized experiences to increase…",
-          "link": "https://medium.com/coinmonks/top-10-ai-powered-marketing-strategies-for-2024-2025-710284124129?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-03T14:57:54.000Z",
-          "wordCount": 3565,
-          "title": "Top 10 AI-Powered Marketing Strategies for 2024–2025",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:809/1*jgf2RPuKm0ywAyHcHqZ0wA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/540dc03925dd",
-          "author": "Blend Visions",
-          "description": "On the fast-moving scene of cryptocurrency, memecoins are a captivating phenomenon. The inspiration behind these digital currencies is…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/top-5-memecoins-to-invest-in-for-millionaire-potential-by-2025-540dc03925dd?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-03T14:55:18.000Z",
-          "wordCount": 1235,
-          "title": "Top 5 Memecoins to Invest in for Millionaire Potential by 2025",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KeAQDON45f56kL2QKcfazQ.png"
-        },
-        {
-          "id": "https://medium.com/p/2e29ab4822b9",
-          "author": "Pisu",
-          "description": "Or how I managed to uncover the last secrets of Bitcoin’s price development",
-          "link": "https://medium.com/coinmonks/bitcoin-will-probably-reach-500k-by-mid-2025-2e29ab4822b9?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-03T14:55:14.000Z",
-          "wordCount": 5423,
-          "title": "Bitcoin will probably reach 500k by mid-2025",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*InW4iuwARqDhJgoJXskoOA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ecde16130fce",
-          "author": "Alertforalpha",
-          "description": "Navigating Web3? Learn how to protect your crypto and NFTs from phishing scams.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/web3-phishing-attacks-how-to-stay-safe-as-a-beginner-ecde16130fce?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-03T14:55:11.000Z",
-          "wordCount": 1251,
-          "title": "Web3 Phishing Attacks: How to Stay Safe as a Beginner",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*ogLEHMEK__K-kCPYTiALZQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/38e60e067269",
-          "author": "Coinmonks Team",
-          "description": "Telegram trading bots are automated programs that assist in cryptocurrency trading directly on the Telegram platform. They simplify…",
-          "link": "https://medium.com/coinmonks/best-telegram-bots-to-trade-on-pump-fun-38e60e067269?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-03T12:58:15.000Z",
-          "wordCount": 3092,
-          "title": "Best Telegram bots to Trade on PUMP FUN",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:433/0*tJT1lz0X2VbxJxT9"
         }
       ]
     },
@@ -257,7 +257,7 @@
           "description": "This blog aims to explicate the joint synergistic relationship between AI and blockchain while discussing some real-life use cases and…",
           "link": "https://blog.blockmagnates.com/ai-and-blockchain-redefining-smart-contracts-for-a-decentralized-future-4cb7edae5164?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-30T10:48:33.000Z",
-          "wordCount": 2729,
+          "wordCount": 2737,
           "title": "AI and Blockchain: Redefining Smart Contracts for a Decentralized Future",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:626/1*VOPvrUwljjip5oGjnTnnaw.jpeg"
         },
@@ -267,7 +267,7 @@
           "description": "Abstract",
           "link": "https://blog.blockmagnates.com/blockchain-cryptography-merkle-root-hash-and-nonce-in-polygon-miden-and-zk-ecosystems-22a4ead81305?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-29T13:05:05.000Z",
-          "wordCount": 2652,
+          "wordCount": 2660,
           "title": "Blockchain Cryptography: Merkle Root, Hash, and Nonce in Polygon Miden and ZK Ecosystems",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*2oyZ9h23Jysw2FsQx4_Q2w.jpeg"
         },
@@ -277,7 +277,7 @@
           "description": "Introduction :",
           "link": "https://blog.blockmagnates.com/the-future-of-financial-payment-apps-in-web3-leveraging-polygon-miden-1545bcbfbcd3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:37.000Z",
-          "wordCount": 3294,
+          "wordCount": 3286,
           "title": "The Future of Financial Payment Apps in Web3: Leveraging Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1120/1*Vysgrw41u6PZ_MWwm8n7Gw.jpeg"
         },
