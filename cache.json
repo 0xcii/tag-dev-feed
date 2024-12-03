@@ -23,7 +23,7 @@
           "description": "The concept and foundation of blockchain operations are referred to as consensus algorithms. These algorithms ensure data integrity…",
           "link": "https://coinsbench.com/evaluating-blockchain-consensus-algorithms-c10611c02a4e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:43.000Z",
-          "wordCount": 2384,
+          "wordCount": 2376,
           "title": "Evaluating Blockchain Consensus Algorithms",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tlojV8LxbTb2pK9KFtW3Ig.png"
         },
@@ -33,7 +33,7 @@
           "description": "When working with Solidity, optimizing gas usage is a critical part of smart contract development. Two powerful tools for this optimization…",
           "link": "https://coinsbench.com/day-23-gas-optimization-in-solidity-constant-vs-immutable-232a169a9d0a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:41.000Z",
-          "wordCount": 2069,
+          "wordCount": 2077,
           "title": "Day 23: Gas Optimization in Solidity: Constant vs. Immutable",
           "imageUrl": null
         },
@@ -103,7 +103,7 @@
           "description": "In the rapidly evolving world of blockchain technology, automating the deployment of smart contracts has become essential for developers…",
           "link": "https://coinsbench.com/effortless-smart-contract-deployments-b4ae908dd7dd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-29T13:47:22.000Z",
-          "wordCount": 3228,
+          "wordCount": 3220,
           "title": "Effortless Smart Contract Deployments",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1000/0*2TI_VZ6BnJjTRdbk"
         },
@@ -125,12 +125,32 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/38e60e067269",
+          "author": "Coinmonks Team",
+          "description": "Telegram trading bots are automated programs that assist in cryptocurrency trading directly on the Telegram platform. They simplify…",
+          "link": "https://medium.com/coinmonks/best-telegram-bots-to-trade-on-pump-fun-38e60e067269?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-03T12:58:15.000Z",
+          "wordCount": 3083,
+          "title": "Best Telegram bots to Trade on PUMP FUN",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:433/0*tJT1lz0X2VbxJxT9"
+        },
+        {
+          "id": "https://medium.com/p/2c095bef6cd7",
+          "author": "Coinmonks Team",
+          "description": "As cryptocurrency trading tools evolve, traders face a growing choice between decentralized exchanges and AI-powered bots.",
+          "link": "https://medium.com/coinmonks/dbot-dex-vs-sol-trading-bot-vs-trojan-bot-2c095bef6cd7?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-03T12:43:21.000Z",
+          "wordCount": 1980,
+          "title": "DBOT DEX vs. SOL Trading Bot vs. Trojan Bot",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JBY9Ol5LTViykX9gKSqVzw.png"
+        },
+        {
           "id": "https://medium.com/p/25efaefd056f",
           "author": "Coinmonks Team",
           "description": "The rapidly evolving cryptocurrency market demands tools that enhance trading efficiency, security, and profitability. Three prominent bots…",
           "link": "https://medium.com/coinmonks/sol-trading-bot-vs-shuriken-vs-bullx-25efaefd056f?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T12:18:44.000Z",
-          "wordCount": 1839,
+          "wordCount": 1848,
           "title": "SOL Trading Bot vs. Shuriken vs. BullX",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:446/1*L4QZsoDk-BR2tZIMnG6-_w.png"
         },
@@ -140,7 +160,7 @@
           "description": "Get in Front of 50k Tech Leaders: Grow With Us — Let Us Feature Your Business.",
           "link": "https://medium.com/coinmonks/%EF%B8%8Fis-ai-fueling-warfare-fc976f76d6cd?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T09:29:20.000Z",
-          "wordCount": 2857,
+          "wordCount": 2849,
           "title": "⚔️Is AI Fueling Warfare?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*5DuHQYELf-UmW7WH.png"
         },
@@ -160,7 +180,7 @@
           "description": "“Merge” went live in September’22 when Ethereum changed its consensus mechanism from Proof-of-Work (PoW) to Proof-of-Stake (PoS). This…",
           "link": "https://medium.com/coinmonks/1-merge-improving-on-proof-of-stake-d03e1e07ab2e?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T09:28:53.000Z",
-          "wordCount": 3018,
+          "wordCount": 3026,
           "title": "1. Merge — Improving on Proof-of-Stake",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1167/1*G8vzRFWhIk23smIGuZ9DFw.png"
         },
@@ -170,7 +190,7 @@
           "description": "While “Merge” focuses on optimizing the Proof-of-Stake mechanism, “Surge” is focused on Scaling—speed, throughput, and…",
           "link": "https://medium.com/coinmonks/2-surge-how-will-ethereum-scale-5fed48a79dde?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T09:28:49.000Z",
-          "wordCount": 3634,
+          "wordCount": 3626,
           "title": "2. Surge — How will Ethereum scale?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:873/1*5DMVXmHBmGduMxSF5UX1Cw.png"
         },
@@ -180,7 +200,7 @@
           "description": "Earlier this year, Peter Szilagyi, a leading Ethereum Developer, said, \"Ethereum was losing the plot.” The research team was good at…",
           "link": "https://medium.com/coinmonks/3-scourge-stop-centralization-d2f62d93c8e6?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T09:28:47.000Z",
-          "wordCount": 3488,
+          "wordCount": 3496,
           "title": "3. Scourge — Stop centralization",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*XKwe2JY5g27kPno4IsIRaQ.png"
         },
@@ -190,7 +210,7 @@
           "description": "Hint: the answer is nowhere to be found on a chart\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/the-biggest-play-in-crypto-is-likely-something-youve-never-heard-before-734b54d777bd?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T09:28:43.000Z",
-          "wordCount": 1270,
+          "wordCount": 1278,
           "title": "The Biggest Play In Crypto Is Likely Something You’ve Never Heard Before",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1004/1*E9b4saXXC_9lSJi9py7e8g.jpeg"
         },
@@ -203,26 +223,6 @@
           "wordCount": 1540,
           "title": "Unlock the Power of Smart Contracts with an Exclusive Black Friday Deal!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8hwXtxgA_JwgmVsMRnJfDA.png"
-        },
-        {
-          "id": "https://medium.com/p/5cc5b502c462",
-          "author": "World As One 4PEACE",
-          "description": "Follow Areas & Producers to see what’s trending in current affairs topics, economy headlines, global commodities markets and future trends!\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/top-stories-in-world-politics-economy-5cc5b502c462?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-03T09:28:32.000Z",
-          "wordCount": 1306,
-          "title": "Top Stories in World Politics & Economy!",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*HidL47-f_suGgVOm"
-        },
-        {
-          "id": "https://medium.com/p/0ee0e4a042ee",
-          "author": "Stephen McBride",
-          "description": "The next 100x crypto probably won’t be a memecoin.",
-          "link": "https://medium.com/coinmonks/where-to-look-for-the-next-100x-crypto-0ee0e4a042ee?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-03T09:28:30.000Z",
-          "wordCount": 2655,
-          "title": "Where to look for the next 100x crypto?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:576/1*yWKTpIAk1OSjrxn22OBHGg.jpeg"
         }
       ]
     },
@@ -237,7 +237,7 @@
           "description": "In our previous article, “Ethereum: Introduction to ERC20 Tokens,” we covered the theory behind ERC20 tokens. Now it’s time to put that…",
           "link": "https://blog.blockmagnates.com/building-and-testing-your-first-erc20-token-a-hands-on-guide-946eb89b833b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-12-03T12:21:03.000Z",
-          "wordCount": 2188,
+          "wordCount": 2196,
           "title": "Building and Testing Your First ERC20 Token: A Hands-On Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*VQox-0dIf3sA1qdgaOTjpg.png"
         },
@@ -247,7 +247,7 @@
           "description": "In our EVM article, we mentioned that smart contracts can call each other. This time, we’re focusing on another case: smart contracts can…",
           "link": "https://blog.blockmagnates.com/evm-smart-contract-calls-part-2-eaf076d9c78b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-12-02T13:36:45.000Z",
-          "wordCount": 2212,
+          "wordCount": 2220,
           "title": "EVM: Smart Contract Calls (Part 2)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1L0OvTXxCkF7J5YMXJIVaQ.png"
         },
@@ -257,7 +257,7 @@
           "description": "This blog aims to explicate the joint synergistic relationship between AI and blockchain while discussing some real-life use cases and…",
           "link": "https://blog.blockmagnates.com/ai-and-blockchain-redefining-smart-contracts-for-a-decentralized-future-4cb7edae5164?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-30T10:48:33.000Z",
-          "wordCount": 2729,
+          "wordCount": 2737,
           "title": "AI and Blockchain: Redefining Smart Contracts for a Decentralized Future",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:626/1*VOPvrUwljjip5oGjnTnnaw.jpeg"
         },
@@ -277,7 +277,7 @@
           "description": "Introduction :",
           "link": "https://blog.blockmagnates.com/the-future-of-financial-payment-apps-in-web3-leveraging-polygon-miden-1545bcbfbcd3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:37.000Z",
-          "wordCount": 3286,
+          "wordCount": 3294,
           "title": "The Future of Financial Payment Apps in Web3: Leveraging Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1120/1*Vysgrw41u6PZ_MWwm8n7Gw.jpeg"
         },
@@ -287,7 +287,7 @@
           "description": "Abstract:",
           "link": "https://blog.blockmagnates.com/revolutionizing-crypto-off-ramping-a-decentralized-approach-with-upi-using-polygon-miden-35d2c2d4ce90?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:33.000Z",
-          "wordCount": 3313,
+          "wordCount": 3321,
           "title": "Revolutionizing Crypto Off-ramping: A Decentralized Approach with UPI Using Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WFx9CjxRc3CBXwyc9YCYqg.jpeg"
         },
@@ -297,7 +297,7 @@
           "description": "The engine behind Ethereum",
           "link": "https://blog.blockmagnates.com/evm-08c7121dab01?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-18T12:49:05.000Z",
-          "wordCount": 4236,
+          "wordCount": 4244,
           "title": "EVM",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:905/1*NTxg-MtFG46XvcpO68YJow.png"
         },
@@ -317,7 +317,7 @@
           "description": "This series will provide answers to the list of Solidity interview questions that were published by RareSkills..",
           "link": "https://blog.blockmagnates.com/rareskills-solidity-interview-question-53-answered-why-shouldnt-upgradeable-contracts-use-the-89c1f6f1ebf1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-06T12:29:54.000Z",
-          "wordCount": 2351,
+          "wordCount": 2343,
           "title": "RareSkills Solidity Interview Question #53 Answered: Why shouldn’t upgradeable contracts use the…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xa6RJFkUdREepuB602MAbg.png"
         }
