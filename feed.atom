@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-03T11:13:34.953Z</id>
+    <id>urn:2024-12-03T12:32:34.733Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-03T11:13:34.953Z</updated>
+    <updated>2024-12-03T12:32:34.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building and Testing Your First ERC20 Token: A Hands-On Guide]]></title>
+        <id>https://medium.com/p/946eb89b833b</id>
+        <link href="https://blog.blockmagnates.com/building-and-testing-your-first-erc20-token-a-hands-on-guide-946eb89b833b?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-12-03T12:21:03.000Z</updated>
+        <summary type="html"><![CDATA[In our previous article, “Ethereum: Introduction to ERC20 Tokens,” we covered the theory behind ERC20 tokens. Now it’s time to put that…]]></summary>
+        <author>
+            <name>0xNazu.sol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOL Trading Bot vs. Shuriken vs. BullX]]></title>
+        <id>https://medium.com/p/25efaefd056f</id>
+        <link href="https://medium.com/coinmonks/sol-trading-bot-vs-shuriken-vs-bullx-25efaefd056f?source=rss----721b17443fd5---4"/>
+        <updated>2024-12-03T12:18:44.000Z</updated>
+        <summary type="html"><![CDATA[The rapidly evolving cryptocurrency market demands tools that enhance trading efficiency, security, and profitability. Three prominent bots…]]></summary>
+        <author>
+            <name>Coinmonks Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⚔️Is AI Fueling Warfare?]]></title>
         <id>https://medium.com/p/fc976f76d6cd</id>
@@ -96,16 +116,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[The next 100x crypto probably won’t be a memecoin.]]></summary>
         <author>
             <name>Stephen McBride</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YAYTSOGRAM: The First Telegram Game Paying TON — Crack Eggs, Earn Rewards, and Boost Your Earnings!]]></title>
-        <id>https://medium.com/p/3b9b0486b4bd</id>
-        <link href="https://medium.com/coinmonks/yaytsogram-the-first-telegram-game-paying-ton-crack-eggs-earn-rewards-and-boost-your-earnings-3b9b0486b4bd?source=rss----721b17443fd5---4"/>
-        <updated>2024-12-03T09:28:29.000Z</updated>
-        <summary type="html"><![CDATA[The Play-to-Earn (P2E) revolution has taken the world by storm, evolving far beyond the initial days of Bitcoin. With the rise of…]]></summary>
-        <author>
-            <name>Solidity Academy</name>
         </author>
     </entry>
     <entry>
