@@ -53,7 +53,7 @@
           "description": "In Solidity, the receive() and fallback() functions play a crucial role in handling unexpected or direct interactions with smart contracts…",
           "link": "https://coinsbench.com/day25-understanding-receive-and-fallback-in-solidity-a-deep-dive-06d800bfb955?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:36.000Z",
-          "wordCount": 2394,
+          "wordCount": 2402,
           "title": "Day 25: Understanding receive() and fallback() in Solidity: A Deep Dive",
           "imageUrl": null
         },
@@ -63,7 +63,7 @@
           "description": "You are using your smartphone to trade rare items in a video game, own a work of art, or invest in real estate. Sounds futuristic? This is…",
           "link": "https://coinsbench.com/simplifying-the-digital-asset-the-tokens-db2d0ff3710b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:33.000Z",
-          "wordCount": 2314,
+          "wordCount": 2306,
           "title": "Simplifying the Digital Asset: The Tokens.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:926/1*A1Dlbm5mm3ehY1yGSK-MTA.jpeg"
         },
@@ -83,7 +83,7 @@
           "description": "Here I am documenting all the solutions to the riddles by rareskills (https://github.com/RareSkills/solidity-riddles/tree/main/contracts)",
           "link": "https://coinsbench.com/rareskills-solidity-riddles-solutions-in-foundry-a5d093eb3b45?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-29T13:47:28.000Z",
-          "wordCount": 2753,
+          "wordCount": 2761,
           "title": "Rareskills Solidity Riddles Solutions in Foundry",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*y2rjw4q7ppR3rZ4Abw1t2A.png"
         },
@@ -103,7 +103,7 @@
           "description": "In the rapidly evolving world of blockchain technology, automating the deployment of smart contracts has become essential for developers…",
           "link": "https://coinsbench.com/effortless-smart-contract-deployments-b4ae908dd7dd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-29T13:47:22.000Z",
-          "wordCount": 3228,
+          "wordCount": 3220,
           "title": "Effortless Smart Contract Deployments",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1000/0*2TI_VZ6BnJjTRdbk"
         },
@@ -125,12 +125,42 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/f3139913d317",
+          "author": "0xf3rret",
+          "description": "Perpetuals trading is a thrilling financial arena that feels part chess match, part poker game, and part battlefield.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/mastering-perpetuals-trading-outsmarting-whales-and-riding-the-bull-f3139913d317?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-03T18:39:52.000Z",
+          "wordCount": 1225,
+          "title": "Mastering Perpetuals Trading: Outsmarting Whales and Riding the Bull",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*dRuQSCmOIr_9SUHq6cIghg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c6a5c23806ae",
+          "author": "Justine Turner",
+          "description": "BitcoinBR (BTCBR) is a decentralized financial payments network and token that stores value in the cryptocurrency market. It’s designed to…",
+          "link": "https://medium.com/coinmonks/what-is-bitcoin-br-c6a5c23806ae?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-03T18:39:50.000Z",
+          "wordCount": 1616,
+          "title": "What is Bitcoin BR?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/337a64ff207a",
+          "author": "Jonny Fry",
+          "description": "Written by Bryan Coyne, NED of Kasei, a UK-quoted company invested in a managed portfolio of cryptocurrencies\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/enhancing-returns-and-managing-risk-for-holders-of-stocks-gold-and-bitcoin-337a64ff207a?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-03T18:39:49.000Z",
+          "wordCount": 1331,
+          "title": "Enhancing returns and managing risk for holders of stocks, gold and Bitcoin",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/6bd70d472502",
           "author": "Marcomega",
           "description": "In this blog we’ll explain cost of both private and public blockchain development, everything from development to maintanance.",
           "link": "https://medium.com/coinmonks/how-much-cost-of-building-a-private-blockchain-compared-to-public-blockchain-6bd70d472502?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T15:36:28.000Z",
-          "wordCount": 3068,
+          "wordCount": 3070,
           "title": "How Much Cost Of Building A Private Blockchain Compared To Public Blockchain",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*a7vV44LdQK9XJr89JGJu9g.png"
         },
@@ -140,7 +170,7 @@
           "description": "10 top firms are leading AI Development with $100M+ investments, fueling innovations in enterprise tools, healthcare AI, and transformative…",
           "link": "https://medium.com/coinmonks/top-10-companies-raising-over-100-million-in-ai-investments-972a34576d22?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T15:36:26.000Z",
-          "wordCount": 2039,
+          "wordCount": 2049,
           "title": "Top 10 Companies Raising Over $100 Million in AI Investments",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vanfpEkwh_JpcK4g7bORwg.jpeg"
         },
@@ -150,7 +180,7 @@
           "description": "In the previous articles I showed how you can fetch price data on MetaTrader 5, a popular trading platform. It’s easy to do it for a…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/how-to-export-price-data-from-metatrader-5-with-python-1358904c7ea3?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T15:36:21.000Z",
-          "wordCount": 1245,
+          "wordCount": 1246,
           "title": "How to export price data from MetaTrader 5 with Python",
           "imageUrl": null
         },
@@ -160,7 +190,7 @@
           "description": "Or is Ethereum the Calm Before the Storm?\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/are-altcoins-racing-ahead-of-reality-0eeed07007c0?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T15:36:21.000Z",
-          "wordCount": 1252,
+          "wordCount": 1254,
           "title": "Are Altcoins Racing Ahead of Reality?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*RstHEBGY7jZg5GQ50YdECQ.png"
         },
@@ -170,7 +200,7 @@
           "description": "In November 2024, $132 million was stolen through various crypto crimes, with hacks alone accounting for over $99 million. Of this, $25.2…",
           "link": "https://medium.com/coinmonks/132m-stolen-through-crypto-crimes-top-5-crypto-hacks-of-november-2024-9301295c8386?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T15:36:16.000Z",
-          "wordCount": 2230,
+          "wordCount": 2232,
           "title": "$132M Stolen Through Crypto Crimes — Top 5 Crypto Hacks of November 2024",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NV_cdkaVhbehoS32LJnOKw.png"
         },
@@ -180,7 +210,7 @@
           "description": "Explore key strategies for integrating generative AI into customer service to enhance efficiency, personalization, and customer…",
           "link": "https://medium.com/coinmonks/top-strategies-for-building-generative-ai-in-customer-service-a1a6a39e51a5?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T14:58:13.000Z",
-          "wordCount": 4444,
+          "wordCount": 4453,
           "title": "Top Strategies for Building Generative AI in Customer Service",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0awb2JfyWSrlTBdTzIZmng.jpeg"
         },
@@ -190,39 +220,9 @@
           "description": "Have you ever scrolled through social media and stumbled upon the lavish life of Bobby Saputra?\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/no-bobby-saputra-is-not-really-a-billionaire-4bf27e6f3252?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-03T14:58:09.000Z",
-          "wordCount": 1131,
+          "wordCount": 1124,
           "title": "No, Bobby Saputra is not really a billionaire.",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*sCVfKpiPeD-kRc5H"
-        },
-        {
-          "id": "https://medium.com/p/5649d5247558",
-          "author": "Libertex (Europe)",
-          "description": "Stocks are making both headlines and fortunes once again. But this time, the growth isn’t just limited to the US and Europe; long-suffering…",
-          "link": "https://medium.com/coinmonks/chinese-stocks-catch-investors-eyes-5649d5247558?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-03T14:58:06.000Z",
-          "wordCount": 2578,
-          "title": "Chinese stocks catch investors’ eyes",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:600/1*WLuhPD5--OSd3ZrtOpatwQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f35155aa9524",
-          "author": "Aaron Abbott",
-          "description": "In 2025, AI in social media transforms marketing strategies, streamlines operations, and strengthens content delivery for brands and users…",
-          "link": "https://medium.com/coinmonks/ais-role-in-transforming-social-media-in-2025-f35155aa9524?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-03T14:58:01.000Z",
-          "wordCount": 2763,
-          "title": "AI’s Role in Transforming Social Media in 2025",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tm_MCsS28FAYL-_wz-b0_A.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f88edef69a52",
-          "author": "Alertforalpha",
-          "description": "Wondering how Web3 compares to the internet we know? The future starts now.”\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/web3-adoption-the-internets-next-evolution-f88edef69a52?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-03T14:57:57.000Z",
-          "wordCount": 1170,
-          "title": "Web3 Adoption: The Internet’s Next Evolution",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*fDXjuzkQ0ze54iZQ-kQXIA.jpeg"
         }
       ]
     },
@@ -237,7 +237,7 @@
           "description": "In our previous article, “Ethereum: Introduction to ERC20 Tokens,” we covered the theory behind ERC20 tokens. Now it’s time to put that…",
           "link": "https://blog.blockmagnates.com/building-and-testing-your-first-erc20-token-a-hands-on-guide-946eb89b833b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-12-03T12:21:03.000Z",
-          "wordCount": 2196,
+          "wordCount": 2188,
           "title": "Building and Testing Your First ERC20 Token: A Hands-On Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*VQox-0dIf3sA1qdgaOTjpg.png"
         },
@@ -247,7 +247,7 @@
           "description": "In our EVM article, we mentioned that smart contracts can call each other. This time, we’re focusing on another case: smart contracts can…",
           "link": "https://blog.blockmagnates.com/evm-smart-contract-calls-part-2-eaf076d9c78b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-12-02T13:36:45.000Z",
-          "wordCount": 2220,
+          "wordCount": 2212,
           "title": "EVM: Smart Contract Calls (Part 2)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1L0OvTXxCkF7J5YMXJIVaQ.png"
         },
@@ -257,7 +257,7 @@
           "description": "This blog aims to explicate the joint synergistic relationship between AI and blockchain while discussing some real-life use cases and…",
           "link": "https://blog.blockmagnates.com/ai-and-blockchain-redefining-smart-contracts-for-a-decentralized-future-4cb7edae5164?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-30T10:48:33.000Z",
-          "wordCount": 2737,
+          "wordCount": 2729,
           "title": "AI and Blockchain: Redefining Smart Contracts for a Decentralized Future",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:626/1*VOPvrUwljjip5oGjnTnnaw.jpeg"
         },
@@ -277,7 +277,7 @@
           "description": "Introduction :",
           "link": "https://blog.blockmagnates.com/the-future-of-financial-payment-apps-in-web3-leveraging-polygon-miden-1545bcbfbcd3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:37.000Z",
-          "wordCount": 3286,
+          "wordCount": 3294,
           "title": "The Future of Financial Payment Apps in Web3: Leveraging Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1120/1*Vysgrw41u6PZ_MWwm8n7Gw.jpeg"
         },
@@ -287,7 +287,7 @@
           "description": "Abstract:",
           "link": "https://blog.blockmagnates.com/revolutionizing-crypto-off-ramping-a-decentralized-approach-with-upi-using-polygon-miden-35d2c2d4ce90?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:33.000Z",
-          "wordCount": 3313,
+          "wordCount": 3321,
           "title": "Revolutionizing Crypto Off-ramping: A Decentralized Approach with UPI Using Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WFx9CjxRc3CBXwyc9YCYqg.jpeg"
         },
@@ -307,7 +307,7 @@
           "description": "In my learning time on cyfrin updraft, I came across the different types of payment, and it was quite interesting as I took more time to…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/call-send-and-transfer-the-payment-gateway-for-web3-a420bec70105?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-12T08:41:13.000Z",
-          "wordCount": 1048,
+          "wordCount": 1056,
           "title": "Call, Send, and Transfer: The Payment gateway for Web3",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YoMN2shMOsCzJapr4_OujA.png"
         },
