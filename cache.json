@@ -23,7 +23,7 @@
           "description": "Are you looking to elevate your Solana development game with advanced token functionalities? This GitHub repository Extensions, I made, is…",
           "link": "https://coinsbench.com/exploring-the-solana-token-extensions-22b5f9bf45d8?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-04T11:21:55.000Z",
-          "wordCount": 1523,
+          "wordCount": 1515,
           "title": "Exploring the Solana Token Extensions",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*lne3QMl55xwS3L9NLdumXg.png"
         },
@@ -73,7 +73,7 @@
           "description": "In Solidity, the receive() and fallback() functions play a crucial role in handling unexpected or direct interactions with smart contracts…",
           "link": "https://coinsbench.com/day25-understanding-receive-and-fallback-in-solidity-a-deep-dive-06d800bfb955?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:36.000Z",
-          "wordCount": 2394,
+          "wordCount": 2402,
           "title": "Day 25: Understanding receive() and fallback() in Solidity: A Deep Dive",
           "imageUrl": null
         },
@@ -83,7 +83,7 @@
           "description": "You are using your smartphone to trade rare items in a video game, own a work of art, or invest in real estate. Sounds futuristic? This is…",
           "link": "https://coinsbench.com/simplifying-the-digital-asset-the-tokens-db2d0ff3710b?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:33.000Z",
-          "wordCount": 2306,
+          "wordCount": 2314,
           "title": "Simplifying the Digital Asset: The Tokens.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:926/1*A1Dlbm5mm3ehY1yGSK-MTA.jpeg"
         },
@@ -93,7 +93,7 @@
           "description": "Blockchain technology forms the backbone of decentralized systems, and nodes are the building blocks of this innovation. Whether you’re new…",
           "link": "https://coinsbench.com/mastering-blockchain-nodes-a-complete-guide-54e743fdc905?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-11-30T13:32:12.000Z",
-          "wordCount": 2024,
+          "wordCount": 2016,
           "title": "Mastering Blockchain Nodes: A Complete Guide ✨",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*eBb4WicUbj2UcCOt"
         },
@@ -125,12 +125,72 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/2b870dcb5d09",
+          "author": "Solidity Academy",
+          "description": "Are you confused by the complex world of finance? With so many options available — TradFi, CeFi, and DeFi — it’s easy to get lost. Which…",
+          "link": "https://medium.com/coinmonks/tradfi-cefi-or-defi-which-financial-system-is-right-for-you-2b870dcb5d09?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-05T11:42:56.000Z",
+          "wordCount": 2848,
+          "title": "TradFi, CeFi, or DeFi: Which Financial System is Right for You?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*2JMe-M-VJ_6m0BWCbDrbYw.png"
+        },
+        {
+          "id": "https://medium.com/p/36fc1414fba4",
+          "author": "SourceLess",
+          "description": "For the past six years, the SourceLess team has been on a relentless journey to innovate in machine learning and AI. What began as…",
+          "link": "https://medium.com/coinmonks/ares-ai-is-here-your-personal-intelligent-assistant-in-the-sourceless-ecosystem-36fc1414fba4?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-05T11:42:55.000Z",
+          "wordCount": 2264,
+          "title": "ARES Ai is Here: Your Personal Intelligent Assistant in the SourceLess Ecosystem",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*3qTMmjWIjBu739zGDscifg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/0b8d5f22a523",
+          "author": "PVMihalache",
+          "description": "The Zingtober Challenge is the Holozing event prepared for Inktober, with a list of prompts and a big bucket of rewards! There will be an…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/ive-completed-the-zingtober-challenge-art-and-crypto-0b8d5f22a523?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-05T11:42:55.000Z",
+          "wordCount": 1354,
+          "title": "I’ve Completed The Zingtober Challenge — Art and Crypto",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:768/0*8blBCAvZkrr1bWOY.png"
+        },
+        {
+          "id": "https://medium.com/p/e5ca491782fa",
+          "author": "Cryptokeek",
+          "description": "People who use cryptocurrency exchanges often encounter the question of whether Coinbase or Binance is better.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/is-coinbase-or-binance-better-e5ca491782fa?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-05T11:42:48.000Z",
+          "wordCount": 1228,
+          "title": "Is Coinbase or Binance Better?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*A6S85do-Wpuxa_oR8rwv0A.png"
+        },
+        {
+          "id": "https://medium.com/p/9128e5595e18",
+          "author": "Douglas Lampi",
+          "description": "How I’m Creating Satoshis with Words",
+          "link": "https://medium.com/coinmonks/the-bitcoin-writers-blueprint-9128e5595e18?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-05T11:42:46.000Z",
+          "wordCount": 2562,
+          "title": "The Bitcoin Writer’s Blueprint",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:768/1*8hqE-reLGAisIyIn9xQt5g.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/00b1ce11e1f4",
+          "author": "TheLuWizz",
+          "description": "Once upon a time, in the humble year of 2010, a programmer named Laszlo Hanyecz made history by buying two pizzas with 10,000 Bitcoins…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/pizza-bitcoin-and-pink-tentacles-00b1ce11e1f4?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-05T11:42:44.000Z",
+          "wordCount": 1317,
+          "title": "Pizza, Bitcoin, and Pink Tentacles!",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*ydH7x7tl4QYkI1Jy"
+        },
+        {
           "id": "https://medium.com/p/a1b9ff9d34f0",
           "author": "Muhamad Yusup / Cupi Crypto",
           "description": "Bitcoin continues to make waves in the business world. This time, three leading pharmaceutical companies, Enlivex Therapeutics, Acurx…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/3-pharma-companies-embrace-bitcoin-signaling-a-shift-from-traditional-finance-a1b9ff9d34f0?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-05T07:49:48.000Z",
-          "wordCount": 1282,
+          "wordCount": 1291,
           "title": "3 Pharma Companies Embrace Bitcoin, Signaling a Shift from Traditional Finance",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*y2Xt_8mXb87If159ZSkMUw.jpeg"
         },
@@ -140,7 +200,7 @@
           "description": "Bitcoin (BTC) continues to capture the world’s attention. The crypto asset with the largest market capitalization is now a hot topic, not…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/bitcoin-vs-internet-will-bitcoin-adoption-overtake-the-internet-2e034cc8da09?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-05T07:37:49.000Z",
-          "wordCount": 1298,
+          "wordCount": 1299,
           "title": "Bitcoin vs Internet: Will Bitcoin Adoption Overtake the Internet?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*GwXgUKrZsiM_jICX_7OcZA.jpeg"
         },
@@ -160,69 +220,9 @@
           "description": "When most people hear the word “crypto,” their minds jump to extreme volatility, scams, and tales of people losing their life savings…",
           "link": "https://medium.com/coinmonks/why-crypto-isnt-as-risky-as-people-think-9ca058b625ea?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-05T07:20:55.000Z",
-          "wordCount": 2379,
+          "wordCount": 2388,
           "title": "Why Crypto Isn’t as Risky as People Think",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*BsHc_NotyPYdIygE"
-        },
-        {
-          "id": "https://medium.com/p/15a709af2e81",
-          "author": "Alertforalpha",
-          "description": "Bitcoin just hit $100,000 — what’s next for your portfolio and trading strategy?”\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-hits-100-000-whats-next-for-investors-and-traders-15a709af2e81?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-05T07:20:51.000Z",
-          "wordCount": 1212,
-          "title": "Bitcoin Hits $100,000: What’s Next for Investors and Traders?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*_Nwj62UEkKqx_ou2tIV-Gg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/88738b482dff",
-          "author": "YPRS",
-          "description": "yourPRstrategist is a proud media partner of Global AI Show.",
-          "link": "https://medium.com/coinmonks/vap-group-set-to-host-second-edition-of-global-ai-show-in-dubai-88738b482dff?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-05T07:20:46.000Z",
-          "wordCount": 2001,
-          "title": "VAP Group Set to Host Second Edition of Global AI Show in Dubai",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lCzswgW4X9D4Kp8Vf-idIQ.png"
-        },
-        {
-          "id": "https://medium.com/p/736a1c48163d",
-          "author": "Muhamad Yusup / Cupi Crypto",
-          "description": "Bitcoin is on fire! 🔥 The world’s largest cryptocurrency by market capitalization has once again made history by breaking through its…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-shatters-records-again-hits-100-000-will-it-continue-to-soar-736a1c48163d?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-05T07:20:44.000Z",
-          "wordCount": 1318,
-          "title": "Bitcoin Shatters Records Again! Hits $100,000, Will It Continue to Soar?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*PUKYa0LAPSas0w1jOU7Pug.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/7bfc97b0881c",
-          "author": "Muhamad Yusup / Cupi Crypto",
-          "description": "Genius Group Limited (GNS), a Singapore-based education technology company, has made a splash by acquiring 172 Bitcoin (BTC) worth US$15.8…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/genius-group-acquires-172-bitcoin-a-bitcoin-first-strategy-to-combat-inflation-7bfc97b0881c?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-05T07:20:42.000Z",
-          "wordCount": 1287,
-          "title": "Genius Group Acquires 172 Bitcoin: A “Bitcoin-First” Strategy to Combat Inflation?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cOCrF4TjANWCKoLthE9DXg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ff9b05ee8249",
-          "author": "Muhamad Yusup / Cupi Crypto",
-          "description": "The US crypto industry is eagerly awaiting who will lead the Commodity Futures Trading Commission (CFTC), the regulatory body responsible…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/perianne-boring-eyed-for-cftc-chair-good-news-for-the-us-crypto-industry-ff9b05ee8249?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-05T07:20:39.000Z",
-          "wordCount": 1325,
-          "title": "Perianne Boring Eyed for CFTC Chair: Good News for the US Crypto Industry?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jV_g8OYUJhMJoaiAeBpWeg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/38984c80494f",
-          "author": "Muhamad Yusup / Cupi Crypto",
-          "description": "The US crypto industry is preparing to welcome a new era with the appointment of Paul Atkins as Chairman of the Securities and Exchange…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/paul-atkins-takes-the-helm-at-sec-a-new-era-for-crypto-regulation-in-the-us-38984c80494f?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-05T07:20:37.000Z",
-          "wordCount": 1351,
-          "title": "Paul Atkins Takes the Helm at SEC: A New Era for Crypto Regulation in the US?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Cmvk9ijCgvwd97x855VkFw.jpeg"
         }
       ]
     },
@@ -287,7 +287,7 @@
           "description": "Abstract:",
           "link": "https://blog.blockmagnates.com/revolutionizing-crypto-off-ramping-a-decentralized-approach-with-upi-using-polygon-miden-35d2c2d4ce90?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:33.000Z",
-          "wordCount": 3321,
+          "wordCount": 3313,
           "title": "Revolutionizing Crypto Off-ramping: A Decentralized Approach with UPI Using Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WFx9CjxRc3CBXwyc9YCYqg.jpeg"
         },
@@ -297,7 +297,7 @@
           "description": "The engine behind Ethereum",
           "link": "https://blog.blockmagnates.com/evm-08c7121dab01?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-18T12:49:05.000Z",
-          "wordCount": 4236,
+          "wordCount": 4244,
           "title": "EVM",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:905/1*NTxg-MtFG46XvcpO68YJow.png"
         },
