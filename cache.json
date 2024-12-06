@@ -18,12 +18,52 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a424240ee620",
+          "author": "Ras",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/building-the-booknify-frontend-with-next-js-a424240ee620?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-06T13:13:58.000Z",
+          "wordCount": 4443,
+          "title": "Building the Booknify Frontend with Next.js,",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*OGvqA0d6Tlj9jAc1FkuKkA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/db22db136231",
+          "author": "Magda  Jankowska",
+          "description": "Blockchain technology and smart contracts have revolutionized industries, enabling decentralized applications (dApps) and decentralized…",
+          "link": "https://coinsbench.com/writing-smart-contracts-in-solidity-real-world-use-cases-defi-security-best-practices-db22db136231?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-06T13:13:53.000Z",
+          "wordCount": 5828,
+          "title": "Writing Smart Contracts in Solidity: Real-World Use Cases & DeFi Security Best Practices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9a7d9bdb2161",
+          "author": "Gurnoor Singh",
+          "description": "In smart contract development, controlling access to critical functions like withdrawing funds is essential for maintaining security. One…",
+          "link": "https://coinsbench.com/day-21-securing-withdrawals-ensuring-only-the-owner-can-access-funds-in-a-smart-contract-9a7d9bdb2161?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-06T13:13:50.000Z",
+          "wordCount": 2614,
+          "title": "Day 21: Securing Withdrawals: Ensuring Only the Owner Can Access Funds in a Smart Contract",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ac3647a0a266",
+          "author": "okolicodes",
+          "description": "We gonna talk about the good, the bad and the ugly and trust me is gonna get chaotic real soon",
+          "link": "https://coinsbench.com/daily-transaction-a-deceitful-metric-ac3647a0a266?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-06T13:13:45.000Z",
+          "wordCount": 1940,
+          "title": "On-Chain Adoption: Still a Long Road Ahead",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wG3c9k_ZjhUki3Tm2oEwzw@2x.jpeg"
+        },
+        {
           "id": "https://medium.com/p/22b5f9bf45d8",
           "author": "Franck Maussand",
           "description": "Are you looking to elevate your Solana development game with advanced token functionalities? This GitHub repository Extensions, I made, is…",
           "link": "https://coinsbench.com/exploring-the-solana-token-extensions-22b5f9bf45d8?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-04T11:21:55.000Z",
-          "wordCount": 1523,
+          "wordCount": 1515,
           "title": "Exploring the Solana Token Extensions",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*lne3QMl55xwS3L9NLdumXg.png"
         },
@@ -53,7 +93,7 @@
           "description": "When working with Solidity, optimizing gas usage is a critical part of smart contract development. Two powerful tools for this optimization…",
           "link": "https://coinsbench.com/day-23-gas-optimization-in-solidity-constant-vs-immutable-232a169a9d0a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:41.000Z",
-          "wordCount": 2069,
+          "wordCount": 2077,
           "title": "Day 23: Gas Optimization in Solidity: Constant vs. Immutable",
           "imageUrl": null
         },
@@ -73,48 +113,8 @@
           "description": "In Solidity, the receive() and fallback() functions play a crucial role in handling unexpected or direct interactions with smart contracts…",
           "link": "https://coinsbench.com/day25-understanding-receive-and-fallback-in-solidity-a-deep-dive-06d800bfb955?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:36.000Z",
-          "wordCount": 2402,
+          "wordCount": 2394,
           "title": "Day 25: Understanding receive() and fallback() in Solidity: A Deep Dive",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/db2d0ff3710b",
-          "author": "Magda  Jankowska",
-          "description": "You are using your smartphone to trade rare items in a video game, own a work of art, or invest in real estate. Sounds futuristic? This is…",
-          "link": "https://coinsbench.com/simplifying-the-digital-asset-the-tokens-db2d0ff3710b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-02T13:24:33.000Z",
-          "wordCount": 2314,
-          "title": "Simplifying the Digital Asset: The Tokens.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:926/1*A1Dlbm5mm3ehY1yGSK-MTA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/54e743fdc905",
-          "author": "Solidity Academy",
-          "description": "Blockchain technology forms the backbone of decentralized systems, and nodes are the building blocks of this innovation. Whether you’re new…",
-          "link": "https://coinsbench.com/mastering-blockchain-nodes-a-complete-guide-54e743fdc905?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-11-30T13:32:12.000Z",
-          "wordCount": 2024,
-          "title": "Mastering Blockchain Nodes: A Complete Guide ✨",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*eBb4WicUbj2UcCOt"
-        },
-        {
-          "id": "https://medium.com/p/a5d093eb3b45",
-          "author": "Eshu Manohare",
-          "description": "Here I am documenting all the solutions to the riddles by rareskills (https://github.com/RareSkills/solidity-riddles/tree/main/contracts)",
-          "link": "https://coinsbench.com/rareskills-solidity-riddles-solutions-in-foundry-a5d093eb3b45?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-11-29T13:47:28.000Z",
-          "wordCount": 2761,
-          "title": "Rareskills Solidity Riddles Solutions in Foundry",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*y2rjw4q7ppR3rZ4Abw1t2A.png"
-        },
-        {
-          "id": "https://medium.com/p/cc436a4a1361",
-          "author": "Gurnoor Singh",
-          "description": "What is the Goal of the Contract?",
-          "link": "https://coinsbench.com/day-18-usage-of-libraries-in-solidity-the-key-to-modular-and-reusable-smart-contracts-cc436a4a1361?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-11-29T13:47:25.000Z",
-          "wordCount": 2014,
-          "title": "Day 18: Usage of Libraries in Solidity: The Key to Modular and Reusable Smart Contracts",
           "imageUrl": null
         }
       ]
@@ -140,7 +140,7 @@
           "description": "Easy x 3 coins are listed and explained why.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/3-low-cap-outperforming-altcoins-best-altcoins-to-buy-now-1a913ee2a7d8?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-06T12:32:54.000Z",
-          "wordCount": 1282,
+          "wordCount": 1290,
           "title": "3 Low Cap Outperforming Altcoins: Best Altcoins To Buy Now?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:944/1*X6mbhYDrSPy_g34Eyx62AQ.png"
         },
@@ -150,7 +150,7 @@
           "description": "XRP (XRP), the cryptocurrency formerly known as Ripple, is back on Mr. Market’s radar. Ripple was CoinMarketCap’s most trending…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/ripple-xrp-is-back-is-it-worth-investing-in-9e22dfacf531?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-06T12:32:47.000Z",
-          "wordCount": 1287,
+          "wordCount": 1311,
           "title": "Ripple (XRP) is back. Is it worth investing in?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*C2xM1DA7DUrr9wN-fedNJw.jpeg"
         },
@@ -180,7 +180,7 @@
           "description": "From ETH Denver to Money2020 Vegas, the beginning of the next bull run.",
           "link": "https://medium.com/coinmonks/crypto-travel-odyssey-2024-35972898ef43?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-06T12:32:23.000Z",
-          "wordCount": 2074,
+          "wordCount": 2075,
           "title": "Crypto Travel Odyssey 2024",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*t3i_G8L_rK5UdBdXJh0NOg@2x.jpeg"
         },
@@ -257,7 +257,7 @@
           "description": "This blog aims to explicate the joint synergistic relationship between AI and blockchain while discussing some real-life use cases and…",
           "link": "https://blog.blockmagnates.com/ai-and-blockchain-redefining-smart-contracts-for-a-decentralized-future-4cb7edae5164?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-30T10:48:33.000Z",
-          "wordCount": 2729,
+          "wordCount": 2737,
           "title": "AI and Blockchain: Redefining Smart Contracts for a Decentralized Future",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:626/1*VOPvrUwljjip5oGjnTnnaw.jpeg"
         },

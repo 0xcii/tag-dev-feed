@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-06T13:25:34.528Z</id>
+    <id>urn:2024-12-06T14:15:05.721Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-06T13:25:34.528Z</updated>
+    <updated>2024-12-06T14:15:05.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building the Booknify Frontend with Next.js,]]></title>
+        <id>https://medium.com/p/a424240ee620</id>
+        <link href="https://coinsbench.com/building-the-booknify-frontend-with-next-js-a424240ee620?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-06T13:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Ras</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing Smart Contracts in Solidity: Real-World Use Cases & DeFi Security Best Practices]]></title>
+        <id>https://medium.com/p/db22db136231</id>
+        <link href="https://coinsbench.com/writing-smart-contracts-in-solidity-real-world-use-cases-defi-security-best-practices-db22db136231?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-06T13:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology and smart contracts have revolutionized industries, enabling decentralized applications (dApps) and decentralized…]]></summary>
+        <author>
+            <name>Magda  Jankowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 21: Securing Withdrawals: Ensuring Only the Owner Can Access Funds in a Smart Contract]]></title>
+        <id>https://medium.com/p/9a7d9bdb2161</id>
+        <link href="https://coinsbench.com/day-21-securing-withdrawals-ensuring-only-the-owner-can-access-funds-in-a-smart-contract-9a7d9bdb2161?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-06T13:13:50.000Z</updated>
+        <summary type="html"><![CDATA[In smart contract development, controlling access to critical functions like withdrawing funds is essential for maintaining security. One…]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On-Chain Adoption: Still a Long Road Ahead]]></title>
+        <id>https://medium.com/p/ac3647a0a266</id>
+        <link href="https://coinsbench.com/daily-transaction-a-deceitful-metric-ac3647a0a266?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-06T13:13:45.000Z</updated>
+        <summary type="html"><![CDATA[We gonna talk about the good, the bad and the ugly and trust me is gonna get chaotic real soon]]></summary>
+        <author>
+            <name>okolicodes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[John Deere & Heidelberg Materials are in the news this week for making deals!]]></title>
         <id>https://medium.com/p/e7f6aef5d071</id>
@@ -194,26 +234,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Simplifying the Digital Asset: The Tokens.]]></title>
-        <id>https://medium.com/p/db2d0ff3710b</id>
-        <link href="https://coinsbench.com/simplifying-the-digital-asset-the-tokens-db2d0ff3710b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-02T13:24:33.000Z</updated>
-        <summary type="html"><![CDATA[You are using your smartphone to trade rare items in a video game, own a work of art, or invest in real estate. Sounds futuristic? This is…]]></summary>
-        <author>
-            <name>Magda  Jankowska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Blockchain Nodes: A Complete Guide ✨]]></title>
-        <id>https://medium.com/p/54e743fdc905</id>
-        <link href="https://coinsbench.com/mastering-blockchain-nodes-a-complete-guide-54e743fdc905?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-30T13:32:12.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology forms the backbone of decentralized systems, and nodes are the building blocks of this innovation. Whether you’re new…]]></summary>
-        <author>
-            <name>Solidity Academy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI and Blockchain: Redefining Smart Contracts for a Decentralized Future]]></title>
         <id>https://medium.com/p/4cb7edae5164</id>
         <link href="https://blog.blockmagnates.com/ai-and-blockchain-redefining-smart-contracts-for-a-decentralized-future-4cb7edae5164?source=rss----18fa961f1eff--solidity"/>
@@ -221,26 +241,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[This blog aims to explicate the joint synergistic relationship between AI and blockchain while discussing some real-life use cases and…]]></summary>
         <author>
             <name>Saksham Verma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rareskills Solidity Riddles Solutions in Foundry]]></title>
-        <id>https://medium.com/p/a5d093eb3b45</id>
-        <link href="https://coinsbench.com/rareskills-solidity-riddles-solutions-in-foundry-a5d093eb3b45?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-29T13:47:28.000Z</updated>
-        <summary type="html"><![CDATA[Here I am documenting all the solutions to the riddles by rareskills (https://github.com/RareSkills/solidity-riddles/tree/main/contracts)]]></summary>
-        <author>
-            <name>Eshu Manohare</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 18: Usage of Libraries in Solidity: The Key to Modular and Reusable Smart Contracts]]></title>
-        <id>https://medium.com/p/cc436a4a1361</id>
-        <link href="https://coinsbench.com/day-18-usage-of-libraries-in-solidity-the-key-to-modular-and-reusable-smart-contracts-cc436a4a1361?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-11-29T13:47:25.000Z</updated>
-        <summary type="html"><![CDATA[What is the Goal of the Contract?]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
         </author>
     </entry>
     <entry>
