@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-09T17:14:42.986Z</id>
+    <id>urn:2024-12-09T18:23:05.799Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-09T17:14:42.986Z</updated>
+    <updated>2024-12-09T18:23:05.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mastering Solidity Basics with CryptoZombies: A Beginner’s Guide with Code Examples and Exercises…]]></title>
+        <id>https://medium.com/p/fbe1cf0f0636</id>
+        <link href="https://blog.blockmagnates.com/mastering-solidity-basics-with-cryptozombies-a-beginners-guide-with-code-examples-and-exercises-fbe1cf0f0636?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-12-09T18:19:11.000Z</updated>
+        <summary type="html"><![CDATA[CryptoZombies is an interactive tutorial that teaches developers how to code decentralized applications (DApps) on Ethereum using Solidity…]]></summary>
+        <author>
+            <name>Magda  Jankowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Hyperledger Fabric: When to Use It & When to Avoid It]]></title>
+        <id>https://medium.com/p/8ac598382345</id>
+        <link href="https://coinsbench.com/understanding-hyperledger-fabric-when-to-use-it-when-to-avoid-it-8ac598382345?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-09T18:10:48.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology often brings to mind cryptocurrencies like Bitcoin and Ethereum, but did you know that blockchain is also…]]></summary>
+        <author>
+            <name>Nagvekar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Distributed Ledger Technology (DLT)]]></title>
+        <id>https://medium.com/p/569b9d01a701</id>
+        <link href="https://coinsbench.com/distributed-ledger-technology-a-complete-guide-569b9d01a701?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-09T18:10:46.000Z</updated>
+        <summary type="html"><![CDATA[Distributed Ledger Technology (DLT) is revolutionizing the way data is stored and transactions are processed across various industries. By…]]></summary>
+        <author>
+            <name>Nagvekar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is an Altcoin? How Does It Work and Produce?]]></title>
         <id>https://medium.com/p/785762b66457</id>
@@ -215,26 +245,6 @@ The post I made an Open Source AI Crypto Trading Bot for your crypto portfolio a
         <link href="https://coinsbench.com/day-23-gas-optimization-in-solidity-constant-vs-immutable-232a169a9d0a?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-12-02T13:24:41.000Z</updated>
         <summary type="html"><![CDATA[When working with Solidity, optimizing gas usage is a critical part of smart contract development. Two powerful tools for this optimization…]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 24: Optimizing Gas in Solidity with Custom Errors and Reverts]]></title>
-        <id>https://medium.com/p/0835a0cd1434</id>
-        <link href="https://coinsbench.com/day-24-optimizing-gas-in-solidity-with-custom-errors-and-reverts-0835a0cd1434?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-02T13:24:38.000Z</updated>
-        <summary type="html"><![CDATA[Gas efficiency is a key focus in Solidity development, and even seemingly small improvements can lead to significant savings. One such…]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 25: Understanding receive() and fallback() in Solidity: A Deep Dive]]></title>
-        <id>https://medium.com/p/06d800bfb955</id>
-        <link href="https://coinsbench.com/day25-understanding-receive-and-fallback-in-solidity-a-deep-dive-06d800bfb955?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-02T13:24:36.000Z</updated>
-        <summary type="html"><![CDATA[In Solidity, the receive() and fallback() functions play a crucial role in handling unexpected or direct interactions with smart contracts…]]></summary>
         <author>
             <name>Gurnoor Singh</name>
         </author>

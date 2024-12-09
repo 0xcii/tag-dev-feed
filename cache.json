@@ -29,6 +29,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/8ac598382345",
+          "author": "Nagvekar",
+          "description": "Blockchain technology often brings to mind cryptocurrencies like Bitcoin and Ethereum, but did you know that blockchain is also…",
+          "link": "https://coinsbench.com/understanding-hyperledger-fabric-when-to-use-it-when-to-avoid-it-8ac598382345?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-09T18:10:48.000Z",
+          "wordCount": 2063,
+          "title": "Understanding Hyperledger Fabric: When to Use It & When to Avoid It",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*ZnzoWBA3sIkWdAbx"
+        },
+        {
+          "id": "https://medium.com/p/569b9d01a701",
+          "author": "Nagvekar",
+          "description": "Distributed Ledger Technology (DLT) is revolutionizing the way data is stored and transactions are processed across various industries. By…",
+          "link": "https://coinsbench.com/distributed-ledger-technology-a-complete-guide-569b9d01a701?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-09T18:10:46.000Z",
+          "wordCount": 1434,
+          "title": "Introduction to Distributed Ledger Technology (DLT)",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*1a2Cm2b1GxJxjPMe"
+        },
+        {
           "id": "https://medium.com/p/a424240ee620",
           "author": "Ras",
           "description": "Introduction",
@@ -44,7 +64,7 @@
           "description": "Blockchain technology and smart contracts have revolutionized industries, enabling decentralized applications (dApps) and decentralized…",
           "link": "https://coinsbench.com/writing-smart-contracts-in-solidity-real-world-use-cases-defi-security-best-practices-db22db136231?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-06T13:13:53.000Z",
-          "wordCount": 5828,
+          "wordCount": 5820,
           "title": "Writing Smart Contracts in Solidity: Real-World Use Cases & DeFi Security Best Practices",
           "imageUrl": null
         },
@@ -64,7 +84,7 @@
           "description": "We gonna talk about the good, the bad and the ugly and trust me is gonna get chaotic real soon",
           "link": "https://coinsbench.com/daily-transaction-a-deceitful-metric-ac3647a0a266?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-06T13:13:45.000Z",
-          "wordCount": 1948,
+          "wordCount": 1940,
           "title": "On-Chain Adoption: Still a Long Road Ahead",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wG3c9k_ZjhUki3Tm2oEwzw@2x.jpeg"
         },
@@ -84,7 +104,7 @@
           "description": "Making better decisions while building a new Project or Protocol is very important to the overall success and growth of the Project. In the area of on-boarding new users we’ve seen that airdrops are…",
           "link": "https://coinsbench.com/sablier-a-token-distribution-protocol-that-facilitates-the-streaming-of-erc-20-assets-and-handles-455dd4fa26e4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-04T11:21:53.000Z",
-          "wordCount": 1748,
+          "wordCount": 1756,
           "title": "Sablier: The Powerhouse of Token Distribution.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3kDN3RddCXGEyJ8ubsIqJw@2x.jpeg"
         },
@@ -107,26 +127,6 @@
           "wordCount": 2069,
           "title": "Day 23: Gas Optimization in Solidity: Constant vs. Immutable",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0835a0cd1434",
-          "author": "Gurnoor Singh",
-          "description": "Gas efficiency is a key focus in Solidity development, and even seemingly small improvements can lead to significant savings. One such…",
-          "link": "https://coinsbench.com/day-24-optimizing-gas-in-solidity-with-custom-errors-and-reverts-0835a0cd1434?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-02T13:24:38.000Z",
-          "wordCount": 2194,
-          "title": "Day 24: Optimizing Gas in Solidity with Custom Errors and Reverts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/06d800bfb955",
-          "author": "Gurnoor Singh",
-          "description": "In Solidity, the receive() and fallback() functions play a crucial role in handling unexpected or direct interactions with smart contracts…",
-          "link": "https://coinsbench.com/day25-understanding-receive-and-fallback-in-solidity-a-deep-dive-06d800bfb955?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-02T13:24:36.000Z",
-          "wordCount": 2402,
-          "title": "Day 25: Understanding receive() and fallback() in Solidity: A Deep Dive",
-          "imageUrl": null
         }
       ]
     },
@@ -141,7 +141,7 @@
           "description": "The term ‘altcoin’ has become a concept that we often hear from cryptocurrency enthusiasts.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/what-is-an-altcoin-how-does-it-work-and-produce-785762b66457?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-09T14:23:57.000Z",
-          "wordCount": 1230,
+          "wordCount": 1254,
           "title": "What is an Altcoin? How Does It Work and Produce?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*AMAQb6FcbJ81RC7uZ8Ho-w.jpeg"
         },
@@ -161,7 +161,7 @@
           "description": "The Helium Network has become synonymous with innovation in decentralized wireless communication. From providing IoT connectivity to…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/the-helium-networks-latest-hips-revolutionizing-decentralized-wireless-in-2024-3e3ea7bce712?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-09T14:23:53.000Z",
-          "wordCount": 1204,
+          "wordCount": 1212,
           "title": "The Helium Network’s Latest HIPs: Revolutionizing Decentralized Wireless in 2024",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*_vYgIauiMGaWUhaEOCm6VQ.jpeg"
         },
@@ -171,7 +171,7 @@
           "description": "Global equities struggled for clear direction today, with European stocks ending the session mixed and US futures hovering slightly lower…",
           "link": "https://medium.com/coinmonks/short-market-wrap-friday-13f7fab44a5e?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-09T12:15:39.000Z",
-          "wordCount": 1052,
+          "wordCount": 1045,
           "title": "Short Market Wrap — Friday",
           "imageUrl": null
         },
@@ -191,7 +191,7 @@
           "description": "The crypto world is buzzing again. Bitcoin is climbing, altcoins are making noise, and everyone’s talking about the next big thing. If…",
           "link": "https://medium.com/coinmonks/crypto-is-on-the-rise-again-dont-make-the-same-mistake-i-did-in-the-last-bull-run-6118d3818090?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-09T12:15:34.000Z",
-          "wordCount": 2440,
+          "wordCount": 2448,
           "title": "Crypto Is on the Rise Again — Don’t Make the Same Mistake I Did in the Last Bull Run",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*4taCSJx4WmKxgVhjn1y4dw.png"
         },
@@ -211,7 +211,7 @@
           "description": "As the world of crypto continues to expand, more platforms are blending traditional financial services with innovative blockchain…",
           "link": "https://medium.com/coinmonks/crypto-com-exploring-the-benefits-incentives-and-reality-of-the-crypto-com-card-6a6fae02917a?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-09T12:14:17.000Z",
-          "wordCount": 4621,
+          "wordCount": 4613,
           "title": "Crypto.com: Exploring the Benefits, Incentives, and Reality of the Crypto.com Card",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:900/1*lzJ0OTtvQbiMGv_oYtAGaw.jpeg"
         },
@@ -231,7 +231,7 @@
           "description": "Whether you’re a seasoned miner or just starting, learn about the best coins offering high rewards, low difficulty, and promising growth…",
           "link": "https://medium.com/coinmonks/top-10-best-and-profitable-altcoins-to-mine-with-gpu-ed3d68dd18d5?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-09T12:14:13.000Z",
-          "wordCount": 3045,
+          "wordCount": 3053,
           "title": "Top 10 Best and Profitable Altcoins to Mine With GPU",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*wTgzaa0M3V7KORyW"
         }
@@ -242,6 +242,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/fbe1cf0f0636",
+          "author": "Magda  Jankowska",
+          "description": "CryptoZombies is an interactive tutorial that teaches developers how to code decentralized applications (DApps) on Ethereum using Solidity…",
+          "link": "https://blog.blockmagnates.com/mastering-solidity-basics-with-cryptozombies-a-beginners-guide-with-code-examples-and-exercises-fbe1cf0f0636?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-12-09T18:19:11.000Z",
+          "wordCount": 2556,
+          "title": "Mastering Solidity Basics with CryptoZombies: A Beginner’s Guide with Code Examples and Exercises…",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/946eb89b833b",
           "author": "0xNazu.sol",
@@ -278,7 +288,7 @@
           "description": "Abstract",
           "link": "https://blog.blockmagnates.com/blockchain-cryptography-merkle-root-hash-and-nonce-in-polygon-miden-and-zk-ecosystems-22a4ead81305?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-29T13:05:05.000Z",
-          "wordCount": 2652,
+          "wordCount": 2660,
           "title": "Blockchain Cryptography: Merkle Root, Hash, and Nonce in Polygon Miden and ZK Ecosystems",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*2oyZ9h23Jysw2FsQx4_Q2w.jpeg"
         },
@@ -298,7 +308,7 @@
           "description": "Abstract:",
           "link": "https://blog.blockmagnates.com/revolutionizing-crypto-off-ramping-a-decentralized-approach-with-upi-using-polygon-miden-35d2c2d4ce90?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:33.000Z",
-          "wordCount": 3313,
+          "wordCount": 3321,
           "title": "Revolutionizing Crypto Off-ramping: A Decentralized Approach with UPI Using Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WFx9CjxRc3CBXwyc9YCYqg.jpeg"
         },
@@ -308,7 +318,7 @@
           "description": "The engine behind Ethereum",
           "link": "https://blog.blockmagnates.com/evm-08c7121dab01?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-18T12:49:05.000Z",
-          "wordCount": 4244,
+          "wordCount": 4236,
           "title": "EVM",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:905/1*NTxg-MtFG46XvcpO68YJow.png"
         },
@@ -318,7 +328,7 @@
           "description": "In my learning time on cyfrin updraft, I came across the different types of payment, and it was quite interesting as I took more time to…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/call-send-and-transfer-the-payment-gateway-for-web3-a420bec70105?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-12T08:41:13.000Z",
-          "wordCount": 1048,
+          "wordCount": 1056,
           "title": "Call, Send, and Transfer: The Payment gateway for Web3",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YoMN2shMOsCzJapr4_OujA.png"
         }
