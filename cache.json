@@ -7,6 +7,23 @@
       "articles": []
     },
     {
+      "title": "cryptomaton",
+      "feedUrl": "https://www.cryptomaton.org/feed/",
+      "siteUrl": "https://www.cryptomaton.org/",
+      "articles": [
+        {
+          "id": "https://www.cryptomaton.org/?p=1729",
+          "author": "Andrei",
+          "description": "I’ve always been passionate about automating manual tasks, which led me to develop a fresh concept for portfolio management. Having worked on bots and crypto trading bot platforms like Aesir for several years, I wanted to create a tool positioned between manual and algorithmic trading. I came up with Cryptocurrency GPT — an AI assistant designed to […]\nThe post I made an Open Source AI Crypto Trading Bot for your crypto portfolio appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2024/12/08/i-made-an-ai-crypto-trading-bot-for-your-crypto-portfolio/",
+          "publishedOn": "2024-12-08T17:18:44.000Z",
+          "wordCount": 9905,
+          "title": "I made an Open Source AI Crypto Trading Bot for your crypto portfolio",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/12/Ai-crypto-trading-bot.jpg"
+        }
+      ]
+    },
+    {
       "title": "CoinsBench - Medium",
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
@@ -17,7 +34,7 @@
           "description": "Introduction",
           "link": "https://coinsbench.com/building-the-booknify-frontend-with-next-js-a424240ee620?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-06T13:13:58.000Z",
-          "wordCount": 4435,
+          "wordCount": 4443,
           "title": "Building the Booknify Frontend with Next.js,",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*OGvqA0d6Tlj9jAc1FkuKkA.jpeg"
         },
@@ -37,7 +54,7 @@
           "description": "In smart contract development, controlling access to critical functions like withdrawing funds is essential for maintaining security. One…",
           "link": "https://coinsbench.com/day-21-securing-withdrawals-ensuring-only-the-owner-can-access-funds-in-a-smart-contract-9a7d9bdb2161?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-06T13:13:50.000Z",
-          "wordCount": 2622,
+          "wordCount": 2614,
           "title": "Day 21: Securing Withdrawals: Ensuring Only the Owner Can Access Funds in a Smart Contract",
           "imageUrl": null
         },
@@ -47,7 +64,7 @@
           "description": "We gonna talk about the good, the bad and the ugly and trust me is gonna get chaotic real soon",
           "link": "https://coinsbench.com/daily-transaction-a-deceitful-metric-ac3647a0a266?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-06T13:13:45.000Z",
-          "wordCount": 1948,
+          "wordCount": 1940,
           "title": "On-Chain Adoption: Still a Long Road Ahead",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wG3c9k_ZjhUki3Tm2oEwzw@2x.jpeg"
         },
@@ -57,7 +74,7 @@
           "description": "Are you looking to elevate your Solana development game with advanced token functionalities? This GitHub repository Extensions, I made, is…",
           "link": "https://coinsbench.com/exploring-the-solana-token-extensions-22b5f9bf45d8?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-04T11:21:55.000Z",
-          "wordCount": 1515,
+          "wordCount": 1523,
           "title": "Exploring the Solana Token Extensions",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*lne3QMl55xwS3L9NLdumXg.png"
         },
@@ -67,7 +84,7 @@
           "description": "Making better decisions while building a new Project or Protocol is very important to the overall success and growth of the Project. In the area of on-boarding new users we’ve seen that airdrops are…",
           "link": "https://coinsbench.com/sablier-a-token-distribution-protocol-that-facilitates-the-streaming-of-erc-20-assets-and-handles-455dd4fa26e4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-04T11:21:53.000Z",
-          "wordCount": 1748,
+          "wordCount": 1756,
           "title": "Sablier: The Powerhouse of Token Distribution.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3kDN3RddCXGEyJ8ubsIqJw@2x.jpeg"
         },
@@ -77,7 +94,7 @@
           "description": "The concept and foundation of blockchain operations are referred to as consensus algorithms. These algorithms ensure data integrity…",
           "link": "https://coinsbench.com/evaluating-blockchain-consensus-algorithms-c10611c02a4e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:43.000Z",
-          "wordCount": 2384,
+          "wordCount": 2376,
           "title": "Evaluating Blockchain Consensus Algorithms",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tlojV8LxbTb2pK9KFtW3Ig.png"
         },
@@ -97,7 +114,7 @@
           "description": "Gas efficiency is a key focus in Solidity development, and even seemingly small improvements can lead to significant savings. One such…",
           "link": "https://coinsbench.com/day-24-optimizing-gas-in-solidity-with-custom-errors-and-reverts-0835a0cd1434?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:38.000Z",
-          "wordCount": 2186,
+          "wordCount": 2194,
           "title": "Day 24: Optimizing Gas in Solidity with Custom Errors and Reverts",
           "imageUrl": null
         },
@@ -119,12 +136,22 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a6a76f644cc6",
+          "author": "Durwin Ho",
+          "description": "But we all know its CEO is a Bitcoin maxi and a master internet troll.",
+          "link": "https://medium.com/coinmonks/nobody-knows-what-microstrategy-does-a6a76f644cc6?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-09T07:46:26.000Z",
+          "wordCount": 1755,
+          "title": "Nobody knows what MicroStrategy does.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*C-GubqTvOZAvHrOl_mKOVA@2x.jpeg"
+        },
+        {
           "id": "https://medium.com/p/025b524a9c4c",
           "author": "Coinmonks Team",
           "description": "Cryptocurrency trading on Solana has grown exponentially, driven by advanced trading bots like Trojan Bot, Bonk Bot, and Sol Trading Bot.",
           "link": "https://medium.com/coinmonks/trojan-bot-vs-bonk-bot-vs-sol-trading-bot-025b524a9c4c?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-07T11:08:39.000Z",
-          "wordCount": 2191,
+          "wordCount": 2182,
           "title": "Trojan Bot vs. Bonk Bot vs. Sol Trading Bot",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*vO0-pFXqjGnOZt5Y"
         },
@@ -134,7 +161,7 @@
           "description": "Cryptocurrency trading bots have revolutionized the way traders interact with the market. Among the leading contenders, DBot Dex, Bonk Bot…",
           "link": "https://medium.com/coinmonks/dbot-dex-vs-bonk-bot-vs-sol-trading-bot-dbd5e6227be7?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-07T10:27:39.000Z",
-          "wordCount": 2538,
+          "wordCount": 2529,
           "title": "DBot Dex vs Bonk Bot vs Sol Trading Bot",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1008/1*DVUYoTdb2BKjaao-BKexlg.png"
         },
@@ -144,7 +171,7 @@
           "description": "As the cryptocurrency trading landscape grows, automation tools like trading bots have become essential for traders. These bots streamline…",
           "link": "https://medium.com/coinmonks/gmgn-bot-vs-maestro-bot-vs-bonkbot-36ed8ada2be0?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-07T10:14:38.000Z",
-          "wordCount": 2405,
+          "wordCount": 2404,
           "title": "GMGN Bot vs. Maestro Bot vs. Bonkbot",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WJ0vzTqZKocl3R_QC0Wzhg.png"
         },
@@ -154,7 +181,7 @@
           "description": "Follow Global Commodities News on Areas & Producers\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/john-deere-heidelberg-materials-are-in-the-news-this-week-for-making-deals-e7f6aef5d071?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-06T12:33:00.000Z",
-          "wordCount": 1294,
+          "wordCount": 1285,
           "title": "John Deere & Heidelberg Materials are in the news this week for making deals!",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*p9S0LRGVB9Ei8iXO"
         },
@@ -164,7 +191,7 @@
           "description": "Easy x 3 coins are listed and explained why.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/3-low-cap-outperforming-altcoins-best-altcoins-to-buy-now-1a913ee2a7d8?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-06T12:32:54.000Z",
-          "wordCount": 1283,
+          "wordCount": 1269,
           "title": "3 Low Cap Outperforming Altcoins: Best Altcoins To Buy Now?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:944/1*X6mbhYDrSPy_g34Eyx62AQ.png"
         },
@@ -174,7 +201,7 @@
           "description": "XRP (XRP), the cryptocurrency formerly known as Ripple, is back on Mr. Market’s radar. Ripple was CoinMarketCap’s most trending…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/ripple-xrp-is-back-is-it-worth-investing-in-9e22dfacf531?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-06T12:32:47.000Z",
-          "wordCount": 1312,
+          "wordCount": 1311,
           "title": "Ripple (XRP) is back. Is it worth investing in?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*C2xM1DA7DUrr9wN-fedNJw.jpeg"
         },
@@ -184,7 +211,7 @@
           "description": "The champagne corks are popping across the crypto world—Bitcoin has finally smashed the $100k milestone. It’s a watershed moment, not just…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/bitcoin-smashes-100k-why-perpetuals-trading-is-your-golden-ticket-dont-miss-this-3b853e6e31da?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-06T12:32:41.000Z",
-          "wordCount": 1277,
+          "wordCount": 1276,
           "title": "Bitcoin Smashes $100k! Why Perpetuals Trading Is Your Golden Ticket (Don’t Miss This!)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*WZOcgKYLPK9r49AY2wHosQ.jpeg"
         },
@@ -194,7 +221,7 @@
           "description": "Splinterlands stands out as a trailblazer in the world of blockchain gaming, offering a revolutionary experience that blends excitement…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/the-legenday-runemancer-zebajin-is-ready-to-rumble-the-splinterlands-791de85a2442?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-06T12:32:35.000Z",
-          "wordCount": 1293,
+          "wordCount": 1292,
           "title": "The Legenday Runemancer Zebajin Is Ready To Rumble The Splinterlands",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:768/0*xjFHU6ZiThVBpmQM.png"
         },
@@ -204,19 +231,9 @@
           "description": "From ETH Denver to Money2020 Vegas, the beginning of the next bull run.",
           "link": "https://medium.com/coinmonks/crypto-travel-odyssey-2024-35972898ef43?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-06T12:32:23.000Z",
-          "wordCount": 2083,
+          "wordCount": 2082,
           "title": "Crypto Travel Odyssey 2024",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*t3i_G8L_rK5UdBdXJh0NOg@2x.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/fb31bab4a599",
-          "author": "Chip Mahoney",
-          "description": "But it’s not all that bad… you can now FOMO one BTC for the price of a Lincoln Nav\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/congratulations-your-opportunity-cost-came-to-15-million-percent-fb31bab4a599?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-06T12:32:17.000Z",
-          "wordCount": 1255,
-          "title": "Congratulations, Your Opportunity Cost Came to 15 Million Percent",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*2qquGdTg6f4dbnRy"
         }
       ]
     },
@@ -241,7 +258,7 @@
           "description": "In our EVM article, we mentioned that smart contracts can call each other. This time, we’re focusing on another case: smart contracts can…",
           "link": "https://blog.blockmagnates.com/evm-smart-contract-calls-part-2-eaf076d9c78b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-12-02T13:36:45.000Z",
-          "wordCount": 2220,
+          "wordCount": 2212,
           "title": "EVM: Smart Contract Calls (Part 2)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1L0OvTXxCkF7J5YMXJIVaQ.png"
         },
@@ -251,7 +268,7 @@
           "description": "This blog aims to explicate the joint synergistic relationship between AI and blockchain while discussing some real-life use cases and…",
           "link": "https://blog.blockmagnates.com/ai-and-blockchain-redefining-smart-contracts-for-a-decentralized-future-4cb7edae5164?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-30T10:48:33.000Z",
-          "wordCount": 2737,
+          "wordCount": 2729,
           "title": "AI and Blockchain: Redefining Smart Contracts for a Decentralized Future",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:626/1*VOPvrUwljjip5oGjnTnnaw.jpeg"
         },
