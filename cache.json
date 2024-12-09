@@ -44,7 +44,7 @@
           "description": "Blockchain technology and smart contracts have revolutionized industries, enabling decentralized applications (dApps) and decentralized…",
           "link": "https://coinsbench.com/writing-smart-contracts-in-solidity-real-world-use-cases-defi-security-best-practices-db22db136231?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-06T13:13:53.000Z",
-          "wordCount": 5828,
+          "wordCount": 5820,
           "title": "Writing Smart Contracts in Solidity: Real-World Use Cases & DeFi Security Best Practices",
           "imageUrl": null
         },
@@ -54,7 +54,7 @@
           "description": "In smart contract development, controlling access to critical functions like withdrawing funds is essential for maintaining security. One…",
           "link": "https://coinsbench.com/day-21-securing-withdrawals-ensuring-only-the-owner-can-access-funds-in-a-smart-contract-9a7d9bdb2161?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-06T13:13:50.000Z",
-          "wordCount": 2614,
+          "wordCount": 2622,
           "title": "Day 21: Securing Withdrawals: Ensuring Only the Owner Can Access Funds in a Smart Contract",
           "imageUrl": null
         },
@@ -94,7 +94,7 @@
           "description": "The concept and foundation of blockchain operations are referred to as consensus algorithms. These algorithms ensure data integrity…",
           "link": "https://coinsbench.com/evaluating-blockchain-consensus-algorithms-c10611c02a4e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:43.000Z",
-          "wordCount": 2376,
+          "wordCount": 2384,
           "title": "Evaluating Blockchain Consensus Algorithms",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tlojV8LxbTb2pK9KFtW3Ig.png"
         },
@@ -104,7 +104,7 @@
           "description": "When working with Solidity, optimizing gas usage is a critical part of smart contract development. Two powerful tools for this optimization…",
           "link": "https://coinsbench.com/day-23-gas-optimization-in-solidity-constant-vs-immutable-232a169a9d0a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:41.000Z",
-          "wordCount": 2069,
+          "wordCount": 2077,
           "title": "Day 23: Gas Optimization in Solidity: Constant vs. Immutable",
           "imageUrl": null
         },
@@ -124,7 +124,7 @@
           "description": "In Solidity, the receive() and fallback() functions play a crucial role in handling unexpected or direct interactions with smart contracts…",
           "link": "https://coinsbench.com/day25-understanding-receive-and-fallback-in-solidity-a-deep-dive-06d800bfb955?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:36.000Z",
-          "wordCount": 2394,
+          "wordCount": 2402,
           "title": "Day 25: Understanding receive() and fallback() in Solidity: A Deep Dive",
           "imageUrl": null
         }
@@ -161,7 +161,7 @@
           "description": "As the cryptocurrency trading landscape grows, automation tools like trading bots have become essential for traders. These bots streamline…",
           "link": "https://medium.com/coinmonks/gmgn-bot-vs-maestro-bot-vs-bonkbot-36ed8ada2be0?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-07T10:14:38.000Z",
-          "wordCount": 2397,
+          "wordCount": 2405,
           "title": "GMGN Bot vs. Maestro Bot vs. Bonkbot",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WJ0vzTqZKocl3R_QC0Wzhg.png"
         },
@@ -171,7 +171,7 @@
           "description": "Follow Global Commodities News on Areas & Producers\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/john-deere-heidelberg-materials-are-in-the-news-this-week-for-making-deals-e7f6aef5d071?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-06T12:33:00.000Z",
-          "wordCount": 1294,
+          "wordCount": 1286,
           "title": "John Deere & Heidelberg Materials are in the news this week for making deals!",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*p9S0LRGVB9Ei8iXO"
         },
@@ -181,7 +181,7 @@
           "description": "Easy x 3 coins are listed and explained why.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/3-low-cap-outperforming-altcoins-best-altcoins-to-buy-now-1a913ee2a7d8?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-06T12:32:54.000Z",
-          "wordCount": 1290,
+          "wordCount": 1291,
           "title": "3 Low Cap Outperforming Altcoins: Best Altcoins To Buy Now?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:944/1*X6mbhYDrSPy_g34Eyx62AQ.png"
         },
@@ -231,7 +231,7 @@
           "description": "But it’s not all that bad… you can now FOMO one BTC for the price of a Lincoln Nav\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/congratulations-your-opportunity-cost-came-to-15-million-percent-fb31bab4a599?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-06T12:32:17.000Z",
-          "wordCount": 1247,
+          "wordCount": 1255,
           "title": "Congratulations, Your Opportunity Cost Came to 15 Million Percent",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*2qquGdTg6f4dbnRy"
         }
@@ -258,7 +258,7 @@
           "description": "In our EVM article, we mentioned that smart contracts can call each other. This time, we’re focusing on another case: smart contracts can…",
           "link": "https://blog.blockmagnates.com/evm-smart-contract-calls-part-2-eaf076d9c78b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-12-02T13:36:45.000Z",
-          "wordCount": 2220,
+          "wordCount": 2212,
           "title": "EVM: Smart Contract Calls (Part 2)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1L0OvTXxCkF7J5YMXJIVaQ.png"
         },
@@ -308,7 +308,7 @@
           "description": "The engine behind Ethereum",
           "link": "https://blog.blockmagnates.com/evm-08c7121dab01?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-18T12:49:05.000Z",
-          "wordCount": 4244,
+          "wordCount": 4236,
           "title": "EVM",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:905/1*NTxg-MtFG46XvcpO68YJow.png"
         },
