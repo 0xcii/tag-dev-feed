@@ -7,23 +7,6 @@
       "articles": []
     },
     {
-      "title": "cryptomaton",
-      "feedUrl": "https://www.cryptomaton.org/feed/",
-      "siteUrl": "https://www.cryptomaton.org/",
-      "articles": [
-        {
-          "id": "https://www.cryptomaton.org/?p=1729",
-          "author": "Andrei",
-          "description": "I’ve always been passionate about automating manual tasks, which led me to develop a fresh concept for portfolio management. Having worked on bots and crypto trading bot platforms like Aesir for several years, I wanted to create a tool positioned between manual and algorithmic trading. I came up with Cryptocurrency GPT — an AI assistant designed to […]\nThe post I made an Open Source AI Crypto Trading Bot for your crypto portfolio appeared first on cryptomaton.",
-          "link": "https://www.cryptomaton.org/2024/12/08/i-made-an-ai-crypto-trading-bot-for-your-crypto-portfolio/",
-          "publishedOn": "2024-12-08T17:18:44.000Z",
-          "wordCount": 9905,
-          "title": "I made an Open Source AI Crypto Trading Bot for your crypto portfolio",
-          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/12/Ai-crypto-trading-bot.jpg"
-        }
-      ]
-    },
-    {
       "title": "CoinsBench - Medium",
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
@@ -74,7 +57,7 @@
           "description": "Are you looking to elevate your Solana development game with advanced token functionalities? This GitHub repository Extensions, I made, is…",
           "link": "https://coinsbench.com/exploring-the-solana-token-extensions-22b5f9bf45d8?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-04T11:21:55.000Z",
-          "wordCount": 1515,
+          "wordCount": 1523,
           "title": "Exploring the Solana Token Extensions",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*lne3QMl55xwS3L9NLdumXg.png"
         },
@@ -124,7 +107,7 @@
           "description": "In Solidity, the receive() and fallback() functions play a crucial role in handling unexpected or direct interactions with smart contracts…",
           "link": "https://coinsbench.com/day25-understanding-receive-and-fallback-in-solidity-a-deep-dive-06d800bfb955?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:36.000Z",
-          "wordCount": 2402,
+          "wordCount": 2394,
           "title": "Day 25: Understanding receive() and fallback() in Solidity: A Deep Dive",
           "imageUrl": null
         }
@@ -136,12 +119,22 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/9702e1664ed3",
+          "author": "Marcomega",
+          "description": "This blog evaluates a choice between quantum proof and zk proof to protect the blockchain against quantum security breaches.",
+          "link": "https://medium.com/coinmonks/zk-proof-vs-quantum-proof-which-protects-blockchain-better-9702e1664ed3?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-09T09:27:20.000Z",
+          "wordCount": 4045,
+          "title": "ZK Proof vs Quantum Proof: Which Protects Blockchain Better?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*C1jKczLsl5QSnBmm4LW6YA.png"
+        },
+        {
           "id": "https://medium.com/p/239ee579255b",
           "author": "Divyasshree",
           "description": "Platforms like ZettaBlock have been instrumental in providing real-time data insights, multi-chain support, and seamless integration for…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/alternatives-to-zettablock-239ee579255b?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-09T08:41:09.000Z",
-          "wordCount": 1202,
+          "wordCount": 1210,
           "title": "Alternatives to ZettaBlock",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*Pwf0OO7f0NK7flPV"
         },
@@ -171,7 +164,7 @@
           "description": "Cryptocurrency trading bots have revolutionized the way traders interact with the market. Among the leading contenders, DBot Dex, Bonk Bot…",
           "link": "https://medium.com/coinmonks/dbot-dex-vs-bonk-bot-vs-sol-trading-bot-dbd5e6227be7?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-07T10:27:39.000Z",
-          "wordCount": 2529,
+          "wordCount": 2537,
           "title": "DBot Dex vs Bonk Bot vs Sol Trading Bot",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1008/1*DVUYoTdb2BKjaao-BKexlg.png"
         },
@@ -181,7 +174,7 @@
           "description": "As the cryptocurrency trading landscape grows, automation tools like trading bots have become essential for traders. These bots streamline…",
           "link": "https://medium.com/coinmonks/gmgn-bot-vs-maestro-bot-vs-bonkbot-36ed8ada2be0?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-07T10:14:38.000Z",
-          "wordCount": 2404,
+          "wordCount": 2396,
           "title": "GMGN Bot vs. Maestro Bot vs. Bonkbot",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WJ0vzTqZKocl3R_QC0Wzhg.png"
         },
@@ -201,7 +194,7 @@
           "description": "Easy x 3 coins are listed and explained why.\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/3-low-cap-outperforming-altcoins-best-altcoins-to-buy-now-1a913ee2a7d8?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-06T12:32:54.000Z",
-          "wordCount": 1290,
+          "wordCount": 1282,
           "title": "3 Low Cap Outperforming Altcoins: Best Altcoins To Buy Now?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:944/1*X6mbhYDrSPy_g34Eyx62AQ.png"
         },
@@ -221,19 +214,9 @@
           "description": "The champagne corks are popping across the crypto world—Bitcoin has finally smashed the $100k milestone. It’s a watershed moment, not just…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/bitcoin-smashes-100k-why-perpetuals-trading-is-your-golden-ticket-dont-miss-this-3b853e6e31da?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-06T12:32:41.000Z",
-          "wordCount": 1268,
+          "wordCount": 1276,
           "title": "Bitcoin Smashes $100k! Why Perpetuals Trading Is Your Golden Ticket (Don’t Miss This!)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*WZOcgKYLPK9r49AY2wHosQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/791de85a2442",
-          "author": "PVMihalache",
-          "description": "Splinterlands stands out as a trailblazer in the world of blockchain gaming, offering a revolutionary experience that blends excitement…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-legenday-runemancer-zebajin-is-ready-to-rumble-the-splinterlands-791de85a2442?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-06T12:32:35.000Z",
-          "wordCount": 1292,
-          "title": "The Legenday Runemancer Zebajin Is Ready To Rumble The Splinterlands",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:768/0*xjFHU6ZiThVBpmQM.png"
         }
       ]
     },
@@ -268,7 +251,7 @@
           "description": "This blog aims to explicate the joint synergistic relationship between AI and blockchain while discussing some real-life use cases and…",
           "link": "https://blog.blockmagnates.com/ai-and-blockchain-redefining-smart-contracts-for-a-decentralized-future-4cb7edae5164?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-30T10:48:33.000Z",
-          "wordCount": 2729,
+          "wordCount": 2737,
           "title": "AI and Blockchain: Redefining Smart Contracts for a Decentralized Future",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:626/1*VOPvrUwljjip5oGjnTnnaw.jpeg"
         },
@@ -288,7 +271,7 @@
           "description": "Introduction :",
           "link": "https://blog.blockmagnates.com/the-future-of-financial-payment-apps-in-web3-leveraging-polygon-miden-1545bcbfbcd3?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:37.000Z",
-          "wordCount": 3286,
+          "wordCount": 3294,
           "title": "The Future of Financial Payment Apps in Web3: Leveraging Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1120/1*Vysgrw41u6PZ_MWwm8n7Gw.jpeg"
         },
@@ -318,7 +301,7 @@
           "description": "In my learning time on cyfrin updraft, I came across the different types of payment, and it was quite interesting as I took more time to…\nContinue reading on Block Magnates »",
           "link": "https://blog.blockmagnates.com/call-send-and-transfer-the-payment-gateway-for-web3-a420bec70105?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-12T08:41:13.000Z",
-          "wordCount": 1056,
+          "wordCount": 1048,
           "title": "Call, Send, and Transfer: The Payment gateway for Web3",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*YoMN2shMOsCzJapr4_OujA.png"
         }
