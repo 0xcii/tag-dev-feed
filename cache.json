@@ -54,7 +54,7 @@
           "description": "Introduction",
           "link": "https://coinsbench.com/building-the-booknify-frontend-with-next-js-a424240ee620?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-06T13:13:58.000Z",
-          "wordCount": 4435,
+          "wordCount": 4443,
           "title": "Building the Booknify Frontend with Next.js,",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*OGvqA0d6Tlj9jAc1FkuKkA.jpeg"
         },
@@ -84,7 +84,7 @@
           "description": "We gonna talk about the good, the bad and the ugly and trust me is gonna get chaotic real soon",
           "link": "https://coinsbench.com/daily-transaction-a-deceitful-metric-ac3647a0a266?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-06T13:13:45.000Z",
-          "wordCount": 1940,
+          "wordCount": 1948,
           "title": "On-Chain Adoption: Still a Long Road Ahead",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wG3c9k_ZjhUki3Tm2oEwzw@2x.jpeg"
         },
@@ -104,7 +104,7 @@
           "description": "Making better decisions while building a new Project or Protocol is very important to the overall success and growth of the Project. In the area of on-boarding new users we’ve seen that airdrops are…",
           "link": "https://coinsbench.com/sablier-a-token-distribution-protocol-that-facilitates-the-streaming-of-erc-20-assets-and-handles-455dd4fa26e4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-04T11:21:53.000Z",
-          "wordCount": 1748,
+          "wordCount": 1756,
           "title": "Sablier: The Powerhouse of Token Distribution.",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3kDN3RddCXGEyJ8ubsIqJw@2x.jpeg"
         },
@@ -114,7 +114,7 @@
           "description": "The concept and foundation of blockchain operations are referred to as consensus algorithms. These algorithms ensure data integrity…",
           "link": "https://coinsbench.com/evaluating-blockchain-consensus-algorithms-c10611c02a4e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:43.000Z",
-          "wordCount": 2384,
+          "wordCount": 2376,
           "title": "Evaluating Blockchain Consensus Algorithms",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tlojV8LxbTb2pK9KFtW3Ig.png"
         },
@@ -136,6 +136,56 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/c1a710e0ea9f",
+          "author": "QuillAudits - Web3 Security ️",
+          "description": "On December 4, 2024, Vestra_DAO was hacked due to a logic error in in the staking contract’s unStake() function.",
+          "link": "https://medium.com/coinmonks/overview-c1a710e0ea9f?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-10T14:28:03.000Z",
+          "wordCount": 1881,
+          "title": "Decoding Vestra DAO’s $500K Exploit",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lncqdOxqgYZQYatO2NQ77g.png"
+        },
+        {
+          "id": "https://medium.com/p/03eb1d26193c",
+          "author": "Gotti10",
+          "description": "THE WORLD AS WE SAW IT IN NOVEMBER 2024",
+          "link": "https://medium.com/coinmonks/make-it-capital-edition-44-03eb1d26193c?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-10T14:28:01.000Z",
+          "wordCount": 7466,
+          "title": "Make-it Capital Edition #44",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*sKh54GTe5b3SW1KHTb4mFw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/6cc805849236",
+          "author": "PVMihalache",
+          "description": "It is scary that the Web3 UX is still broken! Fragmented ecosystems and complex cross-chain transactions lead to high abandonment rates…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/across-the-cryptoverse-63-uniswap-in-app-swaps-and-the-spooky-season-6cc805849236?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-10T14:27:58.000Z",
+          "wordCount": 1332,
+          "title": "Across The Cryptoverse #63 — Uniswap In-App Swaps And The Spooky Season",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:680/0*ioD9qatEQ2rb4rBW"
+        },
+        {
+          "id": "https://medium.com/p/829d1b340df2",
+          "author": "Alertforalpha",
+          "description": "New all-time highs, dizzying lows, and price discovery — 2025’s bull run is your moment to master the cycle.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/crypto-peaks-and-lows-mastering-profits-in-2025-829d1b340df2?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-10T14:27:13.000Z",
+          "wordCount": 1238,
+          "title": "Crypto Peaks and Lows: Mastering Profits in 2025",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cVoJWoYmSAMIQmUTtAQ_rg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/7a7ff2ccebba",
+          "author": "Muhamad Yusup / Cupi Crypto",
+          "description": "Navigate the crypto market downturn with confidence. Learn effective strategies to manage risk and potentially capitalize on opportunities…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/riding-the-crypto-rollercoaster-what-to-do-when-the-market-takes-a-dip-7a7ff2ccebba?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-10T14:26:50.000Z",
+          "wordCount": 1296,
+          "title": "Riding the Crypto Rollercoaster: What to Do When the Market Takes a Dip",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*5x0YMFatlQ4mVj8xMYWTyA.jpeg"
+        },
+        {
           "id": "https://medium.com/p/bb080842183c",
           "author": "Karthik. Kc",
           "description": "Did you know the where Bitcoin will go before confirmation?",
@@ -151,7 +201,7 @@
           "description": "Playing games is a fantastic way to pass the time, but earning money while having fun is even more incredible. Recently, you may have come…",
           "link": "https://medium.com/coinmonks/play-to-earn-game-development-6927d23fe4ae?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-10T10:35:09.000Z",
-          "wordCount": 3977,
+          "wordCount": 3986,
           "title": "Play-to-Earn Game Development",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Dl1VMzRwZThkr-TXbZejCA.png"
         },
@@ -171,7 +221,7 @@
           "description": "The cryptocurrency industry has become known for unique patterns and fast development. Memes have become one of them, a fun yet powerful…",
           "link": "https://medium.com/coinmonks/rising-stars-the-top-5-meme-coins-to-watch-in-2025-according-to-experts-6917020e8d54?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-10T10:34:59.000Z",
-          "wordCount": 2347,
+          "wordCount": 2340,
           "title": "Rising Stars: The Top 5 Meme Coins to Watch in 2025, According to Experts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*O51V8JFWwmrpO1PkyDGJuQ.jpeg"
         },
@@ -184,56 +234,6 @@
           "wordCount": 1294,
           "title": "I made an AI crypto trading bot to help me manage my cryptocurrency portfolio",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xpalTnwQxvbSHrqHJhh-9Q.png"
-        },
-        {
-          "id": "https://medium.com/p/65b35f6b8b15",
-          "author": "Solidity Academy",
-          "description": "MiCA Deadline Looms: Will Your Crypto Business Survive the EU’s Regulatory Storm?",
-          "link": "https://medium.com/coinmonks/mica-the-countdown-to-eus-crypto-regulation-is-the-industry-ready-65b35f6b8b15?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-10T10:34:52.000Z",
-          "wordCount": 2967,
-          "title": "MiCA: The Countdown to EU’s Crypto Regulation — Is the Industry Ready?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xAF5lrg7fmW5vFJ9qXf8bQ.png"
-        },
-        {
-          "id": "https://medium.com/p/e263febc2704",
-          "author": "SourceLess Labs Foundation",
-          "description": "On December 10, SourceLess Labs Foundation joins a global effort to highlight the importance of human rights in every aspect of life…",
-          "link": "https://medium.com/coinmonks/celebrating-international-human-rights-day-10-dec-e263febc2704?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-10T10:34:43.000Z",
-          "wordCount": 2587,
-          "title": "Celebrating International Human Rights Day (10 Dec.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*RUTExVDf49-8ZGy7k5rosw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/1c439861c4df",
-          "author": "Bukz",
-          "description": "Know these before you invest!",
-          "link": "https://medium.com/coinmonks/market-cap-and-tokenomics-why-should-you-care-1c439861c4df?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-10T07:24:21.000Z",
-          "wordCount": 2327,
-          "title": "Market Cap and Tokenomics: Why Should You Care?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*AHucpOp3rRY4A3-TT21g9w.png"
-        },
-        {
-          "id": "https://medium.com/p/7de9d7319b9d",
-          "author": "Sovereign Crypto",
-          "description": "Fair-launch projects are heating up, and several strong projects are launching in the coming weeks.",
-          "link": "https://medium.com/coinmonks/the-next-5-10x-fair-launches-7de9d7319b9d?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-10T07:24:06.000Z",
-          "wordCount": 2039,
-          "title": "The Next 5–10X Fair-launches",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*Dg39UrpXx1o-VQsFNFF4tg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/94e3ae140516",
-          "author": "Rosario Borgesi",
-          "description": "In this article, we will explore what ERC-1155 is, how it differs from ERC-20 and ERC-721, and why it is a game-changer for developers…",
-          "link": "https://medium.com/coinmonks/understanding-erc-1155-the-ultimate-token-standard-for-fungible-and-non-fungible-assets-94e3ae140516?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-10T07:24:04.000Z",
-          "wordCount": 5028,
-          "title": "Understanding ERC-1155: The Ultimate Token Standard for Fungible and Non-Fungible Assets",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*NTbfPAKay0usHnZusPvGxg.png"
         }
       ]
     },
@@ -258,7 +258,7 @@
           "description": "In our previous article, “Ethereum: Introduction to ERC20 Tokens,” we covered the theory behind ERC20 tokens. Now it’s time to put that…",
           "link": "https://blog.blockmagnates.com/building-and-testing-your-first-erc20-token-a-hands-on-guide-946eb89b833b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-12-03T12:21:03.000Z",
-          "wordCount": 2196,
+          "wordCount": 2188,
           "title": "Building and Testing Your First ERC20 Token: A Hands-On Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*VQox-0dIf3sA1qdgaOTjpg.png"
         },
@@ -268,7 +268,7 @@
           "description": "In our EVM article, we mentioned that smart contracts can call each other. This time, we’re focusing on another case: smart contracts can…",
           "link": "https://blog.blockmagnates.com/evm-smart-contract-calls-part-2-eaf076d9c78b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-12-02T13:36:45.000Z",
-          "wordCount": 2212,
+          "wordCount": 2220,
           "title": "EVM: Smart Contract Calls (Part 2)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1L0OvTXxCkF7J5YMXJIVaQ.png"
         },
@@ -288,7 +288,7 @@
           "description": "Abstract",
           "link": "https://blog.blockmagnates.com/blockchain-cryptography-merkle-root-hash-and-nonce-in-polygon-miden-and-zk-ecosystems-22a4ead81305?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-29T13:05:05.000Z",
-          "wordCount": 2652,
+          "wordCount": 2660,
           "title": "Blockchain Cryptography: Merkle Root, Hash, and Nonce in Polygon Miden and ZK Ecosystems",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*2oyZ9h23Jysw2FsQx4_Q2w.jpeg"
         },
@@ -308,7 +308,7 @@
           "description": "Abstract:",
           "link": "https://blog.blockmagnates.com/revolutionizing-crypto-off-ramping-a-decentralized-approach-with-upi-using-polygon-miden-35d2c2d4ce90?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:33.000Z",
-          "wordCount": 3313,
+          "wordCount": 3321,
           "title": "Revolutionizing Crypto Off-ramping: A Decentralized Approach with UPI Using Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WFx9CjxRc3CBXwyc9YCYqg.jpeg"
         },
