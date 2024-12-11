@@ -54,7 +54,7 @@
           "description": "Introduction",
           "link": "https://coinsbench.com/building-the-booknify-frontend-with-next-js-a424240ee620?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-06T13:13:58.000Z",
-          "wordCount": 4443,
+          "wordCount": 4435,
           "title": "Building the Booknify Frontend with Next.js,",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*OGvqA0d6Tlj9jAc1FkuKkA.jpeg"
         },
@@ -64,7 +64,7 @@
           "description": "Blockchain technology and smart contracts have revolutionized industries, enabling decentralized applications (dApps) and decentralized…",
           "link": "https://coinsbench.com/writing-smart-contracts-in-solidity-real-world-use-cases-defi-security-best-practices-db22db136231?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-06T13:13:53.000Z",
-          "wordCount": 5828,
+          "wordCount": 5820,
           "title": "Writing Smart Contracts in Solidity: Real-World Use Cases & DeFi Security Best Practices",
           "imageUrl": null
         },
@@ -94,7 +94,7 @@
           "description": "Are you looking to elevate your Solana development game with advanced token functionalities? This GitHub repository Extensions, I made, is…",
           "link": "https://coinsbench.com/exploring-the-solana-token-extensions-22b5f9bf45d8?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-04T11:21:55.000Z",
-          "wordCount": 1523,
+          "wordCount": 1515,
           "title": "Exploring the Solana Token Extensions",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*lne3QMl55xwS3L9NLdumXg.png"
         },
@@ -124,7 +124,7 @@
           "description": "When working with Solidity, optimizing gas usage is a critical part of smart contract development. Two powerful tools for this optimization…",
           "link": "https://coinsbench.com/day-23-gas-optimization-in-solidity-constant-vs-immutable-232a169a9d0a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-02T13:24:41.000Z",
-          "wordCount": 2069,
+          "wordCount": 2077,
           "title": "Day 23: Gas Optimization in Solidity: Constant vs. Immutable",
           "imageUrl": null
         }
@@ -136,12 +136,82 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e2725cf06969",
+          "author": "Wasiu Akindoyin",
+          "description": "Somehow, somewhere, you’ve probably seen tweets or posts about Sei Network while scrolling through the internet. But what is it? A…",
+          "link": "https://medium.com/coinmonks/sei-network-everything-you-need-to-know-e2725cf06969?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-11T07:43:26.000Z",
+          "wordCount": 2904,
+          "title": "Sei Network: Everything You Need to Know",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*fG9-qlih_mBUF0NUPJlfDA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/bef921cf7db9",
+          "author": "MWC",
+          "description": "Hey folks, I’ve written about Mitosis a couple of times now, but if you haven’t been following along since then, currently they have an…",
+          "link": "https://medium.com/coinmonks/mitosis-testnet-guide-bef921cf7db9?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-11T07:30:15.000Z",
+          "wordCount": 3949,
+          "title": "Mitosis Testnet Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1154/1*JJ-sUYZFOTATnhtnh9v-oQ.png"
+        },
+        {
+          "id": "https://medium.com/p/9d53b8971f7c",
+          "author": "Johnwege",
+          "description": "Always be ready.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/life-changing-bitcoin-moments-that-you-cant-miss-9d53b8971f7c?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-11T07:30:12.000Z",
+          "wordCount": 1256,
+          "title": "Life-Changing Bitcoin Moments That You CAN’T Miss",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*oerdcKCVALCy75X5TJV3PA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c3200daa81f8",
+          "author": "Steven Boykey Sidley",
+          "description": "(image:ideogram.ai)",
+          "link": "https://medium.com/coinmonks/theres-a-new-czar-in-town-c3200daa81f8?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-11T07:30:11.000Z",
+          "wordCount": 2959,
+          "title": "There’s a New Czar in Town",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:904/0*K0319UeegdwOBB-Q.png"
+        },
+        {
+          "id": "https://medium.com/p/0b47733442cd",
+          "author": "Seraphina blake",
+          "description": "In 2025, artificial intelligence (AI) is set to revolutionize marketing strategies, transforming how businesses engage with customers…",
+          "link": "https://medium.com/coinmonks/10-must-have-ai-marketing-tools-for-success-in-2025-0b47733442cd?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-11T07:30:10.000Z",
+          "wordCount": 3162,
+          "title": "10 Must-Have AI Marketing Tools for Success in 2025",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*hhEAC77oYIXs5EWmL2lCrw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/0443232b3a6a",
+          "author": "Income Wallet",
+          "description": "These 3 altcoins will get grow soon rapidly\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/sell-xrp-sol-ada-in-days-and-get-into-these-altcoins-gems-0443232b3a6a?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-11T07:30:05.000Z",
+          "wordCount": 1194,
+          "title": "Sell XRP SOL ADA in ** Days and Get into These Altcoins Gems",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:705/1*BrcDR-CY0Cbdk48B8GRnbQ.png"
+        },
+        {
+          "id": "https://medium.com/p/bacbc46c2066",
+          "author": "NordFX",
+          "description": "📊 Asian Markets",
+          "link": "https://medium.com/coinmonks/morning-wrap-11-12-2024-bacbc46c2066?source=rss----721b17443fd5---4",
+          "publishedOn": "2024-12-11T07:30:03.000Z",
+          "wordCount": 1182,
+          "title": "Morning Wrap (11.12.2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/9a759ced4761",
           "author": "NEFTURE SECURITY I Blockchain Security",
           "description": "In recent years, the landscape of asset management has been experiencing a seismic shift, driven by the emergence of digital assets and…",
           "link": "https://medium.com/coinmonks/the-ripple-effect-how-fidelity-and-blackrock-etfs-shaped-digital-asset-management-9a759ced4761?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-10T20:02:53.000Z",
-          "wordCount": 3966,
+          "wordCount": 3958,
           "title": "The Ripple Effect: How Fidelity and BlackRock ETFs Shaped Digital Asset Management",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7D1p20fwzRgKqVU-7dAaPw.png"
         },
@@ -151,7 +221,7 @@
           "description": "After reaching a new all-time high of USD 2,790 on October 30th, 2024, gold prices experienced a sharp and rapid pullback, hitting a low…",
           "link": "https://medium.com/coinmonks/december-10th-2024-gold-chartbook-pullback-almost-complete-bfa3abdf78bf?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-10T20:02:45.000Z",
-          "wordCount": 3066,
+          "wordCount": 3058,
           "title": "December 10th, 2024, Gold Chartbook — Pullback almost complete",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:798/1*3gRGVuFlS04weT5RTew9BQ.jpeg"
         },
@@ -161,79 +231,9 @@
           "description": "How to get cryptocurrency sent to your web3 wallet every month without doing anything",
           "link": "https://medium.com/coinmonks/earn-passive-income-through-crypto-trading-bots-a83028dac904?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-10T20:02:40.000Z",
-          "wordCount": 2484,
+          "wordCount": 2475,
           "title": "Earn passive income through crypto trading bots",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:768/1*vpw5VkdkJ7TBvmCzCoPgJg@2x.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d09ee51c024f",
-          "author": "PVMihalache",
-          "description": "It’s time for another Splinterlands Community Engagement Challenge, and this week, we’re focusing on knowledge-sharing! Let’s get normies…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-splinterlands-free2play-account-lets-go-normies-d09ee51c024f?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-10T20:02:33.000Z",
-          "wordCount": 1279,
-          "title": "The Splinterlands Free2Play Account — Let’s Go Normies!",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:768/0*V78KIJw0FmRPpW3l.png"
-        },
-        {
-          "id": "https://medium.com/p/a9e20f55a873",
-          "author": "Coinmonks Team",
-          "description": "What Are Crypto Telegram Trading Channels?",
-          "link": "https://medium.com/coinmonks/top-10-crypto-telegram-crypto-trading-channels-a9e20f55a873?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-10T19:05:14.000Z",
-          "wordCount": 4710,
-          "title": "Top 10 Crypto Telegram Crypto Trading channels",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:640/0*5vJsglGxIzIc6M4Y"
-        },
-        {
-          "id": "https://medium.com/p/5813c0161a78",
-          "author": "Coinmonks Team",
-          "description": "Crypto trading is changing its ways with time, we have moved from p2p transactions to telegram bots. Telegram bots have emerged as a solid…",
-          "link": "https://medium.com/coinmonks/gmgn-vs-bullx-vs-dbot-5813c0161a78?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-10T18:56:51.000Z",
-          "wordCount": 3131,
-          "title": "GMGN vs BullX vs DBot",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*514vReOMb2Qq2BdmBFLA1A.png"
-        },
-        {
-          "id": "https://medium.com/p/c1a710e0ea9f",
-          "author": "QuillAudits - Web3 Security ️",
-          "description": "On December 4, 2024, Vestra_DAO was hacked due to a logic error in in the staking contract’s unStake() function.",
-          "link": "https://medium.com/coinmonks/overview-c1a710e0ea9f?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-10T14:28:03.000Z",
-          "wordCount": 1873,
-          "title": "Decoding Vestra DAO’s $500K Exploit",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lncqdOxqgYZQYatO2NQ77g.png"
-        },
-        {
-          "id": "https://medium.com/p/03eb1d26193c",
-          "author": "Gotti10",
-          "description": "THE WORLD AS WE SAW IT IN NOVEMBER 2024",
-          "link": "https://medium.com/coinmonks/make-it-capital-edition-44-03eb1d26193c?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-10T14:28:01.000Z",
-          "wordCount": 7466,
-          "title": "Make-it Capital Edition #44",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*sKh54GTe5b3SW1KHTb4mFw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/6cc805849236",
-          "author": "PVMihalache",
-          "description": "It is scary that the Web3 UX is still broken! Fragmented ecosystems and complex cross-chain transactions lead to high abandonment rates…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/across-the-cryptoverse-63-uniswap-in-app-swaps-and-the-spooky-season-6cc805849236?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-10T14:27:58.000Z",
-          "wordCount": 1333,
-          "title": "Across The Cryptoverse #63 — Uniswap In-App Swaps And The Spooky Season",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:680/0*ioD9qatEQ2rb4rBW"
-        },
-        {
-          "id": "https://medium.com/p/829d1b340df2",
-          "author": "Alertforalpha",
-          "description": "New all-time highs, dizzying lows, and price discovery — 2025’s bull run is your moment to master the cycle.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/crypto-peaks-and-lows-mastering-profits-in-2025-829d1b340df2?source=rss----721b17443fd5---4",
-          "publishedOn": "2024-12-10T14:27:13.000Z",
-          "wordCount": 1264,
-          "title": "Crypto Peaks and Lows: Mastering Profits in 2025",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*cVoJWoYmSAMIQmUTtAQ_rg.jpeg"
         }
       ]
     },
@@ -258,7 +258,7 @@
           "description": "In our previous article, “Ethereum: Introduction to ERC20 Tokens,” we covered the theory behind ERC20 tokens. Now it’s time to put that…",
           "link": "https://blog.blockmagnates.com/building-and-testing-your-first-erc20-token-a-hands-on-guide-946eb89b833b?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-12-03T12:21:03.000Z",
-          "wordCount": 2196,
+          "wordCount": 2188,
           "title": "Building and Testing Your First ERC20 Token: A Hands-On Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*VQox-0dIf3sA1qdgaOTjpg.png"
         },
@@ -308,7 +308,7 @@
           "description": "Abstract:",
           "link": "https://blog.blockmagnates.com/revolutionizing-crypto-off-ramping-a-decentralized-approach-with-upi-using-polygon-miden-35d2c2d4ce90?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-22T13:41:33.000Z",
-          "wordCount": 3313,
+          "wordCount": 3321,
           "title": "Revolutionizing Crypto Off-ramping: A Decentralized Approach with UPI Using Polygon Miden",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WFx9CjxRc3CBXwyc9YCYqg.jpeg"
         },
@@ -318,7 +318,7 @@
           "description": "The engine behind Ethereum",
           "link": "https://blog.blockmagnates.com/evm-08c7121dab01?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2024-11-18T12:49:05.000Z",
-          "wordCount": 4236,
+          "wordCount": 4244,
           "title": "EVM",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:905/1*NTxg-MtFG46XvcpO68YJow.png"
         },
