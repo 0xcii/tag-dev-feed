@@ -29,6 +29,96 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a3a63543374e",
+          "author": "Decentrablock",
+          "description": "In the ever-evolving generation landscape, blockchain has emerged as a transformative force, revolutionizing how groups perform and…",
+          "link": "https://coinsbench.com/what-is-blockchain-development-a3a63543374e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-13T12:51:37.000Z",
+          "wordCount": 6593,
+          "title": "What is Blockchain Development?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-NSYbHWuDFQCubM8BNn9fw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/fdc887a84afb",
+          "author": "Divyansh Sagar",
+          "description": "Starting with the absolute basics:",
+          "link": "https://coinsbench.com/solidity-contracts-fdc887a84afb?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-13T12:51:33.000Z",
+          "wordCount": 1055,
+          "title": "Web3 Chapter 1: Solidity Contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1HY5DmH9R2HxzY74mEqqiA.png"
+        },
+        {
+          "id": "https://medium.com/p/b443ba8617bb",
+          "author": "Divyansh Sagar",
+          "description": "Great job! Now that we’ve got a shell for our contract, let’s learn about how Solidity deals with variables.",
+          "link": "https://coinsbench.com/solidity-state-variables-integers-b443ba8617bb?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-13T12:51:31.000Z",
+          "wordCount": 1069,
+          "title": "Web3 Chapter 2: Solidity State Variables & Integers",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1HY5DmH9R2HxzY74mEqqiA.png"
+        },
+        {
+          "id": "https://medium.com/p/4c5768a2e2b3",
+          "author": "Divyansh Sagar",
+          "description": "Math in Solidity is pretty straightforward. The following operations are the same as in most programming languages:",
+          "link": "https://coinsbench.com/solidity-math-operations-4c5768a2e2b3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-13T12:51:27.000Z",
+          "wordCount": 885,
+          "title": "Web3 Chapter 3: Solidity Math Operations",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1HY5DmH9R2HxzY74mEqqiA.png"
+        },
+        {
+          "id": "https://medium.com/p/1cacd2950a5c",
+          "author": "Divyansh Sagar",
+          "description": "Sometimes you need a more complex data type. For this, Solidity provides structs:",
+          "link": "https://coinsbench.com/solidity-structs-1cacd2950a5c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-13T12:51:24.000Z",
+          "wordCount": 830,
+          "title": "Web3 Chapter 4: Solidity Structs",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1HY5DmH9R2HxzY74mEqqiA.png"
+        },
+        {
+          "id": "https://medium.com/p/9b17319829c1",
+          "author": "Divyansh Sagar",
+          "description": "When you want a collection of something, you can use an array. There are two types of arrays in Solidity: fixed arrays and dynamic arrays:",
+          "link": "https://coinsbench.com/web3-chapter-5-solidity-arrays-9b17319829c1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-13T12:51:22.000Z",
+          "wordCount": 1097,
+          "title": "Web3 Chapter 5: Solidity Arrays",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1HY5DmH9R2HxzY74mEqqiA.png"
+        },
+        {
+          "id": "https://medium.com/p/6d689d9340d4",
+          "author": "Divyansh Sagar",
+          "description": "A function declaration in solidity looks like the following:",
+          "link": "https://coinsbench.com/web3-chapter-6-solidity-function-declarations-6d689d9340d4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-13T12:51:21.000Z",
+          "wordCount": 1187,
+          "title": "Web3 Chapter 6: Solidity Function Declarations",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1HY5DmH9R2HxzY74mEqqiA.png"
+        },
+        {
+          "id": "https://medium.com/p/2bcc103c7397",
+          "author": "Divyansh Sagar",
+          "description": "Creating New Structs:\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/chapter-8-working-with-structs-and-arrays-2bcc103c7397?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-13T12:51:19.000Z",
+          "wordCount": 928,
+          "title": "Web3 Chapter 7: Working With Structs and Arrays",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:828/1*mjNOtgTs-jfrPL_lzEPDrw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/bce0e9d6ddd1",
+          "author": "Khoirul Aziz",
+          "description": "In previous articles we have talking about how to build smart contracts on the ethereum network. Starting from ERC-20 tokens to NFT…",
+          "link": "https://coinsbench.com/how-to-integration-smart-contract-to-front-end-chapter-1-simple-dapps-for-miner-token-bce0e9d6ddd1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-13T12:51:15.000Z",
+          "wordCount": 3545,
+          "title": "How To Integration Smart Contract to Front-end, Chapter 1: Simple Dapps for Miner Token",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*rve9wAKoHzTAucKbICZdeg.png"
+        },
+        {
           "id": "https://medium.com/p/8ac598382345",
           "author": "Nagvekar",
           "description": "Blockchain technology often brings to mind cryptocurrencies like Bitcoin and Ethereum, but did you know that blockchain is also…",
@@ -37,96 +127,6 @@
           "wordCount": 2081,
           "title": "Understanding Hyperledger Fabric: When to Use It & When to Avoid It",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*ZnzoWBA3sIkWdAbx"
-        },
-        {
-          "id": "https://medium.com/p/569b9d01a701",
-          "author": "Nagvekar",
-          "description": "Distributed Ledger Technology (DLT) is revolutionizing the way data is stored and transactions are processed across various industries. By…",
-          "link": "https://coinsbench.com/distributed-ledger-technology-a-complete-guide-569b9d01a701?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-09T18:10:46.000Z",
-          "wordCount": 1444,
-          "title": "Introduction to Distributed Ledger Technology (DLT)",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*1a2Cm2b1GxJxjPMe"
-        },
-        {
-          "id": "https://medium.com/p/a424240ee620",
-          "author": "Ras",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/building-the-booknify-frontend-with-next-js-a424240ee620?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-06T13:13:58.000Z",
-          "wordCount": 4453,
-          "title": "Building the Booknify Frontend with Next.js,",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*OGvqA0d6Tlj9jAc1FkuKkA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/db22db136231",
-          "author": "Magda  Jankowska",
-          "description": "Blockchain technology and smart contracts have revolutionized industries, enabling decentralized applications (dApps) and decentralized…",
-          "link": "https://coinsbench.com/writing-smart-contracts-in-solidity-real-world-use-cases-defi-security-best-practices-db22db136231?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-06T13:13:53.000Z",
-          "wordCount": 5838,
-          "title": "Writing Smart Contracts in Solidity: Real-World Use Cases & DeFi Security Best Practices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9a7d9bdb2161",
-          "author": "Gurnoor Singh",
-          "description": "In smart contract development, controlling access to critical functions like withdrawing funds is essential for maintaining security. One…",
-          "link": "https://coinsbench.com/day-21-securing-withdrawals-ensuring-only-the-owner-can-access-funds-in-a-smart-contract-9a7d9bdb2161?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-06T13:13:50.000Z",
-          "wordCount": 2632,
-          "title": "Day 21: Securing Withdrawals: Ensuring Only the Owner Can Access Funds in a Smart Contract",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ac3647a0a266",
-          "author": "okolicodes",
-          "description": "We gonna talk about the good, the bad and the ugly and trust me is gonna get chaotic real soon",
-          "link": "https://coinsbench.com/daily-transaction-a-deceitful-metric-ac3647a0a266?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-06T13:13:45.000Z",
-          "wordCount": 1958,
-          "title": "On-Chain Adoption: Still a Long Road Ahead",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wG3c9k_ZjhUki3Tm2oEwzw@2x.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/22b5f9bf45d8",
-          "author": "Franck Maussand",
-          "description": "Are you looking to elevate your Solana development game with advanced token functionalities? This GitHub repository Extensions, I made, is…",
-          "link": "https://coinsbench.com/exploring-the-solana-token-extensions-22b5f9bf45d8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-04T11:21:55.000Z",
-          "wordCount": 1533,
-          "title": "Exploring the Solana Token Extensions",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*lne3QMl55xwS3L9NLdumXg.png"
-        },
-        {
-          "id": "https://medium.com/p/455dd4fa26e4",
-          "author": "okolicodes",
-          "description": "Making better decisions while building a new Project or Protocol is very important to the overall success and growth of the Project. In the area of on-boarding new users we’ve seen that airdrops are…",
-          "link": "https://coinsbench.com/sablier-a-token-distribution-protocol-that-facilitates-the-streaming-of-erc-20-assets-and-handles-455dd4fa26e4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-04T11:21:53.000Z",
-          "wordCount": 1766,
-          "title": "Sablier: The Powerhouse of Token Distribution.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3kDN3RddCXGEyJ8ubsIqJw@2x.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/c10611c02a4e",
-          "author": "Dery K. Yahya",
-          "description": "The concept and foundation of blockchain operations are referred to as consensus algorithms. These algorithms ensure data integrity…",
-          "link": "https://coinsbench.com/evaluating-blockchain-consensus-algorithms-c10611c02a4e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-02T13:24:43.000Z",
-          "wordCount": 2394,
-          "title": "Evaluating Blockchain Consensus Algorithms",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tlojV8LxbTb2pK9KFtW3Ig.png"
-        },
-        {
-          "id": "https://medium.com/p/232a169a9d0a",
-          "author": "Gurnoor Singh",
-          "description": "When working with Solidity, optimizing gas usage is a critical part of smart contract development. Two powerful tools for this optimization…",
-          "link": "https://coinsbench.com/day-23-gas-optimization-in-solidity-constant-vs-immutable-232a169a9d0a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-02T13:24:41.000Z",
-          "wordCount": 2087,
-          "title": "Day 23: Gas Optimization in Solidity: Constant vs. Immutable",
-          "imageUrl": null
         }
       ]
     },
