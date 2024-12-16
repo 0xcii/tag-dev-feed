@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-16T14:15:54.169Z</id>
+    <id>urn:2024-12-16T15:17:26.731Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-16T14:15:54.169Z</updated>
+    <updated>2024-12-16T15:17:26.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Exploring The Intersection of Web3 Gaming and DeFi]]></title>
+        <id>https://medium.com/p/2cda24782bdb</id>
+        <link href="https://coinsbench.com/exploring-the-intersection-of-web3-gaming-and-defi-2cda24782bdb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-16T15:14:34.000Z</updated>
+        <summary type="html"><![CDATA[Overview]]></summary>
+        <author>
+            <name>Ukezi Ebenezer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Wasting Time Setting Up! ZIION OS, The Web3 Dev’s and Hacker’s Dream :)]]></title>
+        <id>https://medium.com/p/936801497f65</id>
+        <link href="https://coinsbench.com/stop-wasting-time-setting-up-ziion-os-the-web3-devs-and-hacker-s-dream-936801497f65?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-16T15:14:27.000Z</updated>
+        <summary type="html"><![CDATA[I’m not going to say that setting up hacking or dev envs is more difficult than actual hacking, but sometimes it can be, especially if…]]></summary>
+        <author>
+            <name>0xNazu.sol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is DeFi(Decentralized finance)?]]></title>
+        <id>https://medium.com/p/58abf7c1e3c6</id>
+        <link href="https://coinsbench.com/what-is-defi-decentralized-finance-58abf7c1e3c6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-16T15:14:20.000Z</updated>
+        <summary type="html"><![CDATA[Decentralized finance is quickly gaining attraction as a method of providing financial decentralized of the conventional banking tools…]]></summary>
+        <author>
+            <name>Decentrablock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vestra DAO $500K Exploit: A Simple Breakdown]]></title>
+        <id>https://medium.com/p/4d9436856c17</id>
+        <link href="https://coinsbench.com/vestra-dao-500k-exploit-a-simple-breakdown-4d9436856c17?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-16T15:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts are the backbone of decentralized finance (DeFi), but their design flaws can lead to catastrophic losses. In this case…]]></summary>
+        <author>
+            <name>Adarshswaminath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Best Crypto News Websites in 2024]]></title>
         <id>https://medium.com/p/5bb708f00d50</id>
@@ -167,37 +207,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web3 Chapter 6: Solidity Function Declarations]]></title>
-        <id>https://medium.com/p/6d689d9340d4</id>
-        <link href="https://coinsbench.com/web3-chapter-6-solidity-function-declarations-6d689d9340d4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-13T12:51:21.000Z</updated>
-        <summary type="html"><![CDATA[A function declaration in solidity looks like the following:]]></summary>
-        <author>
-            <name>Divyansh Sagar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Chapter 7: Working With Structs and Arrays]]></title>
-        <id>https://medium.com/p/2bcc103c7397</id>
-        <link href="https://coinsbench.com/chapter-8-working-with-structs-and-arrays-2bcc103c7397?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-13T12:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Creating New Structs:
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Divyansh Sagar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Integration Smart Contract to Front-end, Chapter 1: Simple Dapps for Miner Token]]></title>
-        <id>https://medium.com/p/bce0e9d6ddd1</id>
-        <link href="https://coinsbench.com/how-to-integration-smart-contract-to-front-end-chapter-1-simple-dapps-for-miner-token-bce0e9d6ddd1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-13T12:51:15.000Z</updated>
-        <summary type="html"><![CDATA[In previous articles we have talking about how to build smart contracts on the ethereum network. Starting from ERC-20 tokens to NFT…]]></summary>
-        <author>
-            <name>Khoirul Aziz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mastering Solidity Basics with CryptoZombies: A Beginner’s Guide with Code Examples and Exercises…]]></title>
         <id>https://medium.com/p/fbe1cf0f0636</id>
         <link href="https://blog.blockmagnates.com/mastering-solidity-basics-with-cryptozombies-a-beginners-guide-with-code-examples-and-exercises-fbe1cf0f0636?source=rss----18fa961f1eff--solidity"/>
@@ -205,16 +214,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[CryptoZombies is an interactive tutorial that teaches developers how to code decentralized applications (DApps) on Ethereum using Solidity…]]></summary>
         <author>
             <name>Magda  Jankowska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Hyperledger Fabric: When to Use It & When to Avoid It]]></title>
-        <id>https://medium.com/p/8ac598382345</id>
-        <link href="https://coinsbench.com/understanding-hyperledger-fabric-when-to-use-it-when-to-avoid-it-8ac598382345?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-09T18:10:48.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology often brings to mind cryptocurrencies like Bitcoin and Ethereum, but did you know that blockchain is also…]]></summary>
-        <author>
-            <name>Nagvekar</name>
         </author>
     </entry>
     <entry>
