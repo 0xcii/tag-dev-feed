@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-18T15:16:43.119Z</id>
+    <id>urn:2024-12-18T16:19:48.155Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-18T15:16:43.119Z</updated>
+    <updated>2024-12-18T16:19:48.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3 Airdrops: A Guide to the Digital Treasure Hunt]]></title>
+        <id>https://medium.com/p/991ba55a8e51</id>
+        <link href="https://coinsbench.com/web3-airdrops-a-guide-to-the-digital-treasure-hunt-991ba55a8e51?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-18T15:44:32.000Z</updated>
+        <summary type="html"><![CDATA[Overview]]></summary>
+        <author>
+            <name>Ukezi Ebenezer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to prevent Reentrancy attacks in Solidity smart contracts]]></title>
+        <id>https://medium.com/p/b7f1d26c57f0</id>
+        <link href="https://coinsbench.com/how-to-prevent-reentrancy-attacks-in-solidity-smart-contracts-b7f1d26c57f0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-18T15:44:29.000Z</updated>
+        <summary type="html"><![CDATA[An in-depth guide on Reentrancy attack and how you can keep your smart contract secure from it]]></summary>
+        <author>
+            <name>Ukpai Udo Precious</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fantom Price Prediction: How FTM Could Perform from 2025 to 2028]]></title>
         <id>https://medium.com/p/706ce6ef970f</id>
@@ -185,26 +205,6 @@ Continue reading on Coinmonks »]]></summary>
         <link href="https://coinsbench.com/solidity-math-operations-4c5768a2e2b3?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-12-13T12:51:27.000Z</updated>
         <summary type="html"><![CDATA[Math in Solidity is pretty straightforward. The following operations are the same as in most programming languages:]]></summary>
-        <author>
-            <name>Divyansh Sagar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Chapter 4: Solidity Structs]]></title>
-        <id>https://medium.com/p/1cacd2950a5c</id>
-        <link href="https://coinsbench.com/solidity-structs-1cacd2950a5c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-13T12:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you need a more complex data type. For this, Solidity provides structs:]]></summary>
-        <author>
-            <name>Divyansh Sagar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Chapter 5: Solidity Arrays]]></title>
-        <id>https://medium.com/p/9b17319829c1</id>
-        <link href="https://coinsbench.com/web3-chapter-5-solidity-arrays-9b17319829c1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-13T12:51:22.000Z</updated>
-        <summary type="html"><![CDATA[When you want a collection of something, you can use an array. There are two types of arrays in Solidity: fixed arrays and dynamic arrays:]]></summary>
         <author>
             <name>Divyansh Sagar</name>
         </author>

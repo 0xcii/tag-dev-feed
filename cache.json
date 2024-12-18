@@ -29,6 +29,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/991ba55a8e51",
+          "author": "Ukezi Ebenezer",
+          "description": "Overview",
+          "link": "https://coinsbench.com/web3-airdrops-a-guide-to-the-digital-treasure-hunt-991ba55a8e51?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-18T15:44:32.000Z",
+          "wordCount": 3914,
+          "title": "Web3 Airdrops: A Guide to the Digital Treasure Hunt",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HZIl2573yXXh4d-Hl1B1qA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/b7f1d26c57f0",
+          "author": "Ukpai Udo Precious",
+          "description": "An in-depth guide on Reentrancy attack and how you can keep your smart contract secure from it",
+          "link": "https://coinsbench.com/how-to-prevent-reentrancy-attacks-in-solidity-smart-contracts-b7f1d26c57f0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-18T15:44:29.000Z",
+          "wordCount": 4227,
+          "title": "How to prevent Reentrancy attacks in Solidity smart contracts",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uzErexv-Bf1zPz9WiN_--g.png"
+        },
+        {
           "id": "https://medium.com/p/2cda24782bdb",
           "author": "Ukezi Ebenezer",
           "description": "Overview",
@@ -107,26 +127,6 @@
           "wordCount": 885,
           "title": "Web3 Chapter 3: Solidity Math Operations",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1HY5DmH9R2HxzY74mEqqiA.png"
-        },
-        {
-          "id": "https://medium.com/p/1cacd2950a5c",
-          "author": "Divyansh Sagar",
-          "description": "Sometimes you need a more complex data type. For this, Solidity provides structs:",
-          "link": "https://coinsbench.com/solidity-structs-1cacd2950a5c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-13T12:51:24.000Z",
-          "wordCount": 830,
-          "title": "Web3 Chapter 4: Solidity Structs",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1HY5DmH9R2HxzY74mEqqiA.png"
-        },
-        {
-          "id": "https://medium.com/p/9b17319829c1",
-          "author": "Divyansh Sagar",
-          "description": "When you want a collection of something, you can use an array. There are two types of arrays in Solidity: fixed arrays and dynamic arrays:",
-          "link": "https://coinsbench.com/web3-chapter-5-solidity-arrays-9b17319829c1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-13T12:51:22.000Z",
-          "wordCount": 1097,
-          "title": "Web3 Chapter 5: Solidity Arrays",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1HY5DmH9R2HxzY74mEqqiA.png"
         }
       ]
     },
@@ -171,7 +171,7 @@
           "description": "As the dust has settled after the US election, market dynamics are shifting focus towards monetary policy decisions and ongoing…",
           "link": "https://medium.com/coinmonks/december-16th-2024-silver-chartbook-bullish-wedge-limits-remaining-downside-a9254c1aa29c?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-17T13:57:06.000Z",
-          "wordCount": 3559,
+          "wordCount": 3558,
           "title": "December 16th 2024, Silver Chartbook — Bullish wedge limits remaining downside",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:798/1*Y9jHwfzJZpG5MMbd74U1fg.jpeg"
         },
