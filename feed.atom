@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-22T15:13:26.716Z</id>
+    <id>urn:2024-12-22T16:16:27.546Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-22T15:13:26.716Z</updated>
+    <updated>2024-12-22T16:16:27.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Developer’s Guide to ERC-4337 #5 | Developing a Paymaster]]></title>
+        <id>https://medium.com/p/6ce61ef5630f</id>
+        <link href="https://blog.blockmagnates.com/developers-guide-to-erc-4337-5-developing-a-paymaster-6ce61ef5630f?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-12-22T15:53:55.000Z</updated>
+        <summary type="html"><![CDATA[This is the fifth part of the developer’s guide to account abstraction. If you haven’t read the earlier parts, you can find them here…]]></summary>
+        <author>
+            <name>Nikhil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Kontract: Simplifying Smart Contract Deployment with Kubernetes]]></title>
+        <id>https://medium.com/p/b539f9401e9a</id>
+        <link href="https://coinsbench.com/meet-kontract-simplifying-smart-contract-deployment-with-kubernetes-b539f9401e9a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-22T15:52:11.000Z</updated>
+        <summary type="html"><![CDATA[Web3 development is innovative, but deploying smart contracts? That’s where things get messy. Whether you’re juggling multiple networks…]]></summary>
+        <author>
+            <name>Ron Megini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Core Components of Hyperledger Fabric]]></title>
+        <id>https://medium.com/p/3d6ba2f62daa</id>
+        <link href="https://coinsbench.com/core-components-of-hyperledger-fabric-3d6ba2f62daa?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-22T15:52:10.000Z</updated>
+        <summary type="html"><![CDATA[Hyperledger Fabric is designed to meet the needs of different enterprise applications. It mainly comprises of base components and services…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Saisiva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Up with Middlemen: The Smart Contract Revolution]]></title>
+        <id>https://medium.com/p/7e9dca39d44e</id>
+        <link href="https://coinsbench.com/breaking-up-with-middlemen-the-smart-contract-revolution-7e9dca39d44e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-22T15:52:08.000Z</updated>
+        <summary type="html"><![CDATA[In a world where trust has long been intermediated by banks, lawyers, and agents, smart contracts promise a revolutionary shift. Imagine…]]></summary>
+        <author>
+            <name>Abdelilah Adriouich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functions in Solidity: A Comprehensive Guide with Examples and Features]]></title>
+        <id>https://medium.com/p/95a5706d6de7</id>
+        <link href="https://coinsbench.com/functions-in-solidity-a-comprehensive-guide-with-examples-and-features-95a5706d6de7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-22T15:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Solidity is a programming language used for creating smart contracts on the Ethereum blockchain. At the core of any smart contract are…]]></summary>
+        <author>
+            <name>Yurii Kitsul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Ultimate 2025 Crypto Exit Plan]]></title>
         <id>https://medium.com/p/b8f0e433a7e7</id>
@@ -171,46 +222,6 @@ Continue reading on Coinmonks »]]></summary>
 Continue reading on Coinmonks »]]></summary>
         <author>
             <name>Mark Timmis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Airdrops: A Guide to the Digital Treasure Hunt]]></title>
-        <id>https://medium.com/p/991ba55a8e51</id>
-        <link href="https://coinsbench.com/web3-airdrops-a-guide-to-the-digital-treasure-hunt-991ba55a8e51?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-18T15:44:32.000Z</updated>
-        <summary type="html"><![CDATA[Overview]]></summary>
-        <author>
-            <name>Ukezi Ebenezer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to prevent Reentrancy attacks in Solidity smart contracts]]></title>
-        <id>https://medium.com/p/b7f1d26c57f0</id>
-        <link href="https://coinsbench.com/how-to-prevent-reentrancy-attacks-in-solidity-smart-contracts-b7f1d26c57f0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-18T15:44:29.000Z</updated>
-        <summary type="html"><![CDATA[An in-depth guide on Reentrancy attack and how you can keep your smart contract secure from it]]></summary>
-        <author>
-            <name>Ukpai Udo Precious</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring The Intersection of Web3 Gaming and DeFi]]></title>
-        <id>https://medium.com/p/2cda24782bdb</id>
-        <link href="https://coinsbench.com/exploring-the-intersection-of-web3-gaming-and-defi-2cda24782bdb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-16T15:14:34.000Z</updated>
-        <summary type="html"><![CDATA[Overview]]></summary>
-        <author>
-            <name>Ukezi Ebenezer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Wasting Time Setting Up! ZIION OS, The Web3 Dev’s and Hacker’s Dream :)]]></title>
-        <id>https://medium.com/p/936801497f65</id>
-        <link href="https://coinsbench.com/stop-wasting-time-setting-up-ziion-os-the-web3-devs-and-hacker-s-dream-936801497f65?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-16T15:14:27.000Z</updated>
-        <summary type="html"><![CDATA[I’m not going to say that setting up hacking or dev envs is more difficult than actual hacking, but sometimes it can be, especially if…]]></summary>
-        <author>
-            <name>0xNazu.sol</name>
         </author>
     </entry>
     <entry>

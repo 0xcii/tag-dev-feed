@@ -29,6 +29,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/b539f9401e9a",
+          "author": "Ron Megini",
+          "description": "Web3 development is innovative, but deploying smart contracts? That’s where things get messy. Whether you’re juggling multiple networks…",
+          "link": "https://coinsbench.com/meet-kontract-simplifying-smart-contract-deployment-with-kubernetes-b539f9401e9a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-22T15:52:11.000Z",
+          "wordCount": 2150,
+          "title": "Meet Kontract: Simplifying Smart Contract Deployment with Kubernetes",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1146/1*eW2m0wbPAC1QcegAOutrzQ.png"
+        },
+        {
+          "id": "https://medium.com/p/3d6ba2f62daa",
+          "author": "Saisiva",
+          "description": "Hyperledger Fabric is designed to meet the needs of different enterprise applications. It mainly comprises of base components and services…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/core-components-of-hyperledger-fabric-3d6ba2f62daa?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-22T15:52:10.000Z",
+          "wordCount": 1087,
+          "title": "Core Components of Hyperledger Fabric",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:757/1*i63BZluEGhpcOjONHUzuzA.png"
+        },
+        {
+          "id": "https://medium.com/p/7e9dca39d44e",
+          "author": "Abdelilah Adriouich",
+          "description": "In a world where trust has long been intermediated by banks, lawyers, and agents, smart contracts promise a revolutionary shift. Imagine…",
+          "link": "https://coinsbench.com/breaking-up-with-middlemen-the-smart-contract-revolution-7e9dca39d44e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-22T15:52:08.000Z",
+          "wordCount": 2138,
+          "title": "Breaking Up with Middlemen: The Smart Contract Revolution",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*LAvt5zeSOFvcBifR-mGkvA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/95a5706d6de7",
+          "author": "Yurii Kitsul",
+          "description": "Solidity is a programming language used for creating smart contracts on the Ethereum blockchain. At the core of any smart contract are…",
+          "link": "https://coinsbench.com/functions-in-solidity-a-comprehensive-guide-with-examples-and-features-95a5706d6de7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-22T15:52:06.000Z",
+          "wordCount": 1842,
+          "title": "Functions in Solidity: A Comprehensive Guide with Examples and Features",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ZT5mKiphm9twWFSz7jVZFQ.png"
+        },
+        {
           "id": "https://medium.com/p/ec70c22c8d93",
           "author": "Muhammad Syaoki Faradisa",
           "description": "Having mastered the fundamentals and intermediate concepts of Solidity, it’s time to explore advanced contract architecture and…\nContinue reading on CoinsBench »",
@@ -87,46 +127,6 @@
           "wordCount": 1185,
           "title": "Mastering Solidity Part 4: Essential Gas Optimization",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*wnsophNYGvh_zY9v"
-        },
-        {
-          "id": "https://medium.com/p/991ba55a8e51",
-          "author": "Ukezi Ebenezer",
-          "description": "Overview",
-          "link": "https://coinsbench.com/web3-airdrops-a-guide-to-the-digital-treasure-hunt-991ba55a8e51?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-18T15:44:32.000Z",
-          "wordCount": 3914,
-          "title": "Web3 Airdrops: A Guide to the Digital Treasure Hunt",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HZIl2573yXXh4d-Hl1B1qA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/b7f1d26c57f0",
-          "author": "Ukpai Udo Precious",
-          "description": "An in-depth guide on Reentrancy attack and how you can keep your smart contract secure from it",
-          "link": "https://coinsbench.com/how-to-prevent-reentrancy-attacks-in-solidity-smart-contracts-b7f1d26c57f0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-18T15:44:29.000Z",
-          "wordCount": 4227,
-          "title": "How to prevent Reentrancy attacks in Solidity smart contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uzErexv-Bf1zPz9WiN_--g.png"
-        },
-        {
-          "id": "https://medium.com/p/2cda24782bdb",
-          "author": "Ukezi Ebenezer",
-          "description": "Overview",
-          "link": "https://coinsbench.com/exploring-the-intersection-of-web3-gaming-and-defi-2cda24782bdb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-16T15:14:34.000Z",
-          "wordCount": 4210,
-          "title": "Exploring The Intersection of Web3 Gaming and DeFi",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*IIwrHuPX5-LmqvjIussL2g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/936801497f65",
-          "author": "0xNazu.sol",
-          "description": "I’m not going to say that setting up hacking or dev envs is more difficult than actual hacking, but sometimes it can be, especially if…",
-          "link": "https://coinsbench.com/stop-wasting-time-setting-up-ziion-os-the-web3-devs-and-hacker-s-dream-936801497f65?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-16T15:14:27.000Z",
-          "wordCount": 4752,
-          "title": "Stop Wasting Time Setting Up! ZIION OS, The Web3 Dev’s and Hacker’s Dream :)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VlAL_F_7hgb7tMUq6ErsFw.png"
         }
       ]
     },
@@ -242,6 +242,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/6ce61ef5630f",
+          "author": "Nikhil",
+          "description": "This is the fifth part of the developer’s guide to account abstraction. If you haven’t read the earlier parts, you can find them here…",
+          "link": "https://blog.blockmagnates.com/developers-guide-to-erc-4337-5-developing-a-paymaster-6ce61ef5630f?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-12-22T15:53:55.000Z",
+          "wordCount": 3692,
+          "title": "Developer’s Guide to ERC-4337 #5 | Developing a Paymaster",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qTqc5JtF_VDmfv4L-wn3EQ.png"
+        },
         {
           "id": "https://medium.com/p/fbe1cf0f0636",
           "author": "Magda  Jankowska",
