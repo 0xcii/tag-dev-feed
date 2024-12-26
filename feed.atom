@@ -1,10 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-26T16:18:09.968Z</id>
+    <id>urn:2024-12-26T17:12:31.543Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-26T16:18:09.968Z</updated>
+    <updated>2024-12-26T17:12:31.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smart Contracts and ERC20 Token Standards in Blockchain — Part 1]]></title>
+        <id>https://medium.com/p/ceea6147c8b9</id>
+        <link href="https://blog.blockmagnates.com/smart-contracts-and-erc20-token-standards-in-blockchain-part-1-ceea6147c8b9?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-12-26T16:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology, with its decentralized structure and secure transaction infrastructure, is revolutionizing the worlds of finance…]]></summary>
+        <author>
+            <name>S. Katipoğlu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Into Blockchain: How Beginners Can Earn While Learning Solidity]]></title>
+        <id>https://medium.com/p/137ac6eaafc1</id>
+        <link href="https://blog.blockmagnates.com/breaking-into-blockchain-how-beginners-can-earn-while-learning-solidity-137ac6eaafc1?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-12-26T16:49:05.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology has revolutionized industries, offering new opportunities for innovation, security, and efficiency. If you’re a…]]></summary>
+        <author>
+            <name>Magda  Jankowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Ethereum Virtual Machine (EVM)]]></title>
+        <id>https://medium.com/p/dd3fbe15462a</id>
+        <link href="https://blog.blockmagnates.com/understanding-the-ethereum-virtual-machine-evm-dd3fbe15462a?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-12-26T16:48:52.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum Virtual Machine (EVM) is at the heart of the Ethereum blockchain, serving as the decentralized computational engine that…]]></summary>
+        <author>
+            <name>Abdurraheem Joomye (Pandabear30)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error Handling in Solidity: A Comprehensive Guide with Examples]]></title>
+        <id>https://medium.com/p/050d076d0a86</id>
+        <link href="https://coinsbench.com/error-handling-in-solidity-a-comprehensive-guide-with-examples-050d076d0a86?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-26T16:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Error handling is a critical aspect of developing robust and secure smart contracts in Solidity. It ensures that contracts behave as…]]></summary>
+        <author>
+            <name>Yurii Kitsul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Your First ERC-20 Token Using Solidity: A Step-by-Step Guide with BlueToken]]></title>
+        <id>https://medium.com/p/3befe38421e1</id>
+        <link href="https://coinsbench.com/create-your-first-erc-20-token-using-solidity-a-step-by-step-guide-with-bluetoken-3befe38421e1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-26T16:41:36.000Z</updated>
+        <summary type="html"><![CDATA[🎯 Introduction]]></summary>
+        <author>
+            <name>S. Katipoğlu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 34: Deploying a Smart Contract on Any EVM Chain Using Thirdweb]]></title>
+        <id>https://medium.com/p/21684b2e04da</id>
+        <link href="https://coinsbench.com/day-34-deploying-a-smart-contract-on-any-evm-chain-using-thirdweb-21684b2e04da?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-26T16:41:34.000Z</updated>
+        <summary type="html"><![CDATA[Deploying a smart contract on an EVM-compatible blockchain can often seem daunting. However, Thirdweb’s tools make the process seamless and…]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 33: Understanding TimeLock Smart Contracts: A Deep Dive into Secure Delayed Transactions]]></title>
+        <id>https://medium.com/p/0d914b3804df</id>
+        <link href="https://coinsbench.com/day-32-understanding-timelock-smart-contracts-a-deep-dive-into-secure-delayed-transactions-0d914b3804df?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-26T16:41:31.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts, the backbone of decentralized applications (dApps), execute predefined actions on the blockchain autonomously. However…]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Quit Web3]]></title>
+        <id>https://medium.com/p/d079fe0b0417</id>
+        <link href="https://coinsbench.com/why-i-quit-web3-d079fe0b0417?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-26T16:41:29.000Z</updated>
+        <summary type="html"><![CDATA[A failed project here, farming engagement there.]]></summary>
+        <author>
+            <name>The Girl With The Little Bun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 20: Understanding the Withdraw Function in Solidity]]></title>
+        <id>https://medium.com/p/7e0989cc3d2f</id>
+        <link href="https://coinsbench.com/day-20-understanding-the-withdraw-function-in-solidity-7e0989cc3d2f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-26T16:40:49.000Z</updated>
+        <summary type="html"><![CDATA[When working with smart contracts, one of the critical functions is handling withdrawals, where users or contract owners reclaim the funds…]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 22: Understanding Modifiers in Solidity: A Powerful Tool for Secure and Organized Smart…]]></title>
+        <id>https://medium.com/p/5a1edb9659dc</id>
+        <link href="https://coinsbench.com/day-22-understanding-modifiers-in-solidity-a-powerful-tool-for-secure-and-organized-smart-5a1edb9659dc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-26T16:40:46.000Z</updated>
+        <summary type="html"><![CDATA[In Solidity, modifiers play a critical role in enhancing the security, readability, and functionality of smart contracts. They allow…]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 26: Introduction to Foundry: Revolutionizing the Blockchain Development]]></title>
+        <id>https://medium.com/p/ce22246ceefa</id>
+        <link href="https://coinsbench.com/day-25-introduction-to-foundry-revolutionizing-the-blockchain-development-ce22246ceefa?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-26T16:40:45.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving world of blockchain development, having the right tools can significantly enhance productivity and innovation. One…]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 27: Advanced Foundry te]]></title>
+        <id>https://medium.com/p/c3d0f96d1eff</id>
+        <link href="https://coinsbench.com/day-27-advanced-foundry-te-c3d0f96d1eff?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-26T16:40:42.000Z</updated>
+        <summary type="html"><![CDATA[In the first part of our Foundry series, we explored its core components, installation process, and basic usage. Now that you’ve set up…]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 30: Creating a new project in Foundry]]></title>
+        <id>https://medium.com/p/925b332acd97</id>
+        <link href="https://coinsbench.com/day-30-creating-a-new-project-in-foundry-925b332acd97?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-26T16:40:40.000Z</updated>
+        <summary type="html"><![CDATA[Foundry is a powerful toolkit for building and testing smart contracts. If you’re new to it, this guide will walk you through setting up a…]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia stock at $130 is cheap]]></title>
         <id>https://medium.com/p/4cdb10ef00d2</id>
@@ -115,111 +245,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[This is the fifth part of the developer’s guide to account abstraction. If you haven’t read the earlier parts, you can find them here…]]></summary>
         <author>
             <name>Nikhil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Kontract: Simplifying Smart Contract Deployment with Kubernetes]]></title>
-        <id>https://medium.com/p/b539f9401e9a</id>
-        <link href="https://coinsbench.com/meet-kontract-simplifying-smart-contract-deployment-with-kubernetes-b539f9401e9a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-22T15:52:11.000Z</updated>
-        <summary type="html"><![CDATA[Web3 development is innovative, but deploying smart contracts? That’s where things get messy. Whether you’re juggling multiple networks…]]></summary>
-        <author>
-            <name>Ron Megini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Core Components of Hyperledger Fabric]]></title>
-        <id>https://medium.com/p/3d6ba2f62daa</id>
-        <link href="https://coinsbench.com/core-components-of-hyperledger-fabric-3d6ba2f62daa?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-22T15:52:10.000Z</updated>
-        <summary type="html"><![CDATA[Hyperledger Fabric is designed to meet the needs of different enterprise applications. It mainly comprises of base components and services…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Saisiva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking Up with Middlemen: The Smart Contract Revolution]]></title>
-        <id>https://medium.com/p/7e9dca39d44e</id>
-        <link href="https://coinsbench.com/breaking-up-with-middlemen-the-smart-contract-revolution-7e9dca39d44e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-22T15:52:08.000Z</updated>
-        <summary type="html"><![CDATA[In a world where trust has long been intermediated by banks, lawyers, and agents, smart contracts promise a revolutionary shift. Imagine…]]></summary>
-        <author>
-            <name>Abdelilah Adriouich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Functions in Solidity: A Comprehensive Guide with Examples and Features]]></title>
-        <id>https://medium.com/p/95a5706d6de7</id>
-        <link href="https://coinsbench.com/functions-in-solidity-a-comprehensive-guide-with-examples-and-features-95a5706d6de7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-22T15:52:06.000Z</updated>
-        <summary type="html"><![CDATA[Solidity is a programming language used for creating smart contracts on the Ethereum blockchain. At the core of any smart contract are…]]></summary>
-        <author>
-            <name>Yurii Kitsul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Solidity Part 3: Smart Contract Architecture ️]]></title>
-        <id>https://medium.com/p/ec70c22c8d93</id>
-        <link href="https://coinsbench.com/mastering-solidity-part-3-smart-contract-architecture-%EF%B8%8F-ec70c22c8d93?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-20T13:15:06.000Z</updated>
-        <summary type="html"><![CDATA[Having mastered the fundamentals and intermediate concepts of Solidity, it’s time to explore advanced contract architecture and…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Muhammad Syaoki Faradisa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Solidity Part 2: Intermediate]]></title>
-        <id>https://medium.com/p/e60a1078f79d</id>
-        <link href="https://coinsbench.com/mastering-solidity-part-2-intermediate-e60a1078f79d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-20T13:15:04.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Part 2 of our Solidity journey! Now that you’ve mastered the fundamentals, we’re ready to dive deeper into more advanced…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Muhammad Syaoki Faradisa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Solidity Part 1: Fundamental]]></title>
-        <id>https://medium.com/p/ac9965ce0c72</id>
-        <link href="https://coinsbench.com/mastering-solidity-part-1-fundamental-ac9965ce0c72?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-20T13:15:02.000Z</updated>
-        <summary type="html"><![CDATA[Before we dive into Solidity, let’s understand what we’re building and why. Imagine the internet as a vast network of computers sharing…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Muhammad Syaoki Faradisa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Types in Solidity: A Comprehensive Guide with Examples and Features]]></title>
-        <id>https://medium.com/p/dbfa94856b1b</id>
-        <link href="https://coinsbench.com/data-types-in-solidity-a-comprehensive-guide-with-examples-and-features-dbfa94856b1b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-20T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Solidity is a statically typed programming language used for developing smart contracts that run on the Ethereum blockchain. Static typing…]]></summary>
-        <author>
-            <name>Yurii Kitsul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Role of Blockchain Technology in dApp Development]]></title>
-        <id>https://medium.com/p/2b1e5c3ac684</id>
-        <link href="https://coinsbench.com/the-role-of-blockchain-technology-in-dapp-development-2b1e5c3ac684?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-20T13:14:58.000Z</updated>
-        <summary type="html"><![CDATA[Businesses are leveraging blockchain technology to build decentralized applications (dApps) that enhance operational transparency…]]></summary>
-        <author>
-            <name>Decentrablock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Solidity Part 4: Essential Gas Optimization]]></title>
-        <id>https://medium.com/p/5b5b294064fa</id>
-        <link href="https://coinsbench.com/mastering-solidity-part-4-essential-gas-optimization-5b5b294064fa?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-20T13:14:55.000Z</updated>
-        <summary type="html"><![CDATA[Every action in Ethereum’s world comes with a cost, measured in what we call “gas.” Just as a car needs fuel to run efficiently, smart…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Muhammad Syaoki Faradisa</name>
         </author>
     </entry>
     <entry>

@@ -29,104 +29,104 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
-          "id": "https://medium.com/p/b539f9401e9a",
-          "author": "Ron Megini",
-          "description": "Web3 development is innovative, but deploying smart contracts? That’s where things get messy. Whether you’re juggling multiple networks…",
-          "link": "https://coinsbench.com/meet-kontract-simplifying-smart-contract-deployment-with-kubernetes-b539f9401e9a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-22T15:52:11.000Z",
-          "wordCount": 2150,
-          "title": "Meet Kontract: Simplifying Smart Contract Deployment with Kubernetes",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1146/1*eW2m0wbPAC1QcegAOutrzQ.png"
-        },
-        {
-          "id": "https://medium.com/p/3d6ba2f62daa",
-          "author": "Saisiva",
-          "description": "Hyperledger Fabric is designed to meet the needs of different enterprise applications. It mainly comprises of base components and services…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/core-components-of-hyperledger-fabric-3d6ba2f62daa?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-22T15:52:10.000Z",
-          "wordCount": 1087,
-          "title": "Core Components of Hyperledger Fabric",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:757/1*i63BZluEGhpcOjONHUzuzA.png"
-        },
-        {
-          "id": "https://medium.com/p/7e9dca39d44e",
-          "author": "Abdelilah Adriouich",
-          "description": "In a world where trust has long been intermediated by banks, lawyers, and agents, smart contracts promise a revolutionary shift. Imagine…",
-          "link": "https://coinsbench.com/breaking-up-with-middlemen-the-smart-contract-revolution-7e9dca39d44e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-22T15:52:08.000Z",
-          "wordCount": 2138,
-          "title": "Breaking Up with Middlemen: The Smart Contract Revolution",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1000/1*LAvt5zeSOFvcBifR-mGkvA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/95a5706d6de7",
+          "id": "https://medium.com/p/050d076d0a86",
           "author": "Yurii Kitsul",
-          "description": "Solidity is a programming language used for creating smart contracts on the Ethereum blockchain. At the core of any smart contract are…",
-          "link": "https://coinsbench.com/functions-in-solidity-a-comprehensive-guide-with-examples-and-features-95a5706d6de7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-22T15:52:06.000Z",
-          "wordCount": 1842,
-          "title": "Functions in Solidity: A Comprehensive Guide with Examples and Features",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ZT5mKiphm9twWFSz7jVZFQ.png"
+          "description": "Error handling is a critical aspect of developing robust and secure smart contracts in Solidity. It ensures that contracts behave as…",
+          "link": "https://coinsbench.com/error-handling-in-solidity-a-comprehensive-guide-with-examples-050d076d0a86?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-26T16:41:40.000Z",
+          "wordCount": 1814,
+          "title": "Error Handling in Solidity: A Comprehensive Guide with Examples",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*tGi35g0amBEuNObAvHZG5w.png"
         },
         {
-          "id": "https://medium.com/p/ec70c22c8d93",
-          "author": "Muhammad Syaoki Faradisa",
-          "description": "Having mastered the fundamentals and intermediate concepts of Solidity, it’s time to explore advanced contract architecture and…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/mastering-solidity-part-3-smart-contract-architecture-%EF%B8%8F-ec70c22c8d93?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-20T13:15:06.000Z",
-          "wordCount": 1191,
-          "title": "Mastering Solidity Part 3: Smart Contract Architecture ️",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*8OLpL96Jjpaf62ed"
+          "id": "https://medium.com/p/3befe38421e1",
+          "author": "S. Katipoğlu",
+          "description": "🎯 Introduction",
+          "link": "https://coinsbench.com/create-your-first-erc-20-token-using-solidity-a-step-by-step-guide-with-bluetoken-3befe38421e1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-26T16:41:36.000Z",
+          "wordCount": 2144,
+          "title": "Create Your First ERC-20 Token Using Solidity: A Step-by-Step Guide with BlueToken",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/e60a1078f79d",
-          "author": "Muhammad Syaoki Faradisa",
-          "description": "Welcome to Part 2 of our Solidity journey! Now that you’ve mastered the fundamentals, we’re ready to dive deeper into more advanced…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/mastering-solidity-part-2-intermediate-e60a1078f79d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-20T13:15:04.000Z",
-          "wordCount": 1148,
-          "title": "Mastering Solidity Part 2: Intermediate",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*_W9t7RQqnbc-Uz2t"
+          "id": "https://medium.com/p/21684b2e04da",
+          "author": "Gurnoor Singh",
+          "description": "Deploying a smart contract on an EVM-compatible blockchain can often seem daunting. However, Thirdweb’s tools make the process seamless and…",
+          "link": "https://coinsbench.com/day-34-deploying-a-smart-contract-on-any-evm-chain-using-thirdweb-21684b2e04da?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-26T16:41:34.000Z",
+          "wordCount": 1995,
+          "title": "Day 34: Deploying a Smart Contract on Any EVM Chain Using Thirdweb",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/ac9965ce0c72",
-          "author": "Muhammad Syaoki Faradisa",
-          "description": "Before we dive into Solidity, let’s understand what we’re building and why. Imagine the internet as a vast network of computers sharing…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/mastering-solidity-part-1-fundamental-ac9965ce0c72?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-20T13:15:02.000Z",
-          "wordCount": 1197,
-          "title": "Mastering Solidity Part 1: Fundamental",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*IQMrHIecFO3j9iwX"
+          "id": "https://medium.com/p/0d914b3804df",
+          "author": "Gurnoor Singh",
+          "description": "Smart contracts, the backbone of decentralized applications (dApps), execute predefined actions on the blockchain autonomously. However…",
+          "link": "https://coinsbench.com/day-32-understanding-timelock-smart-contracts-a-deep-dive-into-secure-delayed-transactions-0d914b3804df?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-26T16:41:31.000Z",
+          "wordCount": 2398,
+          "title": "Day 33: Understanding TimeLock Smart Contracts: A Deep Dive into Secure Delayed Transactions",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/dbfa94856b1b",
-          "author": "Yurii Kitsul",
-          "description": "Solidity is a statically typed programming language used for developing smart contracts that run on the Ethereum blockchain. Static typing…",
-          "link": "https://coinsbench.com/data-types-in-solidity-a-comprehensive-guide-with-examples-and-features-dbfa94856b1b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-20T13:15:00.000Z",
-          "wordCount": 2359,
-          "title": "Data Types in Solidity: A Comprehensive Guide with Examples and Features",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*3ZcR_-g-3C-zD9wikioANg.png"
+          "id": "https://medium.com/p/d079fe0b0417",
+          "author": "The Girl With The Little Bun",
+          "description": "A failed project here, farming engagement there.",
+          "link": "https://coinsbench.com/why-i-quit-web3-d079fe0b0417?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-26T16:41:29.000Z",
+          "wordCount": 1848,
+          "title": "Why I Quit Web3",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*y7zaWRHnft4OlA-VItB9zg.jpeg"
         },
         {
-          "id": "https://medium.com/p/2b1e5c3ac684",
-          "author": "Decentrablock",
-          "description": "Businesses are leveraging blockchain technology to build decentralized applications (dApps) that enhance operational transparency…",
-          "link": "https://coinsbench.com/the-role-of-blockchain-technology-in-dapp-development-2b1e5c3ac684?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-20T13:14:58.000Z",
-          "wordCount": 4493,
-          "title": "The Role of Blockchain Technology in dApp Development",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*RS1-tw_Cbov62XrgV9CRHQ.jpeg"
+          "id": "https://medium.com/p/7e0989cc3d2f",
+          "author": "Gurnoor Singh",
+          "description": "When working with smart contracts, one of the critical functions is handling withdrawals, where users or contract owners reclaim the funds…",
+          "link": "https://coinsbench.com/day-20-understanding-the-withdraw-function-in-solidity-7e0989cc3d2f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-26T16:40:49.000Z",
+          "wordCount": 2367,
+          "title": "Day 20: Understanding the Withdraw Function in Solidity",
+          "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/5b5b294064fa",
-          "author": "Muhammad Syaoki Faradisa",
-          "description": "Every action in Ethereum’s world comes with a cost, measured in what we call “gas.” Just as a car needs fuel to run efficiently, smart…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/mastering-solidity-part-4-essential-gas-optimization-5b5b294064fa?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-20T13:14:55.000Z",
-          "wordCount": 1185,
-          "title": "Mastering Solidity Part 4: Essential Gas Optimization",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*wnsophNYGvh_zY9v"
+          "id": "https://medium.com/p/5a1edb9659dc",
+          "author": "Gurnoor Singh",
+          "description": "In Solidity, modifiers play a critical role in enhancing the security, readability, and functionality of smart contracts. They allow…",
+          "link": "https://coinsbench.com/day-22-understanding-modifiers-in-solidity-a-powerful-tool-for-secure-and-organized-smart-5a1edb9659dc?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-26T16:40:46.000Z",
+          "wordCount": 2221,
+          "title": "Day 22: Understanding Modifiers in Solidity: A Powerful Tool for Secure and Organized Smart…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ce22246ceefa",
+          "author": "Gurnoor Singh",
+          "description": "In the ever-evolving world of blockchain development, having the right tools can significantly enhance productivity and innovation. One…",
+          "link": "https://coinsbench.com/day-25-introduction-to-foundry-revolutionizing-the-blockchain-development-ce22246ceefa?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-26T16:40:45.000Z",
+          "wordCount": 1988,
+          "title": "Day 26: Introduction to Foundry: Revolutionizing the Blockchain Development",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c3d0f96d1eff",
+          "author": "Gurnoor Singh",
+          "description": "In the first part of our Foundry series, we explored its core components, installation process, and basic usage. Now that you’ve set up…",
+          "link": "https://coinsbench.com/day-27-advanced-foundry-te-c3d0f96d1eff?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-26T16:40:42.000Z",
+          "wordCount": 2108,
+          "title": "Day 27: Advanced Foundry te",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/925b332acd97",
+          "author": "Gurnoor Singh",
+          "description": "Foundry is a powerful toolkit for building and testing smart contracts. If you’re new to it, this guide will walk you through setting up a…",
+          "link": "https://coinsbench.com/day-30-creating-a-new-project-in-foundry-925b332acd97?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-26T16:40:40.000Z",
+          "wordCount": 1741,
+          "title": "Day 30: Creating a new project in Foundry",
+          "imageUrl": null
         }
       ]
     },
@@ -231,7 +231,7 @@
           "description": "As Bitcoin gains global acceptance, the BCH Miner platform is an attractive opportunity for those looking to earn passive income through…",
           "link": "https://medium.com/coinmonks/seize-the-cloud-mining-opportunity-bch-miner-helps-you-earn-3-000-a-day-e1d5a694b0e9?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-25T15:21:06.000Z",
-          "wordCount": 2123,
+          "wordCount": 2124,
           "title": "Seize the cloud mining opportunity: BCH Miner helps you earn $3,000 a day",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*9SXtCwr2e-RGkHnAuM5mDw.png"
         }
@@ -242,6 +242,36 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/ceea6147c8b9",
+          "author": "S. Katipoğlu",
+          "description": "Blockchain technology, with its decentralized structure and secure transaction infrastructure, is revolutionizing the worlds of finance…",
+          "link": "https://blog.blockmagnates.com/smart-contracts-and-erc20-token-standards-in-blockchain-part-1-ceea6147c8b9?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-12-26T16:49:10.000Z",
+          "wordCount": 3348,
+          "title": "Smart Contracts and ERC20 Token Standards in Blockchain — Part 1",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*AnD1GCCO5I3Cn-_l"
+        },
+        {
+          "id": "https://medium.com/p/137ac6eaafc1",
+          "author": "Magda  Jankowska",
+          "description": "Blockchain technology has revolutionized industries, offering new opportunities for innovation, security, and efficiency. If you’re a…",
+          "link": "https://blog.blockmagnates.com/breaking-into-blockchain-how-beginners-can-earn-while-learning-solidity-137ac6eaafc1?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-12-26T16:49:05.000Z",
+          "wordCount": 3139,
+          "title": "Breaking Into Blockchain: How Beginners Can Earn While Learning Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*7RkkYODGIX7wC4fbWRJs6A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/dd3fbe15462a",
+          "author": "Abdurraheem Joomye (Pandabear30)",
+          "description": "The Ethereum Virtual Machine (EVM) is at the heart of the Ethereum blockchain, serving as the decentralized computational engine that…",
+          "link": "https://blog.blockmagnates.com/understanding-the-ethereum-virtual-machine-evm-dd3fbe15462a?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-12-26T16:48:52.000Z",
+          "wordCount": 2260,
+          "title": "Understanding the Ethereum Virtual Machine (EVM)",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*wS5GBtl8KqTxsRJV"
+        },
         {
           "id": "https://medium.com/p/6ce61ef5630f",
           "author": "Nikhil",
