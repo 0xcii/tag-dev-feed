@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-28T16:16:45.671Z</id>
+    <id>urn:2024-12-28T17:11:48.988Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-28T16:16:45.671Z</updated>
+    <updated>2024-12-28T17:11:48.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Reviving Music NFTs: How Dynamic Pricing and Rewards Can Bridge the Gap Between Fans and Artists]]></title>
+        <id>https://medium.com/p/ac609a2f99a9</id>
+        <link href="https://coinsbench.com/maybe-is-time-for-new-pricing-nft-ac609a2f99a9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-28T16:49:42.000Z</updated>
+        <summary type="html"><![CDATA[MUSIC NFT was a unique technology, as a music and web3 enthusiast, it was what we all longed for, but it never really lived up to the hype…]]></summary>
+        <author>
+            <name>Abusomwan Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web JavaScript Made Easy: Code Like a Pro in No Time]]></title>
+        <id>https://medium.com/p/50d4bcc10855</id>
+        <link href="https://coinsbench.com/web-javascript-made-easy-code-like-a-pro-in-no-time-50d4bcc10855?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-28T16:48:07.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Ukezi Ebenezer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overview of the Polter Finance Hack]]></title>
+        <id>https://medium.com/p/d86b839474f5</id>
+        <link href="https://coinsbench.com/overview-of-the-polter-finance-hack-d86b839474f5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-28T16:46:11.000Z</updated>
+        <summary type="html"><![CDATA[Roughly $8.7 Million Lost to Oracle Manipulation]]></summary>
+        <author>
+            <name>Aapsi Khaira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Sealevel Attacks]]></title>
+        <id>https://medium.com/p/88b715e71f49</id>
+        <link href="https://coinsbench.com/solana-sealevel-attacks-88b715e71f49?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-28T16:44:40.000Z</updated>
+        <summary type="html"><![CDATA[Anchor is a framework for building Solana programs. It provides a lot of features and abstractions that make it easier to build programs…]]></summary>
+        <author>
+            <name>Appala Naidu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The vulnerable over-collateralised loan CTF]]></title>
+        <id>https://medium.com/p/0ef68b8f5118</id>
+        <link href="https://coinsbench.com/the-vulnerable-over-collateralised-loan-ctf-0ef68b8f5118?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-28T16:44:37.000Z</updated>
+        <summary type="html"><![CDATA[I solved the Secureum A-MAZE-X Stanford CTF challenges and wanted to share my approach of the challenge #3 borrow, hide and seek.]]></summary>
+        <author>
+            <name>Eshu Manohare</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sidechain vs Rollups: Blockchain Scalability Solutions and the Differences]]></title>
+        <id>https://medium.com/p/d9b506c43bbe</id>
+        <link href="https://coinsbench.com/sidechain-vs-rollups-blockchain-scalability-solutions-and-the-differences-d9b506c43bbe?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-28T16:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Scalability in blockchain has limitations, with slow transaction completion times and high fees. For instance, the Ethereum network…]]></summary>
+        <author>
+            <name>Dery K. Yahya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 35: Writing, Testing, and Deploying FundMe.sol: A Detailed Guide]]></title>
+        <id>https://medium.com/p/970f504ac890</id>
+        <link href="https://coinsbench.com/day-34-writing-testing-and-deploying-fundme-sol-a-detailed-guide-970f504ac890?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-28T16:44:33.000Z</updated>
+        <summary type="html"><![CDATA[Overview]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smart Contracts and ERC20 Token Standards in Blockchain — Part 1]]></title>
         <id>https://medium.com/p/ceea6147c8b9</id>
@@ -61,76 +131,6 @@
         <link href="https://coinsbench.com/day-34-deploying-a-smart-contract-on-any-evm-chain-using-thirdweb-21684b2e04da?source=rss----f1cfd22cde3e---4"/>
         <updated>2024-12-26T16:41:34.000Z</updated>
         <summary type="html"><![CDATA[Deploying a smart contract on an EVM-compatible blockchain can often seem daunting. However, Thirdweb’s tools make the process seamless and…]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 33: Understanding TimeLock Smart Contracts: A Deep Dive into Secure Delayed Transactions]]></title>
-        <id>https://medium.com/p/0d914b3804df</id>
-        <link href="https://coinsbench.com/day-32-understanding-timelock-smart-contracts-a-deep-dive-into-secure-delayed-transactions-0d914b3804df?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-26T16:41:31.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts, the backbone of decentralized applications (dApps), execute predefined actions on the blockchain autonomously. However…]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I Quit Web3]]></title>
-        <id>https://medium.com/p/d079fe0b0417</id>
-        <link href="https://coinsbench.com/why-i-quit-web3-d079fe0b0417?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-26T16:41:29.000Z</updated>
-        <summary type="html"><![CDATA[A failed project here, farming engagement there.]]></summary>
-        <author>
-            <name>The Girl With The Little Bun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 20: Understanding the Withdraw Function in Solidity]]></title>
-        <id>https://medium.com/p/7e0989cc3d2f</id>
-        <link href="https://coinsbench.com/day-20-understanding-the-withdraw-function-in-solidity-7e0989cc3d2f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-26T16:40:49.000Z</updated>
-        <summary type="html"><![CDATA[When working with smart contracts, one of the critical functions is handling withdrawals, where users or contract owners reclaim the funds…]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 22: Understanding Modifiers in Solidity: A Powerful Tool for Secure and Organized Smart…]]></title>
-        <id>https://medium.com/p/5a1edb9659dc</id>
-        <link href="https://coinsbench.com/day-22-understanding-modifiers-in-solidity-a-powerful-tool-for-secure-and-organized-smart-5a1edb9659dc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-26T16:40:46.000Z</updated>
-        <summary type="html"><![CDATA[In Solidity, modifiers play a critical role in enhancing the security, readability, and functionality of smart contracts. They allow…]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 26: Introduction to Foundry: Revolutionizing the Blockchain Development]]></title>
-        <id>https://medium.com/p/ce22246ceefa</id>
-        <link href="https://coinsbench.com/day-25-introduction-to-foundry-revolutionizing-the-blockchain-development-ce22246ceefa?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-26T16:40:45.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving world of blockchain development, having the right tools can significantly enhance productivity and innovation. One…]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 27: Advanced Foundry te]]></title>
-        <id>https://medium.com/p/c3d0f96d1eff</id>
-        <link href="https://coinsbench.com/day-27-advanced-foundry-te-c3d0f96d1eff?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-26T16:40:42.000Z</updated>
-        <summary type="html"><![CDATA[In the first part of our Foundry series, we explored its core components, installation process, and basic usage. Now that you’ve set up…]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 30: Creating a new project in Foundry]]></title>
-        <id>https://medium.com/p/925b332acd97</id>
-        <link href="https://coinsbench.com/day-30-creating-a-new-project-in-foundry-925b332acd97?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-26T16:40:40.000Z</updated>
-        <summary type="html"><![CDATA[Foundry is a powerful toolkit for building and testing smart contracts. If you’re new to it, this guide will walk you through setting up a…]]></summary>
         <author>
             <name>Gurnoor Singh</name>
         </author>
