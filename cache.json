@@ -29,6 +29,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/d95c0d8c0f06",
+          "author": "Ranjithkumar C",
+          "description": "Continue reading on CoinsBench »",
+          "link": "https://coinsbench.com/a-guide-to-trustless-peer-to-peer-commerce-d95c0d8c0f06?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-30T11:43:12.000Z",
+          "wordCount": 1114,
+          "title": "A Guide to Trustless, Peer-to-Peer Commerce",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/0*PgkxSKjxyZEnCn23.jpg"
+        },
+        {
+          "id": "https://medium.com/p/e3cf21f03de4",
+          "author": "Gurnoor Singh",
+          "description": "This guide provides a comprehensive overview of the best practices to follow when using Foundry for developing smart contracts. While…",
+          "link": "https://coinsbench.com/day36-best-practices-for-developing-with-foundry-e3cf21f03de4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2024-12-30T11:40:36.000Z",
+          "wordCount": 1911,
+          "title": "Day36: Best Practices for Developing with Foundry",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/ac609a2f99a9",
           "author": "Abusomwan Santos",
           "description": "MUSIC NFT was a unique technology, as a music and web3 enthusiast, it was what we all longed for, but it never really lived up to the hype…",
@@ -94,7 +114,7 @@
           "description": "Overview",
           "link": "https://coinsbench.com/day-34-writing-testing-and-deploying-fundme-sol-a-detailed-guide-970f504ac890?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2024-12-28T16:44:33.000Z",
-          "wordCount": 2329,
+          "wordCount": 2353,
           "title": "Day 35: Writing, Testing, and Deploying FundMe.sol: A Detailed Guide",
           "imageUrl": null
         },
@@ -107,26 +127,6 @@
           "wordCount": 1814,
           "title": "Error Handling in Solidity: A Comprehensive Guide with Examples",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*tGi35g0amBEuNObAvHZG5w.png"
-        },
-        {
-          "id": "https://medium.com/p/3befe38421e1",
-          "author": "S. Katipoğlu",
-          "description": "🎯 Introduction",
-          "link": "https://coinsbench.com/create-your-first-erc-20-token-using-solidity-a-step-by-step-guide-with-bluetoken-3befe38421e1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-26T16:41:36.000Z",
-          "wordCount": 2144,
-          "title": "Create Your First ERC-20 Token Using Solidity: A Step-by-Step Guide with BlueToken",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/21684b2e04da",
-          "author": "Gurnoor Singh",
-          "description": "Deploying a smart contract on an EVM-compatible blockchain can often seem daunting. However, Thirdweb’s tools make the process seamless and…",
-          "link": "https://coinsbench.com/day-34-deploying-a-smart-contract-on-any-evm-chain-using-thirdweb-21684b2e04da?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-26T16:41:34.000Z",
-          "wordCount": 1971,
-          "title": "Day 34: Deploying a Smart Contract on Any EVM Chain Using Thirdweb",
-          "imageUrl": null
         }
       ]
     },
@@ -141,7 +141,7 @@
           "description": "In an era where businesses are driven by data, the efficient processing of documents plays a crucial role in achieving operational…",
           "link": "https://medium.com/coinmonks/what-is-intelligent-document-processing-and-how-does-generative-ai-enhance-it-950d192f8655?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-30T10:56:53.000Z",
-          "wordCount": 2705,
+          "wordCount": 2707,
           "title": "What is Intelligent Document Processing, and how does Generative AI enhance it?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*fm7XUr-5JBk3XZQY9Q-btQ.jpeg"
         },
@@ -151,7 +151,7 @@
           "description": "In today’s fast-paced digital world, cryptocurrency trading has become a significant financial activity. Centralized exchanges (CEX) play a…",
           "link": "https://medium.com/coinmonks/what-is-a-centralized-exchange-script-and-how-does-it-work-cdc281518ac6?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-30T10:56:42.000Z",
-          "wordCount": 3246,
+          "wordCount": 3247,
           "title": "What is a Centralized Exchange Script and How Does It Work?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*2tRVoLaDluHp4YpwDAzvfg.png"
         },
@@ -161,7 +161,7 @@
           "description": "📊 Asia-Pacific Markets\nIndices show mixed sentiment today.\n🇨🇳 China: No significant changes.\n🇯🇵 Japan: Nikkei 225 down 0.44% to 39,900…",
           "link": "https://medium.com/coinmonks/morning-update-30-12-2024-92ddfd561b01?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-30T10:56:22.000Z",
-          "wordCount": 1179,
+          "wordCount": 1180,
           "title": "Morning Update (30.12.2024)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3GzQXvw7mVeGVSXjebpgGA.png"
         },
@@ -171,7 +171,7 @@
           "description": "As cryptocurrencies continue to shape global financial trends in 2024, search engines and AI chatbots like Google and ChatGPT offer users…",
           "link": "https://medium.com/coinmonks/2024-crypto-trends-google-vs-chatgpt-search-insights-a9cf9494b5cb?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-30T10:56:16.000Z",
-          "wordCount": 3177,
+          "wordCount": 3178,
           "title": "2024 Crypto Trends: Google vs ChatGPT Search Insights",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ENpmfEs_83ImfGSNpoJEiw.png"
         },
@@ -181,7 +181,7 @@
           "description": "If you’re looking to strike gold in crypto without investing a dime, airdrops are your answer. Airdrops have helped me go from $0/month to $10,000+/month. Yes, I’ve got life-changing payouts from…",
           "link": "https://medium.com/coinmonks/the-most-profitable-and-high-paying-airdrops-for-2025-these-3-are-my-best-picks-b2581ce630bc?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-30T10:56:06.000Z",
-          "wordCount": 2073,
+          "wordCount": 2074,
           "title": "The Most Profitable and High-Paying Airdrops for 2025 (These 3 Are My Best Picks)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VfQbEuoLTpP-L-Li2diIrQ.jpeg"
         },
@@ -191,7 +191,7 @@
           "description": "tl;dr\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/curious-cryptos-commentary-30th-december-2024-the-risk-of-quantum-computers-334f79971b23?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-30T10:56:00.000Z",
-          "wordCount": 1202,
+          "wordCount": 1203,
           "title": "Curious Cryptos’ Commentary 30th December 2024 — The risk of quantum computers",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1039/1*C7MI04I5zWY4UDsXts4DGg.png"
         },
@@ -201,7 +201,7 @@
           "description": "Ston.fi’s  “impermanent loss protection” feature is live",
           "link": "https://medium.com/coinmonks/how-ston-fi-reduces-the-effect-of-impermanent-loss-on-liquidity-providers-bf1d2b03773c?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-30T10:55:55.000Z",
-          "wordCount": 2811,
+          "wordCount": 2812,
           "title": "How ston.fi reduces the effect of impermanent loss on liquidity providers",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*pNh0B-IrW4iLEgHYeQnUsQ.jpeg"
         },
@@ -211,7 +211,7 @@
           "description": "Intraday Patterns in FX returns\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/unveiling-hourly-returns-in-forex-ca54718beda5?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-30T10:55:42.000Z",
-          "wordCount": 1371,
+          "wordCount": 1372,
           "title": "Unveiling Hourly Returns in Forex",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:899/1*KST6nMV16hx430aQlSIPgg.png"
         },
@@ -221,7 +221,7 @@
           "description": "I believe this crypto is set to outperform the vast majority of other cryptos over the next few years.",
           "link": "https://medium.com/coinmonks/if-i-only-had-to-buy-one-crypto-this-would-be-it-8d06ae403abc?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-30T10:55:35.000Z",
-          "wordCount": 2988,
+          "wordCount": 3011,
           "title": "If I only had to buy one crypto, this would be it…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:594/1*BHlhjOW6VnZoP8Gxutg4lQ.jpeg"
         },
@@ -231,7 +231,7 @@
           "description": "The peak of cryptocurrency trading and blockchain innovation has created a greater need for Binance clone scripts which are adaptable…",
           "link": "https://medium.com/coinmonks/top-binance-clone-script-development-companies-in-2025-29bf8dd46b26?source=rss----721b17443fd5---4",
           "publishedOn": "2024-12-30T10:55:25.000Z",
-          "wordCount": 2803,
+          "wordCount": 2805,
           "title": "Top Binance Clone Script Development Companies in 2025",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UeIoc3xEWtEM5FehKKXaXQ.jpeg"
         }
@@ -242,6 +242,36 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/63d6582fad55",
+          "author": "Drraghavendra",
+          "description": "Abstract",
+          "link": "https://blog.blockmagnates.com/the-revolution-of-cypherpunk-ideology-through-polygon-zksnarks-and-zkstarks-redefining-social-63d6582fad55?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-12-30T12:16:44.000Z",
+          "wordCount": 3168,
+          "title": "The Revolution of CypherPunk Ideology through Polygon zkSNARKs and zkSTARKs: Redefining Social…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*M1gyFv5oia8-c0_BsW2Dqg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/367df9b8ae7b",
+          "author": "0xjoi",
+          "description": "Incident Summary: Caterpillar Coin Flashloan Attack",
+          "link": "https://blog.blockmagnates.com/the-caterpillar-coin-collapse-unraveling-the-1-4m-flashloan-exploit-367df9b8ae7b?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-12-30T12:15:39.000Z",
+          "wordCount": 1770,
+          "title": "The Caterpillar Coin Collapse: Unraveling the $1.4M Flashloan Exploit",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ZTFEulRaV253XdpEvKDDaA.png"
+        },
+        {
+          "id": "https://medium.com/p/da7e130e0867",
+          "author": "Muhammad Mustufa Ahmed",
+          "description": "OpenZeppelin is a popular open-source framework for building secure and modular smart contracts. It provides pre-built, well-tested smart…",
+          "link": "https://blog.blockmagnates.com/creating-an-erc-20-token-using-openzeppelin-a-detailed-guide-da7e130e0867?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2024-12-30T12:07:23.000Z",
+          "wordCount": 2609,
+          "title": "Creating an ERC-20 Token Using OpenZeppelin: A Detailed Guide",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/ceea6147c8b9",
           "author": "S. Katipoğlu",

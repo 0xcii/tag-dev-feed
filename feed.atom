@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-30T11:12:16.678Z</id>
+    <id>urn:2024-12-30T12:29:52.217Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-30T11:12:16.678Z</updated>
+    <updated>2024-12-30T12:29:52.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Revolution of CypherPunk Ideology through Polygon zkSNARKs and zkSTARKs: Redefining Social…]]></title>
+        <id>https://medium.com/p/63d6582fad55</id>
+        <link href="https://blog.blockmagnates.com/the-revolution-of-cypherpunk-ideology-through-polygon-zksnarks-and-zkstarks-redefining-social-63d6582fad55?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-12-30T12:16:44.000Z</updated>
+        <summary type="html"><![CDATA[Abstract]]></summary>
+        <author>
+            <name>Drraghavendra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Caterpillar Coin Collapse: Unraveling the $1.4M Flashloan Exploit]]></title>
+        <id>https://medium.com/p/367df9b8ae7b</id>
+        <link href="https://blog.blockmagnates.com/the-caterpillar-coin-collapse-unraveling-the-1-4m-flashloan-exploit-367df9b8ae7b?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-12-30T12:15:39.000Z</updated>
+        <summary type="html"><![CDATA[Incident Summary: Caterpillar Coin Flashloan Attack]]></summary>
+        <author>
+            <name>0xjoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating an ERC-20 Token Using OpenZeppelin: A Detailed Guide]]></title>
+        <id>https://medium.com/p/da7e130e0867</id>
+        <link href="https://blog.blockmagnates.com/creating-an-erc-20-token-using-openzeppelin-a-detailed-guide-da7e130e0867?source=rss----18fa961f1eff--solidity"/>
+        <updated>2024-12-30T12:07:23.000Z</updated>
+        <summary type="html"><![CDATA[OpenZeppelin is a popular open-source framework for building secure and modular smart contracts. It provides pre-built, well-tested smart…]]></summary>
+        <author>
+            <name>Muhammad Mustufa Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to Trustless, Peer-to-Peer Commerce]]></title>
+        <id>https://medium.com/p/d95c0d8c0f06</id>
+        <link href="https://coinsbench.com/a-guide-to-trustless-peer-to-peer-commerce-d95c0d8c0f06?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-30T11:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Ranjithkumar C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day36: Best Practices for Developing with Foundry]]></title>
+        <id>https://medium.com/p/e3cf21f03de4</id>
+        <link href="https://coinsbench.com/day36-best-practices-for-developing-with-foundry-e3cf21f03de4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2024-12-30T11:40:36.000Z</updated>
+        <summary type="html"><![CDATA[This guide provides a comprehensive overview of the best practices to follow when using Foundry for developing smart contracts. While…]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Intelligent Document Processing, and how does Generative AI enhance it?]]></title>
         <id>https://medium.com/p/950d192f8655</id>
@@ -218,26 +268,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Error handling is a critical aspect of developing robust and secure smart contracts in Solidity. It ensures that contracts behave as…]]></summary>
         <author>
             <name>Yurii Kitsul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Your First ERC-20 Token Using Solidity: A Step-by-Step Guide with BlueToken]]></title>
-        <id>https://medium.com/p/3befe38421e1</id>
-        <link href="https://coinsbench.com/create-your-first-erc-20-token-using-solidity-a-step-by-step-guide-with-bluetoken-3befe38421e1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-26T16:41:36.000Z</updated>
-        <summary type="html"><![CDATA[🎯 Introduction]]></summary>
-        <author>
-            <name>S. Katipoğlu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 34: Deploying a Smart Contract on Any EVM Chain Using Thirdweb]]></title>
-        <id>https://medium.com/p/21684b2e04da</id>
-        <link href="https://coinsbench.com/day-34-deploying-a-smart-contract-on-any-evm-chain-using-thirdweb-21684b2e04da?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-26T16:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Deploying a smart contract on an EVM-compatible blockchain can often seem daunting. However, Thirdweb’s tools make the process seamless and…]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
         </author>
     </entry>
     <entry>
