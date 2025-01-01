@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-01T13:19:30.291Z</id>
+    <id>urn:2025-01-01T14:13:41.241Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-01T13:19:30.291Z</updated>
+    <updated>2025-01-01T14:13:41.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CrossChainPriceNFT.sol Chainlink Solidity Smart Contract — Part 2]]></title>
+        <id>https://medium.com/p/d82a5bb7665b</id>
+        <link href="https://blog.blockmagnates.com/crosschainpricenft-sol-chainlink-solidity-smart-contract-part-2-d82a5bb7665b?source=rss----18fa961f1eff--solidity"/>
+        <updated>2025-01-01T13:36:21.000Z</updated>
+        <summary type="html"><![CDATA[This article is part 2 of CrossChainPriceNFT.sol Chainlink Solidity Smart Contract — Part 1 (deploy).]]></summary>
+        <author>
+            <name>Guilherme Binsfeld</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Curious Cryptos’ Commentary 1st January 2025 — NFK 4 of 9, & yet more adoption]]></title>
         <id>https://medium.com/p/38c0bedc59aa</id>
@@ -296,16 +306,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Error handling is a critical aspect of developing robust and secure smart contracts in Solidity. It ensures that contracts behave as…]]></summary>
         <author>
             <name>Yurii Kitsul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer’s Guide to ERC-4337 #5 | Developing a Paymaster]]></title>
-        <id>https://medium.com/p/6ce61ef5630f</id>
-        <link href="https://blog.blockmagnates.com/developers-guide-to-erc-4337-5-developing-a-paymaster-6ce61ef5630f?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-12-22T15:53:55.000Z</updated>
-        <summary type="html"><![CDATA[This is the fifth part of the developer’s guide to account abstraction. If you haven’t read the earlier parts, you can find them here…]]></summary>
-        <author>
-            <name>Nikhil</name>
         </author>
     </entry>
     <entry>

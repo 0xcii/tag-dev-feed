@@ -243,6 +243,16 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/d82a5bb7665b",
+          "author": "Guilherme Binsfeld",
+          "description": "This article is part 2 of CrossChainPriceNFT.sol Chainlink Solidity Smart Contract — Part 1 (deploy).",
+          "link": "https://blog.blockmagnates.com/crosschainpricenft-sol-chainlink-solidity-smart-contract-part-2-d82a5bb7665b?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2025-01-01T13:36:21.000Z",
+          "wordCount": 1713,
+          "title": "CrossChainPriceNFT.sol Chainlink Solidity Smart Contract — Part 2",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1120/1*Ep3qg1NbLaPcBNLcAmc4cw.jpeg"
+        },
+        {
           "id": "https://medium.com/p/f68503dc0ce0",
           "author": "Guilherme Binsfeld",
           "description": "In this article, we will understand the CrossChainPriceNFT.sol Chainlink Solidity Smart Contract code logic. Your functionality is to set…",
@@ -331,16 +341,6 @@
           "wordCount": 2260,
           "title": "Understanding the Ethereum Virtual Machine (EVM)",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*wS5GBtl8KqTxsRJV"
-        },
-        {
-          "id": "https://medium.com/p/6ce61ef5630f",
-          "author": "Nikhil",
-          "description": "This is the fifth part of the developer’s guide to account abstraction. If you haven’t read the earlier parts, you can find them here…",
-          "link": "https://blog.blockmagnates.com/developers-guide-to-erc-4337-5-developing-a-paymaster-6ce61ef5630f?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2024-12-22T15:53:55.000Z",
-          "wordCount": 3692,
-          "title": "Developer’s Guide to ERC-4337 #5 | Developing a Paymaster",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qTqc5JtF_VDmfv4L-wn3EQ.png"
         }
       ]
     },
