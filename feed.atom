@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-03T13:20:19.721Z</id>
+    <id>urn:2025-01-03T14:13:35.545Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-03T13:20:19.721Z</updated>
+    <updated>2025-01-03T14:13:35.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Rust Security: Best Practices and Tools for a Robust Application]]></title>
+        <id>https://medium.com/p/13c6e59eae18</id>
+        <link href="https://coinsbench.com/enhancing-rust-security-best-practices-and-tools-for-a-robust-application-13c6e59eae18?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-03T13:18:20.000Z</updated>
+        <summary type="html"><![CDATA[In the evolving landscape of software development, security stands as a cornerstone of application integrity. Rust, known for its memory…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Ashish Sharda</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multicall: Stitching Multiple Queries Together]]></title>
         <id>https://medium.com/p/5339e8001011</id>
@@ -287,16 +298,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Scalability in blockchain has limitations, with slow transaction completion times and high fees. For instance, the Ethereum network…]]></summary>
         <author>
             <name>Dery K. Yahya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 35: Writing, Testing, and Deploying FundMe.sol: A Detailed Guide]]></title>
-        <id>https://medium.com/p/970f504ac890</id>
-        <link href="https://coinsbench.com/day-34-writing-testing-and-deploying-fundme-sol-a-detailed-guide-970f504ac890?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-28T16:44:33.000Z</updated>
-        <summary type="html"><![CDATA[Overview]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
         </author>
     </entry>
     <entry>

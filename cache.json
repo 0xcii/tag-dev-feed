@@ -29,6 +29,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/13c6e59eae18",
+          "author": "Ashish Sharda",
+          "description": "In the evolving landscape of software development, security stands as a cornerstone of application integrity. Rust, known for its memory…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/enhancing-rust-security-best-practices-and-tools-for-a-robust-application-13c6e59eae18?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-03T13:18:20.000Z",
+          "wordCount": 1166,
+          "title": "Enhancing Rust Security: Best Practices and Tools for a Robust Application",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*dQ6NQ_axoiV3BD3zFP4Aaw.png"
+        },
+        {
           "id": "https://medium.com/p/5339e8001011",
           "author": "Code with KT",
           "description": "A Multicall contract groups multiple function calls into one transaction, acting as a proxy to execute functions in other contracts.",
@@ -117,16 +127,6 @@
           "wordCount": 4530,
           "title": "Sidechain vs Rollups: Blockchain Scalability Solutions and the Differences",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-kXuRRrf5ZUeDNKjWWImiA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/970f504ac890",
-          "author": "Gurnoor Singh",
-          "description": "Overview",
-          "link": "https://coinsbench.com/day-34-writing-testing-and-deploying-fundme-sol-a-detailed-guide-970f504ac890?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-28T16:44:33.000Z",
-          "wordCount": 2353,
-          "title": "Day 35: Writing, Testing, and Deploying FundMe.sol: A Detailed Guide",
-          "imageUrl": null
         }
       ]
     },
