@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-06T09:16:43.347Z</id>
+    <id>urn:2025-01-06T10:17:02.800Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-06T09:16:43.347Z</updated>
+    <updated>2025-01-06T10:17:02.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Ethereum Virtual Machine (EVM): Its Architecture, Functionality, and Development…]]></title>
+        <id>https://medium.com/p/463e034d62c1</id>
+        <link href="https://blog.blockmagnates.com/understanding-the-ethereum-virtual-machine-evm-its-architecture-functionality-and-development-463e034d62c1?source=rss----18fa961f1eff--solidity"/>
+        <updated>2025-01-06T09:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore the Ethereum Virtual Machine (EVM), its stack-based architecture, opcodes, gas costs, and how it enables decentralized applications]]></summary>
+        <author>
+            <name>Temiloluwa Oyedare</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consortium Blockchain]]></title>
+        <id>https://medium.com/p/b8516b710e4d</id>
+        <link href="https://coinsbench.com/consortium-blockchain-b8516b710e4d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-06T09:30:23.000Z</updated>
+        <summary type="html"><![CDATA[A consortium blockchain is a type of blockchain network managed by a group of organizations rather than a single entity. Consortium…]]></summary>
+        <author>
+            <name>Dery K. Yahya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swapping V2 tokens on Uniswap UniversalRouter with solidity]]></title>
+        <id>https://medium.com/p/4c5af8d9c19b</id>
+        <link href="https://coinsbench.com/swapping-v2-tokens-on-uniswap-universalrouter-with-solidity-4c5af8d9c19b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-06T09:30:13.000Z</updated>
+        <summary type="html"><![CDATA[If you’re reading this, I hope I’ve saved you some hours of research and been of help to you.]]></summary>
+        <author>
+            <name>Yahdiiel Saldana</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Does AI Consultation Contribute to Cost Reduction?]]></title>
         <id>https://medium.com/p/91882c17f8c6</id>
@@ -276,36 +306,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Anchor is a framework for building Solana programs. It provides a lot of features and abstractions that make it easier to build programs…]]></summary>
         <author>
             <name>Appala Naidu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The vulnerable over-collateralised loan CTF]]></title>
-        <id>https://medium.com/p/0ef68b8f5118</id>
-        <link href="https://coinsbench.com/the-vulnerable-over-collateralised-loan-ctf-0ef68b8f5118?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-28T16:44:37.000Z</updated>
-        <summary type="html"><![CDATA[I solved the Secureum A-MAZE-X Stanford CTF challenges and wanted to share my approach of the challenge #3 borrow, hide and seek.]]></summary>
-        <author>
-            <name>Eshu Manohare</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sidechain vs Rollups: Blockchain Scalability Solutions and the Differences]]></title>
-        <id>https://medium.com/p/d9b506c43bbe</id>
-        <link href="https://coinsbench.com/sidechain-vs-rollups-blockchain-scalability-solutions-and-the-differences-d9b506c43bbe?source=rss----f1cfd22cde3e---4"/>
-        <updated>2024-12-28T16:44:35.000Z</updated>
-        <summary type="html"><![CDATA[Scalability in blockchain has limitations, with slow transaction completion times and high fees. For instance, the Ethereum network…]]></summary>
-        <author>
-            <name>Dery K. Yahya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contracts and ERC20 Token Standards in Blockchain — Part 1]]></title>
-        <id>https://medium.com/p/ceea6147c8b9</id>
-        <link href="https://blog.blockmagnates.com/smart-contracts-and-erc20-token-standards-in-blockchain-part-1-ceea6147c8b9?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-12-26T16:49:10.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology, with its decentralized structure and secure transaction infrastructure, is revolutionizing the worlds of finance…]]></summary>
-        <author>
-            <name>S. Katipoğlu</name>
         </author>
     </entry>
     <entry>

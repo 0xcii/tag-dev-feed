@@ -29,6 +29,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/b8516b710e4d",
+          "author": "Dery K. Yahya",
+          "description": "A consortium blockchain is a type of blockchain network managed by a group of organizations rather than a single entity. Consortium…",
+          "link": "https://coinsbench.com/consortium-blockchain-b8516b710e4d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-06T09:30:23.000Z",
+          "wordCount": 2462,
+          "title": "Consortium Blockchain",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zB2ZFfH2jfIDTNmqhRaNBw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/4c5af8d9c19b",
+          "author": "Yahdiiel Saldana",
+          "description": "If you’re reading this, I hope I’ve saved you some hours of research and been of help to you.",
+          "link": "https://coinsbench.com/swapping-v2-tokens-on-uniswap-universalrouter-with-solidity-4c5af8d9c19b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-06T09:30:13.000Z",
+          "wordCount": 3659,
+          "title": "Swapping V2 tokens on Uniswap UniversalRouter with solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:908/1*Dtu0QOnUYnPlHBUiaezMuw.png"
+        },
+        {
           "id": "https://medium.com/p/13c6e59eae18",
           "author": "Ashish Sharda",
           "description": "In the evolving landscape of software development, security stands as a cornerstone of application integrity. Rust, known for its memory…\nContinue reading on CoinsBench »",
@@ -107,26 +127,6 @@
           "wordCount": 2524,
           "title": "Solana Sealevel Attacks",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0ef68b8f5118",
-          "author": "Eshu Manohare",
-          "description": "I solved the Secureum A-MAZE-X Stanford CTF challenges and wanted to share my approach of the challenge #3 borrow, hide and seek.",
-          "link": "https://coinsbench.com/the-vulnerable-over-collateralised-loan-ctf-0ef68b8f5118?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-28T16:44:37.000Z",
-          "wordCount": 1756,
-          "title": "The vulnerable over-collateralised loan CTF",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*2oKWS-zTWYc1IucQbtR-dA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/d9b506c43bbe",
-          "author": "Dery K. Yahya",
-          "description": "Scalability in blockchain has limitations, with slow transaction completion times and high fees. For instance, the Ethereum network…",
-          "link": "https://coinsbench.com/sidechain-vs-rollups-blockchain-scalability-solutions-and-the-differences-d9b506c43bbe?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2024-12-28T16:44:35.000Z",
-          "wordCount": 4530,
-          "title": "Sidechain vs Rollups: Blockchain Scalability Solutions and the Differences",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-kXuRRrf5ZUeDNKjWWImiA.jpeg"
         }
       ]
     },
@@ -181,7 +181,7 @@
           "description": "India, once heralded as the world’s largest democracy, now stands at a crossroads where the fundamental pillars of democratic freedoms—press freedom, digital rights, and privacy—are under…",
           "link": "https://medium.com/coinmonks/indias-democracy-in-crisis-the-death-of-press-freedom-digital-rights-and-privacy-33151f7145b1?source=rss----721b17443fd5---4",
           "publishedOn": "2025-01-06T08:32:41.000Z",
-          "wordCount": 5311,
+          "wordCount": 6004,
           "title": "India's Democracy in Crisis: The Death of Press Freedom, Digital Rights, and Privacy",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:656/1*WwZkfv-wY33NPJJTFL9Vvw.png"
         },
@@ -242,6 +242,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/463e034d62c1",
+          "author": "Temiloluwa Oyedare",
+          "description": "Explore the Ethereum Virtual Machine (EVM), its stack-based architecture, opcodes, gas costs, and how it enables decentralized applications",
+          "link": "https://blog.blockmagnates.com/understanding-the-ethereum-virtual-machine-evm-its-architecture-functionality-and-development-463e034d62c1?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2025-01-06T09:44:00.000Z",
+          "wordCount": 3306,
+          "title": "Understanding the Ethereum Virtual Machine (EVM): Its Architecture, Functionality, and Development…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*dYbp0z5DowH9p4QYjG22XA.jpeg"
+        },
         {
           "id": "https://medium.com/p/21132e533bae",
           "author": "Aanand S",
@@ -331,16 +341,6 @@
           "wordCount": 2609,
           "title": "Creating an ERC-20 Token Using OpenZeppelin: A Detailed Guide",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ceea6147c8b9",
-          "author": "S. Katipoğlu",
-          "description": "Blockchain technology, with its decentralized structure and secure transaction infrastructure, is revolutionizing the worlds of finance…",
-          "link": "https://blog.blockmagnates.com/smart-contracts-and-erc20-token-standards-in-blockchain-part-1-ceea6147c8b9?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2024-12-26T16:49:10.000Z",
-          "wordCount": 3348,
-          "title": "Smart Contracts and ERC20 Token Standards in Blockchain — Part 1",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*AnD1GCCO5I3Cn-_l"
         }
       ]
     },
