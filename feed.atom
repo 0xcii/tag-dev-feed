@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-08T17:12:56.615Z</id>
+    <id>urn:2025-01-08T18:20:45.590Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-08T17:12:56.615Z</updated>
+    <updated>2025-01-08T18:20:45.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is ERC 7844: Consolidated Dynamic Storage?]]></title>
+        <id>https://medium.com/p/abb5a93f2a1c</id>
+        <link href="https://blog.blockmagnates.com/what-is-erc-7844-consolidated-dynamic-storage-abb5a93f2a1c?source=rss----18fa961f1eff--solidity"/>
+        <updated>2025-01-08T17:13:53.000Z</updated>
+        <summary type="html"><![CDATA[The past year has seen new storage management methodologies introduced to the Solidity ecosystem, with ERC-7208 standing out as a key…]]></summary>
+        <author>
+            <name>HoneyBadger Framework</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 37: Bitcoin White Paper Simplified — Part 1]]></title>
         <id>https://medium.com/p/cdd408c72b70</id>
@@ -298,16 +308,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Incident Summary: Caterpillar Coin Flashloan Attack]]></summary>
         <author>
             <name>0xjoi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating an ERC-20 Token Using OpenZeppelin: A Detailed Guide]]></title>
-        <id>https://medium.com/p/da7e130e0867</id>
-        <link href="https://blog.blockmagnates.com/creating-an-erc-20-token-using-openzeppelin-a-detailed-guide-da7e130e0867?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-12-30T12:07:23.000Z</updated>
-        <summary type="html"><![CDATA[OpenZeppelin is a popular open-source framework for building secure and modular smart contracts. It provides pre-built, well-tested smart…]]></summary>
-        <author>
-            <name>Muhammad Mustufa Ahmed</name>
         </author>
     </entry>
 </feed>
