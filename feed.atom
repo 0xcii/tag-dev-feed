@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-11T17:12:36.176Z</id>
+    <id>urn:2025-01-11T18:18:56.522Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-11T17:12:36.176Z</updated>
+    <updated>2025-01-11T18:18:56.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Simple ERC-4626 Yield-Bearing in Solidity]]></title>
+        <id>https://medium.com/p/eccf3d9bf37f</id>
+        <link href="https://coinsbench.com/building-a-simple-erc-4626-yield-bearing-in-solidity-eccf3d9bf37f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-11T17:37:00.000Z</updated>
+        <summary type="html"><![CDATA[The DeFi (Decentralized Finance) ecosystem thrives on innovative protocols that enhance user experience and profitability. In this guide…]]></summary>
+        <author>
+            <name>Christian Inyekaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Navigating Profit and Loss Apprehension: Strategies for Trading Success]]></title>
         <id>https://medium.com/p/6cd4511ab65d</id>
@@ -219,16 +229,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Explore the Ethereum Virtual Machine (EVM), its stack-based architecture, opcodes, gas costs, and how it enables decentralized applications]]></summary>
         <author>
             <name>Temiloluwa Oyedare</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consortium Blockchain]]></title>
-        <id>https://medium.com/p/b8516b710e4d</id>
-        <link href="https://coinsbench.com/consortium-blockchain-b8516b710e4d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-06T09:30:23.000Z</updated>
-        <summary type="html"><![CDATA[A consortium blockchain is a type of blockchain network managed by a group of organizations rather than a single entity. Consortium…]]></summary>
-        <author>
-            <name>Dery K. Yahya</name>
         </author>
     </entry>
     <entry>
