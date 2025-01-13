@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-13T11:13:00.660Z</id>
+    <id>urn:2025-01-13T12:31:49.963Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-13T11:13:00.660Z</updated>
+    <updated>2025-01-13T12:31:49.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Proxy Pattern: A Beginner’s Tutorial]]></title>
+        <id>https://medium.com/p/b0e376ffaa06</id>
+        <link href="https://coinsbench.com/solidity-proxy-pattern-a-beginners-tutorial-b0e376ffaa06?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-13T11:51:54.000Z</updated>
+        <summary type="html"><![CDATA[Learn to build upgradeable smart contracts in native Solidity. No external libraries needed — from counters to ether.]]></summary>
+        <author>
+            <name>Ido Zamir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Blockchain and Web3: From Bitcoin to the Power of Smart Contracts]]></title>
+        <id>https://medium.com/p/3b5a050b78b9</id>
+        <link href="https://coinsbench.com/exploring-blockchain-and-web3-from-bitcoin-to-the-power-of-smart-contracts-3b5a050b78b9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-13T11:51:50.000Z</updated>
+        <summary type="html"><![CDATA[In the last decade, blockchain technology has reshaped how we perceive value, data, and trust in the digital realm. What began as an…]]></summary>
+        <author>
+            <name>Rudra bhaskar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyfrin Updraft Solidity 101 Notes-1]]></title>
+        <id>https://medium.com/p/977aa8d709c5</id>
+        <link href="https://coinsbench.com/cyfrin-updraft-solidity-101-notes-1-977aa8d709c5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-13T11:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Solidity Types :]]></summary>
+        <author>
+            <name>Rudra bhaskar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Your First Solana Smart Contract with Anchor: Chapter 1]]></title>
+        <id>https://medium.com/p/fd585ff21651</id>
+        <link href="https://coinsbench.com/building-your-first-solana-smart-contract-with-anchor-chapter-1-fd585ff21651?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-13T11:51:40.000Z</updated>
+        <summary type="html"><![CDATA[The blockchain revolution is here, and Solana is leading the charge with its high-speed, low-cost transactions. If you’re a developer…]]></summary>
+        <author>
+            <name>Sumit Vekariya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying the EVM Frame Stack: Looking at a Rust Implementation and using a Skyscraper Analogy]]></title>
+        <id>https://medium.com/p/1e7b4c7ce5e5</id>
+        <link href="https://coinsbench.com/demystifying-the-evm-frame-stack-looking-at-a-rust-implementation-and-using-skyscraper-analogy-1e7b4c7ce5e5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-13T11:51:36.000Z</updated>
+        <summary type="html"><![CDATA[When thinking about how the EVM executes smart contracts, I like to think of it as managing a skyscraper with multiple floors. In this…]]></summary>
+        <author>
+            <name>Let' s get onchain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 41: How traditional Web2 applications are different from Web3 Applications]]></title>
+        <id>https://medium.com/p/4d01062d2edc</id>
+        <link href="https://coinsbench.com/day-41-how-traditional-web2-applications-are-different-from-web3-applications-4d01062d2edc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-13T11:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Gurnoor Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noir : Begineer’s Guide I]]></title>
+        <id>https://medium.com/p/ca43da4f23dd</id>
+        <link href="https://coinsbench.com/noir-begineers-guide-1-ca43da4f23dd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-13T11:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Get Started with Noir]]></summary>
+        <author>
+            <name>Viraj Patva</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tokenizing Assets: A Step Toward a More Transparent Financial System]]></title>
         <id>https://medium.com/p/5db63c48a1cd</id>
@@ -143,16 +213,6 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day 39: Understanding Bitcoin Synths: Why Synths Over Real BTC?]]></title>
-        <id>https://medium.com/p/9e63c78bdfc1</id>
-        <link href="https://coinsbench.com/day-39-understanding-bitcoin-synths-why-synths-over-real-btc-9e63c78bdfc1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-10T12:47:35.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin (BTC) has long been hailed as the king of cryptocurrencies. With its decentralized nature and limited supply, it has captured the…]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What is ERC 7844: Consolidated Dynamic Storage?]]></title>
         <id>https://medium.com/p/abb5a93f2a1c</id>
         <link href="https://blog.blockmagnates.com/what-is-erc-7844-consolidated-dynamic-storage-abb5a93f2a1c?source=rss----18fa961f1eff--solidity"/>
@@ -160,67 +220,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[The past year has seen new storage management methodologies introduced to the Solidity ecosystem, with ERC-7208 standing out as a key…]]></summary>
         <author>
             <name>HoneyBadger Framework</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 37: Bitcoin White Paper Simplified — Part 1]]></title>
-        <id>https://medium.com/p/cdd408c72b70</id>
-        <link href="https://coinsbench.com/day-37-bitcoin-white-paper-simplified-part-1-cdd408c72b70?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-08T16:34:18.000Z</updated>
-        <summary type="html"><![CDATA[BTC: A Peer-to-Peer Electronic Cash System
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fundamentals of Blockchain: A Beginner-Friendly Guide]]></title>
-        <id>https://medium.com/p/d482e0d4df13</id>
-        <link href="https://coinsbench.com/fundamentals-of-blockchain-a-beginner-friendly-guide-d482e0d4df13?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-08T16:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain — everyone seems to be talking about it, but what exactly is it, and why is it so important? In this blog post, we’ll explore…]]></summary>
-        <author>
-            <name>Garima</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Treasure in the Digital Realm: A Beginner’s Guide to Cryptocurrency]]></title>
-        <id>https://medium.com/p/3d405c3ad266</id>
-        <link href="https://coinsbench.com/treasure-in-the-digital-realm-a-beginners-guide-to-cryptocurrency-3d405c3ad266?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-08T16:34:08.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrency. A word that sparks curiosity, excitement, and sometimes confusion. If you’ve ever wondered what all the buzz is about, this…]]></summary>
-        <author>
-            <name>Garima</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Journey Through the Blockchain Layers: A Beginner’s Guide to L1 and L2]]></title>
-        <id>https://medium.com/p/d3a17c7adb50</id>
-        <link href="https://coinsbench.com/journey-through-the-blockchain-layers-a-beginners-guide-to-l1-and-l2-d3a17c7adb50?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-08T16:33:34.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain can sometimes feel like an impenetrable maze of technical jargon. But don’t worry — this blog post aims to cut through the…]]></summary>
-        <author>
-            <name>Garima</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Unveiled: A Beginner’s Voyage into the Smart Contract Universe]]></title>
-        <id>https://medium.com/p/2e7a8924f716</id>
-        <link href="https://coinsbench.com/ethereum-unveiled-a-beginners-voyage-into-the-smart-contract-universe-2e7a8924f716?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-08T16:33:30.000Z</updated>
-        <summary type="html"><![CDATA[Ever heard of Ethereum and wondered what sets it apart from other cryptocurrencies? This post aims to introduce you to Ethereum’s unique…]]></summary>
-        <author>
-            <name>Garima</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Streamline Your Workflow using Visual Studio Code as a Solidity Developer]]></title>
-        <id>https://medium.com/p/f373c5c001d1</id>
-        <link href="https://coinsbench.com/how-to-streamline-your-workflow-using-visual-studio-code-as-a-solidity-developer-f373c5c001d1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-08T16:33:26.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been deeply immersed in EVM blockchain development for over three years.]]></summary>
-        <author>
-            <name>sudo</name>
         </author>
     </entry>
     <entry>
