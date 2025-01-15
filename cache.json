@@ -18,6 +18,56 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/17aa3aa1b1a7",
+          "author": "Rudra bhaskar",
+          "description": "Mapping",
+          "link": "https://coinsbench.com/cyfrin-updraft-solidity-101-notes-2-17aa3aa1b1a7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-15T12:50:00.000Z",
+          "wordCount": 1366,
+          "title": "Cyfrin Updraft Solidity 101 Notes-2",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:700/0*KbqhzCY-HesJitrX"
+        },
+        {
+          "id": "https://medium.com/p/b45f59b5d8da",
+          "author": "Rudra bhaskar",
+          "description": "Crowdfunding Contracts: Fund Me &Price Converter",
+          "link": "https://coinsbench.com/cyfrin-updraft-solidity-101-notes-3-b45f59b5d8da?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-15T12:49:57.000Z",
+          "wordCount": 2949,
+          "title": "Cyfrin Updraft Solidity 101 Notes-3",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:700/0*lTUeZRFxzo8nrdfK"
+        },
+        {
+          "id": "https://medium.com/p/188868aa161d",
+          "author": "Viraj Patva",
+          "description": "In Part I, we explored the foundational steps to get started with Noir and seamlessly integrate its zero-knowledge proof capabilities into…",
+          "link": "https://coinsbench.com/noir-beginners-guide-ii-188868aa161d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-15T12:49:54.000Z",
+          "wordCount": 2524,
+          "title": "Noir : Beginner’s Guide II",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:460/0*6dbEIpkJ2qh2CZzp"
+        },
+        {
+          "id": "https://medium.com/p/e2e67739c618",
+          "author": "Rudra bhaskar",
+          "description": "Chainlink Data Feed",
+          "link": "https://coinsbench.com/cyfrin-updraft-solidity-101-notes-4-e2e67739c618?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-15T12:49:25.000Z",
+          "wordCount": 1767,
+          "title": "Cyfrin Updraft Solidity 101 Notes-4",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:700/0*_mN_dDmxPi2GJ4s9"
+        },
+        {
+          "id": "https://medium.com/p/99018de544c4",
+          "author": "Rudra bhaskar",
+          "description": "The getPrice and getConversionRate Functions",
+          "link": "https://coinsbench.com/cyfrin-updraft-solidity-101-notes-5-99018de544c4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-15T12:49:23.000Z",
+          "wordCount": 1861,
+          "title": "Cyfrin Updraft Solidity 101 Notes-5",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:700/0*UAEjE1ikOnUiPV__"
+        },
+        {
           "id": "https://medium.com/p/b0e376ffaa06",
           "author": "Ido Zamir",
           "description": "Learn to build upgradeable smart contracts in native Solidity. No external libraries needed — from counters to ether.",
@@ -66,56 +116,6 @@
           "wordCount": 1971,
           "title": "Demystifying the EVM Frame Stack: Looking at a Rust Implementation and using a Skyscraper Analogy",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1131/1*MuFII2_RZNKhCiGv1RX5hg.png"
-        },
-        {
-          "id": "https://medium.com/p/4d01062d2edc",
-          "author": "Gurnoor Singh",
-          "description": "Introduction",
-          "link": "https://coinsbench.com/day-41-how-traditional-web2-applications-are-different-from-web3-applications-4d01062d2edc?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-13T11:51:34.000Z",
-          "wordCount": 2077,
-          "title": "Day 41: How traditional Web2 applications are different from Web3 Applications",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ca43da4f23dd",
-          "author": "Viraj Patva",
-          "description": "Get Started with Noir",
-          "link": "https://coinsbench.com/noir-begineers-guide-1-ca43da4f23dd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-13T11:51:10.000Z",
-          "wordCount": 2676,
-          "title": "Noir : Begineer’s Guide I",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:460/0*AS2xH3IgpXydH10L"
-        },
-        {
-          "id": "https://medium.com/p/eccf3d9bf37f",
-          "author": "Christian Inyekaka",
-          "description": "The DeFi (Decentralized Finance) ecosystem thrives on innovative protocols that enhance user experience and profitability. In this guide…",
-          "link": "https://coinsbench.com/building-a-simple-erc-4626-yield-bearing-in-solidity-eccf3d9bf37f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-11T17:37:00.000Z",
-          "wordCount": 4287,
-          "title": "Building a Simple ERC-4626 Yield-Bearing in Solidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8fdc6def6aeb",
-          "author": "Gurnoor Singh",
-          "description": "Understanding Synthetic Assets: A New Frontier in Decentralized Finance",
-          "link": "https://coinsbench.com/day-39-how-to-profit-from-synthetic-assets-on-the-blockchain-8fdc6def6aeb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-10T12:47:40.000Z",
-          "wordCount": 2338,
-          "title": "Day 39: How to profit from Synthetic assets on the Blockchain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1fe7db363e12",
-          "author": "Gurnoor Singh",
-          "description": "Bitcoin’s white paper introduced revolutionary ideas for creating a decentralized, trustless digital currency. While it’s rooted in…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/day-38-bitcoin-white-paper-simplified-part-2-1fe7db363e12?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-10T12:47:37.000Z",
-          "wordCount": 1128,
-          "title": "Day 38: Bitcoin White Paper Simplified — Part 2",
-          "imageUrl": null
         }
       ]
     },
@@ -200,7 +200,7 @@
           "description": "I was working on a new project recently and wanted to do something new. It seems that all the rage these days is omni-chain deployments…",
           "link": "https://medium.com/coinmonks/it-wont-byte-learning-not-to-fear-assembly-through-omni-chain-deployments-5ca82253c224?source=rss----721b17443fd5---4",
           "publishedOn": "2025-01-15T11:36:47.000Z",
-          "wordCount": 5899,
+          "wordCount": 5900,
           "title": "It won’t byte. Omni-Chain deployment factories and the Create3 Library",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:659/1*GMBGnPWPqw_3_32u0C6LZw.png"
         },
