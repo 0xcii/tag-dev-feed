@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-17T16:17:35.875Z</id>
+    <id>urn:2025-01-17T17:12:57.763Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-17T16:17:35.875Z</updated>
+    <updated>2025-01-17T17:12:57.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding CREATE, CREATE2, and CREATE3 in Solidity]]></title>
+        <id>https://medium.com/p/a1a51772bdd9</id>
+        <link href="https://blog.blockmagnates.com/understanding-create-create2-and-create3-in-solidity-a1a51772bdd9?source=rss----18fa961f1eff--solidity"/>
+        <updated>2025-01-17T17:06:09.000Z</updated>
+        <summary type="html"><![CDATA[Smart contract deployment on Ethereum has evolved significantly since its inception, with different opcodes providing various ways to…]]></summary>
+        <author>
+            <name>GabiDev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to Ethereum Smart Contracts: Building the Foundation of Decentralized Applications]]></title>
+        <id>https://medium.com/p/0530477fa0d6</id>
+        <link href="https://blog.blockmagnates.com/an-introduction-to-ethereum-smart-contracts-building-the-foundation-of-decentralized-applications-0530477fa0d6?source=rss----18fa961f1eff--solidity"/>
+        <updated>2025-01-17T17:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum is a decentralized blockchain platform that enables developers to build and deploy decentralized applications (DApps) using smart…]]></summary>
+        <author>
+            <name>Kwesili Okafor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding EVM Deterministic Addresses]]></title>
+        <id>https://medium.com/p/f5c886a3ad23</id>
+        <link href="https://blog.blockmagnates.com/understanding-evm-deterministic-addresses-f5c886a3ad23?source=rss----18fa961f1eff--solidity"/>
+        <updated>2025-01-17T17:06:03.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: Understand how EVM network addresses work and how to use them practically in the blockchain eco-system.]]></summary>
+        <author>
+            <name>Howard Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin VS Ethereum]]></title>
+        <id>https://medium.com/p/e0d6c8c96c60</id>
+        <link href="https://coinsbench.com/bitcoin-vs-ethereum-e0d6c8c96c60?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-17T16:54:01.000Z</updated>
+        <summary type="html"><![CDATA[What is BITCOIN?]]></summary>
+        <author>
+            <name>Rudra bhaskar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Development Tools: Frameworks, Wallets, and APIs]]></title>
+        <id>https://medium.com/p/50f226478c15</id>
+        <link href="https://coinsbench.com/web3-development-tools-frameworks-wallets-and-apis-50f226478c15?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-17T16:53:47.000Z</updated>
+        <summary type="html"><![CDATA[The rise of Web3 is reshaping the internet, ushering in a decentralized paradigm where ownership, transparency, and user control are…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Dave Patten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyfrin Updraft Solidity 101 Notes-6]]></title>
+        <id>https://medium.com/p/4e88b34d47c6</id>
+        <link href="https://coinsbench.com/cyfrin-updraft-solidity-101-notes-6-4e88b34d47c6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-17T16:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Why do we need Safemath ?]]></summary>
+        <author>
+            <name>Rudra bhaskar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reliance Jio Pioneers Web3: Partnering with Polygon Labs for Next-Gen Experiences]]></title>
+        <id>https://medium.com/p/ba5dd5aa8487</id>
+        <link href="https://coinsbench.com/reliance-jio-pioneers-web3-partnering-with-polygon-labs-for-next-gen-experiences-ba5dd5aa8487?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-17T16:53:43.000Z</updated>
+        <summary type="html"><![CDATA[Jio Platforms Ltd. (JPL), a leading multinational technology powerhouse and a subsidiary of Reliance Industries Limited, is forging a…]]></summary>
+        <author>
+            <name>Drraghavendra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I’ve Combatted the Need to be Liked and Excessive Worry]]></title>
         <id>https://medium.com/p/6405797525f6</id>
@@ -167,46 +238,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exploring Blockchain and Web3: From Bitcoin to the Power of Smart Contracts]]></title>
-        <id>https://medium.com/p/3b5a050b78b9</id>
-        <link href="https://coinsbench.com/exploring-blockchain-and-web3-from-bitcoin-to-the-power-of-smart-contracts-3b5a050b78b9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-13T11:51:50.000Z</updated>
-        <summary type="html"><![CDATA[In the last decade, blockchain technology has reshaped how we perceive value, data, and trust in the digital realm. What began as an…]]></summary>
-        <author>
-            <name>Rudra bhaskar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyfrin Updraft Solidity 101 Notes-1]]></title>
-        <id>https://medium.com/p/977aa8d709c5</id>
-        <link href="https://coinsbench.com/cyfrin-updraft-solidity-101-notes-1-977aa8d709c5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-13T11:51:46.000Z</updated>
-        <summary type="html"><![CDATA[Solidity Types :]]></summary>
-        <author>
-            <name>Rudra bhaskar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Your First Solana Smart Contract with Anchor: Chapter 1]]></title>
-        <id>https://medium.com/p/fd585ff21651</id>
-        <link href="https://coinsbench.com/building-your-first-solana-smart-contract-with-anchor-chapter-1-fd585ff21651?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-13T11:51:40.000Z</updated>
-        <summary type="html"><![CDATA[The blockchain revolution is here, and Solana is leading the charge with its high-speed, low-cost transactions. If you’re a developer…]]></summary>
-        <author>
-            <name>Sumit Vekariya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying the EVM Frame Stack: Looking at a Rust Implementation and using a Skyscraper Analogy]]></title>
-        <id>https://medium.com/p/1e7b4c7ce5e5</id>
-        <link href="https://coinsbench.com/demystifying-the-evm-frame-stack-looking-at-a-rust-implementation-and-using-skyscraper-analogy-1e7b4c7ce5e5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-13T11:51:36.000Z</updated>
-        <summary type="html"><![CDATA[When thinking about how the EVM executes smart contracts, I like to think of it as managing a skyscraper with multiple floors. In this…]]></summary>
-        <author>
-            <name>Let' s get onchain</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What is ERC 7844: Consolidated Dynamic Storage?]]></title>
         <id>https://medium.com/p/abb5a93f2a1c</id>
         <link href="https://blog.blockmagnates.com/what-is-erc-7844-consolidated-dynamic-storage-abb5a93f2a1c?source=rss----18fa961f1eff--solidity"/>
@@ -274,36 +305,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[In the rapidly evolving world of Web3, it’s all too easy to get overwhelmed by fragmented resources and ever-changing toolsets. Like many…]]></summary>
         <author>
             <name>PandaBear30 (Abdurraheem Joomye)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gas, Gas Price, and Transaction Fees in Blockchain Transactions Explained]]></title>
-        <id>https://medium.com/p/b2f7792f262e</id>
-        <link href="https://blog.blockmagnates.com/gas-gas-price-and-transaction-fees-in-blockchain-transactions-explained-b2f7792f262e?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-12-31T12:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Breakdown of key concept in blockchain transactions]]></summary>
-        <author>
-            <name>Temiloluwa Oyedare</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Revolution of CypherPunk Ideology through Polygon zkSNARKs and zkSTARKs: Redefining Social…]]></title>
-        <id>https://medium.com/p/63d6582fad55</id>
-        <link href="https://blog.blockmagnates.com/the-revolution-of-cypherpunk-ideology-through-polygon-zksnarks-and-zkstarks-redefining-social-63d6582fad55?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-12-30T12:16:44.000Z</updated>
-        <summary type="html"><![CDATA[Abstract]]></summary>
-        <author>
-            <name>Drraghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Caterpillar Coin Collapse: Unraveling the $1.4M Flashloan Exploit]]></title>
-        <id>https://medium.com/p/367df9b8ae7b</id>
-        <link href="https://blog.blockmagnates.com/the-caterpillar-coin-collapse-unraveling-the-1-4m-flashloan-exploit-367df9b8ae7b?source=rss----18fa961f1eff--solidity"/>
-        <updated>2024-12-30T12:15:39.000Z</updated>
-        <summary type="html"><![CDATA[Incident Summary: Caterpillar Coin Flashloan Attack]]></summary>
-        <author>
-            <name>0xjoi</name>
         </author>
     </entry>
 </feed>

@@ -18,6 +18,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e0d6c8c96c60",
+          "author": "Rudra bhaskar",
+          "description": "What is BITCOIN?",
+          "link": "https://coinsbench.com/bitcoin-vs-ethereum-e0d6c8c96c60?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-17T16:54:01.000Z",
+          "wordCount": 1403,
+          "title": "Bitcoin VS Ethereum",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:675/1*jRCsiyE1YWmxJtnhrRRvKA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/50f226478c15",
+          "author": "Dave Patten",
+          "description": "The rise of Web3 is reshaping the internet, ushering in a decentralized paradigm where ownership, transparency, and user control are…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/web3-development-tools-frameworks-wallets-and-apis-50f226478c15?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-17T16:53:47.000Z",
+          "wordCount": 1123,
+          "title": "Web3 Development Tools: Frameworks, Wallets, and APIs",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:723/1*TUs62T7YbgF9qx7zQ0LUvg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/4e88b34d47c6",
+          "author": "Rudra bhaskar",
+          "description": "Why do we need Safemath ?",
+          "link": "https://coinsbench.com/cyfrin-updraft-solidity-101-notes-6-4e88b34d47c6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-17T16:53:45.000Z",
+          "wordCount": 3504,
+          "title": "Cyfrin Updraft Solidity 101 Notes-6",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:700/0*_mN_dDmxPi2GJ4s9"
+        },
+        {
+          "id": "https://medium.com/p/ba5dd5aa8487",
+          "author": "Drraghavendra",
+          "description": "Jio Platforms Ltd. (JPL), a leading multinational technology powerhouse and a subsidiary of Reliance Industries Limited, is forging a…",
+          "link": "https://coinsbench.com/reliance-jio-pioneers-web3-partnering-with-polygon-labs-for-next-gen-experiences-ba5dd5aa8487?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-17T16:53:43.000Z",
+          "wordCount": 1873,
+          "title": "Reliance Jio Pioneers Web3: Partnering with Polygon Labs for Next-Gen Experiences",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wgnB1t-56LXRFLFCsnukow.png"
+        },
+        {
           "id": "https://medium.com/p/17aa3aa1b1a7",
           "author": "Rudra bhaskar",
           "description": "Mapping",
@@ -76,46 +116,6 @@
           "wordCount": 3697,
           "title": "Solidity Proxy Pattern: A Beginner’s Tutorial",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*eNK1NATdPNSw6M6wwqI6sQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3b5a050b78b9",
-          "author": "Rudra bhaskar",
-          "description": "In the last decade, blockchain technology has reshaped how we perceive value, data, and trust in the digital realm. What began as an…",
-          "link": "https://coinsbench.com/exploring-blockchain-and-web3-from-bitcoin-to-the-power-of-smart-contracts-3b5a050b78b9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-13T11:51:50.000Z",
-          "wordCount": 2006,
-          "title": "Exploring Blockchain and Web3: From Bitcoin to the Power of Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:563/0*Jsn9d_8uuIiFqdA6"
-        },
-        {
-          "id": "https://medium.com/p/977aa8d709c5",
-          "author": "Rudra bhaskar",
-          "description": "Solidity Types :",
-          "link": "https://coinsbench.com/cyfrin-updraft-solidity-101-notes-1-977aa8d709c5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-13T11:51:46.000Z",
-          "wordCount": 2287,
-          "title": "Cyfrin Updraft Solidity 101 Notes-1",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*2uVAPD7Leqv-0lUb"
-        },
-        {
-          "id": "https://medium.com/p/fd585ff21651",
-          "author": "Sumit Vekariya",
-          "description": "The blockchain revolution is here, and Solana is leading the charge with its high-speed, low-cost transactions. If you’re a developer…",
-          "link": "https://coinsbench.com/building-your-first-solana-smart-contract-with-anchor-chapter-1-fd585ff21651?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-13T11:51:40.000Z",
-          "wordCount": 3016,
-          "title": "Building Your First Solana Smart Contract with Anchor: Chapter 1",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZwCJ5WlfAXZjfiPUCinz7Q.png"
-        },
-        {
-          "id": "https://medium.com/p/1e7b4c7ce5e5",
-          "author": "Let' s get onchain",
-          "description": "When thinking about how the EVM executes smart contracts, I like to think of it as managing a skyscraper with multiple floors. In this…",
-          "link": "https://coinsbench.com/demystifying-the-evm-frame-stack-looking-at-a-rust-implementation-and-using-skyscraper-analogy-1e7b4c7ce5e5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-13T11:51:36.000Z",
-          "wordCount": 1971,
-          "title": "Demystifying the EVM Frame Stack: Looking at a Rust Implementation and using a Skyscraper Analogy",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1131/1*MuFII2_RZNKhCiGv1RX5hg.png"
         }
       ]
     },
@@ -220,7 +220,7 @@
           "description": "Bitcoin is again trading above $100,000.",
           "link": "https://medium.com/coinmonks/my-3-point-checklist-to-maximize-crypto-profits-c341fd02c5d7?source=rss----721b17443fd5---4",
           "publishedOn": "2025-01-17T12:44:38.000Z",
-          "wordCount": 1881,
+          "wordCount": 1880,
           "title": "My 3-point checklist to maximize crypto profits",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:598/1*OQEuk4Gi7rIgRiwymUAZEg.jpeg"
         }
@@ -231,6 +231,36 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/a1a51772bdd9",
+          "author": "GabiDev",
+          "description": "Smart contract deployment on Ethereum has evolved significantly since its inception, with different opcodes providing various ways to…",
+          "link": "https://blog.blockmagnates.com/understanding-create-create2-and-create3-in-solidity-a1a51772bdd9?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2025-01-17T17:06:09.000Z",
+          "wordCount": 2000,
+          "title": "Understanding CREATE, CREATE2, and CREATE3 in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:603/1*WqqrToU7tZUSh105ThJGNA.png"
+        },
+        {
+          "id": "https://medium.com/p/0530477fa0d6",
+          "author": "Kwesili Okafor",
+          "description": "Ethereum is a decentralized blockchain platform that enables developers to build and deploy decentralized applications (DApps) using smart…",
+          "link": "https://blog.blockmagnates.com/an-introduction-to-ethereum-smart-contracts-building-the-foundation-of-decentralized-applications-0530477fa0d6?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2025-01-17T17:06:05.000Z",
+          "wordCount": 2734,
+          "title": "An Introduction to Ethereum Smart Contracts: Building the Foundation of Decentralized Applications",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f5c886a3ad23",
+          "author": "Howard Lee",
+          "description": "TLDR: Understand how EVM network addresses work and how to use them practically in the blockchain eco-system.",
+          "link": "https://blog.blockmagnates.com/understanding-evm-deterministic-addresses-f5c886a3ad23?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2025-01-17T17:06:03.000Z",
+          "wordCount": 2747,
+          "title": "Understanding EVM Deterministic Addresses",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*AdwRMIGIWTkaYRQv"
+        },
         {
           "id": "https://medium.com/p/abb5a93f2a1c",
           "author": "HoneyBadger Framework",
@@ -300,36 +330,6 @@
           "wordCount": 3266,
           "title": "My Journey with Cyfrin Updraft: From Blockchain Basics to Advanced Smart Contract Development",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b2f7792f262e",
-          "author": "Temiloluwa Oyedare",
-          "description": "Breakdown of key concept in blockchain transactions",
-          "link": "https://blog.blockmagnates.com/gas-gas-price-and-transaction-fees-in-blockchain-transactions-explained-b2f7792f262e?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2024-12-31T12:30:01.000Z",
-          "wordCount": 1857,
-          "title": "Gas, Gas Price, and Transaction Fees in Blockchain Transactions Explained",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*rO7__PkEkBKC_WPMZnijEA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/63d6582fad55",
-          "author": "Drraghavendra",
-          "description": "Abstract",
-          "link": "https://blog.blockmagnates.com/the-revolution-of-cypherpunk-ideology-through-polygon-zksnarks-and-zkstarks-redefining-social-63d6582fad55?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2024-12-30T12:16:44.000Z",
-          "wordCount": 3165,
-          "title": "The Revolution of CypherPunk Ideology through Polygon zkSNARKs and zkSTARKs: Redefining Social…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*M1gyFv5oia8-c0_BsW2Dqg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/367df9b8ae7b",
-          "author": "0xjoi",
-          "description": "Incident Summary: Caterpillar Coin Flashloan Attack",
-          "link": "https://blog.blockmagnates.com/the-caterpillar-coin-collapse-unraveling-the-1-4m-flashloan-exploit-367df9b8ae7b?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2024-12-30T12:15:39.000Z",
-          "wordCount": 1767,
-          "title": "The Caterpillar Coin Collapse: Unraveling the $1.4M Flashloan Exploit",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ZTFEulRaV253XdpEvKDDaA.png"
         }
       ]
     },
