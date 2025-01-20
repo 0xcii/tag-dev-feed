@@ -1,10 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-20T13:20:57.707Z</id>
+    <id>urn:2025-01-20T14:14:17.511Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-20T13:20:57.707Z</updated>
+    <updated>2025-01-20T14:14:17.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Blockchain? An Introduction to Distributed Ledgers]]></title>
+        <id>https://medium.com/p/d55a48644dca</id>
+        <link href="https://coinsbench.com/what-is-blockchain-an-introduction-to-distributed-ledgers-d55a48644dca?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-20T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the first post in our Blockchain & Web3 series! If you’ve ever wondered how blockchain works, what distributed ledgers are, and…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Dave Patten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Starting with Solidity: Writing Your First Smart Contract]]></title>
+        <id>https://medium.com/p/8ccfdb7f4791</id>
+        <link href="https://coinsbench.com/getting-starting-with-solidity-writing-your-first-smart-contract-8ccfdb7f4791?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-20T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to another step in your journey through the world of Blockchain and Web3! Today, we’ll dive into Solidity, the go-to programming…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Dave Patten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Core Components of Blockchain: Nodes, Blocks, and Transactions]]></title>
+        <id>https://medium.com/p/395457a90399</id>
+        <link href="https://coinsbench.com/core-components-of-blockchain-nodes-blocks-and-transactions-395457a90399?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology is transforming industries by providing transparency, security, and decentralization.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Dave Patten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consensus Mechanisms Explained: PoW, PoS, and Beyond]]></title>
+        <id>https://medium.com/p/9121c8ad9eea</id>
+        <link href="https://coinsbench.com/consensus-mechanisms-explained-pow-pos-and-beyond-9121c8ad9eea?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-20T13:59:43.000Z</updated>
+        <summary type="html"><![CDATA[In our Blockchain & Web3 series, we’ve explored the foundational components of blockchain; nodes, blocks, and transactions. As we set the…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Dave Patten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Security: Common Threats and Best Practices]]></title>
+        <id>https://medium.com/p/eb8c378eabb1</id>
+        <link href="https://coinsbench.com/blockchain-security-common-threats-and-best-practices-eb8c378eabb1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-20T13:59:28.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology is revolutionizing industries, from finance to supply chain management, by offering transparency, immutability, and…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Dave Patten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Basics of Decentralized Applications (dApps)]]></title>
+        <id>https://medium.com/p/bf64225e97a2</id>
+        <link href="https://coinsbench.com/the-basics-of-decentralized-applications-dapps-bf64225e97a2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-20T13:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to our Blockchain & Web3 series! In our last post, we explored smart contracts, the backbone of blockchain functionality…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Dave Patten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Tokens: ERC-20, ERC-721, and Beyond]]></title>
+        <id>https://medium.com/p/684bd234d5a8</id>
+        <link href="https://coinsbench.com/understanding-tokens-erc-20-erc-721-and-beyond-684bd234d5a8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-20T13:58:22.000Z</updated>
+        <summary type="html"><![CDATA[Tokens are a cornerstone of blockchain technology, enabling everything from decentralized finance to digital collectibles. They represent…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Dave Patten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intro to DeFi: The World of Decentralized Finance]]></title>
+        <id>https://medium.com/p/03392e1a7eac</id>
+        <link href="https://coinsbench.com/intro-to-defi-the-world-of-decentralized-finance-03392e1a7eac?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-20T13:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to our Blockchain & Web3 series! In today’s post, we’re exploring Decentralized Finance (DeFi), one of the most…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Dave Patten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unmasking a Gas Limit Vulnerability in Optimism Portal]]></title>
+        <id>https://medium.com/p/f072034570ae</id>
+        <link href="https://coinsbench.com/unmasking-a-gas-limit-vulnerability-in-optimism-portal-f072034570ae?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-20T13:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Unmasking Gas Limit Vulnerability: Protecting Your DeFi Projects from Hidden Threats]]></summary>
+        <author>
+            <name>Auditifu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blocking the Lock Pool: How Improper ATA Checks Enable DoS Attacks in Solana Smart Contracts]]></title>
+        <id>https://medium.com/p/a7489e97941b</id>
+        <link href="https://coinsbench.com/blocking-the-lock-pool-how-improper-ata-checks-enable-dos-attacks-in-solana-smart-contracts-a7489e97941b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-20T13:57:59.000Z</updated>
+        <summary type="html"><![CDATA[In the rapidly evolving world of decentralized finance (DeFi), security remains a paramount concern. One critical vulnerability that…]]></summary>
+        <author>
+            <name>Auditifu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Reco Discovers and Protects Hidden Data Risks in Your SaaS Applications]]></title>
         <id>https://medium.com/p/8eddf40c7861</id>
@@ -137,107 +245,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[TLDR: Understand how EVM network addresses work and how to use them practically in the blockchain eco-system.]]></summary>
         <author>
             <name>Howard Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin VS Ethereum]]></title>
-        <id>https://medium.com/p/e0d6c8c96c60</id>
-        <link href="https://coinsbench.com/bitcoin-vs-ethereum-e0d6c8c96c60?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-17T16:54:01.000Z</updated>
-        <summary type="html"><![CDATA[What is BITCOIN?]]></summary>
-        <author>
-            <name>Rudra bhaskar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Development Tools: Frameworks, Wallets, and APIs]]></title>
-        <id>https://medium.com/p/50f226478c15</id>
-        <link href="https://coinsbench.com/web3-development-tools-frameworks-wallets-and-apis-50f226478c15?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-17T16:53:47.000Z</updated>
-        <summary type="html"><![CDATA[The rise of Web3 is reshaping the internet, ushering in a decentralized paradigm where ownership, transparency, and user control are…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Dave Patten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyfrin Updraft Solidity 101 Notes-6]]></title>
-        <id>https://medium.com/p/4e88b34d47c6</id>
-        <link href="https://coinsbench.com/cyfrin-updraft-solidity-101-notes-6-4e88b34d47c6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-17T16:53:45.000Z</updated>
-        <summary type="html"><![CDATA[Why do we need Safemath ?]]></summary>
-        <author>
-            <name>Rudra bhaskar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reliance Jio Pioneers Web3: Partnering with Polygon Labs for Next-Gen Experiences]]></title>
-        <id>https://medium.com/p/ba5dd5aa8487</id>
-        <link href="https://coinsbench.com/reliance-jio-pioneers-web3-partnering-with-polygon-labs-for-next-gen-experiences-ba5dd5aa8487?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-17T16:53:43.000Z</updated>
-        <summary type="html"><![CDATA[Jio Platforms Ltd. (JPL), a leading multinational technology powerhouse and a subsidiary of Reliance Industries Limited, is forging a…]]></summary>
-        <author>
-            <name>Drraghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyfrin Updraft Solidity 101 Notes-2]]></title>
-        <id>https://medium.com/p/17aa3aa1b1a7</id>
-        <link href="https://coinsbench.com/cyfrin-updraft-solidity-101-notes-2-17aa3aa1b1a7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-15T12:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Mapping]]></summary>
-        <author>
-            <name>Rudra bhaskar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyfrin Updraft Solidity 101 Notes-3]]></title>
-        <id>https://medium.com/p/b45f59b5d8da</id>
-        <link href="https://coinsbench.com/cyfrin-updraft-solidity-101-notes-3-b45f59b5d8da?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-15T12:49:57.000Z</updated>
-        <summary type="html"><![CDATA[Crowdfunding Contracts: Fund Me &Price Converter]]></summary>
-        <author>
-            <name>Rudra bhaskar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noir : Beginner’s Guide II]]></title>
-        <id>https://medium.com/p/188868aa161d</id>
-        <link href="https://coinsbench.com/noir-beginners-guide-ii-188868aa161d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-15T12:49:54.000Z</updated>
-        <summary type="html"><![CDATA[In Part I, we explored the foundational steps to get started with Noir and seamlessly integrate its zero-knowledge proof capabilities into…]]></summary>
-        <author>
-            <name>Viraj Patva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyfrin Updraft Solidity 101 Notes-4]]></title>
-        <id>https://medium.com/p/e2e67739c618</id>
-        <link href="https://coinsbench.com/cyfrin-updraft-solidity-101-notes-4-e2e67739c618?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-15T12:49:25.000Z</updated>
-        <summary type="html"><![CDATA[Chainlink Data Feed]]></summary>
-        <author>
-            <name>Rudra bhaskar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyfrin Updraft Solidity 101 Notes-5]]></title>
-        <id>https://medium.com/p/99018de544c4</id>
-        <link href="https://coinsbench.com/cyfrin-updraft-solidity-101-notes-5-99018de544c4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-15T12:49:23.000Z</updated>
-        <summary type="html"><![CDATA[The getPrice and getConversionRate Functions]]></summary>
-        <author>
-            <name>Rudra bhaskar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Proxy Pattern: A Beginner’s Tutorial]]></title>
-        <id>https://medium.com/p/b0e376ffaa06</id>
-        <link href="https://coinsbench.com/solidity-proxy-pattern-a-beginners-tutorial-b0e376ffaa06?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-13T11:51:54.000Z</updated>
-        <summary type="html"><![CDATA[Learn to build upgradeable smart contracts in native Solidity. No external libraries needed — from counters to ether.]]></summary>
-        <author>
-            <name>Ido Zamir</name>
         </author>
     </entry>
     <entry>
