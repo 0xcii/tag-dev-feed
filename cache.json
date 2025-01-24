@@ -18,6 +18,36 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/f9580e5cbbbb",
+          "author": "Ashish Sharda",
+          "description": "As we enter 2025, Google’s strategic shift towards adopting Rust as a primary programming language for Android development marks a…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/googles-rust-adoption-in-android-a-game-changer-for-mobile-os-development-f9580e5cbbbb?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-24T17:31:30.000Z",
+          "wordCount": 1187,
+          "title": "Google’s Rust Adoption in Android: A Game-Changer for Mobile OS Development",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*OimEQ3ZS1JS2HQw02MMCxw.png"
+        },
+        {
+          "id": "https://medium.com/p/5e5b65243eed",
+          "author": "Carine Insights",
+          "description": "A Beginner’s Guide to Mastering Smart Contract Development",
+          "link": "https://coinsbench.com/5-essential-solidity-concepts-every-smart-contract-developer-should-know-5e5b65243eed?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-24T17:31:29.000Z",
+          "wordCount": 2083,
+          "title": "5 Essential Solidity Concepts Every Smart Contract Developer Should Know",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*eib2GlvbSzsZ1XKy"
+        },
+        {
+          "id": "https://medium.com/p/7d640c69cd18",
+          "author": "Vin M N Shelar| @th_v_slr",
+          "description": "Solidity, the primary programming language for writing smart contracts on the Ethereum blockchain, provides various types of variables to…",
+          "link": "https://coinsbench.com/understanding-variables-in-solidity-7d640c69cd18?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-24T17:31:16.000Z",
+          "wordCount": 1669,
+          "title": "Understanding Variables in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*UNL18xGYLeyAo2OSx3ezgQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/d55a48644dca",
           "author": "Dave Patten",
           "description": "Welcome to the first post in our Blockchain & Web3 series! If you’ve ever wondered how blockchain works, what distributed ledgers are, and…\nContinue reading on CoinsBench »",
@@ -86,36 +116,6 @@
           "wordCount": 1109,
           "title": "Understanding Tokens: ERC-20, ERC-721, and Beyond",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VKsBIG1yDhXQDwEIwCVeDg.png"
-        },
-        {
-          "id": "https://medium.com/p/03392e1a7eac",
-          "author": "Dave Patten",
-          "description": "Welcome back to our Blockchain & Web3 series! In today’s post, we’re exploring Decentralized Finance (DeFi), one of the most…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/intro-to-defi-the-world-of-decentralized-finance-03392e1a7eac?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-20T13:58:12.000Z",
-          "wordCount": 1179,
-          "title": "Intro to DeFi: The World of Decentralized Finance",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:974/1*jOymQX5HmOSRW5wG0BKYPA.png"
-        },
-        {
-          "id": "https://medium.com/p/f072034570ae",
-          "author": "Auditifu",
-          "description": "Unmasking Gas Limit Vulnerability: Protecting Your DeFi Projects from Hidden Threats",
-          "link": "https://coinsbench.com/unmasking-a-gas-limit-vulnerability-in-optimism-portal-f072034570ae?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-20T13:58:02.000Z",
-          "wordCount": 1742,
-          "title": "Unmasking a Gas Limit Vulnerability in Optimism Portal",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BZsFUKcTk9hOXKTcC45Cog.png"
-        },
-        {
-          "id": "https://medium.com/p/a7489e97941b",
-          "author": "Auditifu",
-          "description": "In the rapidly evolving world of decentralized finance (DeFi), security remains a paramount concern. One critical vulnerability that…",
-          "link": "https://coinsbench.com/blocking-the-lock-pool-how-improper-ata-checks-enable-dos-attacks-in-solana-smart-contracts-a7489e97941b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-20T13:57:59.000Z",
-          "wordCount": 1804,
-          "title": "Blocking the Lock Pool: How Improper ATA Checks Enable DoS Attacks in Solana Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0YrjYMTv9HkE-92lnbsSPA.png"
         }
       ]
     },
