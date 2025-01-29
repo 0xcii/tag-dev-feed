@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-29T15:15:33.534Z</id>
+    <id>urn:2025-01-29T16:19:06.638Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-29T15:15:33.534Z</updated>
+    <updated>2025-01-29T16:19:06.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Use Go-Ethereum and Puppeth]]></title>
+        <id>https://medium.com/p/7e345642557b</id>
+        <link href="https://coinsbench.com/learn-how-to-use-go-ethereum-and-puppeth-7e345642557b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-29T16:01:12.000Z</updated>
+        <summary type="html"><![CDATA[I just wrote about Geth and how to use it. After reading this, you’ll be able to interact with nodes and the blockchain itself using…]]></summary>
+        <author>
+            <name>0xNazu.sol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⛽Understanding Gas Costs in Solidity: Are You Spending   More Than You Should?⛽]]></title>
+        <id>https://medium.com/p/f559ec0ca822</id>
+        <link href="https://coinsbench.com/understanding-gas-costs-in-solidity-are-you-spending-more-than-you-should-f559ec0ca822?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-29T16:01:09.000Z</updated>
+        <summary type="html"><![CDATA[When you create smart contracts in Solidity, it’s important to know about “gas.” Gas is what powers the execution of operations on the…]]></summary>
+        <author>
+            <name>Vin M N Shelar| @th_v_slr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Pitfalls of Smart Contracts — and How to Avoid Them]]></title>
+        <id>https://medium.com/p/c6503f0b23d4</id>
+        <link href="https://coinsbench.com/the-hidden-pitfalls-of-smart-contracts-and-how-to-avoid-them-c6503f0b23d4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-29T16:01:07.000Z</updated>
+        <summary type="html"><![CDATA[The term smart contract has become a buzzword, especially in the realms of decentralized finance (DeFi) and non-fungible tokens (NFTs). At…]]></summary>
+        <author>
+            <name>Guillaume Verbiguié</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front-Running Attacks in Permission Management Systems]]></title>
+        <id>https://medium.com/p/7e9222fc8c5f</id>
+        <link href="https://coinsbench.com/front-running-attacks-in-permission-management-systems-7e9222fc8c5f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-29T16:00:49.000Z</updated>
+        <summary type="html"><![CDATA[In the rapidly evolving world of decentralized finance (DeFi), security remains a paramount concern. One of the vulnerabilities that has…]]></summary>
+        <author>
+            <name>Auditifu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MintsLoader Campaign Spreads Stealc Malware and Cryptocurrency Miners]]></title>
         <id>https://medium.com/p/558563fed6e8</id>
@@ -187,48 +227,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>Magda  Jankowska</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Smart Contracts]]></title>
-        <id>https://medium.com/p/afbca7a6e6a7</id>
-        <link href="https://coinsbench.com/introduction-to-smart-contracts-afbca7a6e6a7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-27T10:46:38.000Z</updated>
-        <summary type="html"><![CDATA[In the rapidly evolving world of blockchain and Web3, smart contracts stand as a cornerstone innovation. These self-executing contracts…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Dave Patten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s Rust Adoption in Android: A Game-Changer for Mobile OS Development]]></title>
-        <id>https://medium.com/p/f9580e5cbbbb</id>
-        <link href="https://coinsbench.com/googles-rust-adoption-in-android-a-game-changer-for-mobile-os-development-f9580e5cbbbb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-24T17:31:30.000Z</updated>
-        <summary type="html"><![CDATA[As we enter 2025, Google’s strategic shift towards adopting Rust as a primary programming language for Android development marks a…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Ashish Sharda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Essential Solidity Concepts Every Smart Contract Developer Should Know]]></title>
-        <id>https://medium.com/p/5e5b65243eed</id>
-        <link href="https://coinsbench.com/5-essential-solidity-concepts-every-smart-contract-developer-should-know-5e5b65243eed?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-24T17:31:29.000Z</updated>
-        <summary type="html"><![CDATA[A Beginner’s Guide to Mastering Smart Contract Development]]></summary>
-        <author>
-            <name>Carine Insights</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Variables in Solidity]]></title>
-        <id>https://medium.com/p/7d640c69cd18</id>
-        <link href="https://coinsbench.com/understanding-variables-in-solidity-7d640c69cd18?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-24T17:31:16.000Z</updated>
-        <summary type="html"><![CDATA[Solidity, the primary programming language for writing smart contracts on the Ethereum blockchain, provides various types of variables to…]]></summary>
-        <author>
-            <name>Vin M N Shelar| @th_v_slr</name>
         </author>
     </entry>
     <entry>

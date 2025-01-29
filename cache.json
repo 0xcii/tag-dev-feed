@@ -18,6 +18,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/7e345642557b",
+          "author": "0xNazu.sol",
+          "description": "I just wrote about Geth and how to use it. After reading this, you’ll be able to interact with nodes and the blockchain itself using…",
+          "link": "https://coinsbench.com/learn-how-to-use-go-ethereum-and-puppeth-7e345642557b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-29T16:01:12.000Z",
+          "wordCount": 9596,
+          "title": "Learn How to Use Go-Ethereum and Puppeth",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*gPtaz1UbX1GR6LP4UWnE7w.png"
+        },
+        {
+          "id": "https://medium.com/p/f559ec0ca822",
+          "author": "Vin M N Shelar| @th_v_slr",
+          "description": "When you create smart contracts in Solidity, it’s important to know about “gas.” Gas is what powers the execution of operations on the…",
+          "link": "https://coinsbench.com/understanding-gas-costs-in-solidity-are-you-spending-more-than-you-should-f559ec0ca822?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-29T16:01:09.000Z",
+          "wordCount": 1706,
+          "title": "⛽Understanding Gas Costs in Solidity: Are You Spending   More Than You Should?⛽",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*XQfLWVpPLVoVnYG5HFlFKw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c6503f0b23d4",
+          "author": "Guillaume Verbiguié",
+          "description": "The term smart contract has become a buzzword, especially in the realms of decentralized finance (DeFi) and non-fungible tokens (NFTs). At…",
+          "link": "https://coinsbench.com/the-hidden-pitfalls-of-smart-contracts-and-how-to-avoid-them-c6503f0b23d4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-29T16:01:07.000Z",
+          "wordCount": 3936,
+          "title": "The Hidden Pitfalls of Smart Contracts — and How to Avoid Them",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1152/1*w-JJ2Mus1wxlqqLMf0_XUA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/7e9222fc8c5f",
+          "author": "Auditifu",
+          "description": "In the rapidly evolving world of decentralized finance (DeFi), security remains a paramount concern. One of the vulnerabilities that has…",
+          "link": "https://coinsbench.com/front-running-attacks-in-permission-management-systems-7e9222fc8c5f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-01-29T16:00:49.000Z",
+          "wordCount": 1997,
+          "title": "Front-Running Attacks in Permission Management Systems",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8U416AoiFrC50Yr2ufxmAA.png"
+        },
+        {
           "id": "https://medium.com/p/79d56b84bd0f",
           "author": "Dave Patten",
           "description": "Welcome back to our Blockchain & Web3 series! In the last post, we explored how to write your first smart contract in Solidity and deploy…\nContinue reading on CoinsBench »",
@@ -76,46 +116,6 @@
           "wordCount": 4186,
           "title": "Smart Contract : A Beginner’s Guide to Writing Your First Solidity Contract",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*IdmjbRg7zZ0wlIOi1MYgNg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/afbca7a6e6a7",
-          "author": "Dave Patten",
-          "description": "In the rapidly evolving world of blockchain and Web3, smart contracts stand as a cornerstone innovation. These self-executing contracts…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/introduction-to-smart-contracts-afbca7a6e6a7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-27T10:46:38.000Z",
-          "wordCount": 1144,
-          "title": "Introduction to Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:893/1*iDwtrJ_kFRMNPU2XSZ6hdA.png"
-        },
-        {
-          "id": "https://medium.com/p/f9580e5cbbbb",
-          "author": "Ashish Sharda",
-          "description": "As we enter 2025, Google’s strategic shift towards adopting Rust as a primary programming language for Android development marks a…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/googles-rust-adoption-in-android-a-game-changer-for-mobile-os-development-f9580e5cbbbb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-24T17:31:30.000Z",
-          "wordCount": 1187,
-          "title": "Google’s Rust Adoption in Android: A Game-Changer for Mobile OS Development",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*OimEQ3ZS1JS2HQw02MMCxw.png"
-        },
-        {
-          "id": "https://medium.com/p/5e5b65243eed",
-          "author": "Carine Insights",
-          "description": "A Beginner’s Guide to Mastering Smart Contract Development",
-          "link": "https://coinsbench.com/5-essential-solidity-concepts-every-smart-contract-developer-should-know-5e5b65243eed?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-24T17:31:29.000Z",
-          "wordCount": 2083,
-          "title": "5 Essential Solidity Concepts Every Smart Contract Developer Should Know",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*eib2GlvbSzsZ1XKy"
-        },
-        {
-          "id": "https://medium.com/p/7d640c69cd18",
-          "author": "Vin M N Shelar| @th_v_slr",
-          "description": "Solidity, the primary programming language for writing smart contracts on the Ethereum blockchain, provides various types of variables to…",
-          "link": "https://coinsbench.com/understanding-variables-in-solidity-7d640c69cd18?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-24T17:31:16.000Z",
-          "wordCount": 1669,
-          "title": "Understanding Variables in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*UNL18xGYLeyAo2OSx3ezgQ.jpeg"
         }
       ]
     },
@@ -130,7 +130,7 @@
           "description": "A new malware campaign has been detected, leveraging MintsLoader to distribute a range of malicious payloads, including the Stealc…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/mintsloader-campaign-spreads-stealc-malware-and-cryptocurrency-miners-558563fed6e8?source=rss----721b17443fd5---4",
           "publishedOn": "2025-01-29T14:53:16.000Z",
-          "wordCount": 1246,
+          "wordCount": 1249,
           "title": "MintsLoader Campaign Spreads Stealc Malware and Cryptocurrency Miners",
           "imageUrl": null
         },
@@ -140,7 +140,7 @@
           "description": "Struggling with AI crypto investments after the recent market correction? Learn how to evaluate projects, rebalance your portfolio, and…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/stuck-investing-in-ai-crypto-heres-what-you-should-do-ai-crypto-investment-guide-53c948f25426?source=rss----721b17443fd5---4",
           "publishedOn": "2025-01-29T12:22:10.000Z",
-          "wordCount": 1342,
+          "wordCount": 1343,
           "title": "Stuck Investing in AI Crypto? Here’s What You Should Do! | AI Crypto Investment Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*JZMGeRRaSGTn65cabha3pQ.png"
         },
@@ -150,7 +150,7 @@
           "description": "Discover Holiverse, the groundbreaking wellness metaverse integrating DNA analysis, Digital Twin technology, and DeSci principles to…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/holiverse-pioneering-the-holistic-wellness-metaverse-747fb016774d?source=rss----721b17443fd5---4",
           "publishedOn": "2025-01-29T12:22:06.000Z",
-          "wordCount": 1236,
+          "wordCount": 1240,
           "title": "Holiverse: Pioneering the Holistic Wellness Metaverse",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vuiIOLnrbLzFL-oUa_poBQ.jpeg"
         },
@@ -160,7 +160,7 @@
           "description": "Are People Financially Ready for the Crypto Era?",
           "link": "https://medium.com/coinmonks/the-future-of-financial-education-learning-in-the-age-of-crypto-c70412c5832e?source=rss----721b17443fd5---4",
           "publishedOn": "2025-01-29T11:25:42.000Z",
-          "wordCount": 2025,
+          "wordCount": 2026,
           "title": "The Future of Financial Education: Learning in the Age of Crypto",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*K3ksBEHPvPHMuc90roIQrg.jpeg"
         },
@@ -170,7 +170,7 @@
           "description": "Businesses and start ups are always searching for growth opportunities. Initial Coin Offerings (ICOs) offer a promising way to raise funds…",
           "link": "https://medium.com/coinmonks/maximizing-business-potential-through-ico-development-1d1d242d59d2?source=rss----721b17443fd5---4",
           "publishedOn": "2025-01-29T11:25:41.000Z",
-          "wordCount": 2292,
+          "wordCount": 2293,
           "title": "Maximizing Business Potential Through ICO Development",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*22odEtvVqCELNu34VTzwrQ.png"
         },
@@ -180,7 +180,7 @@
           "description": "The following is an excerpt of the first chapter from my book “Magic Money: The Rise of Crypto Degens, Rug Pulls, and a Digital…",
           "link": "https://medium.com/coinmonks/the-rise-of-shitcoins-excerpt-from-magic-money-49ff37a12cb3?source=rss----721b17443fd5---4",
           "publishedOn": "2025-01-29T11:25:37.000Z",
-          "wordCount": 18478,
+          "wordCount": 18479,
           "title": "The Rise of Shitcoins | Excerpt from “Magic Money”",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*EQBjVhuS-c1wyNYX6ks72w.jpeg"
         },
@@ -190,7 +190,7 @@
           "description": "Hyperledger development cost is one of the primary considerations when planning a blockchain project. Whether you’re building a supply…",
           "link": "https://medium.com/coinmonks/hyperledger-development-cost-b204683e30cf?source=rss----721b17443fd5---4",
           "publishedOn": "2025-01-29T11:25:33.000Z",
-          "wordCount": 2983,
+          "wordCount": 2984,
           "title": "What Impacts Hyperledger Development Cost in 2025?",
           "imageUrl": null
         },
@@ -200,7 +200,7 @@
           "description": "📉 Market Movements",
           "link": "https://medium.com/coinmonks/crypto-weekly-roundup-key-developments-in-the-cryptocurrency-world-145dfc5f9c6e?source=rss----721b17443fd5---4",
           "publishedOn": "2025-01-29T11:25:29.000Z",
-          "wordCount": 1248,
+          "wordCount": 1249,
           "title": "Crypto Weekly Roundup: Key Developments in the Cryptocurrency World!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*BqktqYp_TLUJP_z61xWpMA.png"
         },
@@ -210,7 +210,7 @@
           "description": "As decentralized storage becomes increasingly important in modern applications, IPFS (InterPlanetary File System) has emerged as a leading…",
           "link": "https://medium.com/coinmonks/setting-up-a-production-ready-ipfs-cluster-with-docker-compose-a-complete-guide-5180baff0b22?source=rss----721b17443fd5---4",
           "publishedOn": "2025-01-29T11:25:27.000Z",
-          "wordCount": 2182,
+          "wordCount": 2183,
           "title": "Setting Up a Production-Ready IPFS Cluster with Docker Compose: A Complete Guide",
           "imageUrl": null
         },
