@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-29T16:19:06.638Z</id>
+    <id>urn:2025-01-29T17:13:29.789Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-29T16:19:06.638Z</updated>
+    <updated>2025-01-29T17:13:29.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Best Practices: A Beginner’s Guide to Writing Secure Smart Contracts]]></title>
+        <id>https://medium.com/p/0d5f65887857</id>
+        <link href="https://coinsbench.com/solidity-best-practices-a-beginners-guide-to-writing-secure-smart-contracts-0d5f65887857?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-29T16:20:45.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Joseph David</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn How to Use Go-Ethereum and Puppeth]]></title>
         <id>https://medium.com/p/7e345642557b</id>
@@ -217,16 +227,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Ganache CLI is a vital tool for Ethereum developers, providing a local blockchain environment that is fast, customizable, and efficient for…]]></summary>
         <author>
             <name>Kishan Kanani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract : A Beginner’s Guide to Writing Your First Solidity Contract]]></title>
-        <id>https://medium.com/p/1a025eb3758c</id>
-        <link href="https://coinsbench.com/smart-contract-a-beginners-guide-to-writing-your-first-solidity-contract-1a025eb3758c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-27T10:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>Magda  Jankowska</name>
         </author>
     </entry>
     <entry>
