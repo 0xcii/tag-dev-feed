@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-31T16:18:04.271Z</id>
+    <id>urn:2025-01-31T17:12:52.341Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-31T16:18:04.271Z</updated>
+    <updated>2025-01-31T17:12:52.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract: A Beginner’s Guide to Testing Your First Solidity Contract]]></title>
+        <id>https://medium.com/p/0584e3d74449</id>
+        <link href="https://coinsbench.com/smart-contract-a-beginners-guide-to-testing-your-first-solidity-contract-0584e3d74449?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-31T16:17:24.000Z</updated>
+        <summary type="html"><![CDATA[It may seem difficult to test smart contracts. We will simplify it. With the help of Foundry, you can test your first Solidity contract and…]]></summary>
+        <author>
+            <name>Magda  Jankowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Off-Chain vs. On-Chain: Striking the Perfect Balance for Your Blockchain Data]]></title>
+        <id>https://medium.com/p/fb3052248133</id>
+        <link href="https://coinsbench.com/off-chain-vs-on-chain-striking-the-perfect-balance-for-your-blockchain-data-fb3052248133?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-01-31T16:17:21.000Z</updated>
+        <summary type="html"><![CDATA[“Should I store everything on-chain to ensure total security, or should I use an off-chain solution to cut costs?”]]></summary>
+        <author>
+            <name>Guillaume Verbiguié</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maximizing Business Efficiency with ERC20 Tokens]]></title>
         <id>https://medium.com/p/cb1f8825d76a</id>
@@ -205,26 +225,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Abstract :]]></summary>
         <author>
             <name>Drraghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Casinc: A Secure and Transparent Betting Smart Contract]]></title>
-        <id>https://medium.com/p/e800a95d5c96</id>
-        <link href="https://coinsbench.com/building-casinc-a-secure-and-transparent-betting-smart-contract-e800a95d5c96?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-27T10:46:45.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology continues to revolutionize industries by introducing transparency, immutability, and security. One intriguing use…]]></summary>
-        <author>
-            <name>suraj vastri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Ganache CLI and Why is It Essential for Testing Solidity Smart Contracts?]]></title>
-        <id>https://medium.com/p/b6009e4096eb</id>
-        <link href="https://coinsbench.com/what-is-ganache-cli-and-why-is-it-essential-for-testing-solidity-smart-contracts-b6009e4096eb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-01-27T10:46:43.000Z</updated>
-        <summary type="html"><![CDATA[Ganache CLI is a vital tool for Ethereum developers, providing a local blockchain environment that is fast, customizable, and efficient for…]]></summary>
-        <author>
-            <name>Kishan Kanani</name>
         </author>
     </entry>
     <entry>
