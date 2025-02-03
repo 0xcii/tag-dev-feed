@@ -18,6 +18,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/f81a96a23083",
+          "author": "Dave Patten",
+          "description": "2025 is shaping up to be a transformative year for blockchain and Web3 technologies. With advancements in AI, decentralized infrastructure…",
+          "link": "https://coinsbench.com/future-of-blockchain-and-web3-scalability-interoperability-and-beyond-f81a96a23083?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-02-03T09:00:19.000Z",
+          "wordCount": 2725,
+          "title": "Future of Blockchain and Web3: Scalability, Interoperability, and Beyond",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*httwItMPkY98LVE4sBXOxw.png"
+        },
+        {
+          "id": "https://medium.com/p/29f01e04cbc9",
+          "author": "Carine Insights",
+          "description": "A comprehensive guide to creating, testing, and deploying a revolutionary smart contract that combines fungible and non-fungible tokens",
+          "link": "https://coinsbench.com/creating-a-hybrid-token-a-step-by-step-guide-to-building-the-future-of-cryptocurrency-29f01e04cbc9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-02-03T09:00:16.000Z",
+          "wordCount": 2249,
+          "title": "Creating a Hybrid Token: A Step-by-Step Guide to Building the Future of Cryptocurrency",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*39L70MzRo2-wmibA"
+        },
+        {
           "id": "https://medium.com/p/1b1346cf02a0",
           "author": "Joseph David",
           "description": "Decentralized applications (dApps) are revolutionizing industries by enabling trustless, transparent, and secure interactions. However…",
@@ -96,26 +116,6 @@
           "wordCount": 1997,
           "title": "Front-Running Attacks in Permission Management Systems",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8U416AoiFrC50Yr2ufxmAA.png"
-        },
-        {
-          "id": "https://medium.com/p/79d56b84bd0f",
-          "author": "Dave Patten",
-          "description": "Welcome back to our Blockchain & Web3 series! In the last post, we explored how to write your first smart contract in Solidity and deploy…",
-          "link": "https://coinsbench.com/building-a-simple-dapp-step-by-step-guide-79d56b84bd0f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-27T10:46:50.000Z",
-          "wordCount": 4626,
-          "title": "Building a Simple dApp: Step-by-Step Guide",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*l2WErdTnQYGrU4eWhqpvPg.png"
-        },
-        {
-          "id": "https://medium.com/p/ccbe8f33d6d7",
-          "author": "Vin M N Shelar| @th_v_slr",
-          "description": "When writing smart contracts in Solidity, it’s easy to focus solely on functionality, efficiency, and security. However, one crucial aspect…",
-          "link": "https://coinsbench.com/why-spdx-license-identifiers-are-important-in-solidity-ccbe8f33d6d7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-01-27T10:46:48.000Z",
-          "wordCount": 2259,
-          "title": "Why SPDX License Identifiers are Important in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*-bExjYrOEijTvokly9SZrQ.jpeg"
         }
       ]
     },
@@ -231,6 +231,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/cc544d31236d",
+          "author": "Ovindu Pathiraja",
+          "description": "In the ever evolving domain of blockchain development, the choice of a programming language stands as a cornerstone for success. Two…",
+          "link": "https://blog.blockmagnates.com/unveiling-the-differences-vyper-vs-solidity-in-blockchain-programming-cc544d31236d?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2025-02-03T09:05:48.000Z",
+          "wordCount": 3046,
+          "title": "Unveiling the Differences: Vyper vs Solidity in Blockchain Programming",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/6bfe57e5d2cb",
           "author": "Kishan Kanani",
