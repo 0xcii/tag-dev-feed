@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-04T21:13:41.435Z</id>
+    <id>urn:2025-02-04T22:14:04.145Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-04T21:13:41.435Z</updated>
+    <updated>2025-02-04T22:14:04.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -276,16 +276,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[The past year has seen new storage management methodologies introduced to the Solidity ecosystem, with ERC-7208 standing out as a key…]]></summary>
         <author>
             <name>HoneyBadger Framework</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Ethereum Virtual Machine (EVM): Its Architecture, Functionality, and Development…]]></title>
-        <id>https://medium.com/p/463e034d62c1</id>
-        <link href="https://blog.blockmagnates.com/understanding-the-ethereum-virtual-machine-evm-its-architecture-functionality-and-development-463e034d62c1?source=rss----18fa961f1eff--solidity"/>
-        <updated>2025-01-06T09:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore the Ethereum Virtual Machine (EVM), its stack-based architecture, opcodes, gas costs, and how it enables decentralized applications]]></summary>
-        <author>
-            <name>Temiloluwa Oyedare</name>
         </author>
     </entry>
 </feed>
