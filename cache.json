@@ -18,6 +18,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/5ae4743a8fc8",
+          "author": "Saumya Kasthuri",
+          "description": "Smart contracts operate on blockchain networks with immutable and decentralized execution. However, security vulnerabilities in these…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/breaking-and-securing-smart-contracts-a-deep-dive-into-reentrancy-attacks-5ae4743a8fc8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-02-12T15:55:58.000Z",
+          "wordCount": 1146,
+          "title": "Breaking and Securing Smart Contracts: A Deep Dive into Reentrancy Attacks",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*gCXx3mEIqyy3w9oQqhbuyg.png"
+        },
+        {
+          "id": "https://medium.com/p/22ed6fd2e812",
+          "author": "Saumya Kasthuri",
+          "description": "Blockchain is a revolutionary technology that is redefining the way we interact with each other and transfer value. This article will…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/blockchain-unveiled-a-rookies-guide-to-understanding-the-basics-22ed6fd2e812?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-02-12T15:55:56.000Z",
+          "wordCount": 1179,
+          "title": "Blockchain Unveiled: A Rookie’s Guide to Understanding the Basics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/774ffc5e5069",
+          "author": "Saumya Kasthuri",
+          "description": "Blockchain technology is a decentralized and distributed digital ledger that records transactions securely and transparently. Here are the…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/how-blockchain-works-a-closer-look-774ffc5e5069?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-02-12T15:55:53.000Z",
+          "wordCount": 1089,
+          "title": "How Blockchain Works: A Closer Look",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1185/1*HxhVjiVVVHw0AhNf8ycnlg.png"
+        },
+        {
+          "id": "https://medium.com/p/4a093d1bd8f9",
+          "author": "Saumya Kasthuri",
+          "description": "Blockchain technology is revolutionizing industries, and one of its most powerful features is the ability to run Smart Contracts. But what…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/the-dark-side-of-smart-contracts-from-zero-to-hero-4a093d1bd8f9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-02-12T15:55:37.000Z",
+          "wordCount": 1134,
+          "title": "The Dark Side of Smart Contracts: From Zero to Hero",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:779/1*zVbx5UA9HPPNgWD5wxTfYA.png"
+        },
+        {
+          "id": "https://medium.com/p/b2c81e4ec51f",
+          "author": "Saumya Kasthuri",
+          "description": "Blockchain: Crypto wallets\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/blockchain-wallets-an-in-depth-look-with-security-insights-b2c81e4ec51f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-02-12T15:55:36.000Z",
+          "wordCount": 1026,
+          "title": "Blockchain Wallets: An In-Depth Look with Security Insights",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HNYSXo86y2c6ygJXczb2qg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/1f2d05974fce",
+          "author": "0xStalin",
+          "description": "More often than not, when auditing a codebase we need to write PoCs to demonstrate and validate that a potential bug is indeed a valid bug…",
+          "link": "https://coinsbench.com/foundry-write-directly-on-the-variables-storage-slots-1f2d05974fce?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-02-12T15:55:16.000Z",
+          "wordCount": 2445,
+          "title": "Foundry — Write directly on the variable’s storage slots",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/022bab4597f3",
           "author": "Magda  Jankowska",
           "description": "Imagine you’re playing a video game where you need to do certain things to move to the next level. Sometimes, you just check if you have…",
@@ -56,66 +116,6 @@
           "wordCount": 2625,
           "title": "HTB Locked and Loaded Walkthroughs",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:703/1*xbQesRQjWJFxeAc89uSzeA.png"
-        },
-        {
-          "id": "https://medium.com/p/cf165eb340ed",
-          "author": "Gurnoor Singh",
-          "description": "If you’re new to programming or looking to learn a modern, powerful language, Rust is an excellent choice. Rust has gained immense…",
-          "link": "https://coinsbench.com/getting-started-with-rust-a-beginners-guide-cf165eb340ed?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-02-05T17:17:37.000Z",
-          "wordCount": 2313,
-          "title": "Getting Started with Rust: A Beginner’s Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/cc0444e25884",
-          "author": "Gurnoor Singh",
-          "description": "Storing Your Favorites on the Blockchain with Solana and Anchor",
-          "link": "https://coinsbench.com/writing-my-first-solana-program-using-rust-and-anchor-cc0444e25884?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-02-05T17:17:16.000Z",
-          "wordCount": 2031,
-          "title": "Writing my First Solana Program using Rust and Anchor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e02ed9c1e4f9",
-          "author": "Guillaume Verbiguié",
-          "description": "The decentralized finance (DeFi) space is rapidly evolving, fueled by the convergence of blockchain transparency and advanced machine…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/predictive-models-and-blockchain-data-ml-driven-insights-for-defi-e02ed9c1e4f9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-02-05T17:17:13.000Z",
-          "wordCount": 1155,
-          "title": "Predictive Models and Blockchain Data: ML-Driven Insights for DeFi",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8lQxkvyNZ8bewRJNNVls5Q.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/17de6c1ec71c",
-          "author": "Joseph David",
-          "description": "Deploying multiple smart contracts individually can be expensive due to high gas fees. By deploying sub-contracts using one main contract…",
-          "link": "https://coinsbench.com/deploying-sub-contracts-using-a-main-contract-to-save-gas-costs-17de6c1ec71c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-02-04T16:07:01.000Z",
-          "wordCount": 1859,
-          "title": "Deploying Sub-Contracts Using a Main Contract to Save Gas Costs",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*JPHmLbR6LLC9f6x4mIFZmg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f81a96a23083",
-          "author": "Dave Patten",
-          "description": "2025 is shaping up to be a transformative year for blockchain and Web3 technologies. With advancements in AI, decentralized infrastructure…",
-          "link": "https://coinsbench.com/future-of-blockchain-and-web3-scalability-interoperability-and-beyond-f81a96a23083?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-02-03T09:00:19.000Z",
-          "wordCount": 2713,
-          "title": "Future of Blockchain and Web3: Scalability, Interoperability, and Beyond",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*httwItMPkY98LVE4sBXOxw.png"
-        },
-        {
-          "id": "https://medium.com/p/29f01e04cbc9",
-          "author": "Carine Insights",
-          "description": "A comprehensive guide to creating, testing, and deploying a revolutionary smart contract that combines fungible and non-fungible tokens",
-          "link": "https://coinsbench.com/creating-a-hybrid-token-a-step-by-step-guide-to-building-the-future-of-cryptocurrency-29f01e04cbc9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-02-03T09:00:16.000Z",
-          "wordCount": 2249,
-          "title": "Creating a Hybrid Token: A Step-by-Step Guide to Building the Future of Cryptocurrency",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*39L70MzRo2-wmibA"
         }
       ]
     },

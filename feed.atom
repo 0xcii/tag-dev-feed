@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-12T15:16:54.931Z</id>
+    <id>urn:2025-02-12T16:20:11.038Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-12T15:16:54.931Z</updated>
+    <updated>2025-02-12T16:20:11.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Breaking and Securing Smart Contracts: A Deep Dive into Reentrancy Attacks]]></title>
+        <id>https://medium.com/p/5ae4743a8fc8</id>
+        <link href="https://coinsbench.com/breaking-and-securing-smart-contracts-a-deep-dive-into-reentrancy-attacks-5ae4743a8fc8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-12T15:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Smart contracts operate on blockchain networks with immutable and decentralized execution. However, security vulnerabilities in these…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Saumya Kasthuri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Unveiled: A Rookie’s Guide to Understanding the Basics]]></title>
+        <id>https://medium.com/p/22ed6fd2e812</id>
+        <link href="https://coinsbench.com/blockchain-unveiled-a-rookies-guide-to-understanding-the-basics-22ed6fd2e812?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-12T15:55:56.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain is a revolutionary technology that is redefining the way we interact with each other and transfer value. This article will…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Saumya Kasthuri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Blockchain Works: A Closer Look]]></title>
+        <id>https://medium.com/p/774ffc5e5069</id>
+        <link href="https://coinsbench.com/how-blockchain-works-a-closer-look-774ffc5e5069?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-12T15:55:53.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology is a decentralized and distributed digital ledger that records transactions securely and transparently. Here are the…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Saumya Kasthuri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dark Side of Smart Contracts: From Zero to Hero]]></title>
+        <id>https://medium.com/p/4a093d1bd8f9</id>
+        <link href="https://coinsbench.com/the-dark-side-of-smart-contracts-from-zero-to-hero-4a093d1bd8f9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-12T15:55:37.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology is revolutionizing industries, and one of its most powerful features is the ability to run Smart Contracts. But what…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Saumya Kasthuri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Wallets: An In-Depth Look with Security Insights]]></title>
+        <id>https://medium.com/p/b2c81e4ec51f</id>
+        <link href="https://coinsbench.com/blockchain-wallets-an-in-depth-look-with-security-insights-b2c81e4ec51f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-12T15:55:36.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain: Crypto wallets
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Saumya Kasthuri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundry — Write directly on the variable’s storage slots]]></title>
+        <id>https://medium.com/p/1f2d05974fce</id>
+        <link href="https://coinsbench.com/foundry-write-directly-on-the-variables-storage-slots-1f2d05974fce?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-12T15:55:16.000Z</updated>
+        <summary type="html"><![CDATA[More often than not, when auditing a codebase we need to write PoCs to demonstrate and validate that a potential bug is indeed a valid bug…]]></summary>
+        <author>
+            <name>0xStalin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Are AI Agents the Future of Software Development?]]></title>
         <id>https://medium.com/p/237f85d60142</id>
@@ -157,47 +222,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Started with Rust: A Beginner’s Guide]]></title>
-        <id>https://medium.com/p/cf165eb340ed</id>
-        <link href="https://coinsbench.com/getting-started-with-rust-a-beginners-guide-cf165eb340ed?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-05T17:17:37.000Z</updated>
-        <summary type="html"><![CDATA[If you’re new to programming or looking to learn a modern, powerful language, Rust is an excellent choice. Rust has gained immense…]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing my First Solana Program using Rust and Anchor]]></title>
-        <id>https://medium.com/p/cc0444e25884</id>
-        <link href="https://coinsbench.com/writing-my-first-solana-program-using-rust-and-anchor-cc0444e25884?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-05T17:17:16.000Z</updated>
-        <summary type="html"><![CDATA[Storing Your Favorites on the Blockchain with Solana and Anchor]]></summary>
-        <author>
-            <name>Gurnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predictive Models and Blockchain Data: ML-Driven Insights for DeFi]]></title>
-        <id>https://medium.com/p/e02ed9c1e4f9</id>
-        <link href="https://coinsbench.com/predictive-models-and-blockchain-data-ml-driven-insights-for-defi-e02ed9c1e4f9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-05T17:17:13.000Z</updated>
-        <summary type="html"><![CDATA[The decentralized finance (DeFi) space is rapidly evolving, fueled by the convergence of blockchain transparency and advanced machine…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Guillaume Verbiguié</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying Sub-Contracts Using a Main Contract to Save Gas Costs]]></title>
-        <id>https://medium.com/p/17de6c1ec71c</id>
-        <link href="https://coinsbench.com/deploying-sub-contracts-using-a-main-contract-to-save-gas-costs-17de6c1ec71c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-04T16:07:01.000Z</updated>
-        <summary type="html"><![CDATA[Deploying multiple smart contracts individually can be expensive due to high gas fees. By deploying sub-contracts using one main contract…]]></summary>
-        <author>
-            <name>Joseph David</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unveiling the Differences: Vyper vs Solidity in Blockchain Programming]]></title>
         <id>https://medium.com/p/cc544d31236d</id>
         <link href="https://blog.blockmagnates.com/unveiling-the-differences-vyper-vs-solidity-in-blockchain-programming-cc544d31236d?source=rss----18fa961f1eff--solidity"/>
@@ -205,26 +229,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[In the ever evolving domain of blockchain development, the choice of a programming language stands as a cornerstone for success. Two…]]></summary>
         <author>
             <name>Ovindu Pathiraja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Future of Blockchain and Web3: Scalability, Interoperability, and Beyond]]></title>
-        <id>https://medium.com/p/f81a96a23083</id>
-        <link href="https://coinsbench.com/future-of-blockchain-and-web3-scalability-interoperability-and-beyond-f81a96a23083?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-03T09:00:19.000Z</updated>
-        <summary type="html"><![CDATA[2025 is shaping up to be a transformative year for blockchain and Web3 technologies. With advancements in AI, decentralized infrastructure…]]></summary>
-        <author>
-            <name>Dave Patten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a Hybrid Token: A Step-by-Step Guide to Building the Future of Cryptocurrency]]></title>
-        <id>https://medium.com/p/29f01e04cbc9</id>
-        <link href="https://coinsbench.com/creating-a-hybrid-token-a-step-by-step-guide-to-building-the-future-of-cryptocurrency-29f01e04cbc9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-03T09:00:16.000Z</updated>
-        <summary type="html"><![CDATA[A comprehensive guide to creating, testing, and deploying a revolutionary smart contract that combines fungible and non-fungible tokens]]></summary>
-        <author>
-            <name>Carine Insights</name>
         </author>
     </entry>
     <entry>
