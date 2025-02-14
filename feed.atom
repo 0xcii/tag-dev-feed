@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-14T15:16:20.273Z</id>
+    <id>urn:2025-02-14T16:18:09.663Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-14T15:16:20.273Z</updated>
+    <updated>2025-02-14T16:18:09.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Gas Fees: Top 5 Best Practices for Building Smart Contracts on Ethereum]]></title>
+        <id>https://medium.com/p/19eefac251f6</id>
+        <link href="https://coinsbench.com/optimizing-gas-fees-top-5-best-practices-for-building-smart-contracts-on-ethereum-19eefac251f6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-14T15:34:38.000Z</updated>
+        <summary type="html"><![CDATA[Gas fees are a critical factor when building decentralized applications on Ethereum. High costs can drive users away, so optimizing your…]]></summary>
+        <author>
+            <name>Web3 in Three Minutes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding a Critical Vulnerability in DeFi Liquidation Processes]]></title>
+        <id>https://medium.com/p/214a92cbd55a</id>
+        <link href="https://coinsbench.com/understanding-a-critical-vulnerability-in-defi-liquidation-processes-214a92cbd55a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-14T15:34:34.000Z</updated>
+        <summary type="html"><![CDATA[Auditifu.com]]></summary>
+        <author>
+            <name>Auditifu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Donald Trump’s Potential Negotiation of Peace with Putin in the Ukraine War]]></title>
         <id>https://medium.com/p/848f9523095d</id>
@@ -202,26 +222,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[Chainlink Local is an installable dependency. This tool runs Chainlink CCIP locally which means developers can rapidly explore, prototype…]]></summary>
         <author>
             <name>Guilherme Binsfeld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying the GlueX Router: How It Streamlines DeFi Execution]]></title>
-        <id>https://medium.com/p/3d46953eff5c</id>
-        <link href="https://coinsbench.com/demystifying-the-gluex-router-how-it-streamlines-defi-execution-3d46953eff5c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-05T17:17:51.000Z</updated>
-        <summary type="html"><![CDATA[Developers, DeFi degens, and crypto architects — what if fragmented liquidity pools, gas-guzzling transactions, and labyrinthine execution…]]></summary>
-        <author>
-            <name>Khatripratham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTB Locked and Loaded Walkthroughs]]></title>
-        <id>https://medium.com/p/c459c355b60e</id>
-        <link href="https://coinsbench.com/htb-locked-and-loaded-walkthroughs-c459c355b60e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-05T17:17:46.000Z</updated>
-        <summary type="html"><![CDATA[In this Medium article, I will discuss the walkthrough of the medium-level “Locked and Loaded” machine from Hack The Box. At first glance…]]></summary>
-        <author>
-            <name>Kara</name>
         </author>
     </entry>
     <entry>
