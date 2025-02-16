@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-16T04:18:08.389Z</id>
+    <id>urn:2025-02-16T05:14:44.671Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-16T04:18:08.389Z</updated>
+    <updated>2025-02-16T05:14:44.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -252,36 +252,6 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[In this article, we learning about CrossSourceMinter.sol (view here the full code). It is a smart contract that creates a CCIP message and…]]></summary>
         <author>
             <name>Guilherme Binsfeld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding CREATE, CREATE2, and CREATE3 in Solidity]]></title>
-        <id>https://medium.com/p/a1a51772bdd9</id>
-        <link href="https://blog.blockmagnates.com/understanding-create-create2-and-create3-in-solidity-a1a51772bdd9?source=rss----18fa961f1eff--solidity"/>
-        <updated>2025-01-17T17:06:09.000Z</updated>
-        <summary type="html"><![CDATA[Smart contract deployment on Ethereum has evolved significantly since its inception, with different opcodes providing various ways to…]]></summary>
-        <author>
-            <name>GabiDev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction to Ethereum Smart Contracts: Building the Foundation of Decentralized Applications]]></title>
-        <id>https://medium.com/p/0530477fa0d6</id>
-        <link href="https://blog.blockmagnates.com/an-introduction-to-ethereum-smart-contracts-building-the-foundation-of-decentralized-applications-0530477fa0d6?source=rss----18fa961f1eff--solidity"/>
-        <updated>2025-01-17T17:06:05.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum is a decentralized blockchain platform that enables developers to build and deploy decentralized applications (DApps) using smart…]]></summary>
-        <author>
-            <name>Kwesili Okafor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding EVM Deterministic Addresses]]></title>
-        <id>https://medium.com/p/f5c886a3ad23</id>
-        <link href="https://blog.blockmagnates.com/understanding-evm-deterministic-addresses-f5c886a3ad23?source=rss----18fa961f1eff--solidity"/>
-        <updated>2025-01-17T17:06:03.000Z</updated>
-        <summary type="html"><![CDATA[TLDR: Understand how EVM network addresses work and how to use them practically in the blockchain eco-system.]]></summary>
-        <author>
-            <name>Howard Lee</name>
         </author>
     </entry>
 </feed>
