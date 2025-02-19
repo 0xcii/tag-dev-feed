@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-19T15:17:01.842Z</id>
+    <id>urn:2025-02-19T16:18:54.217Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-19T15:17:01.842Z</updated>
+    <updated>2025-02-19T16:18:54.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Absence of Constructors in Solidity Implementation Contracts: A Deep Dive into…]]></title>
+        <id>https://medium.com/p/ccfe45b9a7f2</id>
+        <link href="https://blog.blockmagnates.com/understanding-the-absence-of-constructors-in-solidity-implementation-contracts-a-deep-dive-into-ccfe45b9a7f2?source=rss----18fa961f1eff--solidity"/>
+        <updated>2025-02-19T15:30:33.000Z</updated>
+        <summary type="html"><![CDATA[In the rapidly evolving landscape of blockchain development, the architectural patterns surrounding upgradeable smart contracts have become…]]></summary>
+        <author>
+            <name>Kwesili Okafor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Find the Next Big Gem on Pump.Fun]]></title>
         <id>https://medium.com/p/143050cf10ab</id>
