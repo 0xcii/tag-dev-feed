@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-20T18:20:59.837Z</id>
+    <id>urn:2025-02-20T19:12:43.960Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-20T18:20:59.837Z</updated>
+    <updated>2025-02-20T19:12:43.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -20,7 +20,7 @@
         <id>https://medium.com/p/ada902d6bcbc</id>
         <link href="https://medium.com/coinmonks/how-to-create-and-deploy-an-erc721-smart-contract-on-starknet-with-starknet-foundry-and-starknet-js-ada902d6bcbc?source=rss----721b17443fd5---4"/>
         <updated>2025-02-20T13:23:15.000Z</updated>
-        <summary type="html"><![CDATA[This guide covers how to create, deploy, and interact with an ERC721 smart contract on Starknet using OpenZeppelin, Starknet Foundry, and…]]></summary>
+        <summary type="html"><![CDATA[Create, deploy an ERC721 Cairo smart contract on Starknet using OpenZeppelin, Starknet Foundry, and interact with it using Starknet.js.]]></summary>
         <author>
             <name>Rosario Borgesi</name>
         </author>
