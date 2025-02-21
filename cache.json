@@ -253,6 +253,16 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/30c53b3cfda9",
+          "author": "HoneyBadger Framework",
+          "description": "Recently, I’ve been refining the technical benefits of ERC-7844 to make sure it can withstand scrutiny from people smarter than me — who…",
+          "link": "https://blog.blockmagnates.com/erc-7844-and-the-value-of-state-abstraction-30c53b3cfda9?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2025-02-21T15:09:02.000Z",
+          "wordCount": 1903,
+          "title": "ERC-7844 and the Value of State Abstraction",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*l7_lYnib28ABRTgUFvrRqQ.png"
+        },
+        {
           "id": "https://medium.com/p/ccfe45b9a7f2",
           "author": "Kwesili Okafor",
           "description": "In the rapidly evolving landscape of blockchain development, the architectural patterns surrounding upgradeable smart contracts have become…",

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-21T14:13:26.466Z</id>
+    <id>urn:2025-02-21T15:16:00.809Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-21T14:13:26.466Z</updated>
+    <updated>2025-02-21T15:16:00.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ERC-7844 and the Value of State Abstraction]]></title>
+        <id>https://medium.com/p/30c53b3cfda9</id>
+        <link href="https://blog.blockmagnates.com/erc-7844-and-the-value-of-state-abstraction-30c53b3cfda9?source=rss----18fa961f1eff--solidity"/>
+        <updated>2025-02-21T15:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I’ve been refining the technical benefits of ERC-7844 to make sure it can withstand scrutiny from people smarter than me — who…]]></summary>
+        <author>
+            <name>HoneyBadger Framework</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Most crypto trading bot platforms out there suck, so we built our own]]></title>
         <id>https://www.cryptomaton.org/?p=1749</id>
