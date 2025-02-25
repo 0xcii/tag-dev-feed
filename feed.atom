@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-25T22:14:50.374Z</id>
+    <id>urn:2025-02-25T23:14:41.213Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-25T22:14:50.374Z</updated>
+    <updated>2025-02-25T23:14:41.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -272,26 +272,6 @@ The post New Binance Coin Listings Bot – Open Source New Listings Trading Bot 
         <summary type="html"><![CDATA[In the ever evolving domain of blockchain development, the choice of a programming language stands as a cornerstone for success. Two…]]></summary>
         <author>
             <name>Ovindu Pathiraja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is OpenZeppelin Contracts Wizard and How Does OpenZeppelin Simplify Solidity Development?]]></title>
-        <id>https://medium.com/p/6bfe57e5d2cb</id>
-        <link href="https://blog.blockmagnates.com/what-is-openzeppelin-contracts-wizard-and-how-does-openzeppelin-simplify-solidity-development-6bfe57e5d2cb?source=rss----18fa961f1eff--solidity"/>
-        <updated>2025-01-27T11:02:19.000Z</updated>
-        <summary type="html"><![CDATA[Building secure and efficient smart contracts is crucial for blockchain development, but it can be challenging to write error-free code…]]></summary>
-        <author>
-            <name>Kishan Kanani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning about the CrossSourceMinter.sol Chainlink SmartContract]]></title>
-        <id>https://medium.com/p/1bb9fea20ea3</id>
-        <link href="https://blog.blockmagnates.com/learning-about-the-crosssourceminter-sol-chainlink-smartcontract-1bb9fea20ea3?source=rss----18fa961f1eff--solidity"/>
-        <updated>2025-01-27T11:01:27.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we learning about CrossSourceMinter.sol (view here the full code). It is a smart contract that creates a CCIP message and…]]></summary>
-        <author>
-            <name>Guilherme Binsfeld</name>
         </author>
     </entry>
 </feed>
