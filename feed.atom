@@ -1,10 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-26T16:20:15.118Z</id>
+    <id>urn:2025-02-26T17:14:21.461Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-26T16:20:15.118Z</updated>
+    <updated>2025-02-26T17:14:21.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Strategy Buys Another 20,356 BTC Worth Nearly $2B]]></title>
+        <id>https://medium.com/p/f63355522c86</id>
+        <link href="https://medium.com/coinmonks/strategy-buys-another-20-356-btc-worth-nearly-2b-f63355522c86?source=rss----721b17443fd5---4"/>
+        <updated>2025-02-26T16:48:03.000Z</updated>
+        <summary type="html"><![CDATA[“Saylor’s Strategy has purchased 20,356 BTC at $97,514 per Bitcoin”]]></summary>
+        <author>
+            <name>Jaewi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walrus: Revolutionizing Decentralized Storage with Red Stuff Encoding]]></title>
+        <id>https://medium.com/p/eb1ca5ea6cd4</id>
+        <link href="https://medium.com/coinmonks/walrus-revolutionizing-decentralized-storage-with-red-stuff-encoding-eb1ca5ea6cd4?source=rss----721b17443fd5---4"/>
+        <updated>2025-02-26T16:47:46.000Z</updated>
+        <summary type="html"><![CDATA[Data storage remains one of the most pressing challenges in the rapidly evolving world of blockchain and decentralized applications…]]></summary>
+        <author>
+            <name>0xgeneral</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Importance of Accurate Liquidity Validation]]></title>
+        <id>https://medium.com/p/1dce07dd3cdc</id>
+        <link href="https://coinsbench.com/the-importance-of-accurate-liquidity-validation-1dce07dd3cdc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-26T16:21:18.000Z</updated>
+        <summary type="html"><![CDATA[In the rapidly evolving world of decentralized finance (DeFi), the integrity of smart contracts is paramount. One critical vulnerability…]]></summary>
+        <author>
+            <name>Auditifu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Dangers of Using Selfdestruct in Upgradable Smart Contracts]]></title>
+        <id>https://medium.com/p/832466bf6b95</id>
+        <link href="https://coinsbench.com/the-hidden-dangers-of-using-selfdestruct-in-upgradable-smart-contracts-832466bf6b95?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-26T16:21:13.000Z</updated>
+        <summary type="html"><![CDATA[While the selfdestruct()function in Solidity, the primary programming language for Ethereum smart contracts offers a convenient way to…]]></summary>
+        <author>
+            <name>Chiagoziem David Ezeozue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Blockchain Developer-3: Visibility Specifiers and Functions]]></title>
+        <id>https://medium.com/p/77cf49673628</id>
+        <link href="https://coinsbench.com/how-to-become-a-blockchain-developer-3-visibility-specifiers-and-functions-77cf49673628?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-26T16:20:24.000Z</updated>
+        <summary type="html"><![CDATA[In the last episode of “How to become a blockchain developer” series, we had a brief understanding of the variable declarations, variable…]]></summary>
+        <author>
+            <name>Ardakarahan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Blockchain developer — 2: Remix IDE and Solidity Basics]]></title>
+        <id>https://medium.com/p/e492ffe7b580</id>
+        <link href="https://coinsbench.com/how-to-become-a-blockchain-developer-2-remix-ide-and-solidity-basics-e492ffe7b580?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-26T16:20:21.000Z</updated>
+        <summary type="html"><![CDATA[Hello again! In the first episode of becoming a blockchain developer guide, I tried to help you about the general idea of this series and…]]></summary>
+        <author>
+            <name>Ardakarahan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Blockchain Developer-1: Intorduction and Smart Contracts]]></title>
+        <id>https://medium.com/p/cfa41646b05d</id>
+        <link href="https://coinsbench.com/how-to-become-a-blockchain-developer-1-intorduction-and-smart-contracts-cfa41646b05d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-26T16:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Welcome! To the first episode of “How to become a blockchain developer”. I am Arda Karahan, a sophomore computer engineering student who is…]]></summary>
+        <author>
+            <name>Ardakarahan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Blockchain Developer-5: Low Data Calls and Events]]></title>
+        <id>https://medium.com/p/5f4b6378ddfa</id>
+        <link href="https://coinsbench.com/how-to-become-a-blockchain-developer-5-low-data-calls-and-events-5f4b6378ddfa?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-26T16:20:16.000Z</updated>
+        <summary type="html"><![CDATA[Welcome! In today’s episode we are going to talk about the low data functions and events in solidity. This episode is going to be the last…]]></summary>
+        <author>
+            <name>Ardakarahan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Solana Transaction Size Limits in Go: Tips, Tricks, and Lookup Tables with the Blocto…]]></title>
+        <id>https://medium.com/p/05f6630c2eaf</id>
+        <link href="https://coinsbench.com/navigating-solana-transaction-size-limits-in-go-tips-tricks-and-lookup-tables-with-the-blocto-05f6630c2eaf?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-26T16:20:13.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>RickyYang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Smart Contracts Scale?]]></title>
+        <id>https://medium.com/p/b495b692e973</id>
+        <link href="https://coinsbench.com/can-smart-contracts-scale-b495b692e973?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-26T16:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Perfect Parallelization Equals Unlimited Scale]]></summary>
+        <author>
+            <name>Clemens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s explore the functions in Solidity]]></title>
+        <id>https://medium.com/p/ed750c1cea79</id>
+        <link href="https://coinsbench.com/lets-explore-the-functions-in-solidity-ed750c1cea79?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-26T16:20:03.000Z</updated>
+        <summary type="html"><![CDATA[Whenever we start the most understandable when we start understanding any concept with the example, so lets’s consider and understand via…]]></summary>
+        <author>
+            <name>Vin M N Shelar| @th_v_slr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Pages to Smart Contracts: Building a Web3 Bookstore DApp]]></title>
+        <id>https://medium.com/p/a7113bfa815c</id>
+        <link href="https://coinsbench.com/from-pages-to-smart-contracts-building-a-web3-bookstore-dapp-a7113bfa815c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-26T16:20:00.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to Transforming Your Traditional Bookstore into a Decentralized Application]]></summary>
+        <author>
+            <name>Carine Insights</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto News of the Week]]></title>
         <id>https://medium.com/p/ab938326dde3</id>
@@ -90,98 +211,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XRP Lawsuit: Former SEC Official Discloses Signs of Imminent Ripple Appeal Dismissal — 36Crypto]]></title>
-        <id>https://medium.com/p/f6d1e820d8cb</id>
-        <link href="https://medium.com/coinmonks/xrp-lawsuit-former-sec-official-discloses-signs-of-imminent-ripple-appeal-dismissal-36crypto-f6d1e820d8cb?source=rss----721b17443fd5---4"/>
-        <updated>2025-02-26T08:30:41.000Z</updated>
-        <summary type="html"><![CDATA[The XRP community is abuzz with speculation as new developments suggest the SEC may be on the verge of abandoning its appeal against…]]></summary>
-        <author>
-            <name>36Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Market Downturn: Breaking Down the Last Week’s Chaos]]></title>
-        <id>https://medium.com/p/5eb69e614e6a</id>
-        <link href="https://medium.com/coinmonks/crypto-market-downturn-breaking-down-the-last-weeks-chaos-5eb69e614e6a?source=rss----721b17443fd5---4"/>
-        <updated>2025-02-26T08:29:35.000Z</updated>
-        <summary type="html"><![CDATA[Know the key factors behind the latest market movements!]]></summary>
-        <author>
-            <name>Jilary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain: The Invisible Revolution That’s Already Rewiring Your World (Now With a Quantum Twist)]]></title>
-        <id>https://medium.com/p/ef809438b3ba</id>
-        <link href="https://coinsbench.com/blockchain-the-invisible-revolution-thats-already-rewiring-your-world-now-with-a-quantum-twist-ef809438b3ba?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-24T11:49:04.000Z</updated>
-        <summary type="html"><![CDATA[Picture this: a world where trust isn’t a flimsy promise or a scribbled signature — it’s cold, hard math. A world where every deal, every…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Jan Rock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contracts in OTT Subscription Management]]></title>
-        <id>https://medium.com/p/d2bc1e786548</id>
-        <link href="https://coinsbench.com/smart-contracts-in-ott-subscription-management-d2bc1e786548?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-21T15:28:19.000Z</updated>
-        <summary type="html"><![CDATA[Offering on-demand access to films, TV episodes, sports, and unique web series, the emergence of OTT channels has changed the way…]]></summary>
-        <author>
-            <name>Faijal Khunkhana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundry: The Next-Gen Ethereum Development Framework]]></title>
-        <id>https://medium.com/p/bd6d0f06894e</id>
-        <link href="https://coinsbench.com/foundry-the-next-gen-ethereum-development-framework-bd6d0f06894e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-21T15:28:16.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum smart contract development has evolved from Truffle to Hardhat — and now, Foundry is becoming the go-to framework for speed and…]]></summary>
-        <author>
-            <name>Web3 in Three Minutes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Incompatibility of Self-Destruct Mechanisms in Upgradeable Smart Contract Architectures]]></title>
-        <id>https://medium.com/p/979f846f9265</id>
-        <link href="https://coinsbench.com/the-incompatibility-of-self-destruct-mechanisms-in-upgradeable-smart-contract-architectures-979f846f9265?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-21T15:28:04.000Z</updated>
-        <summary type="html"><![CDATA[Smart contract upgradeability has emerged as a critical design pattern in blockchain development, enabling protocols to evolve while…]]></summary>
-        <author>
-            <name>Kwesili Okafor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Solidity Smart Contracts & Hardhat Testing — MultiUserBank Edition]]></title>
-        <id>https://medium.com/p/7a078fd8bd4e</id>
-        <link href="https://coinsbench.com/optimizing-solidity-smart-contracts-hardhat-testing-multiuserbank-edition-7a078fd8bd4e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-21T15:27:57.000Z</updated>
-        <summary type="html"><![CDATA[🚀 Introduction]]></summary>
-        <author>
-            <name>Benz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Web3 Tokens: Real-World Use Case with Circle Wallet on Polygon Blockchain]]></title>
-        <id>https://medium.com/p/aed402c8dec7</id>
-        <link href="https://coinsbench.com/exploring-web3-tokens-real-world-use-case-with-circle-wallet-on-polygon-blockchain-aed402c8dec7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-21T15:27:46.000Z</updated>
-        <summary type="html"><![CDATA[The digital world is undergoing a seismic shift with the advent of Web3 — a decentralized, blockchain-powered internet. For cybersecurity…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Saumya Kasthuri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain Meets AI: Onchain AI Agents, DeFi, and Web3 Integrations]]></title>
-        <id>https://medium.com/p/0a4a1f5543e5</id>
-        <link href="https://coinsbench.com/blockchain-meets-ai-onchain-ai-agents-defi-and-web3-integrations-0a4a1f5543e5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-21T15:27:22.000Z</updated>
-        <summary type="html"><![CDATA[The integration of artificial intelligence (AI) with blockchain is reshaping decentralized applications, finance, and governance. AI agents…]]></summary>
-        <author>
-            <name>Dave Patten</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ERC-7844 and the Value of State Abstraction]]></title>
         <id>https://medium.com/p/30c53b3cfda9</id>
         <link href="https://blog.blockmagnates.com/erc-7844-and-the-value-of-state-abstraction-30c53b3cfda9?source=rss----18fa961f1eff--solidity"/>
@@ -221,36 +250,6 @@ The post Most crypto trading bot platforms out there suck, so we built our own 
 The post New Binance Coin Listings Bot – Open Source New Listings Trading Bot appeared first on cryptomaton.]]></summary>
         <author>
             <name>Andrei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unraveling the Future: Cryptocurrency and Blockchain Technology]]></title>
-        <id>https://medium.com/p/1a25dac71528</id>
-        <link href="https://coinsbench.com/unraveling-the-future-cryptocurrency-and-blockchain-technology-1a25dac71528?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-17T11:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Introduction:]]></summary>
-        <author>
-            <name>Sandeep</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Gas Fees: Top 5 Best Practices for Building Smart Contracts on Ethereum]]></title>
-        <id>https://medium.com/p/19eefac251f6</id>
-        <link href="https://coinsbench.com/optimizing-gas-fees-top-5-best-practices-for-building-smart-contracts-on-ethereum-19eefac251f6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-14T15:34:38.000Z</updated>
-        <summary type="html"><![CDATA[Gas fees are a critical factor when building decentralized applications on Ethereum. High costs can drive users away, so optimizing your…]]></summary>
-        <author>
-            <name>Web3 in Three Minutes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding a Critical Vulnerability in DeFi Liquidation Processes]]></title>
-        <id>https://medium.com/p/214a92cbd55a</id>
-        <link href="https://coinsbench.com/understanding-a-critical-vulnerability-in-defi-liquidation-processes-214a92cbd55a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-14T15:34:34.000Z</updated>
-        <summary type="html"><![CDATA[Auditifu.com]]></summary>
-        <author>
-            <name>Auditifu</name>
         </author>
     </entry>
     <entry>
