@@ -7,33 +7,6 @@
       "articles": []
     },
     {
-      "title": "cryptomaton",
-      "feedUrl": "https://www.cryptomaton.org/feed/",
-      "siteUrl": "https://www.cryptomaton.org/",
-      "articles": [
-        {
-          "id": "https://www.cryptomaton.org/?p=1749",
-          "author": "Andrei",
-          "description": "The Problem with Trading Bot Platforms Most crypto trading bot platforms out there are unnecessarily complicated. Even when you’re just trying to implement a basic strategy, you’re met with convoluted interfaces and an overwhelming number of options. However, arguably the worst aspect that most crypto trading bot platforms out there are guilty of is misleading […]\nThe post Most crypto trading bot platforms out there suck, so we built our own appeared first on cryptomaton.",
-          "link": "https://www.cryptomaton.org/2025/02/21/most-crypto-trading-bot-platforms-out-there-suck-so-we-built-our-own/",
-          "publishedOn": "2025-02-21T13:42:58.000Z",
-          "wordCount": 9867,
-          "title": "Most crypto trading bot platforms out there suck, so we built our own",
-          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/01/algorithmic-crypto-trading-plaform.png"
-        },
-        {
-          "id": "https://www.cryptomaton.org/?p=1742",
-          "author": "Andrei",
-          "description": "Whenever Binance announces that they will list a new coin, that coin typically sees a significant surge in price. In fact, this spike happens twice: 1. When Binance announces the listing. 2. When Binance actually lists the coin. Here’s a great example of that: Magic Eden (ME) did a cool 10x as soon as Binance […]\nThe post New Binance Coin Listings Bot – Open Source New Listings Trading Bot appeared first on cryptomaton.",
-          "link": "https://www.cryptomaton.org/2025/02/17/new-binance-coin-listings-bot-open-source-new-listings-bot/",
-          "publishedOn": "2025-02-17T12:50:59.000Z",
-          "wordCount": 9873,
-          "title": "New Binance Coin Listings Bot – Open Source New Listings Trading Bot",
-          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2021/10/Screenshot-6.png"
-        }
-      ]
-    },
-    {
       "title": "CoinsBench - Medium",
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
@@ -44,7 +17,7 @@
           "description": "In the rapidly evolving world of decentralized finance (DeFi), the integrity of smart contracts is paramount. One critical vulnerability…",
           "link": "https://coinsbench.com/the-importance-of-accurate-liquidity-validation-1dce07dd3cdc?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2025-02-26T16:21:18.000Z",
-          "wordCount": 1805,
+          "wordCount": 1800,
           "title": "The Importance of Accurate Liquidity Validation",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ocHvaVDn29nMwbU1Cy_Yvw.png"
         },
@@ -84,7 +57,7 @@
           "description": "Welcome! To the first episode of “How to become a blockchain developer”. I am Arda Karahan, a sophomore computer engineering student who is…",
           "link": "https://coinsbench.com/how-to-become-a-blockchain-developer-1-intorduction-and-smart-contracts-cfa41646b05d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2025-02-26T16:20:18.000Z",
-          "wordCount": 4303,
+          "wordCount": 4298,
           "title": "How to Become a Blockchain Developer-1: Intorduction and Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*4xU5OCSl_4CYb95_13iSEg.png"
         },
@@ -124,7 +97,7 @@
           "description": "Whenever we start the most understandable when we start understanding any concept with the example, so lets’s consider and understand via…",
           "link": "https://coinsbench.com/lets-explore-the-functions-in-solidity-ed750c1cea79?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2025-02-26T16:20:03.000Z",
-          "wordCount": 2480,
+          "wordCount": 2485,
           "title": "Let’s explore the functions in Solidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*iua-ygHJuw0XDAoGw_wlDA.jpeg"
         },
@@ -146,12 +119,32 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/2ae8f02531b5",
+          "author": "Nauris Treigys",
+          "description": "Navigating the turbulent waters of stock price forecasting, companies like The Shyft Group can be seen as a beacon for insightful financial…",
+          "link": "https://medium.com/coinmonks/unlocking-the-shyft-groups-future-will-their-stock-skyrocket-in-the-next-5-years-2ae8f02531b5?source=rss----721b17443fd5---4",
+          "publishedOn": "2025-02-28T15:12:37.000Z",
+          "wordCount": 3190,
+          "title": "Unlocking The Shyft Group’s Future: Will Their Stock Skyrocket in the Next 5 Years?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:798/1*KXvtwIMZ41wv5Zq-GyZ1xQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/f8280aa6f4f3",
+          "author": "NordFX",
+          "description": "As February comes to an end, financial markets have experienced sharp movements across major asset classes. Let’s break down the…",
+          "link": "https://medium.com/coinmonks/end-of-february-market-wrap-key-insights-for-traders-f8280aa6f4f3?source=rss----721b17443fd5---4",
+          "publishedOn": "2025-02-28T14:27:18.000Z",
+          "wordCount": 1405,
+          "title": "End-of-February Market Wrap: Key Insights for Traders",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*GlO6ECxeYTMXnwNGdMKb6g.png"
+        },
+        {
           "id": "https://medium.com/p/9193335b8028",
           "author": "Seraphina blake",
           "description": "In today’s digital era, customer engagement, automation, and operational efficiency are key factors that define business success. An…",
           "link": "https://medium.com/coinmonks/why-your-business-needs-an-advanced-ai-powered-chatbot-9193335b8028?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T13:23:32.000Z",
-          "wordCount": 2875,
+          "wordCount": 2876,
           "title": "Why Your Business Needs an Advanced AI-Powered Chatbot?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-sFs0z7BnaNFEgG40xfIBg.jpeg"
         },
@@ -161,7 +154,7 @@
           "description": "A Startup Guide to Build an NFT Marketplace with easy steps!",
           "link": "https://medium.com/coinmonks/how-to-create-an-nft-marketplace-8c81d232d813?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T13:23:28.000Z",
-          "wordCount": 4673,
+          "wordCount": 4685,
           "title": "How to Create an NFT Marketplace 2025— A Complete Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*oG6XzkxCSpHAkLYG9zh8ww.png"
         },
@@ -171,7 +164,7 @@
           "description": "The buzz around Artificial Intelligence (AI) agents is no longer confined to research labs and futuristic science fiction. Businesses are…",
           "link": "https://medium.com/coinmonks/wondering-how-ai-agents-are-being-used-in-real-businesses-fd6f8b71d15d?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T13:23:25.000Z",
-          "wordCount": 2834,
+          "wordCount": 2824,
           "title": "Wondering how AI agents are being used in real businesses?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*fE_m_oWK_WlcjOpQlPmINA.jpeg"
         },
@@ -201,7 +194,7 @@
           "description": "Hey anon! You will think that PVM turned into a salesman but the “GnosisPay Bounty Season Extended In March — Order Your Visa Card For…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/gnosispay-season-extended-and-new-perks-and-og-nfts-added-in-the-mix-f0d6cef7dd00?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T12:37:14.000Z",
-          "wordCount": 1434,
+          "wordCount": 1435,
           "title": "GnosisPay Season Extended And New Perks And OG NFTs Added In The Mix",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:679/1*4ACbX2lOv0zCF5r7vFaVCg.jpeg"
         },
@@ -221,29 +214,9 @@
           "description": "The emergence of quantum computing has sparked excitement across various industries, but for the world of cryptocurrency and blockchain…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/quantum-computings-potential-impact-on-crypto-a-new-era-or-existential-threat-c91e8a8bccbc?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T12:37:07.000Z",
-          "wordCount": 1271,
+          "wordCount": 1282,
           "title": "Quantum Computing’s Potential Impact on Crypto: A New Era or Existential Threat?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*BMc9pkimhyMIfEVd5X1_BQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e1ba5087b699",
-          "author": "Nora John",
-          "description": "Explore the top 5 DeFi wallets in 2025 for security & features. Find the perfect fit for your crypto needs. Still unsure? Ask our experts!",
-          "link": "https://medium.com/coinmonks/top-5-defi-wallets-in-2025-for-security-features-e1ba5087b699?source=rss----721b17443fd5---4",
-          "publishedOn": "2025-02-28T12:37:06.000Z",
-          "wordCount": 2415,
-          "title": "Top 5 DeFi Wallets in 2025 for Security & Features",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*_RgZHywt53Nab5AmdyhZhg.png"
-        },
-        {
-          "id": "https://medium.com/p/d2a2a7db1588",
-          "author": "Dominalt",
-          "description": "Top important DeFi market’s DEXs for 2025 are listed for you\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/top-crypto-dexes-for-2025-aave-hype-and-2-more-d2a2a7db1588?source=rss----721b17443fd5---4",
-          "publishedOn": "2025-02-28T12:37:02.000Z",
-          "wordCount": 1289,
-          "title": "Top Crypto DEXes For 2025 — Aave, Hype and 2 More",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*t5bdBlvN96ZyKc64LnyhsA.png"
         }
       ]
     },
@@ -258,7 +231,7 @@
           "description": "Recently, I’ve been refining the technical benefits of ERC-7844 to make sure it can withstand scrutiny from people smarter than me — who…",
           "link": "https://blog.blockmagnates.com/erc-7844-and-the-value-of-state-abstraction-30c53b3cfda9?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2025-02-21T15:09:02.000Z",
-          "wordCount": 1907,
+          "wordCount": 1903,
           "title": "ERC-7844 and the Value of State Abstraction",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*l7_lYnib28ABRTgUFvrRqQ.png"
         },
@@ -288,7 +261,7 @@
           "description": "In the ever evolving domain of blockchain development, the choice of a programming language stands as a cornerstone for success. Two…",
           "link": "https://blog.blockmagnates.com/unveiling-the-differences-vyper-vs-solidity-in-blockchain-programming-cc544d31236d?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2025-02-03T09:05:48.000Z",
-          "wordCount": 3046,
+          "wordCount": 3050,
           "title": "Unveiling the Differences: Vyper vs Solidity in Blockchain Programming",
           "imageUrl": null
         }
