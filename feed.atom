@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-28T15:17:03.455Z</id>
+    <id>urn:2025-02-28T16:19:55.718Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-28T15:17:03.455Z</updated>
+    <updated>2025-02-28T16:19:55.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learning Smart Contracts Hacking: 0x02 Hello Bank Contract]]></title>
+        <id>https://medium.com/p/0360acd0f226</id>
+        <link href="https://coinsbench.com/learning-smart-contracts-hacking-0x02-hello-bank-contract-0360acd0f226?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-28T16:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Explore HelloBank smart contract — learn how Solidity manages deposits, withdrawals, and ownership while ensuring security on the…]]></summary>
+        <author>
+            <name>Yash Nimbalkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Solana Smart Contracts: How They Work and How They Differ from Other Blockchains]]></title>
+        <id>https://medium.com/p/25217b2c19f6</id>
+        <link href="https://coinsbench.com/understanding-solana-smart-contracts-how-they-work-and-how-they-differ-from-other-blockchains-25217b2c19f6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-28T16:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Keshwanitejas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Legal DAOs: Why the Marshall Islands DAO LLC Is a Game-Changer]]></title>
+        <id>https://medium.com/p/2e3692ba4cc9</id>
+        <link href="https://coinsbench.com/the-future-of-legal-daos-why-the-marshall-islands-dao-llc-is-a-game-changer-2e3692ba4cc9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-28T16:03:52.000Z</updated>
+        <summary type="html"><![CDATA[For years, DAOs have operated in a legal gray area, exposing members to liability risks, regulatory uncertainty, and financial barriers…]]></summary>
+        <author>
+            <name>Sanad Karkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monolithic and Modular Blockchain: What’s the Difference and Which One is Better?]]></title>
+        <id>https://medium.com/p/525209ad4e28</id>
+        <link href="https://coinsbench.com/monolithic-and-modular-blockchain-whats-the-difference-and-which-one-is-better-525209ad4e28?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-02-28T16:03:51.000Z</updated>
+        <summary type="html"><![CDATA[A monolithic blockchain is an architecture where all functions — such as transaction execution, consensus, and data storage — are handled…]]></summary>
+        <author>
+            <name>Dery K. Yahya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlocking The Shyft Group’s Future: Will Their Stock Skyrocket in the Next 5 Years?]]></title>
         <id>https://medium.com/p/2ae8f02531b5</id>
@@ -168,47 +208,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Navigating Solana Transaction Size Limits in Go: Tips, Tricks, and Lookup Tables with the Blocto…]]></title>
-        <id>https://medium.com/p/05f6630c2eaf</id>
-        <link href="https://coinsbench.com/navigating-solana-transaction-size-limits-in-go-tips-tricks-and-lookup-tables-with-the-blocto-05f6630c2eaf?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-26T16:20:13.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>RickyYang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Smart Contracts Scale?]]></title>
-        <id>https://medium.com/p/b495b692e973</id>
-        <link href="https://coinsbench.com/can-smart-contracts-scale-b495b692e973?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-26T16:20:12.000Z</updated>
-        <summary type="html"><![CDATA[Perfect Parallelization Equals Unlimited Scale]]></summary>
-        <author>
-            <name>Clemens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s explore the functions in Solidity]]></title>
-        <id>https://medium.com/p/ed750c1cea79</id>
-        <link href="https://coinsbench.com/lets-explore-the-functions-in-solidity-ed750c1cea79?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-26T16:20:03.000Z</updated>
-        <summary type="html"><![CDATA[Whenever we start the most understandable when we start understanding any concept with the example, so lets’s consider and understand via…]]></summary>
-        <author>
-            <name>Vin M N Shelar| @th_v_slr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Pages to Smart Contracts: Building a Web3 Bookstore DApp]]></title>
-        <id>https://medium.com/p/a7113bfa815c</id>
-        <link href="https://coinsbench.com/from-pages-to-smart-contracts-building-a-web3-bookstore-dapp-a7113bfa815c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-26T16:20:00.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Guide to Transforming Your Traditional Bookstore into a Decentralized Application]]></summary>
-        <author>
-            <name>Carine Insights</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ERC-7844 and the Value of State Abstraction]]></title>
         <id>https://medium.com/p/30c53b3cfda9</id>
         <link href="https://blog.blockmagnates.com/erc-7844-and-the-value-of-state-abstraction-30c53b3cfda9?source=rss----18fa961f1eff--solidity"/>
@@ -219,6 +218,17 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Most crypto trading bot platforms out there suck, so we built our own]]></title>
+        <id>https://www.cryptomaton.org/?p=1749</id>
+        <link href="https://www.cryptomaton.org/2025/02/21/most-crypto-trading-bot-platforms-out-there-suck-so-we-built-our-own/"/>
+        <updated>2025-02-21T13:42:58.000Z</updated>
+        <summary type="html"><![CDATA[The Problem with Trading Bot Platforms Most crypto trading bot platforms out there are unnecessarily complicated. Even when you’re just trying to implement a basic strategy, you’re met with convoluted interfaces and an overwhelming number of options. However, arguably the worst aspect that most crypto trading bot platforms out there are guilty of is misleading […]
+The post Most crypto trading bot platforms out there suck, so we built our own appeared first on cryptomaton.]]></summary>
+        <author>
+            <name>Andrei</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Understanding the Absence of Constructors in Solidity Implementation Contracts: A Deep Dive into…]]></title>
         <id>https://medium.com/p/ccfe45b9a7f2</id>
         <link href="https://blog.blockmagnates.com/understanding-the-absence-of-constructors-in-solidity-implementation-contracts-a-deep-dive-into-ccfe45b9a7f2?source=rss----18fa961f1eff--solidity"/>
@@ -226,6 +236,17 @@ Continue reading on CoinsBench »]]></summary>
         <summary type="html"><![CDATA[In the rapidly evolving landscape of blockchain development, the architectural patterns surrounding upgradeable smart contracts have become…]]></summary>
         <author>
             <name>Kwesili Okafor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Binance Coin Listings Bot – Open Source New Listings Trading Bot]]></title>
+        <id>https://www.cryptomaton.org/?p=1742</id>
+        <link href="https://www.cryptomaton.org/2025/02/17/new-binance-coin-listings-bot-open-source-new-listings-bot/"/>
+        <updated>2025-02-17T12:50:59.000Z</updated>
+        <summary type="html"><![CDATA[Whenever Binance announces that they will list a new coin, that coin typically sees a significant surge in price. In fact, this spike happens twice: 1. When Binance announces the listing. 2. When Binance actually lists the coin. Here’s a great example of that: Magic Eden (ME) did a cool 10x as soon as Binance […]
+The post New Binance Coin Listings Bot – Open Source New Listings Trading Bot appeared first on cryptomaton.]]></summary>
+        <author>
+            <name>Andrei</name>
         </author>
     </entry>
     <entry>

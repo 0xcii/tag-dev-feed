@@ -7,10 +7,77 @@
       "articles": []
     },
     {
+      "title": "cryptomaton",
+      "feedUrl": "https://www.cryptomaton.org/feed/",
+      "siteUrl": "https://www.cryptomaton.org/",
+      "articles": [
+        {
+          "id": "https://www.cryptomaton.org/?p=1749",
+          "author": "Andrei",
+          "description": "The Problem with Trading Bot Platforms Most crypto trading bot platforms out there are unnecessarily complicated. Even when you’re just trying to implement a basic strategy, you’re met with convoluted interfaces and an overwhelming number of options. However, arguably the worst aspect that most crypto trading bot platforms out there are guilty of is misleading […]\nThe post Most crypto trading bot platforms out there suck, so we built our own appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2025/02/21/most-crypto-trading-bot-platforms-out-there-suck-so-we-built-our-own/",
+          "publishedOn": "2025-02-21T13:42:58.000Z",
+          "wordCount": 9867,
+          "title": "Most crypto trading bot platforms out there suck, so we built our own",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/01/algorithmic-crypto-trading-plaform.png"
+        },
+        {
+          "id": "https://www.cryptomaton.org/?p=1742",
+          "author": "Andrei",
+          "description": "Whenever Binance announces that they will list a new coin, that coin typically sees a significant surge in price. In fact, this spike happens twice: 1. When Binance announces the listing. 2. When Binance actually lists the coin. Here’s a great example of that: Magic Eden (ME) did a cool 10x as soon as Binance […]\nThe post New Binance Coin Listings Bot – Open Source New Listings Trading Bot appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2025/02/17/new-binance-coin-listings-bot-open-source-new-listings-bot/",
+          "publishedOn": "2025-02-17T12:50:59.000Z",
+          "wordCount": 9873,
+          "title": "New Binance Coin Listings Bot – Open Source New Listings Trading Bot",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2021/10/Screenshot-6.png"
+        }
+      ]
+    },
+    {
       "title": "CoinsBench - Medium",
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/0360acd0f226",
+          "author": "Yash Nimbalkar",
+          "description": "Explore HelloBank smart contract — learn how Solidity manages deposits, withdrawals, and ownership while ensuring security on the…",
+          "link": "https://coinsbench.com/learning-smart-contracts-hacking-0x02-hello-bank-contract-0360acd0f226?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-02-28T16:03:55.000Z",
+          "wordCount": 2563,
+          "title": "Learning Smart Contracts Hacking: 0x02 Hello Bank Contract",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*qF7YSdQ1CIVFiYUD"
+        },
+        {
+          "id": "https://medium.com/p/25217b2c19f6",
+          "author": "Keshwanitejas",
+          "description": "Introduction",
+          "link": "https://coinsbench.com/understanding-solana-smart-contracts-how-they-work-and-how-they-differ-from-other-blockchains-25217b2c19f6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-02-28T16:03:54.000Z",
+          "wordCount": 1749,
+          "title": "Understanding Solana Smart Contracts: How They Work and How They Differ from Other Blockchains",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:696/1*rp4CrY7hCYUNnk4O4yV_wg.png"
+        },
+        {
+          "id": "https://medium.com/p/2e3692ba4cc9",
+          "author": "Sanad Karkar",
+          "description": "For years, DAOs have operated in a legal gray area, exposing members to liability risks, regulatory uncertainty, and financial barriers…",
+          "link": "https://coinsbench.com/the-future-of-legal-daos-why-the-marshall-islands-dao-llc-is-a-game-changer-2e3692ba4cc9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-02-28T16:03:52.000Z",
+          "wordCount": 2174,
+          "title": "The Future of Legal DAOs: Why the Marshall Islands DAO LLC Is a Game-Changer",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*JNimKi9oaIkg13vAUbRu1Q.png"
+        },
+        {
+          "id": "https://medium.com/p/525209ad4e28",
+          "author": "Dery K. Yahya",
+          "description": "A monolithic blockchain is an architecture where all functions — such as transaction execution, consensus, and data storage — are handled…",
+          "link": "https://coinsbench.com/monolithic-and-modular-blockchain-whats-the-difference-and-which-one-is-better-525209ad4e28?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-02-28T16:03:51.000Z",
+          "wordCount": 2039,
+          "title": "Monolithic and Modular Blockchain: What’s the Difference and Which One is Better?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*aSp4kD5xVrlJ87fPK6Bxjg.png"
+        },
         {
           "id": "https://medium.com/p/1dce07dd3cdc",
           "author": "Auditifu",
@@ -67,49 +134,9 @@
           "description": "Welcome! In today’s episode we are going to talk about the low data functions and events in solidity. This episode is going to be the last…",
           "link": "https://coinsbench.com/how-to-become-a-blockchain-developer-5-low-data-calls-and-events-5f4b6378ddfa?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2025-02-26T16:20:16.000Z",
-          "wordCount": 3152,
+          "wordCount": 3157,
           "title": "How to Become a Blockchain Developer-5: Low Data Calls and Events",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:830/1*I8JSNF1D8v2vZ0bPly_8NQ.png"
-        },
-        {
-          "id": "https://medium.com/p/05f6630c2eaf",
-          "author": "RickyYang",
-          "description": "Introduction\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/navigating-solana-transaction-size-limits-in-go-tips-tricks-and-lookup-tables-with-the-blocto-05f6630c2eaf?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-02-26T16:20:13.000Z",
-          "wordCount": 1097,
-          "title": "Navigating Solana Transaction Size Limits in Go: Tips, Tricks, and Lookup Tables with the Blocto…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*5PM97gva1ALhn1YDQ3hSNg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/b495b692e973",
-          "author": "Clemens",
-          "description": "Perfect Parallelization Equals Unlimited Scale",
-          "link": "https://coinsbench.com/can-smart-contracts-scale-b495b692e973?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-02-26T16:20:12.000Z",
-          "wordCount": 4607,
-          "title": "Can Smart Contracts Scale?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ho1YZYaO-1jfhch83FHZ6g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ed750c1cea79",
-          "author": "Vin M N Shelar| @th_v_slr",
-          "description": "Whenever we start the most understandable when we start understanding any concept with the example, so lets’s consider and understand via…",
-          "link": "https://coinsbench.com/lets-explore-the-functions-in-solidity-ed750c1cea79?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-02-26T16:20:03.000Z",
-          "wordCount": 2485,
-          "title": "Let’s explore the functions in Solidity",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*iua-ygHJuw0XDAoGw_wlDA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/a7113bfa815c",
-          "author": "Carine Insights",
-          "description": "A Step-by-Step Guide to Transforming Your Traditional Bookstore into a Decentralized Application",
-          "link": "https://coinsbench.com/from-pages-to-smart-contracts-building-a-web3-bookstore-dapp-a7113bfa815c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-02-26T16:20:00.000Z",
-          "wordCount": 2455,
-          "title": "From Pages to Smart Contracts: Building a Web3 Bookstore DApp",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*YezCEpEgnAvEhsHP"
         }
       ]
     },
@@ -124,7 +151,7 @@
           "description": "Navigating the turbulent waters of stock price forecasting, companies like The Shyft Group can be seen as a beacon for insightful financial…",
           "link": "https://medium.com/coinmonks/unlocking-the-shyft-groups-future-will-their-stock-skyrocket-in-the-next-5-years-2ae8f02531b5?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T15:12:37.000Z",
-          "wordCount": 3190,
+          "wordCount": 3192,
           "title": "Unlocking The Shyft Group’s Future: Will Their Stock Skyrocket in the Next 5 Years?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:798/1*KXvtwIMZ41wv5Zq-GyZ1xQ.jpeg"
         },
@@ -134,7 +161,7 @@
           "description": "As February comes to an end, financial markets have experienced sharp movements across major asset classes. Let’s break down the…",
           "link": "https://medium.com/coinmonks/end-of-february-market-wrap-key-insights-for-traders-f8280aa6f4f3?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T14:27:18.000Z",
-          "wordCount": 1405,
+          "wordCount": 1407,
           "title": "End-of-February Market Wrap: Key Insights for Traders",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*GlO6ECxeYTMXnwNGdMKb6g.png"
         },
@@ -144,7 +171,7 @@
           "description": "In today’s digital era, customer engagement, automation, and operational efficiency are key factors that define business success. An…",
           "link": "https://medium.com/coinmonks/why-your-business-needs-an-advanced-ai-powered-chatbot-9193335b8028?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T13:23:32.000Z",
-          "wordCount": 2876,
+          "wordCount": 2877,
           "title": "Why Your Business Needs an Advanced AI-Powered Chatbot?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-sFs0z7BnaNFEgG40xfIBg.jpeg"
         },
@@ -154,7 +181,7 @@
           "description": "A Startup Guide to Build an NFT Marketplace with easy steps!",
           "link": "https://medium.com/coinmonks/how-to-create-an-nft-marketplace-8c81d232d813?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T13:23:28.000Z",
-          "wordCount": 4685,
+          "wordCount": 4675,
           "title": "How to Create an NFT Marketplace 2025— A Complete Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*oG6XzkxCSpHAkLYG9zh8ww.png"
         },
@@ -164,7 +191,7 @@
           "description": "The buzz around Artificial Intelligence (AI) agents is no longer confined to research labs and futuristic science fiction. Businesses are…",
           "link": "https://medium.com/coinmonks/wondering-how-ai-agents-are-being-used-in-real-businesses-fd6f8b71d15d?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T13:23:25.000Z",
-          "wordCount": 2824,
+          "wordCount": 2825,
           "title": "Wondering how AI agents are being used in real businesses?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*fE_m_oWK_WlcjOpQlPmINA.jpeg"
         },
@@ -174,7 +201,7 @@
           "description": "For centuries, ownership of real-world assets — whether real estate, art, commodities, or equities — has followed a traditional model…",
           "link": "https://medium.com/coinmonks/real-world-asset-tokenization-vs-traditional-ownership-which-is-better-53667a1e89b2?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T12:37:19.000Z",
-          "wordCount": 2520,
+          "wordCount": 2521,
           "title": "Real-World Asset Tokenization vs. Traditional Ownership: Which is Better?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:500/0*-WQi2KWvSjIY9HL4.jpg"
         },
@@ -184,7 +211,7 @@
           "description": "Security and compliance are the two pillars on which user trust in crypto exchanges is built. While cryptocurrencies are becoming…",
           "link": "https://medium.com/coinmonks/learning-from-bybit-enhancing-crypto-exchange-security-after-a-hack-71da2b248531?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T12:37:14.000Z",
-          "wordCount": 3713,
+          "wordCount": 3725,
           "title": "Learning from Bybit: Enhancing Crypto Exchange Security After a Hack",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:768/0*KqY0Z2V5cIZTczaZ.jpg"
         },
@@ -194,7 +221,7 @@
           "description": "Hey anon! You will think that PVM turned into a salesman but the “GnosisPay Bounty Season Extended In March — Order Your Visa Card For…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/gnosispay-season-extended-and-new-perks-and-og-nfts-added-in-the-mix-f0d6cef7dd00?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T12:37:14.000Z",
-          "wordCount": 1435,
+          "wordCount": 1436,
           "title": "GnosisPay Season Extended And New Perks And OG NFTs Added In The Mix",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:679/1*4ACbX2lOv0zCF5r7vFaVCg.jpeg"
         },
@@ -204,7 +231,7 @@
           "description": "What’s exactly a Crypto Trading Bot?",
           "link": "https://medium.com/coinmonks/building-a-crypto-trading-bot-the-ultimate-guide-b1a5a98fcff0?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T12:37:11.000Z",
-          "wordCount": 3123,
+          "wordCount": 3124,
           "title": "Building a Crypto Trading Bot: The Ultimate Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ftZYJuqX9ji5pgKm77gFWw.png"
         },
@@ -214,7 +241,7 @@
           "description": "The emergence of quantum computing has sparked excitement across various industries, but for the world of cryptocurrency and blockchain…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/quantum-computings-potential-impact-on-crypto-a-new-era-or-existential-threat-c91e8a8bccbc?source=rss----721b17443fd5---4",
           "publishedOn": "2025-02-28T12:37:07.000Z",
-          "wordCount": 1282,
+          "wordCount": 1283,
           "title": "Quantum Computing’s Potential Impact on Crypto: A New Era or Existential Threat?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*BMc9pkimhyMIfEVd5X1_BQ.jpeg"
         }
@@ -241,7 +268,7 @@
           "description": "In the rapidly evolving landscape of blockchain development, the architectural patterns surrounding upgradeable smart contracts have become…",
           "link": "https://blog.blockmagnates.com/understanding-the-absence-of-constructors-in-solidity-implementation-contracts-a-deep-dive-into-ccfe45b9a7f2?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2025-02-19T15:30:33.000Z",
-          "wordCount": 3316,
+          "wordCount": 3320,
           "title": "Understanding the Absence of Constructors in Solidity Implementation Contracts: A Deep Dive into…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*pr2VoMTZEUOL4DFR8VDA4g.jpeg"
         },
@@ -261,7 +288,7 @@
           "description": "In the ever evolving domain of blockchain development, the choice of a programming language stands as a cornerstone for success. Two…",
           "link": "https://blog.blockmagnates.com/unveiling-the-differences-vyper-vs-solidity-in-blockchain-programming-cc544d31236d?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2025-02-03T09:05:48.000Z",
-          "wordCount": 3050,
+          "wordCount": 3046,
           "title": "Unveiling the Differences: Vyper vs Solidity in Blockchain Programming",
           "imageUrl": null
         }
