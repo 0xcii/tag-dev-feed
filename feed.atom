@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-03T12:31:45.402Z</id>
+    <id>urn:2025-03-03T13:23:40.774Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-03T12:31:45.402Z</updated>
+    <updated>2025-03-03T13:23:40.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding ERC-721 Tokens: A Fun Dive into How NFTs are Built on Ethereum]]></title>
+        <id>https://medium.com/p/e224e52d3465</id>
+        <link href="https://blog.blockmagnates.com/understanding-erc-721-tokens-a-fun-dive-into-how-nfts-are-built-on-ethereum-e224e52d3465?source=rss----18fa961f1eff--solidity"/>
+        <updated>2025-03-03T12:50:26.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will talk about NFTs, their use cases, how ERC-721 helps us create NFTs and then break down a NFT smart contract.]]></summary>
+        <author>
+            <name>Adenigba Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing an ERC-20 Token Contract from Scratch]]></title>
+        <id>https://medium.com/p/ae3886a36702</id>
+        <link href="https://blog.blockmagnates.com/developing-an-erc-20-token-contract-from-scratch-ae3886a36702?source=rss----18fa961f1eff--solidity"/>
+        <updated>2025-03-03T12:50:24.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will take a deep dive into the ERC-20 Token Standard; what it is, the circumstances behind its birth, use-cases of the…]]></summary>
+        <author>
+            <name>Joseph Ochiagha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Alpha Males Turn Crypto Crashes Into Millions]]></title>
+        <id>https://medium.com/p/f592dbf65549</id>
+        <link href="https://medium.com/coinmonks/how-alpha-males-turn-crypto-crashes-into-millions-f592dbf65549?source=rss----721b17443fd5---4"/>
+        <updated>2025-03-03T12:33:34.000Z</updated>
+        <summary type="html"><![CDATA[When crypto prices crash, panic spreads like wildfire. Retail investors sell in fear, while the media fuels the doom-and-gloom narrative…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Alertforalpha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Currency Pairs to Watch in March!]]></title>
+        <id>https://medium.com/p/e05f05f59546</id>
+        <link href="https://medium.com/coinmonks/key-currency-pairs-to-watch-in-march-e05f05f59546?source=rss----721b17443fd5---4"/>
+        <updated>2025-03-03T12:33:30.000Z</updated>
+        <summary type="html"><![CDATA[March brings exciting opportunities for forex traders! Here are the top 5 currency pairs to watch:]]></summary>
+        <author>
+            <name>NordFX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Currency Pairs to Watch in March!]]></title>
+        <id>https://medium.com/p/fc7529100b5d</id>
+        <link href="https://medium.com/coinmonks/key-currency-pairs-to-watch-in-march-fc7529100b5d?source=rss----721b17443fd5---4"/>
+        <updated>2025-03-03T12:33:25.000Z</updated>
+        <summary type="html"><![CDATA[📢 Key Currency Pairs to Watch in March! 📢]]></summary>
+        <author>
+            <name>NordFX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where are we in the bitcoin cycle?]]></title>
+        <id>https://medium.com/p/48f35f552a35</id>
+        <link href="https://medium.com/coinmonks/where-are-we-in-the-bitcoin-cycle-48f35f552a35?source=rss----721b17443fd5---4"/>
+        <updated>2025-03-03T12:33:22.000Z</updated>
+        <summary type="html"><![CDATA[$250,000 BTC remains in play.]]></summary>
+        <author>
+            <name>Stephen McBride</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Blockchain Developer-7: Complex Data Types]]></title>
+        <id>https://medium.com/p/f93329d05831</id>
+        <link href="https://coinsbench.com/how-to-become-a-blockchain-developer-7-complex-data-types-f93329d05831?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-03-03T12:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Hello again. In the previous episode we talked a little bit about error handling. And for this episode we are going to talk about some…]]></summary>
+        <author>
+            <name>Ardakarahan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Blockchain Developer-8: Inheritance]]></title>
+        <id>https://medium.com/p/9b35e635a31d</id>
+        <link href="https://coinsbench.com/how-to-become-a-blockchain-developer-8-inheritance-9b35e635a31d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-03-03T12:29:58.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the last episode of Solidity development. Like I said, blockchain development is not all about Solidity and smart contracts but…]]></summary>
+        <author>
+            <name>Ardakarahan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Prevent Fraud and Ensure Compliance in Crypto MLM Networks]]></title>
         <id>https://medium.com/p/9dfa158836ac</id>
@@ -65,49 +146,6 @@ Continue reading on Coinmonks »]]></summary>
 Continue reading on Coinmonks »]]></summary>
         <author>
             <name>Michael P. Di Fulvio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Stories for Geopolitical Trends & Global Commodities News in February]]></title>
-        <id>https://medium.com/p/fa82b80cbfd5</id>
-        <link href="https://medium.com/coinmonks/top-stories-for-geopolitical-trends-global-commodities-news-in-february-fa82b80cbfd5?source=rss----721b17443fd5---4"/>
-        <updated>2025-03-03T11:09:56.000Z</updated>
-        <summary type="html"><![CDATA[Geopolitical Trends & Global Commodities News on Areas & Producers
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>World As One 4PEACE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layeredge Airdrop Depin 2025]]></title>
-        <id>https://medium.com/p/87477f172a80</id>
-        <link href="https://medium.com/coinmonks/layeredge-airdrop-depin-2025-87477f172a80?source=rss----721b17443fd5---4"/>
-        <updated>2025-03-03T11:09:54.000Z</updated>
-        <summary type="html"><![CDATA[Layeredge Airdrop Depin 2025
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Web3 Trends</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOVA Access Code: Your Key to the Best Solana Trading Bot]]></title>
-        <id>https://medium.com/p/0dc23649b501</id>
-        <link href="https://medium.com/coinmonks/nova-access-code-your-key-to-the-best-solana-trading-bot-0dc23649b501?source=rss----721b17443fd5---4"/>
-        <updated>2025-03-03T11:09:45.000Z</updated>
-        <summary type="html"><![CDATA[🚀 Get Instant Access Code For NOVA!]]></summary>
-        <author>
-            <name>Gem Queen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Glint For Card Draws or Reward Chests? My Splinterlands Dilemma]]></title>
-        <id>https://medium.com/p/f13ed3ff207a</id>
-        <link href="https://medium.com/coinmonks/using-glint-for-card-draws-or-reward-chests-my-splinterlands-dilemma-f13ed3ff207a?source=rss----721b17443fd5---4"/>
-        <updated>2025-03-03T11:09:45.000Z</updated>
-        <summary type="html"><![CDATA[Splinterlands shines as a groundbreaking force in the blockchain gaming world, and I love it because it’s blending strategy and the…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>PVMihalache</name>
         </author>
     </entry>
     <entry>
@@ -186,26 +224,6 @@ Continue reading on Coinmonks »]]></summary>
         <link href="https://coinsbench.com/how-to-become-a-blockchain-developer-2-remix-ide-and-solidity-basics-e492ffe7b580?source=rss----f1cfd22cde3e---4"/>
         <updated>2025-02-26T16:20:21.000Z</updated>
         <summary type="html"><![CDATA[Hello again! In the first episode of becoming a blockchain developer guide, I tried to help you about the general idea of this series and…]]></summary>
-        <author>
-            <name>Ardakarahan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Blockchain Developer-1: Intorduction and Smart Contracts]]></title>
-        <id>https://medium.com/p/cfa41646b05d</id>
-        <link href="https://coinsbench.com/how-to-become-a-blockchain-developer-1-intorduction-and-smart-contracts-cfa41646b05d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-26T16:20:18.000Z</updated>
-        <summary type="html"><![CDATA[Welcome! To the first episode of “How to become a blockchain developer”. I am Arda Karahan, a sophomore computer engineering student who is…]]></summary>
-        <author>
-            <name>Ardakarahan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Blockchain Developer-5: Low Data Calls and Events]]></title>
-        <id>https://medium.com/p/5f4b6378ddfa</id>
-        <link href="https://coinsbench.com/how-to-become-a-blockchain-developer-5-low-data-calls-and-events-5f4b6378ddfa?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-26T16:20:16.000Z</updated>
-        <summary type="html"><![CDATA[Welcome! In today’s episode we are going to talk about the low data functions and events in solidity. This episode is going to be the last…]]></summary>
         <author>
             <name>Ardakarahan</name>
         </author>

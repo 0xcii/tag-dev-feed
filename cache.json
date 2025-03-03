@@ -39,6 +39,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/f93329d05831",
+          "author": "Ardakarahan",
+          "description": "Hello again. In the previous episode we talked a little bit about error handling. And for this episode we are going to talk about some…",
+          "link": "https://coinsbench.com/how-to-become-a-blockchain-developer-7-complex-data-types-f93329d05831?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-03-03T12:30:04.000Z",
+          "wordCount": 3422,
+          "title": "How to Become a Blockchain Developer-7: Complex Data Types",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bh6FyjGGRtqBSWfKvphnsA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/9b35e635a31d",
+          "author": "Ardakarahan",
+          "description": "Welcome to the last episode of Solidity development. Like I said, blockchain development is not all about Solidity and smart contracts but…",
+          "link": "https://coinsbench.com/how-to-become-a-blockchain-developer-8-inheritance-9b35e635a31d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-03-03T12:29:58.000Z",
+          "wordCount": 2972,
+          "title": "How to Become a Blockchain Developer-8: Inheritance",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:550/1*_n0TopS4OFB_L2TKwEfxPQ.png"
+        },
+        {
           "id": "https://medium.com/p/0360acd0f226",
           "author": "Yash Nimbalkar",
           "description": "Explore HelloBank smart contract — learn how Solidity manages deposits, withdrawals, and ownership while ensuring security on the…",
@@ -84,7 +104,7 @@
           "description": "In the rapidly evolving world of decentralized finance (DeFi), the integrity of smart contracts is paramount. One critical vulnerability…",
           "link": "https://coinsbench.com/the-importance-of-accurate-liquidity-validation-1dce07dd3cdc?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2025-02-26T16:21:18.000Z",
-          "wordCount": 1805,
+          "wordCount": 1800,
           "title": "The Importance of Accurate Liquidity Validation",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ocHvaVDn29nMwbU1Cy_Yvw.png"
         },
@@ -94,7 +114,7 @@
           "description": "While the selfdestruct()function in Solidity, the primary programming language for Ethereum smart contracts offers a convenient way to…",
           "link": "https://coinsbench.com/the-hidden-dangers-of-using-selfdestruct-in-upgradable-smart-contracts-832466bf6b95?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2025-02-26T16:21:13.000Z",
-          "wordCount": 2830,
+          "wordCount": 2825,
           "title": "The Hidden Dangers of Using Selfdestruct in Upgradable Smart Contracts",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8fN9nZsUj1p_jpMmWyqzyQ.png"
         },
@@ -104,7 +124,7 @@
           "description": "In the last episode of “How to become a blockchain developer” series, we had a brief understanding of the variable declarations, variable…",
           "link": "https://coinsbench.com/how-to-become-a-blockchain-developer-3-visibility-specifiers-and-functions-77cf49673628?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2025-02-26T16:20:24.000Z",
-          "wordCount": 2289,
+          "wordCount": 2294,
           "title": "How to Become a Blockchain Developer-3: Visibility Specifiers and Functions",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:715/1*kZKCHsh2ZftfV6eXwwlz9Q.png"
         },
@@ -114,29 +134,9 @@
           "description": "Hello again! In the first episode of becoming a blockchain developer guide, I tried to help you about the general idea of this series and…",
           "link": "https://coinsbench.com/how-to-become-a-blockchain-developer-2-remix-ide-and-solidity-basics-e492ffe7b580?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2025-02-26T16:20:21.000Z",
-          "wordCount": 3648,
+          "wordCount": 3653,
           "title": "How to Become a Blockchain developer — 2: Remix IDE and Solidity Basics",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tvgxrwM8q5M1fUa_Xb67Rw.png"
-        },
-        {
-          "id": "https://medium.com/p/cfa41646b05d",
-          "author": "Ardakarahan",
-          "description": "Welcome! To the first episode of “How to become a blockchain developer”. I am Arda Karahan, a sophomore computer engineering student who is…",
-          "link": "https://coinsbench.com/how-to-become-a-blockchain-developer-1-intorduction-and-smart-contracts-cfa41646b05d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-02-26T16:20:18.000Z",
-          "wordCount": 4298,
-          "title": "How to Become a Blockchain Developer-1: Intorduction and Smart Contracts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*4xU5OCSl_4CYb95_13iSEg.png"
-        },
-        {
-          "id": "https://medium.com/p/5f4b6378ddfa",
-          "author": "Ardakarahan",
-          "description": "Welcome! In today’s episode we are going to talk about the low data functions and events in solidity. This episode is going to be the last…",
-          "link": "https://coinsbench.com/how-to-become-a-blockchain-developer-5-low-data-calls-and-events-5f4b6378ddfa?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-02-26T16:20:16.000Z",
-          "wordCount": 3152,
-          "title": "How to Become a Blockchain Developer-5: Low Data Calls and Events",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:830/1*I8JSNF1D8v2vZ0bPly_8NQ.png"
         }
       ]
     },
@@ -146,12 +146,52 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/f592dbf65549",
+          "author": "Alertforalpha",
+          "description": "When crypto prices crash, panic spreads like wildfire. Retail investors sell in fear, while the media fuels the doom-and-gloom narrative…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/how-alpha-males-turn-crypto-crashes-into-millions-f592dbf65549?source=rss----721b17443fd5---4",
+          "publishedOn": "2025-03-03T12:33:34.000Z",
+          "wordCount": 1272,
+          "title": "How Alpha Males Turn Crypto Crashes Into Millions",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QitJCqdeZ069eIxHBODfhQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/e05f05f59546",
+          "author": "NordFX",
+          "description": "March brings exciting opportunities for forex traders! Here are the top 5 currency pairs to watch:",
+          "link": "https://medium.com/coinmonks/key-currency-pairs-to-watch-in-march-e05f05f59546?source=rss----721b17443fd5---4",
+          "publishedOn": "2025-03-03T12:33:30.000Z",
+          "wordCount": 1120,
+          "title": "Key Currency Pairs to Watch in March!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*VVgKANNG3Dh4VzZT3ZzCGA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/fc7529100b5d",
+          "author": "NordFX",
+          "description": "📢 Key Currency Pairs to Watch in March! 📢",
+          "link": "https://medium.com/coinmonks/key-currency-pairs-to-watch-in-march-fc7529100b5d?source=rss----721b17443fd5---4",
+          "publishedOn": "2025-03-03T12:33:25.000Z",
+          "wordCount": 1168,
+          "title": "Key Currency Pairs to Watch in March!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*VVgKANNG3Dh4VzZT3ZzCGA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/48f35f552a35",
+          "author": "Stephen McBride",
+          "description": "$250,000 BTC remains in play.",
+          "link": "https://medium.com/coinmonks/where-are-we-in-the-bitcoin-cycle-48f35f552a35?source=rss----721b17443fd5---4",
+          "publishedOn": "2025-03-03T12:33:22.000Z",
+          "wordCount": 2076,
+          "title": "Where are we in the bitcoin cycle?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*SmmoDwV6Wh3QA9wfpd8Hgg.jpeg"
+        },
+        {
           "id": "https://medium.com/p/9dfa158836ac",
           "author": "Mateosmith",
           "description": "Protecting your crypto MLM network from fraud is important for long-term success. Implementing strong security measures and compliance…",
           "link": "https://medium.com/coinmonks/how-to-prevent-fraud-and-ensure-compliance-in-crypto-mlm-networks-9dfa158836ac?source=rss----721b17443fd5---4",
           "publishedOn": "2025-03-03T11:10:14.000Z",
-          "wordCount": 2315,
+          "wordCount": 2316,
           "title": "How to Prevent Fraud and Ensure Compliance in Crypto MLM Networks",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Ivk74uRKtN6nVRVkMkyZNw.png"
         },
@@ -161,7 +201,7 @@
           "description": "The jewellery industry, valued at over $300 billion globally, has always been an attractive target for fraudsters. The sector faces…",
           "link": "https://medium.com/coinmonks/combating-fraud-in-the-jewellery-industry-with-blockchain-and-asset-tokenization-0365c346a4e0?source=rss----721b17443fd5---4",
           "publishedOn": "2025-03-03T11:10:11.000Z",
-          "wordCount": 2866,
+          "wordCount": 2867,
           "title": "Combating Fraud in the Jewellery Industry with Blockchain and Asset Tokenization",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Gi30wBxTk6sAPlpqsrUUHA.jpeg"
         },
@@ -171,7 +211,7 @@
           "description": "Real World Assets are really world’s real assets?\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/top-5-rwa-cryptos-institutions-are-really-bullish-on-these-adaea0cebee0?source=rss----721b17443fd5---4",
           "publishedOn": "2025-03-03T11:10:07.000Z",
-          "wordCount": 1367,
+          "wordCount": 1355,
           "title": "Top 5 RWA Cryptos: Institutions Are REALLY Bullish On These!",
           "imageUrl": null
         },
@@ -181,7 +221,7 @@
           "description": "Introduction",
           "link": "https://medium.com/coinmonks/how-to-make-a-low-investment-food-delivery-app-into-a-high-profit-7-figure-business-9137ce8aadae?source=rss----721b17443fd5---4",
           "publishedOn": "2025-03-03T11:10:06.000Z",
-          "wordCount": 2179,
+          "wordCount": 2189,
           "title": "How to Make a Low-Investment Food Delivery App into a High-Profit, 7-Figure Business",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*39nL06nRR8HXYzB9fo211A.jpeg"
         },
@@ -191,7 +231,7 @@
           "description": "The world of Forex trading is exciting and full of opportunities for those who know how to work it. With the right tools and plans, you can…",
           "link": "https://medium.com/coinmonks/dont-miss-out-on-million-dollar-opportunities-use-forex-software-to-its-full-potential-aa5d8e6a7809?source=rss----721b17443fd5---4",
           "publishedOn": "2025-03-03T11:10:03.000Z",
-          "wordCount": 2811,
+          "wordCount": 2810,
           "title": "Dont Miss Out on Million-Dollar Opportunities:Use Forex Software to Its Full Potential",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*SVBKq9_FKIwDdjeIFYgPOw.png"
         },
@@ -201,49 +241,9 @@
           "description": "Introduction: Bitcoin’s Post-Drop Recovery & Cycle Outlook\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/bitcoin-market-update-fear-peaks-as-btc-rebounds-what-comes-next-b5c1632a5566?source=rss----721b17443fd5---4",
           "publishedOn": "2025-03-03T11:09:59.000Z",
-          "wordCount": 1267,
+          "wordCount": 1268,
           "title": "Bitcoin Market Update: Fear Peaks as BTC Rebounds — What Comes Next?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*K7ck0w-Mjv7RT9SGEWsygA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/fa82b80cbfd5",
-          "author": "World As One 4PEACE",
-          "description": "Geopolitical Trends & Global Commodities News on Areas & Producers\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/top-stories-for-geopolitical-trends-global-commodities-news-in-february-fa82b80cbfd5?source=rss----721b17443fd5---4",
-          "publishedOn": "2025-03-03T11:09:56.000Z",
-          "wordCount": 1291,
-          "title": "Top Stories for Geopolitical Trends & Global Commodities News in February",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*yoLRTPbMY0peR3iu"
-        },
-        {
-          "id": "https://medium.com/p/87477f172a80",
-          "author": "Web3 Trends",
-          "description": "Layeredge Airdrop Depin 2025\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/layeredge-airdrop-depin-2025-87477f172a80?source=rss----721b17443fd5---4",
-          "publishedOn": "2025-03-03T11:09:54.000Z",
-          "wordCount": 1226,
-          "title": "Layeredge Airdrop Depin 2025",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:450/0*p2MFzSrkU1X7VqbO"
-        },
-        {
-          "id": "https://medium.com/p/0dc23649b501",
-          "author": "Gem Queen",
-          "description": "🚀 Get Instant Access Code For NOVA!",
-          "link": "https://medium.com/coinmonks/nova-access-code-your-key-to-the-best-solana-trading-bot-0dc23649b501?source=rss----721b17443fd5---4",
-          "publishedOn": "2025-03-03T11:09:45.000Z",
-          "wordCount": 1889,
-          "title": "NOVA Access Code: Your Key to the Best Solana Trading Bot",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/0*EzgpRBkIXE2rMmXe.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f13ed3ff207a",
-          "author": "PVMihalache",
-          "description": "Splinterlands shines as a groundbreaking force in the blockchain gaming world, and I love it because it’s blending strategy and the…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/using-glint-for-card-draws-or-reward-chests-my-splinterlands-dilemma-f13ed3ff207a?source=rss----721b17443fd5---4",
-          "publishedOn": "2025-03-03T11:09:45.000Z",
-          "wordCount": 1350,
-          "title": "Using Glint For Card Draws or Reward Chests? My Splinterlands Dilemma",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:760/0*lgxC315VEFS7Md19.png"
         }
       ]
     },
@@ -252,6 +252,26 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/e224e52d3465",
+          "author": "Adenigba Olumide",
+          "description": "In this article, we will talk about NFTs, their use cases, how ERC-721 helps us create NFTs and then break down a NFT smart contract.",
+          "link": "https://blog.blockmagnates.com/understanding-erc-721-tokens-a-fun-dive-into-how-nfts-are-built-on-ethereum-e224e52d3465?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2025-03-03T12:50:26.000Z",
+          "wordCount": 3308,
+          "title": "Understanding ERC-721 Tokens: A Fun Dive into How NFTs are Built on Ethereum",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*r-xU18bEyukCcLNNWy1kaQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/ae3886a36702",
+          "author": "Joseph Ochiagha",
+          "description": "In this article, we will take a deep dive into the ERC-20 Token Standard; what it is, the circumstances behind its birth, use-cases of the…",
+          "link": "https://blog.blockmagnates.com/developing-an-erc-20-token-contract-from-scratch-ae3886a36702?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2025-03-03T12:50:24.000Z",
+          "wordCount": 4471,
+          "title": "Developing an ERC-20 Token Contract from Scratch",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VUu1_l9xav6jdToPWFJC1g.png"
+        },
         {
           "id": "https://medium.com/p/30c53b3cfda9",
           "author": "HoneyBadger Framework",
@@ -278,7 +298,7 @@
           "description": "Discover how ERC-1271 revolutionizes signature validation for smart contracts in blockchain",
           "link": "https://blog.blockmagnates.com/erc-1271-explained-signature-validation-methods-for-contract-63cc8bbc0a68?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2025-02-07T16:16:25.000Z",
-          "wordCount": 2865,
+          "wordCount": 2869,
           "title": "ERC-1271 explained: Signature Validation Methods for Contract",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Bfn3HbqlKC7yPJ7B3DrjOg.png"
         },
