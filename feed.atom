@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-05T17:14:48.995Z</id>
+    <id>urn:2025-03-05T18:22:33.163Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-05T17:14:48.995Z</updated>
+    <updated>2025-03-05T18:22:33.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Receive() and FallBack() in Solidity]]></title>
+        <id>https://medium.com/p/495400a2af22</id>
+        <link href="https://blog.blockmagnates.com/receive-and-fallback-in-solidity-495400a2af22?source=rss----18fa961f1eff--solidity"/>
+        <updated>2025-03-05T17:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever used words like receive and fallback in day to day use… we generally used these words in our daily conversations.So when we…]]></summary>
+        <author>
+            <name>Vin M N Shelar| @th_v_slr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying Tokens in AI: How Machines Understand and Process Language]]></title>
+        <id>https://medium.com/p/b5a1763a615d</id>
+        <link href="https://coinsbench.com/demystifying-tokens-in-ai-how-machines-understand-and-process-language-b5a1763a615d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-03-05T17:13:10.000Z</updated>
+        <summary type="html"><![CDATA[Unlocking the Secrets of AI Language Models
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Jagadhiswaran D</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kucoin Clone Script — Easy Way to Start a Own Crypto Exchange Instantly]]></title>
         <id>https://medium.com/p/1de85ebb3e46</id>
@@ -211,16 +232,6 @@
         <link href="https://coinsbench.com/how-to-become-a-blockchain-developer-3-visibility-specifiers-and-functions-77cf49673628?source=rss----f1cfd22cde3e---4"/>
         <updated>2025-02-26T16:20:24.000Z</updated>
         <summary type="html"><![CDATA[In the last episode of “How to become a blockchain developer” series, we had a brief understanding of the variable declarations, variable…]]></summary>
-        <author>
-            <name>Ardakarahan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Blockchain developer — 2: Remix IDE and Solidity Basics]]></title>
-        <id>https://medium.com/p/e492ffe7b580</id>
-        <link href="https://coinsbench.com/how-to-become-a-blockchain-developer-2-remix-ide-and-solidity-basics-e492ffe7b580?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-02-26T16:20:21.000Z</updated>
-        <summary type="html"><![CDATA[Hello again! In the first episode of becoming a blockchain developer guide, I tried to help you about the general idea of this series and…]]></summary>
         <author>
             <name>Ardakarahan</name>
         </author>
