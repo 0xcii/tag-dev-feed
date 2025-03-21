@@ -5,6 +5,23 @@
       "feedUrl": "https://cryptomarketpool.com/feed/",
       "siteUrl": "https://cryptomarketpool.com/",
       "articles": []
+    },
+    {
+      "title": "cryptomaton",
+      "feedUrl": "https://www.cryptomaton.org/feed/",
+      "siteUrl": "https://www.cryptomaton.org/",
+      "articles": [
+        {
+          "id": "https://www.cryptomaton.org/?p=1749",
+          "author": "Andrei",
+          "description": "The Problem with Trading Bot Platforms Most crypto trading bot platforms out there are unnecessarily complicated. Even when you’re just trying to implement a basic strategy, you’re met with convoluted interfaces and an overwhelming number of options. However, arguably the worst aspect that most crypto trading bot platforms out there are guilty of is misleading […]\nThe post Most crypto trading bot platforms out there suck, so we built our own appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2025/02/21/most-crypto-trading-bot-platforms-out-there-suck-so-we-built-our-own/",
+          "publishedOn": "2025-02-21T13:42:58.000Z",
+          "wordCount": 9867,
+          "title": "Most crypto trading bot platforms out there suck, so we built our own",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2024/01/algorithmic-crypto-trading-plaform.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
