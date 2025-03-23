@@ -10,7 +10,18 @@
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.cryptomaton.org/?p=1752",
+          "author": "Andrei",
+          "description": "I loved computer science and programming for as long as I can remember, but my journey in programming hasn’t been straightforward. My earliest memories go back to tinkering with WordPress and cobbling together simple websites at 13. Outside of school, where we dabbled in Turbo Pascal, my first real encounter with code happened by accident […]\nThe post How I built a crypto trading bot platform over the last 3 years appeared first on cryptomaton.",
+          "link": "https://www.cryptomaton.org/2025/03/23/how-i-built-a-crypto-trading-bot-platform-over-the-last-3-years/",
+          "publishedOn": "2025-03-23T19:03:16.000Z",
+          "wordCount": 10554,
+          "title": "How I built a crypto trading bot platform over the last 3 years",
+          "imageUrl": "https://www.cryptomaton.org/wp-content/uploads/2025/03/best-algorithmic-crypto-trading-bot-platform-aesir.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
