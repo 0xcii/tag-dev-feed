@@ -1,4 +1,17 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
+      "title": "cryptomaton",
+      "feedUrl": "https://www.cryptomaton.org/feed/",
+      "siteUrl": "https://www.cryptomaton.org/",
+      "articles": []
+    }
+  ],
   "cliVersion": "1.15.1"
 }
