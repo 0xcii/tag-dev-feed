@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-01T08:28:58.970Z</id>
+    <id>urn:2025-12-01T09:25:58.130Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-01T08:28:58.970Z</updated>
+    <updated>2025-12-01T09:25:58.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building on Zetrix Blockchain with Claude AI: A Complete Guide to the Zetrix MCP Server]]></title>
+        <id>https://medium.com/p/37e567aee157</id>
+        <link href="https://coinsbench.com/building-on-zetrix-blockchain-with-claude-ai-a-complete-guide-to-the-zetrix-mcp-server-37e567aee157?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-01T08:24:46.000Z</updated>
+        <author>
+            <name>Ammar Abdullah (Ph.D)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Quantum-Powered Blockchain Oracle for $0 (And Why You Don’t Always Need Chainlink)]]></title>
+        <id>https://medium.com/p/51f58c45580c</id>
+        <link href="https://coinsbench.com/how-i-built-a-quantum-powered-blockchain-oracle-for-0-and-why-you-dont-always-need-chainlink-51f58c45580c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-01T08:24:40.000Z</updated>
+        <author>
+            <name>Damian Griggs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZK Rollup Development: A Scalable Route for High-Performance Blockchain Applications]]></title>
         <id>https://medium.com/p/c98d2659b9dc</id>
@@ -189,24 +207,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/40de027b3ddd</id>
         <link href="https://coinsbench.com/ethernaut-3-coin-flip-40de027b3ddd?source=rss----f1cfd22cde3e---4"/>
         <updated>2025-11-27T10:27:29.000Z</updated>
-        <author>
-            <name>Jiseop Shin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Ethernaut] 2. Fallout]]></title>
-        <id>https://medium.com/p/df63e33d224d</id>
-        <link href="https://coinsbench.com/ethernaut-2-fallout-df63e33d224d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-11-27T10:27:27.000Z</updated>
-        <author>
-            <name>Jiseop Shin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Ethernaut] 1. Fallback]]></title>
-        <id>https://medium.com/p/8c480fa49741</id>
-        <link href="https://coinsbench.com/ethernaut-1-fallback-8c480fa49741?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-11-27T10:27:25.000Z</updated>
         <author>
             <name>Jiseop Shin</name>
         </author>
