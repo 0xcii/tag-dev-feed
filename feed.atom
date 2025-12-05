@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-05T20:20:41.708Z</id>
+    <id>urn:2025-12-05T21:17:30.571Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-05T20:20:41.708Z</updated>
+    <updated>2025-12-05T21:17:30.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -232,37 +232,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2025-11-14T08:20:39.000Z</updated>
         <author>
             <name>Timileyin Adedokun(0x_t31)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Languages, Episode 2: Solidity Without Tears (Or Reentrancy)]]></title>
-        <id>https://medium.com/p/44953406043e</id>
-        <link href="https://blog.blockmagnates.com/web3-languages-episode-2-solidity-without-tears-or-reentrancy-44953406043e?source=rss----18fa961f1eff--solidity"/>
-        <updated>2025-11-06T09:07:08.000Z</updated>
-        <summary type="html"><![CDATA[If you missed the series intro, start with Episode 1: The Big Four — Solidity, Vyper, Rust, and Move and the Web3 overview — then come…
-Continue reading on Block Magnates »]]></summary>
-        <author>
-            <name>Dave LumAI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Languages, Episode 1: The Big Four — Solidity, Vyper, Rust, and Move (no buzzwords, just…]]></title>
-        <id>https://medium.com/p/49755111174a</id>
-        <link href="https://blog.blockmagnates.com/web3-languages-episode-1-the-big-four-solidity-vyper-rust-and-move-no-buzzwords-just-49755111174a?source=rss----18fa961f1eff--solidity"/>
-        <updated>2025-11-06T09:06:58.000Z</updated>
-        <summary type="html"><![CDATA[Want the 10,000-ft tour first? Here’s the Web3 overview you can actually own.
-Continue reading on Block Magnates »]]></summary>
-        <author>
-            <name>Dave LumAI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authorization Patterns in Smart Contracts: Part 1 — Access Control Fundamentals]]></title>
-        <id>https://medium.com/p/422d4bc092b8</id>
-        <link href="https://blog.blockmagnates.com/authorization-patterns-in-smart-contracts-part-1-access-control-fundamentals-422d4bc092b8?source=rss----18fa961f1eff--solidity"/>
-        <updated>2025-11-06T09:06:33.000Z</updated>
-        <author>
-            <name>Zrhmz</name>
         </author>
     </entry>
 </feed>
