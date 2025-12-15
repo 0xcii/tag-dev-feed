@@ -18,6 +18,66 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/b4fa44c624ce",
+          "author": "Joseph Wang",
+          "description": "",
+          "link": "https://coinsbench.com/building-a-simple-pay-as-you-go-service-in-solidity-b4fa44c624ce?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-15T08:24:20.000Z",
+          "wordCount": null,
+          "title": "Building a Simple Pay-as-You-Go Service in Solidity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f684ff45ebf6",
+          "author": "Adekola Olawale",
+          "description": "Avoid costly mistakes in Solidity. Learn when to use storage, memory, and calldata to write gas-efficient, secure smart contracts\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/fixing-storage-vs-memory-misuse-in-solidity-variables-f684ff45ebf6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-15T08:24:19.000Z",
+          "wordCount": null,
+          "title": "Fixing Storage vs Memory Misuse in Solidity Variables",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/98416e4a9f73",
+          "author": "Benjamin Valor",
+          "description": "",
+          "link": "https://coinsbench.com/kalshi-clone-script-a-complete-guide-for-building-your-own-event-prediction-exchange-98416e4a9f73?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-15T08:24:19.000Z",
+          "wordCount": null,
+          "title": "Kalshi Clone Script: A Complete Guide for Building Your Own Event-Prediction Exchange",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fb02856f26d1",
+          "author": "Drraghavendra",
+          "description": "",
+          "link": "https://coinsbench.com/monolithic-vs-modular-blockchains-architecture-trade-offs-and-the-future-of-scaling-fb02856f26d1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-15T08:23:36.000Z",
+          "wordCount": null,
+          "title": "Monolithic vs. Modular Blockchains: Architecture, Trade-offs, and the Future of Scaling",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bb487f66f26e",
+          "author": "Evgenii",
+          "description": "",
+          "link": "https://coinsbench.com/flash-loan-attack-uncovered-pancakeswap-lp-exploit-and-the-dmi-moolah-drain-explained-bb487f66f26e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-15T08:23:36.000Z",
+          "wordCount": null,
+          "title": "Flash Loan Attack Uncovered: PancakeSwap LP Exploit and the DMi/Moolah Drain Explained",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b2def1945f83",
+          "author": "artofblockchain.club",
+          "description": "",
+          "link": "https://coinsbench.com/the-smart-contract-portfolio-that-actually-gets-hires-in-2025-a-founders-checklist-b2def1945f83?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-15T08:23:23.000Z",
+          "wordCount": null,
+          "title": "The Smart Contract Portfolio That Actually Gets Hires in 2025 — A Founder’s Checklist",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/b32dbd666f2c",
           "author": "Paul Bark",
           "description": "",
@@ -56,66 +116,6 @@
           "wordCount": null,
           "title": "Why Web3 Résumés Are Useless — And What Founders Actually Look At Instead",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9efe715ecd87",
-          "author": "Web3 in Three Minutes",
-          "description": "",
-          "link": "https://coinsbench.com/slippage-defis-invisible-tax-eating-your-profits-9efe715ecd87?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-08T07:46:30.000Z",
-          "wordCount": null,
-          "title": "Slippage: DeFi’s Invisible Tax Eating Your Profits",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/97841e8eaf5f",
-          "author": "OKcontract Chainwall",
-          "description": "",
-          "link": "https://coinsbench.com/the-38-million-ghost-in-the-machine-97841e8eaf5f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-05T12:09:13.000Z",
-          "wordCount": null,
-          "title": "The $38 Million Ghost in the Machine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5e78abb77e28",
-          "author": "Mobin Shaterian",
-          "description": "",
-          "link": "https://coinsbench.com/integrating-multiple-databases-inmon-vs-kimball-and-a-microservice-etl-solution-5e78abb77e28?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-05T12:08:48.000Z",
-          "wordCount": null,
-          "title": "Integrating Multiple Databases: Inmon vs. Kimball and a Microservice ETL Solution",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9ccfa8b755a6",
-          "author": "Jiseop Shin",
-          "description": "",
-          "link": "https://coinsbench.com/ethernaut-6-delegation-9ccfa8b755a6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-05T12:07:28.000Z",
-          "wordCount": null,
-          "title": "[Ethernaut] 6. Delegation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/19b51c5f79e7",
-          "author": "Arnaud Bakyono",
-          "description": "",
-          "link": "https://coinsbench.com/introduction-to-defi-lending-for-developers-key-concepts-and-overview-of-major-protocols-19b51c5f79e7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-01T11:56:29.000Z",
-          "wordCount": null,
-          "title": "Introduction to DeFi Lending for Developers: Key Concepts and Overview of Major Protocols",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/37e567aee157",
-          "author": "Ammar Abdullah (Ph.D)",
-          "description": "",
-          "link": "https://coinsbench.com/building-on-zetrix-blockchain-with-claude-ai-a-complete-guide-to-the-zetrix-mcp-server-37e567aee157?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-01T08:24:46.000Z",
-          "wordCount": null,
-          "title": "Building on Zetrix Blockchain with Claude AI: A Complete Guide to the Zetrix MCP Server",
-          "imageUrl": null
         }
       ]
     },
@@ -124,6 +124,56 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/68061809fa20",
+          "author": "Ribhavmodi",
+          "description": "",
+          "link": "https://medium.com/coinmonks/consensus-mechanisms-explained-how-blockchain-networks-agree-without-a-boss-68061809fa20?source=rss----721b17443fd5---4",
+          "publishedOn": "2025-12-15T09:05:47.000Z",
+          "wordCount": null,
+          "title": "Consensus Mechanisms Explained: How Blockchain Networks Agree Without a Boss",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e40fe0146176",
+          "author": "Juliettealex",
+          "description": "",
+          "link": "https://medium.com/coinmonks/how-a-tokenization-platform-can-transform-the-gaming-industry-e40fe0146176?source=rss----721b17443fd5---4",
+          "publishedOn": "2025-12-15T08:26:18.000Z",
+          "wordCount": null,
+          "title": "How a Tokenization Platform Can Transform the Gaming Industry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fcdc9a55cdd3",
+          "author": "Aditya Kumar Tiwari",
+          "description": "December 13, 2025\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-day-wall-street-finally-said-yes-to-blockchain-fcdc9a55cdd3?source=rss----721b17443fd5---4",
+          "publishedOn": "2025-12-15T08:26:18.000Z",
+          "wordCount": null,
+          "title": "The Day Wall Street Finally Said “Yes” to Blockchain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3ff96206d338",
+          "author": "Matej Verbost",
+          "description": "",
+          "link": "https://medium.com/coinmonks/btc-eth-crash-13-15-why-my-7k-vaults-still-print-10-day-3ff96206d338?source=rss----721b17443fd5---4",
+          "publishedOn": "2025-12-15T08:26:16.000Z",
+          "wordCount": null,
+          "title": "BTC/ETH Crash 13–15% — Why My $7K Vaults Still Print $10/Day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2599621a5462",
+          "author": "_ ˣ₿",
+          "description": "",
+          "link": "https://medium.com/coinmonks/the-feds-new-liquidity-wave-how-rising-m2-t-bill-purchases-could-extend-the-crypto-bull-run-2599621a5462?source=rss----721b17443fd5---4",
+          "publishedOn": "2025-12-15T08:26:15.000Z",
+          "wordCount": null,
+          "title": "The Fed’s New Liquidity Wave: How Rising M2 + T-Bill Purchases Could Extend the Crypto Bull Run…",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/e7208ea0f691",
           "author": "Dipanshu Chaudhry",
@@ -172,56 +222,6 @@
           "publishedOn": "2025-12-15T07:37:18.000Z",
           "wordCount": null,
           "title": "Dynasty League?: A Progress Report on NFL All Day’s 2025 Season so Far",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a55dfd413f3d",
-          "author": "Blend Visions",
-          "description": "Discover how tokenization will bring $68 trillion on-chain. Learn why crypto investors must prepare for this massive shift today.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/how-68-trillion-could-transform-crypto-forever-the-tokenization-revolution-you-cant-ignore-a55dfd413f3d?source=rss----721b17443fd5---4",
-          "publishedOn": "2025-12-15T07:37:17.000Z",
-          "wordCount": null,
-          "title": "How $68 Trillion Could Transform Crypto Forever: The Tokenization Revolution You Can’t Ignore",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ed6da7367b2b",
-          "author": "Officer's Notes",
-          "description": "",
-          "link": "https://medium.com/coinmonks/staying-private-in-crypto-your-guide-to-keeping-things-under-the-radar-ed6da7367b2b?source=rss----721b17443fd5---4",
-          "publishedOn": "2025-12-15T07:37:15.000Z",
-          "wordCount": null,
-          "title": "Staying Private in Crypto: Your Guide to Keeping Things Under the Radar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8066ce41d2ec",
-          "author": "Maria Korneeva",
-          "description": "",
-          "link": "https://medium.com/coinmonks/why-bitcoin-still-matters-in-2025-explained-in-simple-terms-8066ce41d2ec?source=rss----721b17443fd5---4",
-          "publishedOn": "2025-12-15T06:58:31.000Z",
-          "wordCount": null,
-          "title": "Why Bitcoin Still Matters in 2025 — Explained in Simple Terms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8a32b9005c0e",
-          "author": "CubeBase",
-          "description": "",
-          "link": "https://medium.com/coinmonks/i-sent-my-crypto-to-the-wrong-wallet-and-immediately-knew-i-messed-up-8a32b9005c0e?source=rss----721b17443fd5---4",
-          "publishedOn": "2025-12-15T06:58:29.000Z",
-          "wordCount": null,
-          "title": "I Sent My Crypto to the Wrong Wallet and Immediately Knew I Messed Up",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7edb08050684",
-          "author": "CubeBase",
-          "description": "",
-          "link": "https://medium.com/coinmonks/the-day-i-cashed-out-and-realized-how-close-i-came-to-losing-everything-7edb08050684?source=rss----721b17443fd5---4",
-          "publishedOn": "2025-12-15T06:58:08.000Z",
-          "wordCount": null,
-          "title": "The Day I Cashed Out and Realized How Close I Came to Losing Everything.",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-15T08:30:17.951Z</id>
+    <id>urn:2025-12-15T09:30:11.778Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-15T08:30:17.951Z</updated>
+    <updated>2025-12-15T09:30:11.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Consensus Mechanisms Explained: How Blockchain Networks Agree Without a Boss]]></title>
+        <id>https://medium.com/p/68061809fa20</id>
+        <link href="https://medium.com/coinmonks/consensus-mechanisms-explained-how-blockchain-networks-agree-without-a-boss-68061809fa20?source=rss----721b17443fd5---4"/>
+        <updated>2025-12-15T09:05:47.000Z</updated>
+        <author>
+            <name>Ribhavmodi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Tokenization Platform Can Transform the Gaming Industry]]></title>
+        <id>https://medium.com/p/e40fe0146176</id>
+        <link href="https://medium.com/coinmonks/how-a-tokenization-platform-can-transform-the-gaming-industry-e40fe0146176?source=rss----721b17443fd5---4"/>
+        <updated>2025-12-15T08:26:18.000Z</updated>
+        <author>
+            <name>Juliettealex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Day Wall Street Finally Said “Yes” to Blockchain]]></title>
+        <id>https://medium.com/p/fcdc9a55cdd3</id>
+        <link href="https://medium.com/coinmonks/the-day-wall-street-finally-said-yes-to-blockchain-fcdc9a55cdd3?source=rss----721b17443fd5---4"/>
+        <updated>2025-12-15T08:26:18.000Z</updated>
+        <summary type="html"><![CDATA[December 13, 2025
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Aditya Kumar Tiwari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTC/ETH Crash 13–15% — Why My $7K Vaults Still Print $10/Day]]></title>
+        <id>https://medium.com/p/3ff96206d338</id>
+        <link href="https://medium.com/coinmonks/btc-eth-crash-13-15-why-my-7k-vaults-still-print-10-day-3ff96206d338?source=rss----721b17443fd5---4"/>
+        <updated>2025-12-15T08:26:16.000Z</updated>
+        <author>
+            <name>Matej Verbost</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fed’s New Liquidity Wave: How Rising M2 + T-Bill Purchases Could Extend the Crypto Bull Run…]]></title>
+        <id>https://medium.com/p/2599621a5462</id>
+        <link href="https://medium.com/coinmonks/the-feds-new-liquidity-wave-how-rising-m2-t-bill-purchases-could-extend-the-crypto-bull-run-2599621a5462?source=rss----721b17443fd5---4"/>
+        <updated>2025-12-15T08:26:15.000Z</updated>
+        <author>
+            <name>_ ˣ₿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Simple Pay-as-You-Go Service in Solidity]]></title>
+        <id>https://medium.com/p/b4fa44c624ce</id>
+        <link href="https://coinsbench.com/building-a-simple-pay-as-you-go-service-in-solidity-b4fa44c624ce?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-15T08:24:20.000Z</updated>
+        <author>
+            <name>Joseph Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing Storage vs Memory Misuse in Solidity Variables]]></title>
+        <id>https://medium.com/p/f684ff45ebf6</id>
+        <link href="https://coinsbench.com/fixing-storage-vs-memory-misuse-in-solidity-variables-f684ff45ebf6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-15T08:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Avoid costly mistakes in Solidity. Learn when to use storage, memory, and calldata to write gas-efficient, secure smart contracts
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Adekola Olawale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalshi Clone Script: A Complete Guide for Building Your Own Event-Prediction Exchange]]></title>
+        <id>https://medium.com/p/98416e4a9f73</id>
+        <link href="https://coinsbench.com/kalshi-clone-script-a-complete-guide-for-building-your-own-event-prediction-exchange-98416e4a9f73?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-15T08:24:19.000Z</updated>
+        <author>
+            <name>Benjamin Valor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monolithic vs. Modular Blockchains: Architecture, Trade-offs, and the Future of Scaling]]></title>
+        <id>https://medium.com/p/fb02856f26d1</id>
+        <link href="https://coinsbench.com/monolithic-vs-modular-blockchains-architecture-trade-offs-and-the-future-of-scaling-fb02856f26d1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-15T08:23:36.000Z</updated>
+        <author>
+            <name>Drraghavendra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Loan Attack Uncovered: PancakeSwap LP Exploit and the DMi/Moolah Drain Explained]]></title>
+        <id>https://medium.com/p/bb487f66f26e</id>
+        <link href="https://coinsbench.com/flash-loan-attack-uncovered-pancakeswap-lp-exploit-and-the-dmi-moolah-drain-explained-bb487f66f26e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-15T08:23:36.000Z</updated>
+        <author>
+            <name>Evgenii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Smart Contract Portfolio That Actually Gets Hires in 2025 — A Founder’s Checklist]]></title>
+        <id>https://medium.com/p/b2def1945f83</id>
+        <link href="https://coinsbench.com/the-smart-contract-portfolio-that-actually-gets-hires-in-2025-a-founders-checklist-b2def1945f83?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-15T08:23:23.000Z</updated>
+        <author>
+            <name>artofblockchain.club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fed Cuts Rates Today — Jerome Powell’s Decision Could Shake Interest & Mortgage Rates]]></title>
         <id>https://medium.com/p/e7208ea0f691</id>
@@ -57,53 +160,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How $68 Trillion Could Transform Crypto Forever: The Tokenization Revolution You Can’t Ignore]]></title>
-        <id>https://medium.com/p/a55dfd413f3d</id>
-        <link href="https://medium.com/coinmonks/how-68-trillion-could-transform-crypto-forever-the-tokenization-revolution-you-cant-ignore-a55dfd413f3d?source=rss----721b17443fd5---4"/>
-        <updated>2025-12-15T07:37:17.000Z</updated>
-        <summary type="html"><![CDATA[Discover how tokenization will bring $68 trillion on-chain. Learn why crypto investors must prepare for this massive shift today.
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Blend Visions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Staying Private in Crypto: Your Guide to Keeping Things Under the Radar]]></title>
-        <id>https://medium.com/p/ed6da7367b2b</id>
-        <link href="https://medium.com/coinmonks/staying-private-in-crypto-your-guide-to-keeping-things-under-the-radar-ed6da7367b2b?source=rss----721b17443fd5---4"/>
-        <updated>2025-12-15T07:37:15.000Z</updated>
-        <author>
-            <name>Officer's Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Bitcoin Still Matters in 2025 — Explained in Simple Terms]]></title>
-        <id>https://medium.com/p/8066ce41d2ec</id>
-        <link href="https://medium.com/coinmonks/why-bitcoin-still-matters-in-2025-explained-in-simple-terms-8066ce41d2ec?source=rss----721b17443fd5---4"/>
-        <updated>2025-12-15T06:58:31.000Z</updated>
-        <author>
-            <name>Maria Korneeva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Sent My Crypto to the Wrong Wallet and Immediately Knew I Messed Up]]></title>
-        <id>https://medium.com/p/8a32b9005c0e</id>
-        <link href="https://medium.com/coinmonks/i-sent-my-crypto-to-the-wrong-wallet-and-immediately-knew-i-messed-up-8a32b9005c0e?source=rss----721b17443fd5---4"/>
-        <updated>2025-12-15T06:58:29.000Z</updated>
-        <author>
-            <name>CubeBase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Day I Cashed Out and Realized How Close I Came to Losing Everything.]]></title>
-        <id>https://medium.com/p/7edb08050684</id>
-        <link href="https://medium.com/coinmonks/the-day-i-cashed-out-and-realized-how-close-i-came-to-losing-everything-7edb08050684?source=rss----721b17443fd5---4"/>
-        <updated>2025-12-15T06:58:08.000Z</updated>
-        <author>
-            <name>CubeBase</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introducing GhostLedger: Bringing Back CTF Challenges That Time Left Behind]]></title>
         <id>https://medium.com/p/29089340bc52</id>
         <link href="https://blog.blockmagnates.com/introducing-ghostledger-bringing-back-ctf-challenges-that-time-left-behind-29089340bc52?source=rss----18fa961f1eff--solidity"/>
@@ -149,66 +205,12 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slippage: DeFi’s Invisible Tax Eating Your Profits]]></title>
-        <id>https://medium.com/p/9efe715ecd87</id>
-        <link href="https://coinsbench.com/slippage-defis-invisible-tax-eating-your-profits-9efe715ecd87?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-08T07:46:30.000Z</updated>
-        <author>
-            <name>Web3 in Three Minutes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The $38 Million Ghost in the Machine]]></title>
-        <id>https://medium.com/p/97841e8eaf5f</id>
-        <link href="https://coinsbench.com/the-38-million-ghost-in-the-machine-97841e8eaf5f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-05T12:09:13.000Z</updated>
-        <author>
-            <name>OKcontract Chainwall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Multiple Databases: Inmon vs. Kimball and a Microservice ETL Solution]]></title>
-        <id>https://medium.com/p/5e78abb77e28</id>
-        <link href="https://coinsbench.com/integrating-multiple-databases-inmon-vs-kimball-and-a-microservice-etl-solution-5e78abb77e28?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-05T12:08:48.000Z</updated>
-        <author>
-            <name>Mobin Shaterian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Ethernaut] 6. Delegation]]></title>
-        <id>https://medium.com/p/9ccfa8b755a6</id>
-        <link href="https://coinsbench.com/ethernaut-6-delegation-9ccfa8b755a6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-05T12:07:28.000Z</updated>
-        <author>
-            <name>Jiseop Shin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#13. Web3 Will Stay Alive… Because Too Many People Already Invested to Admit They Were Wrong]]></title>
         <id>https://medium.com/p/157614021e06</id>
         <link href="https://blog.blockmagnates.com/13-web3-will-stay-alive-because-too-many-people-already-invested-to-admit-they-were-wrong-157614021e06?source=rss----18fa961f1eff--solidity"/>
         <updated>2025-12-03T11:02:39.000Z</updated>
         <author>
             <name>Code Reaper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to DeFi Lending for Developers: Key Concepts and Overview of Major Protocols]]></title>
-        <id>https://medium.com/p/19b51c5f79e7</id>
-        <link href="https://coinsbench.com/introduction-to-defi-lending-for-developers-key-concepts-and-overview-of-major-protocols-19b51c5f79e7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-01T11:56:29.000Z</updated>
-        <author>
-            <name>Arnaud Bakyono</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building on Zetrix Blockchain with Claude AI: A Complete Guide to the Zetrix MCP Server]]></title>
-        <id>https://medium.com/p/37e567aee157</id>
-        <link href="https://coinsbench.com/building-on-zetrix-blockchain-with-claude-ai-a-complete-guide-to-the-zetrix-mcp-server-37e567aee157?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-01T08:24:46.000Z</updated>
-        <author>
-            <name>Ammar Abdullah (Ph.D)</name>
         </author>
     </entry>
     <entry>
