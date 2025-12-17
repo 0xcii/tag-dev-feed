@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -125,6 +119,26 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/893cfeb747ee",
+          "author": "_ ˣ₿",
+          "description": "",
+          "link": "https://medium.com/coinmonks/bitcoins-most-uncomfortable-reality-in-2025-893cfeb747ee?source=rss----721b17443fd5---4",
+          "publishedOn": "2025-12-17T08:32:41.000Z",
+          "wordCount": null,
+          "title": "Bitcoin’s Most Uncomfortable Reality in 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/43c56b5d573d",
+          "author": "Flores",
+          "description": "",
+          "link": "https://medium.com/coinmonks/1-000-dapps-built-on-a-layer-2-chain-sounds-crazy-right-43c56b5d573d?source=rss----721b17443fd5---4",
+          "publishedOn": "2025-12-17T08:31:59.000Z",
+          "wordCount": null,
+          "title": "1,000+ DApps Built on a Layer 2 Chain?\nSounds Crazy, Right?",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/aa44f64a3611",
           "author": "Nishen_Madava",
           "description": "",
@@ -202,26 +216,6 @@
           "publishedOn": "2025-12-17T08:17:44.000Z",
           "wordCount": null,
           "title": "How AI Tokenization Is Reshaping the Web3 Economy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/fc4f43b3ace9",
-          "author": "Crypto Compass",
-          "description": "",
-          "link": "https://medium.com/coinmonks/from-computers-to-cellphones-to-web3-the-next-shift-in-how-we-use-the-internet-fc4f43b3ace9?source=rss----721b17443fd5---4",
-          "publishedOn": "2025-12-17T08:17:43.000Z",
-          "wordCount": null,
-          "title": "From Computers to Cellphones to Web3: The Next Shift in How We Use the Internet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/faa6d54c2482",
-          "author": "Ribhavmodi",
-          "description": "",
-          "link": "https://medium.com/coinmonks/layer-2-solutions-deep-dive-optimistic-vs-zk-rollups-explained-faa6d54c2482?source=rss----721b17443fd5---4",
-          "publishedOn": "2025-12-17T08:17:42.000Z",
-          "wordCount": null,
-          "title": "Layer 2 Solutions Deep-Dive: Optimistic vs ZK Rollups Explained",
           "imageUrl": null
         }
       ]
