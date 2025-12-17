@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-17T05:21:05.706Z</id>
+    <id>urn:2025-12-17T06:30:53.829Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-17T05:21:05.706Z</updated>
+    <updated>2025-12-17T06:30:53.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Article Subscription Contracts in Solidity]]></title>
+        <id>https://medium.com/p/5f9b3a209d47</id>
+        <link href="https://coinsbench.com/building-article-subscription-contracts-in-solidity-5f9b3a209d47?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-17T06:14:43.000Z</updated>
+        <author>
+            <name>Joseph Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trust Wallet: The Sovereign Gateway to Web3, DeFi, and the Multi-Chain Future]]></title>
+        <id>https://medium.com/p/868401435e26</id>
+        <link href="https://coinsbench.com/trust-wallet-the-sovereign-gateway-to-web3-defi-and-the-multi-chain-future-868401435e26?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-17T06:14:30.000Z</updated>
+        <author>
+            <name>Drraghavendra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Reentrancy Vulnerabilities in Smart Contracts]]></title>
+        <id>https://medium.com/p/5d84e183c82d</id>
+        <link href="https://coinsbench.com/how-to-handle-reentrancy-vulnerabilities-in-smart-contracts-5d84e183c82d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-17T06:14:24.000Z</updated>
+        <summary type="html"><![CDATA[Prevent costly smart contract exploits by mastering reentrancy protection techniques in Solidity
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Adekola Olawale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Injective EVM: What Full Compatibility Actually Unlocks for Builders]]></title>
+        <id>https://medium.com/p/b61bcd892962</id>
+        <link href="https://coinsbench.com/injective-evm-what-full-compatibility-actually-unlocks-for-builders-b61bcd892962?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-17T06:14:20.000Z</updated>
+        <author>
+            <name>Barsil Nzola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How My EOA Was Hijacked by an EIP-7702 Delegation on Sepolia (hopefully just it) and How to Revoke…]]></title>
+        <id>https://medium.com/p/1dc69bc2138f</id>
+        <link href="https://coinsbench.com/how-my-eoa-was-hijacked-by-an-eip-7702-delegation-on-sepolia-hopefully-just-it-and-how-to-revoke-1dc69bc2138f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-17T06:14:19.000Z</updated>
+        <author>
+            <name>Evgenii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NiteCTF Writeup: Prisoner’s Dilemma]]></title>
+        <id>https://medium.com/p/c28f43699501</id>
+        <link href="https://coinsbench.com/nitectf-writeup-prisoners-dilemma-c28f43699501?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-17T06:14:18.000Z</updated>
+        <author>
+            <name>shadow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Vulnerabilities Explained]]></title>
+        <id>https://medium.com/p/fee3c88cee8e</id>
+        <link href="https://coinsbench.com/smart-contract-vulnerabilities-explained-fee3c88cee8e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-17T06:13:52.000Z</updated>
+        <author>
+            <name>Barsil Nzola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a MiCA-Compliant Stablecoin: A Technical Deep Dive for Blockchain Developers]]></title>
+        <id>https://medium.com/p/f1659f0caaeb</id>
+        <link href="https://blog.blockmagnates.com/building-a-mica-compliant-stablecoin-a-technical-deep-dive-for-blockchain-developers-f1659f0caaeb?source=rss----18fa961f1eff--solidity"/>
+        <updated>2025-12-17T05:38:37.000Z</updated>
+        <author>
+            <name>Chain Industries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bullbit — The AI-Powered Decentralized Perp DEX: A New Era in DeFi Trading]]></title>
+        <id>https://medium.com/p/06a9041a97fb</id>
+        <link href="https://blog.blockmagnates.com/bullbit-the-ai-powered-decentralized-perp-dex-a-new-era-in-defi-trading-06a9041a97fb?source=rss----18fa961f1eff--solidity"/>
+        <updated>2025-12-17T05:38:18.000Z</updated>
+        <author>
+            <name>Drraghavendra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Can Asset Tokenization Unlock Capital for Small and Medium Enterprises Globally?]]></title>
         <id>https://medium.com/p/77a44a5c5a2e</id>
@@ -129,75 +212,12 @@ Continue reading on CoinsBench »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monolithic vs. Modular Blockchains: Architecture, Trade-offs, and the Future of Scaling]]></title>
-        <id>https://medium.com/p/fb02856f26d1</id>
-        <link href="https://coinsbench.com/monolithic-vs-modular-blockchains-architecture-trade-offs-and-the-future-of-scaling-fb02856f26d1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-15T08:23:36.000Z</updated>
-        <author>
-            <name>Drraghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flash Loan Attack Uncovered: PancakeSwap LP Exploit and the DMi/Moolah Drain Explained]]></title>
-        <id>https://medium.com/p/bb487f66f26e</id>
-        <link href="https://coinsbench.com/flash-loan-attack-uncovered-pancakeswap-lp-exploit-and-the-dmi-moolah-drain-explained-bb487f66f26e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-15T08:23:36.000Z</updated>
-        <author>
-            <name>Evgenii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Smart Contract Portfolio That Actually Gets Hires in 2025 — A Founder’s Checklist]]></title>
-        <id>https://medium.com/p/b2def1945f83</id>
-        <link href="https://coinsbench.com/the-smart-contract-portfolio-that-actually-gets-hires-in-2025-a-founders-checklist-b2def1945f83?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-15T08:23:23.000Z</updated>
-        <author>
-            <name>artofblockchain.club</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introducing GhostLedger: Bringing Back CTF Challenges That Time Left Behind]]></title>
         <id>https://medium.com/p/29089340bc52</id>
         <link href="https://blog.blockmagnates.com/introducing-ghostledger-bringing-back-ctf-challenges-that-time-left-behind-29089340bc52?source=rss----18fa961f1eff--solidity"/>
         <updated>2025-12-12T10:35:35.000Z</updated>
         <author>
             <name>KRaoaniruddh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Quantum-Resistant Wallet on Ethereum]]></title>
-        <id>https://medium.com/p/b32dbd666f2c</id>
-        <link href="https://coinsbench.com/how-i-built-a-quantum-resistant-wallet-on-ethereum-b32dbd666f2c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-10T07:49:54.000Z</updated>
-        <author>
-            <name>Paul Bark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contracts and Wallets: fundamentals and security]]></title>
-        <id>https://medium.com/p/404ce32f3300</id>
-        <link href="https://coinsbench.com/smart-contracts-and-wallets-fundamentals-and-security-404ce32f3300?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-10T07:49:46.000Z</updated>
-        <author>
-            <name>Andrea Belvedere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Founders Get Wrong About Hiring Smart Contract Developers (2025 Edition)]]></title>
-        <id>https://medium.com/p/6e3323cd192e</id>
-        <link href="https://coinsbench.com/what-founders-get-wrong-about-hiring-smart-contract-developers-2025-edition-6e3323cd192e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-10T07:49:44.000Z</updated>
-        <author>
-            <name>artofblockchain.club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Web3 Résumés Are Useless — And What Founders Actually Look At Instead]]></title>
-        <id>https://medium.com/p/47bbc6bde50d</id>
-        <link href="https://coinsbench.com/why-web3-r%C3%A9sum%C3%A9s-are-useless-and-what-founders-actually-look-at-instead-47bbc6bde50d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-08T07:46:54.000Z</updated>
-        <author>
-            <name>artofblockchain.club</name>
         </author>
     </entry>
     <entry>
