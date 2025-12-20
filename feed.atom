@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-20T14:16:08.977Z</id>
+    <id>urn:2025-12-20T15:16:53.627Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-20T14:16:08.977Z</updated>
+    <updated>2025-12-20T15:16:53.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Data Storage for Gas-Efficient Contracts]]></title>
+        <id>https://medium.com/p/95237cdbfaf4</id>
+        <link href="https://coinsbench.com/solidity-data-storage-for-gas-efficient-contracts-95237cdbfaf4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-20T14:26:42.000Z</updated>
+        <author>
+            <name>artclave</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Curious Cryptos’ Commentary 20th December 2025 — Project K, Grayscale, & Coinbase]]></title>
         <id>https://medium.com/p/9309b8d9bda7</id>
@@ -213,15 +222,6 @@ Continue reading on CoinsBench »]]></summary>
         <updated>2025-12-15T08:24:19.000Z</updated>
         <author>
             <name>Benjamin Valor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monolithic vs. Modular Blockchains: Architecture, Trade-offs, and the Future of Scaling]]></title>
-        <id>https://medium.com/p/fb02856f26d1</id>
-        <link href="https://coinsbench.com/monolithic-vs-modular-blockchains-architecture-trade-offs-and-the-future-of-scaling-fb02856f26d1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-15T08:23:36.000Z</updated>
-        <author>
-            <name>Drraghavendra</name>
         </author>
     </entry>
     <entry>

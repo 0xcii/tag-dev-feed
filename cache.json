@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -11,6 +17,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/95237cdbfaf4",
+          "author": "artclave",
+          "description": "",
+          "link": "https://coinsbench.com/solidity-data-storage-for-gas-efficient-contracts-95237cdbfaf4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-20T14:26:42.000Z",
+          "wordCount": null,
+          "title": "Solidity Data Storage for Gas-Efficient Contracts",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/5f9b3a209d47",
           "author": "Joseph Wang",
@@ -99,16 +115,6 @@
           "publishedOn": "2025-12-15T08:24:19.000Z",
           "wordCount": null,
           "title": "Kalshi Clone Script: A Complete Guide for Building Your Own Event-Prediction Exchange",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/fb02856f26d1",
-          "author": "Drraghavendra",
-          "description": "",
-          "link": "https://coinsbench.com/monolithic-vs-modular-blockchains-architecture-trade-offs-and-the-future-of-scaling-fb02856f26d1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-15T08:23:36.000Z",
-          "wordCount": null,
-          "title": "Monolithic vs. Modular Blockchains: Architecture, Trade-offs, and the Future of Scaling",
           "imageUrl": null
         }
       ]
