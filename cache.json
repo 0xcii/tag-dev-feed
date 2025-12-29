@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -18,103 +12,103 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
-          "id": "https://medium.com/p/95237cdbfaf4",
+          "id": "https://medium.com/p/c4773776094a",
+          "author": "Satyam",
+          "description": "",
+          "link": "https://coinsbench.com/tracing-the-immutable-advanced-methodologies-for-cross-chain-cryptocurrency-investigations-c4773776094a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-29T08:21:05.000Z",
+          "wordCount": null,
+          "title": "Tracing the Immutable: Advanced Methodologies for Cross-Chain Cryptocurrency Investigations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2bc3c975c65d",
           "author": "artclave",
           "description": "",
-          "link": "https://coinsbench.com/solidity-data-storage-for-gas-efficient-contracts-95237cdbfaf4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-20T14:26:42.000Z",
+          "link": "https://coinsbench.com/solidity-data-storage-arrays-2bc3c975c65d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-29T08:20:55.000Z",
           "wordCount": null,
-          "title": "Solidity Data Storage: Gas-Efficient Contracts",
+          "title": "Solidity Data Storage: Arrays",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/5f9b3a209d47",
-          "author": "Joseph Wang",
+          "id": "https://medium.com/p/6e352fd57883",
+          "author": "Satyam",
           "description": "",
-          "link": "https://coinsbench.com/building-article-subscription-contracts-in-solidity-5f9b3a209d47?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-17T06:14:43.000Z",
+          "link": "https://coinsbench.com/the-ledger-never-lies-a-comprehensive-review-of-bitcoin-forensics-6e352fd57883?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-29T08:20:47.000Z",
           "wordCount": null,
-          "title": "Building Article Subscription Contracts in Solidity",
+          "title": "The Ledger Never Lies: A Comprehensive Review of Bitcoin Forensics",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/5d84e183c82d",
-          "author": "Adekola Olawale",
-          "description": "Prevent costly smart contract exploits by mastering reentrancy protection techniques in Solidity\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/how-to-handle-reentrancy-vulnerabilities-in-smart-contracts-5d84e183c82d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-17T06:14:24.000Z",
-          "wordCount": null,
-          "title": "How to Handle Reentrancy Vulnerabilities in Smart Contracts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b61bcd892962",
-          "author": "Barsil Nzola",
+          "id": "https://medium.com/p/3a1cc48635a0",
+          "author": "Satyam",
           "description": "",
-          "link": "https://coinsbench.com/injective-evm-what-full-compatibility-actually-unlocks-for-builders-b61bcd892962?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-17T06:14:20.000Z",
+          "link": "https://coinsbench.com/bitcoin-attacks-a-chronological-analysis-of-threats-exploits-and-mitigation-strategies-3a1cc48635a0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-29T08:20:45.000Z",
           "wordCount": null,
-          "title": "Injective EVM: What Full Compatibility Actually Unlocks for Builders",
+          "title": "Bitcoin Attacks: A Chronological Analysis of Threats, Exploits, and Mitigation Strategies",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/1dc69bc2138f",
-          "author": "Evgenii",
+          "id": "https://medium.com/p/9e9752178a36",
+          "author": "Satyam",
           "description": "",
-          "link": "https://coinsbench.com/how-my-eoa-was-hijacked-by-an-eip-7702-delegation-on-sepolia-hopefully-just-it-and-how-to-revoke-1dc69bc2138f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-17T06:14:19.000Z",
+          "link": "https://coinsbench.com/the-world-computer-a-deep-dive-into-the-ethereum-blockchain-9e9752178a36?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-29T08:20:30.000Z",
           "wordCount": null,
-          "title": "How My EOA Was Hijacked by an EIP-7702 Delegation on Sepolia (hopefully just it) and How to Revoke…",
+          "title": "The World Computer: A Deep Dive into the Ethereum Blockchain",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/c28f43699501",
-          "author": "shadow",
+          "id": "https://medium.com/p/c18dbb5bb3fe",
+          "author": "Pendem Shiva Shankar",
           "description": "",
-          "link": "https://coinsbench.com/nitectf-writeup-prisoners-dilemma-c28f43699501?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-17T06:14:18.000Z",
+          "link": "https://coinsbench.com/the-permanent-vs-the-pivotable-when-to-use-regular-vs-upgradable-smart-contracts-c18dbb5bb3fe?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-29T08:19:14.000Z",
           "wordCount": null,
-          "title": "NiteCTF Writeup: Prisoner’s Dilemma",
+          "title": "The Permanent vs. The Pivotable: When to Use Regular vs. Upgradable Smart Contracts",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/fee3c88cee8e",
-          "author": "Barsil Nzola",
-          "description": "",
-          "link": "https://coinsbench.com/smart-contract-vulnerabilities-explained-fee3c88cee8e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-17T06:13:52.000Z",
+          "id": "https://medium.com/p/4b50a4ef862e",
+          "author": "gatwirival",
+          "description": "Continuing from “Building Your First Solidity Smart Contract: A Step-by-Step Guide for Beginners ”\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/option-2-the-hardhat-workflow-for-developers-4b50a4ef862e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-29T08:19:07.000Z",
           "wordCount": null,
-          "title": "Smart Contract Vulnerabilities Explained",
+          "title": "Option 2: The Hardhat Workflow (for Developers)",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/b4fa44c624ce",
-          "author": "Joseph Wang",
-          "description": "",
-          "link": "https://coinsbench.com/building-a-simple-pay-as-you-go-service-in-solidity-b4fa44c624ce?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-15T08:24:20.000Z",
-          "wordCount": null,
-          "title": "Building a Simple Pay-as-You-Go Service in Solidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f684ff45ebf6",
-          "author": "Adekola Olawale",
-          "description": "Avoid costly mistakes in Solidity. Learn when to use storage, memory, and calldata to write gas-efficient, secure smart contracts\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/fixing-storage-vs-memory-misuse-in-solidity-variables-f684ff45ebf6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-15T08:24:19.000Z",
-          "wordCount": null,
-          "title": "Fixing Storage vs Memory Misuse in Solidity Variables",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/98416e4a9f73",
+          "id": "https://medium.com/p/ebc2a3878715",
           "author": "Benjamin Valor",
           "description": "",
-          "link": "https://coinsbench.com/kalshi-clone-script-a-complete-guide-for-building-your-own-event-prediction-exchange-98416e4a9f73?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-15T08:24:19.000Z",
+          "link": "https://coinsbench.com/smart-contract-auditing-services-building-safer-transparent-and-trustworthy-blockchain-ebc2a3878715?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-29T08:18:51.000Z",
           "wordCount": null,
-          "title": "Kalshi Clone Script: A Complete Guide for Building Your Own Event-Prediction Exchange",
+          "title": "Smart Contract Auditing Services: Building Safer, Transparent, and Trustworthy Blockchain…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3184e9481f0a",
+          "author": "Michal Stefanow",
+          "description": "",
+          "link": "https://coinsbench.com/inside-the-mind-of-a-polymarket-bot-3184e9481f0a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-29T08:18:46.000Z",
+          "wordCount": null,
+          "title": "Inside the Mind of a Polymarket BOT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9c7f3fc50e03",
+          "author": "Mercy Adams",
+          "description": "",
+          "link": "https://coinsbench.com/easyhaven-optimization-part-ii-9c7f3fc50e03?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-29T08:18:42.000Z",
+          "wordCount": null,
+          "title": "EasyHaven — Optimization (Part II)",
           "imageUrl": null
         }
       ]
@@ -231,6 +225,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/f3b7de378b9c",
+          "author": "Chain Industries",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/security-considerations-for-intent-based-defi-architectures-a-smart-contract-auditors-perspective-f3b7de378b9c?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2025-12-29T07:49:27.000Z",
+          "wordCount": null,
+          "title": "Security Considerations for Intent-Based DeFi Architectures: A Smart Contract Auditor’s Perspective",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/93c5203ae409",
           "author": "Joseph Wang",
