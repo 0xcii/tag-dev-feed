@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -11,6 +17,46 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/3f2f47617b61",
+          "author": "Joseph Wang",
+          "description": "",
+          "link": "https://coinsbench.com/from-services-to-products-composing-multi-provider-checkout-on-chain-3f2f47617b61?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-29T08:21:25.000Z",
+          "wordCount": null,
+          "title": "From Services to Products: Composing Multi-Provider Checkout On-Chain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9484a3a316b0",
+          "author": "Jiseop Shin",
+          "description": "",
+          "link": "https://coinsbench.com/ethernaut-8-vault-9484a3a316b0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-29T08:21:16.000Z",
+          "wordCount": null,
+          "title": "[Ethernaut] 8. Vault",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/05d63ea1500b",
+          "author": "Connor Kenway",
+          "description": "",
+          "link": "https://coinsbench.com/smart-contract-hands-on-exploration-05d63ea1500b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-29T08:21:15.000Z",
+          "wordCount": null,
+          "title": "Smart Contract: Hands-on Exploration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5a4cfef93e41",
+          "author": "Mobin Shaterian",
+          "description": "",
+          "link": "https://coinsbench.com/adding-clickhouse-to-a-go-project-a-practical-guide-inspired-by-go-simple-5a4cfef93e41?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-29T08:21:11.000Z",
+          "wordCount": null,
+          "title": "Adding ClickHouse to a Go Project: A Practical Guide Inspired by go-simple",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/c4773776094a",
           "author": "Satyam",
@@ -69,46 +115,6 @@
           "publishedOn": "2025-12-29T08:19:14.000Z",
           "wordCount": null,
           "title": "The Permanent vs. The Pivotable: When to Use Regular vs. Upgradable Smart Contracts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4b50a4ef862e",
-          "author": "gatwirival",
-          "description": "Continuing from “Building Your First Solidity Smart Contract: A Step-by-Step Guide for Beginners ”\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/option-2-the-hardhat-workflow-for-developers-4b50a4ef862e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-29T08:19:07.000Z",
-          "wordCount": null,
-          "title": "Option 2: The Hardhat Workflow (for Developers)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ebc2a3878715",
-          "author": "Benjamin Valor",
-          "description": "",
-          "link": "https://coinsbench.com/smart-contract-auditing-services-building-safer-transparent-and-trustworthy-blockchain-ebc2a3878715?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-29T08:18:51.000Z",
-          "wordCount": null,
-          "title": "Smart Contract Auditing Services: Building Safer, Transparent, and Trustworthy Blockchain…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3184e9481f0a",
-          "author": "Michal Stefanow",
-          "description": "",
-          "link": "https://coinsbench.com/inside-the-mind-of-a-polymarket-bot-3184e9481f0a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-29T08:18:46.000Z",
-          "wordCount": null,
-          "title": "Inside the Mind of a Polymarket BOT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9c7f3fc50e03",
-          "author": "Mercy Adams",
-          "description": "",
-          "link": "https://coinsbench.com/easyhaven-optimization-part-ii-9c7f3fc50e03?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-29T08:18:42.000Z",
-          "wordCount": null,
-          "title": "EasyHaven — Optimization (Part II)",
           "imageUrl": null
         }
       ]
