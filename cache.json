@@ -18,6 +18,96 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e1f00fe9c355",
+          "author": "Benjamin Valor",
+          "description": "",
+          "link": "https://coinsbench.com/solidity-development-a-practical-foundation-for-secure-and-scalable-blockchain-solutions-e1f00fe9c355?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-30T12:23:04.000Z",
+          "wordCount": null,
+          "title": "Solidity Development: A Practical Foundation for Secure and Scalable Blockchain Solutions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/93bcf8984441",
+          "author": "The Cyber Sage",
+          "description": "",
+          "link": "https://coinsbench.com/storage-vs-memory-in-solidity-93bcf8984441?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-30T12:22:53.000Z",
+          "wordCount": null,
+          "title": "Storage Vs Memory in Solidity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/218a49f57308",
+          "author": "PMartin",
+          "description": "",
+          "link": "https://coinsbench.com/ethernaut-lessons-classic-bugs-that-still-drain-millions-in-real-defi-218a49f57308?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-30T12:22:49.000Z",
+          "wordCount": null,
+          "title": "Ethernaut Lessons: Classic Bugs That Still Drain Millions in Real DeFi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e7c39a825d29",
+          "author": "PMartin",
+          "description": "",
+          "link": "https://coinsbench.com/how-to-become-a-smart-contract-bug-hunter-and-get-paid-in-2026-e7c39a825d29?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-30T12:22:44.000Z",
+          "wordCount": null,
+          "title": "How to Become a Smart Contract Bug Hunter and Get Paid in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/93967b888701",
+          "author": "PMartin",
+          "description": "",
+          "link": "https://coinsbench.com/mid-level-smart-contract-interview-questions-mastering-solidity-and-rust-for-blockchain-developers-93967b888701?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-30T12:22:37.000Z",
+          "wordCount": null,
+          "title": "Mid-Level Smart Contract Interview Questions: Mastering Solidity and Rust for Blockchain Developers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a40aa55a26f8",
+          "author": "Samuel Ndubuisi",
+          "description": "",
+          "link": "https://coinsbench.com/stop-using-revert-strings-in-token-contracts-how-eip-6093-fixes-token-errors-a40aa55a26f8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-30T12:20:54.000Z",
+          "wordCount": null,
+          "title": "Stop Using Revert Strings In Token Contracts: How EIP-6093 Fixes Token Errors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/335e9a1be943",
+          "author": "artofblockchain.club",
+          "description": "",
+          "link": "https://coinsbench.com/what-web3-job-red-flags-actually-look-like-from-the-candidate-side-335e9a1be943?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-30T12:20:41.000Z",
+          "wordCount": null,
+          "title": "What Web3 Job Red Flags Actually Look Like (From the Candidate Side)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ca89916944f1",
+          "author": "artofblockchain.club",
+          "description": "",
+          "link": "https://coinsbench.com/5-proof-signals-every-web3-founder-should-trust-and-5-you-should-ignore-ca89916944f1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-30T12:20:03.000Z",
+          "wordCount": null,
+          "title": "5 Proof Signals Every Web3 Founder Should Trust (And 5 You Should Ignore)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/33d7ee74bb8f",
+          "author": "Satyam",
+          "description": "",
+          "link": "https://coinsbench.com/bitcoin-the-code-that-changed-money-forever-33d7ee74bb8f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2025-12-30T12:19:11.000Z",
+          "wordCount": null,
+          "title": "Bitcoin: The Code That Changed Money Forever",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/3f2f47617b61",
           "author": "Joseph Wang",
           "description": "",
@@ -25,96 +115,6 @@
           "publishedOn": "2025-12-29T08:21:25.000Z",
           "wordCount": null,
           "title": "From Services to Products: Composing Multi-Provider Checkout On-Chain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9484a3a316b0",
-          "author": "Jiseop Shin",
-          "description": "",
-          "link": "https://coinsbench.com/ethernaut-8-vault-9484a3a316b0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-29T08:21:16.000Z",
-          "wordCount": null,
-          "title": "[Ethernaut] 8. Vault",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/05d63ea1500b",
-          "author": "Connor Kenway",
-          "description": "",
-          "link": "https://coinsbench.com/smart-contract-hands-on-exploration-05d63ea1500b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-29T08:21:15.000Z",
-          "wordCount": null,
-          "title": "Smart Contract: Hands-on Exploration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5a4cfef93e41",
-          "author": "Mobin Shaterian",
-          "description": "",
-          "link": "https://coinsbench.com/adding-clickhouse-to-a-go-project-a-practical-guide-inspired-by-go-simple-5a4cfef93e41?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-29T08:21:11.000Z",
-          "wordCount": null,
-          "title": "Adding ClickHouse to a Go Project: A Practical Guide Inspired by go-simple",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c4773776094a",
-          "author": "Satyam",
-          "description": "",
-          "link": "https://coinsbench.com/tracing-the-immutable-advanced-methodologies-for-cross-chain-cryptocurrency-investigations-c4773776094a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-29T08:21:05.000Z",
-          "wordCount": null,
-          "title": "Tracing the Immutable: Advanced Methodologies for Cross-Chain Cryptocurrency Investigations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2bc3c975c65d",
-          "author": "artclave",
-          "description": "",
-          "link": "https://coinsbench.com/solidity-data-storage-arrays-2bc3c975c65d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-29T08:20:55.000Z",
-          "wordCount": null,
-          "title": "Solidity Data Storage: Arrays",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6e352fd57883",
-          "author": "Satyam",
-          "description": "",
-          "link": "https://coinsbench.com/the-ledger-never-lies-a-comprehensive-review-of-bitcoin-forensics-6e352fd57883?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-29T08:20:47.000Z",
-          "wordCount": null,
-          "title": "The Ledger Never Lies: A Comprehensive Review of Bitcoin Forensics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3a1cc48635a0",
-          "author": "Satyam",
-          "description": "",
-          "link": "https://coinsbench.com/bitcoin-attacks-a-chronological-analysis-of-threats-exploits-and-mitigation-strategies-3a1cc48635a0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-29T08:20:45.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Attacks: A Chronological Analysis of Threats, Exploits, and Mitigation Strategies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9e9752178a36",
-          "author": "Satyam",
-          "description": "",
-          "link": "https://coinsbench.com/the-world-computer-a-deep-dive-into-the-ethereum-blockchain-9e9752178a36?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-29T08:20:30.000Z",
-          "wordCount": null,
-          "title": "The World Computer: A Deep Dive into the Ethereum Blockchain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c18dbb5bb3fe",
-          "author": "Pendem Shiva Shankar",
-          "description": "",
-          "link": "https://coinsbench.com/the-permanent-vs-the-pivotable-when-to-use-regular-vs-upgradable-smart-contracts-c18dbb5bb3fe?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-29T08:19:14.000Z",
-          "wordCount": null,
-          "title": "The Permanent vs. The Pivotable: When to Use Regular vs. Upgradable Smart Contracts",
           "imageUrl": null
         }
       ]

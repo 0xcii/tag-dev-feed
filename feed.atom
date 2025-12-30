@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-30T11:17:20.802Z</id>
+    <id>urn:2025-12-30T12:39:53.664Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-30T11:17:20.802Z</updated>
+    <updated>2025-12-30T12:39:53.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity Development: A Practical Foundation for Secure and Scalable Blockchain Solutions]]></title>
+        <id>https://medium.com/p/e1f00fe9c355</id>
+        <link href="https://coinsbench.com/solidity-development-a-practical-foundation-for-secure-and-scalable-blockchain-solutions-e1f00fe9c355?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-30T12:23:04.000Z</updated>
+        <author>
+            <name>Benjamin Valor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storage Vs Memory in Solidity]]></title>
+        <id>https://medium.com/p/93bcf8984441</id>
+        <link href="https://coinsbench.com/storage-vs-memory-in-solidity-93bcf8984441?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-30T12:22:53.000Z</updated>
+        <author>
+            <name>The Cyber Sage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethernaut Lessons: Classic Bugs That Still Drain Millions in Real DeFi]]></title>
+        <id>https://medium.com/p/218a49f57308</id>
+        <link href="https://coinsbench.com/ethernaut-lessons-classic-bugs-that-still-drain-millions-in-real-defi-218a49f57308?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-30T12:22:49.000Z</updated>
+        <author>
+            <name>PMartin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Smart Contract Bug Hunter and Get Paid in 2026]]></title>
+        <id>https://medium.com/p/e7c39a825d29</id>
+        <link href="https://coinsbench.com/how-to-become-a-smart-contract-bug-hunter-and-get-paid-in-2026-e7c39a825d29?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-30T12:22:44.000Z</updated>
+        <author>
+            <name>PMartin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mid-Level Smart Contract Interview Questions: Mastering Solidity and Rust for Blockchain Developers]]></title>
+        <id>https://medium.com/p/93967b888701</id>
+        <link href="https://coinsbench.com/mid-level-smart-contract-interview-questions-mastering-solidity-and-rust-for-blockchain-developers-93967b888701?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-30T12:22:37.000Z</updated>
+        <author>
+            <name>PMartin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Using Revert Strings In Token Contracts: How EIP-6093 Fixes Token Errors]]></title>
+        <id>https://medium.com/p/a40aa55a26f8</id>
+        <link href="https://coinsbench.com/stop-using-revert-strings-in-token-contracts-how-eip-6093-fixes-token-errors-a40aa55a26f8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-30T12:20:54.000Z</updated>
+        <author>
+            <name>Samuel Ndubuisi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Web3 Job Red Flags Actually Look Like (From the Candidate Side)]]></title>
+        <id>https://medium.com/p/335e9a1be943</id>
+        <link href="https://coinsbench.com/what-web3-job-red-flags-actually-look-like-from-the-candidate-side-335e9a1be943?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-30T12:20:41.000Z</updated>
+        <author>
+            <name>artofblockchain.club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Proof Signals Every Web3 Founder Should Trust (And 5 You Should Ignore)]]></title>
+        <id>https://medium.com/p/ca89916944f1</id>
+        <link href="https://coinsbench.com/5-proof-signals-every-web3-founder-should-trust-and-5-you-should-ignore-ca89916944f1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-30T12:20:03.000Z</updated>
+        <author>
+            <name>artofblockchain.club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin: The Code That Changed Money Forever]]></title>
+        <id>https://medium.com/p/33d7ee74bb8f</id>
+        <link href="https://coinsbench.com/bitcoin-the-code-that-changed-money-forever-33d7ee74bb8f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2025-12-30T12:19:11.000Z</updated>
+        <author>
+            <name>Satyam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto, the Early Years (2012–2016): The Financial Wild West]]></title>
         <id>https://medium.com/p/de8b9871aeef</id>
@@ -21,87 +102,6 @@
         <updated>2025-12-29T08:21:25.000Z</updated>
         <author>
             <name>Joseph Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Ethernaut] 8. Vault]]></title>
-        <id>https://medium.com/p/9484a3a316b0</id>
-        <link href="https://coinsbench.com/ethernaut-8-vault-9484a3a316b0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-29T08:21:16.000Z</updated>
-        <author>
-            <name>Jiseop Shin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract: Hands-on Exploration]]></title>
-        <id>https://medium.com/p/05d63ea1500b</id>
-        <link href="https://coinsbench.com/smart-contract-hands-on-exploration-05d63ea1500b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-29T08:21:15.000Z</updated>
-        <author>
-            <name>Connor Kenway</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding ClickHouse to a Go Project: A Practical Guide Inspired by go-simple]]></title>
-        <id>https://medium.com/p/5a4cfef93e41</id>
-        <link href="https://coinsbench.com/adding-clickhouse-to-a-go-project-a-practical-guide-inspired-by-go-simple-5a4cfef93e41?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-29T08:21:11.000Z</updated>
-        <author>
-            <name>Mobin Shaterian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tracing the Immutable: Advanced Methodologies for Cross-Chain Cryptocurrency Investigations]]></title>
-        <id>https://medium.com/p/c4773776094a</id>
-        <link href="https://coinsbench.com/tracing-the-immutable-advanced-methodologies-for-cross-chain-cryptocurrency-investigations-c4773776094a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-29T08:21:05.000Z</updated>
-        <author>
-            <name>Satyam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Data Storage: Arrays]]></title>
-        <id>https://medium.com/p/2bc3c975c65d</id>
-        <link href="https://coinsbench.com/solidity-data-storage-arrays-2bc3c975c65d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-29T08:20:55.000Z</updated>
-        <author>
-            <name>artclave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ledger Never Lies: A Comprehensive Review of Bitcoin Forensics]]></title>
-        <id>https://medium.com/p/6e352fd57883</id>
-        <link href="https://coinsbench.com/the-ledger-never-lies-a-comprehensive-review-of-bitcoin-forensics-6e352fd57883?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-29T08:20:47.000Z</updated>
-        <author>
-            <name>Satyam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Attacks: A Chronological Analysis of Threats, Exploits, and Mitigation Strategies]]></title>
-        <id>https://medium.com/p/3a1cc48635a0</id>
-        <link href="https://coinsbench.com/bitcoin-attacks-a-chronological-analysis-of-threats-exploits-and-mitigation-strategies-3a1cc48635a0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-29T08:20:45.000Z</updated>
-        <author>
-            <name>Satyam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The World Computer: A Deep Dive into the Ethereum Blockchain]]></title>
-        <id>https://medium.com/p/9e9752178a36</id>
-        <link href="https://coinsbench.com/the-world-computer-a-deep-dive-into-the-ethereum-blockchain-9e9752178a36?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-29T08:20:30.000Z</updated>
-        <author>
-            <name>Satyam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Permanent vs. The Pivotable: When to Use Regular vs. Upgradable Smart Contracts]]></title>
-        <id>https://medium.com/p/c18dbb5bb3fe</id>
-        <link href="https://coinsbench.com/the-permanent-vs-the-pivotable-when-to-use-regular-vs-upgradable-smart-contracts-c18dbb5bb3fe?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-29T08:19:14.000Z</updated>
-        <author>
-            <name>Pendem Shiva Shankar</name>
         </author>
     </entry>
     <entry>
