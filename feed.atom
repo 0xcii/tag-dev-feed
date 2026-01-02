@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-02T08:26:46.899Z</id>
+    <id>urn:2026-01-02T09:22:28.017Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-02T08:26:46.899Z</updated>
+    <updated>2026-01-02T09:22:28.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Smart Contract Events Work: A Simple Guide with Examples]]></title>
+        <id>https://medium.com/p/22eb79cb3231</id>
+        <link href="https://coinsbench.com/how-smart-contract-events-work-a-simple-guide-with-examples-22eb79cb3231?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-02T08:55:33.000Z</updated>
+        <author>
+            <name>PMartin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract ABI Explained: A Beginner-Friendly Guide for Web3 Developers]]></title>
+        <id>https://medium.com/p/dc314e1650a1</id>
+        <link href="https://coinsbench.com/smart-contract-abi-explained-a-beginner-friendly-guide-for-web3-developers-dc314e1650a1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-02T08:55:32.000Z</updated>
+        <author>
+            <name>PMartin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memory vs Calldata]]></title>
+        <id>https://medium.com/p/05087583a907</id>
+        <link href="https://coinsbench.com/memory-vs-calldata-05087583a907?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-02T08:55:25.000Z</updated>
+        <author>
+            <name>artclave</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Cooking — Sizzling Steaks And Savvy Staking Strategies]]></title>
         <id>https://medium.com/p/99167649aa29</id>
@@ -80,39 +107,12 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Proof Signals Every Web3 Founder Should Trust (And 5 You Should Ignore)]]></title>
-        <id>https://medium.com/p/ca89916944f1</id>
-        <link href="https://coinsbench.com/5-proof-signals-every-web3-founder-should-trust-and-5-you-should-ignore-ca89916944f1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-30T12:20:03.000Z</updated>
-        <author>
-            <name>artofblockchain.club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin: The Code That Changed Money Forever]]></title>
-        <id>https://medium.com/p/33d7ee74bb8f</id>
-        <link href="https://coinsbench.com/bitcoin-the-code-that-changed-money-forever-33d7ee74bb8f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-30T12:19:11.000Z</updated>
-        <author>
-            <name>Satyam</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto, the Early Years (2012–2016): The Financial Wild West]]></title>
         <id>https://medium.com/p/de8b9871aeef</id>
         <link href="https://medium.com/coinmonks/crypto-the-early-years-2012-2016-the-financial-wild-west-de8b9871aeef?source=rss----721b17443fd5---4"/>
         <updated>2025-12-29T10:52:58.000Z</updated>
         <author>
             <name>Sam Gabsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Services to Products: Composing Multi-Provider Checkout On-Chain]]></title>
-        <id>https://medium.com/p/3f2f47617b61</id>
-        <link href="https://coinsbench.com/from-services-to-products-composing-multi-provider-checkout-on-chain-3f2f47617b61?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-29T08:21:25.000Z</updated>
-        <author>
-            <name>Joseph Wang</name>
         </author>
     </entry>
     <entry>
