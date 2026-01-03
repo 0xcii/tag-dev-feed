@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,6 +11,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/5bd5bf339ff3",
+          "author": "The Cyber Sage",
+          "description": "",
+          "link": "https://coinsbench.com/solidity-basics-lottery-smart-contract-5bd5bf339ff3?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-01-03T12:56:43.000Z",
+          "wordCount": null,
+          "title": "Solidity Basics — Lottery Smart Contract",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/22eb79cb3231",
           "author": "PMartin",
@@ -105,16 +109,6 @@
           "publishedOn": "2025-12-30T12:20:54.000Z",
           "wordCount": null,
           "title": "Stop Using Revert Strings In Token Contracts: How EIP-6093 Fixes Token Errors",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/335e9a1be943",
-          "author": "artofblockchain.club",
-          "description": "",
-          "link": "https://coinsbench.com/what-web3-job-red-flags-actually-look-like-from-the-candidate-side-335e9a1be943?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2025-12-30T12:20:41.000Z",
-          "wordCount": null,
-          "title": "What Web3 Job Red Flags Actually Look Like (From the Candidate Side)",
           "imageUrl": null
         }
       ]
