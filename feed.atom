@@ -1,10 +1,173 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-05T11:17:49.300Z</id>
+    <id>urn:2026-01-05T12:42:22.413Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-05T11:17:49.300Z</updated>
+    <updated>2026-01-05T12:42:22.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Libraries in Solidity: Reusable Code Without Inheritance]]></title>
+        <id>https://medium.com/p/6412b9b170da</id>
+        <link href="https://coinsbench.com/libraries-in-solidity-reusable-code-without-inheritance-6412b9b170da?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-05T12:09:59.000Z</updated>
+        <author>
+            <name>PMartin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIP 1167 — Minimal Proxy Contract]]></title>
+        <id>https://medium.com/p/f595415ce19c</id>
+        <link href="https://coinsbench.com/eip-1167-minimal-proxy-contract-f595415ce19c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-05T12:09:30.000Z</updated>
+        <author>
+            <name>Ben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Crypto Wallet Has a Fatal Flaw That’s Cost the Industry $3 Billion]]></title>
+        <id>https://medium.com/p/403af69e3760</id>
+        <link href="https://coinsbench.com/why-your-crypto-wallet-has-a-fatal-flaw-thats-cost-the-industry-3-billion-403af69e3760?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-05T12:09:11.000Z</updated>
+        <author>
+            <name>Chronos Vault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gas Optimization in Solidity: 10 Practical Tips for Cheaper Contracts]]></title>
+        <id>https://medium.com/p/be1e1feb4400</id>
+        <link href="https://coinsbench.com/gas-optimization-in-solidity-10-practical-tips-for-cheaper-contracts-be1e1feb4400?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-05T12:08:57.000Z</updated>
+        <author>
+            <name>PMartin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modifiers in Solidity: Clean Code for Access Control and Reusability]]></title>
+        <id>https://medium.com/p/fa5d5c05c5fe</id>
+        <link href="https://coinsbench.com/modifiers-in-solidity-clean-code-for-access-control-and-reusability-fa5d5c05c5fe?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-05T12:08:51.000Z</updated>
+        <author>
+            <name>PMartin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Agentic Economy: Why Your Next Employee Will Be a Wallet Address]]></title>
+        <id>https://medium.com/p/810cbbd0ffbc</id>
+        <link href="https://coinsbench.com/the-agentic-economy-why-your-next-employee-will-be-a-wallet-address-810cbbd0ffbc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-05T12:03:35.000Z</updated>
+        <author>
+            <name>Hitcaff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Solidity Data Locations: Storage vs Memory vs Calldata]]></title>
+        <id>https://medium.com/p/069c8591e391</id>
+        <link href="https://coinsbench.com/understanding-solidity-data-locations-storage-vs-memory-vs-calldata-069c8591e391?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-05T12:03:34.000Z</updated>
+        <author>
+            <name>Boniface Oghenekaro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connecting Hardhat to React]]></title>
+        <id>https://medium.com/p/496b82005fd5</id>
+        <link href="https://coinsbench.com/connecting-hardhat-to-react-496b82005fd5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-05T12:03:33.000Z</updated>
+        <summary type="html"><![CDATA[Continuing from Option 2: The Hardhat Workflow (for Developers)
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>gatwirival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Solidity Proxies: Upgradeable Contracts with delegatecall]]></title>
+        <id>https://medium.com/p/6e015ecea779</id>
+        <link href="https://coinsbench.com/understanding-solidity-proxies-upgradeable-contracts-with-delegatecall-6e015ecea779?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-05T12:03:32.000Z</updated>
+        <author>
+            <name>PMartin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Debugging Series 2: Complex Revert Scenarios]]></title>
+        <id>https://medium.com/p/f0ecbb8f01a2</id>
+        <link href="https://coinsbench.com/ethereum-debugging-series-complex-revert-scenarios-f0ecbb8f01a2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-05T12:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Dive into advanced Ethereum debugging to fix complex revert errors in DeFi and multi-contract smart systems
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Adekola Olawale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is a Polymarket Clone Script the fastest way to launch a prediction market platform?]]></title>
+        <id>https://medium.com/p/79e7751d0939</id>
+        <link href="https://medium.com/coinmonks/why-is-a-polymarket-clone-script-the-fastest-way-to-launch-a-prediction-market-platform-79e7751d0939?source=rss----721b17443fd5---4"/>
+        <updated>2026-01-05T11:46:56.000Z</updated>
+        <author>
+            <name>maya jamison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Holds Strong as Altcoins Surge — What Comes Next?]]></title>
+        <id>https://medium.com/p/bd7498d442aa</id>
+        <link href="https://medium.com/coinmonks/bitcoin-holds-strong-as-altcoins-surge-what-comes-next-bd7498d442aa?source=rss----721b17443fd5---4"/>
+        <updated>2026-01-05T11:46:52.000Z</updated>
+        <author>
+            <name>Nauris Treigys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curious Cryptos’ Commentary 5th January 2025 — Crenshaw news (hurrah!) & The Times (boo!)]]></title>
+        <id>https://medium.com/p/486fa3a421a0</id>
+        <link href="https://medium.com/coinmonks/curious-cryptos-commentary-5th-january-2025-crenshaw-news-hurrah-the-times-boo-486fa3a421a0?source=rss----721b17443fd5---4"/>
+        <updated>2026-01-05T11:46:50.000Z</updated>
+        <summary type="html"><![CDATA[tl;dr
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Mark Timmis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The TRUTH About Crypto PREDICTION MARKETS!!]]></title>
+        <id>https://medium.com/p/a5d2caddfd3e</id>
+        <link href="https://medium.com/coinmonks/the-truth-about-crypto-prediction-markets-a5d2caddfd3e?source=rss----721b17443fd5---4"/>
+        <updated>2026-01-05T11:46:45.000Z</updated>
+        <summary type="html"><![CDATA[The Rise, Risks, and Future of Decentralized Forecasting
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Dominalt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Best Apps to Buy Cryptocurrency in 2026: Invest Smarter]]></title>
+        <id>https://medium.com/p/ec659ddbc2aa</id>
+        <link href="https://medium.com/coinmonks/top-10-best-apps-to-buy-cryptocurrency-in-2026-invest-smarter-ec659ddbc2aa?source=rss----721b17443fd5---4"/>
+        <updated>2026-01-05T11:46:42.000Z</updated>
+        <author>
+            <name>Rachael Christina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Telegram Trading Bot Development Is the Future of Automated Trading]]></title>
+        <id>https://medium.com/p/33aa98cfb169</id>
+        <link href="https://medium.com/coinmonks/why-telegram-trading-bot-development-is-the-future-of-automated-trading-33aa98cfb169?source=rss----721b17443fd5---4"/>
+        <updated>2026-01-05T11:46:40.000Z</updated>
+        <author>
+            <name>elanahayes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battlefield Breakthroughs With The Splinterlands — Dar ‘Gottem’ Gearnut’s Unstoppable Debut]]></title>
+        <id>https://medium.com/p/eb15949e666d</id>
+        <link href="https://medium.com/coinmonks/battlefield-breakthroughs-with-the-splinterlands-dar-gottem-gearnut-s-unstoppable-debut-eb15949e666d?source=rss----721b17443fd5---4"/>
+        <updated>2026-01-05T11:46:39.000Z</updated>
+        <summary type="html"><![CDATA[The realm of Splinterlands is buzzing once again… and this time, the spotlight is on you! The social media challenge is giving players the…
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>PVMihalache</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Turn Trends Into Treasure: How Klout Gamifies Social Media]]></title>
         <id>https://medium.com/p/da147722cbcc</id>
@@ -34,161 +197,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-01-04T06:57:17.000Z</updated>
         <author>
             <name>Kurt Merbeth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curious Cryptos’ Commentary 3rd January 2026 — Game-changing DeFi]]></title>
-        <id>https://medium.com/p/e89e17e92451</id>
-        <link href="https://medium.com/coinmonks/curious-cryptos-commentary-3rd-january-2026-game-changing-defi-e89e17e92451?source=rss----721b17443fd5---4"/>
-        <updated>2026-01-04T06:57:11.000Z</updated>
-        <summary type="html"><![CDATA[tl;dr
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Mark Timmis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Prediction Markets Like Polymarket Could Ignite the Biggest Wave of Web3 Adoption Yet]]></title>
-        <id>https://medium.com/p/357ac11afa1c</id>
-        <link href="https://medium.com/coinmonks/how-prediction-markets-like-polymarket-could-ignite-the-biggest-wave-of-web3-adoption-yet-357ac11afa1c?source=rss----721b17443fd5---4"/>
-        <updated>2026-01-04T06:57:09.000Z</updated>
-        <author>
-            <name>Abdulfattah Kilani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Start a Cryptocurrency Exchange Platform]]></title>
-        <id>https://medium.com/p/1a5dcedc5d00</id>
-        <link href="https://medium.com/coinmonks/how-to-start-crypto-exchange-1a5dcedc5d00?source=rss----721b17443fd5---4"/>
-        <updated>2026-01-04T06:57:05.000Z</updated>
-        <author>
-            <name>mg aaron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Compare And Choose a Remitano Clone Script in 2026?]]></title>
-        <id>https://medium.com/p/5e6942937223</id>
-        <link href="https://medium.com/coinmonks/how-to-compare-and-choose-a-remitano-clone-script-in-2026-5e6942937223?source=rss----721b17443fd5---4"/>
-        <updated>2026-01-04T06:57:02.000Z</updated>
-        <author>
-            <name>Johnfrancis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP Price Outlook 2026: Can Supply Lockups and ETFs Drive the Next Rally?]]></title>
-        <id>https://medium.com/p/e7e18f19792c</id>
-        <link href="https://medium.com/coinmonks/xrp-price-outlook-2026-can-supply-lockups-and-etfs-drive-the-next-rally-e7e18f19792c?source=rss----721b17443fd5---4"/>
-        <updated>2026-01-04T06:57:00.000Z</updated>
-        <author>
-            <name>Caleb Mwenda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gurhan Kiziloz I Am Confused Are You Cross Presaling ZKP and BlockDAG With No Financial or…]]></title>
-        <id>https://medium.com/p/61bbae63f913</id>
-        <link href="https://medium.com/coinmonks/gurhan-kiziloz-i-am-confused-are-you-cross-presaling-zkp-and-blockdag-with-no-financial-or-61bbae63f913?source=rss----721b17443fd5---4"/>
-        <updated>2026-01-04T06:56:58.000Z</updated>
-        <author>
-            <name>Joshua Case</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Static NFTs to Living Art Inside Transient Labs and Juno]]></title>
-        <id>https://medium.com/p/71c8ca52b264</id>
-        <link href="https://medium.com/coinmonks/from-static-nfts-to-living-art-inside-transient-labs-and-juno-71c8ca52b264?source=rss----721b17443fd5---4"/>
-        <updated>2026-01-04T06:54:22.000Z</updated>
-        <author>
-            <name>Iamshivanshsr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Basics — Lottery Smart Contract]]></title>
-        <id>https://medium.com/p/5bd5bf339ff3</id>
-        <link href="https://coinsbench.com/solidity-basics-lottery-smart-contract-5bd5bf339ff3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-03T12:56:43.000Z</updated>
-        <author>
-            <name>The Cyber Sage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Smart Contract Events Work: A Simple Guide with Examples]]></title>
-        <id>https://medium.com/p/22eb79cb3231</id>
-        <link href="https://coinsbench.com/how-smart-contract-events-work-a-simple-guide-with-examples-22eb79cb3231?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-02T08:55:33.000Z</updated>
-        <author>
-            <name>PMartin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Contract ABI Explained: A Beginner-Friendly Guide for Web3 Developers]]></title>
-        <id>https://medium.com/p/dc314e1650a1</id>
-        <link href="https://coinsbench.com/smart-contract-abi-explained-a-beginner-friendly-guide-for-web3-developers-dc314e1650a1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-02T08:55:32.000Z</updated>
-        <author>
-            <name>PMartin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory vs Calldata]]></title>
-        <id>https://medium.com/p/05087583a907</id>
-        <link href="https://coinsbench.com/memory-vs-calldata-05087583a907?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-02T08:55:25.000Z</updated>
-        <author>
-            <name>artclave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Development: A Practical Foundation for Secure and Scalable Blockchain Solutions]]></title>
-        <id>https://medium.com/p/e1f00fe9c355</id>
-        <link href="https://coinsbench.com/solidity-development-a-practical-foundation-for-secure-and-scalable-blockchain-solutions-e1f00fe9c355?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-30T12:23:04.000Z</updated>
-        <author>
-            <name>Benjamin Valor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storage Vs Memory in Solidity]]></title>
-        <id>https://medium.com/p/93bcf8984441</id>
-        <link href="https://coinsbench.com/storage-vs-memory-in-solidity-93bcf8984441?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-30T12:22:53.000Z</updated>
-        <author>
-            <name>The Cyber Sage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethernaut Lessons: Classic Bugs That Still Drain Millions in Real DeFi]]></title>
-        <id>https://medium.com/p/218a49f57308</id>
-        <link href="https://coinsbench.com/ethernaut-lessons-classic-bugs-that-still-drain-millions-in-real-defi-218a49f57308?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-30T12:22:49.000Z</updated>
-        <author>
-            <name>PMartin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Smart Contract Bug Hunter and Get Paid in 2026]]></title>
-        <id>https://medium.com/p/e7c39a825d29</id>
-        <link href="https://coinsbench.com/how-to-become-a-smart-contract-bug-hunter-and-get-paid-in-2026-e7c39a825d29?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-30T12:22:44.000Z</updated>
-        <author>
-            <name>PMartin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mid-Level Smart Contract Interview Questions: Mastering Solidity and Rust for Blockchain Developers]]></title>
-        <id>https://medium.com/p/93967b888701</id>
-        <link href="https://coinsbench.com/mid-level-smart-contract-interview-questions-mastering-solidity-and-rust-for-blockchain-developers-93967b888701?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-30T12:22:37.000Z</updated>
-        <author>
-            <name>PMartin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Using Revert Strings In Token Contracts: How EIP-6093 Fixes Token Errors]]></title>
-        <id>https://medium.com/p/a40aa55a26f8</id>
-        <link href="https://coinsbench.com/stop-using-revert-strings-in-token-contracts-how-eip-6093-fixes-token-errors-a40aa55a26f8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2025-12-30T12:20:54.000Z</updated>
-        <author>
-            <name>Samuel Ndubuisi</name>
         </author>
     </entry>
     <entry>
