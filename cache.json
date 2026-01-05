@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -119,16 +125,6 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/9ab9e32a036c",
-          "author": "Ragunath",
-          "description": "",
-          "link": "https://medium.com/coinmonks/why-is-the-demand-for-polymarket-clone-scripts-growing-in-2026-9ab9e32a036c?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-01-05T14:09:37.000Z",
-          "wordCount": null,
-          "title": "Why is the Demand for Polymarket Clone Scripts Growing in 2026?",
-          "imageUrl": null
-        },
-        {
           "id": "https://medium.com/p/c70aba62119b",
           "author": "Blockchain Ai In",
           "description": "",
@@ -216,6 +212,16 @@
           "publishedOn": "2026-01-05T12:57:48.000Z",
           "wordCount": null,
           "title": "The Top Benefits of Using Cross Dex for Multi-Chain Traders",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4bfdba94b63c",
+          "author": "Mark Timmis",
+          "description": "tl;dr\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-4th-january-2026-tokenisation-crypto-industry-predictions-4bfdba94b63c?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-01-05T12:57:42.000Z",
+          "wordCount": null,
+          "title": "Curious Cryptos’ Commentary 4th January 2026 — Tokenisation & crypto industry predictions",
           "imageUrl": null
         }
       ]
