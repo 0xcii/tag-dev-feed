@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-07T07:23:17.022Z</id>
+    <id>urn:2026-01-07T08:27:46.757Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-07T07:23:17.022Z</updated>
+    <updated>2026-01-07T08:27:46.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Invisible Transaction: Why You Will Never Pay for Gas Again]]></title>
+        <id>https://medium.com/p/297b6455a1b7</id>
+        <link href="https://coinsbench.com/the-invisible-transaction-why-you-will-never-pay-for-gas-again-297b6455a1b7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-07T07:32:23.000Z</updated>
+        <author>
+            <name>Hitcaff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Spiking Neural Networks for Smart Contract Vulnerability Detection]]></title>
+        <id>https://medium.com/p/9fcef0459b9e</id>
+        <link href="https://coinsbench.com/using-spiking-neural-networks-for-smart-contract-vulnerability-detection-9fcef0459b9e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-07T07:32:23.000Z</updated>
+        <author>
+            <name>Radda Yurieva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role of Blockchain Explorers in Cryptocurrency Investigations]]></title>
+        <id>https://medium.com/p/ce0bbc8d4162</id>
+        <link href="https://coinsbench.com/the-role-of-blockchain-explorers-in-cryptocurrency-investigations-ce0bbc8d4162?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-07T07:32:23.000Z</updated>
+        <author>
+            <name>Satyam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python for Blockchain: Smart Contract Development & Interaction]]></title>
+        <id>https://medium.com/p/233007d08767</id>
+        <link href="https://coinsbench.com/python-for-blockchain-smart-contract-development-interaction-233007d08767?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-07T07:32:22.000Z</updated>
+        <author>
+            <name>Majidbasharat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Approaches for Detecting Suspicious Blockchain Transactions]]></title>
+        <id>https://medium.com/p/0927c0308ab0</id>
+        <link href="https://coinsbench.com/machine-learning-approaches-for-detecting-suspicious-blockchain-transactions-0927c0308ab0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-07T07:32:21.000Z</updated>
+        <author>
+            <name>Satyam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a GraphQL API in Go with Custom Scalars]]></title>
+        <id>https://medium.com/p/0b1a1b3e52f9</id>
+        <link href="https://coinsbench.com/building-a-graphql-api-in-go-with-custom-scalars-0b1a1b3e52f9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-07T07:31:52.000Z</updated>
+        <author>
+            <name>Mobin Shaterian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Gas-Efficient Smart Contracts: Optimization Patterns That Actually Matter]]></title>
         <id>https://medium.com/p/00ce91cf0f7d</id>
@@ -140,62 +194,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-01-05T12:09:11.000Z</updated>
         <author>
             <name>Chronos Vault</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gas Optimization in Solidity: 10 Practical Tips for Cheaper Contracts]]></title>
-        <id>https://medium.com/p/be1e1feb4400</id>
-        <link href="https://coinsbench.com/gas-optimization-in-solidity-10-practical-tips-for-cheaper-contracts-be1e1feb4400?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-05T12:08:57.000Z</updated>
-        <author>
-            <name>PMartin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modifiers in Solidity: Clean Code for Access Control and Reusability]]></title>
-        <id>https://medium.com/p/fa5d5c05c5fe</id>
-        <link href="https://coinsbench.com/modifiers-in-solidity-clean-code-for-access-control-and-reusability-fa5d5c05c5fe?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-05T12:08:51.000Z</updated>
-        <author>
-            <name>PMartin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Agentic Economy: Why Your Next Employee Will Be a Wallet Address]]></title>
-        <id>https://medium.com/p/810cbbd0ffbc</id>
-        <link href="https://coinsbench.com/the-agentic-economy-why-your-next-employee-will-be-a-wallet-address-810cbbd0ffbc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-05T12:03:35.000Z</updated>
-        <author>
-            <name>Hitcaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Solidity Data Locations: Storage vs Memory vs Calldata]]></title>
-        <id>https://medium.com/p/069c8591e391</id>
-        <link href="https://coinsbench.com/understanding-solidity-data-locations-storage-vs-memory-vs-calldata-069c8591e391?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-05T12:03:34.000Z</updated>
-        <author>
-            <name>Boniface Oghenekaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Connecting Hardhat to React]]></title>
-        <id>https://medium.com/p/496b82005fd5</id>
-        <link href="https://coinsbench.com/connecting-hardhat-to-react-496b82005fd5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-05T12:03:33.000Z</updated>
-        <summary type="html"><![CDATA[Continuing from Option 2: The Hardhat Workflow (for Developers)
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>gatwirival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Solidity Proxies: Upgradeable Contracts with delegatecall]]></title>
-        <id>https://medium.com/p/6e015ecea779</id>
-        <link href="https://coinsbench.com/understanding-solidity-proxies-upgradeable-contracts-with-delegatecall-6e015ecea779?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-05T12:03:32.000Z</updated>
-        <author>
-            <name>PMartin</name>
         </author>
     </entry>
     <entry>
