@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -287,7 +293,7 @@
         },
         {
           "id": "https://medium.com/p/29089340bc52",
-          "author": "KRaoaniruddh",
+          "author": "raoaniruddh92",
           "description": "",
           "link": "https://blog.blockmagnates.com/introducing-ghostledger-bringing-back-ctf-challenges-that-time-left-behind-29089340bc52?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2025-12-12T10:35:35.000Z",
