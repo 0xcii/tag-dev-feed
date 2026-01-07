@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-06T23:18:39.842Z</id>
+    <id>urn:2026-01-07T01:28:21.260Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-06T23:18:39.842Z</updated>
+    <updated>2026-01-07T01:28:21.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Account Abstraction (ERC-4337)]]></title>
+        <id>https://medium.com/p/f2ce7b71de18</id>
+        <link href="https://coinsbench.com/account-abstraction-erc-4337-f2ce7b71de18?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-06T23:59:33.000Z</updated>
+        <author>
+            <name>Dery K. Yahya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stable coins vs Traditional Currency: What Makes Them So Important in DeFi?]]></title>
         <id>https://medium.com/p/c70aba62119b</id>
@@ -178,17 +187,6 @@ Continue reading on CoinsBench »]]></summary>
         <updated>2026-01-05T12:03:32.000Z</updated>
         <author>
             <name>PMartin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Debugging Series 2: Complex Revert Scenarios]]></title>
-        <id>https://medium.com/p/f0ecbb8f01a2</id>
-        <link href="https://coinsbench.com/ethereum-debugging-series-complex-revert-scenarios-f0ecbb8f01a2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-05T12:03:30.000Z</updated>
-        <summary type="html"><![CDATA[Dive into advanced Ethereum debugging to fix complex revert errors in DeFi and multi-contract smart systems
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Adekola Olawale</name>
         </author>
     </entry>
     <entry>

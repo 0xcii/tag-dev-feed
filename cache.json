@@ -18,6 +18,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/f2ce7b71de18",
+          "author": "Dery K. Yahya",
+          "description": "",
+          "link": "https://coinsbench.com/account-abstraction-erc-4337-f2ce7b71de18?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-01-06T23:59:33.000Z",
+          "wordCount": null,
+          "title": "Account Abstraction (ERC-4337)",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/6412b9b170da",
           "author": "PMartin",
           "description": "",
@@ -105,16 +115,6 @@
           "publishedOn": "2026-01-05T12:03:32.000Z",
           "wordCount": null,
           "title": "Understanding Solidity Proxies: Upgradeable Contracts with delegatecall",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f0ecbb8f01a2",
-          "author": "Adekola Olawale",
-          "description": "Dive into advanced Ethereum debugging to fix complex revert errors in DeFi and multi-contract smart systems\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/ethereum-debugging-series-complex-revert-scenarios-f0ecbb8f01a2?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-01-05T12:03:30.000Z",
-          "wordCount": null,
-          "title": "Ethereum Debugging Series 2: Complex Revert Scenarios",
           "imageUrl": null
         }
       ]
