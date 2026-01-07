@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-07T05:23:33.762Z</id>
+    <id>urn:2026-01-07T06:30:59.215Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-07T05:23:33.762Z</updated>
+    <updated>2026-01-07T06:30:59.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Gas-Efficient Smart Contracts: Optimization Patterns That Actually Matter]]></title>
+        <id>https://medium.com/p/00ce91cf0f7d</id>
+        <link href="https://blog.blockmagnates.com/building-gas-efficient-smart-contracts-optimization-patterns-that-actually-matter-00ce91cf0f7d?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-01-07T06:27:36.000Z</updated>
+        <author>
+            <name>Chain Industries</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Account Abstraction (ERC-4337)]]></title>
         <id>https://medium.com/p/f2ce7b71de18</id>
