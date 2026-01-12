@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-12T14:23:22.475Z</id>
+    <id>urn:2026-01-12T15:22:55.013Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-12T14:23:22.475Z</updated>
+    <updated>2026-01-12T15:22:55.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin in the Long Middle]]></title>
+        <id>https://medium.com/p/7224c66cbdc9</id>
+        <link href="https://medium.com/coinmonks/bitcoin-in-the-long-middle-7224c66cbdc9?source=rss----721b17443fd5---4"/>
+        <updated>2026-01-12T15:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Protocol Gravity, Monetary Expansion, and Why This Phase Always Tests Conviction
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Michael P. Di Fulvio</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What I Wish I Knew About Trading 10 Years Ago]]></title>
         <id>https://medium.com/p/8daa0c95435c</id>
@@ -88,15 +99,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-01-12T13:23:48.000Z</updated>
         <author>
             <name>Siamakcallimisam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Slippage, Price Impact & Gas Optimization on Uniswap]]></title>
-        <id>https://medium.com/p/4e98bc457a40</id>
-        <link href="https://medium.com/coinmonks/understanding-slippage-price-impact-gas-optimization-on-uniswap-4e98bc457a40?source=rss----721b17443fd5---4"/>
-        <updated>2026-01-12T13:23:33.000Z</updated>
-        <author>
-            <name>MintonFin</name>
         </author>
     </entry>
     <entry>
