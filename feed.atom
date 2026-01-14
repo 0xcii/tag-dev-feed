@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-14T15:23:38.918Z</id>
+    <id>urn:2026-01-14T16:28:00.142Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-14T15:23:38.918Z</updated>
+    <updated>2026-01-14T16:28:00.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -102,33 +102,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CTF Challenge Technical Writeup: Reverse Engineer Fallback]]></title>
-        <id>https://medium.com/p/b9b87ac63803</id>
-        <link href="https://blog.blockmagnates.com/ctf-challenge-technical-writeup-reverse-engineer-fallback-b9b87ac63803?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-01-12T07:24:31.000Z</updated>
-        <author>
-            <name>SAHBAAZ ANSARI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pay‑As‑You‑Go Demo: The Private Gallery in Web3]]></title>
-        <id>https://medium.com/p/4dbbee6b35a9</id>
-        <link href="https://blog.blockmagnates.com/pay-as-you-go-demo-the-private-gallery-in-web3-4dbbee6b35a9?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-01-12T07:24:22.000Z</updated>
-        <author>
-            <name>Joseph Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Low-Code Blockchain Deployment Platform]]></title>
-        <id>https://medium.com/p/2b66ba481e45</id>
-        <link href="https://blog.blockmagnates.com/building-a-low-code-blockchain-deployment-platform-2b66ba481e45?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-01-12T07:24:21.000Z</updated>
-        <author>
-            <name>Kowshikkumar  Makireddy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Invisible Transaction: Why You Will Never Pay for Gas Again]]></title>
         <id>https://medium.com/p/297b6455a1b7</id>
         <link href="https://coinsbench.com/the-invisible-transaction-why-you-will-never-pay-for-gas-again-297b6455a1b7?source=rss----f1cfd22cde3e---4"/>
@@ -183,15 +156,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Gas-Efficient Smart Contracts: Optimization Patterns That Actually Matter]]></title>
-        <id>https://medium.com/p/00ce91cf0f7d</id>
-        <link href="https://blog.blockmagnates.com/building-gas-efficient-smart-contracts-optimization-patterns-that-actually-matter-00ce91cf0f7d?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-01-07T06:27:36.000Z</updated>
-        <author>
-            <name>ChainIndustries.co</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Account Abstraction (ERC-4337)]]></title>
         <id>https://medium.com/p/f2ce7b71de18</id>
         <link href="https://coinsbench.com/account-abstraction-erc-4337-f2ce7b71de18?source=rss----f1cfd22cde3e---4"/>
@@ -225,51 +189,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-01-05T12:09:11.000Z</updated>
         <author>
             <name>Chronos Vault</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Considerations for Intent-Based DeFi Architectures: A Smart Contract Auditor’s Perspective]]></title>
-        <id>https://medium.com/p/f3b7de378b9c</id>
-        <link href="https://blog.blockmagnates.com/security-considerations-for-intent-based-defi-architectures-a-smart-contract-auditors-perspective-f3b7de378b9c?source=rss----18fa961f1eff--solidity"/>
-        <updated>2025-12-29T07:49:27.000Z</updated>
-        <author>
-            <name>ChainIndustries.co</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Rental Services on a Pay-As-You-Go Protocol]]></title>
-        <id>https://medium.com/p/93c5203ae409</id>
-        <link href="https://blog.blockmagnates.com/designing-rental-services-on-a-pay-as-you-go-protocol-93c5203ae409?source=rss----18fa961f1eff--solidity"/>
-        <updated>2025-12-24T08:25:27.000Z</updated>
-        <author>
-            <name>Joseph Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trust Wallet: The Sovereign Gateway to Web3, DeFi, and the Multi-Chain Future]]></title>
-        <id>https://medium.com/p/868401435e26</id>
-        <link href="https://blog.blockmagnates.com/trust-wallet-the-sovereign-gateway-to-web3-defi-and-the-multi-chain-future-868401435e26?source=rss----18fa961f1eff--solidity"/>
-        <updated>2025-12-19T11:48:15.000Z</updated>
-        <author>
-            <name>Drraghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a MiCA-Compliant Stablecoin: A Technical Deep Dive for Blockchain Developers]]></title>
-        <id>https://medium.com/p/f1659f0caaeb</id>
-        <link href="https://blog.blockmagnates.com/building-a-mica-compliant-stablecoin-a-technical-deep-dive-for-blockchain-developers-f1659f0caaeb?source=rss----18fa961f1eff--solidity"/>
-        <updated>2025-12-17T05:38:37.000Z</updated>
-        <author>
-            <name>ChainIndustries.co</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bullbit — The AI-Powered Decentralized Perp DEX: A New Era in DeFi Trading]]></title>
-        <id>https://medium.com/p/06a9041a97fb</id>
-        <link href="https://blog.blockmagnates.com/bullbit-the-ai-powered-decentralized-perp-dex-a-new-era-in-defi-trading-06a9041a97fb?source=rss----18fa961f1eff--solidity"/>
-        <updated>2025-12-17T05:38:18.000Z</updated>
-        <author>
-            <name>Drraghavendra</name>
         </author>
     </entry>
 </feed>
