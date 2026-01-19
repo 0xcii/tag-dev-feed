@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-19T07:27:14.685Z</id>
+    <id>urn:2026-01-19T08:30:06.870Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-19T07:27:14.685Z</updated>
+    <updated>2026-01-19T08:30:06.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learning Consensus Algorithms: A Hands-On Comparison with Rust]]></title>
+        <id>https://medium.com/p/a868d08e7afb</id>
+        <link href="https://coinsbench.com/learning-consensus-algorithms-a-hands-on-comparison-with-rust-a868d08e7afb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-19T07:21:19.000Z</updated>
+        <author>
+            <name>Joseph Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgradeable Smart Contracts: Why Contracts Are Immutable (and How to Upgrade Them)]]></title>
+        <id>https://medium.com/p/8136853268fe</id>
+        <link href="https://coinsbench.com/upgradeable-smart-contracts-why-contracts-are-immutable-and-how-to-upgrade-them-8136853268fe?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-19T07:21:18.000Z</updated>
+        <author>
+            <name>Boniface Oghenekaro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layer 2 Blockchain Development: Building Scalable, Cost-Efficient, and High-Speed Blockchain…]]></title>
+        <id>https://medium.com/p/eea70a7d313e</id>
+        <link href="https://coinsbench.com/layer-2-blockchain-development-building-scalable-cost-efficient-and-high-speed-blockchain-eea70a7d313e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-19T07:21:17.000Z</updated>
+        <author>
+            <name>Benjamin Valor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Modern dApp Using .NET in 2025 — A Practical Guide for C# Developers]]></title>
+        <id>https://medium.com/p/7bd4d41f0139</id>
+        <link href="https://coinsbench.com/building-a-modern-dapp-using-net-in-2025-a-practical-guide-for-c-developers-7bd4d41f0139?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-19T07:21:15.000Z</updated>
+        <author>
+            <name>PMartin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a DAO from Scratch with Solidity & Foundry — Part 1]]></title>
+        <id>https://medium.com/p/1d706b12de43</id>
+        <link href="https://coinsbench.com/building-a-dao-from-scratch-with-solidity-foundry-part-1-1d706b12de43?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-19T07:21:07.000Z</updated>
+        <summary type="html"><![CDATA[Designing, deploying, and testing a governance token using OpenZeppelin
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>TechExplorer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chain Analysis Tools and the Fight Against Illicit Finance]]></title>
+        <id>https://medium.com/p/fabd9adb0068</id>
+        <link href="https://coinsbench.com/chain-analysis-tools-and-the-fight-against-illicit-finance-fabd9adb0068?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-19T07:20:59.000Z</updated>
+        <author>
+            <name>Satyam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Truebit Protocol Exploit: How a Silent Overflow Led to a $26M Loss]]></title>
+        <id>https://medium.com/p/ba1774037a3d</id>
+        <link href="https://coinsbench.com/truebit-protocol-exploit-how-a-silent-overflow-led-to-a-26m-loss-ba1774037a3d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-19T07:20:53.000Z</updated>
+        <author>
+            <name>Evgenii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storage References or Memory Copies | Solidity Data Storage]]></title>
+        <id>https://medium.com/p/59e83031ab97</id>
+        <link href="https://coinsbench.com/solidity-data-storage-memory-copies-vs-storage-references-59e83031ab97?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-19T07:20:49.000Z</updated>
+        <author>
+            <name>artclave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gas Costs for SSTORE on Ethereum vs. Layer 2 Rollups (Optimism & Arbitrum)]]></title>
+        <id>https://medium.com/p/c04f84de3f5a</id>
+        <link href="https://coinsbench.com/gas-costs-for-sstore-on-ethereum-vs-layer-2-rollups-optimism-arbitrum-c04f84de3f5a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-19T07:20:36.000Z</updated>
+        <author>
+            <name>Suryansh Shrivastava</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Money Laundering: A Taxonomy of Strategies, Mechanisms, and Countermeasures]]></title>
+        <id>https://medium.com/p/f1347aa439d9</id>
+        <link href="https://coinsbench.com/how-crypto-laundering-really-works-f1347aa439d9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-19T07:20:32.000Z</updated>
+        <author>
+            <name>Ajmal Muhammad</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Money as Infrastructure: The Rise of the First Monetary Protocol]]></title>
         <id>https://medium.com/p/121c13b4c437</id>
@@ -131,102 +223,12 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Invisible Transaction: Why You Will Never Pay for Gas Again]]></title>
-        <id>https://medium.com/p/297b6455a1b7</id>
-        <link href="https://coinsbench.com/the-invisible-transaction-why-you-will-never-pay-for-gas-again-297b6455a1b7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-07T07:32:23.000Z</updated>
-        <author>
-            <name>Hitcaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Spiking Neural Networks for Smart Contract Vulnerability Detection]]></title>
-        <id>https://medium.com/p/9fcef0459b9e</id>
-        <link href="https://coinsbench.com/using-spiking-neural-networks-for-smart-contract-vulnerability-detection-9fcef0459b9e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-07T07:32:23.000Z</updated>
-        <author>
-            <name>Radda Yurieva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Role of Blockchain Explorers in Cryptocurrency Investigations]]></title>
-        <id>https://medium.com/p/ce0bbc8d4162</id>
-        <link href="https://coinsbench.com/the-role-of-blockchain-explorers-in-cryptocurrency-investigations-ce0bbc8d4162?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-07T07:32:23.000Z</updated>
-        <author>
-            <name>Satyam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python for Blockchain: Smart Contract Development & Interaction]]></title>
-        <id>https://medium.com/p/233007d08767</id>
-        <link href="https://coinsbench.com/python-for-blockchain-smart-contract-development-interaction-233007d08767?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-07T07:32:22.000Z</updated>
-        <author>
-            <name>Majidbasharat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Approaches for Detecting Suspicious Blockchain Transactions]]></title>
-        <id>https://medium.com/p/0927c0308ab0</id>
-        <link href="https://coinsbench.com/machine-learning-approaches-for-detecting-suspicious-blockchain-transactions-0927c0308ab0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-07T07:32:21.000Z</updated>
-        <author>
-            <name>Satyam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a GraphQL API in Go with Custom Scalars]]></title>
-        <id>https://medium.com/p/0b1a1b3e52f9</id>
-        <link href="https://coinsbench.com/building-a-graphql-api-in-go-with-custom-scalars-0b1a1b3e52f9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-07T07:31:52.000Z</updated>
-        <author>
-            <name>Mobin Shaterian</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building Gas-Efficient Smart Contracts: Optimization Patterns That Actually Matter]]></title>
         <id>https://medium.com/p/00ce91cf0f7d</id>
         <link href="https://blog.blockmagnates.com/building-gas-efficient-smart-contracts-optimization-patterns-that-actually-matter-00ce91cf0f7d?source=rss----18fa961f1eff--solidity"/>
         <updated>2026-01-07T06:27:36.000Z</updated>
         <author>
             <name>ChainIndustries.co</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Account Abstraction (ERC-4337)]]></title>
-        <id>https://medium.com/p/f2ce7b71de18</id>
-        <link href="https://coinsbench.com/account-abstraction-erc-4337-f2ce7b71de18?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-06T23:59:33.000Z</updated>
-        <author>
-            <name>Dery K. Yahya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libraries in Solidity: Reusable Code Without Inheritance]]></title>
-        <id>https://medium.com/p/6412b9b170da</id>
-        <link href="https://coinsbench.com/libraries-in-solidity-reusable-code-without-inheritance-6412b9b170da?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-05T12:09:59.000Z</updated>
-        <author>
-            <name>PMartin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EIP 1167 — Minimal Proxy Contract]]></title>
-        <id>https://medium.com/p/f595415ce19c</id>
-        <link href="https://coinsbench.com/eip-1167-minimal-proxy-contract-f595415ce19c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-05T12:09:30.000Z</updated>
-        <author>
-            <name>Leo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Crypto Wallet Has a Fatal Flaw That’s Cost the Industry $3 Billion]]></title>
-        <id>https://medium.com/p/403af69e3760</id>
-        <link href="https://coinsbench.com/why-your-crypto-wallet-has-a-fatal-flaw-thats-cost-the-industry-3-billion-403af69e3760?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-05T12:09:11.000Z</updated>
-        <author>
-            <name>Chronos Vault</name>
         </author>
     </entry>
     <entry>
