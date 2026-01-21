@@ -18,6 +18,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/5b1373bf2b90",
+          "author": "Leo",
+          "description": "",
+          "link": "https://coinsbench.com/the-truth-machine-a-deep-dive-into-prediction-markets-5b1373bf2b90?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-01-21T07:23:58.000Z",
+          "wordCount": null,
+          "title": "The “Truth Machine”: A Deep Dive into Prediction Markets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3aa8423122e2",
+          "author": "Chronos Vault",
+          "description": "",
+          "link": "https://coinsbench.com/the-48-hour-safety-net-that-could-save-your-crypto-3aa8423122e2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-01-21T07:23:44.000Z",
+          "wordCount": null,
+          "title": "The 48 Hour Safety Net That Could Save Your Crypto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/46300f433452",
+          "author": "Paul Bark",
+          "description": "",
+          "link": "https://coinsbench.com/the-future-of-blockchain-46300f433452?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-01-21T07:23:41.000Z",
+          "wordCount": null,
+          "title": "The Future of Blockchain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e56da0ed4220",
+          "author": "Evgenii",
+          "description": "",
+          "link": "https://coinsbench.com/no-click-no-run-automatic-malware-execution-hidden-in-a-vscode-project-e56da0ed4220?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-01-21T07:23:39.000Z",
+          "wordCount": null,
+          "title": "No Click, No Run — Automatic Malware Execution Hidden in a VSCode Project",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/a868d08e7afb",
           "author": "Joseph Wang",
           "description": "",
@@ -75,46 +115,6 @@
           "publishedOn": "2026-01-19T07:20:59.000Z",
           "wordCount": null,
           "title": "Chain Analysis Tools and the Fight Against Illicit Finance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ba1774037a3d",
-          "author": "Evgenii",
-          "description": "",
-          "link": "https://coinsbench.com/truebit-protocol-exploit-how-a-silent-overflow-led-to-a-26m-loss-ba1774037a3d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-01-19T07:20:53.000Z",
-          "wordCount": null,
-          "title": "Truebit Protocol Exploit: How a Silent Overflow Led to a $26M Loss",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/59e83031ab97",
-          "author": "artclave",
-          "description": "",
-          "link": "https://coinsbench.com/solidity-data-storage-memory-copies-vs-storage-references-59e83031ab97?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-01-19T07:20:49.000Z",
-          "wordCount": null,
-          "title": "Storage References or Memory Copies | Solidity Data Storage",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c04f84de3f5a",
-          "author": "Suryansh Shrivastava",
-          "description": "",
-          "link": "https://coinsbench.com/gas-costs-for-sstore-on-ethereum-vs-layer-2-rollups-optimism-arbitrum-c04f84de3f5a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-01-19T07:20:36.000Z",
-          "wordCount": null,
-          "title": "Gas Costs for SSTORE on Ethereum vs. Layer 2 Rollups (Optimism & Arbitrum)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f1347aa439d9",
-          "author": "Ajmal Muhammad",
-          "description": "",
-          "link": "https://coinsbench.com/how-crypto-laundering-really-works-f1347aa439d9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-01-19T07:20:32.000Z",
-          "wordCount": null,
-          "title": "Web3 Money Laundering: A Taxonomy of Strategies, Mechanisms, and Countermeasures",
           "imageUrl": null
         }
       ]
@@ -231,6 +231,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/6e74116bb586",
+          "author": "ChainIndustries.co",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/transient-storage-is-here-patterns-and-use-cases-for-eip-1153-6e74116bb586?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2026-01-21T07:03:10.000Z",
+          "wordCount": null,
+          "title": "Transient Storage Is Here: Patterns and Use Cases for EIP-1153",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/b9b87ac63803",
           "author": "SAHBAAZ ANSARI",
