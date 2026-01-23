@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-23T07:23:38.165Z</id>
+    <id>urn:2026-01-23T08:27:43.898Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-23T07:23:38.165Z</updated>
+    <updated>2026-01-23T08:27:43.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From Days to Seconds: Toku and Polygon Revolutionize Global Compensation with Instant, Sub-Cent…]]></title>
+        <id>https://medium.com/p/0e0d909d1204</id>
+        <link href="https://coinsbench.com/from-days-to-seconds-toku-and-polygon-revolutionize-global-compensation-with-instant-sub-cent-0e0d909d1204?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-23T08:15:32.000Z</updated>
+        <author>
+            <name>Drraghavendra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PART 2: Advanced Yul Optimization Techniques and Production Results]]></title>
+        <id>https://medium.com/p/388558022427</id>
+        <link href="https://coinsbench.com/part-2-advanced-yul-optimization-techniques-and-production-results-388558022427?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-23T08:15:28.000Z</updated>
+        <author>
+            <name>ZkMarc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Flashloans to Share Price Inflation: Anatomy of a Curve–Frax–Makina Exploit]]></title>
+        <id>https://medium.com/p/403bc7b90045</id>
+        <link href="https://coinsbench.com/from-flashloans-to-share-price-inflation-anatomy-of-a-curve-frax-makina-exploit-403bc7b90045?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-23T08:15:26.000Z</updated>
+        <author>
+            <name>Evgenii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move vs Solidity: Why Language Choice Determines Security Outcomes]]></title>
+        <id>https://medium.com/p/0fd541a2974e</id>
+        <link href="https://coinsbench.com/move-vs-solidity-why-language-choice-determines-security-outcomes-0fd541a2974e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-23T08:15:22.000Z</updated>
+        <author>
+            <name>Marcellus Nwankwo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PART 1: Why I Built Two Gas-Optimized Vaults on L2s (And What I Learned)]]></title>
+        <id>https://medium.com/p/82863d95c24c</id>
+        <link href="https://coinsbench.com/part-1-why-i-built-two-gas-optimized-vaults-on-l2s-and-what-i-learned-82863d95c24c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-23T08:15:18.000Z</updated>
+        <author>
+            <name>ZkMarc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing a Smart Contract Audit Methodology]]></title>
+        <id>https://medium.com/p/8a29ebe25513</id>
+        <link href="https://coinsbench.com/developing-a-smart-contract-audit-methodology-8a29ebe25513?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-23T08:15:13.000Z</updated>
+        <author>
+            <name>Huw Grano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Smart Contract Auditor’s Mindset: How to Think Like an Attacker]]></title>
+        <id>https://medium.com/p/f7035da6dae8</id>
+        <link href="https://coinsbench.com/the-smart-contract-auditors-mindset-how-to-think-like-an-attacker-f7035da6dae8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-01-23T08:15:10.000Z</updated>
+        <author>
+            <name>Marcellus Nwankwo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 Top Trending Cryptos on CMC on January 22, 2026]]></title>
         <id>https://medium.com/p/83cdd6c462d9</id>
@@ -129,77 +192,12 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 48 Hour Safety Net That Could Save Your Crypto]]></title>
-        <id>https://medium.com/p/3aa8423122e2</id>
-        <link href="https://coinsbench.com/the-48-hour-safety-net-that-could-save-your-crypto-3aa8423122e2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-21T07:23:44.000Z</updated>
-        <author>
-            <name>Chronos Vault</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Blockchain]]></title>
-        <id>https://medium.com/p/46300f433452</id>
-        <link href="https://coinsbench.com/the-future-of-blockchain-46300f433452?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-21T07:23:41.000Z</updated>
-        <author>
-            <name>Paul Bark</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Transient Storage Is Here: Patterns and Use Cases for EIP-1153]]></title>
         <id>https://medium.com/p/6e74116bb586</id>
         <link href="https://blog.blockmagnates.com/transient-storage-is-here-patterns-and-use-cases-for-eip-1153-6e74116bb586?source=rss----18fa961f1eff--solidity"/>
         <updated>2026-01-21T07:03:10.000Z</updated>
         <author>
             <name>ChainIndustries.co</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Consensus Algorithms: A Hands-On Comparison with Rust]]></title>
-        <id>https://medium.com/p/a868d08e7afb</id>
-        <link href="https://coinsbench.com/learning-consensus-algorithms-a-hands-on-comparison-with-rust-a868d08e7afb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-19T07:21:19.000Z</updated>
-        <author>
-            <name>Joseph Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upgradeable Smart Contracts: Why Contracts Are Immutable (and How to Upgrade Them)]]></title>
-        <id>https://medium.com/p/8136853268fe</id>
-        <link href="https://coinsbench.com/upgradeable-smart-contracts-why-contracts-are-immutable-and-how-to-upgrade-them-8136853268fe?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-19T07:21:18.000Z</updated>
-        <author>
-            <name>Boniface Oghenekaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer 2 Blockchain Development: Building Scalable, Cost-Efficient, and High-Speed Blockchain…]]></title>
-        <id>https://medium.com/p/eea70a7d313e</id>
-        <link href="https://coinsbench.com/layer-2-blockchain-development-building-scalable-cost-efficient-and-high-speed-blockchain-eea70a7d313e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-19T07:21:17.000Z</updated>
-        <author>
-            <name>Benjamin Valor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Modern dApp Using .NET in 2025 — A Practical Guide for C# Developers]]></title>
-        <id>https://medium.com/p/7bd4d41f0139</id>
-        <link href="https://coinsbench.com/building-a-modern-dapp-using-net-in-2025-a-practical-guide-for-c-developers-7bd4d41f0139?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-19T07:21:15.000Z</updated>
-        <author>
-            <name>PMartin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a DAO from Scratch with Solidity & Foundry — Part 1]]></title>
-        <id>https://medium.com/p/1d706b12de43</id>
-        <link href="https://coinsbench.com/building-a-dao-from-scratch-with-solidity-foundry-part-1-1d706b12de43?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-19T07:21:07.000Z</updated>
-        <summary type="html"><![CDATA[Designing, deploying, and testing a governance token using OpenZeppelin
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>TechExplorer</name>
         </author>
     </entry>
     <entry>
