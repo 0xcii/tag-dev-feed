@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -119,6 +125,46 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/69bc83a9a6d3",
+          "author": "Ribhavmodi",
+          "description": "",
+          "link": "https://medium.com/coinmonks/the-graph-how-blockchain-apps-query-data-without-running-nodes-69bc83a9a6d3?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-01-30T13:34:47.000Z",
+          "wordCount": null,
+          "title": "The Graph: How Blockchain Apps Query Data Without Running Nodes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/18a627bbfb15",
+          "author": "Lalit kumar",
+          "description": "",
+          "link": "https://medium.com/coinmonks/crypto-payments-go-mainstream-4-in-10-u-s-merchants-now-accept-digital-assets-18a627bbfb15?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-01-30T13:34:46.000Z",
+          "wordCount": null,
+          "title": "Crypto Payments Go Mainstream: 4 in 10 U.S. Merchants Now Accept Digital Assets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/aed915965163",
+          "author": "Azalea West",
+          "description": "",
+          "link": "https://medium.com/coinmonks/could-ethereum-really-reach-9-000-by-2026-aed915965163?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-01-30T13:34:27.000Z",
+          "wordCount": null,
+          "title": "Could Ethereum Really Reach $9,000 by 2026?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7b68e121e598",
+          "author": "Kevin Meneses González",
+          "description": "",
+          "link": "https://medium.com/coinmonks/how-mcps-are-transforming-financial-apis-why-fmp-is-the-best-financial-api-in-2026-7b68e121e598?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-01-30T13:34:13.000Z",
+          "wordCount": null,
+          "title": "How MCPs Are Transforming Financial APIs — Why FMP Is the Best Financial API in 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/40bc8f5b9990",
           "author": "NordFX",
           "description": "",
@@ -176,46 +222,6 @@
           "publishedOn": "2026-01-30T12:22:37.000Z",
           "wordCount": null,
           "title": "Why Everyone Hating Bitcoin Again Is Actually a Bullish Signal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3f100fb04af6",
-          "author": "BlockchainWhizCrypto",
-          "description": "",
-          "link": "https://medium.com/coinmonks/token2049-insights-why-crypto-wallets-are-becoming-the-backbone-of-web3-3f100fb04af6?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-01-30T12:22:25.000Z",
-          "wordCount": null,
-          "title": "TOKEN2049 Insights: Why Crypto Wallets Are Becoming the Backbone of Web3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1067105b85e8",
-          "author": "YAROCELIS.eth - Tech Trends",
-          "description": "",
-          "link": "https://medium.com/coinmonks/the-next-ai-era-is-here-and-it-requires-living-in-the-real-world-1067105b85e8?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-01-30T12:22:22.000Z",
-          "wordCount": null,
-          "title": "The next AI era is here, and it requires living in the real world.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c8f16f160921",
-          "author": "Jay Jackson",
-          "description": "Most traders don’t fail because their strategy is bad.\nThey fail because they are human.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/5-psychology-pitfalls-all-traders-hit-and-how-to-outsmart-them-c8f16f160921?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-01-30T12:21:57.000Z",
-          "wordCount": null,
-          "title": "5 Psychology Pitfalls All Traders Hit (And How to Outsmart Them)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b52834e92162",
-          "author": "NordFX",
-          "description": "",
-          "link": "https://medium.com/coinmonks/morning-update-friday-january-30-b52834e92162?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-01-30T12:21:49.000Z",
-          "wordCount": null,
-          "title": "Morning Update | Friday, January 30",
           "imageUrl": null
         }
       ]
