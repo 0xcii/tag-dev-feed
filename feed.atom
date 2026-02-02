@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-02T06:01:36.233Z</id>
+    <id>urn:2026-02-02T07:47:53.343Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-02T06:01:36.233Z</updated>
+    <updated>2026-02-02T07:47:53.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Architecture of Anonymity: Investigating Privacy Coins in Criminal Activities]]></title>
+        <id>https://medium.com/p/f64757401397</id>
+        <link href="https://coinsbench.com/the-architecture-of-anonymity-investigating-privacy-coins-in-criminal-activities-f64757401397?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-02T07:32:58.000Z</updated>
+        <author>
+            <name>Satyam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to Asset Tokenization]]></title>
+        <id>https://medium.com/p/f0782e682056</id>
+        <link href="https://coinsbench.com/an-introduction-to-asset-tokenization-f0782e682056?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-02T07:32:57.000Z</updated>
+        <author>
+            <name>Gaya Chandrasekaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing a production-ready EVM indexer SDK in Go: architecture & design.]]></title>
+        <id>https://medium.com/p/24c9fe5344e0</id>
+        <link href="https://coinsbench.com/designing-a-production-ready-evm-indexer-sdk-in-go-architecture-design-24c9fe5344e0?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-02T07:32:36.000Z</updated>
+        <author>
+            <name>Bryan Hirawan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Compilation on NFTs]]></title>
+        <id>https://medium.com/p/d9b0f55689e6</id>
+        <link href="https://coinsbench.com/a-compilation-on-nfts-d9b0f55689e6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-02T07:32:32.000Z</updated>
+        <author>
+            <name>Gaya Chandrasekaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain and Smart Contracts in Asset Tokenisation]]></title>
+        <id>https://medium.com/p/953cbe4ef917</id>
+        <link href="https://coinsbench.com/blockchain-and-smart-contracts-in-asset-tokenisation-953cbe4ef917?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-02T07:32:26.000Z</updated>
+        <author>
+            <name>Gaya Chandrasekaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to find blockchain courses that cover smart contracts?]]></title>
+        <id>https://medium.com/p/94af9d0abb3b</id>
+        <link href="https://coinsbench.com/how-to-find-blockchain-courses-that-cover-smart-contracts-94af9d0abb3b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-02T07:32:21.000Z</updated>
+        <author>
+            <name>101 BlockChains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Immutable Witness: How Blockchain Identity Systems are Rewriting the Rules on Financial Crime]]></title>
+        <id>https://medium.com/p/d5969a041989</id>
+        <link href="https://coinsbench.com/the-immutable-witness-how-blockchain-identity-systems-are-rewriting-the-rules-on-financial-crime-d5969a041989?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-02T07:32:14.000Z</updated>
+        <author>
+            <name>Satyam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onchain Automation Without Oracles]]></title>
+        <id>https://medium.com/p/e7e717d4e58e</id>
+        <link href="https://coinsbench.com/onchain-automation-without-oracles-e7e717d4e58e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-02T07:31:12.000Z</updated>
+        <author>
+            <name>0xFGH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Account State: A Minimal Token with Reconstructible State]]></title>
+        <id>https://medium.com/p/bc3e3c738a08</id>
+        <link href="https://blog.blockmagnates.com/ethereum-account-state-a-minimal-token-with-reconstructible-state-bc3e3c738a08?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-02-02T07:14:12.000Z</updated>
+        <author>
+            <name>Joseph Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin’s Moment: Why Crypto Investors Should Watch Gold’s Rally Closely]]></title>
         <id>https://medium.com/p/087653faa28c</id>
@@ -128,78 +209,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-01-26T06:27:52.000Z</updated>
         <author>
             <name>Drraghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIRR and AIRR Waves, Redefining Music Discovery Through Listen to Earn in Web3]]></title>
-        <id>https://medium.com/p/efd00772b0e2</id>
-        <link href="https://coinsbench.com/airr-and-airr-waves-redefining-music-discovery-through-listen-to-earn-in-web3-efd00772b0e2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-26T06:27:18.000Z</updated>
-        <author>
-            <name>Barsil Nzola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating ZK-Proofs and Privacy in Solidity Smart Contracts]]></title>
-        <id>https://medium.com/p/89113c70cfc1</id>
-        <link href="https://coinsbench.com/integrating-zk-proofs-and-privacy-in-solidity-smart-contracts-89113c70cfc1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-26T06:27:11.000Z</updated>
-        <author>
-            <name>PMartin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Days to Seconds: Toku and Polygon Revolutionize Global Compensation with Instant, Sub-Cent…]]></title>
-        <id>https://medium.com/p/0e0d909d1204</id>
-        <link href="https://coinsbench.com/from-days-to-seconds-toku-and-polygon-revolutionize-global-compensation-with-instant-sub-cent-0e0d909d1204?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-23T08:15:32.000Z</updated>
-        <author>
-            <name>Drraghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PART 2: Advanced Yul Optimization Techniques and Production Results]]></title>
-        <id>https://medium.com/p/388558022427</id>
-        <link href="https://coinsbench.com/part-2-advanced-yul-optimization-techniques-and-production-results-388558022427?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-23T08:15:28.000Z</updated>
-        <author>
-            <name>ZkMarc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Flashloans to Share Price Inflation: Anatomy of a Curve–Frax–Makina Exploit]]></title>
-        <id>https://medium.com/p/403bc7b90045</id>
-        <link href="https://coinsbench.com/from-flashloans-to-share-price-inflation-anatomy-of-a-curve-frax-makina-exploit-403bc7b90045?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-23T08:15:26.000Z</updated>
-        <author>
-            <name>Evgenii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Move vs Solidity: Why Language Choice Determines Security Outcomes]]></title>
-        <id>https://medium.com/p/0fd541a2974e</id>
-        <link href="https://coinsbench.com/move-vs-solidity-why-language-choice-determines-security-outcomes-0fd541a2974e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-23T08:15:22.000Z</updated>
-        <author>
-            <name>Marcellus Nwankwo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PART 1: Why I Built Two Gas-Optimized Vaults on L2s (And What I Learned)]]></title>
-        <id>https://medium.com/p/82863d95c24c</id>
-        <link href="https://coinsbench.com/part-1-why-i-built-two-gas-optimized-vaults-on-l2s-and-what-i-learned-82863d95c24c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-23T08:15:18.000Z</updated>
-        <author>
-            <name>ZkMarc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developing a Smart Contract Audit Methodology]]></title>
-        <id>https://medium.com/p/8a29ebe25513</id>
-        <link href="https://coinsbench.com/developing-a-smart-contract-audit-methodology-8a29ebe25513?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-01-23T08:15:13.000Z</updated>
-        <author>
-            <name>Huw Grano</name>
         </author>
     </entry>
     <entry>
