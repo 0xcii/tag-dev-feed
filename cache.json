@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -119,6 +125,56 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/0132797bca99",
+          "author": "Imran Kabir",
+          "description": "Because no tutorial teaches you what production failure feels like\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/top-10-backend-lessons-you-only-learn-after-things-break-0132797bca99?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-09T13:16:28.000Z",
+          "wordCount": null,
+          "title": "Top 10 Backend Lessons You Only Learn After Things Break",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c34fbdda0015",
+          "author": "Samanrosh",
+          "description": "",
+          "link": "https://medium.com/coinmonks/how-real-world-assets-are-becoming-investable-through-tokenization-c34fbdda0015?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-09T13:09:00.000Z",
+          "wordCount": null,
+          "title": "How Real World Assets Are Becoming Investable Through Tokenization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f5d28feed6ad",
+          "author": "Vlad Anderson",
+          "description": "",
+          "link": "https://medium.com/coinmonks/from-zero-followers-to-millions-of-coinmarketcap-views-my-crypto-journey-f5d28feed6ad?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-09T13:08:45.000Z",
+          "wordCount": null,
+          "title": "From Zero Followers to Millions of CoinMarketCap Views: My Crypto Journey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/05d8959a6ab7",
+          "author": "Johnsnow",
+          "description": "",
+          "link": "https://medium.com/coinmonks/arbitrage-bots-dominate-polymarket-with-millions-in-profits-as-humans-fall-behind-05d8959a6ab7?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-09T13:08:39.000Z",
+          "wordCount": null,
+          "title": "Arbitrage Bots Dominate Polymarket With Millions in Profits as Humans Fall Behind",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dc3c6571bd36",
+          "author": "Jawad Hussain",
+          "description": "",
+          "link": "https://medium.com/coinmonks/whats-the-next-frontier-for-humans-after-crypto-and-blockchain-dc3c6571bd36?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-09T13:07:27.000Z",
+          "wordCount": null,
+          "title": "What’s the Next Frontier for Humans After Crypto and Blockchain?",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/e8018afae7c1",
           "author": "NordFX",
           "description": "",
@@ -166,56 +222,6 @@
           "publishedOn": "2026-02-09T11:39:29.000Z",
           "wordCount": null,
           "title": "Deep Work: The Quiet Skill That Actually Changes Your Life",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9bf09a2ce820",
-          "author": "Ria",
-          "description": "",
-          "link": "https://medium.com/coinmonks/real-money-gaming-platforms-are-exploding-in-2026-heres-how-startups-are-building-profitable-9bf09a2ce820?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T11:39:27.000Z",
-          "wordCount": null,
-          "title": "Real-Money Gaming Platforms Are Exploding in 2026 — Here’s How Startups Are Building Profitable…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9d690881515c",
-          "author": "maya jamison",
-          "description": "",
-          "link": "https://medium.com/coinmonks/why-are-startups-choosing-a-kalshi-clone-script-to-enter-event-based-trading-9d690881515c?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T11:39:25.000Z",
-          "wordCount": null,
-          "title": "Why Are Startups Choosing a Kalshi Clone Script to Enter Event-Based Trading?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e70050dbcca2",
-          "author": "MintonFin",
-          "description": "",
-          "link": "https://medium.com/coinmonks/privacy-coins-explained-are-they-actually-anonymous-e70050dbcca2?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T08:32:20.000Z",
-          "wordCount": null,
-          "title": "Privacy Coins Explained: Are They Actually Anonymous?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/db8a5204f2ff",
-          "author": "Ave AI",
-          "description": "",
-          "link": "https://medium.com/coinmonks/solanas-2-000-dream-what-it-really-means-for-crypto-traders-in-a-meme-driven-market-db8a5204f2ff?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T08:27:08.000Z",
-          "wordCount": null,
-          "title": "Solana’s $2,000 Dream: What It Really Means for Crypto Traders in a Meme‑Driven Market",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2d8a639263b4",
-          "author": "MintonFin",
-          "description": "",
-          "link": "https://medium.com/coinmonks/what-is-exit-liquidity-in-crypto-how-retail-investors-get-trapped-2d8a639263b4?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T08:27:07.000Z",
-          "wordCount": null,
-          "title": "What Is Exit Liquidity in Crypto? (How Retail Investors Get Trapped)",
           "imageUrl": null
         }
       ]
