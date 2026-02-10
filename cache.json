@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -12,6 +18,96 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/f37a96a400be",
+          "author": "Allen C. Zhang",
+          "description": "",
+          "link": "https://coinsbench.com/ethereum-isnt-killing-l2s-it-needs-them-more-than-ever-f37a96a400be?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-10T07:04:39.000Z",
+          "wordCount": null,
+          "title": "Ethereum Isn’t “Killing” L2s — It Needs Them More Than Ever",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0f13b456aa70",
+          "author": "Joseph Wang",
+          "description": "",
+          "link": "https://coinsbench.com/metering-chain-phase-3-capability-driven-delegation-0f13b456aa70?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-10T07:04:37.000Z",
+          "wordCount": null,
+          "title": "Metering Chain Phase 3: Capability-Driven Delegation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d33dcc2603d2",
+          "author": "Alejandro Steiner",
+          "description": "",
+          "link": "https://coinsbench.com/why-gas-monitoring-matters-more-than-you-think-in-ethereum-backends-d33dcc2603d2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-10T07:04:29.000Z",
+          "wordCount": null,
+          "title": "Why Gas Monitoring Matters More Than You Think in Ethereum Backends",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9661b270a415",
+          "author": "Alejandro Steiner",
+          "description": "",
+          "link": "https://coinsbench.com/deploying-smart-contracts-shouldnt-be-this-hard-9661b270a415?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-10T07:04:24.000Z",
+          "wordCount": null,
+          "title": "Deploying Smart Contracts Shouldn’t Be This Hard",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/907d48219088",
+          "author": "Bethel Nnadi",
+          "description": "",
+          "link": "https://coinsbench.com/understanding-ethereum-and-its-core-primitives-907d48219088?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-10T07:04:21.000Z",
+          "wordCount": null,
+          "title": "Understanding Ethereum And It’s Core Primitives",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fe2c643747f0",
+          "author": "ZkMarc",
+          "description": "",
+          "link": "https://coinsbench.com/stablecoins-processed-9-trillion-in-2025-heres-why-that-number-matters-more-than-bitcoin-s-price-fe2c643747f0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-10T07:04:17.000Z",
+          "wordCount": null,
+          "title": "Stablecoins Processed $9 Trillion in 2025. Here’s Why That Number Matters More Than Bitcoin’s Price",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/550be727272f",
+          "author": "artofblockchain.club",
+          "description": "",
+          "link": "https://coinsbench.com/web3-jobs-that-are-actually-hiring-what-24-curated-roles-revealed-in-3-weeks-550be727272f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-10T07:03:51.000Z",
+          "wordCount": null,
+          "title": "Web3 Jobs That Are Actually Hiring (What 24 Curated Roles Revealed in 3 Weeks)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/eff99ebb2a83",
+          "author": "Joseph Wang",
+          "description": "",
+          "link": "https://coinsbench.com/metering-chain-phase-2-deterministic-authorization-for-multi-operator-depin-eff99ebb2a83?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-10T07:03:49.000Z",
+          "wordCount": null,
+          "title": "Metering Chain Phase 2: Deterministic Authorization for Multi-Operator DePIN",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c47cbd854d7c",
+          "author": "0xFGH",
+          "description": "",
+          "link": "https://coinsbench.com/soliditys-memory-safety-guards-c47cbd854d7c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-10T07:03:46.000Z",
+          "wordCount": null,
+          "title": "Solidity’s Memory Safety Guards",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/c1d2f4a3efd4",
           "author": "ZkMarc",
           "description": "",
@@ -19,96 +115,6 @@
           "publishedOn": "2026-02-09T07:01:46.000Z",
           "wordCount": null,
           "title": "Ethereum’s Rollup Strategy Is Dead. Vitalik Just Said the Quiet Part Out Loud.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/08a674c87b5d",
-          "author": "Boniface Oghenekaro",
-          "description": "",
-          "link": "https://coinsbench.com/ethereum-scaling-data-availability-explained-simply-from-the-ground-up-writes-by-karo-08a674c87b5d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-09T07:01:43.000Z",
-          "wordCount": null,
-          "title": "Ethereum Scaling & Data Availability — Explained Simply From the Ground Up (Writes by Karo)…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d3cf13b087c5",
-          "author": "Atiya Kazi",
-          "description": "",
-          "link": "https://coinsbench.com/deploying-smart-contracts-on-ethereum-sepolia-test-network-using-truffle-and-alchemy-d3cf13b087c5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-09T07:01:28.000Z",
-          "wordCount": null,
-          "title": "Deploying Smart Contracts on Ethereum Sepolia Test Network using Truffle and Alchemy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a637a59df46c",
-          "author": "Vanessa Ndikom",
-          "description": "",
-          "link": "https://coinsbench.com/why-bitsave-protocol-uses-parent-child-smart-contracts-a637a59df46c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-09T07:01:23.000Z",
-          "wordCount": null,
-          "title": "Why BitSave Protocol Uses Parent–Child Smart Contracts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9d2f7c84d632",
-          "author": "Ribhavmodi",
-          "description": "",
-          "link": "https://coinsbench.com/zero-knowledge-proofs-powering-web3-privacy-and-trust-9d2f7c84d632?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-04T11:14:55.000Z",
-          "wordCount": null,
-          "title": "Zero-Knowledge Proofs: Powering Web3 Privacy and Trust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f64757401397",
-          "author": "Satyam",
-          "description": "",
-          "link": "https://coinsbench.com/the-architecture-of-anonymity-investigating-privacy-coins-in-criminal-activities-f64757401397?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-02T07:32:58.000Z",
-          "wordCount": null,
-          "title": "The Architecture of Anonymity: Investigating Privacy Coins in Criminal Activities",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f0782e682056",
-          "author": "Gaya Chandrasekaran",
-          "description": "",
-          "link": "https://coinsbench.com/an-introduction-to-asset-tokenization-f0782e682056?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-02T07:32:57.000Z",
-          "wordCount": null,
-          "title": "An Introduction to Asset Tokenization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/24c9fe5344e0",
-          "author": "Bryan Hirawan",
-          "description": "",
-          "link": "https://coinsbench.com/designing-a-production-ready-evm-indexer-sdk-in-go-architecture-design-24c9fe5344e0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-02T07:32:36.000Z",
-          "wordCount": null,
-          "title": "Designing a production-ready EVM indexer SDK in Go: architecture & design.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d9b0f55689e6",
-          "author": "Gaya Chandrasekaran",
-          "description": "",
-          "link": "https://coinsbench.com/a-compilation-on-nfts-d9b0f55689e6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-02T07:32:32.000Z",
-          "wordCount": null,
-          "title": "A Compilation on NFTs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/953cbe4ef917",
-          "author": "Gaya Chandrasekaran",
-          "description": "",
-          "link": "https://coinsbench.com/blockchain-and-smart-contracts-in-asset-tokenisation-953cbe4ef917?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-02T07:32:26.000Z",
-          "wordCount": null,
-          "title": "Blockchain and Smart Contracts in Asset Tokenisation",
           "imageUrl": null
         }
       ]
@@ -119,103 +125,103 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/b33291bf3830",
-          "author": "MintonFin",
+          "id": "https://medium.com/p/9c5ea74ee256",
+          "author": "Abhinav Jain",
+          "description": "Dear Team,\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/a-letter-to-my-trading-technology-team-on-building-what-actually-matters-9c5ea74ee256?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-10T07:45:40.000Z",
+          "wordCount": null,
+          "title": "A letter to my Trading Technology Team: On building what actually matters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/75999d571a22",
+          "author": "Blend Visions",
+          "description": "🛑🛑🛑🛑Free read for Non-Medium members\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/bitcoins-black-swan-crash-is-this-the-buying-opportunity-of-a-lifetime-75999d571a22?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-10T07:45:34.000Z",
+          "wordCount": null,
+          "title": "Bitcoin’s Black Swan Crash: Is This the Buying Opportunity of a Lifetime?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/32d2eb0ba87f",
+          "author": "The Swop",
           "description": "",
-          "link": "https://medium.com/coinmonks/7-crypto-narratives-quietly-reshaping-markets-in-2026-b33291bf3830?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T15:57:38.000Z",
+          "link": "https://medium.com/coinmonks/last-week-in-crypto-bitcoin-ethereum-solana-internet-computer-32d2eb0ba87f?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-10T07:45:32.000Z",
           "wordCount": null,
-          "title": "7 Crypto Narratives Quietly Reshaping Markets in 2026",
+          "title": "Last Week in Crypto: Bitcoin, Ethereum, Solana, Internet Computer",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/449840031304",
-          "author": "Gwen Adele",
+          "id": "https://medium.com/p/37e9852f6a68",
+          "author": "Mark Timmis",
+          "description": "tl;dr\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-10th-february-2026-leverage-boo-ft-boo-japan-hurrah-37e9852f6a68?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-10T07:45:29.000Z",
+          "wordCount": null,
+          "title": "Curious Cryptos’ Commentary 10th February 2026 > > Leverage (boo!), FT (boo!), Japan (hurrah!)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/920a5a9c28e1",
+          "author": "HOT Labs",
           "description": "",
-          "link": "https://medium.com/coinmonks/silver-tokenization-platform-development-449840031304?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T15:47:02.000Z",
+          "link": "https://medium.com/coinmonks/how-to-revoke-token-approvals-in-2026-protect-your-crypto-before-its-too-late-920a5a9c28e1?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-10T07:44:59.000Z",
           "wordCount": null,
-          "title": "How to Tokenize Silver — Transforming the Silver Potential into Digital Assets",
+          "title": "How to Revoke Token Approvals in 2026 — Protect Your Crypto Before It’s Too Late",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/0132797bca99",
-          "author": "Imran Kabir",
-          "description": "Because no tutorial teaches you what production failure feels like\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/top-10-backend-lessons-you-only-learn-after-things-break-0132797bca99?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T13:16:28.000Z",
-          "wordCount": null,
-          "title": "Top 10 Backend Lessons You Only Learn After Things Break",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c34fbdda0015",
-          "author": "Samanrosh",
+          "id": "https://medium.com/p/517ac34c46ad",
+          "author": "SourceLess",
           "description": "",
-          "link": "https://medium.com/coinmonks/how-real-world-assets-are-becoming-investable-through-tokenization-c34fbdda0015?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T13:09:00.000Z",
+          "link": "https://medium.com/coinmonks/the-intelligence-we-rent-517ac34c46ad?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-10T07:44:59.000Z",
           "wordCount": null,
-          "title": "How Real World Assets Are Becoming Investable Through Tokenization",
+          "title": "The Intelligence We Rent",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/f5d28feed6ad",
-          "author": "Vlad Anderson",
+          "id": "https://medium.com/p/c738203a6fe9",
+          "author": "Profitable Investing Tips",
           "description": "",
-          "link": "https://medium.com/coinmonks/from-zero-followers-to-millions-of-coinmarketcap-views-my-crypto-journey-f5d28feed6ad?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T13:08:45.000Z",
+          "link": "https://medium.com/coinmonks/why-the-bitcoin-boom-is-not-another-tulip-mania-c738203a6fe9?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-10T07:44:46.000Z",
           "wordCount": null,
-          "title": "From Zero Followers to Millions of CoinMarketCap Views: My Crypto Journey",
+          "title": "Why the Bitcoin Boom Is Not Another Tulip Mania",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/05d8959a6ab7",
-          "author": "Johnsnow",
-          "description": "",
-          "link": "https://medium.com/coinmonks/arbitrage-bots-dominate-polymarket-with-millions-in-profits-as-humans-fall-behind-05d8959a6ab7?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T13:08:39.000Z",
-          "wordCount": null,
-          "title": "Arbitrage Bots Dominate Polymarket With Millions in Profits as Humans Fall Behind",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/dc3c6571bd36",
-          "author": "Jawad Hussain",
-          "description": "",
-          "link": "https://medium.com/coinmonks/whats-the-next-frontier-for-humans-after-crypto-and-blockchain-dc3c6571bd36?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T13:07:27.000Z",
-          "wordCount": null,
-          "title": "What’s the Next Frontier for Humans After Crypto and Blockchain?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e8018afae7c1",
+          "id": "https://medium.com/p/493b4df859b6",
           "author": "NordFX",
           "description": "",
-          "link": "https://medium.com/coinmonks/usd-eur-and-yield-expectations-in-mid-q1-2026-e8018afae7c1?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T11:46:48.000Z",
+          "link": "https://medium.com/coinmonks/morning-update-10-february-2026-tue-493b4df859b6?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-10T07:44:39.000Z",
           "wordCount": null,
-          "title": "USD, EUR and Yield Expectations in Mid-Q1 2026",
+          "title": "Morning Update - 10 February 2026 (Tue)",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/14779acbf8e7",
-          "author": "Karthick Prabhu",
-          "description": "",
-          "link": "https://medium.com/coinmonks/binance-clone-vs-custom-crypto-exchange-which-saves-you-cost-and-time-14779acbf8e7?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T11:39:38.000Z",
+          "id": "https://medium.com/p/ecb160f4b1e7",
+          "author": "Blend Visions",
+          "description": "🛑🛑🛑🛑Free read for Non-Medium members\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/why-cryptos-endgame-is-closer-than-you-think-a-market-reality-check-ecb160f4b1e7?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-10T07:44:14.000Z",
           "wordCount": null,
-          "title": "Binance Clone vs Custom Crypto Exchange: Which Saves You Cost and Time?",
+          "title": "Why Crypto’s Endgame Is Closer Than You Think: A Market Reality Check",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/c7f5004ecbb6",
-          "author": "Er Nabal Kishore Pande",
+          "id": "https://medium.com/p/473d51166968",
+          "author": "John Wick",
           "description": "",
-          "link": "https://medium.com/coinmonks/why-most-english-beginners-stay-stuck-and-what-actually-works-at-a1-a2-c7f5004ecbb6?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-02-09T11:39:35.000Z",
+          "link": "https://medium.com/coinmonks/top-5-dream11-clone-app-development-companies-to-choose-for-your-fantasy-sports-app-473d51166968?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-02-10T07:44:02.000Z",
           "wordCount": null,
-          "title": "Why Most English Beginners Stay Stuck — and What Actually Works at A1–A2",
+          "title": "Top 5 Dream11 Clone App Development Companies to Choose for Your Fantasy Sports App",
           "imageUrl": null
         }
       ]
@@ -225,6 +231,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/b1a344d6f1ab",
+          "author": "HackerDemy",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/building-a-5m-machine-inside-our-production-ready-web3-bug-bounty-stack-b1a344d6f1ab?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2026-02-10T07:06:04.000Z",
+          "wordCount": null,
+          "title": "Building a $5M Machine: Inside Our Production-Ready Web3 Bug Bounty Stack",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/beab2b71a297",
           "author": "Leo",
