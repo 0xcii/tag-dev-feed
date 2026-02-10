@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -279,36 +273,6 @@
           "publishedOn": "2026-01-21T07:03:10.000Z",
           "wordCount": null,
           "title": "Transient Storage Is Here: Patterns and Use Cases for EIP-1153",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b9b87ac63803",
-          "author": "SAHBAAZ ANSARI",
-          "description": "",
-          "link": "https://blog.blockmagnates.com/ctf-challenge-technical-writeup-reverse-engineer-fallback-b9b87ac63803?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2026-01-12T07:24:31.000Z",
-          "wordCount": null,
-          "title": "CTF Challenge Technical Writeup: Reverse Engineer Fallback",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4dbbee6b35a9",
-          "author": "Joseph Wang",
-          "description": "",
-          "link": "https://blog.blockmagnates.com/pay-as-you-go-demo-the-private-gallery-in-web3-4dbbee6b35a9?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2026-01-12T07:24:22.000Z",
-          "wordCount": null,
-          "title": "Pay‑As‑You‑Go Demo: The Private Gallery in Web3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2b66ba481e45",
-          "author": "Kowshikkumar  Makireddy",
-          "description": "",
-          "link": "https://blog.blockmagnates.com/building-a-low-code-blockchain-deployment-platform-2b66ba481e45?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2026-01-12T07:24:21.000Z",
-          "wordCount": null,
-          "title": "Building a Low-Code Blockchain Deployment Platform",
           "imageUrl": null
         }
       ]
