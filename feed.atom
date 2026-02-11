@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-11T06:58:49.592Z</id>
+    <id>urn:2026-02-11T07:57:50.208Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-11T06:58:49.592Z</updated>
+    <updated>2026-02-11T07:57:50.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tracing Ethereum Transactions Without Running Your Own Node]]></title>
+        <id>https://medium.com/p/3b51c3b49770</id>
+        <link href="https://coinsbench.com/tracing-ethereum-transactions-without-running-your-own-node-3b51c3b49770?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-11T07:18:00.000Z</updated>
+        <author>
+            <name>Alejandro Steiner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Portfolio Projects That Actually Get Interviews (Not Tutorial Clones)]]></title>
+        <id>https://medium.com/p/9cd0a551597c</id>
+        <link href="https://coinsbench.com/web3-portfolio-projects-that-actually-get-interviews-not-tutorial-clones-9cd0a551597c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-11T07:17:58.000Z</updated>
+        <author>
+            <name>artofblockchain.club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum’s Evolution: How Strategic Upgrades Have Cemented Its Position as the Leading Smart…]]></title>
+        <id>https://medium.com/p/8212c6df5ad7</id>
+        <link href="https://coinsbench.com/ethereums-evolution-how-strategic-upgrades-have-cemented-its-position-as-the-leading-smart-8212c6df5ad7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-11T07:17:56.000Z</updated>
+        <author>
+            <name>Bethel Nnadi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding EIP-4626 (ERC-4626): Tokenized Vaults in Ethereum]]></title>
+        <id>https://medium.com/p/bee523698f4f</id>
+        <link href="https://coinsbench.com/understanding-eip-4626-erc-4626-tokenized-vaults-in-ethereum-bee523698f4f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-11T07:17:51.000Z</updated>
+        <author>
+            <name>Bethel Nnadi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could Your Next Contract Be An NFT?]]></title>
+        <id>https://medium.com/p/cceb32c59e7d</id>
+        <link href="https://coinsbench.com/could-your-next-contract-be-an-nft-cceb32c59e7d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-11T07:17:46.000Z</updated>
+        <author>
+            <name>Melaine Chan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Database Mistakes PHP Teams Still Make in 2026]]></title>
         <id>https://medium.com/p/5a2cc1426c3d</id>
@@ -155,51 +200,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-02-10T07:04:21.000Z</updated>
         <author>
             <name>Bethel Nnadi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoins Processed $9 Trillion in 2025. Here’s Why That Number Matters More Than Bitcoin’s Price]]></title>
-        <id>https://medium.com/p/fe2c643747f0</id>
-        <link href="https://coinsbench.com/stablecoins-processed-9-trillion-in-2025-heres-why-that-number-matters-more-than-bitcoin-s-price-fe2c643747f0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-10T07:04:17.000Z</updated>
-        <author>
-            <name>ZkMarc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Jobs That Are Actually Hiring (What 24 Curated Roles Revealed in 3 Weeks)]]></title>
-        <id>https://medium.com/p/550be727272f</id>
-        <link href="https://coinsbench.com/web3-jobs-that-are-actually-hiring-what-24-curated-roles-revealed-in-3-weeks-550be727272f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-10T07:03:51.000Z</updated>
-        <author>
-            <name>artofblockchain.club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metering Chain Phase 2: Deterministic Authorization for Multi-Operator DePIN]]></title>
-        <id>https://medium.com/p/eff99ebb2a83</id>
-        <link href="https://coinsbench.com/metering-chain-phase-2-deterministic-authorization-for-multi-operator-depin-eff99ebb2a83?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-10T07:03:49.000Z</updated>
-        <author>
-            <name>Joseph Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity’s Memory Safety Guards]]></title>
-        <id>https://medium.com/p/c47cbd854d7c</id>
-        <link href="https://coinsbench.com/soliditys-memory-safety-guards-c47cbd854d7c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-10T07:03:46.000Z</updated>
-        <author>
-            <name>0xFGH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum’s Rollup Strategy Is Dead. Vitalik Just Said the Quiet Part Out Loud.]]></title>
-        <id>https://medium.com/p/c1d2f4a3efd4</id>
-        <link href="https://coinsbench.com/ethereums-rollup-strategy-is-dead-vitalik-just-said-the-quiet-part-out-loud-c1d2f4a3efd4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-09T07:01:46.000Z</updated>
-        <author>
-            <name>ZkMarc</name>
         </author>
     </entry>
     <entry>

@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -11,6 +17,56 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/3b51c3b49770",
+          "author": "Alejandro Steiner",
+          "description": "",
+          "link": "https://coinsbench.com/tracing-ethereum-transactions-without-running-your-own-node-3b51c3b49770?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-11T07:18:00.000Z",
+          "wordCount": null,
+          "title": "Tracing Ethereum Transactions Without Running Your Own Node",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9cd0a551597c",
+          "author": "artofblockchain.club",
+          "description": "",
+          "link": "https://coinsbench.com/web3-portfolio-projects-that-actually-get-interviews-not-tutorial-clones-9cd0a551597c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-11T07:17:58.000Z",
+          "wordCount": null,
+          "title": "Web3 Portfolio Projects That Actually Get Interviews (Not Tutorial Clones)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8212c6df5ad7",
+          "author": "Bethel Nnadi",
+          "description": "",
+          "link": "https://coinsbench.com/ethereums-evolution-how-strategic-upgrades-have-cemented-its-position-as-the-leading-smart-8212c6df5ad7?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-11T07:17:56.000Z",
+          "wordCount": null,
+          "title": "Ethereum’s Evolution: How Strategic Upgrades Have Cemented Its Position as the Leading Smart…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bee523698f4f",
+          "author": "Bethel Nnadi",
+          "description": "",
+          "link": "https://coinsbench.com/understanding-eip-4626-erc-4626-tokenized-vaults-in-ethereum-bee523698f4f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-11T07:17:51.000Z",
+          "wordCount": null,
+          "title": "Understanding EIP-4626 (ERC-4626): Tokenized Vaults in Ethereum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cceb32c59e7d",
+          "author": "Melaine Chan",
+          "description": "",
+          "link": "https://coinsbench.com/could-your-next-contract-be-an-nft-cceb32c59e7d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-11T07:17:46.000Z",
+          "wordCount": null,
+          "title": "Could Your Next Contract Be An NFT?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/f37a96a400be",
           "author": "Allen C. Zhang",
@@ -59,56 +115,6 @@
           "publishedOn": "2026-02-10T07:04:21.000Z",
           "wordCount": null,
           "title": "Understanding Ethereum And It’s Core Primitives",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/fe2c643747f0",
-          "author": "ZkMarc",
-          "description": "",
-          "link": "https://coinsbench.com/stablecoins-processed-9-trillion-in-2025-heres-why-that-number-matters-more-than-bitcoin-s-price-fe2c643747f0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-10T07:04:17.000Z",
-          "wordCount": null,
-          "title": "Stablecoins Processed $9 Trillion in 2025. Here’s Why That Number Matters More Than Bitcoin’s Price",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/550be727272f",
-          "author": "artofblockchain.club",
-          "description": "",
-          "link": "https://coinsbench.com/web3-jobs-that-are-actually-hiring-what-24-curated-roles-revealed-in-3-weeks-550be727272f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-10T07:03:51.000Z",
-          "wordCount": null,
-          "title": "Web3 Jobs That Are Actually Hiring (What 24 Curated Roles Revealed in 3 Weeks)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/eff99ebb2a83",
-          "author": "Joseph Wang",
-          "description": "",
-          "link": "https://coinsbench.com/metering-chain-phase-2-deterministic-authorization-for-multi-operator-depin-eff99ebb2a83?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-10T07:03:49.000Z",
-          "wordCount": null,
-          "title": "Metering Chain Phase 2: Deterministic Authorization for Multi-Operator DePIN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c47cbd854d7c",
-          "author": "0xFGH",
-          "description": "",
-          "link": "https://coinsbench.com/soliditys-memory-safety-guards-c47cbd854d7c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-10T07:03:46.000Z",
-          "wordCount": null,
-          "title": "Solidity’s Memory Safety Guards",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c1d2f4a3efd4",
-          "author": "ZkMarc",
-          "description": "",
-          "link": "https://coinsbench.com/ethereums-rollup-strategy-is-dead-vitalik-just-said-the-quiet-part-out-loud-c1d2f4a3efd4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-09T07:01:46.000Z",
-          "wordCount": null,
-          "title": "Ethereum’s Rollup Strategy Is Dead. Vitalik Just Said the Quiet Part Out Loud.",
           "imageUrl": null
         }
       ]
