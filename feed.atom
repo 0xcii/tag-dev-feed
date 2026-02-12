@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-12T06:02:50.185Z</id>
+    <id>urn:2026-02-12T07:50:07.360Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-12T06:02:50.185Z</updated>
+    <updated>2026-02-12T07:50:07.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How running a Foundry test can steal all your money, leak your data, and expose your address in…]]></title>
+        <id>https://medium.com/p/1fc4370ccecb</id>
+        <link href="https://coinsbench.com/how-running-a-foundry-test-can-steal-all-your-money-leak-your-data-and-expose-your-address-in-1fc4370ccecb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-12T07:17:13.000Z</updated>
+        <author>
+            <name>typicalHuman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Debugging Series 3: Automating Revert Debugging]]></title>
+        <id>https://medium.com/p/9a6bf68321d9</id>
+        <link href="https://coinsbench.com/ethereum-debugging-series-automating-revert-debugging-9a6bf68321d9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-12T07:17:10.000Z</updated>
+        <author>
+            <name>Adekola Olawale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Access Control Vulnerabilities in Smart Contracts]]></title>
+        <id>https://medium.com/p/3b474e0c47ea</id>
+        <link href="https://coinsbench.com/access-control-vulnerabilities-in-smart-contracts-3b474e0c47ea?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-12T07:17:00.000Z</updated>
+        <author>
+            <name>Vinaysati</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[01.xyz Trade Review — Inside the High-Performance Perpetuals DEX Built on N1]]></title>
         <id>https://medium.com/p/b6dde1837bcf</id>
@@ -171,33 +198,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-02-10T07:04:37.000Z</updated>
         <author>
             <name>Joseph Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Gas Monitoring Matters More Than You Think in Ethereum Backends]]></title>
-        <id>https://medium.com/p/d33dcc2603d2</id>
-        <link href="https://coinsbench.com/why-gas-monitoring-matters-more-than-you-think-in-ethereum-backends-d33dcc2603d2?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-10T07:04:29.000Z</updated>
-        <author>
-            <name>Alejandro Steiner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying Smart Contracts Shouldn’t Be This Hard]]></title>
-        <id>https://medium.com/p/9661b270a415</id>
-        <link href="https://coinsbench.com/deploying-smart-contracts-shouldnt-be-this-hard-9661b270a415?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-10T07:04:24.000Z</updated>
-        <author>
-            <name>Alejandro Steiner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Ethereum And It’s Core Primitives]]></title>
-        <id>https://medium.com/p/907d48219088</id>
-        <link href="https://coinsbench.com/understanding-ethereum-and-its-core-primitives-907d48219088?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-10T07:04:21.000Z</updated>
-        <author>
-            <name>Bethel Nnadi</name>
         </author>
     </entry>
     <entry>
