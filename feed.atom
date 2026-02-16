@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-16T10:47:19.984Z</id>
+    <id>urn:2026-02-16T11:39:39.648Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-16T10:47:19.984Z</updated>
+    <updated>2026-02-16T11:39:39.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Inheritance in Solidity: A Technical Guide (Developer Friendly)]]></title>
+        <id>https://medium.com/p/ba8820af19b2</id>
+        <link href="https://coinsbench.com/inheritance-in-solidity-a-technical-guide-developer-friendly-ba8820af19b2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-16T11:01:16.000Z</updated>
+        <author>
+            <name>Bethel Nnadi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most EVM Chains Made Me Write Multicall Contracts. Tempo Built Batching Into the Protocol.]]></title>
+        <id>https://medium.com/p/9c93c2def26d</id>
+        <link href="https://coinsbench.com/most-evm-chains-made-me-write-multicall-contracts-tempo-built-batching-into-the-protocol-9c93c2def26d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-16T11:01:12.000Z</updated>
+        <author>
+            <name>Joseph Gimba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volody vs SpotDraft: Which CLM Platform Fits Modern Legal Operations?]]></title>
+        <id>https://medium.com/p/d2afcd85688c</id>
+        <link href="https://coinsbench.com/volody-vs-spotdraft-which-clm-platform-fits-modern-legal-operations-d2afcd85688c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-16T11:00:57.000Z</updated>
+        <author>
+            <name>Vansh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Developer-Focused Ethereum Explorer: Real-Time Mempool, Whale Tracking & Contract Simulation]]></title>
+        <id>https://medium.com/p/6f1122f441f4</id>
+        <link href="https://coinsbench.com/the-developer-focused-ethereum-explorer-real-time-mempool-whale-tracking-contract-simulation-6f1122f441f4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-16T11:00:39.000Z</updated>
+        <author>
+            <name>Alejandro Steiner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why developers are leaving Next.js for TanStack Start, and loving it]]></title>
+        <id>https://medium.com/p/ecbf7bb60ff2</id>
+        <link href="https://coinsbench.com/why-developers-are-leaving-next-js-for-tanstack-start-and-loving-it-ecbf7bb60ff2?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-16T11:00:34.000Z</updated>
+        <author>
+            <name>Michal Stefanow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Programming Examples for Beginners and Developers]]></title>
+        <id>https://medium.com/p/1efd2818ce8a</id>
+        <link href="https://coinsbench.com/solidity-programming-examples-for-beginners-and-developers-1efd2818ce8a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-16T11:00:28.000Z</updated>
+        <author>
+            <name>Vishwajeet vishwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Ethereum: The Engine Behind Smart Contracts]]></title>
+        <id>https://medium.com/p/f97faf8b90a8</id>
+        <link href="https://coinsbench.com/understanding-ethereum-the-engine-behind-smart-contracts-f97faf8b90a8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-16T11:00:19.000Z</updated>
+        <author>
+            <name>Ericjo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Smart Contract Immutability and EIP-1967 Upgradeable Contracts]]></title>
+        <id>https://medium.com/p/1c877dd3a95a</id>
+        <link href="https://coinsbench.com/understanding-smart-contract-immutability-and-eip-1967-upgradeable-contracts-1c877dd3a95a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-02-16T11:00:17.000Z</updated>
+        <author>
+            <name>Ericjo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI + Crypto: How the Way You Shop and Pay Is About to Change]]></title>
         <id>https://medium.com/p/460f80cd844a</id>
@@ -118,84 +190,12 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethereum Debugging Series 3: Automating Revert Debugging]]></title>
-        <id>https://medium.com/p/9a6bf68321d9</id>
-        <link href="https://coinsbench.com/ethereum-debugging-series-automating-revert-debugging-9a6bf68321d9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-12T07:17:10.000Z</updated>
-        <author>
-            <name>Adekola Olawale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Access Control Vulnerabilities in Smart Contracts]]></title>
-        <id>https://medium.com/p/3b474e0c47ea</id>
-        <link href="https://coinsbench.com/access-control-vulnerabilities-in-smart-contracts-3b474e0c47ea?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-12T07:17:00.000Z</updated>
-        <author>
-            <name>Vinaysati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tracing Ethereum Transactions Without Running Your Own Node]]></title>
-        <id>https://medium.com/p/3b51c3b49770</id>
-        <link href="https://coinsbench.com/tracing-ethereum-transactions-without-running-your-own-node-3b51c3b49770?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-11T07:18:00.000Z</updated>
-        <author>
-            <name>Alejandro Steiner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Portfolio Projects That Actually Get Interviews (Not Tutorial Clones)]]></title>
-        <id>https://medium.com/p/9cd0a551597c</id>
-        <link href="https://coinsbench.com/web3-portfolio-projects-that-actually-get-interviews-not-tutorial-clones-9cd0a551597c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-11T07:17:58.000Z</updated>
-        <author>
-            <name>artofblockchain.club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum’s Evolution: How Strategic Upgrades Have Cemented Its Position as the Leading Smart…]]></title>
-        <id>https://medium.com/p/8212c6df5ad7</id>
-        <link href="https://coinsbench.com/ethereums-evolution-how-strategic-upgrades-have-cemented-its-position-as-the-leading-smart-8212c6df5ad7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-11T07:17:56.000Z</updated>
-        <author>
-            <name>Bethel Nnadi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding EIP-4626 (ERC-4626): Tokenized Vaults in Ethereum]]></title>
-        <id>https://medium.com/p/bee523698f4f</id>
-        <link href="https://coinsbench.com/understanding-eip-4626-erc-4626-tokenized-vaults-in-ethereum-bee523698f4f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-11T07:17:51.000Z</updated>
-        <author>
-            <name>Bethel Nnadi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could Your Next Contract Be An NFT?]]></title>
-        <id>https://medium.com/p/cceb32c59e7d</id>
-        <link href="https://coinsbench.com/could-your-next-contract-be-an-nft-cceb32c59e7d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-11T07:17:46.000Z</updated>
-        <author>
-            <name>Melaine Chan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building a $5M Machine: Inside Our Production-Ready Web3 Bug Bounty Stack]]></title>
         <id>https://medium.com/p/b1a344d6f1ab</id>
         <link href="https://blog.blockmagnates.com/building-a-5m-machine-inside-our-production-ready-web3-bug-bounty-stack-b1a344d6f1ab?source=rss----18fa961f1eff--solidity"/>
         <updated>2026-02-10T07:06:04.000Z</updated>
         <author>
             <name>HackerDemy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Isn’t “Killing” L2s — It Needs Them More Than Ever]]></title>
-        <id>https://medium.com/p/f37a96a400be</id>
-        <link href="https://coinsbench.com/ethereum-isnt-killing-l2s-it-needs-them-more-than-ever-f37a96a400be?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-10T07:04:39.000Z</updated>
-        <author>
-            <name>Allen C. Zhang</name>
         </author>
     </entry>
     <entry>

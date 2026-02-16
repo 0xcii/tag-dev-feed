@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,6 +11,86 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/ba8820af19b2",
+          "author": "Bethel Nnadi",
+          "description": "",
+          "link": "https://coinsbench.com/inheritance-in-solidity-a-technical-guide-developer-friendly-ba8820af19b2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-16T11:01:16.000Z",
+          "wordCount": null,
+          "title": "Inheritance in Solidity: A Technical Guide (Developer Friendly)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9c93c2def26d",
+          "author": "Joseph Gimba",
+          "description": "",
+          "link": "https://coinsbench.com/most-evm-chains-made-me-write-multicall-contracts-tempo-built-batching-into-the-protocol-9c93c2def26d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-16T11:01:12.000Z",
+          "wordCount": null,
+          "title": "Most EVM Chains Made Me Write Multicall Contracts. Tempo Built Batching Into the Protocol.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d2afcd85688c",
+          "author": "Vansh",
+          "description": "",
+          "link": "https://coinsbench.com/volody-vs-spotdraft-which-clm-platform-fits-modern-legal-operations-d2afcd85688c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-16T11:00:57.000Z",
+          "wordCount": null,
+          "title": "Volody vs SpotDraft: Which CLM Platform Fits Modern Legal Operations?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6f1122f441f4",
+          "author": "Alejandro Steiner",
+          "description": "",
+          "link": "https://coinsbench.com/the-developer-focused-ethereum-explorer-real-time-mempool-whale-tracking-contract-simulation-6f1122f441f4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-16T11:00:39.000Z",
+          "wordCount": null,
+          "title": "The Developer-Focused Ethereum Explorer: Real-Time Mempool, Whale Tracking & Contract Simulation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ecbf7bb60ff2",
+          "author": "Michal Stefanow",
+          "description": "",
+          "link": "https://coinsbench.com/why-developers-are-leaving-next-js-for-tanstack-start-and-loving-it-ecbf7bb60ff2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-16T11:00:34.000Z",
+          "wordCount": null,
+          "title": "Why developers are leaving Next.js for TanStack Start, and loving it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1efd2818ce8a",
+          "author": "Vishwajeet vishwa",
+          "description": "",
+          "link": "https://coinsbench.com/solidity-programming-examples-for-beginners-and-developers-1efd2818ce8a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-16T11:00:28.000Z",
+          "wordCount": null,
+          "title": "Solidity Programming Examples for Beginners and Developers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f97faf8b90a8",
+          "author": "Ericjo",
+          "description": "",
+          "link": "https://coinsbench.com/understanding-ethereum-the-engine-behind-smart-contracts-f97faf8b90a8?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-16T11:00:19.000Z",
+          "wordCount": null,
+          "title": "Understanding Ethereum: The Engine Behind Smart Contracts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1c877dd3a95a",
+          "author": "Ericjo",
+          "description": "",
+          "link": "https://coinsbench.com/understanding-smart-contract-immutability-and-eip-1967-upgradeable-contracts-1c877dd3a95a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-16T11:00:17.000Z",
+          "wordCount": null,
+          "title": "Understanding Smart Contract Immutability and EIP-1967 Upgradeable Contracts",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/d0cb973fd80e",
           "author": "101 BlockChains",
@@ -35,86 +109,6 @@
           "publishedOn": "2026-02-12T07:17:13.000Z",
           "wordCount": null,
           "title": "How running a Foundry test can steal all your money, leak your data, and expose your address in…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9a6bf68321d9",
-          "author": "Adekola Olawale",
-          "description": "",
-          "link": "https://coinsbench.com/ethereum-debugging-series-automating-revert-debugging-9a6bf68321d9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-12T07:17:10.000Z",
-          "wordCount": null,
-          "title": "Ethereum Debugging Series 3: Automating Revert Debugging",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3b474e0c47ea",
-          "author": "Vinaysati",
-          "description": "",
-          "link": "https://coinsbench.com/access-control-vulnerabilities-in-smart-contracts-3b474e0c47ea?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-12T07:17:00.000Z",
-          "wordCount": null,
-          "title": "Access Control Vulnerabilities in Smart Contracts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3b51c3b49770",
-          "author": "Alejandro Steiner",
-          "description": "",
-          "link": "https://coinsbench.com/tracing-ethereum-transactions-without-running-your-own-node-3b51c3b49770?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-11T07:18:00.000Z",
-          "wordCount": null,
-          "title": "Tracing Ethereum Transactions Without Running Your Own Node",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9cd0a551597c",
-          "author": "artofblockchain.club",
-          "description": "",
-          "link": "https://coinsbench.com/web3-portfolio-projects-that-actually-get-interviews-not-tutorial-clones-9cd0a551597c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-11T07:17:58.000Z",
-          "wordCount": null,
-          "title": "Web3 Portfolio Projects That Actually Get Interviews (Not Tutorial Clones)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8212c6df5ad7",
-          "author": "Bethel Nnadi",
-          "description": "",
-          "link": "https://coinsbench.com/ethereums-evolution-how-strategic-upgrades-have-cemented-its-position-as-the-leading-smart-8212c6df5ad7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-11T07:17:56.000Z",
-          "wordCount": null,
-          "title": "Ethereum’s Evolution: How Strategic Upgrades Have Cemented Its Position as the Leading Smart…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/bee523698f4f",
-          "author": "Bethel Nnadi",
-          "description": "",
-          "link": "https://coinsbench.com/understanding-eip-4626-erc-4626-tokenized-vaults-in-ethereum-bee523698f4f?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-11T07:17:51.000Z",
-          "wordCount": null,
-          "title": "Understanding EIP-4626 (ERC-4626): Tokenized Vaults in Ethereum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/cceb32c59e7d",
-          "author": "Melaine Chan",
-          "description": "",
-          "link": "https://coinsbench.com/could-your-next-contract-be-an-nft-cceb32c59e7d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-11T07:17:46.000Z",
-          "wordCount": null,
-          "title": "Could Your Next Contract Be An NFT?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f37a96a400be",
-          "author": "Allen C. Zhang",
-          "description": "",
-          "link": "https://coinsbench.com/ethereum-isnt-killing-l2s-it-needs-them-more-than-ever-f37a96a400be?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-10T07:04:39.000Z",
-          "wordCount": null,
-          "title": "Ethereum Isn’t “Killing” L2s — It Needs Them More Than Ever",
           "imageUrl": null
         }
       ]
