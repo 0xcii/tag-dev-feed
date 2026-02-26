@@ -1,10 +1,32 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
+      "title": "cryptomaton",
+      "feedUrl": "https://www.cryptomaton.org/feed/",
+      "siteUrl": "https://www.cryptomaton.org/",
+      "articles": []
+    },
+    {
       "title": "CoinsBench - Medium",
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/915518cc8c1b",
+          "author": "Ali Mert BOSTAN",
+          "description": "",
+          "link": "https://coinsbench.com/canton-deep-dive-re-architecting-the-global-ledger-for-privacy-and-scale-915518cc8c1b?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-02-26T20:51:00.000Z",
+          "wordCount": null,
+          "title": "Canton Deep Dive: Re-Architecting the Global Ledger for Privacy and Scale",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/e1bb009ebd53",
           "author": "ZkMarc",
@@ -93,16 +115,6 @@
           "publishedOn": "2026-02-23T11:31:07.000Z",
           "wordCount": null,
           "title": "Forging zkSNARK Proofs via Misconfigured Verification Keys: The Veil_01_ETH Exploit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f1272972d1de",
-          "author": "Alejandro Steiner",
-          "description": "",
-          "link": "https://coinsbench.com/on-chain-smart-contract-audits-bringing-transparency-and-verifiable-security-to-web3-f1272972d1de?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-23T11:30:33.000Z",
-          "wordCount": null,
-          "title": "On-Chain Smart Contract Audits: Bringing Transparency and Verifiable Security to Web3",
           "imageUrl": null
         }
       ]
