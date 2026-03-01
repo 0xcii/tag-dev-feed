@@ -1,22 +1,20 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
-      "title": "cryptomaton",
-      "feedUrl": "https://www.cryptomaton.org/feed/",
-      "siteUrl": "https://www.cryptomaton.org/",
-      "articles": []
-    },
-    {
       "title": "CoinsBench - Medium",
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/3ad8f3445242",
+          "author": "Ali Mert BOSTAN",
+          "description": "",
+          "link": "https://coinsbench.com/evm-vs-svm-vs-canton-daml-choosing-the-right-engine-for-the-future-of-finance-3ad8f3445242?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-01T16:31:00.000Z",
+          "wordCount": null,
+          "title": "EVM vs. SVM vs. Canton (Daml): Choosing the Right Engine for the Future of Finance",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/4a45fc0e0f75",
           "author": "101 BlockChains",
@@ -105,16 +103,6 @@
           "publishedOn": "2026-02-25T07:48:43.000Z",
           "wordCount": null,
           "title": "Decentralized AI: How to Merge Artificial Intelligence and Blockchain Without Losing Control",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4690b8ab3f0d",
-          "author": "Gustav Stieger",
-          "description": "",
-          "link": "https://coinsbench.com/a-sceptics-view-on-quantum-computing-and-bitcoin-4690b8ab3f0d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-02-23T11:31:10.000Z",
-          "wordCount": null,
-          "title": "A Sceptic’s View on Quantum Computing and Bitcoin",
           "imageUrl": null
         }
       ]
