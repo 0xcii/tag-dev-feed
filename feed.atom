@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-01T21:20:43.647Z</id>
+    <id>urn:2026-03-01T22:21:29.681Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-01T21:20:43.647Z</updated>
+    <updated>2026-03-01T22:21:29.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unsafe Casting in Solidity — How Wrong Type Order Silently Breaks Your Contract]]></title>
+        <id>https://medium.com/p/5dcdb461686c</id>
+        <link href="https://coinsbench.com/unsafe-casting-in-solidity-how-wrong-type-order-silently-breaks-your-contract-5dcdb461686c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-01T21:51:00.000Z</updated>
+        <author>
+            <name>Aadeshjadhav</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EVM vs. SVM vs. Canton (Daml): Choosing the Right Engine for the Future of Finance]]></title>
         <id>https://medium.com/p/3ad8f3445242</id>
@@ -174,15 +183,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/616652bd5d8e</id>
         <link href="https://coinsbench.com/when-ai-meets-blockchain-the-architecture-of-autonomous-economies-616652bd5d8e?source=rss----f1cfd22cde3e---4"/>
         <updated>2026-02-25T07:48:50.000Z</updated>
-        <author>
-            <name>Tryzub_X</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decentralized AI: How to Merge Artificial Intelligence and Blockchain Without Losing Control]]></title>
-        <id>https://medium.com/p/0857462cfc48</id>
-        <link href="https://coinsbench.com/decentralized-ai-how-to-merge-artificial-intelligence-and-blockchain-without-losing-control-0857462cfc48?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-25T07:48:43.000Z</updated>
         <author>
             <name>Tryzub_X</name>
         </author>
