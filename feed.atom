@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-03T11:30:21.647Z</id>
+    <id>urn:2026-03-03T12:53:37.797Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-03T11:30:21.647Z</updated>
+    <updated>2026-03-03T12:53:37.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From Chain Chaos to AI Clarity: How I Built Chains API for Humans and AI]]></title>
+        <id>https://medium.com/p/7f87f27bf1bb</id>
+        <link href="https://coinsbench.com/from-chain-chaos-to-ai-clarity-how-i-built-chains-api-for-humans-and-ai-7f87f27bf1bb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-03T12:21:58.000Z</updated>
+        <author>
+            <name>Johnaverse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Damn Vulnerable DeFi Challenges 2 Naive receiver Walkthrough]]></title>
+        <id>https://medium.com/p/723da175878a</id>
+        <link href="https://coinsbench.com/damn-vulnerable-defi-challenges-2-naive-receiver-walkthrough-723da175878a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-03T12:21:55.000Z</updated>
+        <author>
+            <name>mafa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Damn Vulnerable DeFi Challenges 17 Curvy Puppet Walkthrough:]]></title>
+        <id>https://medium.com/p/0147fef8b737</id>
+        <link href="https://coinsbench.com/damn-vulnerable-defi-challenges-17-curvy-puppet-walkthrough-0147fef8b737?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-03T12:21:53.000Z</updated>
+        <author>
+            <name>mafa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-Knowledge Proofs (ZKPs): The Privacy Primitive Powering Web3]]></title>
+        <id>https://medium.com/p/b568062cdc55</id>
+        <link href="https://coinsbench.com/zero-knowledge-proofs-zkps-the-privacy-primitive-powering-web3-b568062cdc55?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-03T12:21:51.000Z</updated>
+        <author>
+            <name>Barsil Nzola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metering Chain Phase 4: Settlement and Economic Finality]]></title>
+        <id>https://medium.com/p/faa9e3aa5f9c</id>
+        <link href="https://coinsbench.com/metering-chain-phase-4-settlement-and-economic-finality-faa9e3aa5f9c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-03T12:21:49.000Z</updated>
+        <author>
+            <name>Joseph Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Solidity delete Trap: How a Simple Keyword Can Wipe Out a Protocol's Revenue]]></title>
+        <id>https://medium.com/p/1ebb7b7131ec</id>
+        <link href="https://coinsbench.com/the-solidity-delete-trap-how-a-simple-keyword-can-wipe-out-a-protocols-revenue-1ebb7b7131ec?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-03T12:21:29.000Z</updated>
+        <author>
+            <name>Hacker MD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Token-Based Voting dApp on Solana: What I Learned Doing It from Scratch]]></title>
+        <id>https://medium.com/p/2852293afe01</id>
+        <link href="https://coinsbench.com/building-a-token-based-voting-dapp-on-solana-what-i-learned-doing-it-from-scratch-2852293afe01?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-03T12:21:26.000Z</updated>
+        <author>
+            <name>Zuhaib Mohammed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Immutability: How I Bypassed a Core Security Invariant in a Major DeFi Protocol]]></title>
+        <id>https://medium.com/p/6038be8a4f94</id>
+        <link href="https://blog.blockmagnates.com/breaking-immutability-how-i-bypassed-a-core-security-invariant-in-a-major-defi-protocol-6038be8a4f94?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-03-03T12:14:50.000Z</updated>
+        <author>
+            <name>Hacker MD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Receive and Send USDC on Stellar: Easy Step-by-Step with HOT Wallet]]></title>
         <id>https://medium.com/p/c623dae9519b</id>
@@ -124,69 +196,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-02-28T16:31:00.000Z</updated>
         <author>
             <name>101 BlockChains</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canton Deep Dive: Re-Architecting the Global Ledger for Privacy and Scale]]></title>
-        <id>https://medium.com/p/915518cc8c1b</id>
-        <link href="https://coinsbench.com/canton-deep-dive-re-architecting-the-global-ledger-for-privacy-and-scale-915518cc8c1b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-26T20:51:00.000Z</updated>
-        <author>
-            <name>Ali Mert BOSTAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The $50 Trillion Bet: Why Solar Energy Is DeFi’s Next Collateral Class]]></title>
-        <id>https://medium.com/p/e1bb009ebd53</id>
-        <link href="https://coinsbench.com/the-50-trillion-bet-why-solar-energy-is-defis-next-collateral-class-e1bb009ebd53?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-25T07:51:06.000Z</updated>
-        <author>
-            <name>ZkMarc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infrastructure Is the Real Product: How Ktzchen Web3 Avoids Bottlenecks by Design]]></title>
-        <id>https://medium.com/p/6a146e88ee0e</id>
-        <link href="https://coinsbench.com/infrastructure-is-the-real-product-how-ktzchen-web3-avoids-bottlenecks-by-design-6a146e88ee0e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-25T07:50:49.000Z</updated>
-        <author>
-            <name>Alejandro Steiner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotting Vulnerabilities in Smart Contracts #1: The Ghost in the Constructor]]></title>
-        <id>https://medium.com/p/62d49d6a4737</id>
-        <link href="https://coinsbench.com/spotting-vulnerabilities-in-smart-contracts-1-the-ghost-in-the-constructor-62d49d6a4737?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-25T07:49:52.000Z</updated>
-        <author>
-            <name>Mibunna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Current Position of AI in Web3 Sec: AI Mirage and the High Cost of “Cheap” Security]]></title>
-        <id>https://medium.com/p/5df6ffca427a</id>
-        <link href="https://coinsbench.com/the-current-position-of-ai-in-web3-sec-ai-mirage-and-the-high-cost-of-cheap-security-5df6ffca427a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-25T07:49:45.000Z</updated>
-        <author>
-            <name>Mibunna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI + Blockchain Are Building a New Economy of Trust: The Technology and Code That Will Redefine…]]></title>
-        <id>https://medium.com/p/3d3a81710462</id>
-        <link href="https://coinsbench.com/how-ai-blockchain-are-building-a-new-economy-of-trust-the-technology-and-code-that-will-redefine-3d3a81710462?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-25T07:48:57.000Z</updated>
-        <author>
-            <name>Tryzub_X</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When AI Meets Blockchain: The Architecture of Autonomous Economies]]></title>
-        <id>https://medium.com/p/616652bd5d8e</id>
-        <link href="https://coinsbench.com/when-ai-meets-blockchain-the-architecture-of-autonomous-economies-616652bd5d8e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-02-25T07:48:50.000Z</updated>
-        <author>
-            <name>Tryzub_X</name>
         </author>
     </entry>
     <entry>
