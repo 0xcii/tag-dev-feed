@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-09T07:00:19.744Z</id>
+    <id>urn:2026-03-09T07:54:26.613Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-09T07:00:19.744Z</updated>
+    <updated>2026-03-09T07:54:26.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Web3 Vulnerability: Full Account Takeover via Arbitrary Internal Self-Calls in Smart…]]></title>
+        <id>https://medium.com/p/84a5646ba66b</id>
+        <link href="https://blog.blockmagnates.com/critical-web3-vulnerability-full-account-takeover-via-arbitrary-internal-self-calls-in-smart-84a5646ba66b?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-03-09T07:38:02.000Z</updated>
+        <author>
+            <name>Hacker MD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[️ Building a DAO from Scratch: Architecture, Smart Contracts & On-Chain Governance]]></title>
+        <id>https://medium.com/p/1d5843242cb5</id>
+        <link href="https://coinsbench.com/%EF%B8%8F-building-a-dao-from-scratch-architecture-smart-contracts-on-chain-governance-1d5843242cb5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-09T07:12:43.000Z</updated>
+        <author>
+            <name>jose vera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gamified Education: Coding Sovereignty — Building Our First Smart Contract without Gas Fees (Part…]]></title>
+        <id>https://medium.com/p/a849f30a48bb</id>
+        <link href="https://coinsbench.com/gamified-education-coding-sovereignty-building-our-first-smart-contract-without-gas-fees-part-2-a849f30a48bb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-09T07:12:39.000Z</updated>
+        <author>
+            <name>Leopoldo Oliveira e Silva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intent AA, the future of the Web3 industry.]]></title>
+        <id>https://medium.com/p/983aba4ba6a8</id>
+        <link href="https://coinsbench.com/intent-aa-the-future-of-the-web3-industry-983aba4ba6a8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-09T07:11:24.000Z</updated>
+        <author>
+            <name>Shota Moue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The role of L2 and Differences between Rollups]]></title>
+        <id>https://medium.com/p/6e77ee74ce2c</id>
+        <link href="https://coinsbench.com/the-role-of-l2-and-differences-between-rollups-6e77ee74ce2c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-09T07:11:20.000Z</updated>
+        <author>
+            <name>Shota Moue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Decentralized Document Registry on Ethereum]]></title>
+        <id>https://medium.com/p/f3f805608981</id>
+        <link href="https://coinsbench.com/building-a-decentralized-document-registry-on-ethereum-f3f805608981?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-09T07:11:17.000Z</updated>
+        <summary type="html"><![CDATA[This article is also available in Spanish
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>jose vera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fhenix Unveiled: Decomposable BFV — Exact FHE Powering Ethereum’s Privacy Future]]></title>
+        <id>https://medium.com/p/b1ba205d9547</id>
+        <link href="https://coinsbench.com/fhenix-unveiled-decomposable-bfv-exact-fhe-powering-ethereums-privacy-future-b1ba205d9547?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-09T07:11:07.000Z</updated>
+        <author>
+            <name>Drraghavendra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI + Blockchain in Business: 7 Real Cases Already Saving Millions — and Why Companies Are Shifting…]]></title>
+        <id>https://medium.com/p/094383302f18</id>
+        <link href="https://coinsbench.com/ai-blockchain-in-business-7-real-cases-already-saving-millions-and-why-companies-are-shifting-094383302f18?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-09T07:11:00.000Z</updated>
+        <author>
+            <name>Tryzub_X</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an Upgradeable Lending Protocol on Ethereum]]></title>
+        <id>https://medium.com/p/e11d6832ee66</id>
+        <link href="https://coinsbench.com/building-an-upgradeable-lending-protocol-on-ethereum-e11d6832ee66?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-09T07:10:41.000Z</updated>
+        <author>
+            <name>jose vera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gamified Education: Building a Private Blockchain for Household Incentives (Part 1 —…]]></title>
+        <id>https://medium.com/p/809eb3da44ea</id>
+        <link href="https://coinsbench.com/gamified-education-building-a-private-blockchain-for-household-incentives-part-1-809eb3da44ea?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-09T07:10:37.000Z</updated>
+        <author>
+            <name>Leopoldo Oliveira e Silva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Built an AI Contract Analyzer That Lawyers Actually Trust.]]></title>
+        <id>https://medium.com/p/e23c799e9000</id>
+        <link href="https://coinsbench.com/we-built-an-ai-contract-analyzer-that-lawyers-actually-trust-e23c799e9000?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-09T07:10:32.000Z</updated>
+        <author>
+            <name>Yashgiri</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It’s BasisOS Harvest Time — Vault Extra Yield And Mindshare Bounty Unlocked]]></title>
         <id>https://medium.com/p/eb32b39109ca</id>
@@ -102,102 +203,12 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Certification Pathways for Blockchain Architects: Employer-Recommended Roadmap]]></title>
-        <id>https://medium.com/p/347ae6d0c043</id>
-        <link href="https://coinsbench.com/certification-pathways-for-blockchain-architects-employer-recommended-roadmap-347ae6d0c043?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-07T21:21:01.000Z</updated>
-        <author>
-            <name>101 BlockChains</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Chain Chaos to AI Clarity: How I Built Chains API for Humans and AI]]></title>
-        <id>https://medium.com/p/7f87f27bf1bb</id>
-        <link href="https://coinsbench.com/from-chain-chaos-to-ai-clarity-how-i-built-chains-api-for-humans-and-ai-7f87f27bf1bb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-03T12:21:58.000Z</updated>
-        <author>
-            <name>Johnaverse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Damn Vulnerable DeFi Challenges 2 Naive receiver Walkthrough]]></title>
-        <id>https://medium.com/p/723da175878a</id>
-        <link href="https://coinsbench.com/damn-vulnerable-defi-challenges-2-naive-receiver-walkthrough-723da175878a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-03T12:21:55.000Z</updated>
-        <author>
-            <name>mafa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Damn Vulnerable DeFi Challenges 17 Curvy Puppet Walkthrough:]]></title>
-        <id>https://medium.com/p/0147fef8b737</id>
-        <link href="https://coinsbench.com/damn-vulnerable-defi-challenges-17-curvy-puppet-walkthrough-0147fef8b737?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-03T12:21:53.000Z</updated>
-        <author>
-            <name>mafa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Knowledge Proofs (ZKPs): The Privacy Primitive Powering Web3]]></title>
-        <id>https://medium.com/p/b568062cdc55</id>
-        <link href="https://coinsbench.com/zero-knowledge-proofs-zkps-the-privacy-primitive-powering-web3-b568062cdc55?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-03T12:21:51.000Z</updated>
-        <author>
-            <name>Barsil Nzola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metering Chain Phase 4: Settlement and Economic Finality]]></title>
-        <id>https://medium.com/p/faa9e3aa5f9c</id>
-        <link href="https://coinsbench.com/metering-chain-phase-4-settlement-and-economic-finality-faa9e3aa5f9c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-03T12:21:49.000Z</updated>
-        <author>
-            <name>Joseph Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Solidity delete Trap: How a Simple Keyword Can Wipe Out a Protocol's Revenue]]></title>
-        <id>https://medium.com/p/1ebb7b7131ec</id>
-        <link href="https://coinsbench.com/the-solidity-delete-trap-how-a-simple-keyword-can-wipe-out-a-protocols-revenue-1ebb7b7131ec?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-03T12:21:29.000Z</updated>
-        <author>
-            <name>Hacker MD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Token-Based Voting dApp on Solana: What I Learned Doing It from Scratch]]></title>
-        <id>https://medium.com/p/2852293afe01</id>
-        <link href="https://coinsbench.com/building-a-token-based-voting-dapp-on-solana-what-i-learned-doing-it-from-scratch-2852293afe01?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-03T12:21:26.000Z</updated>
-        <author>
-            <name>Zuhaib Mohammed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breaking Immutability: How I Bypassed a Core Security Invariant in a Major DeFi Protocol]]></title>
         <id>https://medium.com/p/6038be8a4f94</id>
         <link href="https://blog.blockmagnates.com/breaking-immutability-how-i-bypassed-a-core-security-invariant-in-a-major-defi-protocol-6038be8a4f94?source=rss----18fa961f1eff--solidity"/>
         <updated>2026-03-03T12:14:50.000Z</updated>
         <author>
             <name>Hacker MD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unsafe Casting in Solidity — How Wrong Type Order Silently Breaks Your Contract]]></title>
-        <id>https://medium.com/p/5dcdb461686c</id>
-        <link href="https://coinsbench.com/unsafe-casting-in-solidity-how-wrong-type-order-silently-breaks-your-contract-5dcdb461686c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-01T21:51:00.000Z</updated>
-        <author>
-            <name>Aadeshjadhav</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVM vs. SVM vs. Canton (Daml): Choosing the Right Engine for the Future of Finance]]></title>
-        <id>https://medium.com/p/3ad8f3445242</id>
-        <link href="https://coinsbench.com/evm-vs-svm-vs-canton-daml-choosing-the-right-engine-for-the-future-of-finance-3ad8f3445242?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-01T16:31:00.000Z</updated>
-        <author>
-            <name>Ali Mert BOSTAN</name>
         </author>
     </entry>
     <entry>
