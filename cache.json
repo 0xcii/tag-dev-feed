@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -125,7 +131,7 @@
           "link": "https://medium.com/coinmonks/what-happens-when-the-last-bitcoin-is-mined-the-2140-question-that-could-reshape-crypto-5d4f876d0414?source=rss----721b17443fd5---4",
           "publishedOn": "2026-03-11T08:21:35.000Z",
           "wordCount": null,
-          "title": "What Happens When the Last Bitcoin Is Mined? The 2140 Question That Could Reshape Crypto",
+          "title": "What Happens When the Last Bitcoin Is Mined?",
           "imageUrl": null
         },
         {
