@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -119,6 +125,36 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/2aab027ba10b",
+          "author": "Jordenjames",
+          "description": "",
+          "link": "https://medium.com/coinmonks/why-every-gold-trader-should-consider-a-gold-trading-bot-2aab027ba10b?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-03-11T07:25:38.000Z",
+          "wordCount": null,
+          "title": "Why Every Gold Trader Should Consider a Gold Trading Bot ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f3c34fb55afd",
+          "author": "NordFX",
+          "description": "",
+          "link": "https://medium.com/coinmonks/morning-update-march-11-2026-f3c34fb55afd?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-03-11T07:25:12.000Z",
+          "wordCount": null,
+          "title": "Morning Update - March 11, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c8b2312ceac5",
+          "author": "Elanahayes",
+          "description": "",
+          "link": "https://medium.com/coinmonks/bet365-clone-script-white-label-sports-betting-platform-with-mobile-app-c8b2312ceac5?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-03-11T07:24:48.000Z",
+          "wordCount": null,
+          "title": "Bet365 Clone Script — White Label Sports Betting Platform with Mobile App",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/b28e39e8cdeb",
           "author": "Fintech By Tanu",
           "description": "",
@@ -186,36 +222,6 @@
           "publishedOn": "2026-03-11T06:29:28.000Z",
           "wordCount": null,
           "title": "Top 10 Reasons Backend Code Slowly Becomes Unreliable",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/301027e30861",
-          "author": "Stuard Morton",
-          "description": "",
-          "link": "https://medium.com/coinmonks/why-choose-a-paxful-clone-script-for-your-crypto-exchange-startup-301027e30861?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-03-11T06:28:37.000Z",
-          "wordCount": null,
-          "title": "Why Choose a Paxful Clone Script for Your Crypto Exchange Startup?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f8cc42a33bdd",
-          "author": "NordFX",
-          "description": "",
-          "link": "https://medium.com/coinmonks/which-forex-platform-is-best-for-beginners-f8cc42a33bdd?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-03-11T06:28:29.000Z",
-          "wordCount": null,
-          "title": "Which Forex Platform Is Best for Beginners?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b339e4f35915",
-          "author": "Paul Bennett",
-          "description": "",
-          "link": "https://medium.com/coinmonks/how-crypto-as-a-service-could-add-2-billion-to-netflixs-revenue-overnight-b339e4f35915?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-03-11T06:28:11.000Z",
-          "wordCount": null,
-          "title": "How Crypto-as-a-Service Could Add $2 Billion to Netflix’s Revenue Overnight",
           "imageUrl": null
         }
       ]
