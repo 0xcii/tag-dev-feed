@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,6 +11,46 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/b60b47dba128",
+          "author": "Abraham",
+          "description": "",
+          "link": "https://coinsbench.com/if-you-dont-have-a-routine-you-don-t-have-a-future-smart-contract-security-researcher-b60b47dba128?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-11T06:02:53.000Z",
+          "wordCount": null,
+          "title": "If You Don’t Have a Routine, You Don’t Have a Future: Smart Contract Security Researcher",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7847ca61cf8d",
+          "author": "Abraham",
+          "description": "",
+          "link": "https://coinsbench.com/reentrancy-explained-for-beginners-7847ca61cf8d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-11T06:00:56.000Z",
+          "wordCount": null,
+          "title": "Reentrancy Explained for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1ceeacdb23c4",
+          "author": "Jay Makwana",
+          "description": "",
+          "link": "https://coinsbench.com/the-complete-guide-to-defi-yield-aggregators-1ceeacdb23c4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-11T06:00:55.000Z",
+          "wordCount": null,
+          "title": "The Complete Guide to DeFi Yield Aggregators",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/60d2a772c3c9",
+          "author": "Jay Makwana",
+          "description": "",
+          "link": "https://coinsbench.com/a-complete-guide-to-groth16-60d2a772c3c9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-11T06:00:51.000Z",
+          "wordCount": null,
+          "title": "A Complete Guide to Groth16",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/1d5843242cb5",
           "author": "jose vera",
@@ -76,46 +110,6 @@
           "wordCount": null,
           "title": "Fhenix Unveiled: Decomposable BFV — Exact FHE Powering Ethereum’s Privacy Future",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/094383302f18",
-          "author": "Tryzub_X",
-          "description": "",
-          "link": "https://coinsbench.com/ai-blockchain-in-business-7-real-cases-already-saving-millions-and-why-companies-are-shifting-094383302f18?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-09T07:11:00.000Z",
-          "wordCount": null,
-          "title": "AI + Blockchain in Business: 7 Real Cases Already Saving Millions — and Why Companies Are Shifting…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e11d6832ee66",
-          "author": "jose vera",
-          "description": "",
-          "link": "https://coinsbench.com/building-an-upgradeable-lending-protocol-on-ethereum-e11d6832ee66?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-09T07:10:41.000Z",
-          "wordCount": null,
-          "title": "Building an Upgradeable Lending Protocol on Ethereum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/809eb3da44ea",
-          "author": "Leopoldo Oliveira e Silva",
-          "description": "",
-          "link": "https://coinsbench.com/gamified-education-building-a-private-blockchain-for-household-incentives-part-1-809eb3da44ea?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-09T07:10:37.000Z",
-          "wordCount": null,
-          "title": "Gamified Education: Building a Private Blockchain for Household Incentives (Part 1 —…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e23c799e9000",
-          "author": "Yashgiri",
-          "description": "",
-          "link": "https://coinsbench.com/we-built-an-ai-contract-analyzer-that-lawyers-actually-trust-e23c799e9000?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-09T07:10:32.000Z",
-          "wordCount": null,
-          "title": "We Built an AI Contract Analyzer That Lawyers Actually Trust.",
-          "imageUrl": null
         }
       ]
     },
@@ -125,103 +119,103 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/d5080a8f43bc",
-          "author": "BDIC Insurance",
+          "id": "https://medium.com/p/b28e39e8cdeb",
+          "author": "Fintech By Tanu",
           "description": "",
-          "link": "https://medium.com/coinmonks/who-do-crypto-users-actually-trust-d5080a8f43bc?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-03-10T12:08:51.000Z",
+          "link": "https://medium.com/coinmonks/what-actually-happens-when-you-send-bitcoin-b28e39e8cdeb?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-03-11T06:48:50.000Z",
           "wordCount": null,
-          "title": "Who Do Crypto Users Actually Trust?",
+          "title": "What Actually Happens When You Send Bitcoin",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/2f1030b89e3a",
-          "author": "Carl London",
+          "id": "https://medium.com/p/07804428076b",
+          "author": "ITIO Innovex",
           "description": "",
-          "link": "https://medium.com/coinmonks/why-the-real-value-of-crypto-isnt-buy-low-sell-high-2f1030b89e3a?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-03-10T12:08:46.000Z",
+          "link": "https://medium.com/coinmonks/digital-banking-the-silent-revolution-changing-how-the-world-handles-money-07804428076b?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-03-11T06:31:40.000Z",
           "wordCount": null,
-          "title": "Why the Real Value of Crypto Isn’t “Buy Low, Sell High”",
+          "title": "Digital Banking: The Silent Revolution Changing How the World Handles Money",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/0865b0f252da",
-          "author": "Blend Visions",
-          "description": "I’ll be honest with you. A few months ago, I wasn’t paying close attention. I had heard the “institutions are coming” story too many times.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoin-has-reached-a-tipping-point-and-most-people-are-still-sleeping-on-it-0865b0f252da?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-03-10T12:06:54.000Z",
+          "id": "https://medium.com/p/cc11bcb8b7b9",
+          "author": "Antriksh Bansla",
+          "description": "",
+          "link": "https://medium.com/coinmonks/the-coffee-shop-that-went-global-overnight-a-story-about-crypto-payment-gateways-cc11bcb8b7b9?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-03-11T06:31:33.000Z",
           "wordCount": null,
-          "title": "Bitcoin Has Reached a Tipping Point — And Most People Are Still Sleeping On It",
+          "title": "The Coffee Shop That Went Global Overnight: A Story About Crypto Payment Gateways",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/5528d32a28f8",
-          "author": "John Wick",
+          "id": "https://medium.com/p/2e2627efc962",
+          "author": "Bemiawatson",
           "description": "",
-          "link": "https://medium.com/coinmonks/i-thought-onlyfans-was-just-entertainment-until-i-discovered-how-creators-in-the-usa-earn-from-an-5528d32a28f8?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-03-10T12:06:47.000Z",
+          "link": "https://medium.com/coinmonks/why-are-startups-choosing-a-kalshi-clone-script-instead-of-building-from-scratch-2e2627efc962?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-03-11T06:31:12.000Z",
           "wordCount": null,
-          "title": "I Thought OnlyFans Was Just Entertainment — Until I Discovered How Creators in the USA Earn From an…",
+          "title": "Why Are Startups Choosing a Kalshi Clone Script Instead of Building From Scratch?",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/dcd5ead5240d",
-          "author": "Tigro Blanc",
+          "id": "https://medium.com/p/ad5f39d43120",
+          "author": "Jason Walker",
           "description": "",
-          "link": "https://medium.com/coinmonks/i-tested-whether-follow-the-money-works-in-crypto-it-doesnt-the-signal-runs-backwards-dcd5ead5240d?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-03-10T12:06:35.000Z",
+          "link": "https://medium.com/coinmonks/how-i-evaluate-asic-miners-before-buying-them-ad5f39d43120?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-03-11T06:31:02.000Z",
           "wordCount": null,
-          "title": "I Tested Whether “Follow the Money” Works in Crypto. It Doesn’t — The Signal Runs Backwards.",
+          "title": "How I Evaluate ASIC Miners Before Buying Them",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/4c2517012105",
-          "author": "Olivia",
-          "description": "",
-          "link": "https://medium.com/coinmonks/why-entrepreneurs-are-choosing-a-kalshi-clone-script-for-prediction-market-startups-4c2517012105?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-03-10T12:06:24.000Z",
+          "id": "https://medium.com/p/9ca2256d1997",
+          "author": "Imran Kabir",
+          "description": "Your app works. Users are happy. Servers aren’t on fire.\n So why does it still feel… slow?\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/top-10-performance-killers-hidden-inside-working-backend-apps-9ca2256d1997?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-03-11T06:29:39.000Z",
           "wordCount": null,
-          "title": "Why Entrepreneurs Are Choosing a Kalshi Clone Script for Prediction Market Startups",
+          "title": "Top 10 Performance Killers Hidden Inside “Working” Backend Apps",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/60159acb42b4",
-          "author": "SwapHunt",
-          "description": "",
-          "link": "https://medium.com/coinmonks/volatility-is-not-noise-60159acb42b4?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-03-10T12:06:04.000Z",
+          "id": "https://medium.com/p/ab98884f1412",
+          "author": "Imran Kabir",
+          "description": "Why code that once felt solid starts breaking trust and what actually fixes it\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/top-10-reasons-backend-code-slowly-becomes-unreliable-ab98884f1412?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-03-11T06:29:28.000Z",
           "wordCount": null,
-          "title": "Volatility Is Not Noise",
+          "title": "Top 10 Reasons Backend Code Slowly Becomes Unreliable",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/f8d906a3ff7b",
-          "author": "SwapHunt",
+          "id": "https://medium.com/p/301027e30861",
+          "author": "Stuard Morton",
           "description": "",
-          "link": "https://medium.com/coinmonks/the-cruel-math-behind-crypto-breakouts-f8d906a3ff7b?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-03-10T12:05:53.000Z",
+          "link": "https://medium.com/coinmonks/why-choose-a-paxful-clone-script-for-your-crypto-exchange-startup-301027e30861?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-03-11T06:28:37.000Z",
           "wordCount": null,
-          "title": "The Cruel Math Behind Crypto Breakouts",
+          "title": "Why Choose a Paxful Clone Script for Your Crypto Exchange Startup?",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/545d595ac923",
-          "author": "Olivia",
+          "id": "https://medium.com/p/f8cc42a33bdd",
+          "author": "NordFX",
           "description": "",
-          "link": "https://medium.com/coinmonks/the-ultimate-guide-to-launching-a-multi-functional-crypto-exchange-using-clone-scripts-545d595ac923?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-03-10T12:02:47.000Z",
+          "link": "https://medium.com/coinmonks/which-forex-platform-is-best-for-beginners-f8cc42a33bdd?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-03-11T06:28:29.000Z",
           "wordCount": null,
-          "title": "The Ultimate Guide to Launching a Multi-Functional Crypto Exchange Using Clone Scripts",
+          "title": "Which Forex Platform Is Best for Beginners?",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/ed946b3c9b56",
-          "author": "Shakshi Chinnah",
+          "id": "https://medium.com/p/b339e4f35915",
+          "author": "Paul Bennett",
           "description": "",
-          "link": "https://medium.com/coinmonks/why-crypto-exchange-architecture-is-different-from-normal-web-architecture-ed946b3c9b56?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-03-10T12:01:52.000Z",
+          "link": "https://medium.com/coinmonks/how-crypto-as-a-service-could-add-2-billion-to-netflixs-revenue-overnight-b339e4f35915?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-03-11T06:28:11.000Z",
           "wordCount": null,
-          "title": "Why Crypto Exchange Architecture Is Different from Normal Web Architecture?",
+          "title": "How Crypto-as-a-Service Could Add $2 Billion to Netflix’s Revenue Overnight",
           "imageUrl": null
         }
       ]
