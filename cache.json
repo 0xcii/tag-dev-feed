@@ -7,6 +7,12 @@
       "articles": []
     },
     {
+      "title": "cryptomaton",
+      "feedUrl": "https://www.cryptomaton.org/feed/",
+      "siteUrl": "https://www.cryptomaton.org/",
+      "articles": []
+    },
+    {
       "title": "CoinsBench - Medium",
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
@@ -225,6 +231,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/2613d4893524",
+          "author": "rdin777",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/precision-loss-in-defi-when-a-0-000001-difference-leads-to-100-fund-loss-2613d4893524?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2026-03-12T17:31:00.000Z",
+          "wordCount": null,
+          "title": "Precision Loss in DeFi: When a 0.000001% Difference Leads to 100% Fund Loss",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/e2a4d7154bea",
           "author": "jose vera",
