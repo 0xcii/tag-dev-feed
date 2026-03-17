@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-17T16:03:57.514Z</id>
+    <id>urn:2026-03-17T17:56:13.181Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-17T16:03:57.514Z</updated>
+    <updated>2026-03-17T17:56:13.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Privacy Mixer in Solidity: Why My Merkle Proofs Were Failing]]></title>
+        <id>https://medium.com/p/5d0065636308</id>
+        <link href="https://blog.blockmagnates.com/building-a-privacy-mixer-in-solidity-why-my-merkle-proofs-were-failing-5d0065636308?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-03-17T16:41:01.000Z</updated>
+        <author>
+            <name>rdin777</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Quantum Filter: Why Michael Saylor is Betting on the Ultimate Cybersecurity Upgrade]]></title>
         <id>https://medium.com/p/2993c710e999</id>
