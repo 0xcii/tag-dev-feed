@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -18,103 +12,103 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
-          "id": "https://medium.com/p/4a069c313cff",
-          "author": "101 BlockChains",
+          "id": "https://medium.com/p/2cdbb7ee57f5",
+          "author": "ZkMarc",
           "description": "",
-          "link": "https://coinsbench.com/what-blockchain-training-programs-have-the-most-industry-recognized-credentials-4a069c313cff?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-14T18:01:01.000Z",
+          "link": "https://coinsbench.com/how-50-million-disappeared-in-30-seconds-a-code-level-autopsy-2cdbb7ee57f5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-18T07:10:29.000Z",
           "wordCount": null,
-          "title": "What blockchain training programs have the most industry-recognized credentials?",
+          "title": "How $50 Million Disappeared in 30 Seconds: A Code-Level Autopsy",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/b60b47dba128",
+          "id": "https://medium.com/p/df30b1f14b47",
+          "author": "Tabrez Mukadam",
+          "description": "",
+          "link": "https://coinsbench.com/the-identity-crisis-tx-origin-vs-msg-sender-df30b1f14b47?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-18T07:10:04.000Z",
+          "wordCount": null,
+          "title": "The Identity Crisis: tx.origin vs msg.sender",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/54e6bcc5d0bb",
+          "author": "Alejandro Steiner",
+          "description": "",
+          "link": "https://coinsbench.com/%EF%B8%8F-solana-is-not-failing-but-its-being-abused-to-death-54e6bcc5d0bb?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-18T07:09:49.000Z",
+          "wordCount": null,
+          "title": "⚠️ Solana Is Not Failing — But It’s Being Abused to Death",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e754c9690ff1",
+          "author": "Tomasz Klapsia",
+          "description": "",
+          "link": "https://coinsbench.com/designing-blockchain-systems-what-smart-contract-tutorials-dont-tell-you-part-2-e754c9690ff1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-18T07:09:03.000Z",
+          "wordCount": null,
+          "title": "Designing Blockchain Systems: What Smart Contract Tutorials Don’t Tell You (Part 2)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/288bc60d036c",
           "author": "Abraham",
           "description": "",
-          "link": "https://coinsbench.com/if-you-dont-have-a-routine-you-don-t-have-a-future-smart-contract-security-researcher-b60b47dba128?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-11T06:02:53.000Z",
+          "link": "https://coinsbench.com/speed-as-a-first-class-skill-in-web3-security-research-288bc60d036c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-18T07:09:00.000Z",
           "wordCount": null,
-          "title": "If You Don’t Have a Routine, You Don’t Have a Future: Smart Contract Security Researcher",
+          "title": "Speed as a First Class Skill in Web3 Security Research",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/7847ca61cf8d",
+          "id": "https://medium.com/p/c68e8e5ccd2f",
+          "author": "Tabrez Mukadam",
+          "description": "",
+          "link": "https://coinsbench.com/the-inspect-element-of-web3-why-private-variables-are-a-lie-%EF%B8%8F-%EF%B8%8F-c68e8e5ccd2f?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-18T07:08:09.000Z",
+          "wordCount": null,
+          "title": "The “Inspect Element” of Web3: Why Private Variables Are a Lie ️‍♂️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c720b80b14c0",
+          "author": "Tabrez Mukadam",
+          "description": "",
+          "link": "https://coinsbench.com/the-unforgiving-computer-why-web3-hackers-run-out-of-gas-c720b80b14c0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-18T07:07:48.000Z",
+          "wordCount": null,
+          "title": "The Unforgiving Computer: Why Web3 Hackers Run Out of Gas ⛽",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f5b14dc64388",
+          "author": "Vedant Kalbhor",
+          "description": "",
+          "link": "https://coinsbench.com/autoledger-protecting-vehicle-history-with-blockchain-f5b14dc64388?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-18T07:06:34.000Z",
+          "wordCount": null,
+          "title": "AutoLedger: Protecting Vehicle History with Blockchain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/13e7b6ba7b7c",
+          "author": "Muhammad Talha",
+          "description": "",
+          "link": "https://coinsbench.com/building-a-rest-api-for-hyperledger-fabric-with-go-gin-did-platform-13e7b6ba7b7c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-18T07:06:28.000Z",
+          "wordCount": null,
+          "title": "Building a REST API for Hyperledger Fabric with Go + Gin — DID Platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d8361759011a",
           "author": "Abraham",
           "description": "",
-          "link": "https://coinsbench.com/reentrancy-explained-for-beginners-7847ca61cf8d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-11T06:00:56.000Z",
+          "link": "https://coinsbench.com/web3-security-careers-smart-contract-auditors-vs-security-researchers-d8361759011a?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-18T07:06:08.000Z",
           "wordCount": null,
-          "title": "Reentrancy Explained for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1ceeacdb23c4",
-          "author": "Jay Makwana",
-          "description": "",
-          "link": "https://coinsbench.com/the-complete-guide-to-defi-yield-aggregators-1ceeacdb23c4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-11T06:00:55.000Z",
-          "wordCount": null,
-          "title": "The Complete Guide to DeFi Yield Aggregators",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/60d2a772c3c9",
-          "author": "Jay Makwana",
-          "description": "",
-          "link": "https://coinsbench.com/a-complete-guide-to-groth16-60d2a772c3c9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-11T06:00:51.000Z",
-          "wordCount": null,
-          "title": "A Complete Guide to Groth16",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1d5843242cb5",
-          "author": "jose vera",
-          "description": "",
-          "link": "https://coinsbench.com/%EF%B8%8F-building-a-dao-from-scratch-architecture-smart-contracts-on-chain-governance-1d5843242cb5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-09T07:12:43.000Z",
-          "wordCount": null,
-          "title": "️ Building a DAO from Scratch: Architecture, Smart Contracts & On-Chain Governance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a849f30a48bb",
-          "author": "Leopoldo Oliveira e Silva",
-          "description": "",
-          "link": "https://coinsbench.com/gamified-education-coding-sovereignty-building-our-first-smart-contract-without-gas-fees-part-2-a849f30a48bb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-09T07:12:39.000Z",
-          "wordCount": null,
-          "title": "Gamified Education: Coding Sovereignty — Building Our First Smart Contract without Gas Fees (Part…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/983aba4ba6a8",
-          "author": "Shota Moue",
-          "description": "",
-          "link": "https://coinsbench.com/intent-aa-the-future-of-the-web3-industry-983aba4ba6a8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-09T07:11:24.000Z",
-          "wordCount": null,
-          "title": "Intent AA, the future of the Web3 industry.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6e77ee74ce2c",
-          "author": "Shota Moue",
-          "description": "",
-          "link": "https://coinsbench.com/the-role-of-l2-and-differences-between-rollups-6e77ee74ce2c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-09T07:11:20.000Z",
-          "wordCount": null,
-          "title": "The role of L2 and Differences between Rollups",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f3f805608981",
-          "author": "jose vera",
-          "description": "This article is also available in Spanish\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/building-a-decentralized-document-registry-on-ethereum-f3f805608981?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-09T07:11:17.000Z",
-          "wordCount": null,
-          "title": "Building a Decentralized Document Registry on Ethereum",
+          "title": "Web3 Security Careers: Smart Contract Auditors vs Security Researchers",
           "imageUrl": null
         }
       ]
