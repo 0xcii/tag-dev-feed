@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -119,6 +125,16 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/b889e1c3d0c8",
+          "author": "Coinmonks Team",
+          "description": "",
+          "link": "https://medium.com/coinmonks/best-dex-trading-terminals-in-2026-b889e1c3d0c8?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-03-18T17:57:19.000Z",
+          "wordCount": null,
+          "title": "Best DEX Trading Terminals in 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/1fa29fed1bb8",
           "author": "Elira Dawn",
           "description": "",
@@ -206,16 +222,6 @@
           "publishedOn": "2026-03-18T13:38:54.000Z",
           "wordCount": null,
           "title": "The One Thing Most Crypto Traders Realize Too Late",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/79ed6d5a05fb",
-          "author": "maya jamison",
-          "description": "",
-          "link": "https://medium.com/coinmonks/from-blockchain-to-the-red-carpet-web3s-role-in-2026-oscars-predictions-79ed6d5a05fb?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-03-18T13:38:51.000Z",
-          "wordCount": null,
-          "title": "From Blockchain to the Red Carpet: Web3’s Role in 2026 Oscars Predictions",
           "imageUrl": null
         }
       ]
