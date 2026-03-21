@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-21T22:21:59.830Z</id>
+    <id>urn:2026-03-21T23:22:43.192Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-21T22:21:59.830Z</updated>
+    <updated>2026-03-21T23:22:43.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How DeFi Protocols Encode Decimals in a World Without Floating Point]]></title>
+        <id>https://medium.com/p/984a49a5d4bf</id>
+        <link href="https://blog.blockmagnates.com/how-defi-protocols-encode-decimals-in-a-world-without-floating-point-984a49a5d4bf?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-03-21T22:41:00.000Z</updated>
+        <author>
+            <name>Rubén</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free Online Platforms for Learning Blockchain Basics]]></title>
         <id>https://medium.com/p/f1a473897bf3</id>
