@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-22T17:23:53.226Z</id>
+    <id>urn:2026-03-22T18:34:51.347Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-22T17:23:53.226Z</updated>
+    <updated>2026-03-22T18:34:51.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[No Visibility, No Trust: A Lesson for New Smart Contract Security Researchers]]></title>
+        <id>https://medium.com/p/7882099e63ed</id>
+        <link href="https://coinsbench.com/no-visibility-no-trust-a-lesson-for-new-smart-contract-security-researchers-7882099e63ed?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-22T18:11:00.000Z</updated>
+        <author>
+            <name>Abraham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How DeFi Protocols Encode Decimals in a World Without Floating Point]]></title>
         <id>https://medium.com/p/984a49a5d4bf</id>
@@ -185,15 +194,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-03-18T07:06:34.000Z</updated>
         <author>
             <name>Vedant Kalbhor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a REST API for Hyperledger Fabric with Go + Gin — DID Platform]]></title>
-        <id>https://medium.com/p/13e7b6ba7b7c</id>
-        <link href="https://coinsbench.com/building-a-rest-api-for-hyperledger-fabric-with-go-gin-did-platform-13e7b6ba7b7c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-18T07:06:28.000Z</updated>
-        <author>
-            <name>Muhammad Talha</name>
         </author>
     </entry>
     <entry>
