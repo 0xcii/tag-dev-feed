@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-23T10:00:51.451Z</id>
+    <id>urn:2026-03-23T11:41:21.468Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-23T10:00:51.451Z</updated>
+    <updated>2026-03-23T11:41:21.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Reentrancy: The $10 Billion Time-Loop That Broke Reality ⏳]]></title>
+        <id>https://medium.com/p/0322057b6366</id>
+        <link href="https://blog.blockmagnates.com/reentrancy-the-10-billion-time-loop-that-broke-reality-0322057b6366?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-03-23T11:36:30.000Z</updated>
+        <author>
+            <name>Tabrez Mukadam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing Code in Concrete: Why Solidity Breaks Web2 Developers]]></title>
+        <id>https://medium.com/p/81162a7de3a7</id>
+        <link href="https://blog.blockmagnates.com/writing-code-in-concrete-why-solidity-breaks-web2-developers-81162a7de3a7?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-03-23T11:36:27.000Z</updated>
+        <author>
+            <name>Tabrez Mukadam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No Visibility, No Trust: A Lesson for New Smart Contract Security Researchers]]></title>
         <id>https://medium.com/p/7882099e63ed</id>
@@ -257,24 +275,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-03-03T12:14:50.000Z</updated>
         <author>
             <name>Hacker MD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your First DeFi Project in 2026 Using GitHub Copilot]]></title>
-        <id>https://medium.com/p/397b764485fe</id>
-        <link href="https://blog.blockmagnates.com/how-to-build-your-first-defi-project-in-2026-using-github-copilot-397b764485fe?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-02-23T10:47:43.000Z</updated>
-        <author>
-            <name>Tryzub_X</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Complete Smart Contract Security Audit Checklist: 47 Vulnerabilities I Check Before Any…]]></title>
-        <id>https://medium.com/p/c565848b6465</id>
-        <link href="https://blog.blockmagnates.com/the-complete-smart-contract-security-audit-checklist-47-vulnerabilities-i-check-before-any-c565848b6465?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-02-23T10:47:05.000Z</updated>
-        <author>
-            <name>Marcellus Nwankwo</name>
         </author>
     </entry>
 </feed>

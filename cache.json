@@ -232,6 +232,26 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/0322057b6366",
+          "author": "Tabrez Mukadam",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/reentrancy-the-10-billion-time-loop-that-broke-reality-0322057b6366?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2026-03-23T11:36:30.000Z",
+          "wordCount": null,
+          "title": "Reentrancy: The $10 Billion Time-Loop That Broke Reality ⏳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/81162a7de3a7",
+          "author": "Tabrez Mukadam",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/writing-code-in-concrete-why-solidity-breaks-web2-developers-81162a7de3a7?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2026-03-23T11:36:27.000Z",
+          "wordCount": null,
+          "title": "Writing Code in Concrete: Why Solidity Breaks Web2 Developers",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/984a49a5d4bf",
           "author": "Rubén",
           "description": "",
@@ -309,26 +329,6 @@
           "publishedOn": "2026-03-03T12:14:50.000Z",
           "wordCount": null,
           "title": "Breaking Immutability: How I Bypassed a Core Security Invariant in a Major DeFi Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/397b764485fe",
-          "author": "Tryzub_X",
-          "description": "",
-          "link": "https://blog.blockmagnates.com/how-to-build-your-first-defi-project-in-2026-using-github-copilot-397b764485fe?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2026-02-23T10:47:43.000Z",
-          "wordCount": null,
-          "title": "How to Build Your First DeFi Project in 2026 Using GitHub Copilot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c565848b6465",
-          "author": "Marcellus Nwankwo",
-          "description": "",
-          "link": "https://blog.blockmagnates.com/the-complete-smart-contract-security-audit-checklist-47-vulnerabilities-i-check-before-any-c565848b6465?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2026-02-23T10:47:05.000Z",
-          "wordCount": null,
-          "title": "The Complete Smart Contract Security Audit Checklist: 47 Vulnerabilities I Check Before Any…",
           "imageUrl": null
         }
       ]
