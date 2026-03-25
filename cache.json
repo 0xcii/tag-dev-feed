@@ -232,6 +232,16 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/bc7cf635eb51",
+          "author": "NicholasY",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/building-an-rwa-marketplace-on-base-bc7cf635eb51?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2026-03-25T07:51:29.000Z",
+          "wordCount": null,
+          "title": "Building an RWA Marketplace on Base",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/0322057b6366",
           "author": "Tabrez Mukadam",
           "description": "",
@@ -319,16 +329,6 @@
           "publishedOn": "2026-03-09T07:38:02.000Z",
           "wordCount": null,
           "title": "Critical Web3 Vulnerability: Full Account Takeover via Arbitrary Internal Self-Calls in Smart…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6038be8a4f94",
-          "author": "Hacker MD",
-          "description": "",
-          "link": "https://blog.blockmagnates.com/breaking-immutability-how-i-bypassed-a-core-security-invariant-in-a-major-defi-protocol-6038be8a4f94?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2026-03-03T12:14:50.000Z",
-          "wordCount": null,
-          "title": "Breaking Immutability: How I Bypassed a Core Security Invariant in a Major DeFi Protocol",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-25T07:12:32.522Z</id>
+    <id>urn:2026-03-25T08:50:09.459Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-25T07:12:32.522Z</updated>
+    <updated>2026-03-25T08:50:09.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building an RWA Marketplace on Base]]></title>
+        <id>https://medium.com/p/bc7cf635eb51</id>
+        <link href="https://blog.blockmagnates.com/building-an-rwa-marketplace-on-base-bc7cf635eb51?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-03-25T07:51:29.000Z</updated>
+        <author>
+            <name>NicholasY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next Block Expo 2026: Where Blockchain, AI, and Web3 Shape the Future]]></title>
         <id>https://medium.com/p/3418bfadb97c</id>
@@ -264,15 +273,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/84a5646ba66b</id>
         <link href="https://blog.blockmagnates.com/critical-web3-vulnerability-full-account-takeover-via-arbitrary-internal-self-calls-in-smart-84a5646ba66b?source=rss----18fa961f1eff--solidity"/>
         <updated>2026-03-09T07:38:02.000Z</updated>
-        <author>
-            <name>Hacker MD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking Immutability: How I Bypassed a Core Security Invariant in a Major DeFi Protocol]]></title>
-        <id>https://medium.com/p/6038be8a4f94</id>
-        <link href="https://blog.blockmagnates.com/breaking-immutability-how-i-bypassed-a-core-security-invariant-in-a-major-defi-protocol-6038be8a4f94?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-03-03T12:14:50.000Z</updated>
         <author>
             <name>Hacker MD</name>
         </author>
