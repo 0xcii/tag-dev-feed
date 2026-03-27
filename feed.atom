@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-27T14:47:17.941Z</id>
+    <id>urn:2026-03-27T15:51:21.891Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-27T14:47:17.941Z</updated>
+    <updated>2026-03-27T15:51:21.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Concentrated Liquidity in Uniswap v3]]></title>
+        <id>https://medium.com/p/518c4ac24b22</id>
+        <link href="https://coinsbench.com/understanding-concentrated-liquidity-in-uniswap-v3-518c4ac24b22?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-27T15:22:11.000Z</updated>
+        <author>
+            <name>Kshitij Bhoite</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Verifiable Equal Pay Registry on Ethereum]]></title>
+        <id>https://medium.com/p/1f946080f508</id>
+        <link href="https://coinsbench.com/a-verifiable-equal-pay-registry-on-ethereum-1f946080f508?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-27T15:21:18.000Z</updated>
+        <author>
+            <name>Masha Vaverova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From window.ethereum to x402: The Evolution of Ethereum’s Web Stack, Explained]]></title>
+        <id>https://medium.com/p/a6edc7263fb6</id>
+        <link href="https://coinsbench.com/the-ethereum-web-stack-explained-from-window-ethereum-to-paying-machines-with-x402-a6edc7263fb6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-27T15:21:15.000Z</updated>
+        <author>
+            <name>Bethel Nnadi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet wankmi: The Solana Hooks Library Nobody Asked For (But Everyone Needs)]]></title>
+        <id>https://medium.com/p/d34fd6d019a4</id>
+        <link href="https://coinsbench.com/meet-wankmi-the-solana-hooks-library-nobody-asked-for-but-everyone-needs-d34fd6d019a4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-27T15:21:00.000Z</updated>
+        <summary type="html"><![CDATA[How a developer built wagmi for Solana, gave it a ridiculous name, and launched a token while they were at it.
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>David Mansion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a DID Smart Contract on Hyperledger Fabric and Calling It with the Go SDK]]></title>
+        <id>https://medium.com/p/806d1806ca5b</id>
+        <link href="https://coinsbench.com/building-a-did-smart-contract-on-hyperledger-fabric-and-calling-it-with-the-go-sdk-806d1806ca5b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-27T15:20:57.000Z</updated>
+        <author>
+            <name>Muhammad Talha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert Your Fabric Test Network into a Production-Ready Blockchain with CI/CD]]></title>
+        <id>https://medium.com/p/148bce770e16</id>
+        <link href="https://coinsbench.com/how-to-convert-your-fabric-test-network-into-a-production-ready-blockchain-with-ci-cd-148bce770e16?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-27T15:20:55.000Z</updated>
+        <author>
+            <name>Muhammad Talha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can You Recover Ownership of a Renounced Smart Contract? (What Actually Happens)]]></title>
+        <id>https://medium.com/p/30bd45bd0683</id>
+        <link href="https://coinsbench.com/can-you-recover-ownership-of-a-renounced-smart-contract-what-actually-happens-30bd45bd0683?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-27T15:20:51.000Z</updated>
+        <author>
+            <name>Laravinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[why Account Abstraction not yet been mass-adopted]]></title>
+        <id>https://medium.com/p/abd7f9edb1b3</id>
+        <link href="https://coinsbench.com/why-account-abstraction-not-yet-been-mass-adopted-abd7f9edb1b3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-27T15:20:46.000Z</updated>
+        <author>
+            <name>Dery K. Yahya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve Finance Explained: Inside the StableSwap AMM and Its Invariant]]></title>
+        <id>https://medium.com/p/4426f7f06a5b</id>
+        <link href="https://coinsbench.com/curve-finance-explained-inside-the-stableswap-amm-and-its-invariant-4426f7f06a5b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-27T15:20:37.000Z</updated>
+        <author>
+            <name>Kshitij Bhoite</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Web3 Interview Task Was Actually a Remote Access Trojan]]></title>
+        <id>https://medium.com/p/6f9c4231202e</id>
+        <link href="https://coinsbench.com/this-web3-interview-task-was-actually-a-remote-access-trojan-6f9c4231202e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-27T15:20:32.000Z</updated>
+        <author>
+            <name>Evgenii</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Nexiavex.com Scam That Robbed a Sydney Grandmother of $192,000 and Shattered Her Retirement]]></title>
         <id>https://medium.com/p/988b607ceda6</id>
@@ -123,102 +215,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No Visibility, No Trust: A Lesson for New Smart Contract Security Researchers]]></title>
-        <id>https://medium.com/p/7882099e63ed</id>
-        <link href="https://coinsbench.com/no-visibility-no-trust-a-lesson-for-new-smart-contract-security-researchers-7882099e63ed?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-22T18:11:00.000Z</updated>
-        <author>
-            <name>Abraham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How DeFi Protocols Encode Decimals in a World Without Floating Point]]></title>
         <id>https://medium.com/p/984a49a5d4bf</id>
         <link href="https://blog.blockmagnates.com/how-defi-protocols-encode-decimals-in-a-world-without-floating-point-984a49a5d4bf?source=rss----18fa961f1eff--solidity"/>
         <updated>2026-03-21T22:41:00.000Z</updated>
         <author>
             <name>Rubén</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Online Platforms for Learning Blockchain Basics]]></title>
-        <id>https://medium.com/p/f1a473897bf3</id>
-        <link href="https://coinsbench.com/free-online-platforms-for-learning-blockchain-basics-f1a473897bf3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-21T18:06:00.000Z</updated>
-        <author>
-            <name>101 BlockChains</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How $50 Million Disappeared in 30 Seconds: A Code-Level Autopsy]]></title>
-        <id>https://medium.com/p/2cdbb7ee57f5</id>
-        <link href="https://coinsbench.com/how-50-million-disappeared-in-30-seconds-a-code-level-autopsy-2cdbb7ee57f5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-18T07:10:29.000Z</updated>
-        <author>
-            <name>ZkMarc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Identity Crisis: tx.origin vs msg.sender]]></title>
-        <id>https://medium.com/p/df30b1f14b47</id>
-        <link href="https://coinsbench.com/the-identity-crisis-tx-origin-vs-msg-sender-df30b1f14b47?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-18T07:10:04.000Z</updated>
-        <author>
-            <name>Tabrez Mukadam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚠️ Solana Is Not Failing — But It’s Being Abused to Death]]></title>
-        <id>https://medium.com/p/54e6bcc5d0bb</id>
-        <link href="https://coinsbench.com/%EF%B8%8F-solana-is-not-failing-but-its-being-abused-to-death-54e6bcc5d0bb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-18T07:09:49.000Z</updated>
-        <author>
-            <name>Alejandro Steiner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Blockchain Systems: What Smart Contract Tutorials Don’t Tell You (Part 2)]]></title>
-        <id>https://medium.com/p/e754c9690ff1</id>
-        <link href="https://coinsbench.com/designing-blockchain-systems-what-smart-contract-tutorials-dont-tell-you-part-2-e754c9690ff1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-18T07:09:03.000Z</updated>
-        <author>
-            <name>Tomasz Klapsia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speed as a First Class Skill in Web3 Security Research]]></title>
-        <id>https://medium.com/p/288bc60d036c</id>
-        <link href="https://coinsbench.com/speed-as-a-first-class-skill-in-web3-security-research-288bc60d036c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-18T07:09:00.000Z</updated>
-        <author>
-            <name>Abraham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “Inspect Element” of Web3: Why Private Variables Are a Lie ️‍♂️]]></title>
-        <id>https://medium.com/p/c68e8e5ccd2f</id>
-        <link href="https://coinsbench.com/the-inspect-element-of-web3-why-private-variables-are-a-lie-%EF%B8%8F-%EF%B8%8F-c68e8e5ccd2f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-18T07:08:09.000Z</updated>
-        <author>
-            <name>Tabrez Mukadam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Unforgiving Computer: Why Web3 Hackers Run Out of Gas ⛽]]></title>
-        <id>https://medium.com/p/c720b80b14c0</id>
-        <link href="https://coinsbench.com/the-unforgiving-computer-why-web3-hackers-run-out-of-gas-c720b80b14c0?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-18T07:07:48.000Z</updated>
-        <author>
-            <name>Tabrez Mukadam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoLedger: Protecting Vehicle History with Blockchain]]></title>
-        <id>https://medium.com/p/f5b14dc64388</id>
-        <link href="https://coinsbench.com/autoledger-protecting-vehicle-history-with-blockchain-f5b14dc64388?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-18T07:06:34.000Z</updated>
-        <author>
-            <name>Vedant Kalbhor</name>
         </author>
     </entry>
     <entry>
