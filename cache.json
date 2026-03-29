@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -11,6 +17,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/ca6e5e24d1e0",
+          "author": "101 BlockChains",
+          "description": "",
+          "link": "https://coinsbench.com/where-can-i-enroll-in-a-blockchain-certification-course-with-job-placement-support-ca6e5e24d1e0?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-03-29T21:21:00.000Z",
+          "wordCount": null,
+          "title": "Where can I enroll in a Blockchain Certification Course with job Placement Support?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/518c4ac24b22",
           "author": "Kshitij Bhoite",
@@ -99,16 +115,6 @@
           "publishedOn": "2026-03-27T15:20:37.000Z",
           "wordCount": null,
           "title": "Curve Finance Explained: Inside the StableSwap AMM and Its Invariant",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6f9c4231202e",
-          "author": "Evgenii",
-          "description": "",
-          "link": "https://coinsbench.com/this-web3-interview-task-was-actually-a-remote-access-trojan-6f9c4231202e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-27T15:20:32.000Z",
-          "wordCount": null,
-          "title": "This Web3 Interview Task Was Actually a Remote Access Trojan",
           "imageUrl": null
         }
       ]
