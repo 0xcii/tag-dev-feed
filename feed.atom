@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-30T09:09:29.746Z</id>
+    <id>urn:2026-03-30T10:59:35.340Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-30T09:09:29.746Z</updated>
+    <updated>2026-03-30T10:59:35.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Only React Hooks Guide You’ll Actually Finish Reading.]]></title>
+        <id>https://medium.com/p/9d6c4ffd3fc6</id>
+        <link href="https://coinsbench.com/the-only-react-hooks-guide-youll-actually-finish-reading-9d6c4ffd3fc6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-30T10:48:54.000Z</updated>
+        <author>
+            <name>Bethel Nnadi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Day in My Life as a Smart Contract Security Researcher]]></title>
+        <id>https://medium.com/p/5fed9be2c009</id>
+        <link href="https://coinsbench.com/a-day-in-my-life-as-a-smart-contract-security-researcher-5fed9be2c009?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-30T10:48:52.000Z</updated>
+        <author>
+            <name>Abraham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How $25 Million Disappeared in 17 Minutes: A Code-Level Autopsy of the Resolv Hack]]></title>
+        <id>https://medium.com/p/5498785957f6</id>
+        <link href="https://coinsbench.com/how-25-million-disappeared-in-17-minutes-a-code-level-autopsy-of-the-resolv-hack-5498785957f6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-30T10:48:50.000Z</updated>
+        <author>
+            <name>ZkMarc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Solidity Contract Wouldn’t Deploy — And How One Number Fixed It]]></title>
+        <id>https://medium.com/p/0ce271c080e4</id>
+        <link href="https://coinsbench.com/why-your-solidity-contract-wouldnt-deploy-and-how-one-number-fixed-it-0ce271c080e4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-30T10:48:47.000Z</updated>
+        <author>
+            <name>Amlan Roy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain in 2026: Trust, State, and Why Rust Fits]]></title>
+        <id>https://medium.com/p/3173ab2bcd3c</id>
+        <link href="https://coinsbench.com/blockchain-in-2026-trust-state-and-why-rust-fits-3173ab2bcd3c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-03-30T10:48:45.000Z</updated>
+        <author>
+            <name>Joseph Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Flash USDT Software Is Changing the Way People Look at Crypto Transfers]]></title>
         <id>https://medium.com/p/51f4d8560b4d</id>
@@ -148,51 +193,6 @@ Continue reading on Coinmonks »]]></summary>
 Continue reading on CoinsBench »]]></summary>
         <author>
             <name>David Mansion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a DID Smart Contract on Hyperledger Fabric and Calling It with the Go SDK]]></title>
-        <id>https://medium.com/p/806d1806ca5b</id>
-        <link href="https://coinsbench.com/building-a-did-smart-contract-on-hyperledger-fabric-and-calling-it-with-the-go-sdk-806d1806ca5b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-27T15:20:57.000Z</updated>
-        <author>
-            <name>Muhammad Talha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert Your Fabric Test Network into a Production-Ready Blockchain with CI/CD]]></title>
-        <id>https://medium.com/p/148bce770e16</id>
-        <link href="https://coinsbench.com/how-to-convert-your-fabric-test-network-into-a-production-ready-blockchain-with-ci-cd-148bce770e16?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-27T15:20:55.000Z</updated>
-        <author>
-            <name>Muhammad Talha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can You Recover Ownership of a Renounced Smart Contract? (What Actually Happens)]]></title>
-        <id>https://medium.com/p/30bd45bd0683</id>
-        <link href="https://coinsbench.com/can-you-recover-ownership-of-a-renounced-smart-contract-what-actually-happens-30bd45bd0683?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-27T15:20:51.000Z</updated>
-        <author>
-            <name>Laravinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[why Account Abstraction not yet been mass-adopted]]></title>
-        <id>https://medium.com/p/abd7f9edb1b3</id>
-        <link href="https://coinsbench.com/why-account-abstraction-not-yet-been-mass-adopted-abd7f9edb1b3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-27T15:20:46.000Z</updated>
-        <author>
-            <name>Dery K. Yahya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve Finance Explained: Inside the StableSwap AMM and Its Invariant]]></title>
-        <id>https://medium.com/p/4426f7f06a5b</id>
-        <link href="https://coinsbench.com/curve-finance-explained-inside-the-stableswap-amm-and-its-invariant-4426f7f06a5b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-27T15:20:37.000Z</updated>
-        <author>
-            <name>Kshitij Bhoite</name>
         </author>
     </entry>
     <entry>
