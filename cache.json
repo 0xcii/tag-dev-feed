@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,6 +11,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/e2efd1a83a06",
+          "author": "Yashgiri",
+          "description": "",
+          "link": "https://coinsbench.com/advanced-ai-for-finance-and-tax-a-deep-dive-into-an-agentic-rag-system-e2efd1a83a06?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-04-03T07:52:28.000Z",
+          "wordCount": null,
+          "title": "Advanced AI for Finance and Tax: A Deep Dive into an Agentic RAG System",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/de0a2c24e83a",
           "author": "Abraham",
@@ -106,16 +110,6 @@
           "wordCount": null,
           "title": "Why Your Solidity Contract Wouldn’t Deploy — And How One Number Fixed It",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3173ab2bcd3c",
-          "author": "Joseph Wang",
-          "description": "",
-          "link": "https://coinsbench.com/blockchain-in-2026-trust-state-and-why-rust-fits-3173ab2bcd3c?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-30T10:48:45.000Z",
-          "wordCount": null,
-          "title": "Blockchain in 2026: Trust, State, and Why Rust Fits",
-          "imageUrl": null
         }
       ]
     },
@@ -124,6 +118,16 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/22baa5a6ef2f",
+          "author": "Etan Hunt | DailyCoinPost",
+          "description": "",
+          "link": "https://medium.com/coinmonks/satoshi-would-have-shut-down-bitcoin-by-now-22baa5a6ef2f?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-04-03T07:16:12.000Z",
+          "wordCount": null,
+          "title": "Satoshi Would Have Shut Down Bitcoin by Now",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/6234f299eb7a",
           "author": "michael clarke",
@@ -212,16 +216,6 @@
           "publishedOn": "2026-04-03T05:53:49.000Z",
           "wordCount": null,
           "title": "Fiat Onramps Explained: What They Are, Why Most Require KYC, and the One That Doesn’t",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/50ff129c0d36",
-          "author": "David Ayodeji",
-          "description": "",
-          "link": "https://medium.com/coinmonks/investment-thesis-crypto-2026-50ff129c0d36?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-04-03T05:53:47.000Z",
-          "wordCount": null,
-          "title": "Investment Thesis: Crypto 2026",
           "imageUrl": null
         }
       ]
