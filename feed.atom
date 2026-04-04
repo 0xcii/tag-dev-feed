@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-04T19:29:06.863Z</id>
+    <id>urn:2026-04-04T20:28:30.142Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-04T19:29:06.863Z</updated>
+    <updated>2026-04-04T20:28:30.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Audit Speed: Hunting NFT Theft in V7 Finance (Duplicate Story)
+Subtitle: Why being right is only…]]></title>
+        <id>https://medium.com/p/3359a7268cec</id>
+        <link href="https://blog.blockmagnates.com/audit-speed-hunting-nft-theft-in-v7-finance-duplicate-story-subtitle-why-being-right-is-only-3359a7268cec?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-04-04T19:56:01.000Z</updated>
+        <author>
+            <name>rdin777</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Q1 Deleveraging]]></title>
         <id>https://medium.com/p/04fe764aa7fe</id>
@@ -266,15 +276,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-03-11T05:41:53.000Z</updated>
         <author>
             <name>jose vera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Web3 Vulnerability: Full Account Takeover via Arbitrary Internal Self-Calls in Smart…]]></title>
-        <id>https://medium.com/p/84a5646ba66b</id>
-        <link href="https://blog.blockmagnates.com/critical-web3-vulnerability-full-account-takeover-via-arbitrary-internal-self-calls-in-smart-84a5646ba66b?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-03-09T07:38:02.000Z</updated>
-        <author>
-            <name>Hacker MD</name>
         </author>
     </entry>
 </feed>
