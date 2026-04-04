@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-04T20:28:30.142Z</id>
+    <id>urn:2026-04-04T21:28:47.267Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-04T20:28:30.142Z</updated>
+    <updated>2026-04-04T21:28:47.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Audits: How Security Reviews Protect Web3 Protocols]]></title>
+        <id>https://medium.com/p/13faee2ae50d</id>
+        <link href="https://coinsbench.com/smart-contract-audits-how-security-reviews-protect-web3-protocols-13faee2ae50d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-04-04T20:51:01.000Z</updated>
+        <author>
+            <name>Barsil Nzola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Audit Speed: Hunting NFT Theft in V7 Finance (Duplicate Story)
 Subtitle: Why being right is only…]]></title>
@@ -186,15 +195,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-03-30T10:48:50.000Z</updated>
         <author>
             <name>ZkMarc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Solidity Contract Wouldn’t Deploy — And How One Number Fixed It]]></title>
-        <id>https://medium.com/p/0ce271c080e4</id>
-        <link href="https://coinsbench.com/why-your-solidity-contract-wouldnt-deploy-and-how-one-number-fixed-it-0ce271c080e4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-03-30T10:48:47.000Z</updated>
-        <author>
-            <name>Amlan Roy</name>
         </author>
     </entry>
     <entry>

@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,6 +11,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/13faee2ae50d",
+          "author": "Barsil Nzola",
+          "description": "",
+          "link": "https://coinsbench.com/smart-contract-audits-how-security-reviews-protect-web3-protocols-13faee2ae50d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-04-04T20:51:01.000Z",
+          "wordCount": null,
+          "title": "Smart Contract Audits: How Security Reviews Protect Web3 Protocols",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/e2efd1a83a06",
           "author": "Yashgiri",
@@ -105,16 +109,6 @@
           "publishedOn": "2026-03-30T10:48:50.000Z",
           "wordCount": null,
           "title": "How $25 Million Disappeared in 17 Minutes: A Code-Level Autopsy of the Resolv Hack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0ce271c080e4",
-          "author": "Amlan Roy",
-          "description": "",
-          "link": "https://coinsbench.com/why-your-solidity-contract-wouldnt-deploy-and-how-one-number-fixed-it-0ce271c080e4?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-03-30T10:48:47.000Z",
-          "wordCount": null,
-          "title": "Why Your Solidity Contract Wouldn’t Deploy — And How One Number Fixed It",
           "imageUrl": null
         }
       ]
