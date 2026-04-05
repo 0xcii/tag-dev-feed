@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-05T19:32:19.135Z</id>
+    <id>urn:2026-04-05T20:30:31.654Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-05T19:32:19.135Z</updated>
+    <updated>2026-04-05T20:30:31.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How I Found a Critical Precision Loss in Kuru Labs Using Foundry Fuzzin]]></title>
+        <id>https://medium.com/p/cc0b0cf1a615</id>
+        <link href="https://blog.blockmagnates.com/how-i-found-a-critical-precision-loss-in-kuru-labs-using-foundry-fuzzin-cc0b0cf1a615?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-04-05T20:21:01.000Z</updated>
+        <author>
+            <name>rdin777</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RayaChain as a Canary Layer: Broadcasting Risk and Credit Signals Across Chains]]></title>
         <id>https://medium.com/p/b0bbf7fbd8ba</id>
@@ -269,15 +278,6 @@ Subtitle: Why being right is only…]]></title>
         <updated>2026-03-12T17:31:00.000Z</updated>
         <author>
             <name>rdin777</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Blockchain-Powered E-Commerce with Smart Contracts and Stablecoins]]></title>
-        <id>https://medium.com/p/e2a4d7154bea</id>
-        <link href="https://blog.blockmagnates.com/building-a-blockchain-powered-e-commerce-with-smart-contracts-and-stablecoins-e2a4d7154bea?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-03-11T05:41:53.000Z</updated>
-        <author>
-            <name>jose vera</name>
         </author>
     </entry>
 </feed>
