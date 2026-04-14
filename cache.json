@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -313,16 +319,6 @@
           "publishedOn": "2026-03-16T17:36:00.000Z",
           "wordCount": null,
           "title": "Gas Surgery: Reducing Merkle Mixer Costs by 25% on Base",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5d0137454fe8",
-          "author": "Drraghavendra",
-          "description": "",
-          "link": "https://blog.blockmagnates.com/tempwallets-ephemeral-burner-wallets-architecting-privacy-autonomy-and-permissionless-freedom-in-5d0137454fe8?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2026-03-16T07:40:36.000Z",
-          "wordCount": null,
-          "title": "TempWallets: Ephemeral Burner Wallets Architecting Privacy, Autonomy, and Permissionless Freedom in…",
           "imageUrl": null
         }
       ]
