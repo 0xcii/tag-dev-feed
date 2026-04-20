@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-20T08:03:31.969Z</id>
+    <id>urn:2026-04-20T10:45:59.449Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-20T08:03:31.969Z</updated>
+    <updated>2026-04-20T10:45:59.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -267,15 +267,6 @@ Subtitle: Why being right is only…]]></title>
         <updated>2026-03-23T11:36:27.000Z</updated>
         <author>
             <name>Tabrez Mukadam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How DeFi Protocols Encode Decimals in a World Without Floating Point]]></title>
-        <id>https://medium.com/p/984a49a5d4bf</id>
-        <link href="https://blog.blockmagnates.com/how-defi-protocols-encode-decimals-in-a-world-without-floating-point-984a49a5d4bf?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-03-21T22:41:00.000Z</updated>
-        <author>
-            <name>Rubén</name>
         </author>
     </entry>
 </feed>
