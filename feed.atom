@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-21T23:32:55.176Z</id>
+    <id>urn:2026-04-22T02:25:43.978Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-21T23:32:55.176Z</updated>
+    <updated>2026-04-22T02:25:43.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -247,24 +247,6 @@ Subtitle: Why being right is only…]]></title>
         <updated>2026-03-25T07:51:29.000Z</updated>
         <author>
             <name>NicholasY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reentrancy: The $10 Billion Time-Loop That Broke Reality ⏳]]></title>
-        <id>https://medium.com/p/0322057b6366</id>
-        <link href="https://blog.blockmagnates.com/reentrancy-the-10-billion-time-loop-that-broke-reality-0322057b6366?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-03-23T11:36:30.000Z</updated>
-        <author>
-            <name>Tabrez Mukadam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing Code in Concrete: Why Solidity Breaks Web2 Developers]]></title>
-        <id>https://medium.com/p/81162a7de3a7</id>
-        <link href="https://blog.blockmagnates.com/writing-code-in-concrete-why-solidity-breaks-web2-developers-81162a7de3a7?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-03-23T11:36:27.000Z</updated>
-        <author>
-            <name>Tabrez Mukadam</name>
         </author>
     </entry>
 </feed>
