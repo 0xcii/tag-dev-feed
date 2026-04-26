@@ -7,12 +7,6 @@
       "articles": []
     },
     {
-      "title": "cryptomaton",
-      "feedUrl": "https://www.cryptomaton.org/feed/",
-      "siteUrl": "https://www.cryptomaton.org/",
-      "articles": []
-    },
-    {
       "title": "CoinsBench - Medium",
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
@@ -231,6 +225,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/f11ef8a67310",
+          "author": "rdin777",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/how-aave-v4s-design-choice-turned-into-a-195m-liquidation-deadlock-kelpdao-rseth-case-f11ef8a67310?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2026-04-26T19:36:01.000Z",
+          "wordCount": null,
+          "title": "How Aave V4’s “Design Choice” Turned Into a $195M Liquidation Deadlock (KelpDAO/rsETH Case)",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/9b89c576269b",
           "author": "rdin777",
