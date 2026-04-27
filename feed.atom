@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-27T11:01:45.484Z</id>
+    <id>urn:2026-04-27T13:48:21.661Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-27T11:01:45.484Z</updated>
+    <updated>2026-04-27T13:48:21.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[️ Lirix v1.4.1: The Ecosystem Domination Release]]></title>
+        <id>https://medium.com/p/1ba42a56ef2f</id>
+        <link href="https://coinsbench.com/%EF%B8%8F-lirix-v1-4-1-the-ecosystem-domination-release-1ba42a56ef2f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-04-27T11:03:43.000Z</updated>
+        <author>
+            <name>lokii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TVM Message Replay: Venom Wallet Exposed]]></title>
+        <id>https://medium.com/p/32f311509092</id>
+        <link href="https://coinsbench.com/tvm-message-replay-venom-wallet-exposed-32f311509092?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-04-27T11:03:04.000Z</updated>
+        <author>
+            <name>Stepan Chekhovskoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Coresage Facilitates Trust Automation via Smart Contracts]]></title>
+        <id>https://medium.com/p/8feb260248bc</id>
+        <link href="https://coinsbench.com/how-coresage-facilitates-trust-automation-via-smart-contracts-8feb260248bc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-04-27T11:02:48.000Z</updated>
+        <author>
+            <name>Mjchiedozie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Web2.5 Kill Chain (Part 2): Blood in the Directory]]></title>
+        <id>https://medium.com/p/4c1d7ee2d49f</id>
+        <link href="https://coinsbench.com/the-web2-5-kill-chain-part-2-blood-in-the-directory-4c1d7ee2d49f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-04-27T11:02:27.000Z</updated>
+        <author>
+            <name>Tabrez Mukadam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Real AI Audit Team for Solidity Smart Contracts]]></title>
+        <id>https://medium.com/p/4f8135b1b5f1</id>
+        <link href="https://coinsbench.com/building-a-real-ai-audit-team-for-solidity-smart-contracts-4f8135b1b5f1?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-04-27T11:02:01.000Z</updated>
+        <author>
+            <name>BATIS AB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Crypto Casino Like BC Game: Complete Guide to Launch a Profitable Platform]]></title>
+        <id>https://medium.com/p/611d806f8e65</id>
+        <link href="https://coinsbench.com/build-a-crypto-casino-like-bc-game-complete-guide-to-launch-a-profitable-platform-611d806f8e65?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-04-27T11:01:54.000Z</updated>
+        <author>
+            <name>Benjamin Valor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploy Smart Contracts Securely Using Tangem Wallet with Hardhat 3]]></title>
+        <id>https://medium.com/p/16dac3557430</id>
+        <link href="https://coinsbench.com/deploy-smart-contracts-securely-using-tangem-wallet-with-hardhat-3-16dac3557430?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-04-27T11:01:42.000Z</updated>
+        <author>
+            <name>Workdroid Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your AI Agent Isn’t Growing — And Web3 Might Be the Fix]]></title>
+        <id>https://medium.com/p/869697bb3c11</id>
+        <link href="https://coinsbench.com/your-ai-agent-isnt-growing-and-web3-might-be-the-fix-869697bb3c11?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-04-27T11:01:37.000Z</updated>
+        <author>
+            <name>Shota Moue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role of NFTs in the Future of Digital Ownership]]></title>
+        <id>https://medium.com/p/2e17c82d26a3</id>
+        <link href="https://coinsbench.com/the-role-of-nfts-in-the-future-of-digital-ownership-2e17c82d26a3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-04-27T11:01:32.000Z</updated>
+        <summary type="html"><![CDATA[How NFTs are reshaping digital ownership beyond art in 2026 — from real estate tokenization and gaming assets to identity verification and…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Gulshan Yadav</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Aave V4’s “Design Choice” Turned Into a $195M Liquidation Deadlock (KelpDAO/rsETH Case)]]></title>
         <id>https://medium.com/p/f11ef8a67310</id>
@@ -118,51 +201,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built an ethers.js-Style SDK for Hyperledger Fabric in Go]]></title>
-        <id>https://medium.com/p/9305174db687</id>
-        <link href="https://coinsbench.com/i-built-an-ethers-js-style-sdk-for-hyperledger-fabric-in-go-9305174db687?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-21T16:28:20.000Z</updated>
-        <author>
-            <name>Muhammad Talha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What It Actually Costs to Run an Autonomous Pharmaceutical Chain on a 5-Branch Pilot]]></title>
-        <id>https://medium.com/p/6f5b2dbb518a</id>
-        <link href="https://coinsbench.com/what-it-actually-costs-to-run-an-autonomous-pharmaceutical-chain-on-a-5-branch-pilot-6f5b2dbb518a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-21T16:28:13.000Z</updated>
-        <author>
-            <name>Darlington Gospel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Rules to Be Successful in Your Career as a Smart Contract Security Researcher]]></title>
-        <id>https://medium.com/p/ff38981aa41e</id>
-        <link href="https://coinsbench.com/10-rules-to-be-successful-in-your-career-as-a-smart-contract-security-researcher-ff38981aa41e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-21T16:28:03.000Z</updated>
-        <author>
-            <name>Abraham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Uniswap V3’s Most Powerful Contract: A Deep Audit of Nonfungible Position Manager]]></title>
-        <id>https://medium.com/p/f89a842c40f5</id>
-        <link href="https://coinsbench.com/inside-uniswap-v3s-most-powerful-contract-a-deep-audit-of-nonfungible-position-manager-f89a842c40f5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-21T16:27:53.000Z</updated>
-        <author>
-            <name>Ericjo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 JD Risk Score: Why Some Job Descriptions Quietly Attract the Wrong Applicants]]></title>
-        <id>https://medium.com/p/e20fd84bea69</id>
-        <link href="https://coinsbench.com/web3-jd-risk-score-why-some-job-descriptions-quietly-attract-the-wrong-applicants-e20fd84bea69?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-21T16:27:43.000Z</updated>
-        <author>
-            <name>artofblockchain.club</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The “Ghost” Votes of Olas Protocol: 
 Why Lack of Sync is a Critical Economic Flaw]]></title>
         <id>https://medium.com/p/9b89c576269b</id>
@@ -170,42 +208,6 @@ Why Lack of Sync is a Critical Economic Flaw]]></title>
         <updated>2026-04-18T20:21:01.000Z</updated>
         <author>
             <name>rdin777</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚠️ 5 BTC Gone Overnight: Why I No Longer Trust “Safe” Hardware Wallets — And What I Use Instead]]></title>
-        <id>https://medium.com/p/45c0cb2fa663</id>
-        <link href="https://coinsbench.com/%EF%B8%8F-5-btc-gone-overnight-why-i-no-longer-trust-safe-hardware-wallets-and-what-i-use-instead-45c0cb2fa663?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-17T14:24:01.000Z</updated>
-        <author>
-            <name>Alejandro Steiner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate a High-Volume OTC Trading Desk]]></title>
-        <id>https://medium.com/p/30fc953f46ff</id>
-        <link href="https://coinsbench.com/how-to-integrate-a-high-volume-otc-trading-desk-30fc953f46ff?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-17T14:23:50.000Z</updated>
-        <author>
-            <name>Laravinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting Crypto Domains and Infra: A Guide to Defending Against DNS Hijacking and BGP Attacks]]></title>
-        <id>https://medium.com/p/6582e3d01bff</id>
-        <link href="https://coinsbench.com/protecting-crypto-domains-and-infra-a-guide-to-defending-against-dns-hijacking-and-bgp-attacks-6582e3d01bff?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-17T14:23:34.000Z</updated>
-        <author>
-            <name>Officer's Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agent Wallets: Combining ERC-4337 with Autonomous Execution]]></title>
-        <id>https://medium.com/p/ff82f2018621</id>
-        <link href="https://coinsbench.com/ai-agent-wallets-combining-erc-4337-with-autonomous-execution-ff82f2018621?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-17T14:23:25.000Z</updated>
-        <author>
-            <name>Riteish</name>
         </author>
     </entry>
     <entry>
