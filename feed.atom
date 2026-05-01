@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-01T10:26:25.094Z</id>
+    <id>urn:2026-05-01T11:57:46.593Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-01T10:26:25.094Z</updated>
+    <updated>2026-05-01T11:57:46.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Deploy a Proxy Contract to upgrade your primary smart contract[part 1]]]></title>
+        <id>https://medium.com/p/59d3fb46f581</id>
+        <link href="https://blog.blockmagnates.com/deploy-a-proxy-contract-to-upgrade-your-primary-smart-contract-part-1-59d3fb46f581?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-05-01T11:48:59.000Z</updated>
+        <author>
+            <name>Hikmah Gumelar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploy Meme Coin (ERC-20) with hardhat, and IPFS to store The Logo]]></title>
+        <id>https://medium.com/p/481da3b6fec7</id>
+        <link href="https://blog.blockmagnates.com/deploy-meme-coin-erc-20-using-hardhat-and-ipfs-to-store-the-logo-481da3b6fec7?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-05-01T11:48:59.000Z</updated>
+        <author>
+            <name>Hikmah Gumelar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synthetic Capital: How AI is Rewriting the Logic of Wealth]]></title>
+        <id>https://medium.com/p/a4b350575101</id>
+        <link href="https://coinsbench.com/synthetic-capital-how-ai-is-rewriting-the-logic-of-wealth-a4b350575101?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-01T11:44:56.000Z</updated>
+        <author>
+            <name>Tryzub_X</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Trusting Codes You Haven’t Stress-Tested]]></title>
+        <id>https://medium.com/p/cc8b8862eea8</id>
+        <link href="https://coinsbench.com/stop-trusting-codes-you-havent-stress-tested-cc8b8862eea8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-01T11:43:20.000Z</updated>
+        <author>
+            <name>Abena Trends</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Asking ‘Is This a Good Project?’]]></title>
+        <id>https://medium.com/p/de1a5708a1e6</id>
+        <link href="https://coinsbench.com/stop-asking-is-this-a-good-project-de1a5708a1e6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-01T11:43:14.000Z</updated>
+        <author>
+            <name>Dery K. Yahya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Flash Loan Bot When I Couldn’t Afford Dinner]]></title>
+        <id>https://medium.com/p/0a1a28c839bc</id>
+        <link href="https://coinsbench.com/i-built-a-flash-loan-bot-when-i-couldnt-afford-dinner-0a1a28c839bc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-01T11:43:00.000Z</updated>
+        <author>
+            <name>kauersaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Deployed a Flash Loan Arbitrage Bot on Polygon Mainnet — Here’s Everything I Learned]]></title>
+        <id>https://medium.com/p/19eab8802278</id>
+        <link href="https://coinsbench.com/i-deployed-a-flash-loan-arbitrage-bot-on-polygon-mainnet-heres-everything-i-learned-19eab8802278?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-01T11:42:54.000Z</updated>
+        <author>
+            <name>kauersaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello, World.]]></title>
+        <id>https://medium.com/p/7639b1f30c37</id>
+        <link href="https://coinsbench.com/hello-world-7639b1f30c37?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-01T11:42:51.000Z</updated>
+        <author>
+            <name>lokii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a 24/7 Solana Memecoin Sniper With Claude Code (No Code)]]></title>
+        <id>https://medium.com/p/27d8577ed5e8</id>
+        <link href="https://medium.com/coinmonks/how-i-built-a-24-7-solana-memecoin-sniper-with-claude-code-no-code-27d8577ed5e8?source=rss----721b17443fd5---4"/>
+        <updated>2026-05-01T10:43:46.000Z</updated>
+        <author>
+            <name>Coinmonks Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Five Crypto Search Trends Quietly Going Vertical — And What They Reveal About Where Retail Money Is…]]></title>
         <id>https://medium.com/p/03d67a1d3cb2</id>
@@ -87,15 +168,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Team Was Losing €20K/Month — Not From Bad Trades, But From Bad Plumbing]]></title>
-        <id>https://medium.com/p/d64b855d45df</id>
-        <link href="https://medium.com/coinmonks/the-team-was-losing-20k-month-not-from-bad-trades-but-from-bad-plumbing-d64b855d45df?source=rss----721b17443fd5---4"/>
-        <updated>2026-05-01T08:19:00.000Z</updated>
-        <author>
-            <name>Vlad Anderson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LIRIX v1.5.1 [Codename: OMNISCIENCE] — The Deterministic Cage for Web3 AI]]></title>
         <id>https://medium.com/p/e274441bdca9</id>
         <link href="https://coinsbench.com/lirix-v1-5-1-codename-omniscience-the-deterministic-cage-for-web3-ai-e274441bdca9?source=rss----f1cfd22cde3e---4"/>
@@ -131,60 +203,6 @@ Continue reading on CoinsBench »]]></summary>
         <updated>2026-04-29T13:23:40.000Z</updated>
         <author>
             <name>lokii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Letting Your AI Agents Execute Naked: Introducing Lirix v1.0.0]]></title>
-        <id>https://medium.com/p/0f7056e84a70</id>
-        <link href="https://coinsbench.com/stop-letting-your-ai-agents-execute-naked-introducing-lirix-v1-0-0-0f7056e84a70?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-29T13:23:36.000Z</updated>
-        <author>
-            <name>lokii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[️ Lirix v1.4.1: The Ecosystem Domination Release]]></title>
-        <id>https://medium.com/p/1ba42a56ef2f</id>
-        <link href="https://coinsbench.com/%EF%B8%8F-lirix-v1-4-1-the-ecosystem-domination-release-1ba42a56ef2f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-27T11:03:43.000Z</updated>
-        <author>
-            <name>lokii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TVM Message Replay: Venom Wallet Exposed]]></title>
-        <id>https://medium.com/p/32f311509092</id>
-        <link href="https://coinsbench.com/tvm-message-replay-venom-wallet-exposed-32f311509092?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-27T11:03:04.000Z</updated>
-        <author>
-            <name>Stepan Chekhovskoi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Coresage Facilitates Trust Automation via Smart Contracts]]></title>
-        <id>https://medium.com/p/8feb260248bc</id>
-        <link href="https://coinsbench.com/how-coresage-facilitates-trust-automation-via-smart-contracts-8feb260248bc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-27T11:02:48.000Z</updated>
-        <author>
-            <name>Mjchiedozie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Web2.5 Kill Chain (Part 2): Blood in the Directory]]></title>
-        <id>https://medium.com/p/4c1d7ee2d49f</id>
-        <link href="https://coinsbench.com/the-web2-5-kill-chain-part-2-blood-in-the-directory-4c1d7ee2d49f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-27T11:02:27.000Z</updated>
-        <author>
-            <name>Tabrez Mukadam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Real AI Audit Team for Solidity Smart Contracts]]></title>
-        <id>https://medium.com/p/4f8135b1b5f1</id>
-        <link href="https://coinsbench.com/building-a-real-ai-audit-team-for-solidity-smart-contracts-4f8135b1b5f1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-27T11:02:01.000Z</updated>
-        <author>
-            <name>BATIS AB</name>
         </author>
     </entry>
     <entry>
