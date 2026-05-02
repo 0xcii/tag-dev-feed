@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -119,6 +125,16 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/9c107879731a",
+          "author": "Coinmonks Team",
+          "description": "",
+          "link": "https://medium.com/coinmonks/i-tested-solanas-decentralized-stablecoins-hyusd-vs-usde-vs-usd-vs-susd-9c107879731a?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-05-02T10:05:03.000Z",
+          "wordCount": null,
+          "title": "I Tested Solana’s Decentralized Stablecoins: hyUSD vs USDe vs USD* vs sUSD",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/760a95af5021",
           "author": "NordFX",
           "description": "",
@@ -206,16 +222,6 @@
           "publishedOn": "2026-05-01T08:19:47.000Z",
           "wordCount": null,
           "title": "Global Blockchain Show Riyadh Unveils World-Class Speakers Redefining the Future of Web3 and…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1708f537a6ef",
-          "author": "André Augusto",
-          "description": "",
-          "link": "https://medium.com/coinmonks/erc-7683-a-technical-deep-dive-into-the-cross-chain-intents-standard-1708f537a6ef?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-05-01T08:19:45.000Z",
-          "wordCount": null,
-          "title": "ERC-7683: A Technical Deep Dive into the Cross-Chain Intents Standard",
           "imageUrl": null
         }
       ]
