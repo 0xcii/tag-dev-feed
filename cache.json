@@ -18,6 +18,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/411b5887921e",
+          "author": "Barsil Nzola",
+          "description": "",
+          "link": "https://coinsbench.com/gas-optimization-in-solidity-writing-efficient-smart-contracts-411b5887921e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-05-03T19:26:01.000Z",
+          "wordCount": null,
+          "title": "Gas Optimization in Solidity: Writing Efficient Smart Contracts",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/a4b350575101",
           "author": "Tryzub_X",
           "description": "",
@@ -105,16 +115,6 @@
           "publishedOn": "2026-04-29T13:24:26.000Z",
           "wordCount": null,
           "title": "️ Lirix v1.3.0: Deterministic Security for AI Agents in the Dark Forest",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e5232470e613",
-          "author": "lokii",
-          "description": "",
-          "link": "https://coinsbench.com/how-expensive-is-a-naked-ai-agent-the-285m-tragedy-the-inevitability-of-ail-architecture-e5232470e613?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-04-29T13:23:40.000Z",
-          "wordCount": null,
-          "title": "How Expensive is a Naked AI Agent? The $285M Tragedy & The Inevitability of AIL Architecture",
           "imageUrl": null
         }
       ]
@@ -231,6 +231,16 @@
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
+        {
+          "id": "https://medium.com/p/a96617ebe672",
+          "author": "rdin777",
+          "description": "",
+          "link": "https://blog.blockmagnates.com/how-1-000-wei-can-drain-protocol-fees-a-deep-dive-into-cow-protocol-rounding-errors-a96617ebe672?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2026-05-03T19:51:01.000Z",
+          "wordCount": null,
+          "title": "How 1,000 Wei Can Drain Protocol Fees: A Deep Dive into CoW Protocol Rounding Errors",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/59d3fb46f581",
           "author": "Hikmah Gumelar",

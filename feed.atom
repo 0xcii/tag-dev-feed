@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-03T18:56:40.431Z</id>
+    <id>urn:2026-05-03T19:54:24.373Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-03T18:56:40.431Z</updated>
+    <updated>2026-05-03T19:54:24.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How 1,000 Wei Can Drain Protocol Fees: A Deep Dive into CoW Protocol Rounding Errors]]></title>
+        <id>https://medium.com/p/a96617ebe672</id>
+        <link href="https://blog.blockmagnates.com/how-1-000-wei-can-drain-protocol-fees-a-deep-dive-into-cow-protocol-rounding-errors-a96617ebe672?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-05-03T19:51:01.000Z</updated>
+        <author>
+            <name>rdin777</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gas Optimization in Solidity: Writing Efficient Smart Contracts]]></title>
+        <id>https://medium.com/p/411b5887921e</id>
+        <link href="https://coinsbench.com/gas-optimization-in-solidity-writing-efficient-smart-contracts-411b5887921e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-03T19:26:01.000Z</updated>
+        <author>
+            <name>Barsil Nzola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[xSOL vs Looping jitoSOL: I Did the Math on Both]]></title>
         <id>https://medium.com/p/2d41a38aea1a</id>
@@ -196,15 +214,6 @@ Continue reading on CoinsBench »]]></summary>
         <id>https://medium.com/p/9f1c7f39ac54</id>
         <link href="https://coinsbench.com/%EF%B8%8F-lirix-v1-3-0-deterministic-security-for-ai-agents-in-the-dark-forest-9f1c7f39ac54?source=rss----f1cfd22cde3e---4"/>
         <updated>2026-04-29T13:24:26.000Z</updated>
-        <author>
-            <name>lokii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Expensive is a Naked AI Agent? The $285M Tragedy & The Inevitability of AIL Architecture]]></title>
-        <id>https://medium.com/p/e5232470e613</id>
-        <link href="https://coinsbench.com/how-expensive-is-a-naked-ai-agent-the-285m-tragedy-the-inevitability-of-ail-architecture-e5232470e613?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-04-29T13:23:40.000Z</updated>
         <author>
             <name>lokii</name>
         </author>
