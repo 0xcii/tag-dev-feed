@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -299,16 +293,6 @@
           "publishedOn": "2026-04-11T19:31:01.000Z",
           "wordCount": null,
           "title": "The Bricking Point: Analyzing Permanent Fund Loss in Panoptic’s SFPM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/cc0b0cf1a615",
-          "author": "rdin777",
-          "description": "",
-          "link": "https://blog.blockmagnates.com/how-i-found-a-critical-precision-loss-in-kuru-labs-using-foundry-fuzzin-cc0b0cf1a615?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2026-04-05T20:21:01.000Z",
-          "wordCount": null,
-          "title": "How I Found a Critical Precision Loss in Kuru Labs Using Foundry Fuzzin",
           "imageUrl": null
         }
       ]
