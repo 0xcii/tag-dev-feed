@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-06T14:04:42.728Z</id>
+    <id>urn:2026-05-06T16:25:20.127Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-06T14:04:42.728Z</updated>
+    <updated>2026-05-06T16:25:20.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[X-Raying EVM Proxies: How to Eradicate Deep-Nested Hacks in Web3 Agents]]></title>
+        <id>https://medium.com/p/0f71b9875bea</id>
+        <link href="https://coinsbench.com/x-raying-evm-proxies-how-to-eradicate-deep-nested-hacks-in-web3-agents-0f71b9875bea?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-06T14:58:01.000Z</updated>
+        <author>
+            <name>lokii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Trusting LLMs with Calldata: Architecting a Mathematical Cage for Web3 Agents]]></title>
+        <id>https://medium.com/p/4196adf46859</id>
+        <link href="https://coinsbench.com/stop-trusting-llms-with-calldata-architecting-a-mathematical-cage-for-web3-agents-4196adf46859?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-06T14:57:55.000Z</updated>
+        <author>
+            <name>lokii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenBlock Canada]]></title>
+        <id>https://medium.com/p/ccf3940d85da</id>
+        <link href="https://coinsbench.com/openblock-canada-ccf3940d85da?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-06T14:57:51.000Z</updated>
+        <author>
+            <name>kauersaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecting a Deterministic Chokehold for Web3 AI Agents: Inside the Lirix Engine]]></title>
+        <id>https://medium.com/p/62b181b81ada</id>
+        <link href="https://coinsbench.com/architecting-a-deterministic-chokehold-for-web3-ai-agents-inside-the-lirix-engine-62b181b81ada?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-06T14:57:45.000Z</updated>
+        <author>
+            <name>lokii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before SNARKs: Building a Mini ZK-Rollup Verifier in Rust]]></title>
+        <id>https://medium.com/p/3813edd9c2e8</id>
+        <link href="https://coinsbench.com/before-snarks-building-a-mini-zk-rollup-verifier-in-rust-3813edd9c2e8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-06T14:57:41.000Z</updated>
+        <author>
+            <name>Joseph Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenBlock Canada: Technical Sovereignty & The Permanent Press]]></title>
         <id>https://medium.com/p/b9efece563d7</id>
@@ -151,51 +196,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-05-01T11:44:56.000Z</updated>
         <author>
             <name>Tryzub_X</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Trusting Codes You Haven’t Stress-Tested]]></title>
-        <id>https://medium.com/p/cc8b8862eea8</id>
-        <link href="https://coinsbench.com/stop-trusting-codes-you-havent-stress-tested-cc8b8862eea8?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-05-01T11:43:20.000Z</updated>
-        <author>
-            <name>Abena Trends</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Asking ‘Is This a Good Project?’]]></title>
-        <id>https://medium.com/p/de1a5708a1e6</id>
-        <link href="https://coinsbench.com/stop-asking-is-this-a-good-project-de1a5708a1e6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-05-01T11:43:14.000Z</updated>
-        <author>
-            <name>Dery K. Yahya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Flash Loan Bot When I Couldn’t Afford Dinner]]></title>
-        <id>https://medium.com/p/0a1a28c839bc</id>
-        <link href="https://coinsbench.com/i-built-a-flash-loan-bot-when-i-couldnt-afford-dinner-0a1a28c839bc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-05-01T11:43:00.000Z</updated>
-        <author>
-            <name>kauersaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Deployed a Flash Loan Arbitrage Bot on Polygon Mainnet — Here’s Everything I Learned]]></title>
-        <id>https://medium.com/p/19eab8802278</id>
-        <link href="https://coinsbench.com/i-deployed-a-flash-loan-arbitrage-bot-on-polygon-mainnet-heres-everything-i-learned-19eab8802278?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-05-01T11:42:54.000Z</updated>
-        <author>
-            <name>kauersaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello, World.]]></title>
-        <id>https://medium.com/p/7639b1f30c37</id>
-        <link href="https://coinsbench.com/hello-world-7639b1f30c37?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-05-01T11:42:51.000Z</updated>
-        <author>
-            <name>lokii</name>
         </author>
     </entry>
     <entry>
