@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-08T10:23:09.891Z</id>
+    <id>urn:2026-05-08T12:07:03.492Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-08T10:23:09.891Z</updated>
+    <updated>2026-05-08T12:07:03.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The RPC Delusion: Architecting Byzantine Fault Tolerance for Web3 Agents]]></title>
+        <id>https://medium.com/p/151329061b05</id>
+        <link href="https://coinsbench.com/the-rpc-delusion-architecting-byzantine-fault-tolerance-for-web3-agents-151329061b05?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-08T10:22:24.000Z</updated>
+        <author>
+            <name>lokii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unmasking a Web3 Supply Chain Attack: Deobfuscating a 47-Wallet Stealer Hidden in Vite]]></title>
+        <id>https://medium.com/p/03afc19e6358</id>
+        <link href="https://coinsbench.com/unmasking-a-web3-supply-chain-attack-deobfuscating-a-47-wallet-stealer-hidden-in-vite-03afc19e6358?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-08T10:22:17.000Z</updated>
+        <author>
+            <name>周伟</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Most Traders Improve… Then Suddenly Stop Progressing]]></title>
         <id>https://medium.com/p/76e32a93d06d</id>
@@ -179,15 +197,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gas Optimization in Solidity: Writing Efficient Smart Contracts]]></title>
-        <id>https://medium.com/p/411b5887921e</id>
-        <link href="https://coinsbench.com/gas-optimization-in-solidity-writing-efficient-smart-contracts-411b5887921e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-05-03T19:26:01.000Z</updated>
-        <author>
-            <name>Barsil Nzola</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Deploy a Proxy Contract to upgrade your primary smart contract[part 1]]]></title>
         <id>https://medium.com/p/59d3fb46f581</id>
         <link href="https://blog.blockmagnates.com/deploy-a-proxy-contract-to-upgrade-your-primary-smart-contract-part-1-59d3fb46f581?source=rss----18fa961f1eff--solidity"/>
@@ -203,15 +212,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-05-01T11:48:59.000Z</updated>
         <author>
             <name>Hikmah Gumelar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synthetic Capital: How AI is Rewriting the Logic of Wealth]]></title>
-        <id>https://medium.com/p/a4b350575101</id>
-        <link href="https://coinsbench.com/synthetic-capital-how-ai-is-rewriting-the-logic-of-wealth-a4b350575101?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-05-01T11:44:56.000Z</updated>
-        <author>
-            <name>Tryzub_X</name>
         </author>
     </entry>
     <entry>
