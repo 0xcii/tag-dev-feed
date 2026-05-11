@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -11,6 +17,66 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/217e86b86dc1",
+          "author": "lokii",
+          "description": "",
+          "link": "https://coinsbench.com/surviving-byzantine-fire-empirical-proof-of-a-deterministic-web3-ai-architecture-217e86b86dc1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-05-11T11:18:06.000Z",
+          "wordCount": null,
+          "title": "Surviving Byzantine Fire: Empirical Proof of a Deterministic Web3 AI Architecture",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9923115d97fd",
+          "author": "周伟",
+          "description": "",
+          "link": "https://coinsbench.com/the-deconstruction-of-trust-an-architectural-audit-of-modern-hardware-wallet-firmware-9923115d97fd?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-05-11T11:18:02.000Z",
+          "wordCount": null,
+          "title": "The Deconstruction of Trust: An Architectural Audit of Modern Hardware Wallet Firmware",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8673d2f3a602",
+          "author": "lokii",
+          "description": "",
+          "link": "https://coinsbench.com/escaping-cognitive-deadlock-architecting-self-healing-web3-agents-8673d2f3a602?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-05-11T11:18:00.000Z",
+          "wordCount": null,
+          "title": "Escaping Cognitive Deadlock: Architecting Self-Healing Web3 Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/de4bdfc2d57c",
+          "author": "Paul Simroth",
+          "description": "",
+          "link": "https://coinsbench.com/the-state-of-blockchain-web3-in-aviation-de4bdfc2d57c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-05-11T11:17:57.000Z",
+          "wordCount": null,
+          "title": "The state of Blockchain & Web3 in Aviation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0f95794a28c9",
+          "author": "lokii",
+          "description": "",
+          "link": "https://coinsbench.com/the-sandbox-oracle-decompiling-evm-reverts-to-architect-self-healing-web3-agents-0f95794a28c9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-05-11T11:17:54.000Z",
+          "wordCount": null,
+          "title": "The Sandbox Oracle: Decompiling EVM Reverts to Architect Self-Healing Web3 Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/477847dee037",
+          "author": "Shaileshsa",
+          "description": "",
+          "link": "https://coinsbench.com/how-smart-contracts-work-in-ethereum-477847dee037?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-05-11T11:17:51.000Z",
+          "wordCount": null,
+          "title": "How Smart Contracts Work in Ethereum",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/151329061b05",
           "author": "lokii",
@@ -50,66 +116,6 @@
           "wordCount": null,
           "title": "Stop Trusting LLMs with Calldata: Architecting a Mathematical Cage for Web3 Agents",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ccf3940d85da",
-          "author": "kauersaki",
-          "description": "",
-          "link": "https://coinsbench.com/openblock-canada-ccf3940d85da?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-05-06T14:57:51.000Z",
-          "wordCount": null,
-          "title": "OpenBlock Canada",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/62b181b81ada",
-          "author": "lokii",
-          "description": "",
-          "link": "https://coinsbench.com/architecting-a-deterministic-chokehold-for-web3-ai-agents-inside-the-lirix-engine-62b181b81ada?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-05-06T14:57:45.000Z",
-          "wordCount": null,
-          "title": "Architecting a Deterministic Chokehold for Web3 AI Agents: Inside the Lirix Engine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3813edd9c2e8",
-          "author": "Joseph Wang",
-          "description": "",
-          "link": "https://coinsbench.com/before-snarks-building-a-mini-zk-rollup-verifier-in-rust-3813edd9c2e8?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-05-06T14:57:41.000Z",
-          "wordCount": null,
-          "title": "Before SNARKs: Building a Mini ZK-Rollup Verifier in Rust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b9efece563d7",
-          "author": "kauersaki",
-          "description": "",
-          "link": "https://coinsbench.com/openblock-canada-technical-sovereignty-the-permanent-press-b9efece563d7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-05-04T14:41:13.000Z",
-          "wordCount": null,
-          "title": "OpenBlock Canada: Technical Sovereignty & The Permanent Press",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/756c0c7cb82a",
-          "author": "Prajeet",
-          "description": "",
-          "link": "https://coinsbench.com/turning-the-suiplay0x1-into-a-real-linux-desktop-756c0c7cb82a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-05-04T14:41:02.000Z",
-          "wordCount": null,
-          "title": "Turning the SuiPlay0x1 Into a Real Linux Desktop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/74c4eb491ed3",
-          "author": "Tabrez Mukadam",
-          "description": "",
-          "link": "https://coinsbench.com/%EF%B8%8F-the-web2-5-kill-chain-part-3-the-final-override-74c4eb491ed3?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-05-04T14:40:54.000Z",
-          "wordCount": null,
-          "title": "☢️ The Web2.5 Kill Chain (Part 3): The Final Override",
-          "imageUrl": null
         }
       ]
     },
@@ -119,103 +125,103 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/b1b7f74782e7",
-          "author": "Mark Timmis",
-          "description": "tl;dr\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-9th-may-2026-revolut-switzerland-and-a-supply-shock-b1b7f74782e7?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-05-11T06:25:39.000Z",
-          "wordCount": null,
-          "title": "Curious Cryptos’ Commentary 9th May 2026 > > Revolut, Switzerland, and a supply shock",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/56229d9c0a05",
-          "author": "Tony Philips",
-          "description": "You’d be up to 5 times richer if you invested in these coins last week\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/these-6-little-known-cryptos-gained-massive-this-week-56229d9c0a05?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-05-11T04:44:33.000Z",
-          "wordCount": null,
-          "title": "These 6 Little-Known Cryptos Gained Massive % This Week",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b82c32f15bcf",
-          "author": "Daniel Cross",
+          "id": "https://medium.com/p/2e68905a89f4",
+          "author": "Quinn Donovan",
           "description": "",
-          "link": "https://medium.com/coinmonks/dubai-crypto-getting-boring-why-it-matters-b82c32f15bcf?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-05-11T04:44:24.000Z",
+          "link": "https://medium.com/coinmonks/how-tokenized-real-world-assets-reached-19-3b-by-q1-2026-2e68905a89f4?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-05-11T13:16:44.000Z",
           "wordCount": null,
-          "title": "Dubai Crypto Is Getting Boring — And That’s Exactly Why It Matters",
+          "title": "How Tokenized Real World Assets Reached $19.3B by Q1 2026",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/d8a292073198",
-          "author": "SKYFOR",
+          "id": "https://medium.com/p/6b8dbc63944e",
+          "author": "Robin Bucciarelli",
           "description": "",
-          "link": "https://medium.com/coinmonks/the-death-of-vanity-metrics-why-web3-marketing-is-broken-and-how-to-fix-it-d8a292073198?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-05-11T04:44:21.000Z",
+          "link": "https://medium.com/coinmonks/bitcoin-didnt-fall-from-the-sky-6b8dbc63944e?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-05-11T13:16:09.000Z",
           "wordCount": null,
-          "title": "The Death of Vanity Metrics: Why Web3 Marketing is Broken (and How to Fix It)",
+          "title": "Bitcoin Didn’t Fall from the Sky",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/735a61af0e23",
-          "author": "Kevin Meneses González",
+          "id": "https://medium.com/p/4fdf7932b4a8",
+          "author": "Samuel AYODEJI",
           "description": "",
-          "link": "https://medium.com/coinmonks/i-asked-claude-to-build-me-a-dividend-screener-using-eodhd-heres-what-it-found-735a61af0e23?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-05-11T04:44:16.000Z",
+          "link": "https://medium.com/coinmonks/tradfi-vs-crypto-why-wall-street-is-fighting-the-future-of-money-4fdf7932b4a8?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-05-11T13:10:58.000Z",
           "wordCount": null,
-          "title": "I Asked Claude to Build Me a Dividend Screener Using EODHD — Here’s What It Found",
+          "title": "TradFi vs Crypto: Why Wall Street Is Fighting the Future of Money",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/af4577eef4da",
-          "author": "Daniel Cross",
+          "id": "https://medium.com/p/d2425a894607",
+          "author": "Mitch Owen",
           "description": "",
-          "link": "https://medium.com/coinmonks/is-your-ai-using-prompts-for-you-to-do-task-af4577eef4da?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-05-11T04:44:07.000Z",
+          "link": "https://medium.com/coinmonks/the-ultimate-guide-to-hyperledger-blockchain-development-for-enterprises-in-2026-d2425a894607?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-05-11T13:08:32.000Z",
           "wordCount": null,
-          "title": "Is your AI using prompts for you to do task?",
+          "title": "The Ultimate Guide to Hyperledger Blockchain Development for Enterprises in 2026",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/524e478a3aa6",
-          "author": "Georges Achkar",
+          "id": "https://medium.com/p/3046ec0dbf4a",
+          "author": "YAROCELIS.eth - Tech Trends",
+          "description": "The rapid scaling of artificial intelligence has reached a physical impasse.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-ai-infrastructure-is-in-a-crisis-3046ec0dbf4a?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-05-11T13:04:33.000Z",
+          "wordCount": null,
+          "title": "The AI Infrastructure is in a Crisis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4c252038d155",
+          "author": "Ian Moore, PhD",
           "description": "",
-          "link": "https://medium.com/coinmonks/goldenduck-autotradingbot-scam-the-fake-telegram-bot-that-uses-task-scams-and-a-vanished-mentor-524e478a3aa6?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-05-11T04:44:01.000Z",
+          "link": "https://medium.com/coinmonks/introducing-agentic-defi-with-defipy-v2-4c252038d155?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-05-11T13:03:46.000Z",
           "wordCount": null,
-          "title": "GoldenDuck_AutoTradingbot Scam: The Fake Telegram Bot That Uses Task Scams and a Vanished Mentor",
+          "title": "Introducing Agentic DeFi with DeFiPy v2",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/4b8e135d3a07",
-          "author": "NordFX",
+          "id": "https://medium.com/p/79676d884997",
+          "author": "OrcaLayer",
           "description": "",
-          "link": "https://medium.com/coinmonks/weekly-forex-crypto-forecast-may-11-15-2026-4b8e135d3a07?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-05-11T04:43:56.000Z",
+          "link": "https://medium.com/coinmonks/why-a-99-win-rate-on-polymarket-trackers-is-a-trap-79676d884997?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-05-11T13:03:34.000Z",
           "wordCount": null,
-          "title": "NordFX Weekly Forex & Crypto Forecast | May 11–15, 2026",
+          "title": "Why a 99% Win Rate on Polymarket trackers is a trap",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/0138b1bb76fc",
-          "author": "Ruchika Sharma",
+          "id": "https://medium.com/p/ce667394ac85",
+          "author": "Lanamoreau",
           "description": "",
-          "link": "https://medium.com/coinmonks/how-chatbots-are-creating-a-new-privacy-crisis-0138b1bb76fc?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-05-11T04:42:20.000Z",
+          "link": "https://medium.com/coinmonks/ai-agents-are-quietly-replacing-apps-heres-what-that-means-ce667394ac85?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-05-11T13:01:45.000Z",
           "wordCount": null,
-          "title": "How Chatbots Are Creating a New Privacy Crisis",
+          "title": "AI Agents Are Quietly Replacing Apps- Here’s What That Means",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/2199afdeb8cc",
-          "author": "CryptoExplainer",
-          "description": "A practical guide to passive yield mechanics in crypto\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/building-a-reflection-token-2199afdeb8cc?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-05-11T04:42:15.000Z",
+          "id": "https://medium.com/p/a7e370b3fe8e",
+          "author": "Gen",
+          "description": "",
+          "link": "https://medium.com/coinmonks/stocks-ran-crypto-said-fear-a7e370b3fe8e?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-05-11T12:57:33.000Z",
           "wordCount": null,
-          "title": "Building a Reflection Token",
+          "title": "Stocks Ran, Crypto Said Fear",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f632cd52e56f",
+          "author": "Michalsteve",
+          "description": "",
+          "link": "https://medium.com/coinmonks/what-are-local-payment-rails-and-why-do-crypto-exchanges-need-them-today-f632cd52e56f?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-05-11T12:55:38.000Z",
+          "wordCount": null,
+          "title": "What Are Local Payment Rails and Why Do Crypto Exchanges Need Them Today",
           "imageUrl": null
         }
       ]
