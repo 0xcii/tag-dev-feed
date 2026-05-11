@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -299,16 +293,6 @@
           "publishedOn": "2026-04-17T12:11:36.000Z",
           "wordCount": null,
           "title": "50 EVM Opcodes Every\nSolidity Developer\nMust Know",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7c045596ccf2",
-          "author": "rdin777",
-          "description": "",
-          "link": "https://blog.blockmagnates.com/the-bricking-point-analyzing-permanent-fund-loss-in-panoptics-sfpm-7c045596ccf2?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2026-04-11T19:31:01.000Z",
-          "wordCount": null,
-          "title": "The Bricking Point: Analyzing Permanent Fund Loss in Panoptic’s SFPM",
           "imageUrl": null
         }
       ]
