@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-17T18:02:43.767Z</id>
+    <id>urn:2026-05-17T20:02:47.659Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-17T18:02:43.767Z</updated>
+    <updated>2026-05-17T20:02:47.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hijacking Phantom Shares: How a Cross-Contract Reentrancy in Panoptic Leads to Infinite Supply…]]></title>
+        <id>https://medium.com/p/e08e9a0bbb66</id>
+        <link href="https://blog.blockmagnates.com/hijacking-phantom-shares-how-a-cross-contract-reentrancy-in-panoptic-leads-to-infinite-supply-e08e9a0bbb66?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-05-17T19:21:00.000Z</updated>
+        <author>
+            <name>rdin777</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vertical SaaS Payment Gateway Bundles]]></title>
         <id>https://medium.com/p/4466a3b165f6</id>
