@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-18T11:51:26.850Z</id>
+    <id>urn:2026-05-18T15:27:38.136Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-18T11:51:26.850Z</updated>
+    <updated>2026-05-18T15:27:38.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Archaeology of Tech Debt: Auditing a 24-Year-Old Legacy Monolith in 4 Days via Multi-AI…]]></title>
+        <id>https://medium.com/p/1c3a187c78bf</id>
+        <link href="https://coinsbench.com/the-archaeology-of-tech-debt-auditing-a-24-year-old-legacy-monolith-in-4-days-via-multi-ai-1c3a187c78bf?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-18T14:10:53.000Z</updated>
+        <author>
+            <name>周伟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 5% Deficit: Defending the Last Frontier of Web3 and Hardware Security]]></title>
+        <id>https://medium.com/p/9521e5c5eab4</id>
+        <link href="https://coinsbench.com/the-5-deficit-defending-the-last-frontier-of-web3-and-hardware-security-9521e5c5eab4?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-18T14:10:49.000Z</updated>
+        <author>
+            <name>周伟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Playing Russian Roulette with Your TVL: Architecting a Zero-Trust EVM Airlock for Autonomous…]]></title>
+        <id>https://medium.com/p/357c00679f4b</id>
+        <link href="https://coinsbench.com/stop-playing-russian-roulette-with-your-tvl-architecting-a-zero-trust-evm-airlock-for-autonomous-357c00679f4b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-18T14:10:45.000Z</updated>
+        <author>
+            <name>lokii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SATO: The Ethereum Scarcity Experiment the Market Is Still Learning to Price]]></title>
+        <id>https://medium.com/p/231286d3a0f5</id>
+        <link href="https://coinsbench.com/sato-the-ethereum-scarcity-experiment-the-market-is-still-learning-to-price-231286d3a0f5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-18T14:10:43.000Z</updated>
+        <author>
+            <name>Dante Fabillar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Deconstruction of Trust: Architectural Boundary Mismatch in Hybrid Firmware Environments]]></title>
+        <id>https://medium.com/p/8dc5a1506d32</id>
+        <link href="https://coinsbench.com/the-deconstruction-of-trust-architectural-boundary-mismatch-in-hybrid-firmware-environments-8dc5a1506d32?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-18T14:10:39.000Z</updated>
+        <author>
+            <name>周伟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Vulnerability Detection using Machine Learning: A Lightweight and Interpretable…]]></title>
+        <id>https://medium.com/p/b82561302b88</id>
+        <link href="https://coinsbench.com/smart-contract-vulnerability-detection-using-machine-learning-a-lightweight-and-interpretable-b82561302b88?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-05-18T14:10:20.000Z</updated>
+        <author>
+            <name>Jaysuratwala</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I’m building this alone. One developer, four repositories, zero investors.]]></title>
         <id>https://medium.com/p/6f9fa453acf6</id>
@@ -141,66 +195,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Escaping Cognitive Deadlock: Architecting Self-Healing Web3 Agents]]></title>
-        <id>https://medium.com/p/8673d2f3a602</id>
-        <link href="https://coinsbench.com/escaping-cognitive-deadlock-architecting-self-healing-web3-agents-8673d2f3a602?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-05-11T11:18:00.000Z</updated>
-        <author>
-            <name>lokii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The state of Blockchain & Web3 in Aviation]]></title>
-        <id>https://medium.com/p/de4bdfc2d57c</id>
-        <link href="https://coinsbench.com/the-state-of-blockchain-web3-in-aviation-de4bdfc2d57c?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-05-11T11:17:57.000Z</updated>
-        <author>
-            <name>Paul Simroth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sandbox Oracle: Decompiling EVM Reverts to Architect Self-Healing Web3 Agents]]></title>
-        <id>https://medium.com/p/0f95794a28c9</id>
-        <link href="https://coinsbench.com/the-sandbox-oracle-decompiling-evm-reverts-to-architect-self-healing-web3-agents-0f95794a28c9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-05-11T11:17:54.000Z</updated>
-        <author>
-            <name>lokii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Smart Contracts Work in Ethereum]]></title>
-        <id>https://medium.com/p/477847dee037</id>
-        <link href="https://coinsbench.com/how-smart-contracts-work-in-ethereum-477847dee037?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-05-11T11:17:51.000Z</updated>
-        <author>
-            <name>Shaileshsa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Protecting DeFi: Building an AI Sentinel for Rhea Finance Invariant Monitoring]]></title>
         <id>https://medium.com/p/90526233937e</id>
         <link href="https://blog.blockmagnates.com/protecting-defi-building-an-ai-sentinel-for-rhea-finance-invariant-monitoring-90526233937e?source=rss----18fa961f1eff--solidity"/>
         <updated>2026-05-08T19:01:01.000Z</updated>
         <author>
             <name>rdin777</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The RPC Delusion: Architecting Byzantine Fault Tolerance for Web3 Agents]]></title>
-        <id>https://medium.com/p/151329061b05</id>
-        <link href="https://coinsbench.com/the-rpc-delusion-architecting-byzantine-fault-tolerance-for-web3-agents-151329061b05?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-05-08T10:22:24.000Z</updated>
-        <author>
-            <name>lokii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unmasking a Web3 Supply Chain Attack: Deobfuscating a 47-Wallet Stealer Hidden in Vite]]></title>
-        <id>https://medium.com/p/03afc19e6358</id>
-        <link href="https://coinsbench.com/unmasking-a-web3-supply-chain-attack-deobfuscating-a-47-wallet-stealer-hidden-in-vite-03afc19e6358?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-05-08T10:22:17.000Z</updated>
-        <author>
-            <name>周伟</name>
         </author>
     </entry>
     <entry>
