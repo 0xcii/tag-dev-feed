@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -11,6 +17,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/e5f9e835dad2",
+          "author": "Hacker MD",
+          "description": "",
+          "link": "https://coinsbench.com/devoured-by-bots-how-a-missing-parameter-enabled-100-mev-leakage-in-a-defi-zap-contract-e5f9e835dad2?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-05-24T20:11:00.000Z",
+          "wordCount": null,
+          "title": "Devoured by Bots: How a Missing Parameter Enabled 100% MEV Leakage in a DeFi Zap Contract",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/7063e344ecac",
           "author": "Hacker MD",
@@ -99,16 +115,6 @@
           "publishedOn": "2026-05-18T14:10:43.000Z",
           "wordCount": null,
           "title": "SATO: The Ethereum Scarcity Experiment the Market Is Still Learning to Price",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8dc5a1506d32",
-          "author": "周伟",
-          "description": "",
-          "link": "https://coinsbench.com/the-deconstruction-of-trust-architectural-boundary-mismatch-in-hybrid-firmware-environments-8dc5a1506d32?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-05-18T14:10:39.000Z",
-          "wordCount": null,
-          "title": "The Deconstruction of Trust: Architectural Boundary Mismatch in Hybrid Firmware Environments",
           "imageUrl": null
         }
       ]
