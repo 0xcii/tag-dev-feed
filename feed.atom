@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-26T05:01:17.002Z</id>
+    <id>urn:2026-05-26T09:52:00.563Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-26T05:01:17.002Z</updated>
+    <updated>2026-05-26T09:52:00.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -228,15 +228,6 @@
         <updated>2026-05-01T11:48:59.000Z</updated>
         <author>
             <name>Hikmah Gumelar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Aave V4’s “Design Choice” Turned Into a $195M Liquidation Deadlock (KelpDAO/rsETH Case)]]></title>
-        <id>https://medium.com/p/f11ef8a67310</id>
-        <link href="https://blog.blockmagnates.com/how-aave-v4s-design-choice-turned-into-a-195m-liquidation-deadlock-kelpdao-rseth-case-f11ef8a67310?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-04-26T19:36:01.000Z</updated>
-        <author>
-            <name>rdin777</name>
         </author>
     </entry>
 </feed>
