@@ -18,6 +18,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/be9d75864340",
+          "author": "Mobin Shaterian",
+          "description": "",
+          "link": "https://coinsbench.com/integrating-kafka-with-clickhouse-using-ssl-sasl-a-technical-retrospective-be9d75864340?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-05-30T20:06:00.000Z",
+          "wordCount": null,
+          "title": "Integrating Kafka with ClickHouse using SSL/SASL: A Technical Retrospective",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/f1648f7aceb5",
           "author": "David Mansion",
           "description": "From buying a license to a live, branded DEX on your own domain — collecting a cut of every trade. No backend. No Jupiter API key. No…\nContinue reading on CoinsBench »",
@@ -105,16 +115,6 @@
           "publishedOn": "2026-05-24T20:11:00.000Z",
           "wordCount": null,
           "title": "Devoured by Bots: How a Missing Parameter Enabled 100% MEV Leakage in a DeFi Zap Contract",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7063e344ecac",
-          "author": "Hacker MD",
-          "description": "",
-          "link": "https://coinsbench.com/exposing-a-critical-uniswap-v4-hook-flaw-cross-pool-invariant-manipulation-7063e344ecac?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-05-23T19:11:00.000Z",
-          "wordCount": null,
-          "title": "Exposing a Critical Uniswap V4 Hook Flaw: Cross-Pool Invariant Manipulation",
           "imageUrl": null
         }
       ]
