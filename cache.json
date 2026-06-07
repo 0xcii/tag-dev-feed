@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -11,6 +17,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/b2f22f6d9c91",
+          "author": "101 BlockChains",
+          "description": "",
+          "link": "https://coinsbench.com/top-5-most-in-demand-blockchain-certifications-employers-seek-b2f22f6d9c91?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-06-07T20:26:00.000Z",
+          "wordCount": null,
+          "title": "Top 5 Most In-Demand Blockchain Certifications Employers Seek",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/34e0e24f8b02",
           "author": "Abraham",
@@ -99,16 +115,6 @@
           "publishedOn": "2026-05-27T08:41:58.000Z",
           "wordCount": null,
           "title": "The Hidden Chessboard of DeFi: Why Mechanism Analysis Is the Ultimate Power Move",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9686edb8bde0",
-          "author": "Dery K. Yahya",
-          "description": "",
-          "link": "https://coinsbench.com/blockchain-disruption-in-traditional-banking-9686edb8bde0?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-05-25T14:02:51.000Z",
-          "wordCount": null,
-          "title": "Blockchain Disruption in Traditional Banking",
           "imageUrl": null
         }
       ]
