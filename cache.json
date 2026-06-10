@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -119,6 +125,76 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/3041f53087d5",
+          "author": "The Fintech girl",
+          "description": "",
+          "link": "https://medium.com/coinmonks/every-time-your-customer-pays-someone-earns-why-shouldnt-it-be-you-3041f53087d5?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-10T13:58:13.000Z",
+          "wordCount": null,
+          "title": "Every Time Your Customer Pays, Someone Earns. Why Shouldn’t It Be You?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cd7ddfe4c19c",
+          "author": "Vishnu Govind",
+          "description": "",
+          "link": "https://medium.com/coinmonks/every-solana-rpc-provider-claims-to-be-fast-cd7ddfe4c19c?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-10T13:41:46.000Z",
+          "wordCount": null,
+          "title": "Every Solana RPC Provider Claims to Be Fast",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/38513a96fcb1",
+          "author": "Samuel AYODEJI",
+          "description": "",
+          "link": "https://medium.com/coinmonks/when-a-crypto-exchange-goes-bankrupt-what-happens-to-investors-38513a96fcb1?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-10T13:40:34.000Z",
+          "wordCount": null,
+          "title": "When a Crypto Exchange Goes Bankrupt: What Happens to Investors?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/55b7faed1e46",
+          "author": "Sara Taylor",
+          "description": "",
+          "link": "https://medium.com/coinmonks/the-rise-of-neobanks-are-traditional-banks-losing-the-digital-race-55b7faed1e46?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-10T13:39:10.000Z",
+          "wordCount": null,
+          "title": "The Rise of Neobanks: Are Traditional Banks Losing the Digital Race?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e445b3eda382",
+          "author": "Shantanu Gupta",
+          "description": "",
+          "link": "https://medium.com/coinmonks/top-14-altcoins-to-buy-at-the-bottom-of-this-bear-market-e445b3eda382?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-10T13:38:57.000Z",
+          "wordCount": null,
+          "title": "Top 14 Altcoins to Buyat the Bottom of This Bear Market",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d5bcf1e6de29",
+          "author": "Calliemorgan",
+          "description": "",
+          "link": "https://medium.com/coinmonks/what-separates-basic-and-advanced-prop-firm-trading-software-d5bcf1e6de29?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-10T13:21:07.000Z",
+          "wordCount": null,
+          "title": "What Separates Basic and Advanced Prop Firm Trading Software?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7e2258960eb2",
+          "author": "Joseph Zammit",
+          "description": "",
+          "link": "https://medium.com/coinmonks/mica-stablecoins-and-the-fight-for-europes-digital-money-infrastructure-7e2258960eb2?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-10T13:20:00.000Z",
+          "wordCount": null,
+          "title": "MiCA, Stablecoins, and the Fight for Europe’s Digital Money Infrastructure",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/61f13ac7b5d4",
           "author": "Avika",
           "description": "",
@@ -146,76 +222,6 @@
           "publishedOn": "2026-06-10T06:20:23.000Z",
           "wordCount": null,
           "title": "SME Neobanking Growth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/961c6d6b101c",
-          "author": "Crypto.Andy",
-          "description": "",
-          "link": "https://medium.com/coinmonks/the-b2b-side-of-crypto-why-the-future-of-mass-adoption-belongs-to-caas-961c6d6b101c?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T06:20:15.000Z",
-          "wordCount": null,
-          "title": "The B2B Side of Crypto: Why the Future of Mass Adoption Belongs to CaaS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2156314cf359",
-          "author": "Nauris Treigys",
-          "description": "",
-          "link": "https://medium.com/coinmonks/smart-invest-radar-why-spacex-s-135-ipo-feels-so-powerful-2156314cf359?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T05:37:33.000Z",
-          "wordCount": null,
-          "title": "Smart Invest Radar: Why SpaceX ‘s $135 IPO Feels So Powerful",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/115ac88020b6",
-          "author": "Gen",
-          "description": "",
-          "link": "https://medium.com/coinmonks/the-bounce-survived-the-bell-115ac88020b6?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T05:37:29.000Z",
-          "wordCount": null,
-          "title": "The Bounce Survived the Bell",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2fcc6a285391",
-          "author": "Cryptoafricannews",
-          "description": "",
-          "link": "https://medium.com/coinmonks/strategy-buys-1-550-bitcoin-after-worst-weekly-stock-drop-since-2022-2fcc6a285391?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T05:37:24.000Z",
-          "wordCount": null,
-          "title": "Strategy Buys 1,550 Bitcoin After Worst Weekly Stock Drop Since 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b3da241225aa",
-          "author": "Garry Gladstone",
-          "description": "",
-          "link": "https://medium.com/coinmonks/whew-barely-beat-btc-avalanche-b3da241225aa?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T05:36:48.000Z",
-          "wordCount": null,
-          "title": "Whew! Barely Beat BTC Avalanche!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/55742a242915",
-          "author": "Carlos Beltran",
-          "description": "",
-          "link": "https://medium.com/coinmonks/robinhood-just-launched-agentic-trading-an-onchain-protocol-unlocks-true-agentic-finance-55742a242915?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T05:36:43.000Z",
-          "wordCount": null,
-          "title": "Robinhood just launched Agentic Trading — an onchain protocol unlocks true Agentic Finance.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c39868d649ca",
-          "author": "Ave AI",
-          "description": "",
-          "link": "https://medium.com/coinmonks/hyperliquid-hip-4-outcome-contracts-explained-a-new-derivatives-opportunity-from-price-trading-to-c39868d649ca?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T05:36:29.000Z",
-          "wordCount": null,
-          "title": "Hyperliquid HIP-4 Outcome Contracts Explained: A New Derivatives Opportunity from Price Trading to…",
           "imageUrl": null
         }
       ]
