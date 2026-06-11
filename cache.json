@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,6 +11,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/afc98fa47e8d",
+          "author": "Samuel AYODEJI",
+          "description": "",
+          "link": "https://coinsbench.com/blockchain-from-the-ground-up-token-types-afc98fa47e8d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-06-11T06:36:05.000Z",
+          "wordCount": null,
+          "title": "Blockchain, from the Ground Up: Token Types",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/236203a4e0a4",
           "author": "Samuel AYODEJI",
@@ -106,16 +110,6 @@
           "wordCount": null,
           "title": "Integrating Kafka with ClickHouse using SSL/SASL: A Technical Retrospective",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f1648f7aceb5",
-          "author": "David Mansion",
-          "description": "From buying a license to a live, branded DEX on your own domain — collecting a cut of every trade. No backend. No Jupiter API key. No…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/launch-your-own-solana-dex-in-10-minutes-f1648f7aceb5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-05-27T08:42:06.000Z",
-          "wordCount": null,
-          "title": "Launch your own Solana DEX in 10 minutes",
-          "imageUrl": null
         }
       ]
     },
@@ -125,103 +119,103 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/3041f53087d5",
-          "author": "The Fintech girl",
-          "description": "",
-          "link": "https://medium.com/coinmonks/every-time-your-customer-pays-someone-earns-why-shouldnt-it-be-you-3041f53087d5?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T13:58:13.000Z",
-          "wordCount": null,
-          "title": "Every Time Your Customer Pays, Someone Earns. Why Shouldn’t It Be You?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/cd7ddfe4c19c",
-          "author": "Vishnu Govind",
-          "description": "",
-          "link": "https://medium.com/coinmonks/every-solana-rpc-provider-claims-to-be-fast-cd7ddfe4c19c?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T13:41:46.000Z",
-          "wordCount": null,
-          "title": "Every Solana RPC Provider Claims to Be Fast",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/38513a96fcb1",
-          "author": "Samuel AYODEJI",
-          "description": "",
-          "link": "https://medium.com/coinmonks/when-a-crypto-exchange-goes-bankrupt-what-happens-to-investors-38513a96fcb1?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T13:40:34.000Z",
-          "wordCount": null,
-          "title": "When a Crypto Exchange Goes Bankrupt: What Happens to Investors?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/55b7faed1e46",
-          "author": "Sara Taylor",
-          "description": "",
-          "link": "https://medium.com/coinmonks/the-rise-of-neobanks-are-traditional-banks-losing-the-digital-race-55b7faed1e46?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T13:39:10.000Z",
-          "wordCount": null,
-          "title": "The Rise of Neobanks: Are Traditional Banks Losing the Digital Race?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e445b3eda382",
-          "author": "Shantanu Gupta",
-          "description": "",
-          "link": "https://medium.com/coinmonks/top-14-altcoins-to-buy-at-the-bottom-of-this-bear-market-e445b3eda382?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T13:38:57.000Z",
-          "wordCount": null,
-          "title": "Top 14 Altcoins to Buyat the Bottom of This Bear Market",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d5bcf1e6de29",
-          "author": "Calliemorgan",
-          "description": "",
-          "link": "https://medium.com/coinmonks/what-separates-basic-and-advanced-prop-firm-trading-software-d5bcf1e6de29?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T13:21:07.000Z",
-          "wordCount": null,
-          "title": "What Separates Basic and Advanced Prop Firm Trading Software?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7e2258960eb2",
-          "author": "Joseph Zammit",
-          "description": "",
-          "link": "https://medium.com/coinmonks/mica-stablecoins-and-the-fight-for-europes-digital-money-infrastructure-7e2258960eb2?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T13:20:00.000Z",
-          "wordCount": null,
-          "title": "MiCA, Stablecoins, and the Fight for Europe’s Digital Money Infrastructure",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/61f13ac7b5d4",
+          "id": "https://medium.com/p/b07a4455b679",
           "author": "Avika",
           "description": "",
-          "link": "https://medium.com/coinmonks/following-rules-isnt-the-point-what-matters-grows-from-belief-between-people-61f13ac7b5d4?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T06:23:23.000Z",
+          "link": "https://medium.com/coinmonks/saas-is-quietly-changing-financial-technology-b07a4455b679?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-11T08:07:46.000Z",
           "wordCount": null,
-          "title": "Following rules isn’t the point. What matters grows from belief between people.",
+          "title": "SaaS is quietly changing financial technology",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/c12d84f20a33",
-          "author": "Ana staples",
+          "id": "https://medium.com/p/126450954d45",
+          "author": "Pragya Kumari",
           "description": "",
-          "link": "https://medium.com/coinmonks/the-warning-signs-were-public-but-the-victim-never-saw-them-c12d84f20a33?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T06:21:35.000Z",
+          "link": "https://medium.com/coinmonks/eu-mica-regulation-tightens-grip-on-crypto-market-forcing-exchanges-to-restructure-across-europe-126450954d45?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-11T08:03:47.000Z",
           "wordCount": null,
-          "title": "The Warning Signs Were Public — But the Victim Never Saw Them",
+          "title": "EU MiCA Regulation Tightens Grip on Crypto Market, Forcing Exchanges to Restructure Across Europe",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/29c928ecca24",
-          "author": "Christine Soliman",
+          "id": "https://medium.com/p/65a012351a68",
+          "author": "NordFX",
           "description": "",
-          "link": "https://medium.com/coinmonks/sme-neobanking-growth-29c928ecca24?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-10T06:20:23.000Z",
+          "link": "https://medium.com/coinmonks/nordfx-morning-update-june-11-2026-65a012351a68?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-11T08:03:03.000Z",
           "wordCount": null,
-          "title": "SME Neobanking Growth",
+          "title": "NordFX Morning Update | June 11, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ebe0750f3516",
+          "author": "Joseph Zammit",
+          "description": "",
+          "link": "https://medium.com/coinmonks/the-new-battle-for-digital-money-what-banks-wallets-and-mica-really-signal-for-europe-ebe0750f3516?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-11T08:02:58.000Z",
+          "wordCount": null,
+          "title": "The New Battle for Digital Money: What Banks, Wallets, and MiCA Really Signal for Europe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cd0976fb451b",
+          "author": "Kiara",
+          "description": "",
+          "link": "https://medium.com/coinmonks/claude-chatgpt-gemini-what-sets-them-apart-cd0976fb451b?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-11T08:02:22.000Z",
+          "wordCount": null,
+          "title": "Claude ChatGPT Gemini What Sets Them Apart",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c951bd0da249",
+          "author": "Mark Timmis",
+          "description": "tl;dr\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/curious-cryptos-commentary-11th-june-2026-the-uk-illinois-the-eu-russia-c951bd0da249?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-11T05:48:21.000Z",
+          "wordCount": null,
+          "title": "Curious Cryptos’ Commentary 11th June 2026 > > The UK, Illinois, the EU, & Russia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9e1f906909e1",
+          "author": "Paige Gardener",
+          "description": "",
+          "link": "https://medium.com/coinmonks/top-cryptocurrency-development-trends-new-founders-cant-ignore-9e1f906909e1?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-11T05:47:30.000Z",
+          "wordCount": null,
+          "title": "Top Cryptocurrency Development Trends New Founders Can’t Ignore",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5e71a5bf3af2",
+          "author": "Prajwal Writes",
+          "description": "",
+          "link": "https://medium.com/coinmonks/the-green-horizon-americas-bold-bet-on-the-future-5e71a5bf3af2?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-11T05:47:24.000Z",
+          "wordCount": null,
+          "title": "The Green Horizon: America’s Bold Bet on the Future",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fb5114febeeb",
+          "author": "Block_Savvy",
+          "description": "",
+          "link": "https://medium.com/coinmonks/bitcoin-is-falling-retail-is-buying-whales-are-still-pretending-they-didnt-see-anything-fb5114febeeb?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-11T05:40:03.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Is Falling. Retail Is Buying. Whales Are Still Pretending They Didn’t See Anything",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8925c1cc4529",
+          "author": "Faraz Ahmad",
+          "description": "",
+          "link": "https://medium.com/coinmonks/i-tracked-retail-trader-behavior-for-months-and-found-a-strange-recurring-pattern-8925c1cc4529?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-11T05:39:48.000Z",
+          "wordCount": null,
+          "title": "I Tracked Retail Trader Behavior for Months and Found a Strange Recurring Pattern",
           "imageUrl": null
         }
       ]
