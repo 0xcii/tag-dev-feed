@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -11,6 +17,26 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/e9b8e8647bb1",
+          "author": "Wen-Ting (Joseph) Wang",
+          "description": "",
+          "link": "https://coinsbench.com/building-an-interactive-p2p-attack-gym-in-rust-e9b8e8647bb1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-06-19T09:14:15.000Z",
+          "wordCount": null,
+          "title": "Building an Interactive P2P Attack Gym in Rust",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/530077172201",
+          "author": "Prudent Talks.",
+          "description": "",
+          "link": "https://coinsbench.com/how-i-moved-usdc-between-two-smart-contract-wallets-from-the-backend-using-circles-api-530077172201?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-06-19T09:13:49.000Z",
+          "wordCount": null,
+          "title": "How I Moved USDC Between Two Smart Contract Wallets From the Backend Using Circle’s API",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/75ae2ab696bb",
           "author": "Samuel AYODEJI",
@@ -90,26 +116,6 @@
           "wordCount": null,
           "title": "Top 5 Most In-Demand Blockchain Certifications Employers Seek",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/34e0e24f8b02",
-          "author": "Abraham",
-          "description": "",
-          "link": "https://coinsbench.com/onchain-investigation-a-complete-beginner-to-advanced-guide-for-blockchain-security-researchers-34e0e24f8b02?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-06-05T13:26:43.000Z",
-          "wordCount": null,
-          "title": "OnChain Investigation: A Complete Beginner to Advanced Guide for Blockchain Security Researchers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/285f739e5ae5",
-          "author": "Alertforalpha",
-          "description": "",
-          "link": "https://coinsbench.com/ethereums-own-architect-just-admitted-the-whole-strategy-failed-285f739e5ae5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-06-05T13:26:41.000Z",
-          "wordCount": null,
-          "title": "Ethereum’s Own Architect Just Admitted the Whole Strategy Failed",
-          "imageUrl": null
         }
       ]
     },
@@ -118,6 +124,76 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/646e57570fe3",
+          "author": "PVMihalache",
+          "description": "I fell down the prediction markets rabbit hole for the same reason many people do! Got hooked by the promises that sounded intellectually…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/prediction-markets-rabbithole-fake-prophets-and-low-odds-646e57570fe3?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-19T07:09:52.000Z",
+          "wordCount": null,
+          "title": "Prediction Markets Rabbithole — Fake Prophets And Low-Odds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/31d577cf9f65",
+          "author": "PVMihalache",
+          "description": "Every World Cup leaves behind moments that live forever. Goals, celebrations and stories. The most enduring legacy is … the song. In 2010…\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/world-cup-fever-audiera-anthems-31d577cf9f65?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-19T07:08:04.000Z",
+          "wordCount": null,
+          "title": "World Cup Fever — Audiera Anthems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/34bfc79a0ffe",
+          "author": "NordFX",
+          "description": "",
+          "link": "https://medium.com/coinmonks/nordfx-morning-update-june-19-2026-34bfc79a0ffe?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-19T07:02:27.000Z",
+          "wordCount": null,
+          "title": "NordFX Morning Update — June 19, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/25cf16219967",
+          "author": "Gen",
+          "description": "",
+          "link": "https://medium.com/coinmonks/no-one-voted-to-hike-bitcoin-fell-anyway-25cf16219967?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-19T07:01:58.000Z",
+          "wordCount": null,
+          "title": "No One Voted to Hike. Bitcoin Fell Anyway.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b52bd1d78690",
+          "author": "justKarpa",
+          "description": "",
+          "link": "https://medium.com/coinmonks/what-happens-after-you-click-buy-a-look-inside-pacificas-trading-workflow-b52bd1d78690?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-19T07:01:49.000Z",
+          "wordCount": null,
+          "title": "What Happens After You Click Buy? A Look Inside Pacifica’s Trading Workflow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/654e866c09a7",
+          "author": "Johnsnow",
+          "description": "",
+          "link": "https://medium.com/coinmonks/the-algorithmic-trading-boom-whats-driving-the-market-toward-30b-by-2031-654e866c09a7?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-19T07:01:42.000Z",
+          "wordCount": null,
+          "title": "The Algorithmic Trading Boom: What’s Driving the Market Toward $30B by 2031",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e0b68a79e305",
+          "author": "The Fintech girl",
+          "description": "",
+          "link": "https://medium.com/coinmonks/is-anthropic-killing-bitcoin-or-is-it-forcing-crypto-into-its-next-evolution-e0b68a79e305?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-19T07:01:12.000Z",
+          "wordCount": null,
+          "title": "Is Anthropic Killing Bitcoin? Or Is It Forcing Crypto Into Its Next Evolution?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/ad13dd14c17e",
           "author": "Hamza Khalid",
@@ -146,76 +222,6 @@
           "publishedOn": "2026-06-18T15:41:42.000Z",
           "wordCount": null,
           "title": "The Memory Model Is the Architecture: Account vs. eUTXO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/baead44f79bb",
-          "author": "Cryptoafricannews",
-          "description": "",
-          "link": "https://medium.com/coinmonks/valr-ceo-slams-south-africas-crypto-regulation-over-exchange-controls-baead44f79bb?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-18T15:41:36.000Z",
-          "wordCount": null,
-          "title": "VALR CEO Slams South Africa’s Crypto Regulation Over Exchange Controls",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0e8b46e3827d",
-          "author": "Dipanshu Chaudhry",
-          "description": "The DeFi Exchange Challenging Traditional Finance and the Risks Hidden Beneath the Rally\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/hyperliquids-wall-street-moment-institutional-adoption-buyback-power-and-the-714-million-0e8b46e3827d?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-18T15:12:56.000Z",
-          "wordCount": null,
-          "title": "Hyperliquid’s Wall Street Moment: Institutional Adoption, Buyback Power, and the $714 Million…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/65ed1fad7781",
-          "author": "Arnab Kar (DC)",
-          "description": "",
-          "link": "https://medium.com/coinmonks/roflize-an-app-part-1-rofl-workflow-to-initialization-65ed1fad7781?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-18T14:27:50.000Z",
-          "wordCount": null,
-          "title": "ROFLize an App? Part 1: ROFL Workflow To Initialization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/48e8406b1308",
-          "author": "justKarpa",
-          "description": "",
-          "link": "https://medium.com/coinmonks/how-traders-use-funding-rates-beyond-fees-48e8406b1308?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-18T14:24:51.000Z",
-          "wordCount": null,
-          "title": "How Traders Use Funding Rates Beyond Fees",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/34235bd254c0",
-          "author": "Joseph Zammit",
-          "description": "",
-          "link": "https://medium.com/coinmonks/when-fear-spikes-and-cheques-shrink-fintechs-only-real-moat-is-regulatory-capital-34235bd254c0?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-18T14:24:45.000Z",
-          "wordCount": null,
-          "title": "When Fear Spikes and Cheques Shrink, Fintech’s Only Real Moat Is Regulatory Capital",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9f54eba25555",
-          "author": "The Fintech girl",
-          "description": "",
-          "link": "https://medium.com/coinmonks/ai-agents-are-quietly-becoming-cryptos-biggest-money-makers-9f54eba25555?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-18T14:24:01.000Z",
-          "wordCount": null,
-          "title": "AI Agents Are Quietly Becoming Crypto’s Biggest Money Makers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c84ff34711f2",
-          "author": "ChangeNOW.io",
-          "description": "",
-          "link": "https://medium.com/coinmonks/the-crypto-anxiety-heatmap-how-investors-seek-safety-during-market-stress-c84ff34711f2?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-18T14:23:04.000Z",
-          "wordCount": null,
-          "title": "The Crypto Anxiety Heatmap: How Investors Seek Safety During Market Stress",
           "imageUrl": null
         }
       ]
