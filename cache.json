@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -125,6 +119,26 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/ad13dd14c17e",
+          "author": "Hamza Khalid",
+          "description": "",
+          "link": "https://medium.com/coinmonks/strategys-strc-plunges-as-btc-struggles-at-64k-ad13dd14c17e?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-19T04:49:20.000Z",
+          "wordCount": null,
+          "title": "Strategy’s STRC Plunges as BTC Struggles at $64K",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/196642b24a11",
+          "author": "Gen",
+          "description": "",
+          "link": "https://medium.com/coinmonks/bitcoin-went-still-the-fed-decides-anyway-196642b24a11?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-19T04:48:59.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Went Still. The Fed Decides Anyway.",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/9200439b023a",
           "author": "Luis Soares",
           "description": "",
@@ -202,26 +216,6 @@
           "publishedOn": "2026-06-18T14:23:04.000Z",
           "wordCount": null,
           "title": "The Crypto Anxiety Heatmap: How Investors Seek Safety During Market Stress",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/91f1b496e517",
-          "author": "David Tevzadze",
-          "description": "",
-          "link": "https://medium.com/coinmonks/the-spyker-deal-made-me-rethink-what-im-actually-buying-91f1b496e517?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-18T14:22:06.000Z",
-          "wordCount": null,
-          "title": "The Spyker Deal Made Me Rethink What I’m Actually Buying",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9dd336505421",
-          "author": "Udbhav Writers",
-          "description": "",
-          "link": "https://medium.com/coinmonks/2012-messi-vs-2015-ronaldo-peak-hat-trick-years-and-the-golden-age-of-football-9dd336505421?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-18T14:20:12.000Z",
-          "wordCount": null,
-          "title": "2012 Messi vs. 2015 Ronaldo: Peak Hat-Trick Years and the Golden Age of Football",
           "imageUrl": null
         }
       ]
