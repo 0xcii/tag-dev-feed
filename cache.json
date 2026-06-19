@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -125,6 +119,26 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/ebd6d03b8484",
+          "author": "DoctorSlugworth",
+          "description": "",
+          "link": "https://medium.com/coinmonks/deploying-a-multi-service-ai-platform-on-a-budget-ebd6d03b8484?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-19T17:12:27.000Z",
+          "wordCount": null,
+          "title": "Deploying a Multi-Service AI Platform on a Budget",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/30d2dab24ea4",
+          "author": "Cryptoafricannews",
+          "description": "",
+          "link": "https://medium.com/coinmonks/can-bitcoin-reduce-africas-borrowing-costs-abc-s-stafford-masie-thinks-so-30d2dab24ea4?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-06-19T17:12:22.000Z",
+          "wordCount": null,
+          "title": "Can Bitcoin Reduce Africa’s Borrowing Costs? ABC’s Stafford Masie Thinks So",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/aa51358ba0ba",
           "author": "Udbhav Writers",
           "description": "",
@@ -202,26 +216,6 @@
           "publishedOn": "2026-06-19T12:51:51.000Z",
           "wordCount": null,
           "title": "Curious Cryptos’ Commentary 19th June 2026 > > The Fed and altseason (or not)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/166d5e2746de",
-          "author": "Ritika Prajapati",
-          "description": "",
-          "link": "https://medium.com/coinmonks/fraud-becomes-arena-for-ai-confrontations-166d5e2746de?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-19T12:51:32.000Z",
-          "wordCount": null,
-          "title": "Fraud Becomes Arena for AI Confrontations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/688dd0cc8e52",
-          "author": "Arnab Kar (DC)",
-          "description": "",
-          "link": "https://medium.com/coinmonks/privana-is-coming-private-defi-no-catch-688dd0cc8e52?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-19T12:51:22.000Z",
-          "wordCount": null,
-          "title": "Privana Is Coming. Private DeFi, No Catch.",
           "imageUrl": null
         }
       ]
