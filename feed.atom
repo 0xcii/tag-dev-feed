@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-22T06:27:00.847Z</id>
+    <id>urn:2026-06-22T12:47:55.270Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-22T06:27:00.847Z</updated>
+    <updated>2026-06-22T12:47:55.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Invisible Auction]]></title>
+        <id>https://medium.com/p/03d65f4a1547</id>
+        <link href="https://coinsbench.com/the-invisible-auction-03d65f4a1547?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-06-22T12:19:24.000Z</updated>
+        <author>
+            <name>Tabrez Mukadam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Auditing Curve Finance Math: How to Build a Stateful Fuzzer from Scratch]]></title>
         <id>https://medium.com/p/f8335d7811dd</id>
@@ -176,15 +185,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/afc98fa47e8d</id>
         <link href="https://coinsbench.com/blockchain-from-the-ground-up-token-types-afc98fa47e8d?source=rss----f1cfd22cde3e---4"/>
         <updated>2026-06-11T06:36:05.000Z</updated>
-        <author>
-            <name>Samuel AYODEJI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not Every Smart Contract Is a Contract: Understanding Smart Contracts from a Legal Perspective]]></title>
-        <id>https://medium.com/p/236203a4e0a4</id>
-        <link href="https://coinsbench.com/not-every-smart-contract-is-a-contract-understanding-smart-contracts-from-a-legal-perspective-236203a4e0a4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-08T14:16:06.000Z</updated>
         <author>
             <name>Samuel AYODEJI</name>
         </author>
