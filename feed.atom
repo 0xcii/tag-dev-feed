@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-24T07:37:36.580Z</id>
+    <id>urn:2026-06-24T10:46:22.602Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-24T07:37:36.580Z</updated>
+    <updated>2026-06-24T10:46:22.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Double Spending: The Problem That Made Decentralized Digital Money Seem Impossible]]></title>
+        <id>https://medium.com/p/1213071e25c6</id>
+        <link href="https://coinsbench.com/double-spending-the-problem-that-made-decentralized-digital-money-seem-impossible-1213071e25c6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-06-24T08:32:24.000Z</updated>
+        <author>
+            <name>Samuel AYODEJI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Solana Project: Voting]]></title>
+        <id>https://medium.com/p/35ab0d6cc68a</id>
+        <link href="https://coinsbench.com/first-solana-project-voting-35ab0d6cc68a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-06-24T08:32:21.000Z</updated>
+        <author>
+            <name>Gimer Cervera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unbounded State Bloat: How I Found a Chain-Halting DoS Bug in Injective’s Peggy Bridge]]></title>
+        <id>https://medium.com/p/ba75d4833c25</id>
+        <link href="https://coinsbench.com/unbounded-state-bloat-how-i-found-a-chain-halting-dos-bug-in-injectives-peggy-bridge-ba75d4833c25?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-06-24T08:32:17.000Z</updated>
+        <author>
+            <name>Hacker MD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Programming Model: Accounts]]></title>
+        <id>https://medium.com/p/bc7e798aa1a6</id>
+        <link href="https://coinsbench.com/solana-programming-model-accounts-bc7e798aa1a6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-06-24T08:32:13.000Z</updated>
+        <author>
+            <name>Gimer Cervera</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What If Hashrate Is the Least Important Metric When Choosing a Mining Pool?]]></title>
         <id>https://medium.com/p/2d98aa534203</id>
@@ -151,42 +187,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-06-15T09:19:48.000Z</updated>
         <author>
             <name>artofblockchain.club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calling Functions Between Hyperledger Fabric Chaincodes: The Right Way]]></title>
-        <id>https://medium.com/p/0877403dfd3d</id>
-        <link href="https://coinsbench.com/calling-functions-between-hyperledger-fabric-chaincodes-the-right-way-0877403dfd3d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-15T09:19:46.000Z</updated>
-        <author>
-            <name>Muhammad Talha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Wrong Junior Hire Can Spoil a Web3 Project]]></title>
-        <id>https://medium.com/p/4ddc05c6676a</id>
-        <link href="https://coinsbench.com/one-wrong-junior-hire-can-spoil-a-web3-project-4ddc05c6676a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-12T08:18:42.000Z</updated>
-        <author>
-            <name>artofblockchain.club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What a Post-Quantum Blockchain Cannot Fix at the Grid Edge]]></title>
-        <id>https://medium.com/p/762dd7a3db47</id>
-        <link href="https://coinsbench.com/what-a-post-quantum-blockchain-cannot-fix-at-the-grid-edge-762dd7a3db47?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-12T08:18:33.000Z</updated>
-        <author>
-            <name>Shujaatali Badami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain, from the Ground Up: Token Types]]></title>
-        <id>https://medium.com/p/afc98fa47e8d</id>
-        <link href="https://coinsbench.com/blockchain-from-the-ground-up-token-types-afc98fa47e8d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-11T06:36:05.000Z</updated>
-        <author>
-            <name>Samuel AYODEJI</name>
         </author>
     </entry>
     <entry>
