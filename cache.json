@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -119,6 +125,16 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/5fd319cbf38e",
+          "author": "SebastienB.",
+          "description": "",
+          "link": "https://medium.com/coinmonks/mica-regulates-crypto-exchanges-but-who-explains-the-market-5fd319cbf38e?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-01T14:17:59.000Z",
+          "wordCount": null,
+          "title": "MiCA Regulates Crypto Exchanges. But Who Explains the Market?",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/146555bf3aa4",
           "author": "Rashad Hinton",
           "description": "",
@@ -206,16 +222,6 @@
           "publishedOn": "2026-06-30T17:37:42.000Z",
           "wordCount": null,
           "title": "Order from Chaos",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/67cce1bb9160",
-          "author": "Daniel Klosterman",
-          "description": "",
-          "link": "https://medium.com/coinmonks/interest-in-nothing-67cce1bb9160?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-06-30T17:37:31.000Z",
-          "wordCount": null,
-          "title": "Interest in Nothing",
           "imageUrl": null
         }
       ]
