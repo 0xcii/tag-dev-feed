@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-30T23:09:34.734Z</id>
+    <id>urn:2026-07-01T03:37:12.326Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-30T23:09:34.734Z</updated>
+    <updated>2026-07-01T03:37:12.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -185,42 +185,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-06-19T09:14:15.000Z</updated>
         <author>
             <name>Wen-Ting (Joseph) Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Provably Fair Smart Contract Lottery with Chainlink VRF v2.5 — Part 2]]></title>
-        <id>https://medium.com/p/6871f129ae4d</id>
-        <link href="https://blog.blockmagnates.com/building-a-provably-fair-smart-contract-lottery-with-chainlink-vrf-v2-5-part-2-6871f129ae4d?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-06-01T14:19:40.000Z</updated>
-        <author>
-            <name>Blurryface</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why on-chain products need a more reliable way to deploy, verify, and manage contracts across EVM…]]></title>
-        <id>https://medium.com/p/3b9a24020335</id>
-        <link href="https://blog.blockmagnates.com/why-on-chain-products-need-a-more-reliable-way-to-deploy-verify-and-manage-contracts-across-evm-3b9a24020335?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-06-01T14:19:38.000Z</updated>
-        <author>
-            <name>krionex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A .NET Dinosaur in Web3. Day 14 — Pull Pattern vs Dangerous Push Payments]]></title>
-        <id>https://medium.com/p/ed71d05a60eb</id>
-        <link href="https://blog.blockmagnates.com/a-net-dinosaur-in-web3-day-14-pull-pattern-vs-dangerous-push-payments-ed71d05a60eb?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-06-01T14:19:23.000Z</updated>
-        <author>
-            <name>Alena .NET Dinosaur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Provably Fair Smart Contract Lottery with Chainlink VRF v2.5 — Part 1]]></title>
-        <id>https://medium.com/p/3e8622a87da2</id>
-        <link href="https://blog.blockmagnates.com/building-a-provably-fair-smart-contract-lottery-with-chainlink-vrf-v2-5-part-1-3e8622a87da2?source=rss----18fa961f1eff--solidity"/>
-        <updated>2026-06-01T14:18:21.000Z</updated>
-        <author>
-            <name>Blurryface</name>
         </author>
     </entry>
 </feed>
