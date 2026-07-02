@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -213,7 +219,7 @@
           "author": "David Such",
           "description": "In 2019 a group in Australia worked out that a McDonald’s ordering kiosk would pay them to take the meat out of a hamburger. The $1…\nContinue reading on Coinmonks »",
           "link": "https://medium.com/coinmonks/embedded-design-the-mcdonalds-kiosk-that-paid-out-7211966df993?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-02T07:09:18.000Z",
+          "publishedOn": "2026-07-02T07:09:19.000Z",
           "wordCount": null,
           "title": "Embedded Design — The McDonald’s Kiosk That Paid Out",
           "imageUrl": null
