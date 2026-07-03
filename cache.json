@@ -18,6 +18,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/cb4e19619ebd",
+          "author": "derastephh",
+          "description": "If you’ve spent time auditing smart contracts, you’ve probably noticed something. Division isn’t scary. But it deserves attention.",
+          "link": "https://coinsbench.com/the-first-thing-i-check-when-i-see-division-in-solidity-cb4e19619ebd?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-03T08:11:22.000Z",
+          "wordCount": 2075,
+          "title": "The First Thing I Check When I See Division in Solidity",
+          "imageUrl": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
+        },
+        {
+          "id": "https://medium.com/p/c35054a36863",
+          "author": "Gimer Cervera",
+          "description": "This tutorial is the third part of a series of articles about Solana programming. The first part explains the Solana programming model…",
+          "link": "https://coinsbench.com/solana-voting-project-testing-c35054a36863?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-03T08:11:21.000Z",
+          "wordCount": 5317,
+          "title": "Solana Voting Project: Testing",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZWrLQ3QcJwMOstTG7mWbwg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/8385ec0957e6",
+          "author": "Khalid | The Web3 Wizard",
+          "description": "The blunt version: I built a real-time, milestone-based escrow marketplace where clients lock funds in a Solidity contract and freelancers…",
+          "link": "https://coinsbench.com/i-built-a-gasless-web3-escrow-platform-on-base-sepolia-in-48-hours-heres-every-bug-that-almost-8385ec0957e6?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-03T08:11:13.000Z",
+          "wordCount": 3574,
+          "title": "I Built a Gasless Web3 Escrow Platform on Base Sepolia in 48 Hours Here’s Every Bug That Almost…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ILmUOP0VLoWnZ7OD2zz_Rw.png"
+        },
+        {
+          "id": "https://medium.com/p/7731cdee7278",
+          "author": "Gdnaes",
+          "description": "Engineering a Real-Time BTC Options Volatility Surface III: Metamorphosis",
+          "link": "https://coinsbench.com/engineering-a-real-time-btc-options-volatility-surface-iii-metamorphosis-7731cdee7278?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-03T08:11:11.000Z",
+          "wordCount": 2559,
+          "title": "Engineering a Real-Time BTC Options Volatility Surface III: Metamorphosis",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*1CSP9WHoxyLJqrPX"
+        },
+        {
           "id": "https://medium.com/p/e6b0422daec5",
           "author": "Samuel AYODEJI",
           "description": "In this piece, I explain how blockchain systems are built and the principles that underpin them",
@@ -76,46 +116,6 @@
           "wordCount": 2761,
           "title": "Unbounded State Bloat: How I Found a Chain-Halting DoS Bug in Injective’s Peggy Bridge",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*l45GBFcwCIh_74sjqBsoXw.png"
-        },
-        {
-          "id": "https://medium.com/p/bc7e798aa1a6",
-          "author": "Gimer Cervera",
-          "description": "In this tutorial, we explain basic concepts that will help you understand Solana’s programming model. We also explain the differences…",
-          "link": "https://coinsbench.com/solana-programming-model-accounts-bc7e798aa1a6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-06-24T08:32:13.000Z",
-          "wordCount": 3625,
-          "title": "Solana Programming Model: Accounts",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*eOw4-gJksR7Lb_Y9MKrgUQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/03d65f4a1547",
-          "author": "Tabrez Mukadam",
-          "description": "Before a transaction touches a block, it enters a shadow economy where every byte is a bid.",
-          "link": "https://coinsbench.com/the-invisible-auction-03d65f4a1547?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-06-22T12:19:24.000Z",
-          "wordCount": 5112,
-          "title": "The Invisible Auction",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*prl8haOVlxmM7mYSX5TesA.png"
-        },
-        {
-          "id": "https://medium.com/p/f8335d7811dd",
-          "author": "rdin777",
-          "description": "Mathematical precision is the heartbeat of DeFi. In protocols like Curve Finance, where the StableSwap invariant is the foundation, a…",
-          "link": "https://coinsbench.com/auditing-curve-finance-math-how-to-build-a-stateful-fuzzer-from-scratch-f8335d7811dd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-06-21T20:16:01.000Z",
-          "wordCount": 1848,
-          "title": "Auditing Curve Finance Math: How to Build a Stateful Fuzzer from Scratch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e9b8e8647bb1",
-          "author": "Wen-Ting (Joseph) Wang",
-          "description": "Slot pressure, fake state, and poisoned discovery on 127.0.0.1.",
-          "link": "https://coinsbench.com/building-an-interactive-p2p-attack-gym-in-rust-e9b8e8647bb1?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-06-19T09:14:15.000Z",
-          "wordCount": 2921,
-          "title": "Building an Interactive P2P Attack Gym in Rust",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:960/1*HpMAAtZcp-fDUijYD599fQ.gif"
         }
       ]
     },
@@ -125,103 +125,103 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/93bfb2d99a89",
-          "author": "NordFX",
-          "description": "",
-          "link": "https://medium.com/coinmonks/nordfx-morning-update-july-1-2026-93bfb2d99a89?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-02T07:15:36.000Z",
-          "wordCount": null,
-          "title": "NordFX MORNING UPDATE — July 1, 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a9b0cc6f0cdd",
-          "author": "Douglas DeMaio",
-          "description": "",
-          "link": "https://medium.com/coinmonks/bitcoin-taps-the-golden-pocket-a9b0cc6f0cdd?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-02T07:15:18.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Taps the Golden Pocket",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8395643993fc",
+          "id": "https://medium.com/p/b439872adfd8",
           "author": "Joseph Zammit",
           "description": "",
-          "link": "https://medium.com/coinmonks/mica-is-now-live-the-stablecoin-fight-is-about-monetary-sovereignty-8395643993fc?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-02T07:14:45.000Z",
+          "link": "https://medium.com/coinmonks/the-real-stablecoin-debate-in-europe-is-about-monetary-sovereignty-b439872adfd8?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-03T07:20:52.000Z",
           "wordCount": null,
-          "title": "MiCA Is Now Live. The Stablecoin Fight Is About Monetary Sovereignty.",
+          "title": "The Real Stablecoin Debate in Europe Is About Monetary Sovereignty",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/fc15c473ef38",
+          "id": "https://medium.com/p/4293e927b7c1",
+          "author": "Samuel AYODEJI",
+          "description": "",
+          "link": "https://medium.com/coinmonks/is-bitcoin-still-an-environmental-problem-in-2026-4293e927b7c1?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-03T07:19:37.000Z",
+          "wordCount": null,
+          "title": "Is Bitcoin Still an Environmental Problem in 2026?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dc8921296418",
+          "author": "Cryptoafricannews",
+          "description": "",
+          "link": "https://medium.com/coinmonks/layer-1-blockchain-explained-the-foundation-of-crypto-networks-dc8921296418?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-03T07:16:32.000Z",
+          "wordCount": null,
+          "title": "Layer 1 Blockchain Explained: The Foundation of Crypto Networks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1feb9b1a9514",
           "author": "Kiara",
           "description": "",
-          "link": "https://medium.com/coinmonks/the-hidden-smarts-moving-europes-cash-fc15c473ef38?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-02T07:13:49.000Z",
+          "link": "https://medium.com/coinmonks/banking-as-a-service-the-system-you-use-every-day-without-realising-it-1feb9b1a9514?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-03T07:16:25.000Z",
           "wordCount": null,
-          "title": "The Hidden Smarts Moving Europe’s Cash",
+          "title": "Banking as a Service: The System You Use Every Day… Without Realising It",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/e7f78fea42c6",
-          "author": "Ritika Prajapati",
+          "id": "https://medium.com/p/7f680187c3a6",
+          "author": "Avika",
           "description": "",
-          "link": "https://medium.com/coinmonks/the-shopify-of-money-how-stablecoins-and-tokenized-finance-are-becoming-the-new-settlement-layer-e7f78fea42c6?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-02T07:13:40.000Z",
+          "link": "https://medium.com/coinmonks/what-happens-when-ai-meets-cards-as-a-service-7f680187c3a6?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-03T07:16:18.000Z",
           "wordCount": null,
-          "title": "The Shopify of Money: How Stablecoins and Tokenized Finance Are Becoming the New Settlement Layer",
+          "title": "What Happens When AI Meets Cards-as-a-Service",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/bda5d83e7073",
-          "author": "Pragya Kumari",
+          "id": "https://medium.com/p/927206a7a182",
+          "author": "Udbhav Writers",
           "description": "",
-          "link": "https://medium.com/coinmonks/the-silent-disappearance-of-entry-level-jobs-in-the-ai-economy-a-generations-first-career-ladder-bda5d83e7073?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-02T07:13:02.000Z",
+          "link": "https://medium.com/coinmonks/iban-explained-the-global-banking-standard-quietly-powering-international-payments-927206a7a182?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-03T07:15:30.000Z",
           "wordCount": null,
-          "title": "The Silent Disappearance of Entry-Level Jobs in the AI Economy: A Generation’s First Career Ladder…",
+          "title": "IBAN Explained: The Global Banking Standard Quietly Powering International Payments",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/6df42c3a8114",
-          "author": "Mark Timmis",
-          "description": "2nd July 2026\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-uk-has-done-a-good-thing-binance-has-done-a-bad-thing-6df42c3a8114?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-02T07:12:48.000Z",
-          "wordCount": null,
-          "title": "The UK has Done a Good Thing. Binance has Done a Bad Thing.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1f092ef21c2b",
-          "author": "Ritika Prajapati",
+          "id": "https://medium.com/p/454162b391ee",
+          "author": "altFINS",
           "description": "",
-          "link": "https://medium.com/coinmonks/why-talking-about-money-at-work-still-feels-illegal-in-many-companies-1f092ef21c2b?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-02T07:09:48.000Z",
+          "link": "https://medium.com/coinmonks/the-fastest-paths-to-your-next-trade-idea-454162b391ee?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-03T07:15:27.000Z",
           "wordCount": null,
-          "title": "Why Talking About Money at Work Still Feels “Illegal” in Many Companies",
+          "title": "The Fastest Paths to Your Next Trade Idea",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/f59b213a4325",
-          "author": "Augustin Z",
+          "id": "https://medium.com/p/55f5e9d14b2f",
+          "author": "Jurgen Proschinger",
+          "description": "Verifiable Reflexivity in the Triangle Forces Framework\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-financial-cost-of-opaque-systems-55f5e9d14b2f?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-03T07:15:17.000Z",
+          "wordCount": null,
+          "title": "The Financial Cost of Opaque Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0ac3f332152a",
+          "author": "Denis Kurilchik",
           "description": "",
-          "link": "https://medium.com/coinmonks/a-detailed-list-of-white-label-prop-firm-software-rates-across-different-countries-f59b213a4325?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-02T07:09:37.000Z",
+          "link": "https://medium.com/coinmonks/ai-trading-bots-are-booming-most-quietly-lose-money-0ac3f332152a?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-03T07:15:09.000Z",
           "wordCount": null,
-          "title": "A Detailed List of White Label Prop Firm Software Rates Across Different Countries",
+          "title": "AI trading bots are booming: most quietly lose money",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/7211966df993",
-          "author": "David Such",
-          "description": "In 2019 a group in Australia worked out that a McDonald’s ordering kiosk would pay them to take the meat out of a hamburger. The $1…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/embedded-design-the-mcdonalds-kiosk-that-paid-out-7211966df993?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-02T07:09:19.000Z",
+          "id": "https://medium.com/p/bc2403962694",
+          "author": "Pee Dee is Imperfect",
+          "description": "",
+          "link": "https://medium.com/coinmonks/the-architects-diary-the-end-of-the-robot-making-algorithms-bc2403962694?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-03T07:14:46.000Z",
           "wordCount": null,
-          "title": "Embedded Design — The McDonald’s Kiosk That Paid Out",
+          "title": "The Architect’s Diary: The End of the Robot-Making Algorithms",
           "imageUrl": null
         }
       ]
@@ -230,7 +230,28 @@
       "title": "Solidity in Block Magnates on Medium",
       "feedUrl": "https://medium.com/feed/block-magnates/tagged/solidity",
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://medium.com/p/6c78c67a3557",
+          "author": "Vihaan",
+          "description": "Introduction",
+          "link": "https://blog.blockmagnates.com/exploring-the-scary-world-of-evm-6c78c67a3557?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2026-07-03T08:06:04.000Z",
+          "wordCount": 2908,
+          "title": "Exploring the scary world of EVM!!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vr9af8gKIcWwnCYqipGMRQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/f50c7f657306",
+          "author": "Tathagat Gupta",
+          "description": "Here is a simple plain-English tour of the Ethereum Virtual Machine: function calls, memory, and storage",
+          "link": "https://blog.blockmagnates.com/going-down-the-ethereum-rabbit-hole-heres-what-i-found-f50c7f657306?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2026-07-03T08:06:02.000Z",
+          "wordCount": 4255,
+          "title": "Going Down the Ethereum Rabbit Hole, Here’s What I Found",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ehNYOQjXFK46akiUPqlQ0g.jpeg"
+        }
+      ]
     },
     {
       "title": "Developer DAO Blog | Web3 Tutorials",

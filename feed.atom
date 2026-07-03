@@ -1,102 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-03T06:29:57.271Z</id>
+    <id>urn:2026-07-03T09:55:27.126Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-03T06:29:57.271Z</updated>
+    <updated>2026-07-03T09:55:27.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[NordFX MORNING UPDATE — July 1, 2026]]></title>
-        <id>https://medium.com/p/93bfb2d99a89</id>
-        <link href="https://medium.com/coinmonks/nordfx-morning-update-july-1-2026-93bfb2d99a89?source=rss----721b17443fd5---4"/>
-        <updated>2026-07-02T07:15:36.000Z</updated>
+        <title type="html"><![CDATA[The First Thing I Check When I See Division in Solidity]]></title>
+        <id>https://medium.com/p/cb4e19619ebd</id>
+        <link href="https://coinsbench.com/the-first-thing-i-check-when-i-see-division-in-solidity-cb4e19619ebd?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-03T08:11:22.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve spent time auditing smart contracts, you’ve probably noticed something. Division isn’t scary. But it deserves attention.]]></summary>
         <author>
-            <name>NordFX</name>
+            <name>derastephh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin Taps the Golden Pocket]]></title>
-        <id>https://medium.com/p/a9b0cc6f0cdd</id>
-        <link href="https://medium.com/coinmonks/bitcoin-taps-the-golden-pocket-a9b0cc6f0cdd?source=rss----721b17443fd5---4"/>
-        <updated>2026-07-02T07:15:18.000Z</updated>
+        <title type="html"><![CDATA[Solana Voting Project: Testing]]></title>
+        <id>https://medium.com/p/c35054a36863</id>
+        <link href="https://coinsbench.com/solana-voting-project-testing-c35054a36863?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-03T08:11:21.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial is the third part of a series of articles about Solana programming. The first part explains the Solana programming model…]]></summary>
         <author>
-            <name>Douglas DeMaio</name>
+            <name>Gimer Cervera</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MiCA Is Now Live. The Stablecoin Fight Is About Monetary Sovereignty.]]></title>
-        <id>https://medium.com/p/8395643993fc</id>
-        <link href="https://medium.com/coinmonks/mica-is-now-live-the-stablecoin-fight-is-about-monetary-sovereignty-8395643993fc?source=rss----721b17443fd5---4"/>
-        <updated>2026-07-02T07:14:45.000Z</updated>
+        <title type="html"><![CDATA[I Built a Gasless Web3 Escrow Platform on Base Sepolia in 48 Hours Here’s Every Bug That Almost…]]></title>
+        <id>https://medium.com/p/8385ec0957e6</id>
+        <link href="https://coinsbench.com/i-built-a-gasless-web3-escrow-platform-on-base-sepolia-in-48-hours-heres-every-bug-that-almost-8385ec0957e6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-03T08:11:13.000Z</updated>
+        <summary type="html"><![CDATA[The blunt version: I built a real-time, milestone-based escrow marketplace where clients lock funds in a Solidity contract and freelancers…]]></summary>
+        <author>
+            <name>Khalid | The Web3 Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engineering a Real-Time BTC Options Volatility Surface III: Metamorphosis]]></title>
+        <id>https://medium.com/p/7731cdee7278</id>
+        <link href="https://coinsbench.com/engineering-a-real-time-btc-options-volatility-surface-iii-metamorphosis-7731cdee7278?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-03T08:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Engineering a Real-Time BTC Options Volatility Surface III: Metamorphosis]]></summary>
+        <author>
+            <name>Gdnaes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the scary world of EVM!!]]></title>
+        <id>https://medium.com/p/6c78c67a3557</id>
+        <link href="https://blog.blockmagnates.com/exploring-the-scary-world-of-evm-6c78c67a3557?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-07-03T08:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Vihaan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Going Down the Ethereum Rabbit Hole, Here’s What I Found]]></title>
+        <id>https://medium.com/p/f50c7f657306</id>
+        <link href="https://blog.blockmagnates.com/going-down-the-ethereum-rabbit-hole-heres-what-i-found-f50c7f657306?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-07-03T08:06:02.000Z</updated>
+        <summary type="html"><![CDATA[Here is a simple plain-English tour of the Ethereum Virtual Machine: function calls, memory, and storage]]></summary>
+        <author>
+            <name>Tathagat Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real Stablecoin Debate in Europe Is About Monetary Sovereignty]]></title>
+        <id>https://medium.com/p/b439872adfd8</id>
+        <link href="https://medium.com/coinmonks/the-real-stablecoin-debate-in-europe-is-about-monetary-sovereignty-b439872adfd8?source=rss----721b17443fd5---4"/>
+        <updated>2026-07-03T07:20:52.000Z</updated>
         <author>
             <name>Joseph Zammit</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Hidden Smarts Moving Europe’s Cash]]></title>
-        <id>https://medium.com/p/fc15c473ef38</id>
-        <link href="https://medium.com/coinmonks/the-hidden-smarts-moving-europes-cash-fc15c473ef38?source=rss----721b17443fd5---4"/>
-        <updated>2026-07-02T07:13:49.000Z</updated>
+        <title type="html"><![CDATA[Is Bitcoin Still an Environmental Problem in 2026?]]></title>
+        <id>https://medium.com/p/4293e927b7c1</id>
+        <link href="https://medium.com/coinmonks/is-bitcoin-still-an-environmental-problem-in-2026-4293e927b7c1?source=rss----721b17443fd5---4"/>
+        <updated>2026-07-03T07:19:37.000Z</updated>
+        <author>
+            <name>Samuel AYODEJI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layer 1 Blockchain Explained: The Foundation of Crypto Networks]]></title>
+        <id>https://medium.com/p/dc8921296418</id>
+        <link href="https://medium.com/coinmonks/layer-1-blockchain-explained-the-foundation-of-crypto-networks-dc8921296418?source=rss----721b17443fd5---4"/>
+        <updated>2026-07-03T07:16:32.000Z</updated>
+        <author>
+            <name>Cryptoafricannews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Banking as a Service: The System You Use Every Day… Without Realising It]]></title>
+        <id>https://medium.com/p/1feb9b1a9514</id>
+        <link href="https://medium.com/coinmonks/banking-as-a-service-the-system-you-use-every-day-without-realising-it-1feb9b1a9514?source=rss----721b17443fd5---4"/>
+        <updated>2026-07-03T07:16:25.000Z</updated>
         <author>
             <name>Kiara</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Shopify of Money: How Stablecoins and Tokenized Finance Are Becoming the New Settlement Layer]]></title>
-        <id>https://medium.com/p/e7f78fea42c6</id>
-        <link href="https://medium.com/coinmonks/the-shopify-of-money-how-stablecoins-and-tokenized-finance-are-becoming-the-new-settlement-layer-e7f78fea42c6?source=rss----721b17443fd5---4"/>
-        <updated>2026-07-02T07:13:40.000Z</updated>
+        <title type="html"><![CDATA[What Happens When AI Meets Cards-as-a-Service]]></title>
+        <id>https://medium.com/p/7f680187c3a6</id>
+        <link href="https://medium.com/coinmonks/what-happens-when-ai-meets-cards-as-a-service-7f680187c3a6?source=rss----721b17443fd5---4"/>
+        <updated>2026-07-03T07:16:18.000Z</updated>
         <author>
-            <name>Ritika Prajapati</name>
+            <name>Avika</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Silent Disappearance of Entry-Level Jobs in the AI Economy: A Generation’s First Career Ladder…]]></title>
-        <id>https://medium.com/p/bda5d83e7073</id>
-        <link href="https://medium.com/coinmonks/the-silent-disappearance-of-entry-level-jobs-in-the-ai-economy-a-generations-first-career-ladder-bda5d83e7073?source=rss----721b17443fd5---4"/>
-        <updated>2026-07-02T07:13:02.000Z</updated>
+        <title type="html"><![CDATA[IBAN Explained: The Global Banking Standard Quietly Powering International Payments]]></title>
+        <id>https://medium.com/p/927206a7a182</id>
+        <link href="https://medium.com/coinmonks/iban-explained-the-global-banking-standard-quietly-powering-international-payments-927206a7a182?source=rss----721b17443fd5---4"/>
+        <updated>2026-07-03T07:15:30.000Z</updated>
         <author>
-            <name>Pragya Kumari</name>
+            <name>Udbhav Writers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The UK has Done a Good Thing. Binance has Done a Bad Thing.]]></title>
-        <id>https://medium.com/p/6df42c3a8114</id>
-        <link href="https://medium.com/coinmonks/the-uk-has-done-a-good-thing-binance-has-done-a-bad-thing-6df42c3a8114?source=rss----721b17443fd5---4"/>
-        <updated>2026-07-02T07:12:48.000Z</updated>
-        <summary type="html"><![CDATA[2nd July 2026
+        <title type="html"><![CDATA[The Fastest Paths to Your Next Trade Idea]]></title>
+        <id>https://medium.com/p/454162b391ee</id>
+        <link href="https://medium.com/coinmonks/the-fastest-paths-to-your-next-trade-idea-454162b391ee?source=rss----721b17443fd5---4"/>
+        <updated>2026-07-03T07:15:27.000Z</updated>
+        <author>
+            <name>altFINS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Financial Cost of Opaque Systems]]></title>
+        <id>https://medium.com/p/55f5e9d14b2f</id>
+        <link href="https://medium.com/coinmonks/the-financial-cost-of-opaque-systems-55f5e9d14b2f?source=rss----721b17443fd5---4"/>
+        <updated>2026-07-03T07:15:17.000Z</updated>
+        <summary type="html"><![CDATA[Verifiable Reflexivity in the Triangle Forces Framework
 Continue reading on Coinmonks »]]></summary>
         <author>
-            <name>Mark Timmis</name>
+            <name>Jurgen Proschinger</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Talking About Money at Work Still Feels “Illegal” in Many Companies]]></title>
-        <id>https://medium.com/p/1f092ef21c2b</id>
-        <link href="https://medium.com/coinmonks/why-talking-about-money-at-work-still-feels-illegal-in-many-companies-1f092ef21c2b?source=rss----721b17443fd5---4"/>
-        <updated>2026-07-02T07:09:48.000Z</updated>
+        <title type="html"><![CDATA[AI trading bots are booming: most quietly lose money]]></title>
+        <id>https://medium.com/p/0ac3f332152a</id>
+        <link href="https://medium.com/coinmonks/ai-trading-bots-are-booming-most-quietly-lose-money-0ac3f332152a?source=rss----721b17443fd5---4"/>
+        <updated>2026-07-03T07:15:09.000Z</updated>
         <author>
-            <name>Ritika Prajapati</name>
+            <name>Denis Kurilchik</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Detailed List of White Label Prop Firm Software Rates Across Different Countries]]></title>
-        <id>https://medium.com/p/f59b213a4325</id>
-        <link href="https://medium.com/coinmonks/a-detailed-list-of-white-label-prop-firm-software-rates-across-different-countries-f59b213a4325?source=rss----721b17443fd5---4"/>
-        <updated>2026-07-02T07:09:37.000Z</updated>
+        <title type="html"><![CDATA[The Architect’s Diary: The End of the Robot-Making Algorithms]]></title>
+        <id>https://medium.com/p/bc2403962694</id>
+        <link href="https://medium.com/coinmonks/the-architects-diary-the-end-of-the-robot-making-algorithms-bc2403962694?source=rss----721b17443fd5---4"/>
+        <updated>2026-07-03T07:14:46.000Z</updated>
         <author>
-            <name>Augustin Z</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embedded Design — The McDonald’s Kiosk That Paid Out]]></title>
-        <id>https://medium.com/p/7211966df993</id>
-        <link href="https://medium.com/coinmonks/embedded-design-the-mcdonalds-kiosk-that-paid-out-7211966df993?source=rss----721b17443fd5---4"/>
-        <updated>2026-07-02T07:09:19.000Z</updated>
-        <summary type="html"><![CDATA[In 2019 a group in Australia worked out that a McDonald’s ordering kiosk would pay them to take the meat out of a hamburger. The $1…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>David Such</name>
+            <name>Pee Dee is Imperfect</name>
         </author>
     </entry>
     <entry>
@@ -157,46 +215,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[How unbounded state growth in a Cosmos SDK EndBlocker led to a critical resource exhaustion bug during a Code4rena audit.]]></summary>
         <author>
             <name>Hacker MD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Programming Model: Accounts]]></title>
-        <id>https://medium.com/p/bc7e798aa1a6</id>
-        <link href="https://coinsbench.com/solana-programming-model-accounts-bc7e798aa1a6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-24T08:32:13.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we explain basic concepts that will help you understand Solana’s programming model. We also explain the differences…]]></summary>
-        <author>
-            <name>Gimer Cervera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Invisible Auction]]></title>
-        <id>https://medium.com/p/03d65f4a1547</id>
-        <link href="https://coinsbench.com/the-invisible-auction-03d65f4a1547?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-22T12:19:24.000Z</updated>
-        <summary type="html"><![CDATA[Before a transaction touches a block, it enters a shadow economy where every byte is a bid.]]></summary>
-        <author>
-            <name>Tabrez Mukadam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auditing Curve Finance Math: How to Build a Stateful Fuzzer from Scratch]]></title>
-        <id>https://medium.com/p/f8335d7811dd</id>
-        <link href="https://coinsbench.com/auditing-curve-finance-math-how-to-build-a-stateful-fuzzer-from-scratch-f8335d7811dd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-21T20:16:01.000Z</updated>
-        <summary type="html"><![CDATA[Mathematical precision is the heartbeat of DeFi. In protocols like Curve Finance, where the StableSwap invariant is the foundation, a…]]></summary>
-        <author>
-            <name>rdin777</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an Interactive P2P Attack Gym in Rust]]></title>
-        <id>https://medium.com/p/e9b8e8647bb1</id>
-        <link href="https://coinsbench.com/building-an-interactive-p2p-attack-gym-in-rust-e9b8e8647bb1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-19T09:14:15.000Z</updated>
-        <summary type="html"><![CDATA[Slot pressure, fake state, and poisoned discovery on 127.0.0.1.]]></summary>
-        <author>
-            <name>Wen-Ting (Joseph) Wang</name>
         </author>
     </entry>
 </feed>
