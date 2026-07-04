@@ -18,12 +18,22 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a8c2633ee2a9",
+          "author": "rdin777",
+          "description": "Introduction\nSecurity auditing in DeFi isn’t just about reading code; it’s about understanding architectural intent. Recently, I decided to…",
+          "link": "https://coinsbench.com/my-first-audit-portfolio-lessons-from-monetrix-v1-a8c2633ee2a9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-04T21:11:00.000Z",
+          "wordCount": 1676,
+          "title": "My First Audit Portfolio: Lessons from Monetrix V1",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*wTbfbjT2Z6uF7lUFpciEbA.jpeg"
+        },
+        {
           "id": "https://medium.com/p/cb4e19619ebd",
           "author": "derastephh",
           "description": "If you’ve spent time auditing smart contracts, you’ve probably noticed something. Division isn’t scary. But it deserves attention.",
           "link": "https://coinsbench.com/the-first-thing-i-check-when-i-see-division-in-solidity-cb4e19619ebd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-03T08:11:22.000Z",
-          "wordCount": 2075,
+          "wordCount": 2074,
           "title": "The First Thing I Check When I See Division in Solidity",
           "imageUrl": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
         },
@@ -33,7 +43,7 @@
           "description": "This tutorial is the third part of a series of articles about Solana programming. The first part explains the Solana programming model…",
           "link": "https://coinsbench.com/solana-voting-project-testing-c35054a36863?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-03T08:11:21.000Z",
-          "wordCount": 5317,
+          "wordCount": 5316,
           "title": "Solana Voting Project: Testing",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZWrLQ3QcJwMOstTG7mWbwg.jpeg"
         },
@@ -43,7 +53,7 @@
           "description": "The blunt version: I built a real-time, milestone-based escrow marketplace where clients lock funds in a Solidity contract and freelancers…",
           "link": "https://coinsbench.com/i-built-a-gasless-web3-escrow-platform-on-base-sepolia-in-48-hours-heres-every-bug-that-almost-8385ec0957e6?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-03T08:11:13.000Z",
-          "wordCount": 3574,
+          "wordCount": 3573,
           "title": "I Built a Gasless Web3 Escrow Platform on Base Sepolia in 48 Hours Here’s Every Bug That Almost…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ILmUOP0VLoWnZ7OD2zz_Rw.png"
         },
@@ -53,7 +63,7 @@
           "description": "Engineering a Real-Time BTC Options Volatility Surface III: Metamorphosis",
           "link": "https://coinsbench.com/engineering-a-real-time-btc-options-volatility-surface-iii-metamorphosis-7731cdee7278?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-03T08:11:11.000Z",
-          "wordCount": 2559,
+          "wordCount": 2558,
           "title": "Engineering a Real-Time BTC Options Volatility Surface III: Metamorphosis",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*1CSP9WHoxyLJqrPX"
         },
@@ -63,7 +73,7 @@
           "description": "In this piece, I explain how blockchain systems are built and the principles that underpin them",
           "link": "https://coinsbench.com/why-most-people-give-up-on-understanding-blockchain-e6b0422daec5?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-06-29T13:51:10.000Z",
-          "wordCount": 2781,
+          "wordCount": 2780,
           "title": "Why Most People Give Up on Understanding Blockchain",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*33d2Z5aRQklaZD687tcfEg@2x.jpeg"
         },
@@ -73,7 +83,7 @@
           "description": "Why tokenization is less about assets—and more about the claims behind them",
           "link": "https://coinsbench.com/blockchain-explained-from-the-ground-up-tokenization-14a973bf2cdd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-06-29T13:51:08.000Z",
-          "wordCount": 1941,
+          "wordCount": 1940,
           "title": "Blockchain Explained, from the Ground Up: Tokenization",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mSVeDP1r7MRz93CoGXGkYw@2x.jpeg"
         },
@@ -83,7 +93,7 @@
           "description": "How I replaced single-point-of-failure monitoring with a permissionless network of cryptographically authenticated validators and why Web3…",
           "link": "https://coinsbench.com/building-pingsy-a-decentralized-uptime-monitor-powered-by-depin-afc73d2c3f71?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-06-29T13:51:06.000Z",
-          "wordCount": 3946,
+          "wordCount": 3945,
           "title": "Building Pingsy: A Decentralized Uptime Monitor Powered by DePIN",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*4MiWtZosTlRHNzzKuPuiPw.png"
         },
@@ -93,7 +103,7 @@
           "description": "A closer look at how blockchain solved the challenge of digital duplication and made trustless digital money possible.",
           "link": "https://coinsbench.com/double-spending-the-problem-that-made-decentralized-digital-money-seem-impossible-1213071e25c6?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-06-24T08:32:24.000Z",
-          "wordCount": 2809,
+          "wordCount": 2808,
           "title": "Double Spending: The Problem That Made Decentralized Digital Money Seem Impossible",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*60MVH_0yHDtJdAenZc4wow@2x.jpeg"
         },
@@ -103,19 +113,9 @@
           "description": "This is the second part of a series of tutorials to learn the fundamentals of Solana programs. The first part explains the Solana…",
           "link": "https://coinsbench.com/first-solana-project-voting-35ab0d6cc68a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-06-24T08:32:21.000Z",
-          "wordCount": 5151,
+          "wordCount": 5150,
           "title": "First Solana Project: Voting",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vwVI9imuebRpLNGMXc-eUw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ba75d4833c25",
-          "author": "Hacker MD",
-          "description": "How unbounded state growth in a Cosmos SDK EndBlocker led to a critical resource exhaustion bug during a Code4rena audit.",
-          "link": "https://coinsbench.com/unbounded-state-bloat-how-i-found-a-chain-halting-dos-bug-in-injectives-peggy-bridge-ba75d4833c25?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-06-24T08:32:17.000Z",
-          "wordCount": 2761,
-          "title": "Unbounded State Bloat: How I Found a Chain-Halting DoS Bug in Injective’s Peggy Bridge",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*l45GBFcwCIh_74sjqBsoXw.png"
         }
       ]
     },
@@ -232,12 +232,22 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/285399029768",
+          "author": "rdin777",
+          "description": "Introduction\nSecurity auditing in DeFi isn’t just about reading code; it’s about understanding architectural intent. Recently, I decided to…",
+          "link": "https://blog.blockmagnates.com/my-first-audit-portfolio-lessons-from-monetrix-v1-285399029768?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2026-07-04T21:36:00.000Z",
+          "wordCount": 1672,
+          "title": "My First Audit Portfolio: Lessons from Monetrix V1",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*I7_vikPIw2ukubwWwhTRqQ.jpeg"
+        },
+        {
           "id": "https://medium.com/p/6c78c67a3557",
           "author": "Vihaan",
           "description": "Introduction",
           "link": "https://blog.blockmagnates.com/exploring-the-scary-world-of-evm-6c78c67a3557?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:04.000Z",
-          "wordCount": 2908,
+          "wordCount": 2907,
           "title": "Exploring the scary world of EVM!!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vr9af8gKIcWwnCYqipGMRQ.jpeg"
         },
@@ -247,7 +257,7 @@
           "description": "Here is a simple plain-English tour of the Ethereum Virtual Machine: function calls, memory, and storage",
           "link": "https://blog.blockmagnates.com/going-down-the-ethereum-rabbit-hole-heres-what-i-found-f50c7f657306?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:02.000Z",
-          "wordCount": 4255,
+          "wordCount": 4254,
           "title": "Going Down the Ethereum Rabbit Hole, Here’s What I Found",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ehNYOQjXFK46akiUPqlQ0g.jpeg"
         }

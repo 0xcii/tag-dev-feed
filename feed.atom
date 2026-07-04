@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-04T20:54:33.948Z</id>
+    <id>urn:2026-07-04T21:57:11.541Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-04T20:54:33.948Z</updated>
+    <updated>2026-07-04T21:57:11.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My First Audit Portfolio: Lessons from Monetrix V1]]></title>
+        <id>https://medium.com/p/285399029768</id>
+        <link href="https://blog.blockmagnates.com/my-first-audit-portfolio-lessons-from-monetrix-v1-285399029768?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-07-04T21:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Security auditing in DeFi isn’t just about reading code; it’s about understanding architectural intent. Recently, I decided to…]]></summary>
+        <author>
+            <name>rdin777</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My First Audit Portfolio: Lessons from Monetrix V1]]></title>
+        <id>https://medium.com/p/a8c2633ee2a9</id>
+        <link href="https://coinsbench.com/my-first-audit-portfolio-lessons-from-monetrix-v1-a8c2633ee2a9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-04T21:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Security auditing in DeFi isn’t just about reading code; it’s about understanding architectural intent. Recently, I decided to…]]></summary>
+        <author>
+            <name>rdin777</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Blockchain + AI Could End Corruption]]></title>
         <id>https://medium.com/p/2c297d5ff1f6</id>
@@ -205,16 +227,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[This is the second part of a series of tutorials to learn the fundamentals of Solana programs. The first part explains the Solana…]]></summary>
         <author>
             <name>Gimer Cervera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unbounded State Bloat: How I Found a Chain-Halting DoS Bug in Injective’s Peggy Bridge]]></title>
-        <id>https://medium.com/p/ba75d4833c25</id>
-        <link href="https://coinsbench.com/unbounded-state-bloat-how-i-found-a-chain-halting-dos-bug-in-injectives-peggy-bridge-ba75d4833c25?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-24T08:32:17.000Z</updated>
-        <summary type="html"><![CDATA[How unbounded state growth in a Cosmos SDK EndBlocker led to a critical resource exhaustion bug during a Code4rena audit.]]></summary>
-        <author>
-            <name>Hacker MD</name>
         </author>
     </entry>
 </feed>
