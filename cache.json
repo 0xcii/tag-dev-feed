@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -11,6 +17,26 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/ffa3e1c8a320",
+          "author": "Satyam",
+          "description": "The immutable and transparent nature of public distributed ledgers has fundamentally altered the paradigm of financial forensics. Where…",
+          "link": "https://coinsbench.com/the-ledger-unmasked-the-role-of-blockchain-explorers-in-cryptocurrency-investigations-ffa3e1c8a320?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-06T10:54:50.000Z",
+          "wordCount": 3535,
+          "title": "The Ledger Unmasked: The Role of Blockchain Explorers in Cryptocurrency Investigations",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6-wPvYlmbGVXs0MhVytjSQ.png"
+        },
+        {
+          "id": "https://medium.com/p/d23ddc44b76c",
+          "author": "Tabrez Mukadam",
+          "description": "Season 2: PROTOCOL ZERO, Chapter 3 | The Economics of Free Failure",
+          "link": "https://coinsbench.com/shadow-contracts-the-zero-risk-revert-trick-d23ddc44b76c?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-06T10:54:48.000Z",
+          "wordCount": 5037,
+          "title": "Shadow Contracts & The Zero-Risk Revert Trick",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BtEDeigevNwV-6TQ-IobXQ.jpeg"
+        },
         {
           "id": "https://medium.com/p/a8c2633ee2a9",
           "author": "rdin777",
@@ -90,26 +116,6 @@
           "wordCount": 3946,
           "title": "Building Pingsy: A Decentralized Uptime Monitor Powered by DePIN",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*4MiWtZosTlRHNzzKuPuiPw.png"
-        },
-        {
-          "id": "https://medium.com/p/1213071e25c6",
-          "author": "Samuel AYODEJI",
-          "description": "A closer look at how blockchain solved the challenge of digital duplication and made trustless digital money possible.",
-          "link": "https://coinsbench.com/double-spending-the-problem-that-made-decentralized-digital-money-seem-impossible-1213071e25c6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-06-24T08:32:24.000Z",
-          "wordCount": 2809,
-          "title": "Double Spending: The Problem That Made Decentralized Digital Money Seem Impossible",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*60MVH_0yHDtJdAenZc4wow@2x.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/35ab0d6cc68a",
-          "author": "Gimer Cervera",
-          "description": "This is the second part of a series of tutorials to learn the fundamentals of Solana programs. The first part explains the Solana…",
-          "link": "https://coinsbench.com/first-solana-project-voting-35ab0d6cc68a?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-06-24T08:32:21.000Z",
-          "wordCount": 5151,
-          "title": "First Solana Project: Voting",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vwVI9imuebRpLNGMXc-eUw.jpeg"
         }
       ]
     },

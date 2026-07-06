@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-06T08:17:27.601Z</id>
+    <id>urn:2026-07-06T12:44:01.437Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-06T08:17:27.601Z</updated>
+    <updated>2026-07-06T12:44:01.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Ledger Unmasked: The Role of Blockchain Explorers in Cryptocurrency Investigations]]></title>
+        <id>https://medium.com/p/ffa3e1c8a320</id>
+        <link href="https://coinsbench.com/the-ledger-unmasked-the-role-of-blockchain-explorers-in-cryptocurrency-investigations-ffa3e1c8a320?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-06T10:54:50.000Z</updated>
+        <summary type="html"><![CDATA[The immutable and transparent nature of public distributed ledgers has fundamentally altered the paradigm of financial forensics. Where…]]></summary>
+        <author>
+            <name>Satyam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadow Contracts & The Zero-Risk Revert Trick]]></title>
+        <id>https://medium.com/p/d23ddc44b76c</id>
+        <link href="https://coinsbench.com/shadow-contracts-the-zero-risk-revert-trick-d23ddc44b76c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-06T10:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Season 2: PROTOCOL ZERO, Chapter 3 | The Economics of Free Failure]]></summary>
+        <author>
+            <name>Tabrez Mukadam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NordFX Morning Update — July 6, 2026]]></title>
         <id>https://medium.com/p/36a975d5634d</id>
@@ -207,26 +227,6 @@ Security auditing in DeFi isn’t just about reading code; it’s about understa
         <summary type="html"><![CDATA[How I replaced single-point-of-failure monitoring with a permissionless network of cryptographically authenticated validators and why Web3…]]></summary>
         <author>
             <name>Akemnoor Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Double Spending: The Problem That Made Decentralized Digital Money Seem Impossible]]></title>
-        <id>https://medium.com/p/1213071e25c6</id>
-        <link href="https://coinsbench.com/double-spending-the-problem-that-made-decentralized-digital-money-seem-impossible-1213071e25c6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-24T08:32:24.000Z</updated>
-        <summary type="html"><![CDATA[A closer look at how blockchain solved the challenge of digital duplication and made trustless digital money possible.]]></summary>
-        <author>
-            <name>Samuel AYODEJI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Solana Project: Voting]]></title>
-        <id>https://medium.com/p/35ab0d6cc68a</id>
-        <link href="https://coinsbench.com/first-solana-project-voting-35ab0d6cc68a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-24T08:32:21.000Z</updated>
-        <summary type="html"><![CDATA[This is the second part of a series of tutorials to learn the fundamentals of Solana programs. The first part explains the Solana…]]></summary>
-        <author>
-            <name>Gimer Cervera</name>
         </author>
     </entry>
 </feed>
