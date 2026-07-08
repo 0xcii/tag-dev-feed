@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-08T07:26:27.099Z</id>
+    <id>urn:2026-07-08T10:14:09.909Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-08T07:26:27.099Z</updated>
+    <updated>2026-07-08T10:14:09.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3: The Future of the Internet – Assumption or Fact?]]></title>
+        <id>https://medium.com/p/304d69dccaac</id>
+        <link href="https://coinsbench.com/web3-the-future-of-the-internet-assumption-or-fact-304d69dccaac?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-08T08:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Can blockchain transform the internet, or is Web3 simply another tech buzzword?]]></summary>
+        <author>
+            <name>Samuel AYODEJI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Agent Can Act On-Chain. Who Defines Its Authority?]]></title>
+        <id>https://medium.com/p/81c5a4218d47</id>
+        <link href="https://coinsbench.com/the-ai-agent-can-act-on-chain-who-defines-its-authority-81c5a4218d47?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-08T08:20:57.000Z</updated>
+        <summary type="html"><![CDATA[The hard question is not whether an AI agent can write to a chain. It is who defines the scope of that write authority, how contracts…]]></summary>
+        <author>
+            <name>Wen-Ting (Joseph) Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Watched a Contract Rob Itself of $50M. Nobody Hacked It.]]></title>
+        <id>https://medium.com/p/dfbbe98a9219</id>
+        <link href="https://coinsbench.com/i-watched-a-contract-rob-itself-of-50m-nobody-hacked-it-dfbbe98a9219?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-08T08:20:48.000Z</updated>
+        <summary type="html"><![CDATA[Season 2: PROTOCOL ZERO, Chapter 4 | The God Who Lies]]></summary>
+        <author>
+            <name>Tabrez Mukadam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Really Happens When You Call a Smart Contract?]]></title>
+        <id>https://medium.com/p/d1329983e9c5</id>
+        <link href="https://coinsbench.com/what-really-happens-when-you-call-a-smart-contract-d1329983e9c5?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-08T08:20:46.000Z</updated>
+        <summary type="html"><![CDATA[You’ve probably written something like this before.]]></summary>
+        <author>
+            <name>derastephh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What actually moves the US Dollar — and why should you care?]]></title>
         <id>https://medium.com/p/699a98794d80</id>
@@ -172,16 +212,6 @@ Security auditing in DeFi isn’t just about reading code; it’s about understa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Engineering a Real-Time BTC Options Volatility Surface III: Metamorphosis]]></title>
-        <id>https://medium.com/p/7731cdee7278</id>
-        <link href="https://coinsbench.com/engineering-a-real-time-btc-options-volatility-surface-iii-metamorphosis-7731cdee7278?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-03T08:11:11.000Z</updated>
-        <summary type="html"><![CDATA[Engineering a Real-Time BTC Options Volatility Surface III: Metamorphosis]]></summary>
-        <author>
-            <name>Gdnaes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Exploring the scary world of EVM!!]]></title>
         <id>https://medium.com/p/6c78c67a3557</id>
         <link href="https://blog.blockmagnates.com/exploring-the-scary-world-of-evm-6c78c67a3557?source=rss----18fa961f1eff--solidity"/>
@@ -199,36 +229,6 @@ Security auditing in DeFi isn’t just about reading code; it’s about understa
         <summary type="html"><![CDATA[Here is a simple plain-English tour of the Ethereum Virtual Machine: function calls, memory, and storage]]></summary>
         <author>
             <name>Tathagat Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Most People Give Up on Understanding Blockchain]]></title>
-        <id>https://medium.com/p/e6b0422daec5</id>
-        <link href="https://coinsbench.com/why-most-people-give-up-on-understanding-blockchain-e6b0422daec5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-29T13:51:10.000Z</updated>
-        <summary type="html"><![CDATA[In this piece, I explain how blockchain systems are built and the principles that underpin them]]></summary>
-        <author>
-            <name>Samuel AYODEJI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain Explained, from the Ground Up: Tokenization]]></title>
-        <id>https://medium.com/p/14a973bf2cdd</id>
-        <link href="https://coinsbench.com/blockchain-explained-from-the-ground-up-tokenization-14a973bf2cdd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-29T13:51:08.000Z</updated>
-        <summary type="html"><![CDATA[Why tokenization is less about assets—and more about the claims behind them]]></summary>
-        <author>
-            <name>Samuel AYODEJI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Pingsy: A Decentralized Uptime Monitor Powered by DePIN]]></title>
-        <id>https://medium.com/p/afc73d2c3f71</id>
-        <link href="https://coinsbench.com/building-pingsy-a-decentralized-uptime-monitor-powered-by-depin-afc73d2c3f71?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-06-29T13:51:06.000Z</updated>
-        <summary type="html"><![CDATA[How I replaced single-point-of-failure monitoring with a permissionless network of cryptographically authenticated validators and why Web3…]]></summary>
-        <author>
-            <name>Akemnoor Singh</name>
         </author>
     </entry>
 </feed>

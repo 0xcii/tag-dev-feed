@@ -18,6 +18,46 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/304d69dccaac",
+          "author": "Samuel AYODEJI",
+          "description": "Can blockchain transform the internet, or is Web3 simply another tech buzzword?",
+          "link": "https://coinsbench.com/web3-the-future-of-the-internet-assumption-or-fact-304d69dccaac?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-08T08:21:00.000Z",
+          "wordCount": 3559,
+          "title": "Web3: The Future of the Internet – Assumption or Fact?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jQK9lajlrI3thSxyPuLWrw@2x.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/81c5a4218d47",
+          "author": "Wen-Ting (Joseph) Wang",
+          "description": "The hard question is not whether an AI agent can write to a chain. It is who defines the scope of that write authority, how contracts…",
+          "link": "https://coinsbench.com/the-ai-agent-can-act-on-chain-who-defines-its-authority-81c5a4218d47?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-08T08:20:57.000Z",
+          "wordCount": 4655,
+          "title": "The AI Agent Can Act On-Chain. Who Defines Its Authority?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*bR40QDpK3AEvsOby.png"
+        },
+        {
+          "id": "https://medium.com/p/dfbbe98a9219",
+          "author": "Tabrez Mukadam",
+          "description": "Season 2: PROTOCOL ZERO, Chapter 4 | The God Who Lies",
+          "link": "https://coinsbench.com/i-watched-a-contract-rob-itself-of-50m-nobody-hacked-it-dfbbe98a9219?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-08T08:20:48.000Z",
+          "wordCount": 4036,
+          "title": "I Watched a Contract Rob Itself of $50M. Nobody Hacked It.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-qnNplDtDuMFKMpr8LwcvQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/d1329983e9c5",
+          "author": "derastephh",
+          "description": "You’ve probably written something like this before.",
+          "link": "https://coinsbench.com/what-really-happens-when-you-call-a-smart-contract-d1329983e9c5?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-08T08:20:46.000Z",
+          "wordCount": 2384,
+          "title": "What Really Happens When You Call a Smart Contract?",
+          "imageUrl": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
+        },
+        {
           "id": "https://medium.com/p/ffa3e1c8a320",
           "author": "Satyam",
           "description": "The immutable and transparent nature of public distributed ledgers has fundamentally altered the paradigm of financial forensics. Where…",
@@ -76,46 +116,6 @@
           "wordCount": 3646,
           "title": "I Built a Gasless Web3 Escrow Platform on Base Sepolia in 48 Hours Here’s Every Bug That Almost…",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ILmUOP0VLoWnZ7OD2zz_Rw.png"
-        },
-        {
-          "id": "https://medium.com/p/7731cdee7278",
-          "author": "Gdnaes",
-          "description": "Engineering a Real-Time BTC Options Volatility Surface III: Metamorphosis",
-          "link": "https://coinsbench.com/engineering-a-real-time-btc-options-volatility-surface-iii-metamorphosis-7731cdee7278?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-07-03T08:11:11.000Z",
-          "wordCount": 2559,
-          "title": "Engineering a Real-Time BTC Options Volatility Surface III: Metamorphosis",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*1CSP9WHoxyLJqrPX"
-        },
-        {
-          "id": "https://medium.com/p/e6b0422daec5",
-          "author": "Samuel AYODEJI",
-          "description": "In this piece, I explain how blockchain systems are built and the principles that underpin them",
-          "link": "https://coinsbench.com/why-most-people-give-up-on-understanding-blockchain-e6b0422daec5?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-06-29T13:51:10.000Z",
-          "wordCount": 2864,
-          "title": "Why Most People Give Up on Understanding Blockchain",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*33d2Z5aRQklaZD687tcfEg@2x.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/14a973bf2cdd",
-          "author": "Samuel AYODEJI",
-          "description": "Why tokenization is less about assets—and more about the claims behind them",
-          "link": "https://coinsbench.com/blockchain-explained-from-the-ground-up-tokenization-14a973bf2cdd?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-06-29T13:51:08.000Z",
-          "wordCount": 1941,
-          "title": "Blockchain Explained, from the Ground Up: Tokenization",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mSVeDP1r7MRz93CoGXGkYw@2x.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/afc73d2c3f71",
-          "author": "Akemnoor Singh",
-          "description": "How I replaced single-point-of-failure monitoring with a permissionless network of cryptographically authenticated validators and why Web3…",
-          "link": "https://coinsbench.com/building-pingsy-a-decentralized-uptime-monitor-powered-by-depin-afc73d2c3f71?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-06-29T13:51:06.000Z",
-          "wordCount": 4022,
-          "title": "Building Pingsy: A Decentralized Uptime Monitor Powered by DePIN",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*4MiWtZosTlRHNzzKuPuiPw.png"
         }
       ]
     },
