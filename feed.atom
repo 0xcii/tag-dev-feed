@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-11T20:08:36.532Z</id>
+    <id>urn:2026-07-11T21:46:13.993Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-11T20:08:36.532Z</updated>
+    <updated>2026-07-11T21:46:13.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How I Built DeFi-Sentinel: Real-time Market Anomaly Monitoring and Battling RAM Issues]]></title>
+        <id>https://medium.com/p/ea43c4adb2f3</id>
+        <link href="https://coinsbench.com/how-i-built-defi-sentinel-real-time-market-anomaly-monitoring-and-battling-ram-issues-ea43c4adb2f3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-11T21:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+The crypto market is highly volatile. To avoid missing profitable trading opportunities caused by sudden spread spikes, I…]]></summary>
+        <author>
+            <name>rdin777</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solving Damn Vulnerable DeFi V4: Level 4- Side Entrance]]></title>
         <id>https://medium.com/p/21fa02a276ce</id>
@@ -187,16 +198,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Season 2: PROTOCOL ZERO, Chapter 4 | The God Who Lies]]></summary>
         <author>
             <name>Tabrez Mukadam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Really Happens When You Call a Smart Contract?]]></title>
-        <id>https://medium.com/p/d1329983e9c5</id>
-        <link href="https://coinsbench.com/what-really-happens-when-you-call-a-smart-contract-d1329983e9c5?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-08T08:20:46.000Z</updated>
-        <summary type="html"><![CDATA[You’ve probably written something like this before.]]></summary>
-        <author>
-            <name>derastephh</name>
         </author>
     </entry>
     <entry>
