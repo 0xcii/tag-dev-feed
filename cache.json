@@ -7,12 +7,6 @@
       "articles": []
     },
     {
-      "title": "cryptomaton",
-      "feedUrl": "https://www.cryptomaton.org/feed/",
-      "siteUrl": "https://www.cryptomaton.org/",
-      "articles": []
-    },
-    {
       "title": "CoinsBench - Medium",
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
@@ -33,7 +27,7 @@
           "description": "Mining in Blockchain: How It Actually Works in the Real World",
           "link": "https://coinsbench.com/beyond-basic-mining-how-blockchains-secure-themselves-b46b25da3cba?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-13T09:56:47.000Z",
-          "wordCount": 3774,
+          "wordCount": 2948,
           "title": "Beyond Basic Mining: How Blockchains Secure Themselves",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qaFaM7fmF-T-ycxAXb5sCQ.png"
         },
@@ -53,7 +47,7 @@
           "description": "Challenge overview",
           "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-4-side-entrance-21fa02a276ce?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-10T17:09:46.000Z",
-          "wordCount": 2598,
+          "wordCount": 1766,
           "title": "Solving Damn Vulnerable DeFi V4: Level 4- Side Entrance",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1013/1*597YPmK1f8W7LK27ZRCzOQ.png"
         },
@@ -63,7 +57,7 @@
           "description": "Challenge overview",
           "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-2-naive-receiver-c33d1a63cf21?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-10T17:09:29.000Z",
-          "wordCount": 2518,
+          "wordCount": 1692,
           "title": "Solving Damn Vulnerable DeFi V4: Level 3- Truster",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1032/1*-joxKgpHEfO5edalgMMUmg.png"
         },
@@ -103,7 +97,7 @@
           "description": "Understanding How Blockchain Payments Actually Work in Practice",
           "link": "https://coinsbench.com/building-a-real-web3-payment-flow-with-xrpl-xaman-wallet-without-smart-contracts-8629f9363e37?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-10T17:09:12.000Z",
-          "wordCount": 2472,
+          "wordCount": 3298,
           "title": "Building a Real Web3 Payment Flow with XRPL & Xaman Wallet (Without Smart Contracts)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jLZjEgjdr6_-9Wsxuzw_Zw.png"
         },
@@ -237,7 +231,7 @@
           "description": "By Jay Makwana, DeFi and Smart Contract Engineer",
           "link": "https://blog.blockmagnates.com/how-i-won-the-uniswap-foundation-prize-track-at-uhi9-by-turning-impermanent-loss-into-yield-9bca2f5999c1?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-13T10:01:09.000Z",
-          "wordCount": 8603,
+          "wordCount": 9432,
           "title": "How I Won the Uniswap Foundation Prize Track at UHI9 by Turning Impermanent Loss Into Yield",
           "imageUrl": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
         },
@@ -247,7 +241,7 @@
           "description": "Introduction\nSecurity auditing in DeFi isn’t just about reading code; it’s about understanding architectural intent. Recently, I decided to…",
           "link": "https://blog.blockmagnates.com/my-first-audit-portfolio-lessons-from-monetrix-v1-285399029768?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-04T21:36:00.000Z",
-          "wordCount": 2500,
+          "wordCount": 1674,
           "title": "My First Audit Portfolio: Lessons from Monetrix V1",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*I7_vikPIw2ukubwWwhTRqQ.jpeg"
         },
@@ -257,7 +251,7 @@
           "description": "Introduction",
           "link": "https://blog.blockmagnates.com/exploring-the-scary-world-of-evm-6c78c67a3557?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:04.000Z",
-          "wordCount": 3790,
+          "wordCount": 3789,
           "title": "Exploring the scary world of EVM!!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vr9af8gKIcWwnCYqipGMRQ.jpeg"
         },
@@ -267,7 +261,7 @@
           "description": "Here is a simple plain-English tour of the Ethereum Virtual Machine: function calls, memory, and storage",
           "link": "https://blog.blockmagnates.com/going-down-the-ethereum-rabbit-hole-heres-what-i-found-f50c7f657306?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:02.000Z",
-          "wordCount": 4358,
+          "wordCount": 5183,
           "title": "Going Down the Ethereum Rabbit Hole, Here’s What I Found",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ehNYOQjXFK46akiUPqlQ0g.jpeg"
         }
