@@ -18,12 +18,32 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/ebe74f7936d4",
+          "author": "Sewmini Kavindya",
+          "description": "Welcome back! 👋",
+          "link": "https://coinsbench.com/blog-05-smart-contracts-tokens-ebe74f7936d4?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-13T09:56:49.000Z",
+          "wordCount": 3681,
+          "title": "Blog 05: Smart Contracts & Tokens",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:898/1*QlI1yS-NtbQHQtiIwq0YOg.png"
+        },
+        {
+          "id": "https://medium.com/p/b46b25da3cba",
+          "author": "Sewmini Kavindya",
+          "description": "Mining in Blockchain: How It Actually Works in the Real World",
+          "link": "https://coinsbench.com/beyond-basic-mining-how-blockchains-secure-themselves-b46b25da3cba?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-13T09:56:47.000Z",
+          "wordCount": 3774,
+          "title": "Beyond Basic Mining: How Blockchains Secure Themselves",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qaFaM7fmF-T-ycxAXb5sCQ.png"
+        },
+        {
           "id": "https://medium.com/p/ea43c4adb2f3",
           "author": "rdin777",
           "description": "Introduction\nThe crypto market is highly volatile. To avoid missing profitable trading opportunities caused by sudden spread spikes, I…",
           "link": "https://coinsbench.com/how-i-built-defi-sentinel-real-time-market-anomaly-monitoring-and-battling-ram-issues-ea43c4adb2f3?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-11T21:11:00.000Z",
-          "wordCount": 1866,
+          "wordCount": 1867,
           "title": "How I Built DeFi-Sentinel: Real-time Market Anomaly Monitoring and Battling RAM Issues",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1126/1*FX-efa1KCT8GRB_IjuG6eA.png"
         },
@@ -33,7 +53,7 @@
           "description": "Challenge overview",
           "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-4-side-entrance-21fa02a276ce?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-10T17:09:46.000Z",
-          "wordCount": 2592,
+          "wordCount": 2598,
           "title": "Solving Damn Vulnerable DeFi V4: Level 4- Side Entrance",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1013/1*597YPmK1f8W7LK27ZRCzOQ.png"
         },
@@ -43,7 +63,7 @@
           "description": "Challenge overview",
           "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-2-naive-receiver-c33d1a63cf21?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-10T17:09:29.000Z",
-          "wordCount": 1694,
+          "wordCount": 2518,
           "title": "Solving Damn Vulnerable DeFi V4: Level 3- Truster",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1032/1*-joxKgpHEfO5edalgMMUmg.png"
         },
@@ -53,7 +73,7 @@
           "description": "Polymarket trading is the new trenches, surpassing the intense, cutthroat action of perpetuals and meme coin speculation. This shift…",
           "link": "https://coinsbench.com/top-10-polymarket-trading-strategies-with-examples-c9e3428c80a8?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-10T17:09:22.000Z",
-          "wordCount": 5507,
+          "wordCount": 6333,
           "title": "Top 10 Polymarket Trading Strategies (With Examples)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0vqBLJGFrJZHMUsra6Zu9w.png"
         },
@@ -63,7 +83,7 @@
           "description": "How the invention of the nuclear bomb, the creation of Google, and LLM models are connected to building a successful trading strategy on…",
           "link": "https://coinsbench.com/markov-chains-nuclear-algorithm-used-by-quants-to-crush-87-of-polymarket-traders-5c01e96ad479?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-10T17:09:19.000Z",
-          "wordCount": 6395,
+          "wordCount": 6397,
           "title": "Markov Chains: nuclear algorithm used by Quants to crush 87% of Polymarket traders",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:680/0*m8yEdvg5wZ6mUIZV"
         },
@@ -83,7 +103,7 @@
           "description": "Understanding How Blockchain Payments Actually Work in Practice",
           "link": "https://coinsbench.com/building-a-real-web3-payment-flow-with-xrpl-xaman-wallet-without-smart-contracts-8629f9363e37?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-10T17:09:12.000Z",
-          "wordCount": 2473,
+          "wordCount": 2472,
           "title": "Building a Real Web3 Payment Flow with XRPL & Xaman Wallet (Without Smart Contracts)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jLZjEgjdr6_-9Wsxuzw_Zw.png"
         },
@@ -93,29 +113,9 @@
           "description": "Can blockchain transform the internet, or is Web3 simply another tech buzzword?",
           "link": "https://coinsbench.com/web3-the-future-of-the-internet-assumption-or-fact-304d69dccaac?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-08T08:21:00.000Z",
-          "wordCount": 3559,
+          "wordCount": 4387,
           "title": "Web3: The Future of the Internet – Assumption or Fact?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jQK9lajlrI3thSxyPuLWrw@2x.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/81c5a4218d47",
-          "author": "Wen-Ting (Joseph) Wang",
-          "description": "The hard question is not whether an AI agent can write to a chain. It is who defines the scope of that write authority, how contracts…",
-          "link": "https://coinsbench.com/the-ai-agent-can-act-on-chain-who-defines-its-authority-81c5a4218d47?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-07-08T08:20:57.000Z",
-          "wordCount": 5481,
-          "title": "The AI Agent Can Act On-Chain. Who Defines Its Authority?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*bR40QDpK3AEvsOby.png"
-        },
-        {
-          "id": "https://medium.com/p/dfbbe98a9219",
-          "author": "Tabrez Mukadam",
-          "description": "Season 2: PROTOCOL ZERO, Chapter 4 | The God Who Lies",
-          "link": "https://coinsbench.com/i-watched-a-contract-rob-itself-of-50m-nobody-hacked-it-dfbbe98a9219?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-07-08T08:20:48.000Z",
-          "wordCount": 4862,
-          "title": "I Watched a Contract Rob Itself of $50M. Nobody Hacked It.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-qnNplDtDuMFKMpr8LwcvQ.jpeg"
         }
       ]
     },
@@ -125,103 +125,103 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/b8b829a9359b",
-          "author": "Coinmonks Team",
+          "id": "https://medium.com/p/538a7b8d1d3b",
+          "author": "36Crypto",
           "description": "",
-          "link": "https://medium.com/coinmonks/3-best-memecoin-trading-platform-for-robinhood-chain-b8b829a9359b?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-12T05:15:05.000Z",
+          "link": "https://medium.com/coinmonks/jeremy-allaire-early-life-and-net-worth-the-circle-ceo-driving-stablecoin-innovation-36crypto-538a7b8d1d3b?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-13T07:58:41.000Z",
           "wordCount": null,
-          "title": "3 Best Memecoin Trading Platform for Robinhood Chain",
+          "title": "Jeremy Allaire: Early Life and Net Worth — The Circle CEO Driving Stablecoin Innovation — 36Crypto",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/0607043c1869",
-          "author": "Yash Hiranandani",
+          "id": "https://medium.com/p/42dc3b882bb6",
+          "author": "SwapHunt",
           "description": "",
-          "link": "https://medium.com/coinmonks/authorizing-ai-agents-on-payment-rails-that-dont-forgive-0607043c1869?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-10T13:00:56.000Z",
+          "link": "https://medium.com/coinmonks/the-account-size-that-changes-how-you-trade-42dc3b882bb6?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-13T07:58:32.000Z",
           "wordCount": null,
-          "title": "Authorizing AI Agents on Payment Rails That Don’t Forgive",
+          "title": "The Account Size That Changes How You Trade",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/dee6f1467b03",
-          "author": "Mark Arthur",
+          "id": "https://medium.com/p/fe11e6b9a1da",
+          "author": "SwapHunt",
           "description": "",
-          "link": "https://medium.com/coinmonks/music-nfts-an-alternative-to-streaming-services-dee6f1467b03?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-10T12:59:35.000Z",
+          "link": "https://medium.com/coinmonks/how-information-loses-its-edge-in-markets-fe11e6b9a1da?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-13T07:58:30.000Z",
           "wordCount": null,
-          "title": "Music NFTs: An Alternative to Streaming Services",
+          "title": "How Information Loses Its Edge in Markets",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/b4bd23a0c849",
-          "author": "Joseph Zammit",
-          "description": "",
-          "link": "https://medium.com/coinmonks/trust-is-the-new-fintech-moat-b4bd23a0c849?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-10T12:58:34.000Z",
-          "wordCount": null,
-          "title": "Trust Is the New Fintech Moat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/30f3c152fb33",
-          "author": "Billy Bradley",
-          "description": "",
-          "link": "https://medium.com/coinmonks/the-name-they-stole-30f3c152fb33?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-10T12:58:22.000Z",
-          "wordCount": null,
-          "title": "The Name They Stole",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/382f7dcf3009",
-          "author": "Mark Timmis",
-          "description": "10th July 2026\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-sec-is-on-our-side-tradfi-is-not-382f7dcf3009?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-10T12:58:15.000Z",
-          "wordCount": null,
-          "title": "The SEC is on our side. TradFi is not.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/eaae276fabff",
-          "author": "Alexa V.",
-          "description": "",
-          "link": "https://medium.com/coinmonks/how-to-trade-the-liquidation-heatmap-with-real-time-data-on-hyperliquid-eaae276fabff?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-10T12:57:50.000Z",
-          "wordCount": null,
-          "title": "How to Trade the Liquidation Heatmap with Real-Time Data on Hyperliquid",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/cd7b7ee23353",
-          "author": "Dipanshu Chaudhry",
-          "description": "The Liquidity Revolution of Hyperliquid: Why Market Concentration Will Determine the Future of Crypto Trading\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/why-decentralization-doesnt-guarantee-decentralized-outcomes-cd7b7ee23353?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-10T12:49:01.000Z",
-          "wordCount": null,
-          "title": "Why Decentralization Doesn’t Guarantee Decentralized Outcomes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a3c74ee27dca",
-          "author": "NordFX",
-          "description": "",
-          "link": "https://medium.com/coinmonks/nordfx-morning-update-july-10-2026-a3c74ee27dca?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-10T06:55:27.000Z",
-          "wordCount": null,
-          "title": "NordFX Morning Update — July 10, 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/910a95a1b760",
+          "id": "https://medium.com/p/3b5c2486c749",
           "author": "Gen",
           "description": "",
-          "link": "https://medium.com/coinmonks/oil-bought-the-deal-the-tankers-didnt-910a95a1b760?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-10T06:54:52.000Z",
+          "link": "https://medium.com/coinmonks/crypto-got-its-rulebook-the-chart-didnt-read-it-3b5c2486c749?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-13T07:58:24.000Z",
           "wordCount": null,
-          "title": "Oil Bought the Deal. The Tankers Didn’t.",
+          "title": "Crypto Got Its Rulebook. The Chart Didn’t Read It.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b28d98d57c48",
+          "author": "Sweety Tripathi",
+          "description": "",
+          "link": "https://medium.com/coinmonks/contextual-retrieval-anthropics-method-for-cutting-rag-failures-b28d98d57c48?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-13T07:57:57.000Z",
+          "wordCount": null,
+          "title": "Contextual Retrieval: Anthropic’s Method for Cutting RAG Failures",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/adc37e7edb6e",
+          "author": "Mark Timmis",
+          "description": "11th July 2026\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/ascendex-com-shuts-down-coinbase-expands-adc37e7edb6e?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-13T07:57:40.000Z",
+          "wordCount": null,
+          "title": "AscendEX.com shuts down. Coinbase expands.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f5f7ef5803fd",
+          "author": "Aviksan",
+          "description": "",
+          "link": "https://medium.com/coinmonks/how-to-raise-10m-for-your-crypto-project-in-the-current-market-f5f7ef5803fd?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-13T07:57:34.000Z",
+          "wordCount": null,
+          "title": "How to Raise $10M+ for Your Crypto Project in the Current Market",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/eafdc4138e2d",
+          "author": "Michael Savel",
+          "description": "",
+          "link": "https://medium.com/coinmonks/a-nurses-empty-promise-eafdc4138e2d?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-13T07:57:14.000Z",
+          "wordCount": null,
+          "title": "A Nurse’s Empty Promise",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/24fc7160880b",
+          "author": "Coinpedia",
+          "description": "",
+          "link": "https://medium.com/coinmonks/which-crypto-category-created-the-most-millionaires-in-h1-2026-24fc7160880b?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-13T07:57:00.000Z",
+          "wordCount": null,
+          "title": "Which Crypto Category Created the Most Millionaires in H1 2026?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d27d5a2ce7b1",
+          "author": "Scott rossiter",
+          "description": "",
+          "link": "https://medium.com/coinmonks/a-librarians-false-catalogue-d27d5a2ce7b1?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-13T07:56:45.000Z",
+          "wordCount": null,
+          "title": "A Librarian’s False Catalogue",
           "imageUrl": null
         }
       ]
@@ -232,12 +232,22 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/9bca2f5999c1",
+          "author": "Jay Makwana",
+          "description": "By Jay Makwana, DeFi and Smart Contract Engineer",
+          "link": "https://blog.blockmagnates.com/how-i-won-the-uniswap-foundation-prize-track-at-uhi9-by-turning-impermanent-loss-into-yield-9bca2f5999c1?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2026-07-13T10:01:09.000Z",
+          "wordCount": 8603,
+          "title": "How I Won the Uniswap Foundation Prize Track at UHI9 by Turning Impermanent Loss Into Yield",
+          "imageUrl": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
+        },
+        {
           "id": "https://medium.com/p/285399029768",
           "author": "rdin777",
           "description": "Introduction\nSecurity auditing in DeFi isn’t just about reading code; it’s about understanding architectural intent. Recently, I decided to…",
           "link": "https://blog.blockmagnates.com/my-first-audit-portfolio-lessons-from-monetrix-v1-285399029768?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-04T21:36:00.000Z",
-          "wordCount": 1674,
+          "wordCount": 2500,
           "title": "My First Audit Portfolio: Lessons from Monetrix V1",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*I7_vikPIw2ukubwWwhTRqQ.jpeg"
         },
@@ -247,7 +257,7 @@
           "description": "Introduction",
           "link": "https://blog.blockmagnates.com/exploring-the-scary-world-of-evm-6c78c67a3557?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:04.000Z",
-          "wordCount": 2963,
+          "wordCount": 3790,
           "title": "Exploring the scary world of EVM!!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vr9af8gKIcWwnCYqipGMRQ.jpeg"
         },
@@ -257,7 +267,7 @@
           "description": "Here is a simple plain-English tour of the Ethereum Virtual Machine: function calls, memory, and storage",
           "link": "https://blog.blockmagnates.com/going-down-the-ethereum-rabbit-hole-heres-what-i-found-f50c7f657306?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:02.000Z",
-          "wordCount": 5183,
+          "wordCount": 4358,
           "title": "Going Down the Ethereum Rabbit Hole, Here’s What I Found",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ehNYOQjXFK46akiUPqlQ0g.jpeg"
         }
