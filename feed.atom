@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-14T16:12:01.986Z</id>
+    <id>urn:2026-07-14T18:00:38.011Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-14T16:12:01.986Z</updated>
+    <updated>2026-07-14T18:00:38.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arcus Review: The dYdX Team’s 24/7 Stock-Token DEX]]></title>
+        <id>https://medium.com/p/0675570be68b</id>
+        <link href="https://medium.com/coinmonks/arcus-review-dydx-stock-token-perps-dex-0675570be68b?source=rss----721b17443fd5---4"/>
+        <updated>2026-07-14T17:00:02.000Z</updated>
+        <author>
+            <name>Coinmonks Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I Built a Hedge-Fund Grade Macro Scanner for Pacifica Exchange]]></title>
         <id>https://medium.com/p/c3cf6d0b7548</id>
@@ -90,17 +99,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-07-14T15:12:15.000Z</updated>
         <author>
             <name>Ryan James</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of CSS Shapes Is Here: Meet the Powerful border-shape Property]]></title>
-        <id>https://medium.com/p/a559495de502</id>
-        <link href="https://medium.com/coinmonks/the-future-of-css-shapes-is-here-meet-the-powerful-border-shape-property-a559495de502?source=rss----721b17443fd5---4"/>
-        <updated>2026-07-14T15:11:29.000Z</updated>
-        <summary type="html"><![CDATA[Designers have chased beautiful UI for years. Developers have chased simpler code for just as long. CSS keeps quietly making both jobs…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Er Raj Aryan</name>
         </author>
     </entry>
     <entry>
