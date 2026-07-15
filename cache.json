@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,7 +23,7 @@
           "description": "Challenge overview",
           "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-8-puppet-57c969e2e823?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-15T12:31:01.000Z",
-          "wordCount": 2116,
+          "wordCount": 2109,
           "title": "Solving Damn Vulnerable DeFi V4: Level 8- puppet",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:945/1*DPDmiMgUxYFIUCXTBLHZLw.png"
         },
@@ -37,7 +43,7 @@
           "description": "From Hashing to Merkle Trees and Why It All Matters",
           "link": "https://coinsbench.com/cryptography-in-blockchain-382087261de4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-15T12:30:56.000Z",
-          "wordCount": 3268,
+          "wordCount": 3266,
           "title": "Cryptography in Blockchain",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:985/0*KQKkqz-468Z6pr6M.png"
         },
@@ -57,7 +63,7 @@
           "description": "The First Cryptocurrency — Bitcoin",
           "link": "https://coinsbench.com/01-how-and-why-blockchain-the-first-cryptocurrency-bitcoin-d3e39f31e4c4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-15T12:30:51.000Z",
-          "wordCount": 3308,
+          "wordCount": 3309,
           "title": "01. How and Why Blockchain — The First Cryptocurrency: Bitcoin",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3TT2DZAmVeEtEY3xBx0E0g.png"
         },
@@ -87,7 +93,7 @@
           "description": "Mining in Blockchain: How It Actually Works in the Real World",
           "link": "https://coinsbench.com/beyond-basic-mining-how-blockchains-secure-themselves-b46b25da3cba?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-13T09:56:47.000Z",
-          "wordCount": 3404,
+          "wordCount": 3403,
           "title": "Beyond Basic Mining: How Blockchains Secure Themselves",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qaFaM7fmF-T-ycxAXb5sCQ.png"
         },
@@ -97,7 +103,7 @@
           "description": "Introduction\nThe crypto market is highly volatile. To avoid missing profitable trading opportunities caused by sudden spread spikes, I…",
           "link": "https://coinsbench.com/how-i-built-defi-sentinel-real-time-market-anomaly-monitoring-and-battling-ram-issues-ea43c4adb2f3?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-11T21:11:00.000Z",
-          "wordCount": 2321,
+          "wordCount": 2322,
           "title": "How I Built DeFi-Sentinel: Real-time Market Anomaly Monitoring and Battling RAM Issues",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1126/1*FX-efa1KCT8GRB_IjuG6eA.png"
         },
@@ -107,7 +113,7 @@
           "description": "Challenge overview",
           "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-4-side-entrance-21fa02a276ce?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-10T17:09:46.000Z",
-          "wordCount": 2221,
+          "wordCount": 2227,
           "title": "Solving Damn Vulnerable DeFi V4: Level 4- Side Entrance",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1013/1*597YPmK1f8W7LK27ZRCzOQ.png"
         }
@@ -251,7 +257,7 @@
           "description": "Introduction",
           "link": "https://blog.blockmagnates.com/exploring-the-scary-world-of-evm-6c78c67a3557?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:04.000Z",
-          "wordCount": 3418,
+          "wordCount": 3419,
           "title": "Exploring the scary world of EVM!!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vr9af8gKIcWwnCYqipGMRQ.jpeg"
         },
