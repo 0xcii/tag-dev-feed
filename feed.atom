@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-19T20:43:05.920Z</id>
+    <id>urn:2026-07-19T21:49:48.000Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-19T20:43:05.920Z</updated>
+    <updated>2026-07-19T21:49:48.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solving Damn Vulnerable DeFi V4: Level 6- Selfie]]></title>
+        <id>https://medium.com/p/e68392ccd8c7</id>
+        <link href="https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-6-selfie-e68392ccd8c7?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-19T21:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Challenge overview]]></summary>
+        <author>
+            <name>0xscarfac3</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Future.news Review: I Tested GMGN’s New Polymarket Trading Terminal]]></title>
         <id>https://medium.com/p/df2f17f13ebc</id>
@@ -188,16 +198,6 @@ Continue reading on Coinmonks »]]></summary>
 Continue reading on CoinsBench »]]></summary>
         <author>
             <name>Ashish Sharda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptography in Blockchain]]></title>
-        <id>https://medium.com/p/382087261de4</id>
-        <link href="https://coinsbench.com/cryptography-in-blockchain-382087261de4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-15T12:30:56.000Z</updated>
-        <summary type="html"><![CDATA[From Hashing to Merkle Trees and Why It All Matters]]></summary>
-        <author>
-            <name>Sewmini Kavindya</name>
         </author>
     </entry>
     <entry>
