@@ -18,6 +18,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e7b154abad4e",
+          "author": "Sibusiso Mnyandeni",
+          "description": "I started out as an economics student, curious about how systems shape the way people interact and exchange value. That curiosity…",
+          "link": "https://coinsbench.com/making-blockchain-work-front-to-back-e7b154abad4e?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-20T13:35:05.000Z",
+          "wordCount": 3797,
+          "title": "Making Blockchain Work, Front to Back",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*xYxpSIW1Ff0yIqJN"
+        },
+        {
+          "id": "https://medium.com/p/9bca2f5999c1",
+          "author": "Jay Makwana",
+          "description": "By Jay Makwana, DeFi and Smart Contract Engineer",
+          "link": "https://coinsbench.com/how-i-won-the-uniswap-foundation-prize-track-at-uhi9-by-turning-impermanent-loss-into-yield-9bca2f5999c1?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-07-20T13:34:48.000Z",
+          "wordCount": 9062,
+          "title": "How I Won the Uniswap Foundation Prize Track at UHI9 by Turning Impermanent Loss Into Yield",
+          "imageUrl": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
+        },
+        {
           "id": "https://medium.com/p/e68392ccd8c7",
           "author": "0xscarfac3",
           "description": "Challenge overview",
@@ -33,7 +53,7 @@
           "description": "Challenge overview",
           "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-7-compromised-2ec5a2aa6816?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-18T20:56:01.000Z",
-          "wordCount": 2402,
+          "wordCount": 2397,
           "title": "Solving Damn Vulnerable DeFi V4: Level 7- Compromised",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:939/1*m-0Hrio8jlpvjs2tH2tBGQ.png"
         },
@@ -63,7 +83,7 @@
           "description": "A restored MPC cluster can boot up, report [READY] on all three nodes, pass every health check — and have silently lost every private key…",
           "link": "https://coinsbench.com/how-to-deploy-a-self-hosted-2-of-3-mpc-signing-cluster-without-losing-everyones-keys-c38bab5cb0b5?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-16T12:17:14.000Z",
-          "wordCount": 14168,
+          "wordCount": 14165,
           "title": "How to Deploy a Self-Hosted 2-of-3 MPC Signing Cluster (Without Losing Everyone's Keys)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NhXPUhr3wrmFRCR1YWNgeA.png"
         },
@@ -93,29 +113,9 @@
           "description": "Your backend can decrypt every user's private key. So can your ENCRYPTION_KEY. So can whoever gets far enough into your servers: a leaked…",
           "link": "https://coinsbench.com/how-to-store-your-users-crypto-wallets-so-nobody-can-steal-them-b0dd840211f6?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-16T12:17:04.000Z",
-          "wordCount": 8581,
+          "wordCount": 8584,
           "title": "How to Store Your Users' Crypto Wallets So Nobody Can Steal Them",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*J6DnowIGW8LXv57FwrJgvg.png"
-        },
-        {
-          "id": "https://medium.com/p/57c969e2e823",
-          "author": "0xscarfac3",
-          "description": "Challenge overview",
-          "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-8-puppet-57c969e2e823?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-07-15T12:31:01.000Z",
-          "wordCount": 2116,
-          "title": "Solving Damn Vulnerable DeFi V4: Level 8- puppet",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:945/1*DPDmiMgUxYFIUCXTBLHZLw.png"
-        },
-        {
-          "id": "https://medium.com/p/59da61b5464d",
-          "author": "Ashish Sharda",
-          "description": "Every team running AI agents in production eventually has the same meeting. Something broke. Nobody’s quite sure why. The logs show a wall…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/what-breaks-first-a-postmortem-framework-for-ai-agents-in-production-59da61b5464d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-07-15T12:31:00.000Z",
-          "wordCount": 1916,
-          "title": "What Breaks First: A Postmortem Framework for AI Agents in Production",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*C0lWGlXwvzi8diOpf9qKUA.png"
         }
       ]
     },
@@ -232,16 +232,6 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
-          "id": "https://medium.com/p/9bca2f5999c1",
-          "author": "Jay Makwana",
-          "description": "",
-          "link": "https://coinsbench.com/how-i-won-the-uniswap-foundation-prize-track-at-uhi9-by-turning-impermanent-loss-into-yield-9bca2f5999c1?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2026-07-10T10:01:58.000Z",
-          "wordCount": null,
-          "title": "How I Won the Uniswap Foundation Prize Track at UHI9 by Turning Impermanent Loss Into Yield",
-          "imageUrl": null
-        },
-        {
           "id": "https://medium.com/p/285399029768",
           "author": "rdin777",
           "description": "Introduction\nSecurity auditing in DeFi isn’t just about reading code; it’s about understanding architectural intent. Recently, I decided to…",
@@ -257,7 +247,7 @@
           "description": "Introduction",
           "link": "https://blog.blockmagnates.com/exploring-the-scary-world-of-evm-6c78c67a3557?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:04.000Z",
-          "wordCount": 3419,
+          "wordCount": 3418,
           "title": "Exploring the scary world of EVM!!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vr9af8gKIcWwnCYqipGMRQ.jpeg"
         },
