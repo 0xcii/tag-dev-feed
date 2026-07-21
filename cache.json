@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -63,7 +57,7 @@
           "description": "Challenge overview",
           "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-9-puppetv2-7e83fd33b570?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-16T12:17:18.000Z",
-          "wordCount": 1810,
+          "wordCount": 1803,
           "title": "Solving Damn Vulnerable DeFi V4: Level 9- puppetV2",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:937/1*-UEv7PoUNn2C8psIN2AUcg.png"
         },
@@ -83,7 +77,7 @@
           "description": "A restored MPC cluster can boot up, report [READY] on all three nodes, pass every health check — and have silently lost every private key…",
           "link": "https://coinsbench.com/how-to-deploy-a-self-hosted-2-of-3-mpc-signing-cluster-without-losing-everyones-keys-c38bab5cb0b5?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-16T12:17:14.000Z",
-          "wordCount": 14136,
+          "wordCount": 14179,
           "title": "How to Deploy a Self-Hosted 2-of-3 MPC Signing Cluster (Without Losing Everyone's Keys)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NhXPUhr3wrmFRCR1YWNgeA.png"
         },
@@ -93,7 +87,7 @@
           "description": "Discover how Web3 replaces usernames and passwords with secure crypto wallets, digital signatures, and seamless authentication.",
           "link": "https://coinsbench.com/blog-06-how-to-log-in-to-web3-goodbye-passwords-b875b3855b51?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-16T12:17:11.000Z",
-          "wordCount": 2850,
+          "wordCount": 2848,
           "title": "Blog 06: How to Log In to Web3? (Goodbye Passwords!)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:826/1*T9d786lc4tes5Dx8roZDHA.png"
         },
@@ -237,7 +231,7 @@
           "description": "Introduction\nSecurity auditing in DeFi isn’t just about reading code; it’s about understanding architectural intent. Recently, I decided to…",
           "link": "https://blog.blockmagnates.com/my-first-audit-portfolio-lessons-from-monetrix-v1-285399029768?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-04T21:36:00.000Z",
-          "wordCount": 2141,
+          "wordCount": 2140,
           "title": "My First Audit Portfolio: Lessons from Monetrix V1",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*I7_vikPIw2ukubwWwhTRqQ.jpeg"
         },
@@ -257,7 +251,7 @@
           "description": "Here is a simple plain-English tour of the Ethereum Virtual Machine: function calls, memory, and storage",
           "link": "https://blog.blockmagnates.com/going-down-the-ethereum-rabbit-hole-heres-what-i-found-f50c7f657306?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:02.000Z",
-          "wordCount": 4823,
+          "wordCount": 4824,
           "title": "Going Down the Ethereum Rabbit Hole, Here’s What I Found",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ehNYOQjXFK46akiUPqlQ0g.jpeg"
         }
