@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,7 +23,7 @@
           "description": "Launching a blockchain startup is exciting, but it also comes with significant technical challenges. From selecting the right blockchain…",
           "link": "https://coinsbench.com/why-startups-should-outsource-blockchain-development-in-2026-d511a74a9632?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-22T09:51:59.000Z",
-          "wordCount": 3444,
+          "wordCount": 3441,
           "title": "Why Startups Should Outsource Blockchain Development in 2026",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uB8F6UN0VjRmzqXOE3xKoA.png"
         },
@@ -27,7 +33,7 @@
           "description": "Learn the difference between smart contract audit and development and why smart contract security is essential for secure Web3 projects.",
           "link": "https://coinsbench.com/smart-contract-audit-vs-smart-contract-development-guide-9ab351f4dcac?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-22T09:51:58.000Z",
-          "wordCount": 3284,
+          "wordCount": 3314,
           "title": "Smart Contract Audit vs Smart Contract Development Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*FKzH-iJ9ZnHPazUHAMK13A.png"
         },
@@ -47,7 +53,7 @@
           "description": "Bitcoin Is a Ledger. Ethereum Is a Computer. Here’s What That Actually Means",
           "link": "https://coinsbench.com/bitcoin-vs-ethereum-two-blockchains-two-philosophies-part-2-of-10-f46714beefa6?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-22T09:51:56.000Z",
-          "wordCount": 5488,
+          "wordCount": 5518,
           "title": "Bitcoin vs. Ethereum: Two Blockchains, Two Philosophies (Part 2 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UIuzhkKULtLS6qbnFx_GNA.png"
         },
@@ -57,7 +63,7 @@
           "description": "Forget the Hype: A Blockchain Is Just a Notebook Everyone Can See and No One Can Erase",
           "link": "https://coinsbench.com/what-is-a-blockchain-really-part-1-of-10-7afd947eb967?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-22T09:51:53.000Z",
-          "wordCount": 5284,
+          "wordCount": 5314,
           "title": "What Is a Blockchain, Really? (Part 1 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*If9r6QkJzQkjJQlFT2w1Cw.png"
         },
@@ -67,7 +73,7 @@
           "description": "On July 15, 2026, crypto investigator ZachXBT dropped a blunt hot take in his Telegram channel Investigations by ZachXBT that immediately…",
           "link": "https://coinsbench.com/the-only-safe-way-to-store-crypto-2-0-8223a21703ac?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-22T09:51:49.000Z",
-          "wordCount": 4249,
+          "wordCount": 4251,
           "title": "The Only Safe Way To Store Crypto 2.0",
           "imageUrl": "https://miro.medium.com/v2/resize:fill:1168:615/g:fp:0.5:0.03/1*aC9W5lVSe2zvwN4Y_Z3ULA.jpeg"
         },
@@ -77,7 +83,7 @@
           "description": "I started out as an economics student, curious about how systems shape the way people interact and exchange value. That curiosity…",
           "link": "https://coinsbench.com/making-blockchain-work-front-to-back-e7b154abad4e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-20T13:35:05.000Z",
-          "wordCount": 3829,
+          "wordCount": 3828,
           "title": "Making Blockchain Work, Front to Back",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*xYxpSIW1Ff0yIqJN"
         },
@@ -87,7 +93,7 @@
           "description": "By Jay Makwana, DeFi and Smart Contract Engineer",
           "link": "https://coinsbench.com/how-i-won-the-uniswap-foundation-prize-track-at-uhi9-by-turning-impermanent-loss-into-yield-9bca2f5999c1?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-20T13:34:48.000Z",
-          "wordCount": 9068,
+          "wordCount": 9094,
           "title": "How I Won the Uniswap Foundation Prize Track at UHI9 by Turning Impermanent Loss Into Yield",
           "imageUrl": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
         },
@@ -97,7 +103,7 @@
           "description": "Challenge overview",
           "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-6-selfie-e68392ccd8c7?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-19T21:01:01.000Z",
-          "wordCount": 2395,
+          "wordCount": 2425,
           "title": "Solving Damn Vulnerable DeFi V4: Level 6- Selfie",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:944/1*k_pPr6ijJlR96uYS6dkfrw.png"
         },
@@ -107,7 +113,7 @@
           "description": "Challenge overview",
           "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-7-compromised-2ec5a2aa6816?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-18T20:56:01.000Z",
-          "wordCount": 2399,
+          "wordCount": 2434,
           "title": "Solving Damn Vulnerable DeFi V4: Level 7- Compromised",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:939/1*m-0Hrio8jlpvjs2tH2tBGQ.png"
         }
@@ -119,103 +125,103 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/8e57c5e08485",
-          "author": "Sheni",
+          "id": "https://medium.com/p/12886407f8d1",
+          "author": "QuillAudits - Web3 Security ️",
           "description": "",
-          "link": "https://medium.com/coinmonks/the-interest-rate-engine-8e57c5e08485?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-23T14:32:58.000Z",
+          "link": "https://medium.com/coinmonks/robinhood-chain-security-risks-and-attack-vectors-explained-12886407f8d1?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-24T15:11:10.000Z",
           "wordCount": null,
-          "title": "The Interest Rate Engine",
+          "title": "Robinhood Chain Security Risks and Attack Vectors Explained",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/a56424233903",
-          "author": "James Tzar",
+          "id": "https://medium.com/p/717adfa3292e",
+          "author": "Faraz Ahmad",
           "description": "",
-          "link": "https://medium.com/coinmonks/defense-stocks-are-booming-while-tech-wobbles-heres-the-business-lesson-hiding-in-plain-sight-a56424233903?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-23T14:22:01.000Z",
+          "link": "https://medium.com/coinmonks/it-took-me-45-days-to-understand-crypto-liquidity-and-here-is-the-simple-version-717adfa3292e?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-24T15:04:53.000Z",
           "wordCount": null,
-          "title": "Defense Stocks Are Booming While Tech Wobbles. Here’s the Business Lesson Hiding in Plain Sight.",
+          "title": "It Took Me 45 Days to Understand Crypto Liquidity and Here Is the Simple Version",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/261c75de81e2",
-          "author": "Samuel AYODEJI",
+          "id": "https://medium.com/p/ec1e9db65635",
+          "author": "Sarasmiths",
           "description": "",
-          "link": "https://medium.com/coinmonks/why-crypto-exchanges-collapse-understanding-depositor-runs-in-cryptocurrency-platforms-261c75de81e2?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-23T14:16:40.000Z",
+          "link": "https://medium.com/coinmonks/why-smart-contract-architecture-determines-the-success-of-blockchain-projects-ec1e9db65635?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-24T15:04:44.000Z",
           "wordCount": null,
-          "title": "Why Crypto Exchanges Collapse: Understanding Depositor Runs in Cryptocurrency Platforms",
+          "title": "Why Smart Contract Architecture Determines the Success of Blockchain Projects",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/37ff15c789ee",
-          "author": "Arnab Kar (DC)",
-          "description": "",
-          "link": "https://medium.com/coinmonks/blockchain-interoperability-decoded-and-what-lies-ahead-37ff15c789ee?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-23T14:16:23.000Z",
-          "wordCount": null,
-          "title": "Blockchain Interoperability, Decoded. And What Lies Ahead.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c3fc1ce4ee38",
-          "author": "Gwen Adele",
-          "description": "",
-          "link": "https://medium.com/coinmonks/hyperliquid-hip-4-explained-c3fc1ce4ee38?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-23T14:15:50.000Z",
-          "wordCount": null,
-          "title": "Hyperliquid HIP-4: Everything You Need to Know",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/be05c95798fa",
-          "author": "Oliek Orla",
-          "description": "",
-          "link": "https://medium.com/coinmonks/centrifuge-wall-street-is-moving-on-chain-be05c95798fa?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-23T14:14:19.000Z",
-          "wordCount": null,
-          "title": "Centrifuge: Wall Street Is Moving On-Chain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/054e1fa31b04",
-          "author": "Coinpedia",
-          "description": "",
-          "link": "https://medium.com/coinmonks/beyond-token-prices-these-crypto-applications-generated-billions-in-revenue-in-q2-2026-054e1fa31b04?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-23T14:13:44.000Z",
-          "wordCount": null,
-          "title": "Beyond Token Prices: These Crypto Applications Generated Billions in Revenue in Q2 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a9d92119e287",
-          "author": "NordFX",
-          "description": "",
-          "link": "https://medium.com/coinmonks/ecb-holds-at-2-25-what-the-decision-really-means-for-eur-usd-nordfx-a9d92119e287?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-23T14:13:33.000Z",
-          "wordCount": null,
-          "title": "ECB Holds at 2.25%: What the Decision Really Means for EUR/USD | NordFX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1042ff05a1c0",
-          "author": "Cryptiecraft",
-          "description": "",
-          "link": "https://medium.com/coinmonks/mica-license-for-crypto-exchanges-europe-1042ff05a1c0?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-23T14:13:22.000Z",
-          "wordCount": null,
-          "title": "Europe’s Crypto Rulebook: Why Every Crypto Exchange Needs a MiCA Strategy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/59702e7dc22e",
+          "id": "https://medium.com/p/c863e6f6da43",
           "author": "Gen",
           "description": "",
-          "link": "https://medium.com/coinmonks/the-wall-broke-and-the-fear-got-worse-59702e7dc22e?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-23T07:47:27.000Z",
+          "link": "https://medium.com/coinmonks/the-barrel-finally-collected-c863e6f6da43?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-24T15:04:05.000Z",
           "wordCount": null,
-          "title": "The Wall Broke and the Fear Got Worse",
+          "title": "The Barrel Finally Collected",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a301c07ac6ef",
+          "author": "SoonTech",
+          "description": "",
+          "link": "https://medium.com/coinmonks/cryptos-next-growth-wave-won-t-come-from-more-users-it-will-come-from-institutions-a301c07ac6ef?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-24T15:03:59.000Z",
+          "wordCount": null,
+          "title": "Crypto’s Next Growth Wave Won’t Come From More Users — It Will Come From Institutions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c9376c1316b1",
+          "author": "Dipanshu Chaudhry",
+          "description": "The CLARITY Act Is Nearing Completion: Ethics, Market Structure, and Why U.S. Crypto Policy May Change in the Next Few Weeks\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-clarity-act-could-end-years-of-regulatory-confusion-or-prolong-it-c9376c1316b1?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-24T15:03:54.000Z",
+          "wordCount": null,
+          "title": "The CLARITY Act Could End Years of Regulatory Confusion Or Prolong It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cad2900d2f75",
+          "author": "Dipanshu Chaudhry",
+          "description": "The Stock Market Shock in South Korea: What I Think It Shows About the Global AI Boom\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/south-korea-just-exposed-the-assumption-holding-up-the-ai-rally-cad2900d2f75?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-24T15:03:43.000Z",
+          "wordCount": null,
+          "title": "South Korea Just Exposed the Assumption Holding Up the AI Rally",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/536eca8b7ce6",
+          "author": "Stevejonson",
+          "description": "",
+          "link": "https://medium.com/coinmonks/gold-trading-bots-the-quiet-force-reshaping-automated-trading-in-2026-536eca8b7ce6?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-24T15:03:14.000Z",
+          "wordCount": null,
+          "title": "Gold Trading Bots: The Quiet Force Reshaping Automated Trading in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3cfea1bdd58c",
+          "author": "NordFX",
+          "description": "",
+          "link": "https://medium.com/coinmonks/nordfx-morning-update-july-24-2026-3cfea1bdd58c?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-24T15:03:02.000Z",
+          "wordCount": null,
+          "title": "NordFX Morning Update — July 24, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/04837ce5eb9c",
+          "author": "Mark Timmis",
+          "description": "tl;dr\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-clarity-act-is-a-little-clarified-04837ce5eb9c?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-24T15:02:50.000Z",
+          "wordCount": null,
+          "title": "The CLARITY Act is a little clarified.",
           "imageUrl": null
         }
       ]
@@ -241,7 +247,7 @@
           "description": "Introduction",
           "link": "https://blog.blockmagnates.com/exploring-the-scary-world-of-evm-6c78c67a3557?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:04.000Z",
-          "wordCount": 3420,
+          "wordCount": 3451,
           "title": "Exploring the scary world of EVM!!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vr9af8gKIcWwnCYqipGMRQ.jpeg"
         },
