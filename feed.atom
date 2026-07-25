@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-25T20:49:41.224Z</id>
+    <id>urn:2026-07-25T21:53:37.943Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-25T20:49:41.224Z</updated>
+    <updated>2026-07-25T21:53:37.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anatomy of the Ostium Exploit: When Infrastructure Becomes the Weakest Link]]></title>
+        <id>https://medium.com/p/a790e363038a</id>
+        <link href="https://coinsbench.com/anatomy-of-the-ostium-exploit-when-infrastructure-becomes-the-weakest-link-a790e363038a?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-25T21:36:01.000Z</updated>
+        <summary type="html"><![CDATA[The recent exploit of Ostium, a prominent perpetual decentralized exchange (perpDEX) focused on real-world assets like forex and stocks…]]></summary>
+        <author>
+            <name>rdin777</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Robinhood Chain Security Risks and Attack Vectors Explained]]></title>
         <id>https://medium.com/p/12886407f8d1</id>
@@ -186,16 +196,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/e68392ccd8c7</id>
         <link href="https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-6-selfie-e68392ccd8c7?source=rss----f1cfd22cde3e---4"/>
         <updated>2026-07-19T21:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Challenge overview]]></summary>
-        <author>
-            <name>0xscarfac3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving Damn Vulnerable DeFi V4: Level 7- Compromised]]></title>
-        <id>https://medium.com/p/2ec5a2aa6816</id>
-        <link href="https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-7-compromised-2ec5a2aa6816?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-18T20:56:01.000Z</updated>
         <summary type="html"><![CDATA[Challenge overview]]></summary>
         <author>
             <name>0xscarfac3</name>
