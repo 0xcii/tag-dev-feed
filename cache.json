@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -27,7 +33,7 @@
           "description": "Learn the difference between smart contract audit and development and why smart contract security is essential for secure Web3 projects.",
           "link": "https://coinsbench.com/smart-contract-audit-vs-smart-contract-development-guide-9ab351f4dcac?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-22T09:51:58.000Z",
-          "wordCount": 3316,
+          "wordCount": 3314,
           "title": "Smart Contract Audit vs Smart Contract Development Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*FKzH-iJ9ZnHPazUHAMK13A.png"
         },
@@ -37,7 +43,7 @@
           "description": "You Don’t Need to Trust Anyone: The Cryptography Behind “Trustless” Blockchain",
           "link": "https://coinsbench.com/hashing-and-digital-signatures-the-two-ideas-that-make-blockchain-trustworthy-part-3-of-10-4a80e2fc72ce?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-22T09:51:56.000Z",
-          "wordCount": 5143,
+          "wordCount": 5141,
           "title": "Hashing and Digital Signatures: The Two Ideas That Make Blockchain Trustworthy (Part 3 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*kUBfjxpO13byw2cDWWHDrg.png"
         },
@@ -47,7 +53,7 @@
           "description": "Bitcoin Is a Ledger. Ethereum Is a Computer. Here’s What That Actually Means",
           "link": "https://coinsbench.com/bitcoin-vs-ethereum-two-blockchains-two-philosophies-part-2-of-10-f46714beefa6?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-22T09:51:56.000Z",
-          "wordCount": 5518,
+          "wordCount": 5515,
           "title": "Bitcoin vs. Ethereum: Two Blockchains, Two Philosophies (Part 2 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UIuzhkKULtLS6qbnFx_GNA.png"
         },
@@ -67,7 +73,7 @@
           "description": "On July 15, 2026, crypto investigator ZachXBT dropped a blunt hot take in his Telegram channel Investigations by ZachXBT that immediately…",
           "link": "https://coinsbench.com/the-only-safe-way-to-store-crypto-2-0-8223a21703ac?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-22T09:51:49.000Z",
-          "wordCount": 4251,
+          "wordCount": 4249,
           "title": "The Only Safe Way To Store Crypto 2.0",
           "imageUrl": "https://miro.medium.com/v2/resize:fill:1168:615/g:fp:0.5:0.03/1*aC9W5lVSe2zvwN4Y_Z3ULA.jpeg"
         },
@@ -87,7 +93,7 @@
           "description": "By Jay Makwana, DeFi and Smart Contract Engineer",
           "link": "https://coinsbench.com/how-i-won-the-uniswap-foundation-prize-track-at-uhi9-by-turning-impermanent-loss-into-yield-9bca2f5999c1?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-20T13:34:48.000Z",
-          "wordCount": 9098,
+          "wordCount": 9094,
           "title": "How I Won the Uniswap Foundation Prize Track at UHI9 by Turning Impermanent Loss Into Yield",
           "imageUrl": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
         },
@@ -97,7 +103,7 @@
           "description": "Challenge overview",
           "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-6-selfie-e68392ccd8c7?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-19T21:01:01.000Z",
-          "wordCount": 2431,
+          "wordCount": 2425,
           "title": "Solving Damn Vulnerable DeFi V4: Level 6- Selfie",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:944/1*k_pPr6ijJlR96uYS6dkfrw.png"
         },
@@ -107,7 +113,7 @@
           "description": "Challenge overview",
           "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-7-compromised-2ec5a2aa6816?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-18T20:56:01.000Z",
-          "wordCount": 2429,
+          "wordCount": 2434,
           "title": "Solving Damn Vulnerable DeFi V4: Level 7- Compromised",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:939/1*m-0Hrio8jlpvjs2tH2tBGQ.png"
         }
