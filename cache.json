@@ -43,7 +43,7 @@
           "description": "What It Actually Costs to Mine Bitcoin in 2026 — Hardware, Software, and Electricity",
           "link": "https://coinsbench.com/from-a-laptop-to-a-warehouse-the-hardware-software-and-cost-of-mining-part-6-of-10-5dd90634f076?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T09:59:53.000Z",
-          "wordCount": 5025,
+          "wordCount": 5028,
           "title": "From a Laptop to a Warehouse: The Hardware, Software, and Cost of Mining (Part 6 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-gPh89lC-XqeI_pv4Bslhw.png"
         },
@@ -73,7 +73,7 @@
           "description": "Public blockchain networks produce a continuous, immutable stream of transactional data. While often perceived as opaque or pseudonymous…",
           "link": "https://coinsbench.com/graph-theory-applications-in-cryptocurrency-network-analysis-cd822fc3e5dd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T09:59:35.000Z",
-          "wordCount": 6538,
+          "wordCount": 6534,
           "title": "Graph Theory Applications in Cryptocurrency Network Analysis",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*k2zMQqmF_VxwdtxtLYHiXQ.png"
         },
@@ -83,7 +83,7 @@
           "description": "Learn what DeFi development is, how the decentralized finance ecosystem works, key features, benefits, use cases, and more.",
           "link": "https://coinsbench.com/what-is-defi-development-complete-guide-to-decentralized-finance-development-55c0776e7f89?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T09:59:29.000Z",
-          "wordCount": 3463,
+          "wordCount": 3465,
           "title": "What Is DeFi Development? Complete Guide to Decentralized Finance Development",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*kDCvFixP6_MkClnnfKYLRw.png"
         },
@@ -93,7 +93,7 @@
           "description": "Learn the complete DeFi application development process, from planning & smart contracts to deployment. Discover how secure dapps are…",
           "link": "https://coinsbench.com/defi-application-development-process-guide-to-building-defi-apps-f9a97167162d?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T09:59:27.000Z",
-          "wordCount": 3692,
+          "wordCount": 3688,
           "title": "DeFi Application Development Process: Guide to Building DeFi Apps",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*kGNUKmhnTKDyUR9S3WB8qA.png"
         },
@@ -103,7 +103,7 @@
           "description": "Web3 & Full-Stack Engineer. Building on Solana, writing about smart contract architecture, and shipping decentralized systems.",
           "link": "https://coinsbench.com/mastering-cpis-on-solana-calling-other-programs-without-losing-your-mind-bc60fab7dd60?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T09:59:22.000Z",
-          "wordCount": 2693,
+          "wordCount": 2696,
           "title": "Mastering CPIs on Solana: Calling Other Programs Without Losing Your Mind",
           "imageUrl": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
         },
@@ -113,7 +113,7 @@
           "description": "The recent exploit of Ostium, a prominent perpetual decentralized exchange (perpDEX) focused on real-world assets like forex and stocks…",
           "link": "https://coinsbench.com/anatomy-of-the-ostium-exploit-when-infrastructure-becomes-the-weakest-link-a790e363038a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-25T21:36:01.000Z",
-          "wordCount": 2667,
+          "wordCount": 2674,
           "title": "Anatomy of the Ostium Exploit: When Infrastructure Becomes the Weakest Link",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*t3DwCVgRA-_7YmXyhhNU4A.jpeg"
         }
@@ -124,6 +124,46 @@
       "feedUrl": "https://medium.com/feed/coinmonks",
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/db2eff3744dd",
+          "author": "Olivia Johnson",
+          "description": "",
+          "link": "https://medium.com/coinmonks/why-most-crypto-payment-products-never-reach-daily-usage-and-how-the-winners-do-db2eff3744dd?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-27T14:41:11.000Z",
+          "wordCount": null,
+          "title": "Why Most Crypto Payment Products Never Reach Daily Usage (And How the Winners Do)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/69c2c7a00280",
+          "author": "Cryptonews Guru",
+          "description": "",
+          "link": "https://medium.com/coinmonks/thailands-sec-alleges-bitkub-concealed-cyberattack-that-led-to-50-million-hack-69c2c7a00280?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-27T14:40:57.000Z",
+          "wordCount": null,
+          "title": "Thailand’s SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1aaa0aab42f2",
+          "author": "SimpleSwap.io",
+          "description": "",
+          "link": "https://medium.com/coinmonks/under-the-hood-of-a-swap-what-actually-happens-between-send-and-received-1aaa0aab42f2?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-27T14:40:38.000Z",
+          "wordCount": null,
+          "title": "Under the Hood of a Swap: What Actually Happens Between “Send” and “Received”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/aaab1b84f418",
+          "author": "Lanamoreau",
+          "description": "",
+          "link": "https://medium.com/coinmonks/why-successful-traders-focus-on-information-before-execution-aaab1b84f418?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-27T14:40:07.000Z",
+          "wordCount": null,
+          "title": "Why Successful Traders Focus on Information Before Execution",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/91026b6881c8",
           "author": "NordFX",
@@ -183,46 +223,6 @@
           "wordCount": null,
           "title": "AI Agents and Crypto Trading: What Autonomy Actually Buys You",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/613fd5901314",
-          "author": "Coinpedia",
-          "description": "",
-          "link": "https://medium.com/coinmonks/robinhood-chains-tokenized-stocks-are-finally-taking-off-here-s-what-changed-613fd5901314?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-27T07:40:39.000Z",
-          "wordCount": null,
-          "title": "Robinhood Chain’s Tokenized Stocks Are Finally Taking Off: Here’s What Changed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0ac1e9ec1da0",
-          "author": "NordFX",
-          "description": "",
-          "link": "https://medium.com/coinmonks/new-weekly-forex-crypto-forecast-july-27-31-2026-0ac1e9ec1da0?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-27T07:40:32.000Z",
-          "wordCount": null,
-          "title": "NEW WEEKLY FOREX & CRYPTO FORECAST: July 27–31, 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/47e0013c120f",
-          "author": "Yehia Tarek",
-          "description": "First in a series: “Things I learned while building with DAML.”\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/things-i-learned-building-with-daml-notes-on-privacy-rwas-and-mental-models-47e0013c120f?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-27T07:39:55.000Z",
-          "wordCount": null,
-          "title": "Things I Learned Building with DAML: Notes on Privacy, RWAs, and Mental Models",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5a6bb6fa3620",
-          "author": "Mark Timmis",
-          "description": "tl;dr\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/busting-the-blackrock-myth-cryptos-economic-contribution-5a6bb6fa3620?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-27T07:39:45.000Z",
-          "wordCount": null,
-          "title": "Busting the BlackRock myth. Cryptos’ economic contribution.",
-          "imageUrl": null
         }
       ]
     },
@@ -257,7 +257,7 @@
           "description": "Here is a simple plain-English tour of the Ethereum Virtual Machine: function calls, memory, and storage",
           "link": "https://blog.blockmagnates.com/going-down-the-ethereum-rabbit-hole-heres-what-i-found-f50c7f657306?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:02.000Z",
-          "wordCount": 4844,
+          "wordCount": 4845,
           "title": "Going Down the Ethereum Rabbit Hole, Here’s What I Found",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ehNYOQjXFK46akiUPqlQ0g.jpeg"
         }
