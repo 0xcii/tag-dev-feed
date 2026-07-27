@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,7 +23,7 @@
           "description": "The recent exploit of Ostium, a prominent perpetual decentralized exchange (perpDEX) focused on real-world assets like forex and stocks…",
           "link": "https://coinsbench.com/anatomy-of-the-ostium-exploit-when-infrastructure-becomes-the-weakest-link-a790e363038a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-25T21:36:01.000Z",
-          "wordCount": 2674,
+          "wordCount": 2667,
           "title": "Anatomy of the Ostium Exploit: When Infrastructure Becomes the Weakest Link",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*t3DwCVgRA-_7YmXyhhNU4A.jpeg"
         },
@@ -37,7 +43,7 @@
           "description": "Learn the difference between smart contract audit and development and why smart contract security is essential for secure Web3 projects.",
           "link": "https://coinsbench.com/smart-contract-audit-vs-smart-contract-development-guide-9ab351f4dcac?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-22T09:51:58.000Z",
-          "wordCount": 3314,
+          "wordCount": 3316,
           "title": "Smart Contract Audit vs Smart Contract Development Guide",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*FKzH-iJ9ZnHPazUHAMK13A.png"
         },
@@ -57,7 +63,7 @@
           "description": "Bitcoin Is a Ledger. Ethereum Is a Computer. Here’s What That Actually Means",
           "link": "https://coinsbench.com/bitcoin-vs-ethereum-two-blockchains-two-philosophies-part-2-of-10-f46714beefa6?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-22T09:51:56.000Z",
-          "wordCount": 5515,
+          "wordCount": 5518,
           "title": "Bitcoin vs. Ethereum: Two Blockchains, Two Philosophies (Part 2 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*UIuzhkKULtLS6qbnFx_GNA.png"
         },
@@ -77,7 +83,7 @@
           "description": "On July 15, 2026, crypto investigator ZachXBT dropped a blunt hot take in his Telegram channel Investigations by ZachXBT that immediately…",
           "link": "https://coinsbench.com/the-only-safe-way-to-store-crypto-2-0-8223a21703ac?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-22T09:51:49.000Z",
-          "wordCount": 4251,
+          "wordCount": 4249,
           "title": "The Only Safe Way To Store Crypto 2.0",
           "imageUrl": "https://miro.medium.com/v2/resize:fill:1168:615/g:fp:0.5:0.03/1*aC9W5lVSe2zvwN4Y_Z3ULA.jpeg"
         },
@@ -87,7 +93,7 @@
           "description": "I started out as an economics student, curious about how systems shape the way people interact and exchange value. That curiosity…",
           "link": "https://coinsbench.com/making-blockchain-work-front-to-back-e7b154abad4e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-20T13:35:05.000Z",
-          "wordCount": 3828,
+          "wordCount": 3829,
           "title": "Making Blockchain Work, Front to Back",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*xYxpSIW1Ff0yIqJN"
         },
@@ -107,7 +113,7 @@
           "description": "Challenge overview",
           "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-6-selfie-e68392ccd8c7?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-19T21:01:01.000Z",
-          "wordCount": 2425,
+          "wordCount": 2431,
           "title": "Solving Damn Vulnerable DeFi V4: Level 6- Selfie",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:944/1*k_pPr6ijJlR96uYS6dkfrw.png"
         }
@@ -119,103 +125,103 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/12886407f8d1",
-          "author": "QuillAudits - Web3 Security ️",
-          "description": "",
-          "link": "https://medium.com/coinmonks/robinhood-chain-security-risks-and-attack-vectors-explained-12886407f8d1?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-24T15:11:10.000Z",
-          "wordCount": null,
-          "title": "Robinhood Chain Security Risks and Attack Vectors Explained",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/717adfa3292e",
-          "author": "Faraz Ahmad",
-          "description": "",
-          "link": "https://medium.com/coinmonks/it-took-me-45-days-to-understand-crypto-liquidity-and-here-is-the-simple-version-717adfa3292e?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-24T15:04:53.000Z",
-          "wordCount": null,
-          "title": "It Took Me 45 Days to Understand Crypto Liquidity and Here Is the Simple Version",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ec1e9db65635",
-          "author": "Sarasmiths",
-          "description": "",
-          "link": "https://medium.com/coinmonks/why-smart-contract-architecture-determines-the-success-of-blockchain-projects-ec1e9db65635?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-24T15:04:44.000Z",
-          "wordCount": null,
-          "title": "Why Smart Contract Architecture Determines the Success of Blockchain Projects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c863e6f6da43",
-          "author": "Gen",
-          "description": "",
-          "link": "https://medium.com/coinmonks/the-barrel-finally-collected-c863e6f6da43?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-24T15:04:05.000Z",
-          "wordCount": null,
-          "title": "The Barrel Finally Collected",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a301c07ac6ef",
-          "author": "SoonTech",
-          "description": "",
-          "link": "https://medium.com/coinmonks/cryptos-next-growth-wave-won-t-come-from-more-users-it-will-come-from-institutions-a301c07ac6ef?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-24T15:03:59.000Z",
-          "wordCount": null,
-          "title": "Crypto’s Next Growth Wave Won’t Come From More Users — It Will Come From Institutions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c9376c1316b1",
-          "author": "Dipanshu Chaudhry",
-          "description": "The CLARITY Act Is Nearing Completion: Ethics, Market Structure, and Why U.S. Crypto Policy May Change in the Next Few Weeks\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-clarity-act-could-end-years-of-regulatory-confusion-or-prolong-it-c9376c1316b1?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-24T15:03:54.000Z",
-          "wordCount": null,
-          "title": "The CLARITY Act Could End Years of Regulatory Confusion Or Prolong It",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/cad2900d2f75",
-          "author": "Dipanshu Chaudhry",
-          "description": "The Stock Market Shock in South Korea: What I Think It Shows About the Global AI Boom\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/south-korea-just-exposed-the-assumption-holding-up-the-ai-rally-cad2900d2f75?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-24T15:03:43.000Z",
-          "wordCount": null,
-          "title": "South Korea Just Exposed the Assumption Holding Up the AI Rally",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/536eca8b7ce6",
-          "author": "Stevejonson",
-          "description": "",
-          "link": "https://medium.com/coinmonks/gold-trading-bots-the-quiet-force-reshaping-automated-trading-in-2026-536eca8b7ce6?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-24T15:03:14.000Z",
-          "wordCount": null,
-          "title": "Gold Trading Bots: The Quiet Force Reshaping Automated Trading in 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3cfea1bdd58c",
+          "id": "https://medium.com/p/91026b6881c8",
           "author": "NordFX",
           "description": "",
-          "link": "https://medium.com/coinmonks/nordfx-morning-update-july-24-2026-3cfea1bdd58c?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-24T15:03:02.000Z",
+          "link": "https://medium.com/coinmonks/fed-week-gdp-pce-usd-gold-oil-and-crypto-before-month-end-nordfx-market-watch-91026b6881c8?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-27T08:15:04.000Z",
           "wordCount": null,
-          "title": "NordFX Morning Update — July 24, 2026",
+          "title": "Fed Week + GDP/PCE: USD, Gold, Oil and Crypto Before Month End | NordFX Market Watch",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/04837ce5eb9c",
+          "id": "https://medium.com/p/c0bdbbe2eed2",
+          "author": "Chetan Dugar",
+          "description": "",
+          "link": "https://medium.com/coinmonks/wealthy-vs-rich-in-a-tokenized-world-the-mango-tree-test-c0bdbbe2eed2?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-27T07:41:58.000Z",
+          "wordCount": null,
+          "title": "Wealthy vs Rich In A Tokenized World: The Mango Tree Test",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7354cf0f927a",
+          "author": "MoBitSo (mohsen sobhani)",
+          "description": "",
+          "link": "https://medium.com/coinmonks/the-right-to-learn-7354cf0f927a?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-27T07:41:36.000Z",
+          "wordCount": null,
+          "title": "The Right to Learn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6b16ab4aecc2",
+          "author": "Oliek Orla",
+          "description": "",
+          "link": "https://medium.com/coinmonks/crypto-market-q2-2026-bitcoin-correction-institutional-pressure-and-signs-of-accumulation-6b16ab4aecc2?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-27T07:41:09.000Z",
+          "wordCount": null,
+          "title": "Crypto Market Q2 2026: Bitcoin Correction, Institutional Pressure, and Signs of Accumulation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1aab3eccee5d",
+          "author": "Bobby",
+          "description": "",
+          "link": "https://medium.com/coinmonks/beyond-thorchain-what-are-the-best-thorchain-alternatives-1aab3eccee5d?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-27T07:40:56.000Z",
+          "wordCount": null,
+          "title": "Beyond THORChain: What Are the Best THORChain Alternatives?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/899cc49650d2",
+          "author": "NeuPortal",
+          "description": "",
+          "link": "https://medium.com/coinmonks/ai-agents-and-crypto-trading-what-autonomy-actually-buys-you-899cc49650d2?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-27T07:40:46.000Z",
+          "wordCount": null,
+          "title": "AI Agents and Crypto Trading: What Autonomy Actually Buys You",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/613fd5901314",
+          "author": "Coinpedia",
+          "description": "",
+          "link": "https://medium.com/coinmonks/robinhood-chains-tokenized-stocks-are-finally-taking-off-here-s-what-changed-613fd5901314?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-27T07:40:39.000Z",
+          "wordCount": null,
+          "title": "Robinhood Chain’s Tokenized Stocks Are Finally Taking Off: Here’s What Changed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0ac1e9ec1da0",
+          "author": "NordFX",
+          "description": "",
+          "link": "https://medium.com/coinmonks/new-weekly-forex-crypto-forecast-july-27-31-2026-0ac1e9ec1da0?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-27T07:40:32.000Z",
+          "wordCount": null,
+          "title": "NEW WEEKLY FOREX & CRYPTO FORECAST: July 27–31, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/47e0013c120f",
+          "author": "Yehia Tarek",
+          "description": "First in a series: “Things I learned while building with DAML.”\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/things-i-learned-building-with-daml-notes-on-privacy-rwas-and-mental-models-47e0013c120f?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-27T07:39:55.000Z",
+          "wordCount": null,
+          "title": "Things I Learned Building with DAML: Notes on Privacy, RWAs, and Mental Models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5a6bb6fa3620",
           "author": "Mark Timmis",
           "description": "tl;dr\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-clarity-act-is-a-little-clarified-04837ce5eb9c?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-24T15:02:50.000Z",
+          "link": "https://medium.com/coinmonks/busting-the-blackrock-myth-cryptos-economic-contribution-5a6bb6fa3620?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-27T07:39:45.000Z",
           "wordCount": null,
-          "title": "The CLARITY Act is a little clarified.",
+          "title": "Busting the BlackRock myth. Cryptos’ economic contribution.",
           "imageUrl": null
         }
       ]
@@ -231,7 +237,7 @@
           "description": "Introduction\nSecurity auditing in DeFi isn’t just about reading code; it’s about understanding architectural intent. Recently, I decided to…",
           "link": "https://blog.blockmagnates.com/my-first-audit-portfolio-lessons-from-monetrix-v1-285399029768?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-04T21:36:00.000Z",
-          "wordCount": 2162,
+          "wordCount": 2161,
           "title": "My First Audit Portfolio: Lessons from Monetrix V1",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*I7_vikPIw2ukubwWwhTRqQ.jpeg"
         },
@@ -241,7 +247,7 @@
           "description": "Introduction",
           "link": "https://blog.blockmagnates.com/exploring-the-scary-world-of-evm-6c78c67a3557?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:04.000Z",
-          "wordCount": 3450,
+          "wordCount": 3451,
           "title": "Exploring the scary world of EVM!!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vr9af8gKIcWwnCYqipGMRQ.jpeg"
         },
@@ -251,7 +257,7 @@
           "description": "Here is a simple plain-English tour of the Ethereum Virtual Machine: function calls, memory, and storage",
           "link": "https://blog.blockmagnates.com/going-down-the-ethereum-rabbit-hole-heres-what-i-found-f50c7f657306?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:02.000Z",
-          "wordCount": 4845,
+          "wordCount": 4844,
           "title": "Going Down the Ethereum Rabbit Hole, Here’s What I Found",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ehNYOQjXFK46akiUPqlQ0g.jpeg"
         }
