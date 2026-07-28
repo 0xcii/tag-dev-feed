@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -33,7 +27,7 @@
           "description": "If someone can freeze your wallet, how decentralized is your digital money?",
           "link": "https://coinsbench.com/are-stablecoins-really-decentralized-the-truth-behind-on-chain-money-4d0d5808d74f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T10:00:55.000Z",
-          "wordCount": 3617,
+          "wordCount": 3615,
           "title": "Are Stablecoins Really Decentralized? The Truth Behind On-Chain Money",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8LgVmuqtT8wO69LmVWYh9A@2x.jpeg"
         },
@@ -63,7 +57,7 @@
           "description": "What Actually Happens Between Clicking “Send” and Your Bitcoin Arriving",
           "link": "https://coinsbench.com/the-anatomy-of-a-bitcoin-transaction-from-send-to-settled-part-4-of-10-9d9a600bc3dd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T09:59:40.000Z",
-          "wordCount": 5283,
+          "wordCount": 5280,
           "title": "The Anatomy of a Bitcoin Transaction: From “Send” to Settled (Part 4 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VEfW2AWidwwrQWM79SGd_g.png"
         },
@@ -73,7 +67,7 @@
           "description": "Public blockchain networks produce a continuous, immutable stream of transactional data. While often perceived as opaque or pseudonymous…",
           "link": "https://coinsbench.com/graph-theory-applications-in-cryptocurrency-network-analysis-cd822fc3e5dd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T09:59:35.000Z",
-          "wordCount": 6535,
+          "wordCount": 6539,
           "title": "Graph Theory Applications in Cryptocurrency Network Analysis",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*k2zMQqmF_VxwdtxtLYHiXQ.png"
         },
@@ -83,7 +77,7 @@
           "description": "Learn what DeFi development is, how the decentralized finance ecosystem works, key features, benefits, use cases, and more.",
           "link": "https://coinsbench.com/what-is-defi-development-complete-guide-to-decentralized-finance-development-55c0776e7f89?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T09:59:29.000Z",
-          "wordCount": 3464,
+          "wordCount": 3466,
           "title": "What Is DeFi Development? Complete Guide to Decentralized Finance Development",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*kDCvFixP6_MkClnnfKYLRw.png"
         },
@@ -113,7 +107,7 @@
           "description": "The recent exploit of Ostium, a prominent perpetual decentralized exchange (perpDEX) focused on real-world assets like forex and stocks…",
           "link": "https://coinsbench.com/anatomy-of-the-ostium-exploit-when-infrastructure-becomes-the-weakest-link-a790e363038a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-25T21:36:01.000Z",
-          "wordCount": 2668,
+          "wordCount": 2675,
           "title": "Anatomy of the Ostium Exploit: When Infrastructure Becomes the Weakest Link",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*t3DwCVgRA-_7YmXyhhNU4A.jpeg"
         }
@@ -125,103 +119,103 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/74604d6a40e1",
-          "author": "Dipanshu Chaudhry",
-          "description": "The Pattern That Most Investors Have Already Forgotten Is Being Repeated By Bitcoin\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/bitcoins-recovery-has-reached-the-point-where-history-usually-pushes-back-74604d6a40e1?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-28T06:16:32.000Z",
-          "wordCount": null,
-          "title": "Bitcoin’s Recovery Has Reached the Point Where History Usually Pushes Back",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f8f5153e1faf",
-          "author": "Cryptoafricannews",
+          "id": "https://medium.com/p/653f79269c1f",
+          "author": "Quinn Donovan",
           "description": "",
-          "link": "https://medium.com/coinmonks/nigeria-dominates-60-of-africas-stablecoin-inflows-reshaping-the-digital-economy-f8f5153e1faf?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-28T06:15:46.000Z",
+          "link": "https://medium.com/coinmonks/how-to-build-a-high-impact-crypto-kol-amplification-strategy-653f79269c1f?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-28T13:11:22.000Z",
           "wordCount": null,
-          "title": "Nigeria Dominates 60% of Africa’s Stablecoin Inflows Reshaping the Digital Economy",
+          "title": "How to Build a High-Impact Crypto KOL Amplification Strategy?",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/55294620623f",
-          "author": "Pawan Natekar | Devops | AWS | K8s | Linux",
-          "description": "Learn how DNS and Service Discovery work, where they are different, and why they solve different networking problems in cloud native…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/dns-vs-service-discovery-what-is-the-difference-and-why-do-modern-applications-need-both-55294620623f?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-28T06:15:00.000Z",
-          "wordCount": null,
-          "title": "DNS vs Service Discovery: What Is the Difference and Why Do Modern Applications Need Both?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c4d5aaa65516",
-          "author": "Ave AI",
+          "id": "https://medium.com/p/acc8df83d62d",
+          "author": "Craitrix",
           "description": "",
-          "link": "https://medium.com/coinmonks/stablechain-why-a-usdt-powered-blockchain-is-attracting-payments-and-a-new-wave-of-memecoin-c4d5aaa65516?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-28T06:14:33.000Z",
+          "link": "https://medium.com/coinmonks/crypto-license-in-the-usa-state-wise-requirements-cost-breakdown-acc8df83d62d?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-28T13:11:10.000Z",
           "wordCount": null,
-          "title": "StableChain: Why a USDT-powered blockchain is attracting payments, and a new wave of memecoin…",
+          "title": "Crypto License in the USA: State-Wise Requirements & Cost Breakdown",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/769b807f8b2d",
-          "author": "EscapeHub",
+          "id": "https://medium.com/p/82e4405addfd",
+          "author": "Wen-Ting (Joseph) Wang",
           "description": "",
-          "link": "https://medium.com/coinmonks/crypto-cashback-get-money-back-on-every-buy-and-sell-769b807f8b2d?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-28T06:13:19.000Z",
+          "link": "https://medium.com/coinmonks/after-uniswap-v4-went-live-the-pool-is-no-longer-the-whole-market-82e4405addfd?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-28T13:11:00.000Z",
           "wordCount": null,
-          "title": "Crypto Cashback: Get Money Back on Every Buy and Sell",
+          "title": "After Uniswap v4 Went Live. The Pool Is No Longer the Whole Market.",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/2b60562952ab",
-          "author": "Mimi Marcus",
+          "id": "https://medium.com/p/82bc2a0af13a",
+          "author": "Daniel Markson",
           "description": "",
-          "link": "https://medium.com/coinmonks/the-clarity-act-is-crypto-finally-getting-what-it-asked-for-or-is-it-just-a-terrible-idea-for-the-2b60562952ab?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-28T06:12:28.000Z",
+          "link": "https://medium.com/coinmonks/i-assumed-everyone-was-still-debating-stablecoins-half-the-industry-already-moved-on-82bc2a0af13a?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-28T12:07:19.000Z",
           "wordCount": null,
-          "title": "The CLARITY Act: Is Crypto Finally Getting What It Asked For or Is It Just A Terrible Idea For The…",
+          "title": "I Assumed Everyone Was Still Debating Stablecoins. Half the Industry Already Moved On",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/fabf636f642d",
-          "author": "Hamza Khalid",
+          "id": "https://medium.com/p/759f77292bcd",
+          "author": "Chetan Dugar",
           "description": "",
-          "link": "https://medium.com/coinmonks/strategy-boosts-cash-reserve-buys-back-some-preferred-stock-neglecting-new-bitcoin-fabf636f642d?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-28T06:12:16.000Z",
+          "link": "https://medium.com/coinmonks/has-bitcoin-lost-the-narrative-759f77292bcd?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-28T12:01:31.000Z",
           "wordCount": null,
-          "title": "Strategy Boosts Cash Reserve, Buys Back Some Preferred Stock Neglecting New Bitcoin",
+          "title": "Has Bitcoin Lost the Narrative?",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/8e6afd7a25b1",
-          "author": "SoonTech",
+          "id": "https://medium.com/p/75c27a2ff82c",
+          "author": "Somy D",
           "description": "",
-          "link": "https://medium.com/coinmonks/crypto-exchanges-are-becoming-financial-platforms-trading-is-only-the-beginning-8e6afd7a25b1?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-28T06:12:05.000Z",
+          "link": "https://medium.com/coinmonks/coinbase-usdc-vs-sky-susds-custodial-rewards-or-non-custodial-savings-75c27a2ff82c?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-28T12:00:59.000Z",
           "wordCount": null,
-          "title": "Crypto Exchanges Are Becoming Financial Platforms — Trading Is Only the Beginning",
+          "title": "Coinbase USDC vs Sky sUSDS: Custodial Rewards or Non-Custodial Savings?",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/47b03061b79c",
-          "author": "Ribhav Modi",
+          "id": "https://medium.com/p/6158cbc7987a",
+          "author": "Maria João",
           "description": "",
-          "link": "https://medium.com/coinmonks/identity-not-intelligence-why-know-your-agent-is-the-real-frontier-for-agentic-finance-47b03061b79c?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-28T06:09:22.000Z",
+          "link": "https://medium.com/coinmonks/fake-crypto-wallet-on-app-store-triggers-1-8m-lawsuit-against-apple-6158cbc7987a?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-28T12:00:08.000Z",
           "wordCount": null,
-          "title": "Identity, Not Intelligence: Why Know Your Agent Is the Real Frontier for Agentic Finance",
+          "title": "Fake Crypto Wallet on App Store Triggers $1.8M Lawsuit Against Apple",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/620a34c6826c",
-          "author": "Faraz Ahmad",
-          "description": "",
-          "link": "https://medium.com/coinmonks/i-read-every-major-ethereum-upgrade-proposal-and-this-stood-out-the-most-620a34c6826c?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-07-28T06:09:11.000Z",
+          "id": "https://medium.com/p/f99691b53cdb",
+          "author": "Mark Timmis",
+          "description": "tl;dr\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/ethereum-staking-has-done-a-180-be-aware-of-sparkkitty-f99691b53cdb?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-28T11:57:08.000Z",
           "wordCount": null,
-          "title": "I Read Every Major Ethereum Upgrade Proposal and This Stood Out the Most",
+          "title": "Ethereum staking has done a 180. Be aware of SparkKitty.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c51225dc54d1",
+          "author": "NordFX",
+          "description": "",
+          "link": "https://medium.com/coinmonks/-c51225dc54d1?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-28T11:57:02.000Z",
+          "wordCount": null,
+          "title": "—  ,",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/985ef2ce5135",
+          "author": "Kkayaann",
+          "description": "",
+          "link": "https://medium.com/coinmonks/when-well-build-it-later-becomes-a-sales-problem-985ef2ce5135?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-07-28T11:56:42.000Z",
+          "wordCount": null,
+          "title": "When “We’ll Build It Later” Becomes a Sales Problem",
           "imageUrl": null
         }
       ]
@@ -237,7 +231,7 @@
           "description": "Introduction\nSecurity auditing in DeFi isn’t just about reading code; it’s about understanding architectural intent. Recently, I decided to…",
           "link": "https://blog.blockmagnates.com/my-first-audit-portfolio-lessons-from-monetrix-v1-285399029768?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-04T21:36:00.000Z",
-          "wordCount": 2163,
+          "wordCount": 2162,
           "title": "My First Audit Portfolio: Lessons from Monetrix V1",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*I7_vikPIw2ukubwWwhTRqQ.jpeg"
         },
@@ -247,7 +241,7 @@
           "description": "Introduction",
           "link": "https://blog.blockmagnates.com/exploring-the-scary-world-of-evm-6c78c67a3557?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:04.000Z",
-          "wordCount": 3451,
+          "wordCount": 3452,
           "title": "Exploring the scary world of EVM!!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vr9af8gKIcWwnCYqipGMRQ.jpeg"
         },
@@ -257,7 +251,7 @@
           "description": "Here is a simple plain-English tour of the Ethereum Virtual Machine: function calls, memory, and storage",
           "link": "https://blog.blockmagnates.com/going-down-the-ethereum-rabbit-hole-heres-what-i-found-f50c7f657306?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:02.000Z",
-          "wordCount": 4846,
+          "wordCount": 4845,
           "title": "Going Down the Ethereum Rabbit Hole, Here’s What I Found",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ehNYOQjXFK46akiUPqlQ0g.jpeg"
         }
