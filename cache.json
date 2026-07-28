@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,7 +23,7 @@
           "description": "A companion reference to the 10-part blockchain series — straight answers to the questions that come up most, organized by theme. Where a…",
           "link": "https://coinsbench.com/blockchain-faq-technical-and-feasibility-questions-answered-79cc87295bb4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T10:01:00.000Z",
-          "wordCount": 8088,
+          "wordCount": 8089,
           "title": "Blockchain FAQ: Technical and Feasibility Questions, Answered",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:885/1*nK5_UWBxulU9TQb48CbgIQ.png"
         },
@@ -27,7 +33,7 @@
           "description": "If someone can freeze your wallet, how decentralized is your digital money?",
           "link": "https://coinsbench.com/are-stablecoins-really-decentralized-the-truth-behind-on-chain-money-4d0d5808d74f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T10:00:55.000Z",
-          "wordCount": 3615,
+          "wordCount": 3617,
           "title": "Are Stablecoins Really Decentralized? The Truth Behind On-Chain Money",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8LgVmuqtT8wO69LmVWYh9A@2x.jpeg"
         },
@@ -47,7 +53,7 @@
           "description": "The Nonce: One Tiny Number That Makes Bitcoin Mining Possible",
           "link": "https://coinsbench.com/mining-the-nonce-and-proof-of-work-the-lottery-nobody-can-rig-part-5-of-10-6b55032d08e9?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T09:59:48.000Z",
-          "wordCount": 5405,
+          "wordCount": 5408,
           "title": "Mining, the Nonce, and Proof-of-Work: The Lottery Nobody Can Rig (Part 5 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*oVA0pe1qoPyjWF9zxcHPtA.png"
         },
@@ -57,7 +63,7 @@
           "description": "What Actually Happens Between Clicking “Send” and Your Bitcoin Arriving",
           "link": "https://coinsbench.com/the-anatomy-of-a-bitcoin-transaction-from-send-to-settled-part-4-of-10-9d9a600bc3dd?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T09:59:40.000Z",
-          "wordCount": 5280,
+          "wordCount": 5283,
           "title": "The Anatomy of a Bitcoin Transaction: From “Send” to Settled (Part 4 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VEfW2AWidwwrQWM79SGd_g.png"
         },
@@ -77,7 +83,7 @@
           "description": "Learn what DeFi development is, how the decentralized finance ecosystem works, key features, benefits, use cases, and more.",
           "link": "https://coinsbench.com/what-is-defi-development-complete-guide-to-decentralized-finance-development-55c0776e7f89?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T09:59:29.000Z",
-          "wordCount": 3466,
+          "wordCount": 3464,
           "title": "What Is DeFi Development? Complete Guide to Decentralized Finance Development",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*kDCvFixP6_MkClnnfKYLRw.png"
         },
@@ -97,7 +103,7 @@
           "description": "Web3 & Full-Stack Engineer. Building on Solana, writing about smart contract architecture, and shipping decentralized systems.",
           "link": "https://coinsbench.com/mastering-cpis-on-solana-calling-other-programs-without-losing-your-mind-bc60fab7dd60?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T09:59:22.000Z",
-          "wordCount": 2697,
+          "wordCount": 2700,
           "title": "Mastering CPIs on Solana: Calling Other Programs Without Losing Your Mind",
           "imageUrl": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
         },
@@ -107,7 +113,7 @@
           "description": "The recent exploit of Ostium, a prominent perpetual decentralized exchange (perpDEX) focused on real-world assets like forex and stocks…",
           "link": "https://coinsbench.com/anatomy-of-the-ostium-exploit-when-infrastructure-becomes-the-weakest-link-a790e363038a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-25T21:36:01.000Z",
-          "wordCount": 2675,
+          "wordCount": 2668,
           "title": "Anatomy of the Ostium Exploit: When Infrastructure Becomes the Weakest Link",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*t3DwCVgRA-_7YmXyhhNU4A.jpeg"
         }
@@ -231,7 +237,7 @@
           "description": "Introduction\nSecurity auditing in DeFi isn’t just about reading code; it’s about understanding architectural intent. Recently, I decided to…",
           "link": "https://blog.blockmagnates.com/my-first-audit-portfolio-lessons-from-monetrix-v1-285399029768?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-04T21:36:00.000Z",
-          "wordCount": 2162,
+          "wordCount": 2163,
           "title": "My First Audit Portfolio: Lessons from Monetrix V1",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*I7_vikPIw2ukubwWwhTRqQ.jpeg"
         },
