@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-29T08:36:53.942Z</id>
+    <id>urn:2026-07-29T11:23:37.480Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-29T08:36:53.942Z</updated>
+    <updated>2026-07-29T11:23:37.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Beyond Stablecoins: Could Tokenized Deposits Become the Future of Regulated Digital Money?]]></title>
+        <id>https://medium.com/p/e0ce4f89f216</id>
+        <link href="https://coinsbench.com/beyond-stablecoins-could-tokenized-deposits-become-the-future-of-regulated-digital-money-e0ce4f89f216?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-29T09:25:38.000Z</updated>
+        <summary type="html"><![CDATA[I explain how banks are bringing traditional deposits onto blockchain while staying within existing financial regulations.]]></summary>
+        <author>
+            <name>Samuel AYODEJI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain’s Real-World Applications in 2026 (Part 10 of 10)]]></title>
+        <id>https://medium.com/p/761c9ed5c772</id>
+        <link href="https://coinsbench.com/blockchains-real-world-applications-in-2026-part-10-of-10-761c9ed5c772?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-29T09:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain Grew Up: How Banks, Governments, and Retailers Actually Use It Now]]></summary>
+        <author>
+            <name>Iduryodhanrao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Difficulty Adjustment and the Economics of Attacking a Blockchain (Part 9 of 10)]]></title>
+        <id>https://medium.com/p/1c3a80e10259</id>
+        <link href="https://coinsbench.com/difficulty-adjustment-and-the-economics-of-attacking-a-blockchain-part-9-of-10-1c3a80e10259?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-29T09:25:28.000Z</updated>
+        <summary type="html"><![CDATA[What Would It Actually Cost to Attack Bitcoin? A Real Number]]></summary>
+        <author>
+            <name>Iduryodhanrao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consensus Beyond Proof-of-Work: How Ethereum Secures Itself Without Mining (Part 8 of 10)]]></title>
+        <id>https://medium.com/p/b020a2a794f3</id>
+        <link href="https://coinsbench.com/consensus-beyond-proof-of-work-how-ethereum-secures-itself-without-mining-part-8-of-10-b020a2a794f3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-29T09:25:24.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Doesn’t Mine Anymore. Here’s What Replaced It.]]></summary>
+        <author>
+            <name>Iduryodhanrao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing Institutional DLT: The Essential Guide to Daml Smart Contract Audits]]></title>
+        <id>https://medium.com/p/b0786dd0ef13</id>
+        <link href="https://coinsbench.com/securing-institutional-dlt-the-essential-guide-to-daml-smart-contract-audits-b0786dd0ef13?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-29T09:25:15.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise distributed ledger technology (DLT) has transitioned from experimental frameworks to production-ready market infrastructure…]]></summary>
+        <author>
+            <name>John Galt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mining Pools and Block Rewards: Splitting the Lottery Winnings (Part 7 of 10)]]></title>
+        <id>https://medium.com/p/b8df7bbcd547</id>
+        <link href="https://coinsbench.com/mining-pools-and-block-rewards-splitting-the-lottery-winnings-part-7-of-10-b8df7bbcd547?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-29T09:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Why Almost No One Mines Bitcoin Alone Anymore]]></summary>
+        <author>
+            <name>Iduryodhanrao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Authentication for your App]]></title>
+        <id>https://medium.com/p/78750de10e38</id>
+        <link href="https://coinsbench.com/previously-i-wrote-a-blog-explaining-the-theoretical-concepts-of-web3-authentication-and-how-78750de10e38?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-07-29T09:24:16.000Z</updated>
+        <summary type="html"><![CDATA[A Practical Guide to Web3 Authentication for Modern Applications]]></summary>
+        <author>
+            <name>Sewmini Kavindya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clarity Act Gains Backing From Wall Street Giants]]></title>
         <id>https://medium.com/p/3681c6208ae0</id>
@@ -129,76 +199,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[What It Actually Costs to Mine Bitcoin in 2026 — Hardware, Software, and Electricity]]></summary>
         <author>
             <name>Iduryodhanrao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mining, the Nonce, and Proof-of-Work: The Lottery Nobody Can Rig (Part 5 of 10)]]></title>
-        <id>https://medium.com/p/6b55032d08e9</id>
-        <link href="https://coinsbench.com/mining-the-nonce-and-proof-of-work-the-lottery-nobody-can-rig-part-5-of-10-6b55032d08e9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-27T09:59:48.000Z</updated>
-        <summary type="html"><![CDATA[The Nonce: One Tiny Number That Makes Bitcoin Mining Possible]]></summary>
-        <author>
-            <name>Iduryodhanrao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Anatomy of a Bitcoin Transaction: From “Send” to Settled (Part 4 of 10)]]></title>
-        <id>https://medium.com/p/9d9a600bc3dd</id>
-        <link href="https://coinsbench.com/the-anatomy-of-a-bitcoin-transaction-from-send-to-settled-part-4-of-10-9d9a600bc3dd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-27T09:59:40.000Z</updated>
-        <summary type="html"><![CDATA[What Actually Happens Between Clicking “Send” and Your Bitcoin Arriving]]></summary>
-        <author>
-            <name>Iduryodhanrao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graph Theory Applications in Cryptocurrency Network Analysis]]></title>
-        <id>https://medium.com/p/cd822fc3e5dd</id>
-        <link href="https://coinsbench.com/graph-theory-applications-in-cryptocurrency-network-analysis-cd822fc3e5dd?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-27T09:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Public blockchain networks produce a continuous, immutable stream of transactional data. While often perceived as opaque or pseudonymous…]]></summary>
-        <author>
-            <name>Satyam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is DeFi Development? Complete Guide to Decentralized Finance Development]]></title>
-        <id>https://medium.com/p/55c0776e7f89</id>
-        <link href="https://coinsbench.com/what-is-defi-development-complete-guide-to-decentralized-finance-development-55c0776e7f89?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-27T09:59:29.000Z</updated>
-        <summary type="html"><![CDATA[Learn what DeFi development is, how the decentralized finance ecosystem works, key features, benefits, use cases, and more.]]></summary>
-        <author>
-            <name>Web 3.0 India - Web3 Development Company</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Application Development Process: Guide to Building DeFi Apps]]></title>
-        <id>https://medium.com/p/f9a97167162d</id>
-        <link href="https://coinsbench.com/defi-application-development-process-guide-to-building-defi-apps-f9a97167162d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-27T09:59:27.000Z</updated>
-        <summary type="html"><![CDATA[Learn the complete DeFi application development process, from planning & smart contracts to deployment. Discover how secure dapps are…]]></summary>
-        <author>
-            <name>Web 3.0 India - Web3 Development Company</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering CPIs on Solana: Calling Other Programs Without Losing Your Mind]]></title>
-        <id>https://medium.com/p/bc60fab7dd60</id>
-        <link href="https://coinsbench.com/mastering-cpis-on-solana-calling-other-programs-without-losing-your-mind-bc60fab7dd60?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-27T09:59:22.000Z</updated>
-        <summary type="html"><![CDATA[Web3 & Full-Stack Engineer. Building on Solana, writing about smart contract architecture, and shipping decentralized systems.]]></summary>
-        <author>
-            <name>Godtime Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anatomy of the Ostium Exploit: When Infrastructure Becomes the Weakest Link]]></title>
-        <id>https://medium.com/p/a790e363038a</id>
-        <link href="https://coinsbench.com/anatomy-of-the-ostium-exploit-when-infrastructure-becomes-the-weakest-link-a790e363038a?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-25T21:36:01.000Z</updated>
-        <summary type="html"><![CDATA[The recent exploit of Ostium, a prominent perpetual decentralized exchange (perpDEX) focused on real-world assets like forex and stocks…]]></summary>
-        <author>
-            <name>rdin777</name>
         </author>
     </entry>
     <entry>
