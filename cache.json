@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -43,7 +37,7 @@
           "description": "What Would It Actually Cost to Attack Bitcoin? A Real Number",
           "link": "https://coinsbench.com/difficulty-adjustment-and-the-economics-of-attacking-a-blockchain-part-9-of-10-1c3a80e10259?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-29T09:25:28.000Z",
-          "wordCount": 5147,
+          "wordCount": 5151,
           "title": "Difficulty Adjustment and the Economics of Attacking a Blockchain (Part 9 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:884/1*BQHhBufBzP4lmrY1RnBRhg.png"
         },
@@ -73,7 +67,7 @@
           "description": "Why Almost No One Mines Bitcoin Alone Anymore",
           "link": "https://coinsbench.com/mining-pools-and-block-rewards-splitting-the-lottery-winnings-part-7-of-10-b8df7bbcd547?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-29T09:24:39.000Z",
-          "wordCount": 5209,
+          "wordCount": 5205,
           "title": "Mining Pools and Block Rewards: Splitting the Lottery Winnings (Part 7 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*MbyKG293NMe2VcfR_CAJvg.png"
         },
@@ -83,7 +77,7 @@
           "description": "A Practical Guide to Web3 Authentication for Modern Applications",
           "link": "https://coinsbench.com/previously-i-wrote-a-blog-explaining-the-theoretical-concepts-of-web3-authentication-and-how-78750de10e38?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-29T09:24:16.000Z",
-          "wordCount": 4364,
+          "wordCount": 4358,
           "title": "Web3 Authentication for your App",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*RDZr4px9KQWK6Ny-w7kcLQ.jpeg"
         },
@@ -237,7 +231,7 @@
           "description": "Introduction\nSecurity auditing in DeFi isn’t just about reading code; it’s about understanding architectural intent. Recently, I decided to…",
           "link": "https://blog.blockmagnates.com/my-first-audit-portfolio-lessons-from-monetrix-v1-285399029768?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-04T21:36:00.000Z",
-          "wordCount": 2168,
+          "wordCount": 2169,
           "title": "My First Audit Portfolio: Lessons from Monetrix V1",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*I7_vikPIw2ukubwWwhTRqQ.jpeg"
         },
