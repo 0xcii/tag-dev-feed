@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -27,7 +33,7 @@
           "description": "Blockchain Grew Up: How Banks, Governments, and Retailers Actually Use It Now",
           "link": "https://coinsbench.com/blockchains-real-world-applications-in-2026-part-10-of-10-761c9ed5c772?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-29T09:25:29.000Z",
-          "wordCount": 5235,
+          "wordCount": 5238,
           "title": "Blockchain’s Real-World Applications in 2026 (Part 10 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:920/1*dRwEIKO8JtFkRrQqgjV_WQ.png"
         },
@@ -37,7 +43,7 @@
           "description": "What Would It Actually Cost to Attack Bitcoin? A Real Number",
           "link": "https://coinsbench.com/difficulty-adjustment-and-the-economics-of-attacking-a-blockchain-part-9-of-10-1c3a80e10259?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-29T09:25:28.000Z",
-          "wordCount": 5151,
+          "wordCount": 5147,
           "title": "Difficulty Adjustment and the Economics of Attacking a Blockchain (Part 9 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:884/1*BQHhBufBzP4lmrY1RnBRhg.png"
         },
@@ -57,7 +63,7 @@
           "description": "Enterprise distributed ledger technology (DLT) has transitioned from experimental frameworks to production-ready market infrastructure…",
           "link": "https://coinsbench.com/securing-institutional-dlt-the-essential-guide-to-daml-smart-contract-audits-b0786dd0ef13?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-29T09:25:15.000Z",
-          "wordCount": 3659,
+          "wordCount": 3661,
           "title": "Securing Institutional DLT: The Essential Guide to Daml Smart Contract Audits",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vzXTv05pnvF5NkY67O0mPA.jpeg"
         },
@@ -87,7 +93,7 @@
           "description": "A companion reference to the 10-part blockchain series — straight answers to the questions that come up most, organized by theme. Where a…",
           "link": "https://coinsbench.com/blockchain-faq-technical-and-feasibility-questions-answered-79cc87295bb4?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T10:01:00.000Z",
-          "wordCount": 8095,
+          "wordCount": 8094,
           "title": "Blockchain FAQ: Technical and Feasibility Questions, Answered",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:885/1*nK5_UWBxulU9TQb48CbgIQ.png"
         },
@@ -97,7 +103,7 @@
           "description": "If someone can freeze your wallet, how decentralized is your digital money?",
           "link": "https://coinsbench.com/are-stablecoins-really-decentralized-the-truth-behind-on-chain-money-4d0d5808d74f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T10:00:55.000Z",
-          "wordCount": 3621,
+          "wordCount": 3623,
           "title": "Are Stablecoins Really Decentralized? The Truth Behind On-Chain Money",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8LgVmuqtT8wO69LmVWYh9A@2x.jpeg"
         },
@@ -107,7 +113,7 @@
           "description": "What It Actually Costs to Mine Bitcoin in 2026 — Hardware, Software, and Electricity",
           "link": "https://coinsbench.com/from-a-laptop-to-a-warehouse-the-hardware-software-and-cost-of-mining-part-6-of-10-5dd90634f076?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T09:59:53.000Z",
-          "wordCount": 5032,
+          "wordCount": 5035,
           "title": "From a Laptop to a Warehouse: The Hardware, Software, and Cost of Mining (Part 6 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-gPh89lC-XqeI_pv4Bslhw.png"
         }
@@ -231,7 +237,7 @@
           "description": "Introduction\nSecurity auditing in DeFi isn’t just about reading code; it’s about understanding architectural intent. Recently, I decided to…",
           "link": "https://blog.blockmagnates.com/my-first-audit-portfolio-lessons-from-monetrix-v1-285399029768?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-04T21:36:00.000Z",
-          "wordCount": 2169,
+          "wordCount": 2168,
           "title": "My First Audit Portfolio: Lessons from Monetrix V1",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*I7_vikPIw2ukubwWwhTRqQ.jpeg"
         },
@@ -241,7 +247,7 @@
           "description": "Introduction",
           "link": "https://blog.blockmagnates.com/exploring-the-scary-world-of-evm-6c78c67a3557?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:04.000Z",
-          "wordCount": 3457,
+          "wordCount": 3456,
           "title": "Exploring the scary world of EVM!!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vr9af8gKIcWwnCYqipGMRQ.jpeg"
         },
@@ -251,7 +257,7 @@
           "description": "Here is a simple plain-English tour of the Ethereum Virtual Machine: function calls, memory, and storage",
           "link": "https://blog.blockmagnates.com/going-down-the-ethereum-rabbit-hole-heres-what-i-found-f50c7f657306?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-03T08:06:02.000Z",
-          "wordCount": 4851,
+          "wordCount": 4850,
           "title": "Going Down the Ethereum Rabbit Hole, Here’s What I Found",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*ehNYOQjXFK46akiUPqlQ0g.jpeg"
         }
