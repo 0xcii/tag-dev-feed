@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -43,7 +37,7 @@
           "description": "Blockchain Grew Up: How Banks, Governments, and Retailers Actually Use It Now",
           "link": "https://coinsbench.com/blockchains-real-world-applications-in-2026-part-10-of-10-761c9ed5c772?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-29T09:25:29.000Z",
-          "wordCount": 5235,
+          "wordCount": 5243,
           "title": "Blockchain’s Real-World Applications in 2026 (Part 10 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:920/1*dRwEIKO8JtFkRrQqgjV_WQ.png"
         },
@@ -113,7 +107,7 @@
           "description": "If someone can freeze your wallet, how decentralized is your digital money?",
           "link": "https://coinsbench.com/are-stablecoins-really-decentralized-the-truth-behind-on-chain-money-4d0d5808d74f?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-27T10:00:55.000Z",
-          "wordCount": 3628,
+          "wordCount": 3621,
           "title": "Are Stablecoins Really Decentralized? The Truth Behind On-Chain Money",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*8LgVmuqtT8wO69LmVWYh9A@2x.jpeg"
         }
@@ -232,12 +226,22 @@
       "siteUrl": "https://blog.blockmagnates.com/tagged/solidity?source=rss----18fa961f1eff--solidity",
       "articles": [
         {
+          "id": "https://medium.com/p/68e54821162c",
+          "author": "rdin777",
+          "description": "When auditing complex decentralized finance (DeFi) protocols, writing reliable Proof of Concept (PoC) tests against a live mainnet state is…",
+          "link": "https://blog.blockmagnates.com/tracking-state-and-supply-changes-with-foundry-fork-tests-on-convex-finance-68e54821162c?source=rss----18fa961f1eff--solidity",
+          "publishedOn": "2026-08-02T20:51:01.000Z",
+          "wordCount": 2267,
+          "title": "Tracking State and Supply Changes with Foundry Fork Tests on Convex Finance",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:677/1*RdXBG0zmA8oZmwiZdhqJZw.jpeg"
+        },
+        {
           "id": "https://medium.com/p/285399029768",
           "author": "rdin777",
           "description": "Introduction\nSecurity auditing in DeFi isn’t just about reading code; it’s about understanding architectural intent. Recently, I decided to…",
           "link": "https://blog.blockmagnates.com/my-first-audit-portfolio-lessons-from-monetrix-v1-285399029768?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-07-04T21:36:00.000Z",
-          "wordCount": 2174,
+          "wordCount": 2173,
           "title": "My First Audit Portfolio: Lessons from Monetrix V1",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:512/1*I7_vikPIw2ukubwWwhTRqQ.jpeg"
         }

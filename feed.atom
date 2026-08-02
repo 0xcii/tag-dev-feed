@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-02T19:21:52.855Z</id>
+    <id>urn:2026-08-02T20:52:58.329Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-02T19:21:52.855Z</updated>
+    <updated>2026-08-02T20:52:58.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tracking State and Supply Changes with Foundry Fork Tests on Convex Finance]]></title>
+        <id>https://medium.com/p/68e54821162c</id>
+        <link href="https://blog.blockmagnates.com/tracking-state-and-supply-changes-with-foundry-fork-tests-on-convex-finance-68e54821162c?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-08-02T20:51:01.000Z</updated>
+        <summary type="html"><![CDATA[When auditing complex decentralized finance (DeFi) protocols, writing reliable Proof of Concept (PoC) tests against a live mainnet state is…]]></summary>
+        <author>
+            <name>rdin777</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Secure P2P Crypto Exchange Platform in the USA (2026 Guide)]]></title>
         <id>https://medium.com/p/e036fa397fae</id>
