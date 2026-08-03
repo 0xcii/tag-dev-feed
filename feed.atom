@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-03T10:40:26.514Z</id>
+    <id>urn:2026-08-03T13:38:50.526Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-03T10:40:26.514Z</updated>
+    <updated>2026-08-03T13:38:50.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Virtual IBANs Are Revolutionizing Global Payment Collection]]></title>
+        <id>https://medium.com/p/b38819a200fc</id>
+        <link href="https://medium.com/coinmonks/how-virtual-ibans-are-revolutionizing-global-payment-collection-b38819a200fc?source=rss----721b17443fd5---4"/>
+        <updated>2026-08-03T13:17:58.000Z</updated>
+        <author>
+            <name>Ritika Prajapati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity is not that hard, and four other things Co-Learning Camp 22 taught me about Injective]]></title>
+        <id>https://medium.com/p/082801413b7e</id>
+        <link href="https://coinsbench.com/solidity-is-not-that-hard-and-four-other-things-co-learning-camp-22-taught-me-about-injective-082801413b7e?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-03T13:03:51.000Z</updated>
+        <summary type="html"><![CDATA[I am a third-year CSE student at IEM Salt Lake, Kolkata. I have done a fair number of hackathons and I have written smart contracts before…]]></summary>
+        <author>
+            <name>Guptaraaj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Token Approvals: Why They Matter in DeFi Security]]></title>
         <id>https://medium.com/p/480fd8d1509a</id>
@@ -119,15 +138,6 @@ Continue reading on Coinmonks »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Cards Make Spending Abroad Easy — Until the Conversion Starts]]></title>
-        <id>https://medium.com/p/f923040c7350</id>
-        <link href="https://medium.com/coinmonks/crypto-cards-make-spending-abroad-easy-until-the-conversion-starts-f923040c7350?source=rss----721b17443fd5---4"/>
-        <updated>2026-07-31T07:14:15.000Z</updated>
-        <author>
-            <name>Azalea West</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beyond Stablecoins: Could Tokenized Deposits Become the Future of Regulated Digital Money?]]></title>
         <id>https://medium.com/p/e0ce4f89f216</id>
         <link href="https://coinsbench.com/beyond-stablecoins-could-tokenized-deposits-become-the-future-of-regulated-digital-money-e0ce4f89f216?source=rss----f1cfd22cde3e---4"/>
@@ -195,16 +205,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[A Practical Guide to Web3 Authentication for Modern Applications]]></summary>
         <author>
             <name>Sewmini Kavindya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain FAQ: Technical and Feasibility Questions, Answered]]></title>
-        <id>https://medium.com/p/79cc87295bb4</id>
-        <link href="https://coinsbench.com/blockchain-faq-technical-and-feasibility-questions-answered-79cc87295bb4?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-27T10:01:00.000Z</updated>
-        <summary type="html"><![CDATA[A companion reference to the 10-part blockchain series — straight answers to the questions that come up most, organized by theme. Where a…]]></summary>
-        <author>
-            <name>Iduryodhanrao</name>
         </author>
     </entry>
 </feed>
