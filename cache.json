@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,6 +11,26 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/41691ff84478",
+          "author": "ramitgorr",
+          "description": "These are the parameters you’ll fill in when you deploy. You set your \ntoken name, ticker symbol, total supply, and whether the honeypot…",
+          "link": "https://coinsbench.com/how-to-create-a-honeypot-token-step-by-step-guide-with-free-solidity-code-41691ff84478?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-08-04T08:36:34.000Z",
+          "wordCount": 4925,
+          "title": "How to Create a Honeypot Token (Step-by-Step Guide With Free Solidity Code)",
+          "imageUrl": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
+        },
+        {
+          "id": "https://medium.com/p/de3190167fbe",
+          "author": "om santoshwar",
+          "description": "Stop being intimidated by Foundry. Here’s everything explained simply, from scratch.",
+          "link": "https://coinsbench.com/foundry-from-zero-the-toolkit-every-smart-contract-developer-auditor-needs-de3190167fbe?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-08-04T08:36:32.000Z",
+          "wordCount": 14260,
+          "title": "Foundry from Zero: The Toolkit Every Smart Contract Developer/Auditor Needs",
+          "imageUrl": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.35/1*FXr54r50JRIs3ErprUggEg.png"
+        },
         {
           "id": "https://medium.com/p/082801413b7e",
           "author": "Guptaraaj",
@@ -96,26 +110,6 @@
           "wordCount": 3363,
           "title": "Securing Institutional DLT: The Essential Guide to Daml Smart Contract Audits",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vzXTv05pnvF5NkY67O0mPA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/b8df7bbcd547",
-          "author": "Iduryodhanrao",
-          "description": "Why Almost No One Mines Bitcoin Alone Anymore",
-          "link": "https://coinsbench.com/mining-pools-and-block-rewards-splitting-the-lottery-winnings-part-7-of-10-b8df7bbcd547?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-07-29T09:24:39.000Z",
-          "wordCount": 4911,
-          "title": "Mining Pools and Block Rewards: Splitting the Lottery Winnings (Part 7 of 10)",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*MbyKG293NMe2VcfR_CAJvg.png"
-        },
-        {
-          "id": "https://medium.com/p/78750de10e38",
-          "author": "Sewmini Kavindya",
-          "description": "A Practical Guide to Web3 Authentication for Modern Applications",
-          "link": "https://coinsbench.com/previously-i-wrote-a-blog-explaining-the-theoretical-concepts-of-web3-authentication-and-how-78750de10e38?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-07-29T09:24:16.000Z",
-          "wordCount": 4066,
-          "title": "Web3 Authentication for your App",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*RDZr4px9KQWK6Ny-w7kcLQ.jpeg"
         }
       ]
     },
@@ -237,7 +231,7 @@
           "description": "When auditing complex decentralized finance (DeFi) protocols, writing reliable Proof of Concept (PoC) tests against a live mainnet state is…",
           "link": "https://blog.blockmagnates.com/tracking-state-and-supply-changes-with-foundry-fork-tests-on-convex-finance-68e54821162c?source=rss----18fa961f1eff--solidity",
           "publishedOn": "2026-08-02T20:51:01.000Z",
-          "wordCount": 1960,
+          "wordCount": 1966,
           "title": "Tracking State and Supply Changes with Foundry Fork Tests on Convex Finance",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:677/1*RdXBG0zmA8oZmwiZdhqJZw.jpeg"
         }

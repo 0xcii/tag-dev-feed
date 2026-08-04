@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-04T07:36:29.430Z</id>
+    <id>urn:2026-08-04T10:36:12.163Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-04T07:36:29.430Z</updated>
+    <updated>2026-08-04T10:36:12.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Honeypot Token (Step-by-Step Guide With Free Solidity Code)]]></title>
+        <id>https://medium.com/p/41691ff84478</id>
+        <link href="https://coinsbench.com/how-to-create-a-honeypot-token-step-by-step-guide-with-free-solidity-code-41691ff84478?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-04T08:36:34.000Z</updated>
+        <summary type="html"><![CDATA[These are the parameters you’ll fill in when you deploy. You set your 
+token name, ticker symbol, total supply, and whether the honeypot…]]></summary>
+        <author>
+            <name>ramitgorr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundry from Zero: The Toolkit Every Smart Contract Developer/Auditor Needs]]></title>
+        <id>https://medium.com/p/de3190167fbe</id>
+        <link href="https://coinsbench.com/foundry-from-zero-the-toolkit-every-smart-contract-developer-auditor-needs-de3190167fbe?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-04T08:36:32.000Z</updated>
+        <summary type="html"><![CDATA[Stop being intimidated by Foundry. Here’s everything explained simply, from scratch.]]></summary>
+        <author>
+            <name>om santoshwar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BIP-110 and The political Economy of Bitcoin’s "Non-Monetary" Data]]></title>
         <id>https://medium.com/p/b21ba7f77a06</id>
@@ -185,26 +206,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Enterprise distributed ledger technology (DLT) has transitioned from experimental frameworks to production-ready market infrastructure…]]></summary>
         <author>
             <name>John Galt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mining Pools and Block Rewards: Splitting the Lottery Winnings (Part 7 of 10)]]></title>
-        <id>https://medium.com/p/b8df7bbcd547</id>
-        <link href="https://coinsbench.com/mining-pools-and-block-rewards-splitting-the-lottery-winnings-part-7-of-10-b8df7bbcd547?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-29T09:24:39.000Z</updated>
-        <summary type="html"><![CDATA[Why Almost No One Mines Bitcoin Alone Anymore]]></summary>
-        <author>
-            <name>Iduryodhanrao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Authentication for your App]]></title>
-        <id>https://medium.com/p/78750de10e38</id>
-        <link href="https://coinsbench.com/previously-i-wrote-a-blog-explaining-the-theoretical-concepts-of-web3-authentication-and-how-78750de10e38?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-29T09:24:16.000Z</updated>
-        <summary type="html"><![CDATA[A Practical Guide to Web3 Authentication for Modern Applications]]></summary>
-        <author>
-            <name>Sewmini Kavindya</name>
         </author>
     </entry>
 </feed>
