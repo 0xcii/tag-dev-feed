@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -18,12 +12,22 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/7c9eb6c5a9df",
+          "author": "Web 3.0 India - Web3 Development Company",
+          "description": "Learn the top DeFi security best practices to prevent smart contract vulnerabilities and build secure decentralized finance applications.",
+          "link": "https://coinsbench.com/defi-security-best-practices-prevent-smart-contract-vulnerabilities-7c9eb6c5a9df?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-08-04T20:26:01.000Z",
+          "wordCount": 3318,
+          "title": "DeFi Security Best Practices: Prevent Smart Contract Vulnerabilities",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vbt2fRuPQtAUPa4TsWf1fw.png"
+        },
+        {
           "id": "https://medium.com/p/41691ff84478",
           "author": "ramitgorr",
           "description": "These are the parameters you’ll fill in when you deploy. You set your \ntoken name, ticker symbol, total supply, and whether the honeypot…",
           "link": "https://coinsbench.com/how-to-create-a-honeypot-token-step-by-step-guide-with-free-solidity-code-41691ff84478?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-08-04T08:36:34.000Z",
-          "wordCount": 4928,
+          "wordCount": 4927,
           "title": "How to Create a Honeypot Token (Step-by-Step Guide With Free Solidity Code)",
           "imageUrl": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
         },
@@ -33,7 +37,7 @@
           "description": "Stop being intimidated by Foundry. Here’s everything explained simply, from scratch.",
           "link": "https://coinsbench.com/foundry-from-zero-the-toolkit-every-smart-contract-developer-auditor-needs-de3190167fbe?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-08-04T08:36:32.000Z",
-          "wordCount": 14263,
+          "wordCount": 14262,
           "title": "Foundry from Zero: The Toolkit Every Smart Contract Developer/Auditor Needs",
           "imageUrl": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.35/1*FXr54r50JRIs3ErprUggEg.png"
         },
@@ -43,7 +47,7 @@
           "description": "I am a third-year CSE student at IEM Salt Lake, Kolkata. I have done a fair number of hackathons and I have written smart contracts before…",
           "link": "https://coinsbench.com/solidity-is-not-that-hard-and-four-other-things-co-learning-camp-22-taught-me-about-injective-082801413b7e?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-08-03T13:03:51.000Z",
-          "wordCount": 4850,
+          "wordCount": 4849,
           "title": "Solidity is not that hard, and four other things Co-Learning Camp 22 taught me about Injective",
           "imageUrl": null
         },
@@ -53,7 +57,7 @@
           "description": "Introduction",
           "link": "https://coinsbench.com/understanding-token-approvals-why-they-matter-in-defi-security-480fd8d1509a?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-08-02T21:01:01.000Z",
-          "wordCount": 2391,
+          "wordCount": 2390,
           "title": "Understanding Token Approvals: Why They Matter in DeFi Security",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yqza8bXTxoQV1bzxep5-fA.png"
         },
@@ -63,7 +67,7 @@
           "description": "The United States continues to be one of the largest cryptocurrency markets, creating significant opportunities for businesses to launch…",
           "link": "https://coinsbench.com/how-to-build-a-secure-p2p-crypto-exchange-platform-in-the-usa-2026-guide-e036fa397fae?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-08-01T21:01:01.000Z",
-          "wordCount": 3244,
+          "wordCount": 3249,
           "title": "How to Build a Secure P2P Crypto Exchange Platform in the USA (2026 Guide)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*2olTnzpzIZB3cxadHSnmrA.png"
         },
@@ -73,7 +77,7 @@
           "description": "I explain how banks are bringing traditional deposits onto blockchain while staying within existing financial regulations.",
           "link": "https://coinsbench.com/beyond-stablecoins-could-tokenized-deposits-become-the-future-of-regulated-digital-money-e0ce4f89f216?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-29T09:25:38.000Z",
-          "wordCount": 4038,
+          "wordCount": 4037,
           "title": "Beyond Stablecoins: Could Tokenized Deposits Become the Future of Regulated Digital Money?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*10JwIhY_XfxSn0j1J1WPSg@2x.jpeg"
         },
@@ -83,7 +87,7 @@
           "description": "Blockchain Grew Up: How Banks, Governments, and Retailers Actually Use It Now",
           "link": "https://coinsbench.com/blockchains-real-world-applications-in-2026-part-10-of-10-761c9ed5c772?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-29T09:25:29.000Z",
-          "wordCount": 4943,
+          "wordCount": 4942,
           "title": "Blockchain’s Real-World Applications in 2026 (Part 10 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:920/1*dRwEIKO8JtFkRrQqgjV_WQ.png"
         },
@@ -93,7 +97,7 @@
           "description": "What Would It Actually Cost to Attack Bitcoin? A Real Number",
           "link": "https://coinsbench.com/difficulty-adjustment-and-the-economics-of-attacking-a-blockchain-part-9-of-10-1c3a80e10259?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-29T09:25:28.000Z",
-          "wordCount": 4856,
+          "wordCount": 4855,
           "title": "Difficulty Adjustment and the Economics of Attacking a Blockchain (Part 9 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:884/1*BQHhBufBzP4lmrY1RnBRhg.png"
         },
@@ -103,19 +107,9 @@
           "description": "Ethereum Doesn’t Mine Anymore. Here’s What Replaced It.",
           "link": "https://coinsbench.com/consensus-beyond-proof-of-work-how-ethereum-secures-itself-without-mining-part-8-of-10-b020a2a794f3?source=rss----f1cfd22cde3e---4",
           "publishedOn": "2026-07-29T09:25:24.000Z",
-          "wordCount": 4594,
+          "wordCount": 4593,
           "title": "Consensus Beyond Proof-of-Work: How Ethereum Secures Itself Without Mining (Part 8 of 10)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9-jAm0WzU9LEi6j6-NMMfQ.png"
-        },
-        {
-          "id": "https://medium.com/p/b0786dd0ef13",
-          "author": "John Galt",
-          "description": "Enterprise distributed ledger technology (DLT) has transitioned from experimental frameworks to production-ready market infrastructure…",
-          "link": "https://coinsbench.com/securing-institutional-dlt-the-essential-guide-to-daml-smart-contract-audits-b0786dd0ef13?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-07-29T09:25:15.000Z",
-          "wordCount": 3366,
-          "title": "Securing Institutional DLT: The Essential Guide to Daml Smart Contract Audits",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vzXTv05pnvF5NkY67O0mPA.jpeg"
         }
       ]
     },

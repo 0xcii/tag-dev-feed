@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-04T19:27:35.528Z</id>
+    <id>urn:2026-08-04T21:10:22.304Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-04T19:27:35.528Z</updated>
+    <updated>2026-08-04T21:10:22.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Security Best Practices: Prevent Smart Contract Vulnerabilities]]></title>
+        <id>https://medium.com/p/7c9eb6c5a9df</id>
+        <link href="https://coinsbench.com/defi-security-best-practices-prevent-smart-contract-vulnerabilities-7c9eb6c5a9df?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-04T20:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Learn the top DeFi security best practices to prevent smart contract vulnerabilities and build secure decentralized finance applications.]]></summary>
+        <author>
+            <name>Web 3.0 India - Web3 Development Company</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Honeypot Token (Step-by-Step Guide With Free Solidity Code)]]></title>
         <id>https://medium.com/p/41691ff84478</id>
@@ -196,16 +206,6 @@ Continue reading on Coinmonks »]]></summary>
         <summary type="html"><![CDATA[Ethereum Doesn’t Mine Anymore. Here’s What Replaced It.]]></summary>
         <author>
             <name>Iduryodhanrao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing Institutional DLT: The Essential Guide to Daml Smart Contract Audits]]></title>
-        <id>https://medium.com/p/b0786dd0ef13</id>
-        <link href="https://coinsbench.com/securing-institutional-dlt-the-essential-guide-to-daml-smart-contract-audits-b0786dd0ef13?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-29T09:25:15.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise distributed ledger technology (DLT) has transitioned from experimental frameworks to production-ready market infrastructure…]]></summary>
-        <author>
-            <name>John Galt</name>
         </author>
     </entry>
 </feed>
