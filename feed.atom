@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-07T11:42:48.711Z</id>
+    <id>urn:2026-08-07T12:57:21.401Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-07T11:42:48.711Z</updated>
+    <updated>2026-08-07T12:57:21.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Spot a Crypto Scam: 9 Red Flags Before You Lose a Cent]]></title>
+        <id>https://medium.com/p/24d677fd679d</id>
+        <link href="https://coinsbench.com/how-to-spot-a-crypto-scam-9-red-flags-before-you-lose-a-cent-24d677fd679d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-07T12:15:27.000Z</updated>
+        <author>
+            <name>Sam Clair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Your Crypto Wallet: 2FA, Seed Phrases, and the Basics]]></title>
+        <id>https://medium.com/p/6fd1d0fe0781</id>
+        <link href="https://coinsbench.com/how-to-secure-your-crypto-wallet-2fa-seed-phrases-and-the-basics-6fd1d0fe0781?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-07T12:15:24.000Z</updated>
+        <author>
+            <name>Sam Clair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-Knowledge Proofs and Privacy Coins: Can Blockchain Offer Privacy Without Sacrificing Trust?]]></title>
+        <id>https://medium.com/p/938fd7fb658f</id>
+        <link href="https://coinsbench.com/zero-knowledge-proofs-and-privacy-coins-can-blockchain-offer-privacy-without-sacrificing-trust-938fd7fb658f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-07T12:15:21.000Z</updated>
+        <author>
+            <name>Samuel AYODEJI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WTF is abi.encode, decode, etc… in Solidity?]]></title>
+        <id>https://medium.com/p/ef87eb2a1c85</id>
+        <link href="https://coinsbench.com/wtf-is-abi-encode-decode-etc-in-solidity-ef87eb2a1c85?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-07T12:15:20.000Z</updated>
+        <author>
+            <name>om santoshwar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custodial vs Non-Custodial Wallets: Which Is Safer for You?]]></title>
+        <id>https://medium.com/p/f41ad490feb6</id>
+        <link href="https://coinsbench.com/custodial-vs-non-custodial-wallets-which-is-safer-for-you-f41ad490feb6?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-07T12:15:19.000Z</updated>
+        <author>
+            <name>Sam Clair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERC-7540: The Async Vault Standard and Its Hidden Attack Surface]]></title>
+        <id>https://medium.com/p/3e55c40b13d5</id>
+        <link href="https://blog.blockmagnates.com/erc-7540-the-async-vault-standard-and-its-hidden-attack-surface-3e55c40b13d5?source=rss----18fa961f1eff--solidity"/>
+        <updated>2026-08-07T11:50:05.000Z</updated>
+        <author>
+            <name>om santoshwar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Schneider Electric ($SBGSY)]]></title>
         <id>https://medium.com/p/592c42904371</id>
@@ -149,51 +203,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-08-02T20:51:01.000Z</updated>
         <author>
             <name>rdin777</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Secure P2P Crypto Exchange Platform in the USA (2026 Guide)]]></title>
-        <id>https://medium.com/p/e036fa397fae</id>
-        <link href="https://coinsbench.com/how-to-build-a-secure-p2p-crypto-exchange-platform-in-the-usa-2026-guide-e036fa397fae?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-08-01T21:01:01.000Z</updated>
-        <author>
-            <name>Benjamin Valor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Stablecoins: Could Tokenized Deposits Become the Future of Regulated Digital Money?]]></title>
-        <id>https://medium.com/p/e0ce4f89f216</id>
-        <link href="https://coinsbench.com/beyond-stablecoins-could-tokenized-deposits-become-the-future-of-regulated-digital-money-e0ce4f89f216?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-29T09:25:38.000Z</updated>
-        <author>
-            <name>Samuel AYODEJI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain’s Real-World Applications in 2026 (Part 10 of 10)]]></title>
-        <id>https://medium.com/p/761c9ed5c772</id>
-        <link href="https://coinsbench.com/blockchains-real-world-applications-in-2026-part-10-of-10-761c9ed5c772?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-29T09:25:29.000Z</updated>
-        <author>
-            <name>Iduryodhanrao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Difficulty Adjustment and the Economics of Attacking a Blockchain (Part 9 of 10)]]></title>
-        <id>https://medium.com/p/1c3a80e10259</id>
-        <link href="https://coinsbench.com/difficulty-adjustment-and-the-economics-of-attacking-a-blockchain-part-9-of-10-1c3a80e10259?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-29T09:25:28.000Z</updated>
-        <author>
-            <name>Iduryodhanrao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consensus Beyond Proof-of-Work: How Ethereum Secures Itself Without Mining (Part 8 of 10)]]></title>
-        <id>https://medium.com/p/b020a2a794f3</id>
-        <link href="https://coinsbench.com/consensus-beyond-proof-of-work-how-ethereum-secures-itself-without-mining-part-8-of-10-b020a2a794f3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-07-29T09:25:24.000Z</updated>
-        <author>
-            <name>Iduryodhanrao</name>
         </author>
     </entry>
 </feed>
