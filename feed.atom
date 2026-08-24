@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-24T11:25:04.779Z</id>
+    <id>urn:2026-08-24T12:43:23.814Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-24T11:25:04.779Z</updated>
+    <updated>2026-08-24T12:43:23.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EVM Deep Dive: Unrestricted delegatecall and Proxy Hijacking]]></title>
+        <id>https://medium.com/p/82b982efec71</id>
+        <link href="https://coinsbench.com/evm-deep-dive-unrestricted-delegatecall-and-proxy-hijacking-82b982efec71?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-24T12:18:53.000Z</updated>
+        <author>
+            <name>Heba Ajjour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything You Need to Know About Ethereum Before Writing Smart Contracts]]></title>
+        <id>https://medium.com/p/3ec9c62e443d</id>
+        <link href="https://coinsbench.com/everything-you-need-to-know-about-ethereum-before-writing-smart-contracts-3ec9c62e443d?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-24T12:18:51.000Z</updated>
+        <author>
+            <name>Vyom Pant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before You Start Learning Blockchain]]></title>
+        <id>https://medium.com/p/ef40a131f541</id>
+        <link href="https://coinsbench.com/before-you-start-learning-blockchain-ef40a131f541?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-24T12:18:48.000Z</updated>
+        <author>
+            <name>Vyom Pant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin FUNdamentals: Everything You Probably Skipped]]></title>
+        <id>https://medium.com/p/6b46df1b8fcc</id>
+        <link href="https://coinsbench.com/bitcoin-fundamentals-everything-you-probably-skipped-6b46df1b8fcc?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-24T12:18:42.000Z</updated>
+        <author>
+            <name>Vyom Pant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Crypto Industry Has a New Problem: Users Have More Choices Than Ever]]></title>
         <id>https://medium.com/p/2c952b2c073c</id>
@@ -154,42 +190,6 @@
         <id>https://medium.com/p/62f3e7a260e6</id>
         <link href="https://coinsbench.com/thirstday-1-crypto-built-the-rails-where-is-the-consumer-layer-62f3e7a260e6?source=rss----f1cfd22cde3e---4"/>
         <updated>2026-08-14T14:01:47.000Z</updated>
-        <author>
-            <name>Aleksandr Korolev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Vitalik Buterin’s Redrawn Ethereum Roadmap Actually Admits]]></title>
-        <id>https://medium.com/p/d777a7f9c0af</id>
-        <link href="https://coinsbench.com/what-vitalik-buterins-redrawn-ethereum-roadmap-actually-admits-d777a7f9c0af?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-08-14T14:01:45.000Z</updated>
-        <author>
-            <name>Paul Bennett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signatures, Replay Attacks, and EIP-712: The Full Story in Ethereum]]></title>
-        <id>https://medium.com/p/ddef5ad608a7</id>
-        <link href="https://coinsbench.com/signatures-replay-attacks-and-eip-712-the-full-story-in-ethereum-ddef5ad608a7?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-08-14T14:01:41.000Z</updated>
-        <author>
-            <name>om santoshwar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fryday #1: are AI tokens doomed to become securities or go to zero?]]></title>
-        <id>https://medium.com/p/2aa4d4030b9f</id>
-        <link href="https://coinsbench.com/fryday-1-are-ai-tokens-doomed-to-become-securities-or-go-to-zero-2aa4d4030b9f?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-08-14T14:01:35.000Z</updated>
-        <author>
-            <name>Aleksandr Korolev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KASS: AI Agents Are Moving From Smart-Contract Findings to Executable Exploits]]></title>
-        <id>https://medium.com/p/ac7e66ce36fa</id>
-        <link href="https://coinsbench.com/kass-ai-agents-are-moving-from-smart-contract-findings-to-executable-exploits-ac7e66ce36fa?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-08-12T11:27:07.000Z</updated>
         <author>
             <name>Aleksandr Korolev</name>
         </author>
