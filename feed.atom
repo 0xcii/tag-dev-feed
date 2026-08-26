@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-26T08:39:37.552Z</id>
+    <id>urn:2026-08-26T09:38:04.661Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-26T08:39:37.552Z</updated>
+    <updated>2026-08-26T09:38:04.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Auditors Signed Off. The Money Left Anyway.]]></title>
+        <id>https://medium.com/p/f8171fba9c25</id>
+        <link href="https://coinsbench.com/the-auditors-signed-off-the-money-left-anyway-f8171fba9c25?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-26T09:10:55.000Z</updated>
+        <author>
+            <name>Tabrez Mukadam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The One Thing Every Smart Contract Auditor Misses]]></title>
+        <id>https://medium.com/p/c073e7affe27</id>
+        <link href="https://coinsbench.com/the-one-thing-every-smart-contract-auditor-misses-c073e7affe27?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-26T09:10:52.000Z</updated>
+        <author>
+            <name>Plutus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Money: How Blockchain Is Rebuilding Everything]]></title>
+        <id>https://medium.com/p/2ad8b93db154</id>
+        <link href="https://coinsbench.com/the-new-money-how-blockchain-is-rebuilding-everything-2ad8b93db154?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-26T09:10:50.000Z</updated>
+        <author>
+            <name>om santoshwar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $1.5B Blind Spot — And Why You’re Next]]></title>
+        <id>https://medium.com/p/87310ac96a7f</id>
+        <link href="https://coinsbench.com/the-1-5b-blind-spot-and-why-youre-next-87310ac96a7f?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-26T09:10:46.000Z</updated>
+        <author>
+            <name>Plutus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How $50M Vanished on Three Signatures — And Why You Should Care]]></title>
+        <id>https://medium.com/p/e8feb91a5255</id>
+        <link href="https://coinsbench.com/how-50m-vanished-on-three-signatures-and-why-you-should-care-e8feb91a5255?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-08-26T09:10:41.000Z</updated>
+        <author>
+            <name>Plutus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 350ms Speed Upgrade and the Institutional High-Frequency Settlement Tollbooth]]></title>
         <id>https://medium.com/p/d0119d16f1d0</id>
@@ -147,51 +192,6 @@
         <updated>2026-08-18T20:06:01.000Z</updated>
         <author>
             <name>Sam Clair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call, Send, Transfer: Complete Timeline In Solidity Ethereum]]></title>
-        <id>https://medium.com/p/e88cdd383bb1</id>
-        <link href="https://coinsbench.com/call-send-transfer-complete-timeline-in-solidity-ethereum-e88cdd383bb1?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-08-17T13:33:08.000Z</updated>
-        <author>
-            <name>om santoshwar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Recovered Funds From an EIP-7702 Wallet Compromise on BNB Chain]]></title>
-        <id>https://medium.com/p/462dfdb74990</id>
-        <link href="https://coinsbench.com/how-i-recovered-funds-from-an-eip-7702-wallet-compromise-on-bnb-chain-462dfdb74990?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-08-17T13:33:06.000Z</updated>
-        <author>
-            <name>Amlan Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Swap Fees Explained: What You’re Really Paying]]></title>
-        <id>https://medium.com/p/ebab652cf37d</id>
-        <link href="https://coinsbench.com/crypto-swap-fees-explained-what-youre-really-paying-ebab652cf37d?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-08-16T21:31:01.000Z</updated>
-        <author>
-            <name>Sam Clair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Audited My Own Vibe-Coded Solana App Here’s What I’d Never Ship Again]]></title>
-        <id>https://medium.com/p/509db5470916</id>
-        <link href="https://coinsbench.com/i-audited-my-own-vibe-coded-solana-app-heres-what-i-d-never-ship-again-509db5470916?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-08-15T20:51:01.000Z</updated>
-        <author>
-            <name>Khalid | The Web3 Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thirstday #1 — Crypto Built the Rails. Where Is the Consumer Layer?]]></title>
-        <id>https://medium.com/p/62f3e7a260e6</id>
-        <link href="https://coinsbench.com/thirstday-1-crypto-built-the-rails-where-is-the-consumer-layer-62f3e7a260e6?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-08-14T14:01:47.000Z</updated>
-        <author>
-            <name>Aleksandr Korolev</name>
         </author>
     </entry>
     <entry>
