@@ -1,10 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-27T13:45:55.182Z</id>
+    <id>urn:2026-08-27T23:34:55.897Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-27T13:45:55.182Z</updated>
+    <updated>2026-08-27T23:34:55.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I Built My First Local RAG System Without Paying for an AI API]]></title>
+        <id>https://medium.com/p/d47b62176347</id>
+        <link href="https://medium.com/coinmonks/i-built-my-first-local-rag-system-without-paying-for-an-ai-api-d47b62176347?source=rss----721b17443fd5---4"/>
+        <updated>2026-08-27T14:54:25.000Z</updated>
+        <summary type="html"><![CDATA[How I turned a few PDFs into a private AI assistant using Python, LangChain, FAISS, open-source models, and very limited resources
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Amolkharat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vector Databases, Explained Without the Jargon]]></title>
+        <id>https://medium.com/p/f9ba7a7e9549</id>
+        <link href="https://medium.com/coinmonks/vector-databases-explained-without-the-jargon-f9ba7a7e9549?source=rss----721b17443fd5---4"/>
+        <updated>2026-08-27T14:54:14.000Z</updated>
+        <summary type="html"><![CDATA[A team I heard about spent three weeks choosing a vector database.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Gursimar Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Onchain Treasury Management Actually Works, Step by Step]]></title>
+        <id>https://medium.com/p/9025d203db4b</id>
+        <link href="https://medium.com/coinmonks/how-onchain-treasury-management-actually-works-step-by-step-9025d203db4b?source=rss----721b17443fd5---4"/>
+        <updated>2026-08-27T14:53:32.000Z</updated>
+        <author>
+            <name>Leo Talks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust .me v0.3.0]]></title>
+        <id>https://medium.com/p/00d65ded804a</id>
+        <link href="https://medium.com/coinmonks/rust-me-v0-3-0-00d65ded804a?source=rss----721b17443fd5---4"/>
+        <updated>2026-08-27T14:53:29.000Z</updated>
+        <author>
+            <name>neurons.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is TrueNorth? A Practical Guide to AI-Powered Crypto Research and Trading]]></title>
+        <id>https://medium.com/p/a12dcf6309bf</id>
+        <link href="https://medium.com/coinmonks/what-is-truenorth-a-practical-guide-to-ai-powered-crypto-research-and-trading-a12dcf6309bf?source=rss----721b17443fd5---4"/>
+        <updated>2026-08-27T14:53:19.000Z</updated>
+        <author>
+            <name>justKarpa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Open Interest Is Calculated: What Causes OI to Increase, Decrease, or Stay Flat?]]></title>
+        <id>https://medium.com/p/e3f08376fecc</id>
+        <link href="https://medium.com/coinmonks/how-open-interest-is-calculated-what-causes-oi-to-increase-decrease-or-stay-flat-e3f08376fecc?source=rss----721b17443fd5---4"/>
+        <updated>2026-08-27T14:52:26.000Z</updated>
+        <author>
+            <name>Phemex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flask Database Integration (2026 Guide): SQLAlchemy, SQLite & PostgreSQL with Real-World CRUD]]></title>
+        <id>https://medium.com/p/f090a6753727</id>
+        <link href="https://medium.com/coinmonks/flask-database-integration-2026-guide-sqlalchemy-sqlite-postgresql-with-real-world-crud-f090a6753727?source=rss----721b17443fd5---4"/>
+        <updated>2026-08-27T14:51:18.000Z</updated>
+        <summary type="html"><![CDATA[🚀 Introduction
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Amolkharat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Polymarket in the US in 2026: VPNs, Geoblocks and What Actually Routes]]></title>
+        <id>https://medium.com/p/259db34e80b6</id>
+        <link href="https://medium.com/coinmonks/how-to-use-polymarket-in-the-us-in-2026-vpns-geoblocks-and-what-actually-routes-259db34e80b6?source=rss----721b17443fd5---4"/>
+        <updated>2026-08-27T14:51:13.000Z</updated>
+        <author>
+            <name>NM Insight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Onchain Rates Swing 40% in a Week, and What Would Stop It]]></title>
+        <id>https://medium.com/p/0ebaba6b576a</id>
+        <link href="https://medium.com/coinmonks/why-onchain-rates-swing-40-in-a-week-and-what-would-stop-it-0ebaba6b576a?source=rss----721b17443fd5---4"/>
+        <updated>2026-08-27T14:51:08.000Z</updated>
+        <author>
+            <name>Mihawk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stablecoin Regulation in 2026: What Settled, and What Is Still Unwritten]]></title>
+        <id>https://medium.com/p/64ffef15bfec</id>
+        <link href="https://medium.com/coinmonks/stablecoin-regulation-in-2026-what-settled-and-what-is-still-unwritten-64ffef15bfec?source=rss----721b17443fd5---4"/>
+        <updated>2026-08-27T14:51:02.000Z</updated>
+        <author>
+            <name>Somy D</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Auditors Signed Off. The Money Left Anyway.]]></title>
         <id>https://medium.com/p/f8171fba9c25</id>
@@ -48,96 +144,6 @@
         <updated>2026-08-26T09:10:41.000Z</updated>
         <author>
             <name>Plutus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 350ms Speed Upgrade and the Institutional High-Frequency Settlement Tollbooth]]></title>
-        <id>https://medium.com/p/d0119d16f1d0</id>
-        <link href="https://medium.com/coinmonks/the-350ms-speed-upgrade-and-the-institutional-high-frequency-settlement-tollbooth-d0119d16f1d0?source=rss----721b17443fd5---4"/>
-        <updated>2026-08-25T14:07:41.000Z</updated>
-        <author>
-            <name>Sheni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Media and Crypto.com Are Breaking Ties. What Happened to the 2025 Crypto Treasury Boom?]]></title>
-        <id>https://medium.com/p/6aaa9283e0f8</id>
-        <link href="https://medium.com/coinmonks/trump-media-and-crypto-com-are-breaking-ties-what-happened-to-the-2025-crypto-treasury-boom-6aaa9283e0f8?source=rss----721b17443fd5---4"/>
-        <updated>2026-08-25T14:07:25.000Z</updated>
-        <author>
-            <name>Maxine P.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MPC Wallet vs Multisig: Key Differences, Security, and Which One Should You Choose?]]></title>
-        <id>https://medium.com/p/ab7761066cbe</id>
-        <link href="https://medium.com/coinmonks/mpc-wallet-vs-multisig-key-differences-security-and-which-one-should-you-choose-ab7761066cbe?source=rss----721b17443fd5---4"/>
-        <updated>2026-08-25T14:06:54.000Z</updated>
-        <author>
-            <name>gabrielle rose</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Cryptocurrency Exchange Development Companies in 2026 Worth Knowing]]></title>
-        <id>https://medium.com/p/6381b16ef73c</id>
-        <link href="https://medium.com/coinmonks/top-5-cryptocurrency-exchange-development-companies-in-2026-worth-knowing-6381b16ef73c?source=rss----721b17443fd5---4"/>
-        <updated>2026-08-25T14:06:29.000Z</updated>
-        <author>
-            <name>Bemiawatson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Crypto’s Most-Hacked Year, and the AI Race to Defend It]]></title>
-        <id>https://medium.com/p/9ff0a1a17dec</id>
-        <link href="https://medium.com/coinmonks/2026-cryptos-most-hacked-year-and-the-ai-race-to-defend-it-9ff0a1a17dec?source=rss----721b17443fd5---4"/>
-        <updated>2026-08-25T14:06:14.000Z</updated>
-        <author>
-            <name>nice_citizen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product-led vs token-led go-to-market: which model fits your Web3 project?]]></title>
-        <id>https://medium.com/p/b385db0d52d0</id>
-        <link href="https://medium.com/coinmonks/product-led-vs-token-led-go-to-market-which-model-fits-your-web3-project-b385db0d52d0?source=rss----721b17443fd5---4"/>
-        <updated>2026-08-25T14:06:10.000Z</updated>
-        <author>
-            <name>Vimal Joseph</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Franklin Templeton’s BENJI Expansion Could Matter More Than You Think]]></title>
-        <id>https://medium.com/p/c3ebc7fbefdc</id>
-        <link href="https://medium.com/coinmonks/why-franklin-templetons-benji-expansion-could-matter-more-than-you-think-c3ebc7fbefdc?source=rss----721b17443fd5---4"/>
-        <updated>2026-08-25T14:04:26.000Z</updated>
-        <author>
-            <name>Coinpedia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERC-20 vs BEP-20: Which Is Better for Token Development?]]></title>
-        <id>https://medium.com/p/71faede7cf65</id>
-        <link href="https://medium.com/coinmonks/erc-20-vs-bep-20-which-is-better-for-token-development-71faede7cf65?source=rss----721b17443fd5---4"/>
-        <updated>2026-08-25T14:04:19.000Z</updated>
-        <author>
-            <name>Quinn Donovan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Share of Your Portfolio Should Sit in Private Debt?]]></title>
-        <id>https://medium.com/p/e8cd1f4f207f</id>
-        <link href="https://medium.com/coinmonks/what-share-of-your-portfolio-should-sit-in-private-debt-e8cd1f4f207f?source=rss----721b17443fd5---4"/>
-        <updated>2026-08-25T14:03:54.000Z</updated>
-        <author>
-            <name>Maclear AG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Trading Has an Information Problem: Here’s How to Solve It]]></title>
-        <id>https://medium.com/p/1030dd34af32</id>
-        <link href="https://medium.com/coinmonks/crypto-trading-has-an-information-problem-heres-how-to-solve-it-1030dd34af32?source=rss----721b17443fd5---4"/>
-        <updated>2026-08-25T14:03:43.000Z</updated>
-        <author>
-            <name>Ishikabennett</name>
         </author>
     </entry>
     <entry>
