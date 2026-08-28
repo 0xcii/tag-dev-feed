@@ -12,6 +12,26 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/7228825eae08",
+          "author": "MEV-X",
+          "description": "",
+          "link": "https://coinsbench.com/amm-yield-maximization-convergence-of-the-liquidity-provider-and-arbitrageur-roles-7228825eae08?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-08-28T18:04:14.000Z",
+          "wordCount": null,
+          "title": "AMM Yield Maximization: Convergence of the Liquidity Provider and Arbitrageur Roles",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/750d85959ddc",
+          "author": "0xscarfac3",
+          "description": "",
+          "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-2-naive-receiver-750d85959ddc?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-08-28T18:04:13.000Z",
+          "wordCount": null,
+          "title": "Solving Damn Vulnerable DeFi V4: Level 2- Naive Receiver",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/f8171fba9c25",
           "author": "Tabrez Mukadam",
           "description": "",
@@ -89,26 +109,6 @@
           "publishedOn": "2026-08-24T12:18:48.000Z",
           "wordCount": null,
           "title": "Before You Start Learning Blockchain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6b46df1b8fcc",
-          "author": "Vyom Pant",
-          "description": "",
-          "link": "https://coinsbench.com/bitcoin-fundamentals-everything-you-probably-skipped-6b46df1b8fcc?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-08-24T12:18:42.000Z",
-          "wordCount": null,
-          "title": "Bitcoin FUNdamentals: Everything You Probably Skipped",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c8fc6b90f16b",
-          "author": "Sam Clair",
-          "description": "",
-          "link": "https://coinsbench.com/how-to-move-crypto-between-wallets-safely-without-losing-it-c8fc6b90f16b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-08-18T20:06:01.000Z",
-          "wordCount": null,
-          "title": "How to Move Crypto Between Wallets Safely (Without Losing It)",
           "imageUrl": null
         }
       ]
@@ -256,12 +256,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Developer DAO Blog | Web3 Tutorials",
-      "feedUrl": "https://blog.developerdao.com/rss.xml",
-      "siteUrl": "https://blog.developerdao.com",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
