@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -125,103 +119,103 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/d47b62176347",
-          "author": "Amolkharat",
-          "description": "How I turned a few PDFs into a private AI assistant using Python, LangChain, FAISS, open-source models, and very limited resources\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/i-built-my-first-local-rag-system-without-paying-for-an-ai-api-d47b62176347?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-08-27T14:54:25.000Z",
-          "wordCount": null,
-          "title": "I Built My First Local RAG System Without Paying for an AI API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f9ba7a7e9549",
-          "author": "Gursimar Singh",
-          "description": "A team I heard about spent three weeks choosing a vector database.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/vector-databases-explained-without-the-jargon-f9ba7a7e9549?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-08-27T14:54:14.000Z",
-          "wordCount": null,
-          "title": "Vector Databases, Explained Without the Jargon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9025d203db4b",
-          "author": "Leo Talks",
+          "id": "https://medium.com/p/a5c1c645acd2",
+          "author": "architectrade",
           "description": "",
-          "link": "https://medium.com/coinmonks/how-onchain-treasury-management-actually-works-step-by-step-9025d203db4b?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-08-27T14:53:32.000Z",
+          "link": "https://medium.com/coinmonks/a-detailed-2026-guide-on-trojan-web-terminal-master-on-chain-trading-meme-coin-automation-a5c1c645acd2?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-08-29T05:32:33.000Z",
           "wordCount": null,
-          "title": "How Onchain Treasury Management Actually Works, Step by Step",
+          "title": "A Detailed 2026 Guide on Trojan Web Terminal: Master On-Chain Trading & Meme Coin Automation",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/00d65ded804a",
-          "author": "neurons.me",
+          "id": "https://medium.com/p/c689580c9115",
+          "author": "Gen",
           "description": "",
-          "link": "https://medium.com/coinmonks/rust-me-v0-3-0-00d65ded804a?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-08-27T14:53:29.000Z",
+          "link": "https://medium.com/coinmonks/blackrock-called-the-decoupling-a-chipmaker-paid-for-it-c689580c9115?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-08-29T05:32:29.000Z",
           "wordCount": null,
-          "title": "Rust .me v0.3.0",
+          "title": "BlackRock Called The Decoupling. A Chipmaker Paid For It.",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/a12dcf6309bf",
-          "author": "justKarpa",
+          "id": "https://medium.com/p/2d0f7c88aedc",
+          "author": "Dipjyoti Sharma",
+          "description": "How one bad trading day taught me that controlling my emotions matters more than predicting the market.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/i-stopped-revenge-trading-when-i-realized-i-wasnt-fighting-the-market-i-was-fighting-myself-2d0f7c88aedc?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-08-29T05:32:06.000Z",
+          "wordCount": null,
+          "title": "I Stopped Revenge Trading When I Realized I Wasn’t Fighting the Market — I Was Fighting Myself",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5c9135cce33d",
+          "author": "Chetan Dugar",
           "description": "",
-          "link": "https://medium.com/coinmonks/what-is-truenorth-a-practical-guide-to-ai-powered-crypto-research-and-trading-a12dcf6309bf?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-08-27T14:53:19.000Z",
+          "link": "https://medium.com/coinmonks/stellar-a-crypto-that-moves-like-a-message-5c9135cce33d?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-08-29T05:31:56.000Z",
           "wordCount": null,
-          "title": "What Is TrueNorth? A Practical Guide to AI-Powered Crypto Research and Trading",
+          "title": "Stellar: A Crypto That Moves Like a Message",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/e3f08376fecc",
-          "author": "Phemex",
+          "id": "https://medium.com/p/1c4adc1a3ce4",
+          "author": "Liam James",
           "description": "",
-          "link": "https://medium.com/coinmonks/how-open-interest-is-calculated-what-causes-oi-to-increase-decrease-or-stay-flat-e3f08376fecc?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-08-27T14:52:26.000Z",
+          "link": "https://medium.com/coinmonks/what-makes-an-ico-platform-tge-ready-in-2026-1c4adc1a3ce4?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-08-29T05:31:50.000Z",
           "wordCount": null,
-          "title": "How Open Interest Is Calculated: What Causes OI to Increase, Decrease, or Stay Flat?",
+          "title": "What Makes an ICO Platform TGE-Ready in 2026?",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/f090a6753727",
-          "author": "Amolkharat",
-          "description": "🚀 Introduction\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/flask-database-integration-2026-guide-sqlalchemy-sqlite-postgresql-with-real-world-crud-f090a6753727?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-08-27T14:51:18.000Z",
-          "wordCount": null,
-          "title": "Flask Database Integration (2026 Guide): SQLAlchemy, SQLite & PostgreSQL with Real-World CRUD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/259db34e80b6",
-          "author": "NM Insight",
+          "id": "https://medium.com/p/5ebeec6c1784",
+          "author": "Engr Aliyu",
           "description": "",
-          "link": "https://medium.com/coinmonks/how-to-use-polymarket-in-the-us-in-2026-vpns-geoblocks-and-what-actually-routes-259db34e80b6?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-08-27T14:51:13.000Z",
+          "link": "https://medium.com/coinmonks/tokenization-is-becoming-financial-infrastructure-5ebeec6c1784?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-08-29T05:28:46.000Z",
           "wordCount": null,
-          "title": "How to Use Polymarket in the US in 2026: VPNs, Geoblocks and What Actually Routes",
+          "title": "Tokenization Is Becoming Financial Infrastructure",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/0ebaba6b576a",
-          "author": "Mihawk",
+          "id": "https://medium.com/p/07f8bcdc5820",
+          "author": "Engr Aliyu",
           "description": "",
-          "link": "https://medium.com/coinmonks/why-onchain-rates-swing-40-in-a-week-and-what-would-stop-it-0ebaba6b576a?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-08-27T14:51:08.000Z",
+          "link": "https://medium.com/coinmonks/-07f8bcdc5820?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-08-29T05:28:27.000Z",
           "wordCount": null,
-          "title": "Why Onchain Rates Swing 40% in a Week, and What Would Stop It",
+          "title": "…",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/64ffef15bfec",
-          "author": "Somy D",
+          "id": "https://medium.com/p/091d5fa00c7a",
+          "author": "Anuj",
           "description": "",
-          "link": "https://medium.com/coinmonks/stablecoin-regulation-in-2026-what-settled-and-what-is-still-unwritten-64ffef15bfec?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-08-27T14:51:02.000Z",
+          "link": "https://medium.com/coinmonks/five-stablecoins-four-chains-what-each-one-is-and-how-to-get-it-091d5fa00c7a?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-08-29T05:27:49.000Z",
           "wordCount": null,
-          "title": "Stablecoin Regulation in 2026: What Settled, and What Is Still Unwritten",
+          "title": "Five Stablecoins, Four Chains: What Each One Is and How to Get It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/24031a5d4404",
+          "author": "Quinn Donovan",
+          "description": "",
+          "link": "https://medium.com/coinmonks/how-exchange-tokens-can-drive-trading-fee-revenue-24031a5d4404?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-08-29T05:27:10.000Z",
+          "wordCount": null,
+          "title": "How Exchange Tokens Can Drive Trading Fee Revenue",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/feedce1faf11",
+          "author": "Joseph Zammit",
+          "description": "",
+          "link": "https://medium.com/coinmonks/eurr-tokenised-finance-and-the-digital-euro-how-europes-new-money-stack-will-reshape-payments-feedce1faf11?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-08-29T05:25:35.000Z",
+          "wordCount": null,
+          "title": "EURR, Tokenised Finance and the Digital Euro: How Europe’s New Money Stack Will Reshape Payments",
           "imageUrl": null
         }
       ]
