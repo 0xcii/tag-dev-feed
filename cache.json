@@ -145,16 +145,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/a5c1c645acd2",
-          "author": "architectrade",
-          "description": "",
-          "link": "https://medium.com/coinmonks/a-detailed-2026-guide-on-trojan-web-terminal-master-on-chain-trading-meme-coin-automation-a5c1c645acd2?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-08-29T05:32:33.000Z",
-          "wordCount": null,
-          "title": "A Detailed 2026 Guide on Trojan Web Terminal: Master On-Chain Trading & Meme Coin Automation",
-          "imageUrl": null
-        },
-        {
           "id": "https://medium.com/p/c689580c9115",
           "author": "Gen",
           "description": "",
@@ -223,6 +213,16 @@
           "wordCount": null,
           "title": "Five Stablecoins, Four Chains: What Each One Is and How to Get It",
           "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/24031a5d4404",
+          "author": "Quinn Donovan",
+          "description": "",
+          "link": "https://medium.com/coinmonks/how-exchange-tokens-can-drive-trading-fee-revenue-24031a5d4404?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-08-29T05:27:10.000Z",
+          "wordCount": null,
+          "title": "How Exchange Tokens Can Drive Trading Fee Revenue",
+          "imageUrl": null
         }
       ]
     },
@@ -262,6 +262,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Developer DAO Blog | Web3 Tutorials",
+      "feedUrl": "https://blog.developerdao.com/rss.xml",
+      "siteUrl": "https://blog.developerdao.com",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
