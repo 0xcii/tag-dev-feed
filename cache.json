@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -119,6 +125,16 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/39a91550b640",
+          "author": "Coinmonks Team",
+          "description": "",
+          "link": "https://medium.com/coinmonks/building-an-ai-crypto-trading-bot-on-hyperliquid-39a91550b640?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-05T15:35:34.000Z",
+          "wordCount": null,
+          "title": "Building an AI Crypto Trading Bot on Hyperliquid",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/43e130d87181",
           "author": "Coinmonks Team",
           "description": "",
@@ -206,16 +222,6 @@
           "publishedOn": "2026-09-04T14:24:34.000Z",
           "wordCount": null,
           "title": "AI Could Make Crypto Irrelevant Or Indispensable",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a6179315b13f",
-          "author": "Phemex",
-          "description": "",
-          "link": "https://medium.com/coinmonks/the-meme-coin-trenches-are-becoming-a-market-structure-signal-not-a-casino-pass-a6179315b13f?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-04T13:23:14.000Z",
-          "wordCount": null,
-          "title": "The Meme-Coin Trenches Are Becoming a Market-Structure Signal — Not a Casino Pass",
           "imageUrl": null
         }
       ]
