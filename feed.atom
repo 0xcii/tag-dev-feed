@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-05T19:55:56.605Z</id>
+    <id>urn:2026-09-05T21:56:24.089Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-05T19:55:56.605Z</updated>
+    <updated>2026-09-05T21:56:24.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EVM Deep Dive: Reentrancy Attacks and the Checks-Effects-Interactions Pattern]]></title>
+        <id>https://medium.com/p/0d55e8741a17</id>
+        <link href="https://coinsbench.com/evm-deep-dive-reentrancy-attacks-and-the-checks-effects-interactions-pattern-0d55e8741a17?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-09-05T20:21:00.000Z</updated>
+        <author>
+            <name>Heba Ajjour</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building an AI Crypto Trading Bot on Hyperliquid]]></title>
         <id>https://medium.com/p/39a91550b640</id>
@@ -180,15 +189,6 @@ Continue reading on CoinsBench »]]></summary>
         <updated>2026-08-28T18:04:14.000Z</updated>
         <author>
             <name>MEV-X</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving Damn Vulnerable DeFi V4: Level 2- Naive Receiver]]></title>
-        <id>https://medium.com/p/750d85959ddc</id>
-        <link href="https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-2-naive-receiver-750d85959ddc?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-08-28T18:04:13.000Z</updated>
-        <author>
-            <name>0xscarfac3</name>
         </author>
     </entry>
     <entry>

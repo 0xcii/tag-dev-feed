@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,6 +11,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/0d55e8741a17",
+          "author": "Heba Ajjour",
+          "description": "",
+          "link": "https://coinsbench.com/evm-deep-dive-reentrancy-attacks-and-the-checks-effects-interactions-pattern-0d55e8741a17?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-09-05T20:21:00.000Z",
+          "wordCount": null,
+          "title": "EVM Deep Dive: Reentrancy Attacks and the Checks-Effects-Interactions Pattern",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/4b246a4981d8",
           "author": "Abraham",
@@ -105,16 +109,6 @@
           "publishedOn": "2026-08-28T18:04:14.000Z",
           "wordCount": null,
           "title": "AMM Yield Maximization: Convergence of the Liquidity Provider and Arbitrageur Roles",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/750d85959ddc",
-          "author": "0xscarfac3",
-          "description": "",
-          "link": "https://coinsbench.com/solving-damn-vulnerable-defi-v4-level-2-naive-receiver-750d85959ddc?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-08-28T18:04:13.000Z",
-          "wordCount": null,
-          "title": "Solving Damn Vulnerable DeFi V4: Level 2- Naive Receiver",
           "imageUrl": null
         }
       ]
