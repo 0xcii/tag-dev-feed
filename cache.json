@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -239,16 +233,6 @@
           "publishedOn": "2026-08-21T10:44:18.000Z",
           "wordCount": null,
           "title": "A Backend Key That Can Bind Your Wallet But Can’t Spend Your Money",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3e55c40b13d5",
-          "author": "om santoshwar",
-          "description": "",
-          "link": "https://blog.blockmagnates.com/erc-7540-the-async-vault-standard-and-its-hidden-attack-surface-3e55c40b13d5?source=rss----18fa961f1eff--solidity",
-          "publishedOn": "2026-08-07T11:50:05.000Z",
-          "wordCount": null,
-          "title": "ERC-7540: The Async Vault Standard and Its Hidden Attack Surface",
           "imageUrl": null
         }
       ]
