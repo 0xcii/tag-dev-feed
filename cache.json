@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -11,6 +17,26 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/f3f40df71d17",
+          "author": "Prashant Thinks",
+          "description": "",
+          "link": "https://coinsbench.com/your-checkout-page-is-under-attack-right-now-probably-f3f40df71d17?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-09-13T21:01:01.000Z",
+          "wordCount": null,
+          "title": "Your Checkout Page Is Under Attack Right Now (Probably)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2e673c3183e9",
+          "author": "Harshil Jani",
+          "description": "",
+          "link": "https://coinsbench.com/prediction-markets-are-booming-polyfox-lets-anyone-get-in-on-the-action-2e673c3183e9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-09-13T20:50:57.000Z",
+          "wordCount": null,
+          "title": "Prediction Markets Are Booming — Polyfox Lets Anyone Get In on the Action",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/8ae49fe7a183",
           "author": "Christine Soliman",
@@ -89,26 +115,6 @@
           "publishedOn": "2026-09-09T09:17:15.000Z",
           "wordCount": null,
           "title": "Curve V1 For Dummies!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6d6b8ad4ecf9",
-          "author": "Jacobo Avariento",
-          "description": "",
-          "link": "https://coinsbench.com/how-to-use-certora-gambit-for-mutation-testing-in-smart-contracts-6d6b8ad4ecf9?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-09-06T21:21:01.000Z",
-          "wordCount": null,
-          "title": "How to Use Certora Gambit for Mutation Testing in smart contracts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0d55e8741a17",
-          "author": "Heba Ajjour",
-          "description": "",
-          "link": "https://coinsbench.com/evm-deep-dive-reentrancy-attacks-and-the-checks-effects-interactions-pattern-0d55e8741a17?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-09-05T20:21:00.000Z",
-          "wordCount": null,
-          "title": "EVM Deep Dive: Reentrancy Attacks and the Checks-Effects-Interactions Pattern",
           "imageUrl": null
         }
       ]
