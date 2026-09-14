@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -11,6 +17,36 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/90901a80df32",
+          "author": "Samuel AYODEJI",
+          "description": "The shift to digital payments is accelerating but convenience comes with costs that are easy to overlook. \nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/the-decline-of-physical-cash-what-do-we-risk-losing-90901a80df32?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-09-14T13:25:50.000Z",
+          "wordCount": null,
+          "title": "The Decline of Physical Cash: What Do We Risk Losing?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cf642c98b29d",
+          "author": "Officer's Notes",
+          "description": "",
+          "link": "https://coinsbench.com/how-a-7-000-wrong-chain-transfer-became-an-official-safe-factory-cf642c98b29d?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-09-14T13:25:26.000Z",
+          "wordCount": null,
+          "title": "How a $7,000 Wrong-Chain Transfer Became an Official Safe Factory",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b8faa1f061f9",
+          "author": "Muhammad Azhar",
+          "description": "1,178 authorizations across 200 mainnet blocks were signed by 948 distinct accounts. I recovered every signer offline to find out which of…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/my-eip-7702-finding-said-28-counted-by-account-the-same-window-says-21-b8faa1f061f9?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-09-14T13:25:21.000Z",
+          "wordCount": null,
+          "title": "My EIP-7702 finding said 28%. Counted by account, the same window says 21%.",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/f3f40df71d17",
           "author": "Prashant Thinks",
@@ -80,36 +116,6 @@
           "wordCount": null,
           "title": "Uniswap V3 For Dummies!",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/93d6df67bd56",
-          "author": "Oreoluwa Israel",
-          "description": "",
-          "link": "https://coinsbench.com/uniswap-v2-for-dummies-93d6df67bd56?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-09-09T09:17:19.000Z",
-          "wordCount": null,
-          "title": "Uniswap V2 For Dummies!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2680055fc434",
-          "author": "Murat Geldyev",
-          "description": "",
-          "link": "https://coinsbench.com/architecting-next-gen-enterprise-ledgers-via-multi-agent-ai-and-blockdag-control-planes-2680055fc434?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-09-09T09:17:18.000Z",
-          "wordCount": null,
-          "title": "Architecting Next-Gen Enterprise Ledgers via Multi-Agent AI and BlockDAG Control Planes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a10d508876b6",
-          "author": "Oreoluwa Israel",
-          "description": "",
-          "link": "https://coinsbench.com/curve-v1-for-dummies-a10d508876b6?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-09-09T09:17:15.000Z",
-          "wordCount": null,
-          "title": "Curve V1 For Dummies!",
-          "imageUrl": null
         }
       ]
     },
@@ -119,103 +125,103 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/528de9b781bf",
-          "author": "Bemiawatson",
+          "id": "https://medium.com/p/9c2cbcff66f7",
+          "author": "Gen",
           "description": "",
-          "link": "https://medium.com/coinmonks/the-crypto-exchange-checklist-most-founders-skip-and-regret-later-528de9b781bf?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-14T11:17:37.000Z",
+          "link": "https://medium.com/coinmonks/the-hike-hit-90-and-every-major-went-green-9c2cbcff66f7?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-14T14:26:33.000Z",
           "wordCount": null,
-          "title": "The Crypto Exchange Checklist Most Founders Skip — And Regret Later",
+          "title": "The Hike Hit 90% And Every Major Went Green",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/8ce03f2c8ce2",
-          "author": "Noradaisy",
+          "id": "https://medium.com/p/7173419e3164",
+          "author": "Alex Hopper",
           "description": "",
-          "link": "https://medium.com/coinmonks/how-centralized-crypto-exchanges-make-money-8ce03f2c8ce2?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-14T11:10:55.000Z",
+          "link": "https://medium.com/coinmonks/why-the-smartest-ai-strategy-is-the-one-you-own-7173419e3164?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-14T14:26:25.000Z",
           "wordCount": null,
-          "title": "How Centralized Crypto Exchanges Actually Make Money: 8 Revenue Streams Explained i",
+          "title": "Why the Smartest AI Strategy Is the One You Own",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/d5f04528136f",
-          "author": "Samuel AYODEJI",
+          "id": "https://medium.com/p/032c4c91ce55",
+          "author": "Gursimar Singh",
+          "description": "Your Margin Is Hiding in the Retries You Never Counted\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/the-0-003-lie-032c4c91ce55?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-14T14:26:07.000Z",
+          "wordCount": null,
+          "title": "The $0.003 Lie",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c6a04a96180a",
+          "author": "Mihawk",
           "description": "",
-          "link": "https://medium.com/coinmonks/can-crypto-companies-outsource-compliance-to-ai-d5f04528136f?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-14T11:09:56.000Z",
+          "link": "https://medium.com/coinmonks/will-ai-agents-hold-stablecoins-the-case-for-and-against-c6a04a96180a?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-14T14:25:48.000Z",
           "wordCount": null,
-          "title": "Can Crypto Companies Outsource Compliance to AI?",
+          "title": "Will AI Agents Hold Stablecoins? The Case For and Against",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/01a0c71d0223",
-          "author": "Mark Timmis",
-          "description": "tl;dr\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/miscellany-01a0c71d0223?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-14T11:09:41.000Z",
-          "wordCount": null,
-          "title": "Miscellany.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ac3e068b1242",
-          "author": "Pawan Natekar | Devops | AWS | K8s | Linux",
-          "description": "You should try this\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/windows-built-this-tool-and-hid-it-from-you-the-entire-time-ac3e068b1242?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-14T11:08:02.000Z",
-          "wordCount": null,
-          "title": "Windows Built This Tool and hid it from you the entire time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/dd5b96dbbf73",
+          "id": "https://medium.com/p/315061bcff5a",
           "author": "Gary Howitt",
           "description": "",
-          "link": "https://medium.com/coinmonks/zec-breaks-1-000-why-wall-street-now-wants-privacy-coins-dd5b96dbbf73?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-14T11:06:49.000Z",
+          "link": "https://medium.com/coinmonks/bitcoins-halving-cycle-what-history-says-vs-what-s-different-this-time-315061bcff5a?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-14T14:25:19.000Z",
           "wordCount": null,
-          "title": "ZEC Breaks $1,000 — Why Wall Street Now Wants Privacy Coins",
+          "title": "Bitcoin’s Halving Cycle: What History Says vs. What’s Different This Time",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/bef7fca93cbd",
-          "author": "ileana gray",
+          "id": "https://medium.com/p/e284e8c2a3f7",
+          "author": "Sheni",
           "description": "",
-          "link": "https://medium.com/coinmonks/ethereum-is-quiet-at-2-500-but-the-bigger-story-is-happening-underneath-bef7fca93cbd?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-14T11:06:41.000Z",
+          "link": "https://medium.com/coinmonks/the-macro-inflation-flush-e284e8c2a3f7?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-14T14:25:07.000Z",
           "wordCount": null,
-          "title": "Ethereum Is Quiet at $2,500. But the Bigger Story Is Happening Underneath",
+          "title": "The Macro Inflation Flush",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/d63ae1ecef91",
-          "author": "Carey Talks",
+          "id": "https://medium.com/p/7f2e4eb8aadc",
+          "author": "QuillAudits - Web3 Security ️",
           "description": "",
-          "link": "https://medium.com/coinmonks/dao-vs-foundation-vs-company-three-ways-to-run-the-same-thing-d63ae1ecef91?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-14T11:06:29.000Z",
+          "link": "https://medium.com/coinmonks/notional-finance-1-73m-free-collateral-integer-overflow-exploit-explained-7f2e4eb8aadc?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-14T14:25:04.000Z",
           "wordCount": null,
-          "title": "DAO vs Foundation vs Company: Three Ways to Run the Same Thing",
+          "title": "Notional Finance $1.73M Free Collateral Integer Overflow Exploit (Explained)",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/e7d69dcb8275",
-          "author": "CryptoPassport",
+          "id": "https://medium.com/p/1c14160108d7",
+          "author": "QuillAudits - Web3 Security ️",
           "description": "",
-          "link": "https://medium.com/coinmonks/does-a-wallet-signature-prove-a-crypto-project-is-official-e7d69dcb8275?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-14T11:06:06.000Z",
+          "link": "https://medium.com/coinmonks/mayachain-1-7m-slash-subsidy-pool-inflation-exploit-explained-1c14160108d7?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-14T14:24:29.000Z",
           "wordCount": null,
-          "title": "Does a Wallet Signature Prove a Crypto Project Is Official?",
+          "title": "MAYAChain $1.7M Slash Subsidy Pool Inflation Exploit (Explained)",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/23c23096e1ff",
-          "author": "Anuj",
+          "id": "https://medium.com/p/b11632543bba",
+          "author": "Olivia Johnson",
           "description": "",
-          "link": "https://medium.com/coinmonks/bitcoin-in-defi-what-can-you-actually-do-with-it-in-2026-23c23096e1ff?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-14T11:05:36.000Z",
+          "link": "https://medium.com/coinmonks/crypto-wallet-business-launch-b11632543bba?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-14T14:23:55.000Z",
           "wordCount": null,
-          "title": "Bitcoin in DeFi: What Can You Actually Do With It in 2026",
+          "title": "$19.3B and Growing: What It Really Takes to Launch a Crypto Wallet Business in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/831ed86e1440",
+          "author": "Mark Timmis",
+          "description": "tl;dr\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/tokenisation-again-831ed86e1440?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-14T14:18:51.000Z",
+          "wordCount": null,
+          "title": "Tokenisation again.",
           "imageUrl": null
         }
       ]
