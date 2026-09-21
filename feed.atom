@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-21T05:56:35.704Z</id>
+    <id>urn:2026-09-21T12:10:11.575Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-21T05:56:35.704Z</updated>
+    <updated>2026-09-21T12:10:11.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A BIP-32 master fingerprint is four bytes. I collided one in 26 minutes on a desktop.]]></title>
+        <id>https://medium.com/p/1265e6e7ba41</id>
+        <link href="https://coinsbench.com/a-bip-32-master-fingerprint-is-four-bytes-i-collided-one-in-26-minutes-on-a-desktop-1265e6e7ba41?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-09-21T10:06:02.000Z</updated>
+        <author>
+            <name>Muhammad Azhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migration Guard]]></title>
+        <id>https://medium.com/p/ac283aee7347</id>
+        <link href="https://coinsbench.com/migration-guard-ac283aee7347?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-09-21T10:05:59.000Z</updated>
+        <author>
+            <name>Gracious Igwe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Paid in USDC? Why Web3 Contractors Lose Money (And How to Fix It)]]></title>
+        <id>https://medium.com/p/43b4895d48c8</id>
+        <link href="https://coinsbench.com/getting-paid-in-usdc-why-web3-contractors-lose-money-and-how-to-fix-it-43b4895d48c8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-09-21T10:05:55.000Z</updated>
+        <author>
+            <name>artofblockchain.club</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blockchain Infrastructure for RWA: The Rails Beneath the Tokenization Boom]]></title>
         <id>https://medium.com/p/b5dc5c23d340</id>
@@ -164,35 +191,6 @@ Continue reading on CoinsBench »]]></summary>
         <updated>2026-09-14T13:25:26.000Z</updated>
         <author>
             <name>Officer's Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My EIP-7702 finding said 28%. Counted by account, the same window says 21%.]]></title>
-        <id>https://medium.com/p/b8faa1f061f9</id>
-        <link href="https://coinsbench.com/my-eip-7702-finding-said-28-counted-by-account-the-same-window-says-21-b8faa1f061f9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-09-14T13:25:21.000Z</updated>
-        <summary type="html"><![CDATA[1,178 authorizations across 200 mainnet blocks were signed by 948 distinct accounts. I recovered every signer offline to find out which of…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Muhammad Azhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Checkout Page Is Under Attack Right Now (Probably)]]></title>
-        <id>https://medium.com/p/f3f40df71d17</id>
-        <link href="https://coinsbench.com/your-checkout-page-is-under-attack-right-now-probably-f3f40df71d17?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-09-13T21:01:01.000Z</updated>
-        <author>
-            <name>Prashant Thinks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prediction Markets Are Booming — Polyfox Lets Anyone Get In on the Action]]></title>
-        <id>https://medium.com/p/2e673c3183e9</id>
-        <link href="https://coinsbench.com/prediction-markets-are-booming-polyfox-lets-anyone-get-in-on-the-action-2e673c3183e9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-09-13T20:50:57.000Z</updated>
-        <author>
-            <name>Harshil Jani</name>
         </author>
     </entry>
 </feed>
