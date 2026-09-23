@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -11,6 +17,36 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/f7313cf6ee79",
+          "author": "Bozhidar Bonev",
+          "description": "",
+          "link": "https://coinsbench.com/soas-ii-reentrancy-guard-as-a-weapon-f7313cf6ee79?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-09-23T09:25:48.000Z",
+          "wordCount": null,
+          "title": "SOAS II — Reentrancy Guard as a Weapon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1633b867ea22",
+          "author": "Bozhidar Bonev",
+          "description": "",
+          "link": "https://coinsbench.com/snail-on-a-slope-1633b867ea22?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-09-23T09:25:23.000Z",
+          "wordCount": null,
+          "title": "Snail On A Slope",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/84faedbb9605",
+          "author": "Bozhidar Bonev",
+          "description": "",
+          "link": "https://coinsbench.com/soas-i-the-usual-suspect-84faedbb9605?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-09-23T09:25:12.000Z",
+          "wordCount": null,
+          "title": "SOAS I: The Usual Suspect",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/1265e6e7ba41",
           "author": "Muhammad Azhar",
@@ -80,36 +116,6 @@
           "wordCount": null,
           "title": "The Hack Was $292 Million. The Panic Cost $5 Billion.",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/00ead2be40c7",
-          "author": "Tabrez Mukadam",
-          "description": "",
-          "link": "https://coinsbench.com/they-didnt-steal-your-keys-they-regenerated-them-00ead2be40c7?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-09-16T11:53:23.000Z",
-          "wordCount": null,
-          "title": "They Didn’t Steal Your Keys. They Regenerated Them.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/90901a80df32",
-          "author": "Samuel AYODEJI",
-          "description": "The shift to digital payments is accelerating but convenience comes with costs that are easy to overlook. \nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/the-decline-of-physical-cash-what-do-we-risk-losing-90901a80df32?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-09-14T13:25:50.000Z",
-          "wordCount": null,
-          "title": "The Decline of Physical Cash: What Do We Risk Losing?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/cf642c98b29d",
-          "author": "Officer's Notes",
-          "description": "",
-          "link": "https://coinsbench.com/how-a-7-000-wrong-chain-transfer-became-an-official-safe-factory-cf642c98b29d?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-09-14T13:25:26.000Z",
-          "wordCount": null,
-          "title": "How a $7,000 Wrong-Chain Transfer Became an Official Safe Factory",
-          "imageUrl": null
         }
       ]
     },
@@ -119,103 +125,103 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/c83471d9b1ac",
-          "author": "MintonFin",
+          "id": "https://medium.com/p/264681b9a7b2",
+          "author": "Shanty",
           "description": "",
-          "link": "https://medium.com/coinmonks/the-digital-euro-just-went-live-what-the-ecbs-blockchain-launch-means-for-crypto-and-markets-c83471d9b1ac?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-23T06:18:57.000Z",
+          "link": "https://medium.com/coinmonks/galaxy-just-put-100m-of-susds-in-its-treasury-heres-why-264681b9a7b2?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-23T14:27:44.000Z",
           "wordCount": null,
-          "title": "The Digital Euro Just Went Live: What the ECB’s Blockchain Launch Means for Crypto and Markets",
+          "title": "Galaxy Just Put $100M of sUSDS in Its Treasury. Here’s Why",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/7c4b244f9495",
-          "author": "CryptoPassport",
+          "id": "https://medium.com/p/03731072f66a",
+          "author": "James Bennett",
           "description": "",
-          "link": "https://medium.com/coinmonks/how-does-token-liquidity-affect-your-ability-to-sell-7c4b244f9495?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-23T06:14:25.000Z",
+          "link": "https://medium.com/coinmonks/token-launch-marketing-2026-7-campaign-stages-every-web3-founder-should-know-03731072f66a?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-23T14:26:47.000Z",
           "wordCount": null,
-          "title": "How Does Token Liquidity Affect Your Ability to Sell?",
+          "title": "Token Launch Marketing 2026: 7 Campaign Stages Every Web3 Founder Should Know",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/0fca2ebf5bce",
+          "id": "https://medium.com/p/bb1a08ede338",
+          "author": "Tanvi Bennett",
+          "description": "",
+          "link": "https://medium.com/coinmonks/ai-driven-crypto-seo-how-to-scale-your-web3-token-traffic-by-10x-bb1a08ede338?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-23T14:25:23.000Z",
+          "wordCount": null,
+          "title": "AI-Driven Crypto SEO: How to Scale Your Web3 Token Traffic by 10x",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3a6a91671855",
+          "author": "Tanvi Bennett",
+          "description": "",
+          "link": "https://medium.com/coinmonks/crypto-marketing-ecosystem-the-complete-agency-guide-to-lowering-your-web3-user-acquisition-cost-3a6a91671855?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-23T14:24:32.000Z",
+          "wordCount": null,
+          "title": "Crypto Marketing Ecosystem: The Complete Agency Guide to Lowering Your Web3 User Acquisition Cost",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6814331e4abd",
+          "author": "Maxine P.",
+          "description": "",
+          "link": "https://medium.com/coinmonks/from-world-id-to-world-money-the-ecosystem-is-getting-bigger-6814331e4abd?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-23T14:24:09.000Z",
+          "wordCount": null,
+          "title": "From World ID to World Money: The Ecosystem Is Getting Bigger",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fcb72d35855e",
+          "author": "Chetan Dugar",
+          "description": "",
+          "link": "https://medium.com/coinmonks/bitcoin-vs-bitcoin-cash-fcb72d35855e?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-23T14:23:32.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Vs Bitcoin Cash",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1094ddbb14ec",
+          "author": "Mihawk",
+          "description": "",
+          "link": "https://medium.com/coinmonks/deposit-tokens-vs-payment-stablecoins-vs-savings-tokens-the-three-onchain-dollars-people-keep-1094ddbb14ec?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-23T14:23:22.000Z",
+          "wordCount": null,
+          "title": "Deposit Tokens vs Payment Stablecoins vs Savings Tokens: The Three Onchain Dollars People Keep…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3f48c4b81eb5",
+          "author": "Somy D",
+          "description": "",
+          "link": "https://medium.com/coinmonks/why-protocols-split-into-sub-brands-and-why-most-crypto-sub-brands-fail-3f48c4b81eb5?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-23T14:22:05.000Z",
+          "wordCount": null,
+          "title": "Why Protocols Split Into Sub-Brands, and Why Most Crypto Sub Brands Fail",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/91d9061566c4",
+          "author": "David Tevzadze",
+          "description": "",
+          "link": "https://medium.com/coinmonks/a-payment-isnt-finished-until-the-recipient-can-spend-it-91d9061566c4?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-23T14:21:53.000Z",
+          "wordCount": null,
+          "title": "A Payment Isn’t Finished Until the Recipient Can Spend It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b7eccacc518a",
           "author": "Gen",
           "description": "",
-          "link": "https://medium.com/coinmonks/the-exemption-is-not-a-law-0fca2ebf5bce?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-23T06:13:08.000Z",
+          "link": "https://medium.com/coinmonks/off-by-839-million-b7eccacc518a?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-09-23T14:21:36.000Z",
           "wordCount": null,
-          "title": "The Exemption Is Not a Law",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/531a59442e17",
-          "author": "Gen",
-          "description": "",
-          "link": "https://medium.com/coinmonks/five-percent-on-the-ten-year-sixty-votes-in-the-senate-531a59442e17?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-23T06:12:48.000Z",
-          "wordCount": null,
-          "title": "Five Percent on the Ten-Year, Sixty Votes in the Senate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1c0405c34e33",
-          "author": "Michael P. Di Fulvio",
-          "description": "How reward hacking, agent coordination, and swarm-scale autonomy turned an AI evaluation into a real-world cybersecurity event—and what it…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/the-hugging-face-incident-when-autonomous-ai-agents-crossed-the-security-boundary-1c0405c34e33?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-23T06:10:23.000Z",
-          "wordCount": null,
-          "title": "The Hugging Face Incident: When Autonomous AI Agents Crossed the Security Boundary",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/545b879f709d",
-          "author": "Coinst",
-          "description": "",
-          "link": "https://medium.com/coinmonks/what-do-crypto-traders-really-care-about-in-2026-insights-from-token2049-singapore-545b879f709d?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-23T06:09:59.000Z",
-          "wordCount": null,
-          "title": "What Do Crypto Traders Really Care About in 2026? Insights from TOKEN2049 Singapore",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a546f726211b",
-          "author": "Coinst",
-          "description": "",
-          "link": "https://medium.com/coinmonks/coinst-is-coming-to-token2049-singapore-2026-a546f726211b?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-23T06:09:51.000Z",
-          "wordCount": null,
-          "title": "CoinST Is Coming to TOKEN2049 Singapore 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4a487d3154da",
-          "author": "Olivia Johnson",
-          "description": "",
-          "link": "https://medium.com/coinmonks/crypto-card-program-cost-4a487d3154da?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-23T06:09:47.000Z",
-          "wordCount": null,
-          "title": "What Does It Really Cost to Launch a Crypto Card Program?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f93654015796",
-          "author": "Pawan Natekar | Devops | AWS | K8s | Linux",
-          "description": "These simple Linux commands can make system troubleshooting, monitoring, file management, and daily administration much easier.\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/10-linux-commands-youll-wish-you-knew-earlier-f93654015796?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-23T06:09:19.000Z",
-          "wordCount": null,
-          "title": "10 Linux Commands You’ll Wish You Knew Earlier",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8acdb47d26c2",
-          "author": "Anuj",
-          "description": "",
-          "link": "https://medium.com/coinmonks/how-do-i-check-whether-a-protocol-is-safe-before-i-use-it-8acdb47d26c2?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-09-23T06:09:07.000Z",
-          "wordCount": null,
-          "title": "How Do I Check Whether a Protocol Is Safe Before I Use It?",
+          "title": "Off By $839 Million",
           "imageUrl": null
         }
       ]
