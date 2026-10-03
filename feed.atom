@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-02T20:21:24.137Z</id>
+    <id>urn:2026-10-03T00:09:13.746Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-02T20:21:24.137Z</updated>
+    <updated>2026-10-03T00:09:13.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SOAS III — Hedge Sandwich with Two Signed Prices: Part II]]></title>
+        <id>https://medium.com/p/6f93c464a2ab</id>
+        <link href="https://coinsbench.com/soas-iii-hedge-sandwich-with-two-signed-prices-part-ii-6f93c464a2ab?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-10-02T20:46:01.000Z</updated>
+        <author>
+            <name>Bozhidar Bonev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EthHash PoW Consensus — Block building and the filling up of transactions]]></title>
         <id>https://medium.com/p/69fa9780b488</id>
@@ -182,15 +191,6 @@ Continue reading on CoinsBench »]]></summary>
 Continue reading on CoinsBench »]]></summary>
         <author>
             <name>Geoffrey Gardiner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dagger-Hashimoto EthHash — Mining a PoW Block from scratch and verifying it]]></title>
-        <id>https://medium.com/p/b91a827c8be9</id>
-        <link href="https://coinsbench.com/dagger-hashimoto-ethhash-mining-a-pow-block-from-scratch-and-verifying-it-b91a827c8be9?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-09-28T12:25:48.000Z</updated>
-        <author>
-            <name>pv</name>
         </author>
     </entry>
 </feed>
