@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-03T19:43:30.181Z</id>
+    <id>urn:2026-10-03T22:40:39.141Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-03T19:43:30.181Z</updated>
+    <updated>2026-10-03T22:40:39.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SOAS III — Hedge Sandwich with Two Signed Prices: Part I]]></title>
+        <id>https://medium.com/p/193791b1a149</id>
+        <link href="https://coinsbench.com/soas-iii-hedge-sandwich-with-two-signed-prices-part-i-193791b1a149?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-10-03T20:26:01.000Z</updated>
+        <author>
+            <name>Bozhidar Bonev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOAS III — Hedge Sandwich with Two Signed Prices: Part II]]></title>
         <id>https://medium.com/p/6f93c464a2ab</id>
@@ -180,17 +189,6 @@ Continue reading on CoinsBench »]]></summary>
         <updated>2026-09-30T11:42:54.000Z</updated>
         <author>
             <name>Tabrez Mukadam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin and Cognitive Dissonance]]></title>
-        <id>https://medium.com/p/244351cd1e7b</id>
-        <link href="https://coinsbench.com/bitcoin-and-cognitive-dissonance-244351cd1e7b?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-09-28T12:25:55.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin Prophecy and the End of Fiat Currency
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Geoffrey Gardiner</name>
         </author>
     </entry>
 </feed>

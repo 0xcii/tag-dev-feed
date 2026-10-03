@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,6 +11,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/193791b1a149",
+          "author": "Bozhidar Bonev",
+          "description": "",
+          "link": "https://coinsbench.com/soas-iii-hedge-sandwich-with-two-signed-prices-part-i-193791b1a149?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-10-03T20:26:01.000Z",
+          "wordCount": null,
+          "title": "SOAS III — Hedge Sandwich with Two Signed Prices: Part I",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/6f93c464a2ab",
           "author": "Bozhidar Bonev",
@@ -105,16 +109,6 @@
           "publishedOn": "2026-09-30T11:42:54.000Z",
           "wordCount": null,
           "title": "They Didn’t Break In. They Got Elected.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/244351cd1e7b",
-          "author": "Geoffrey Gardiner",
-          "description": "Bitcoin Prophecy and the End of Fiat Currency\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/bitcoin-and-cognitive-dissonance-244351cd1e7b?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-09-28T12:25:55.000Z",
-          "wordCount": null,
-          "title": "Bitcoin and Cognitive Dissonance",
           "imageUrl": null
         }
       ]
