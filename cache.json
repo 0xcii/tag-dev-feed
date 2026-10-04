@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "Crypto Market Pool",
+      "feedUrl": "https://cryptomarketpool.com/feed/",
+      "siteUrl": "https://cryptomarketpool.com/",
+      "articles": []
+    },
+    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -11,6 +17,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/2d32af9a6455",
+          "author": "Prashant Thinks",
+          "description": "",
+          "link": "https://coinsbench.com/regtech-for-payment-gateways-stop-treating-compliance-like-a-tax-2d32af9a6455?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-10-04T21:26:01.000Z",
+          "wordCount": null,
+          "title": "RegTech for Payment Gateways: Stop Treating Compliance Like a Tax",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/193791b1a149",
           "author": "Bozhidar Bonev",
@@ -99,16 +115,6 @@
           "publishedOn": "2026-09-30T11:44:37.000Z",
           "wordCount": null,
           "title": "The Payment Was Perfectly Approved. It Still Went to the Wrong Wallet.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/903f9953ba3e",
-          "author": "Tabrez Mukadam",
-          "description": "",
-          "link": "https://coinsbench.com/they-didnt-break-in-they-got-elected-903f9953ba3e?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-09-30T11:42:54.000Z",
-          "wordCount": null,
-          "title": "They Didn’t Break In. They Got Elected.",
           "imageUrl": null
         }
       ]
