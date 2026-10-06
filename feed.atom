@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-06T17:56:19.499Z</id>
+    <id>urn:2026-10-06T22:20:08.908Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-06T17:56:19.499Z</updated>
+    <updated>2026-10-06T22:20:08.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Infrastructure for Tokenization]]></title>
+        <id>https://medium.com/p/c3ab756a255c</id>
+        <link href="https://coinsbench.com/blockchain-infrastructure-for-tokenization-c3ab756a255c?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-10-06T19:46:01.000Z</updated>
+        <author>
+            <name>Christine Soliman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best Crypto MCP Servers for Blockchain Data Analysis in 2026]]></title>
         <id>https://medium.com/p/76d2433640d0</id>
@@ -176,17 +185,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-09-30T11:44:52.000Z</updated>
         <author>
             <name>Khalid | The Web3 Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The EIP-7702 contract I reverse-engineered had a verified source all along. It’s called Poisoner]]></title>
-        <id>https://medium.com/p/a18161618351</id>
-        <link href="https://coinsbench.com/the-eip-7702-contract-i-reverse-engineered-had-a-verified-source-all-along-its-called-poisoner-a18161618351?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-09-30T11:44:50.000Z</updated>
-        <summary type="html"><![CDATA[It took 47% of 7702 authorizations in 6.7 hours of mainnet and no account left it. I’d called it unverified and cut the row for leaving
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Muhammad Azhar</name>
         </author>
     </entry>
 </feed>
