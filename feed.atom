@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-11T20:47:57.101Z</id>
+    <id>urn:2026-10-12T00:13:16.625Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-11T20:47:57.101Z</updated>
+    <updated>2026-10-12T00:13:16.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NFTs and Web3 Commerce: Beyond the Hype Into the Checkout]]></title>
+        <id>https://medium.com/p/31e663491041</id>
+        <link href="https://coinsbench.com/nfts-and-web3-commerce-beyond-the-hype-into-the-checkout-31e663491041?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-10-11T21:11:01.000Z</updated>
+        <author>
+            <name>Christine Soliman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT Breaking News #41 — The Normies Become The Benchmark Of NFT Success]]></title>
         <id>https://medium.com/p/6f19720f3f8f</id>
@@ -178,15 +187,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-10-02T20:46:01.000Z</updated>
         <author>
             <name>Bozhidar Bonev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EthHash PoW Consensus — Block building and the filling up of transactions]]></title>
-        <id>https://medium.com/p/69fa9780b488</id>
-        <link href="https://coinsbench.com/ethhash-pow-consensus-block-building-and-the-filling-up-of-transactions-69fa9780b488?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-10-02T08:34:15.000Z</updated>
-        <author>
-            <name>pv</name>
         </author>
     </entry>
 </feed>
