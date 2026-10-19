@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,6 +11,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/f199f82c74bb",
+          "author": "Muhammad Azhar",
+          "description": "I pulled 200 mainnet blocks, disassembled 772 bytes of runtime code and found exactly one access check. Here is what it does, and the part…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/the-most-delegated-eip-7702-contract-on-ethereum-guards-itself-with-tx-origin-f199f82c74bb?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-10-19T11:02:19.000Z",
+          "wordCount": null,
+          "title": "The most-delegated EIP-7702 contract on Ethereum guards itself with tx.origin",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/090202344d69",
           "author": "Prashant Thinks",
@@ -106,16 +110,6 @@
           "wordCount": null,
           "title": "Proof of Humanity in Web3: What Are Crypto Projects Asking You to Prove?",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/aa9b397e2764",
-          "author": "Samuel AYODEJI",
-          "description": "",
-          "link": "https://coinsbench.com/what-does-it-actually-take-to-build-a-defi-product-aa9b397e2764?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-10-12T10:24:19.000Z",
-          "wordCount": null,
-          "title": "What Does It Actually Take to Build a DeFi Product?",
-          "imageUrl": null
         }
       ]
     },
@@ -125,103 +119,103 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
-          "id": "https://medium.com/p/d775f702366c",
-          "author": "Gursimar Singh",
-          "description": "The companies selling compute to the AI boom look like the safest bet in tech. Look under the hood and you find a debt machine running on…\nContinue reading on Coinmonks »",
-          "link": "https://medium.com/coinmonks/neoclouds-are-buying-shovels-on-credit-d775f702366c?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-10-14T13:02:11.000Z",
-          "wordCount": null,
-          "title": "Neoclouds Are Buying Shovels on Credit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/aacf6777c916",
-          "author": "ileana gray",
+          "id": "https://medium.com/p/2b44e6091e9d",
+          "author": "Leo Talks",
           "description": "",
-          "link": "https://medium.com/coinmonks/bitcoin-has-a-21-million-supply-limit-so-why-isnt-all-of-it-available-to-buy-aacf6777c916?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-10-14T13:01:49.000Z",
+          "link": "https://medium.com/coinmonks/europe-finally-has-a-euro-stablecoin-consortium-it-is-very-late-2b44e6091e9d?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-10-19T06:27:28.000Z",
           "wordCount": null,
-          "title": "Bitcoin Has a 21 Million Supply Limit. So Why Isn’t All of It Available to Buy?",
+          "title": "Europe Finally Has a Euro Stablecoin Consortium. It Is Very Late.",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/d4d6874693b6",
-          "author": "Quinn Donovan",
+          "id": "https://medium.com/p/69b7fdd8a31e",
+          "author": "Heidi",
           "description": "",
-          "link": "https://medium.com/coinmonks/how-to-reduce-user-acquisition-costs-for-crypto-startups-d4d6874693b6?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-10-14T13:00:07.000Z",
+          "link": "https://medium.com/coinmonks/exploring-the-benefits-and-limitations-of-running-your-own-blockchain-network-69b7fdd8a31e?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-10-19T06:26:36.000Z",
           "wordCount": null,
-          "title": "How to Reduce User Acquisition Costs for Crypto Startups",
+          "title": "Exploring the Benefits and Limitations of Running Your Own Blockchain Network",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/1aea741787ab",
-          "author": "Kkayaann",
+          "id": "https://medium.com/p/452f7f5a42ba",
+          "author": "Kevin Meneses González",
           "description": "",
-          "link": "https://medium.com/coinmonks/ten-million-in-stablecoins-three-million-untouchable-now-what-1aea741787ab?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-10-14T12:59:22.000Z",
+          "link": "https://medium.com/coinmonks/higgsfield-ai-7-features-that-are-insane-pricing-452f7f5a42ba?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-10-19T06:26:11.000Z",
           "wordCount": null,
-          "title": "Ten Million in Stablecoins, Three Million Untouchable. Now What?",
+          "title": "Higgsfield AI: 7 Features That Are Insane (+ Pricing)",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/c4187e734e53",
-          "author": "Prashant Thinks",
-          "description": "",
-          "link": "https://medium.com/coinmonks/who-holds-your-keys-inside-vasp-crypto-asset-custody-c4187e734e53?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-10-14T12:59:04.000Z",
-          "wordCount": null,
-          "title": "Who Holds Your Keys? Inside VASP Crypto Asset Custody",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8be4c4b5c759",
+          "id": "https://medium.com/p/7f4945f6f307",
           "author": "NordFX",
           "description": "",
-          "link": "https://medium.com/coinmonks/nordfx-crypto-news-of-the-week-more-stablecoins-more-bitcoin-buyers-8be4c4b5c759?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-10-14T12:58:52.000Z",
+          "link": "https://medium.com/coinmonks/nordfx-expert-view-us-inflation-heats-up-again-7f4945f6f307?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-10-19T06:25:45.000Z",
           "wordCount": null,
-          "title": "NordFX Crypto News of the Week: More Stablecoins ≠ More Bitcoin Buyers",
+          "title": "NordFX Expert View: US Inflation Heats Up Again",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/e987b9625226",
-          "author": "Oliek Orla",
-          "description": "",
-          "link": "https://medium.com/coinmonks/what-happens-if-institutions-allocate-1-to-bitcoin-e987b9625226?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-10-14T12:58:31.000Z",
+          "id": "https://medium.com/p/123cc87d72c2",
+          "author": "Chetan Dugar",
+          "description": "Anyone can launch a crypto card in a few weeks now.\nContinue reading on Coinmonks »",
+          "link": "https://medium.com/coinmonks/will-crypto-card-development-be-your-next-big-business-launch-in-2027-123cc87d72c2?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-10-19T06:24:53.000Z",
           "wordCount": null,
-          "title": "What Happens If Institutions Allocate 1% to Bitcoin?",
+          "title": "Will Crypto Card Development Be Your Next Big Business Launch in 2027?",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/985351b8d9c2",
-          "author": "Coinpedia",
+          "id": "https://medium.com/p/ddaa371168bb",
+          "author": "Fensory",
           "description": "",
-          "link": "https://medium.com/coinmonks/how-the-u-s-could-expand-its-bitcoin-reserve-without-spending-more-taxpayer-money-985351b8d9c2?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-10-14T12:56:36.000Z",
+          "link": "https://medium.com/coinmonks/why-order-submitted-does-not-mean-order-filled-ddaa371168bb?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-10-19T06:24:43.000Z",
           "wordCount": null,
-          "title": "How the U.S. Could Expand Its Bitcoin Reserve Without Spending More Taxpayer Money",
+          "title": "Why order submitted does not mean order filled",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/584cf5e9f152",
-          "author": "Noah D",
+          "id": "https://medium.com/p/1af950a999d9",
+          "author": "Muhammad Azhar",
           "description": "",
-          "link": "https://medium.com/coinmonks/stablecoin-card-spending-tripled-in-a-year-and-nobody-called-it-a-trend-584cf5e9f152?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-10-14T06:51:38.000Z",
+          "link": "https://medium.com/coinmonks/bdks-electrum-txid-check-took-171-days-to-ship-and-5-of-the-9-crates-using-it-can-t-get-it-1af950a999d9?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-10-19T06:24:36.000Z",
           "wordCount": null,
-          "title": "Stablecoin Card Spending Tripled in a Year and Nobody Called It a Trend",
+          "title": "BDK’s Electrum txid check took 171 days to ship, and 5 of the 9 crates using it can’t get it",
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/p/7cf9361c6669",
-          "author": "Carey Talks",
+          "id": "https://medium.com/p/be6d8be9f74d",
+          "author": "Franky_talks",
           "description": "",
-          "link": "https://medium.com/coinmonks/a-state-owned-bank-just-issued-its-own-stablecoin-ninety-banks-are-already-on-it-7cf9361c6669?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-10-14T06:51:32.000Z",
+          "link": "https://medium.com/coinmonks/twenty-one-banks-are-building-one-stablecoin-together-why-not-twenty-one-stablecoins-be6d8be9f74d?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-10-19T06:24:25.000Z",
           "wordCount": null,
-          "title": "A State-Owned Bank Just Issued Its Own Stablecoin. Ninety Banks Are Already On It.",
+          "title": "Twenty-One Banks Are Building One Stablecoin Together. Why Not Twenty-One Stablecoins?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d6f87213812c",
+          "author": "Gen",
+          "description": "",
+          "link": "https://medium.com/coinmonks/core-ran-hot-the-hike-became-a-coin-flip-d6f87213812c?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-10-19T06:24:06.000Z",
+          "wordCount": null,
+          "title": "Core Ran Hot. The Hike Became a Coin Flip.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a73a2a40052a",
+          "author": "Ethanwrites",
+          "description": "",
+          "link": "https://medium.com/coinmonks/your-payment-page-is-probably-breaking-the-law-heres-the-pci-dss-mistake-nobody-tells-you-about-a73a2a40052a?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-10-19T06:23:58.000Z",
+          "wordCount": null,
+          "title": "Your Payment Page Is Probably Breaking the Law. Here’s the PCI DSS Mistake Nobody Tells You About",
           "imageUrl": null
         }
       ]

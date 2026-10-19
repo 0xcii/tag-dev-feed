@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-19T05:43:02.167Z</id>
+    <id>urn:2026-10-19T12:07:27.020Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-19T05:43:02.167Z</updated>
+    <updated>2026-10-19T12:07:27.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The most-delegated EIP-7702 contract on Ethereum guards itself with tx.origin]]></title>
+        <id>https://medium.com/p/f199f82c74bb</id>
+        <link href="https://coinsbench.com/the-most-delegated-eip-7702-contract-on-ethereum-guards-itself-with-tx-origin-f199f82c74bb?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-10-19T11:02:19.000Z</updated>
+        <summary type="html"><![CDATA[I pulled 200 mainnet blocks, disassembled 772 bytes of runtime code and found exactly one access check. Here is what it does, and the part…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Muhammad Azhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europe Finally Has a Euro Stablecoin Consortium. It Is Very Late.]]></title>
+        <id>https://medium.com/p/2b44e6091e9d</id>
+        <link href="https://medium.com/coinmonks/europe-finally-has-a-euro-stablecoin-consortium-it-is-very-late-2b44e6091e9d?source=rss----721b17443fd5---4"/>
+        <updated>2026-10-19T06:27:28.000Z</updated>
+        <author>
+            <name>Leo Talks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Benefits and Limitations of Running Your Own Blockchain Network]]></title>
+        <id>https://medium.com/p/69b7fdd8a31e</id>
+        <link href="https://medium.com/coinmonks/exploring-the-benefits-and-limitations-of-running-your-own-blockchain-network-69b7fdd8a31e?source=rss----721b17443fd5---4"/>
+        <updated>2026-10-19T06:26:36.000Z</updated>
+        <author>
+            <name>Heidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higgsfield AI: 7 Features That Are Insane (+ Pricing)]]></title>
+        <id>https://medium.com/p/452f7f5a42ba</id>
+        <link href="https://medium.com/coinmonks/higgsfield-ai-7-features-that-are-insane-pricing-452f7f5a42ba?source=rss----721b17443fd5---4"/>
+        <updated>2026-10-19T06:26:11.000Z</updated>
+        <author>
+            <name>Kevin Meneses González</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NordFX Expert View: US Inflation Heats Up Again]]></title>
+        <id>https://medium.com/p/7f4945f6f307</id>
+        <link href="https://medium.com/coinmonks/nordfx-expert-view-us-inflation-heats-up-again-7f4945f6f307?source=rss----721b17443fd5---4"/>
+        <updated>2026-10-19T06:25:45.000Z</updated>
+        <author>
+            <name>NordFX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will Crypto Card Development Be Your Next Big Business Launch in 2027?]]></title>
+        <id>https://medium.com/p/123cc87d72c2</id>
+        <link href="https://medium.com/coinmonks/will-crypto-card-development-be-your-next-big-business-launch-in-2027-123cc87d72c2?source=rss----721b17443fd5---4"/>
+        <updated>2026-10-19T06:24:53.000Z</updated>
+        <summary type="html"><![CDATA[Anyone can launch a crypto card in a few weeks now.
+Continue reading on Coinmonks »]]></summary>
+        <author>
+            <name>Chetan Dugar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why order submitted does not mean order filled]]></title>
+        <id>https://medium.com/p/ddaa371168bb</id>
+        <link href="https://medium.com/coinmonks/why-order-submitted-does-not-mean-order-filled-ddaa371168bb?source=rss----721b17443fd5---4"/>
+        <updated>2026-10-19T06:24:43.000Z</updated>
+        <author>
+            <name>Fensory</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BDK’s Electrum txid check took 171 days to ship, and 5 of the 9 crates using it can’t get it]]></title>
+        <id>https://medium.com/p/1af950a999d9</id>
+        <link href="https://medium.com/coinmonks/bdks-electrum-txid-check-took-171-days-to-ship-and-5-of-the-9-crates-using-it-can-t-get-it-1af950a999d9?source=rss----721b17443fd5---4"/>
+        <updated>2026-10-19T06:24:36.000Z</updated>
+        <author>
+            <name>Muhammad Azhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twenty-One Banks Are Building One Stablecoin Together. Why Not Twenty-One Stablecoins?]]></title>
+        <id>https://medium.com/p/be6d8be9f74d</id>
+        <link href="https://medium.com/coinmonks/twenty-one-banks-are-building-one-stablecoin-together-why-not-twenty-one-stablecoins-be6d8be9f74d?source=rss----721b17443fd5---4"/>
+        <updated>2026-10-19T06:24:25.000Z</updated>
+        <author>
+            <name>Franky_talks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Core Ran Hot. The Hike Became a Coin Flip.]]></title>
+        <id>https://medium.com/p/d6f87213812c</id>
+        <link href="https://medium.com/coinmonks/core-ran-hot-the-hike-became-a-coin-flip-d6f87213812c?source=rss----721b17443fd5---4"/>
+        <updated>2026-10-19T06:24:06.000Z</updated>
+        <author>
+            <name>Gen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Payment Page Is Probably Breaking the Law. Here’s the PCI DSS Mistake Nobody Tells You About]]></title>
+        <id>https://medium.com/p/a73a2a40052a</id>
+        <link href="https://medium.com/coinmonks/your-payment-page-is-probably-breaking-the-law-heres-the-pci-dss-mistake-nobody-tells-you-about-a73a2a40052a?source=rss----721b17443fd5---4"/>
+        <updated>2026-10-19T06:23:58.000Z</updated>
+        <author>
+            <name>Ethanwrites</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Liquidity Aggregation]]></title>
         <id>https://medium.com/p/090202344d69</id>
@@ -33,104 +136,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neoclouds Are Buying Shovels on Credit]]></title>
-        <id>https://medium.com/p/d775f702366c</id>
-        <link href="https://medium.com/coinmonks/neoclouds-are-buying-shovels-on-credit-d775f702366c?source=rss----721b17443fd5---4"/>
-        <updated>2026-10-14T13:02:11.000Z</updated>
-        <summary type="html"><![CDATA[The companies selling compute to the AI boom look like the safest bet in tech. Look under the hood and you find a debt machine running on…
-Continue reading on Coinmonks »]]></summary>
-        <author>
-            <name>Gursimar Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Has a 21 Million Supply Limit. So Why Isn’t All of It Available to Buy?]]></title>
-        <id>https://medium.com/p/aacf6777c916</id>
-        <link href="https://medium.com/coinmonks/bitcoin-has-a-21-million-supply-limit-so-why-isnt-all-of-it-available-to-buy-aacf6777c916?source=rss----721b17443fd5---4"/>
-        <updated>2026-10-14T13:01:49.000Z</updated>
-        <author>
-            <name>ileana gray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Reduce User Acquisition Costs for Crypto Startups]]></title>
-        <id>https://medium.com/p/d4d6874693b6</id>
-        <link href="https://medium.com/coinmonks/how-to-reduce-user-acquisition-costs-for-crypto-startups-d4d6874693b6?source=rss----721b17443fd5---4"/>
-        <updated>2026-10-14T13:00:07.000Z</updated>
-        <author>
-            <name>Quinn Donovan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten Million in Stablecoins, Three Million Untouchable. Now What?]]></title>
-        <id>https://medium.com/p/1aea741787ab</id>
-        <link href="https://medium.com/coinmonks/ten-million-in-stablecoins-three-million-untouchable-now-what-1aea741787ab?source=rss----721b17443fd5---4"/>
-        <updated>2026-10-14T12:59:22.000Z</updated>
-        <author>
-            <name>Kkayaann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Holds Your Keys? Inside VASP Crypto Asset Custody]]></title>
-        <id>https://medium.com/p/c4187e734e53</id>
-        <link href="https://medium.com/coinmonks/who-holds-your-keys-inside-vasp-crypto-asset-custody-c4187e734e53?source=rss----721b17443fd5---4"/>
-        <updated>2026-10-14T12:59:04.000Z</updated>
-        <author>
-            <name>Prashant Thinks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NordFX Crypto News of the Week: More Stablecoins ≠ More Bitcoin Buyers]]></title>
-        <id>https://medium.com/p/8be4c4b5c759</id>
-        <link href="https://medium.com/coinmonks/nordfx-crypto-news-of-the-week-more-stablecoins-more-bitcoin-buyers-8be4c4b5c759?source=rss----721b17443fd5---4"/>
-        <updated>2026-10-14T12:58:52.000Z</updated>
-        <author>
-            <name>NordFX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens If Institutions Allocate 1% to Bitcoin?]]></title>
-        <id>https://medium.com/p/e987b9625226</id>
-        <link href="https://medium.com/coinmonks/what-happens-if-institutions-allocate-1-to-bitcoin-e987b9625226?source=rss----721b17443fd5---4"/>
-        <updated>2026-10-14T12:58:31.000Z</updated>
-        <author>
-            <name>Oliek Orla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the U.S. Could Expand Its Bitcoin Reserve Without Spending More Taxpayer Money]]></title>
-        <id>https://medium.com/p/985351b8d9c2</id>
-        <link href="https://medium.com/coinmonks/how-the-u-s-could-expand-its-bitcoin-reserve-without-spending-more-taxpayer-money-985351b8d9c2?source=rss----721b17443fd5---4"/>
-        <updated>2026-10-14T12:56:36.000Z</updated>
-        <author>
-            <name>Coinpedia</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Crypto Exchanges Get Liquidity]]></title>
         <id>https://medium.com/p/20acccd073ff</id>
         <link href="https://coinsbench.com/how-crypto-exchanges-get-liquidity-20acccd073ff?source=rss----f1cfd22cde3e---4"/>
         <updated>2026-10-14T10:26:39.000Z</updated>
         <author>
             <name>Laravinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoin Card Spending Tripled in a Year and Nobody Called It a Trend]]></title>
-        <id>https://medium.com/p/584cf5e9f152</id>
-        <link href="https://medium.com/coinmonks/stablecoin-card-spending-tripled-in-a-year-and-nobody-called-it-a-trend-584cf5e9f152?source=rss----721b17443fd5---4"/>
-        <updated>2026-10-14T06:51:38.000Z</updated>
-        <author>
-            <name>Noah D</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A State-Owned Bank Just Issued Its Own Stablecoin. Ninety Banks Are Already On It.]]></title>
-        <id>https://medium.com/p/7cf9361c6669</id>
-        <link href="https://medium.com/coinmonks/a-state-owned-bank-just-issued-its-own-stablecoin-ninety-banks-are-already-on-it-7cf9361c6669?source=rss----721b17443fd5---4"/>
-        <updated>2026-10-14T06:51:32.000Z</updated>
-        <author>
-            <name>Carey Talks</name>
         </author>
     </entry>
     <entry>
@@ -174,15 +185,6 @@ Continue reading on Coinmonks »]]></summary>
         <id>https://medium.com/p/96dc8d59aabb</id>
         <link href="https://coinsbench.com/proof-of-humanity-in-web3-what-are-crypto-projects-asking-you-to-prove-96dc8d59aabb?source=rss----f1cfd22cde3e---4"/>
         <updated>2026-10-12T10:24:22.000Z</updated>
-        <author>
-            <name>Samuel AYODEJI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does It Actually Take to Build a DeFi Product?]]></title>
-        <id>https://medium.com/p/aa9b397e2764</id>
-        <link href="https://coinsbench.com/what-does-it-actually-take-to-build-a-defi-product-aa9b397e2764?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-10-12T10:24:19.000Z</updated>
         <author>
             <name>Samuel AYODEJI</name>
         </author>
