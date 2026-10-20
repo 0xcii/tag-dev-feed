@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-20T18:20:00.856Z</id>
+    <id>urn:2026-10-20T22:05:22.743Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-20T18:20:00.856Z</updated>
+    <updated>2026-10-20T22:05:22.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building an MEV-Protected WebSocket Arbitrage Scanner on Base: A Technical Deep Dive]]></title>
+        <id>https://medium.com/p/e6eb85a024c3</id>
+        <link href="https://coinsbench.com/building-an-mev-protected-websocket-arbitrage-scanner-on-base-a-technical-deep-dive-e6eb85a024c3?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-10-20T21:26:02.000Z</updated>
+        <author>
+            <name>rdin777</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The most-delegated EIP-7702 contract on Ethereum guards itself with tx.origin]]></title>
         <id>https://medium.com/p/f199f82c74bb</id>
@@ -178,15 +187,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-10-12T10:24:29.000Z</updated>
         <author>
             <name>Officer's Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proof of Humanity in Web3: What Are Crypto Projects Asking You to Prove?]]></title>
-        <id>https://medium.com/p/96dc8d59aabb</id>
-        <link href="https://coinsbench.com/proof-of-humanity-in-web3-what-are-crypto-projects-asking-you-to-prove-96dc8d59aabb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-10-12T10:24:22.000Z</updated>
-        <author>
-            <name>Samuel AYODEJI</name>
         </author>
     </entry>
 </feed>
