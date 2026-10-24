@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-24T20:12:40.136Z</id>
+    <id>urn:2026-10-24T22:53:35.927Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-24T20:12:40.136Z</updated>
+    <updated>2026-10-24T22:53:35.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SOAS V — 100 000 Chickens vs 1 T-Rex]]></title>
+        <id>https://medium.com/p/8a98ee588ef9</id>
+        <link href="https://coinsbench.com/soas-v-100-000-chickens-vs-1-t-rex-8a98ee588ef9?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-10-24T22:06:01.000Z</updated>
+        <author>
+            <name>Bozhidar Bonev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Transition from TradFi to Web3: Why Your Banking Resume is Getting Ignored]]></title>
         <id>https://medium.com/p/3c95a9765747</id>
@@ -177,15 +186,6 @@ Continue reading on CoinsBench »]]></summary>
         <updated>2026-10-12T10:24:37.000Z</updated>
         <author>
             <name>ZkMarc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Solidity contracts end in the byte for CALLER. My opcode census counted it as code]]></title>
-        <id>https://medium.com/p/aa2926274767</id>
-        <link href="https://coinsbench.com/most-solidity-contracts-end-in-the-byte-for-caller-my-opcode-census-counted-it-as-code-aa2926274767?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-10-12T10:24:32.000Z</updated>
-        <author>
-            <name>Muhammad Azhar</name>
         </author>
     </entry>
 </feed>
