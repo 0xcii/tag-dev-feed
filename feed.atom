@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-25T18:06:47.611Z</id>
+    <id>urn:2026-10-25T21:25:13.873Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-25T18:06:47.611Z</updated>
+    <updated>2026-10-25T21:25:13.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Custom Slither Detector for CEX Interface Security]]></title>
+        <id>https://medium.com/p/cdd1a6147e60</id>
+        <link href="https://coinsbench.com/building-a-custom-slither-detector-for-cex-interface-security-cdd1a6147e60?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-10-25T21:06:01.000Z</updated>
+        <author>
+            <name>rdin777</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOAS V — 100 000 Chickens vs 1 T-Rex]]></title>
         <id>https://medium.com/p/8a98ee588ef9</id>
@@ -177,15 +186,6 @@ Continue reading on CoinsBench »]]></summary>
         <updated>2026-10-13T07:36:01.000Z</updated>
         <author>
             <name>Harshil Jani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trading Fees Have Bought $1.5 Million of Tokenized Stocks, Mostly AI]]></title>
-        <id>https://medium.com/p/aecf768cdf88</id>
-        <link href="https://coinsbench.com/trading-fees-have-bought-1-5-million-of-tokenized-stocks-mostly-ai-aecf768cdf88?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-10-12T10:24:37.000Z</updated>
-        <author>
-            <name>ZkMarc</name>
         </author>
     </entry>
 </feed>
