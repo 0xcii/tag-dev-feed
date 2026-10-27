@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-27T19:15:15.158Z</id>
+    <id>urn:2026-10-27T23:29:09.561Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-27T19:15:15.158Z</updated>
+    <updated>2026-10-27T23:29:09.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Risk Management: How to Protect Your Crypto When No One Is Watching Your Back]]></title>
+        <id>https://medium.com/p/21eb87c0d6ad</id>
+        <link href="https://coinsbench.com/defi-risk-management-how-to-protect-your-crypto-when-no-one-is-watching-your-back-21eb87c0d6ad?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-10-27T21:26:01.000Z</updated>
+        <author>
+            <name>Christine Soliman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Is Becoming the Distribution Layer for Tokenized Assets]]></title>
         <id>https://medium.com/p/d511ba98e435</id>
@@ -178,15 +187,6 @@ Continue reading on CoinsBench »]]></summary>
         <updated>2026-10-16T09:14:20.000Z</updated>
         <author>
             <name>Adjust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Crypto Exchanges Get Liquidity]]></title>
-        <id>https://medium.com/p/20acccd073ff</id>
-        <link href="https://coinsbench.com/how-crypto-exchanges-get-liquidity-20acccd073ff?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-10-14T10:26:39.000Z</updated>
-        <author>
-            <name>Laravinson</name>
         </author>
     </entry>
 </feed>
