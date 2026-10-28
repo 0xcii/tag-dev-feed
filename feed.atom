@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-28T10:28:24.847Z</id>
+    <id>urn:2026-10-28T16:59:19.643Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-28T10:28:24.847Z</updated>
+    <updated>2026-10-28T16:59:19.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smart contract monitoring in 5 minutes: what to watch and how to set it up]]></title>
+        <id>https://medium.com/p/1a37f0c7708b</id>
+        <link href="https://coinsbench.com/smart-contract-monitoring-in-5-minutes-what-to-watch-and-how-to-set-it-up-1a37f0c7708b?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-10-28T14:15:03.000Z</updated>
+        <author>
+            <name>Aleksei Nazarov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hidden Economics of Asset Tokenization: What It Actually Costs to Bring $100 Million in Assets…]]></title>
         <id>https://medium.com/p/dbe29d34fdc1</id>
@@ -180,15 +189,6 @@ Continue reading on CoinsBench »]]></summary>
         <updated>2026-10-17T21:26:01.000Z</updated>
         <author>
             <name>Bozhidar Bonev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Dune Queries to Autonomous Blockchain Intelligence]]></title>
-        <id>https://medium.com/p/a76f0272b56e</id>
-        <link href="https://coinsbench.com/from-dune-queries-to-autonomous-blockchain-intelligence-a76f0272b56e?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-10-16T09:14:20.000Z</updated>
-        <author>
-            <name>Adjust</name>
         </author>
     </entry>
 </feed>
