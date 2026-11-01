@@ -18,6 +18,16 @@
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
         {
+          "id": "https://medium.com/p/ccf72de43623",
+          "author": "Ifeanyi Francis",
+          "description": "Blockchain enables strangers to trust a shared record without a central gatekeeper. Smart contracts turn that shared record into automated…\nContinue reading on CoinsBench »",
+          "link": "https://coinsbench.com/smart-contracts-and-the-blockchain-that-powers-them-ccf72de43623?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-11-01T20:31:01.000Z",
+          "wordCount": null,
+          "title": "Smart Contracts and the Blockchain That Powers Them",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/88e945273c22",
           "author": "Prashant Thinks",
           "description": "",
@@ -105,16 +115,6 @@
           "publishedOn": "2026-10-20T21:26:02.000Z",
           "wordCount": null,
           "title": "Building an MEV-Protected WebSocket Arbitrage Scanner on Base: A Technical Deep Dive",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f199f82c74bb",
-          "author": "Muhammad Azhar",
-          "description": "I pulled 200 mainnet blocks, disassembled 772 bytes of runtime code and found exactly one access check. Here is what it does, and the part…\nContinue reading on CoinsBench »",
-          "link": "https://coinsbench.com/the-most-delegated-eip-7702-contract-on-ethereum-guards-itself-with-tx-origin-f199f82c74bb?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-10-19T11:02:19.000Z",
-          "wordCount": null,
-          "title": "The most-delegated EIP-7702 contract on Ethereum guards itself with tx.origin",
           "imageUrl": null
         }
       ]

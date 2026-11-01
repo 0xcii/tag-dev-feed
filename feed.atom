@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-01T17:38:16.935Z</id>
+    <id>urn:2026-11-01T21:41:35.415Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-01T17:38:16.935Z</updated>
+    <updated>2026-11-01T21:41:35.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smart Contracts and the Blockchain That Powers Them]]></title>
+        <id>https://medium.com/p/ccf72de43623</id>
+        <link href="https://coinsbench.com/smart-contracts-and-the-blockchain-that-powers-them-ccf72de43623?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-11-01T20:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain enables strangers to trust a shared record without a central gatekeeper. Smart contracts turn that shared record into automated…
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>Ifeanyi Francis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase and Kraken own 22% of crypto’s AI answers. Here’s how smaller projects get in]]></title>
         <id>https://medium.com/p/f2ecb0326657</id>
@@ -176,17 +187,6 @@ Continue reading on Coinmonks »]]></summary>
         <updated>2026-10-20T21:26:02.000Z</updated>
         <author>
             <name>rdin777</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The most-delegated EIP-7702 contract on Ethereum guards itself with tx.origin]]></title>
-        <id>https://medium.com/p/f199f82c74bb</id>
-        <link href="https://coinsbench.com/the-most-delegated-eip-7702-contract-on-ethereum-guards-itself-with-tx-origin-f199f82c74bb?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-10-19T11:02:19.000Z</updated>
-        <summary type="html"><![CDATA[I pulled 200 mainnet blocks, disassembled 772 bytes of runtime code and found exactly one access check. Here is what it does, and the part…
-Continue reading on CoinsBench »]]></summary>
-        <author>
-            <name>Muhammad Azhar</name>
         </author>
     </entry>
 </feed>
