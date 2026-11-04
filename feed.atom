@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-04T02:54:24.558Z</id>
+    <id>urn:2026-11-04T10:28:15.804Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-04T02:54:24.558Z</updated>
+    <updated>2026-11-04T10:28:15.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Binance Lost $6.3B. The Harder Question Is Who Can Still Move What’s Left]]></title>
+        <id>https://medium.com/p/8fc9c01be618</id>
+        <link href="https://coinsbench.com/binance-lost-6-3b-the-harder-question-is-who-can-still-move-whats-left-8fc9c01be618?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-11-04T03:00:27.000Z</updated>
+        <author>
+            <name>Web3 in Three Minutes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Israel Voted For Deadlock, Oil Bought The Strike]]></title>
         <id>https://medium.com/p/ef370c8befc4</id>
@@ -178,15 +187,6 @@ Continue reading on CoinsBench »]]></summary>
         <updated>2026-10-23T08:24:59.000Z</updated>
         <author>
             <name>artofblockchain.club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an MEV-Protected WebSocket Arbitrage Scanner on Base: A Technical Deep Dive]]></title>
-        <id>https://medium.com/p/e6eb85a024c3</id>
-        <link href="https://coinsbench.com/building-an-mev-protected-websocket-arbitrage-scanner-on-base-a-technical-deep-dive-e6eb85a024c3?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-10-20T21:26:02.000Z</updated>
-        <author>
-            <name>rdin777</name>
         </author>
     </entry>
 </feed>
