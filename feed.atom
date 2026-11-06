@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-06T03:09:25.363Z</id>
+    <id>urn:2026-11-06T11:48:41.813Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-06T03:09:25.363Z</updated>
+    <updated>2026-11-06T11:48:41.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Complete Pump.fun Automated Trading Bot]]></title>
+        <id>https://medium.com/p/1d13940d9b18</id>
+        <link href="https://coinsbench.com/a-complete-pump-fun-automated-trading-bot-1d13940d9b18?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-11-06T09:48:49.000Z</updated>
+        <summary type="html"><![CDATA[The Architecture: Two Connected Loops
+Continue reading on CoinsBench »]]></summary>
+        <author>
+            <name>MaxTalks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The test that can’t fail: how to check a swap formula when you don’t know the right answer]]></title>
         <id>https://medium.com/p/b129a3d55ca5</id>
@@ -187,15 +198,6 @@ Continue reading on CoinsBench »]]></summary>
         <updated>2026-10-24T22:06:01.000Z</updated>
         <author>
             <name>Bozhidar Bonev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Transition from TradFi to Web3: Why Your Banking Resume is Getting Ignored]]></title>
-        <id>https://medium.com/p/3c95a9765747</id>
-        <link href="https://coinsbench.com/how-to-transition-from-tradfi-to-web3-why-your-banking-resume-is-getting-ignored-3c95a9765747?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-10-23T08:24:59.000Z</updated>
-        <author>
-            <name>artofblockchain.club</name>
         </author>
     </entry>
 </feed>
