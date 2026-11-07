@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-07T17:25:28.809Z</id>
+    <id>urn:2026-11-07T21:27:15.912Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-07T17:25:28.809Z</updated>
+    <updated>2026-11-07T21:27:15.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Your Next Customer Won’t Have a Wallet]]></title>
+        <id>https://medium.com/p/13f258dd8bc8</id>
+        <link href="https://coinsbench.com/your-next-customer-wont-have-a-wallet-13f258dd8bc8?source=rss----f1cfd22cde3e---4"/>
+        <updated>2026-11-07T21:01:01.000Z</updated>
+        <author>
+            <name>Prashant Thinks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOAS V1 — The money-changers who can neither be expelled from temple nor rewarded: Part 1]]></title>
         <id>https://medium.com/p/a23c8d3cc125</id>
@@ -187,15 +196,6 @@ Continue reading on CoinsBench »]]></summary>
         <updated>2026-10-26T11:27:02.000Z</updated>
         <author>
             <name>Muhammad Azhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Custom Slither Detector for CEX Interface Security]]></title>
-        <id>https://medium.com/p/cdd1a6147e60</id>
-        <link href="https://coinsbench.com/building-a-custom-slither-detector-for-cex-interface-security-cdd1a6147e60?source=rss----f1cfd22cde3e---4"/>
-        <updated>2026-10-25T21:06:01.000Z</updated>
-        <author>
-            <name>rdin777</name>
         </author>
     </entry>
 </feed>
