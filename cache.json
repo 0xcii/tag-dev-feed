@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Crypto Market Pool",
-      "feedUrl": "https://cryptomarketpool.com/feed/",
-      "siteUrl": "https://cryptomarketpool.com/",
-      "articles": []
-    },
-    {
       "title": "cryptomaton",
       "feedUrl": "https://www.cryptomaton.org/feed/",
       "siteUrl": "https://www.cryptomaton.org/",
@@ -17,6 +11,16 @@
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/a026541857ce",
+          "author": "Christine Soliman",
+          "description": "",
+          "link": "https://coinsbench.com/bitcoin-layer-2-networks-giving-the-worlds-most-secure-blockchain-a-second-gear-a026541857ce?source=rss----f1cfd22cde3e---4",
+          "publishedOn": "2026-11-12T21:17:01.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Layer-2 Networks: Giving the World’s Most Secure Blockchain a Second Gear",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/c692d2501b1c",
           "author": "rdin777",
@@ -105,16 +109,6 @@
           "publishedOn": "2026-10-28T14:15:03.000Z",
           "wordCount": null,
           "title": "Smart contract monitoring in 5 minutes: what to watch and how to set it up",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/21eb87c0d6ad",
-          "author": "Christine Soliman",
-          "description": "",
-          "link": "https://coinsbench.com/defi-risk-management-how-to-protect-your-crypto-when-no-one-is-watching-your-back-21eb87c0d6ad?source=rss----f1cfd22cde3e---4",
-          "publishedOn": "2026-10-27T21:26:01.000Z",
-          "wordCount": null,
-          "title": "DeFi Risk Management: How to Protect Your Crypto When No One Is Watching Your Back",
           "imageUrl": null
         }
       ]
