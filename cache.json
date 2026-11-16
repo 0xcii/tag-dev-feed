@@ -7,12 +7,6 @@
       "articles": []
     },
     {
-      "title": "cryptomaton",
-      "feedUrl": "https://www.cryptomaton.org/feed/",
-      "siteUrl": "https://www.cryptomaton.org/",
-      "articles": []
-    },
-    {
       "title": "CoinsBench - Medium",
       "feedUrl": "https://coinsbench.com/feed",
       "siteUrl": "https://coinsbench.com?source=rss----f1cfd22cde3e---4",
@@ -125,6 +119,16 @@
       "siteUrl": "https://medium.com/coinmonks?source=rss----721b17443fd5---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a8be4d8c7593",
+          "author": "Alex Miller",
+          "description": "",
+          "link": "https://medium.com/coinmonks/fiat-to-crypto-payment-gateway-8-providers-compared-on-fees-kyc-and-payout-speed-2027-a8be4d8c7593?source=rss----721b17443fd5---4",
+          "publishedOn": "2026-11-16T12:39:47.000Z",
+          "wordCount": null,
+          "title": "Fiat to Crypto Payment Gateway: 8 Providers Compared on Fees, KYC and Payout Speed (2027)",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/fdb9782b998a",
           "author": "Coinmonks Team",
           "description": "",
@@ -212,16 +216,6 @@
           "publishedOn": "2026-11-13T12:11:10.000Z",
           "wordCount": null,
           "title": "Settlement as a Liquidity Tool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c83ce05196b3",
-          "author": "Gaya Chandrasekaran",
-          "description": "",
-          "link": "https://medium.com/coinmonks/repos-collateral-and-the-future-of-financial-market-infrastructure-c83ce05196b3?source=rss----721b17443fd5---4",
-          "publishedOn": "2026-11-13T12:11:00.000Z",
-          "wordCount": null,
-          "title": "Repos, Collateral and the Future of Financial Market Infrastructure",
           "imageUrl": null
         }
       ]
